@@ -49,13 +49,12 @@ It's like having your own strategy room of champions, always ready to brainstorm
 ├── character-context.txt       # Character training data
 ├── media/                      # Visual assets
 │   ├── avatar-png/             # 2D character avatars
-│   ├── characters/             # Character design assets by project
+│   ├── avatars/                # Character design assets by project
+│   │   ├── [avatar]/           # Individual character folders with assets
+│   │   └── [avatar].glb        # Optimized models for web
 │   ├── chatgpt/                # Transition scenes
 │   └── unreal/                 # Environment screenshots
 ├── models/                     # 3D assets
-│   ├── avatars/                # Character models with animations
-│   │   ├── [Character]/        # Individual character folders with animations
-│   │   └── [character].glb     # Optimized models for web
 │   └── jedi_council_baked.glb  # Council chamber environment
 └── README.md                   # Project documentation
 ```

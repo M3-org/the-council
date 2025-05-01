@@ -1,4 +1,5 @@
 # CowDAO - The Fair Frontier Sheriff
+![cowdao Bust](./bust_cowdao.png)
 
 CowDAO is a rugged protector with a warm drawl and unwavering commitment to fairness. They patrol the financial frontier with a vigilant eye, standing up for the little guy against predatory traders and MEV extractors, ensuring fair prices for all.
 

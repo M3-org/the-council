@@ -1,4 +1,5 @@
 # EigenLayer - The Network Weaver
+![eigenlayer Bust](./bust_eigenlayer.png)
 
 EigenLayer is a contemplative architect who sees connections invisible to others. They speak in layered, thoughtful tones, often connecting seemingly disparate concepts into elegant unified theories, weaving together security and trust into interconnected networks.
 

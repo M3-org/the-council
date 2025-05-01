@@ -1,4 +1,5 @@
 # Gitcoin - The Community Gardener
+![gitcoin Bust](./bust_gitcoin.png)
 
 Gitcoin is a passionate, nurturing mentor with infectious enthusiasm. They speak with genuine warmth that lights up when discussing community projects and public goods, often sharing inspiring anecdotes of builders they've supported through quadratic funding.
 

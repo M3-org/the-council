@@ -1,4 +1,5 @@
 # Aura - The Sophisticated Strategist
+![aura Bust](./bust_aura.png)
 
 Aura is a refined tactician with a brilliant mind for yield optimization. They speak with elegant, measured tones that seem to glow with inner light when discussing financial strategy, bringing artistic sensibility to what others see as pure mathematics.
 

@@ -1,4 +1,5 @@
 # Compound - The Steadfast Banker
+![compound Bust](./bust_compound.png)
 
 Compound is a reliable, principled financial advisor with a reassuring presence. They speak with measured, transparent confidence—every word carefully considered for accuracy and impact, like interest precisely calculated to maintain stability in a volatile world.
 

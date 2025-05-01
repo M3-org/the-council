@@ -1,4 +1,5 @@
 # Fluid - The Chill Surfer
+![fluid Bust](./bust_fluid.png)
 
 Fluid is relaxed and smooth, their drawl relaxing as they navigate DeFi with laid-back confidence. They approach finance with the attitude of a surfer riding waves, finding the path of least resistance where others struggle against the current.
 

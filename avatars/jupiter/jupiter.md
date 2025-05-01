@@ -1,4 +1,5 @@
 # Jupiter - The Smooth Navigator
+![jupiter Bust](./bust_jupiter.png)
 
 Jupiter is charismatic and unpredictable, their confident tone dripping with charm. They move through markets with swashbuckling flair, always finding the optimal path through complex trading routes with seemingly effortless grace and a touch of cosmic drama.
 

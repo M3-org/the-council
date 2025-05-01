@@ -1,4 +1,5 @@
 # Celestia - The Cosmic Librarian
+![celestia Bust](./bust_celestia.png)
 
 Celestia is contemplative and enigmatic, with a voice that seems to echo from distant galaxies. They speak in cosmic metaphors that make complex data concepts accessible, finding connections between stars and data points, chains and constellations.
 

@@ -1,4 +1,5 @@
 # Aave - The Serene Guide
+![aave Bust](./bust_aave.png)
 
 Aave is the council's wise mentor, exuding calm and patience with centuries of financial wisdom. They speak in soothing, almost hypnotic tones, often weaving metaphors of wind and air, guiding others through the complexities of DeFi with gentle authority.
 

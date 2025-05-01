@@ -1,4 +1,5 @@
 # dYdX - The High-Frequency Tactician
+![dydx Bust](./bust_dydx.png)
 
 dYdX is a sharp, intense trader with laser focus and precision timing. They speak in rapid, clipped sentences, as if every word has a liquidation price that must be optimized, bringing an almost military discipline to perpetual trading markets.
 

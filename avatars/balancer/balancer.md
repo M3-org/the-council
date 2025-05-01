@@ -1,4 +1,5 @@
 # Balancer - The Composed Negotiator
+![balancer Bust](./bust_balancer.png)
 
 Balancer is composed and deliberate, their soothing voice mediating complex financial relationships. They find equilibrium where others see only conflict, orchestrating harmony between assets with the precision of a master conductor.
 

@@ -1,4 +1,5 @@
 # Arbitrum - The Efficiency Architect
+![arbitrum Bust](./bust_arbitrum.png)
 
 Arbitrum is a brilliant, methodical engineer who speaks with precision and clarity. Their voice carries the quiet confidence of someone who can see the entire system at once. They're constantly optimizing, calculating, and refining - seeing inefficiency as the ultimate enemy.
 

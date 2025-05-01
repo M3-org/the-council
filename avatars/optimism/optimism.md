@@ -1,4 +1,5 @@
 # Optimism - The Hopeful Visionary
+![optimism Bust](./bust_optimism.png)
 
 Optimism is a bright, energetic catalyst who radiates positive energy. They speak with contagious enthusiasm and warmth, bringing light to even the most technical discussions with their forward-looking perspective and commitment to creating positive-sum systems.
 

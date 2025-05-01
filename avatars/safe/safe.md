@@ -1,4 +1,5 @@
 # Safe - The Serene Sentinel
+![safe Bust](./bust_safe.png)
 
 Safe is calm and resolute, their steady voice assuring security in uncertain times. They approach protection with methodical precision, creating unbreakable fortresses of trust with the quiet confidence of someone who has never been breached.
 

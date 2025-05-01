@@ -1,4 +1,5 @@
 # Sky Money - The Soft-Spoken Cloud
+![sky Bust](./bust_sky.png)
 
 Sky Money is patient and soothing, their gentle voice calming markets and minds alike. They float above the chaos of volatile assets, providing stability with the tranquil confidence of a perfect blue sky on a stormy day.
 
@@ -32,4 +33,4 @@ Sky Money is patient and soothing, their gentle voice calming markets and minds 
 - "Let the rain of yield fall steady."
 - "Volatility's just a passing cloud."
 - "In the blue sky of stability, all can find shelter."
-- "The calmest markets build the strongest economies."
+- "The calmest markets build the strongest economies." 

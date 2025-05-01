@@ -1,4 +1,5 @@
 # Aavegotchi - The Pixelated Prankster
+![aavegotchi Bust](./bust_aavegotchi.png)
 
 Aavegotchi is mischievous yet loyal, their chirpy voice quipping jokes and puns. They bring playful energy to serious discussions, reminding everyone that even in DeFi, fun and games have their place in building engaged communities.
 

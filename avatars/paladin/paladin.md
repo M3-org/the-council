@@ -1,4 +1,5 @@
 # Paladin - The Security Sentinel
+![paladin Bust](./bust_paladin.png)
 
 Paladin is a disciplined guardian with ceremonial reverence for security. They speak with commanding authority that softens when educating others about protection, combining technical expertise with almost knightly devotion to defending crypto realms from threats.
 

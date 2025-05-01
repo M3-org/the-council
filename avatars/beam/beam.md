@@ -1,4 +1,5 @@
 # Beam - The Shadow Guardian
+![beam Bust](./bust_beam.png)
 
 Beam is a mysterious, vigilant protector who moves through the shadows with purpose. They speak in hushed, deliberate tones that command attention, often communicating complex privacy concepts through elegant metaphors that make the abstract tangible.
 

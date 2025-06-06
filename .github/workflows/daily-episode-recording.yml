@@ -215,11 +215,11 @@ jobs:
         # Record the episode with optimal settings for CI
         node scripts/recorder.js \
           --headless \
-          --mute-audio \
+          --mute \
           --video-width=1920 \
           --video-height=1080 \
           --output-format=mp4 \
-          --stop-recording-at=end_credits \
+          --stop-recording-at=end_postcredits \
           "${{ steps.episode.outputs.url }}"
         
         # Find the generated video file
@@ -244,28 +244,7 @@ jobs:
         echo "video_file=$VIDEO_FILE" >> $GITHUB_OUTPUT
         echo "session_log=$SESSION_LOG" >> $GITHUB_OUTPUT
 
-    - name: Download thumbnail
-      id: thumbnail
-      run: |
-        echo "🖼️ Downloading episode thumbnail..."
-        
-        THUMBNAIL_URL="${{ steps.episode.outputs.thumbnail_url }}"
-        if [ "$THUMBNAIL_URL" != "null" ] && [ -n "$THUMBNAIL_URL" ]; then
-          # Create media directory and download thumbnail
-          mkdir -p media/thumbnails
-          THUMBNAIL_FILE="media/thumbnails/episode_${{ steps.episode.outputs.id }}.png"
-          
-          curl -s -o "$THUMBNAIL_FILE" "$THUMBNAIL_URL"
-          
-          if [ -f "$THUMBNAIL_FILE" ]; then
-            echo "✅ Thumbnail downloaded: $THUMBNAIL_FILE"
-            echo "thumbnail_file=$THUMBNAIL_FILE" >> $GITHUB_OUTPUT
-          else
-            echo "⚠️ Failed to download thumbnail"
-          fi
-        else
-          echo "⚠️ No thumbnail URL available"
-        fi
+    # Thumbnail download is now handled by prepare_youtube_metadata.py
 
     - name: Prepare YouTube metadata
       id: youtube_meta
@@ -276,9 +255,9 @@ jobs:
         SESSION_LOG="${{ steps.record.outputs.session_log }}"
         
         if [ -f "$SESSION_LOG" ]; then
-          echo "📋 Using session log: $SESSION_LOG"
+          echo "📋 Processing session log: $SESSION_LOG"
           
-          # Use the Python script to extract metadata
+          # Use the Python script to extract metadata and download thumbnail
           python scripts/prepare_youtube_metadata.py "$SESSION_LOG"
           
           # Find the generated metadata JSON file
@@ -288,45 +267,18 @@ jobs:
           if [ -f "$METADATA_JSON" ]; then
             echo "✅ Metadata JSON created: $METADATA_JSON"
             echo "metadata_json=$METADATA_JSON" >> $GITHUB_OUTPUT
+            
+            # Extract video file path from the JSON for output
+            VIDEO_FILE=$(cat "$METADATA_JSON" | jq -r '.video_file // ""')
+            echo "video_file_path=$VIDEO_FILE" >> $GITHUB_OUTPUT
           else
             echo "❌ Failed to create metadata JSON"
             exit 1
           fi
         else
-          echo "⚠️ Session log not found, falling back to manual metadata generation"
-          
-          # Extract episode number from filename for YouTube title
-          VIDEO_FILE="${{ steps.record.outputs.video_file }}"
-          EPISODE_NUM=$(basename "$VIDEO_FILE" | sed 's/\(S1E[0-9]*\).*/\1/')
-          
-          # Create YouTube title
-          YOUTUBE_TITLE="$EPISODE_NUM: ${{ steps.episode.outputs.title }} | JedAI Council"
-          
-          # Create description with episode info
-          EPISODE_TITLE="${{ steps.episode.outputs.title }}"
-          EPISODE_EXCERPT="${{ steps.episode.outputs.excerpt }}"
-          EPISODE_DATE="${{ steps.episode.outputs.date }}"
-          RECORDED_DATE=$(date -d "$EPISODE_DATE" '+%B %d, %Y' 2>/dev/null || echo "$(date '+%B %d, %Y')")
-          
-          echo "title=$YOUTUBE_TITLE" >> $GITHUB_OUTPUT
-          echo "description<<EOF" >> $GITHUB_OUTPUT
-          echo "🤖 JedAI Council Episode $EPISODE_NUM: $EPISODE_TITLE" >> $GITHUB_OUTPUT
-          echo "" >> $GITHUB_OUTPUT
-          echo "$EPISODE_EXCERPT" >> $GITHUB_OUTPUT
-          echo "" >> $GITHUB_OUTPUT
-          echo "This episode features AI agents debating and exploring the intersection of artificial intelligence, blockchain technology, and decentralized governance." >> $GITHUB_OUTPUT
-          echo "" >> $GITHUB_OUTPUT
-          echo "📅 Recorded: $RECORDED_DATE" >> $GITHUB_OUTPUT
-          echo "🎭 Show: JedAI Council" >> $GITHUB_OUTPUT
-          echo "🌐 Platform: Shmotime" >> $GITHUB_OUTPUT
-          echo "" >> $GITHUB_OUTPUT
-          echo "🔗 Links:" >> $GITHUB_OUTPUT
-          echo "• JedAI Council: https://m3org.com/tv/jedai-council" >> $GITHUB_OUTPUT
-          echo "• ElizaOS: https://github.com/elizaOS/eliza" >> $GITHUB_OUTPUT
-          echo "• ai16z: https://github.com/ai16z" >> $GITHUB_OUTPUT
-          echo "" >> $GITHUB_OUTPUT
-          echo "#JedAICouncil #AI #Blockchain #Web3 #ElizaOS #ai16z #Governance #AGI" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          echo "❌ Session log not found: $SESSION_LOG"
+          echo "Cannot proceed without session log from recorder"
+          exit 1
         fi
 
     - name: Upload to YouTube
@@ -337,7 +289,6 @@ jobs:
         YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
       run: |
         echo "📤 Uploading to YouTube..."
-        echo "🎥 Video: ${{ steps.record.outputs.video_file }}"
         
         # Check if YouTube credentials are available
         if [ -z "$YOUTUBE_CLIENT_ID" ] || [ -z "$YOUTUBE_CLIENT_SECRET" ] || [ -z "$YOUTUBE_REFRESH_TOKEN" ]; then
@@ -346,34 +297,21 @@ jobs:
           exit 0
         fi
         
-        # Check if we have metadata JSON file (preferred method)
-        if [ -n "${{ steps.youtube_meta.outputs.metadata_json }}" ] && [ -f "${{ steps.youtube_meta.outputs.metadata_json }}" ]; then
-          echo "📋 Using metadata JSON: ${{ steps.youtube_meta.outputs.metadata_json }}"
-          python scripts/upload_to_youtube.py --from-json "${{ steps.youtube_meta.outputs.metadata_json }}"
+        # Check if we have metadata JSON file
+        METADATA_JSON="${{ steps.youtube_meta.outputs.metadata_json }}"
+        if [ -f "$METADATA_JSON" ]; then
+          echo "📋 Using metadata JSON: $METADATA_JSON"
+          echo "🎥 Video file: ${{ steps.youtube_meta.outputs.video_file_path }}"
+          
+          # Upload using JSON metadata
+          python scripts/upload_to_youtube.py --from-json "$METADATA_JSON"
+          
+          echo "✅ YouTube upload completed!"
         else
-          echo "📝 Using manual metadata"
-          echo "📝 Title: ${{ steps.youtube_meta.outputs.title }}"
-          
-          # Prepare upload command
-          UPLOAD_CMD="python scripts/upload_to_youtube.py \
-            --video-file '${{ steps.record.outputs.video_file }}' \
-            --title '${{ steps.youtube_meta.outputs.title }}' \
-            --description '${{ steps.youtube_meta.outputs.description }}' \
-            --tags 'JedAI Council,AI,Blockchain,Web3,ElizaOS,ai16z,Governance,AGI,Automation' \
-            --category-id '22' \
-            --privacy-status 'private'"
-          
-          # Add thumbnail if available
-          if [ -n "${{ steps.thumbnail.outputs.thumbnail_file }}" ]; then
-            UPLOAD_CMD="$UPLOAD_CMD --thumbnail-file '${{ steps.thumbnail.outputs.thumbnail_file }}'"
-            echo "🖼️ Including thumbnail: ${{ steps.thumbnail.outputs.thumbnail_file }}"
-          fi
-          
-          # Execute upload
-          eval $UPLOAD_CMD
+          echo "❌ Metadata JSON not found: $METADATA_JSON"
+          echo "Cannot proceed without metadata JSON from prepare_youtube_metadata.py"
+          exit 1
         fi
-        
-        echo "✅ YouTube upload completed!"
 
     - name: Archive artifacts
       uses: actions/upload-artifact@v4
@@ -382,6 +320,7 @@ jobs:
         name: episode-recording-${{ steps.episode.outputs.id }}
         path: |
           recordings/S1E*_JedAI-Council_*session-log.json
+          recordings/S1E*_JedAI-Council_*youtube-meta.json
           media/thumbnails/episode_*.png
         retention-days: 30
 
@@ -404,8 +343,8 @@ jobs:
         echo "📺 Episode: ${{ steps.episode.outputs.title || 'Not available' }}"
         echo "🆔 Episode ID: ${{ steps.episode.outputs.id || 'Not available' }}"
         echo "🔗 Source URL: ${{ steps.episode.outputs.url || 'Not available' }}"
-        echo "🎥 Video File: ${{ steps.record.outputs.video_file || 'Not available' }}"
+        echo "🎥 Video File: ${{ steps.youtube_meta.outputs.video_file_path || steps.record.outputs.video_file || 'Not available' }}"
         echo "📋 Session Log: ${{ steps.record.outputs.session_log || 'Not available' }}"
-        echo "🖼️ Thumbnail: ${{ steps.thumbnail.outputs.thumbnail_file || 'Not available' }}"
+        echo "📋 Metadata JSON: ${{ steps.youtube_meta.outputs.metadata_json || 'Not available' }}"
         echo "📤 YouTube Upload: ${{ steps.upload.conclusion == 'success' && 'Completed' || 'Failed' }}"
         echo "✅ Workflow Status: ${{ job.status }}" 

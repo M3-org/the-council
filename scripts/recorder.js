@@ -54,6 +54,7 @@ class ShmotimeRecorder {
     this.episodeData = null;
     this.recorderEvents = [];
     this.currentPhase = 'waiting';
+    this.ffmpegPromise = null; // Add a property to hold the ffmpeg promise
   }
 
   getChromePath() {
@@ -250,15 +251,7 @@ class ShmotimeRecorder {
         if (this.outputFile) this.outputFile.end();
 
         if (this.options.fixFrameRate && this.outputFile?.path) {
-          this.fixVideoFrameRateWithFfmpeg()
-            .then(processedPath => {
-              if (processedPath) {
-                this.log(`FFmpeg post-processing completed for: ${processedPath}`);
-              }
-            })
-            .catch(err => {
-              this.log(`FFmpeg post-processing failed in background: ${err.message}`, 'warn');
-            });
+          this.ffmpegPromise = this.fixVideoFrameRateWithFfmpeg();
         }
 
         setTimeout(async () => {
@@ -1112,6 +1105,13 @@ class ShmotimeRecorder {
 
   async close() {
     this.log('Cleaning up resources...');
+
+    // Wait for ffmpeg to finish if it was started
+    if (this.ffmpegPromise) {
+      this.log('Waiting for FFmpeg post-processing to complete...');
+      await this.ffmpegPromise;
+      this.log('FFmpeg processing finished.');
+    }
 
     await this.exportProcessedData();
 

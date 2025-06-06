@@ -36,9 +36,9 @@ jobs:
         npm install
         pip install -r requirements.txt
         
-        # Install Chrome and system dependencies
+        # Install ffmpeg (Chrome and xvfb are pre-installed on runner)
         sudo apt-get update
-        sudo apt-get install -y google-chrome-stable xvfb ffmpeg
+        sudo apt-get install -y ffmpeg
         
         # Start display for headless operation
         export DISPLAY=:99
@@ -64,6 +64,8 @@ jobs:
         # Record the episode with verbose logging disabled
         node scripts/recorder.js \
           --headless \
+          --mute \
+          --quiet \
           --video-width=1920 \
           --video-height=1080 \
           --stop-recording-at=end_postcredits \

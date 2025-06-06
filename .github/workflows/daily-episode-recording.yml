@@ -85,7 +85,8 @@ jobs:
           echo "🔄 API attempt $((RETRY_COUNT + 1))/$MAX_RETRIES..."
           
           # Make API call with longer timeout and better error handling
-          RESPONSE=$(curl -v \
+          # Separate verbose output from response to avoid JSON parsing issues
+          RESPONSE=$(curl -w "\nCURL_EXIT_CODE: %{http_code}\n" \
             --connect-timeout 30 \
             --max-time 60 \
             --retry 2 \
@@ -94,13 +95,24 @@ jobs:
             --fail-with-body \
             -H "User-Agent: GitHub-Actions-JedAI-Council-Recorder/1.0" \
             -H "Accept: application/json" \
-            "$API_URL" 2>&1)
+            "$API_URL" 2>/tmp/curl_error.log)
+          
+          # Show curl debugging info if there are errors
+          if [ -s /tmp/curl_error.log ]; then
+            echo "🔍 Curl debugging info:"
+            cat /tmp/curl_error.log
+          fi
           
           CURL_EXIT_CODE=$?
           echo "🔍 Curl exit code: $CURL_EXIT_CODE"
           
           if [ $CURL_EXIT_CODE -eq 0 ]; then
             echo "✅ API call successful"
+            # Extract just the JSON part (everything before the HTTP status line)
+            JSON_RESPONSE=$(echo "$RESPONSE" | head -n -1)
+            echo "📄 JSON Response:"
+            echo "$JSON_RESPONSE"
+            RESPONSE="$JSON_RESPONSE"
             break
           else
             echo "⚠️ API call failed (exit code: $CURL_EXIT_CODE)"
@@ -128,9 +140,11 @@ jobs:
           fi
         fi
         
-        # Parse JSON response
-        echo "📄 Raw API Response:"
-        echo "$RESPONSE" | jq '.' || echo "Response is not valid JSON: $RESPONSE"
+        # Validate JSON format
+        if ! echo "$RESPONSE" | jq empty 2>/dev/null; then
+          echo "❌ Response is not valid JSON: $RESPONSE"
+          exit 1
+        fi
         
         # Check if API call was successful
         SUCCESS=$(echo "$RESPONSE" | jq -r '.success // false' 2>/dev/null)

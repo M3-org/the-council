@@ -11,19 +11,20 @@ import sys
 import os
 from datetime import datetime
 from pathlib import Path
+from PIL import Image
 
 def extract_youtube_metadata(session_log_path, playlist_id=None):
     """Extract YouTube metadata from session log file"""
     
     if not os.path.exists(session_log_path):
-        print(f"❌ Session log file not found: {session_log_path}")
+        print(f"Session log file not found: {session_log_path}")
         return None
     
     try:
         with open(session_log_path, 'r') as f:
             session_data = json.load(f)
     except Exception as e:
-        print(f"❌ Error reading session log: {e}")
+        print(f"Error reading session log: {e}")
         return None
     
     # Extract core episode data
@@ -44,7 +45,7 @@ def extract_youtube_metadata(session_log_path, playlist_id=None):
     
     # Check if video file exists
     if video_path and not os.path.exists(video_path):
-        print(f"⚠️  Video file not found: {video_path}")
+        print(f"Video file not found: {video_path}")
         video_path = None
     
     # Create YouTube title
@@ -53,16 +54,16 @@ def extract_youtube_metadata(session_log_path, playlist_id=None):
     # Create comprehensive description
     show_description = show_config.get('description', '')
     
-    youtube_description = f"""🤖 JedAI Council Episode {episode_id}: {episode_title}
+    youtube_description = f"""JedAI Council Episode {episode_id}: {episode_title}
 
 {episode_premise}
 
 {show_description}
 
-📅 Recorded: {datetime.now().strftime('%B %d, %Y')}
-🎭 Show: JedAI Council  
+Recorded: {datetime.now().strftime('%B %d, %Y')}
+Show: JedAI Council  
 
-🔗 Links:
+Links:
 • JedAI Council: https://m3org.com/tv/jedai-council
 • ElizaOS: https://github.com/elizaOS/eliza
 • ai16z: https://github.com/ai16z
@@ -133,11 +134,57 @@ def save_metadata_json(metadata, output_path):
             json.dump(json_metadata, f, indent=2)
         return True
     except Exception as e:
-        print(f"❌ Error saving JSON metadata: {e}")
+        print(f"Error saving JSON metadata: {e}")
         return False
 
+def compress_image(input_path, output_path, max_size_mb=1.8):
+    """Compress image to stay under YouTube's 2MB thumbnail limit"""
+    try:
+        max_size_bytes = max_size_mb * 1024 * 1024
+        
+        with Image.open(input_path) as img:
+            # Convert to RGB if necessary
+            if img.mode not in ('RGB', 'RGBA'):
+                img = img.convert('RGB')
+            
+            # Start with high quality
+            quality = 95
+            
+            while quality > 10:
+                # Save to temporary location to check size
+                img.save(output_path, 'PNG', optimize=True)
+                
+                # Check file size
+                if os.path.getsize(output_path) <= max_size_bytes:
+                    break
+                
+                # If still too large, reduce dimensions and try again
+                if quality == 95:
+                    # Resize to YouTube's recommended thumbnail size
+                    img = img.resize((1280, 720), Image.Resampling.LANCZOS)
+                elif quality == 85:
+                    # Further reduce size if needed
+                    img = img.resize((960, 540), Image.Resampling.LANCZOS)
+                
+                quality -= 10
+            
+            # Final check - if still too large, use JPEG
+            if os.path.getsize(output_path) > max_size_bytes:
+                jpeg_path = output_path.replace('.png', '.jpg')
+                img.save(jpeg_path, 'JPEG', quality=85, optimize=True)
+                if os.path.getsize(jpeg_path) <= max_size_bytes:
+                    os.remove(output_path)
+                    os.rename(jpeg_path, output_path.replace('.png', '.jpg'))
+                    return output_path.replace('.png', '.jpg')
+            
+            return output_path
+            
+    except Exception as e:
+        print(f"Error compressing image: {e}")
+        return input_path
+
 def download_thumbnail(url, output_path):
-    """Download thumbnail from URL"""
+    """Download and compress thumbnail from URL"""
     if not url:
         return False
     
@@ -147,56 +194,65 @@ def download_thumbnail(url, output_path):
         # Ensure directory exists
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         
-        print(f"📥 Downloading thumbnail: {url}")
         response = requests.get(url, stream=True)
         response.raise_for_status()
         
-        with open(output_path, 'wb') as f:
+        # Download to temporary location first
+        temp_path = output_path + '.tmp'
+        with open(temp_path, 'wb') as f:
             for chunk in response.iter_content(chunk_size=8192):
                 f.write(chunk)
         
-        print(f"✅ Thumbnail saved: {output_path}")
+        # Compress the image
+        final_path = compress_image(temp_path, output_path)
+        
+        # Clean up temp file
+        if os.path.exists(temp_path):
+            os.remove(temp_path)
+        
+        # Verify final size
+        file_size_mb = os.path.getsize(final_path) / (1024 * 1024)
+        if file_size_mb > 2.0:
+            print(f"Warning: Thumbnail still large ({file_size_mb:.1f}MB)")
+        
         return True
         
     except Exception as e:
-        print(f"⚠️  Could not download thumbnail: {e}")
+        print(f"Could not download thumbnail: {e}")
         return False
 
 def main():
     if len(sys.argv) < 2:
         print("Usage: python scripts/prepare_youtube_metadata.py <session-log.json> [playlist-id]")
-        print("\nExample:")
-        print("  python scripts/prepare_youtube_metadata.py recordings/S1E12_JedAI-Council_the-stealth-strategy_session-log.json")
-        print("  python scripts/prepare_youtube_metadata.py recordings/S1E12_JedAI-Council_the-stealth-strategy_session-log.json PLp5K4ceh2pR0-rg8WPuFnlLTsreQ7HOQx")
-        print("\nTo get playlist ID from URL:")
-        print("  https://www.youtube.com/playlist?list=PLp5K4ceh2pR0-rg8WPuFnlLTsreQ7HOQx")
-        print("  Playlist ID: PLp5K4ceh2pR0-rg8WPuFnlLTsreQ7HOQx")
         sys.exit(1)
     
     session_log_path = sys.argv[1]
     playlist_id = sys.argv[2] if len(sys.argv) > 2 else None
-    
-    print("🎬 JedAI Council YouTube Metadata Extractor")
-    print("=" * 50)
     
     # Extract metadata
     metadata = extract_youtube_metadata(session_log_path, playlist_id)
     if not metadata:
         sys.exit(1)
     
-    print(f"📺 Episode: {metadata['episode_title']} ({metadata['episode_id']})")
-    print(f"🎥 Video File: {metadata['video_file']}")
-    print(f"📝 YouTube Title: {metadata['youtube_title']}")
+    print(f"Episode: {metadata['episode_title']} ({metadata['episode_id']})")
+    print(f"Video File: {metadata['video_file']}")
+    print(f"YouTube Title: {metadata['youtube_title']}")
     if metadata['playlist_id']:
-        print(f"📋 Playlist ID: {metadata['playlist_id']}")
+        print(f"Playlist ID: {metadata['playlist_id']}")
     
     # Download thumbnail if available
     if metadata['thumbnail_url'] and metadata['thumbnail_file']:
         if download_thumbnail(metadata['thumbnail_url'], metadata['thumbnail_file']):
-            print(f"🖼️  Thumbnail: {metadata['thumbnail_file']}")
+            # Verify final file exists and size
+            if os.path.exists(metadata['thumbnail_file']):
+                size_mb = os.path.getsize(metadata['thumbnail_file']) / (1024 * 1024)
+                print(f"Thumbnail: {metadata['thumbnail_file']} ({size_mb:.1f}MB)")
+            else:
+                print("Thumbnail download failed")
+                metadata['thumbnail_file'] = None
         else:
             metadata['thumbnail_file'] = None
-            print("⚠️  Thumbnail download failed, proceeding without")
+            print("Thumbnail download failed, proceeding without")
     
     # Generate output filenames
     base_name = Path(session_log_path).stem.replace('_session-log', '')
@@ -204,45 +260,9 @@ def main():
     
     # Save JSON metadata file
     if save_metadata_json(metadata, json_output):
-        print(f"💾 Metadata saved: {json_output}")
+        print(f"Metadata saved: {json_output}")
     
-    print("\n" + "=" * 50)
-    print("🚀 Ready to Upload! Use one of these commands:")
-    print("=" * 50)
-    
-    # Option 1: Direct command with all parameters
-    print("\n📋 Option 1: Direct Upload Command")
-    print("-" * 35)
-    
-    upload_cmd = f"""python scripts/upload_to_youtube.py \\
-  --video-file "{metadata['video_file']}" \\
-  --title "{metadata['youtube_title']}" \\
-  --description "{metadata['youtube_description'][:100]}..." \\
-  --tags "{metadata['tags']}" \\
-  --category-id "{metadata['category_id']}" \\
-  --privacy-status "{metadata['privacy_status']}\""""
-    
-    if metadata['thumbnail_file']:
-        upload_cmd += f""" \\
-  --thumbnail-file "{metadata['thumbnail_file']}\""""
-    
-    if metadata['playlist_id']:
-        upload_cmd += f""" \\
-  --playlist-id "{metadata['playlist_id']}\""""
-    
-    print(upload_cmd)
-    
-    # Option 2: Upload from JSON
-    print("\n📋 Option 2: Upload from JSON Metadata")
-    print("-" * 40)
-    print(f"python scripts/upload_to_youtube.py --from-json {json_output}")
-    
-    # Option 3: Test authentication first
-    print("\n🔐 Setup Authentication (if needed)")
-    print("-" * 40)
-    print("python scripts/setup_youtube_auth.py")
-    
-    print(f"\n✅ All set! Episode {metadata['episode_id']} ready for YouTube upload.")
+    print(f"Ready for upload: Episode {metadata['episode_id']}")
 
 if __name__ == '__main__':
     main() 

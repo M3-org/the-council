@@ -156,17 +156,17 @@ def validate_playlist_id(playlist_id):
     # YouTube playlist IDs typically start with PL and are 34 characters total
     # Format: PLxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     if not playlist_id.startswith('PL'):
-        print(f"⚠️  Warning: Playlist ID '{playlist_id}' doesn't start with 'PL'")
+        print(f"Warning: Playlist ID '{playlist_id}' doesn't start with 'PL'")
         return False
     
     if len(playlist_id) < 24:  # Minimum reasonable length
-        print(f"⚠️  Warning: Playlist ID '{playlist_id}' seems too short")
+        print(f"Warning: Playlist ID '{playlist_id}' seems too short")
         return False
     
     # Remove any URL parameters that might have been accidentally included
     clean_id = playlist_id.split('&')[0].split('?')[0]
     if clean_id != playlist_id:
-        print(f"⚠️  Warning: Cleaned playlist ID from '{playlist_id}' to '{clean_id}'")
+        print(f"Warning: Cleaned playlist ID from '{playlist_id}' to '{clean_id}'")
         return clean_id
     
     return True
@@ -179,12 +179,12 @@ def add_video_to_playlist(youtube, video_id, playlist_id):
     # Validate playlist ID
     validation_result = validate_playlist_id(playlist_id)
     if validation_result is False:
-        print(f"❌ Invalid playlist ID format: {playlist_id}")
+        print(f"Invalid playlist ID format: {playlist_id}")
         return None
     elif isinstance(validation_result, str):
         playlist_id = validation_result  # Use cleaned ID
     
-    print(f"📋 Adding video {video_id} to playlist {playlist_id}")
+    print(f"Adding video {video_id} to playlist {playlist_id}")
     
     try:
         request_body = {
@@ -203,28 +203,33 @@ def add_video_to_playlist(youtube, video_id, playlist_id):
         ).execute()
         
         playlist_item_id = response.get('id')
-        print(f"✅ Video successfully added to playlist! Playlist item ID: {playlist_item_id}")
+        print(f"Video successfully added to playlist! Playlist item ID: {playlist_item_id}")
         return playlist_item_id
         
     except HttpError as e:
         error_content = e.content.decode('utf-8') if hasattr(e.content, 'decode') else str(e.content)
-        print(f"❌ HTTP error {e.resp.status} while adding video to playlist:")
+        print(f"HTTP error {e.resp.status} while adding video to playlist:")
         print(f"   Content: {error_content}")
         
         # Provide specific help for common errors
-        if e.resp.status == 403:
-            print("💡 This might be a permission issue:")
+        if e.resp.status == 400:
+            print("This might be a bad request issue:")
+            print("   • Check if playlist is public or unlisted (not private)")
+            print("   • Verify playlist ID format is correct")
+            print("   • Make sure video was uploaded successfully")
+        elif e.resp.status == 403:
+            print("This might be a permission issue:")
             print("   • Make sure you own the playlist or have permission to add videos")
             print("   • Verify your OAuth scope includes playlist management permissions")
             print("   • Re-run: python scripts/setup_youtube_auth.py")
         elif e.resp.status == 404:
-            print("💡 This might be a playlist ID issue:")
+            print("This might be a playlist ID issue:")
             print(f"   • Double-check playlist ID: {playlist_id}")
             print("   • Make sure the playlist exists and is accessible")
         
         return None
     except Exception as e:
-        print(f"❌ Unexpected error while adding video to playlist: {e}")
+        print(f"Unexpected error while adding video to playlist: {e}")
         return None
 
 
@@ -422,13 +427,13 @@ def main():
         validation_result = validate_playlist_id(args.playlist_id)
         if validation_result is False:
             print(f"ERROR: Invalid playlist ID format: {args.playlist_id}")
-            print("💡 Playlist ID should be extracted from URL like:")
+            print("Playlist ID should be extracted from URL like:")
             print("   https://www.youtube.com/playlist?list=PLxxxxxxxxxxxxxxxxxxxxxx")
             print("   Correct format: PLxxxxxxxxxxxxxxxxxxxxxx")
             sys.exit(1)
         elif isinstance(validation_result, str):
             args.playlist_id = validation_result  # Use cleaned ID
-            print(f"🔧 Using cleaned playlist ID: {args.playlist_id}")
+            print(f"Using cleaned playlist ID: {args.playlist_id}")
 
     # Validate arguments based on operation mode
     if args.update_thumbnail_for:

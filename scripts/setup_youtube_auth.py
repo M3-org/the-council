@@ -17,20 +17,20 @@ SCOPES = ['https://www.googleapis.com/auth/youtube']
 def setup_youtube_auth():
     """Generate YouTube API refresh token for automated uploads"""
     
-    print("🔐 YouTube API Authentication Setup")
+    print("YouTube API Authentication Setup")
     print("=" * 40)
     
     # Check for existing credentials file
     if not os.path.exists('client_secrets.json'):
-        print("❌ client_secrets.json not found!")
-        print("\n📋 Setup Instructions:")
+        print("client_secrets.json not found!")
+        print("\nSetup Instructions:")
         print("1. Go to https://console.cloud.google.com")
         print("2. Create a new project or select existing one")
         print("3. Enable 'YouTube Data API v3' in APIs & Services → Library")
         print("4. Create OAuth 2.0 credentials in APIs & Services → Credentials")
         print("5. Download the credentials JSON file")
         print("6. Rename it to 'client_secrets.json' and place in this directory")
-        print("\n💡 Make sure to add your email as a test user in OAuth consent screen!")
+        print("\nMake sure to add your email as a test user in OAuth consent screen!")
         return
     
     try:
@@ -39,16 +39,16 @@ def setup_youtube_auth():
             'client_secrets.json', SCOPES
         )
         
-        print("\n🌐 Starting OAuth flow...")
-        print("📝 A browser window will open for authentication")
+        print("\nStarting OAuth flow...")
+        print("A browser window will open for authentication")
         
         # Run local server for OAuth callback
         credentials = flow.run_local_server(port=0)
         
-        print("\n✅ Authentication successful!")
+        print("\nAuthentication successful!")
         
         # Display credentials for GitHub Secrets
-        print("\n🔑 GitHub Secrets Configuration:")
+        print("\nGitHub Secrets Configuration:")
         print("=" * 40)
         print("Add these secrets to your GitHub repository:")
         print("Settings → Secrets and variables → Actions → New repository secret")
@@ -68,15 +68,15 @@ def setup_youtube_auth():
         with open('youtube_credentials.json', 'w') as f:
             json.dump(creds_data, f, indent=2)
         
-        print(f"\n💾 Credentials also saved to: youtube_credentials.json")
-        print("⚠️  Keep this file secure and don't commit to version control!")
+        print(f"\nCredentials also saved to: youtube_credentials.json")
+        print("Keep this file secure and don't commit to version control!")
         
-        print("\n🚀 Setup Complete!")
+        print("\nSetup Complete!")
         print("Your GitHub Actions workflow can now upload to YouTube automatically.")
         
     except Exception as e:
-        print(f"\n❌ Authentication failed: {e}")
-        print("\n🔧 Troubleshooting:")
+        print(f"\nAuthentication failed: {e}")
+        print("\nTroubleshooting:")
         print("• Make sure client_secrets.json is valid")
         print("• Check that YouTube Data API v3 is enabled")
         print("• Ensure your email is added as test user in OAuth consent screen")

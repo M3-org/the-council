@@ -9,6 +9,7 @@ on:
 env:
   SHOW_ID: 2578
   API_URL: https://shmotime.com/wp-json/shmotime/v1/get-latest-episode
+  YOUTUBE_PLAYLIST_ID: PLp5K4ceh2pR0-rg8WPuFnlLTsreQ7HOQx
 
 jobs:
   record-and-upload:
@@ -62,19 +63,19 @@ jobs:
     - name: Fetch latest episode
       id: episode
       run: |
-        echo "🌐 Fetching latest episode from Shmotime API..."
+        echo "Fetching latest episode from Shmotime API..."
         
         # Test network connectivity first
-        echo "🔍 Testing network connectivity..."
+        echo "Testing network connectivity..."
         if ! curl -s --connect-timeout 10 --max-time 30 -I "https://www.google.com" > /dev/null; then
-          echo "❌ Network connectivity test failed"
+          echo "Network connectivity test failed"
           exit 1
         fi
-        echo "✅ Network connectivity confirmed"
+        echo "Network connectivity confirmed"
         
         # Get latest episode data with retries and better error handling
         API_URL="${{ env.API_URL }}?show_id=${{ env.SHOW_ID }}"
-        echo "📡 API URL: $API_URL"
+        echo "API URL: $API_URL"
         
         # Try API call with retries
         RETRY_COUNT=0
@@ -82,7 +83,7 @@ jobs:
         RESPONSE=""
         
         while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
-          echo "🔄 API attempt $((RETRY_COUNT + 1))/$MAX_RETRIES..."
+          echo "API attempt $((RETRY_COUNT + 1))/$MAX_RETRIES..."
           
           # Make API call with longer timeout and better error handling
           # Separate verbose output from response to avoid JSON parsing issues
@@ -99,42 +100,37 @@ jobs:
           
           # Show curl debugging info if there are errors
           if [ -s /tmp/curl_error.log ]; then
-            echo "🔍 Curl debugging info:"
+            echo "Curl debugging info:"
             cat /tmp/curl_error.log
           fi
           
           CURL_EXIT_CODE=$?
-          echo "🔍 Curl exit code: $CURL_EXIT_CODE"
+          echo "Curl exit code: $CURL_EXIT_CODE"
           
           if [ $CURL_EXIT_CODE -eq 0 ]; then
-            echo "✅ API call successful"
+            echo "API call successful"
             # Extract just the JSON part (everything before the HTTP status line)
             JSON_RESPONSE=$(echo "$RESPONSE" | head -n -1)
-            echo "📄 JSON Response:"
-            echo "$JSON_RESPONSE"
             RESPONSE="$JSON_RESPONSE"
             break
           else
-            echo "⚠️ API call failed (exit code: $CURL_EXIT_CODE)"
-            echo "Response: $RESPONSE"
+            echo "API call failed (exit code: $CURL_EXIT_CODE)"
             RETRY_COUNT=$((RETRY_COUNT + 1))
             
             if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
-              echo "😴 Waiting 10 seconds before retry..."
+              echo "Waiting 10 seconds before retry..."
               sleep 10
             fi
           fi
         done
         
         if [ $CURL_EXIT_CODE -ne 0 ]; then
-          echo "❌ All API attempts failed"
-          echo "Final response: $RESPONSE"
+          echo "All API attempts failed"
           
           # If this is a manual trigger, we can provide a fallback test episode
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "⚠️ Manual trigger detected - using fallback test episode"
+            echo "Manual trigger detected - using fallback test episode"
             RESPONSE='{"success": true, "episode": {"permalink": "https://shmotime.com/sh/test-episode", "title": "Test Episode - Manual Trigger", "id": "test-999", "date": "'$(date -I)'", "excerpt": "This is a test episode triggered manually for debugging purposes.", "thumbnail_full": null}}'
-            echo "🔄 Using fallback response: $RESPONSE"
           else
             exit 1
           fi
@@ -142,14 +138,14 @@ jobs:
         
         # Validate JSON format
         if ! echo "$RESPONSE" | jq empty 2>/dev/null; then
-          echo "❌ Response is not valid JSON: $RESPONSE"
+          echo "Response is not valid JSON: $RESPONSE"
           exit 1
         fi
         
         # Check if API call was successful
         SUCCESS=$(echo "$RESPONSE" | jq -r '.success // false' 2>/dev/null)
         if [ "$SUCCESS" != "true" ]; then
-          echo "❌ API returned success: false"
+          echo "API returned success: false"
           echo "Response: $RESPONSE"
           exit 1
         fi
@@ -164,14 +160,13 @@ jobs:
         
         # Validate required fields
         if [ "$EPISODE_URL" = "null" ] || [ -z "$EPISODE_URL" ]; then
-          echo "❌ Could not extract episode URL from API response"
-          echo "Episode URL value: '$EPISODE_URL'"
+          echo "Could not extract episode URL from API response"
           exit 1
         fi
         
-        echo "📺 Found episode: $EPISODE_TITLE (ID: $EPISODE_ID)"
-        echo "🔗 Episode URL: $EPISODE_URL"
-        echo "📅 Published: $EPISODE_DATE"
+        echo "Found episode: $EPISODE_TITLE (ID: $EPISODE_ID)"
+        echo "Episode URL: $EPISODE_URL"
+        echo "Published: $EPISODE_DATE"
         
         # Set outputs for next steps
         echo "url=$EPISODE_URL" >> $GITHUB_OUTPUT
@@ -184,31 +179,31 @@ jobs:
     - name: Record episode
       id: record
       run: |
-        echo "🎬 Starting episode recording..."
-        echo "📺 Recording: ${{ steps.episode.outputs.title }}"
-        echo "🔗 URL: ${{ steps.episode.outputs.url }}"
+        echo "Starting episode recording..."
+        echo "Recording: ${{ steps.episode.outputs.title }}"
+        echo "URL: ${{ steps.episode.outputs.url }}"
         
         # Validate episode URL before recording
         EPISODE_URL="${{ steps.episode.outputs.url }}"
         if [ -z "$EPISODE_URL" ] || [ "$EPISODE_URL" = "null" ]; then
-          echo "❌ Episode URL is empty or null, cannot proceed with recording"
+          echo "Episode URL is empty or null, cannot proceed with recording"
           exit 1
         fi
         
         # Test if URL is reachable
-        echo "🔍 Testing episode URL accessibility..."
+        echo "Testing episode URL accessibility..."
         if ! curl -s --connect-timeout 15 --max-time 30 -I "$EPISODE_URL" | head -1 | grep -q "200\|301\|302"; then
-          echo "❌ Episode URL is not accessible: $EPISODE_URL"
+          echo "Episode URL is not accessible: $EPISODE_URL"
           exit 1
         fi
-        echo "✅ Episode URL is accessible"
+        echo "Episode URL is accessible"
         
         # Create recordings directory
         mkdir -p recordings
         
         # Verify recorder script exists
         if [ ! -f "scripts/recorder.js" ]; then
-          echo "❌ Recorder script not found: scripts/recorder.js"
+          echo "Recorder script not found: scripts/recorder.js"
           exit 1
         fi
         
@@ -227,56 +222,54 @@ jobs:
         SESSION_LOG=$(find recordings/ -name "S1E*_JedAI-Council_*session-log.json" -type f -mtime 0 | head -1)
         
         if [ ! -f "$VIDEO_FILE" ]; then
-          echo "❌ No video file was generated"
+          echo "No video file was generated"
           ls -la recordings/
           exit 1
         fi
         
-        echo "✅ Recording completed successfully!"
-        echo "🎥 Video file: $VIDEO_FILE"
-        echo "📋 Session log: $SESSION_LOG"
+        echo "Recording completed successfully!"
+        echo "Video file: $VIDEO_FILE"
+        echo "Session log: $SESSION_LOG"
         
         # Get file size for logging
         VIDEO_SIZE=$(du -h "$VIDEO_FILE" | cut -f1)
-        echo "📊 Video size: $VIDEO_SIZE"
+        echo "Video size: $VIDEO_SIZE"
         
         # Set outputs
         echo "video_file=$VIDEO_FILE" >> $GITHUB_OUTPUT
         echo "session_log=$SESSION_LOG" >> $GITHUB_OUTPUT
 
-    # Thumbnail download is now handled by prepare_youtube_metadata.py
-
     - name: Prepare YouTube metadata
       id: youtube_meta
       run: |
-        echo "📝 Preparing YouTube upload metadata..."
+        echo "Preparing YouTube upload metadata..."
         
         # Find the session log file
         SESSION_LOG="${{ steps.record.outputs.session_log }}"
         
         if [ -f "$SESSION_LOG" ]; then
-          echo "📋 Processing session log: $SESSION_LOG"
+          echo "Processing session log: $SESSION_LOG"
           
-          # Use the Python script to extract metadata and download thumbnail
-          python scripts/prepare_youtube_metadata.py "$SESSION_LOG"
+          # Use the Python script to extract metadata and download thumbnail with playlist ID
+          python scripts/prepare_youtube_metadata.py "$SESSION_LOG" "${{ env.YOUTUBE_PLAYLIST_ID }}"
           
           # Find the generated metadata JSON file
           BASE_NAME=$(basename "$SESSION_LOG" | sed 's/_session-log\.json$//')
           METADATA_JSON="recordings/${BASE_NAME}_youtube-meta.json"
           
           if [ -f "$METADATA_JSON" ]; then
-            echo "✅ Metadata JSON created: $METADATA_JSON"
+            echo "Metadata JSON created: $METADATA_JSON"
             echo "metadata_json=$METADATA_JSON" >> $GITHUB_OUTPUT
             
             # Extract video file path from the JSON for output
             VIDEO_FILE=$(cat "$METADATA_JSON" | jq -r '.video_file // ""')
             echo "video_file_path=$VIDEO_FILE" >> $GITHUB_OUTPUT
           else
-            echo "❌ Failed to create metadata JSON"
+            echo "Failed to create metadata JSON"
             exit 1
           fi
         else
-          echo "❌ Session log not found: $SESSION_LOG"
+          echo "Session log not found: $SESSION_LOG"
           echo "Cannot proceed without session log from recorder"
           exit 1
         fi
@@ -288,11 +281,11 @@ jobs:
         YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
         YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
       run: |
-        echo "📤 Uploading to YouTube..."
+        echo "Uploading to YouTube..."
         
         # Check if YouTube credentials are available
         if [ -z "$YOUTUBE_CLIENT_ID" ] || [ -z "$YOUTUBE_CLIENT_SECRET" ] || [ -z "$YOUTUBE_REFRESH_TOKEN" ]; then
-          echo "⚠️ YouTube credentials not available - skipping upload"
+          echo "YouTube credentials not available - skipping upload"
           echo "Note: Set YOUTUBE_CLIENT_ID, YOUTUBE_CLIENT_SECRET, and YOUTUBE_REFRESH_TOKEN secrets for YouTube upload"
           exit 0
         fi
@@ -300,15 +293,15 @@ jobs:
         # Check if we have metadata JSON file
         METADATA_JSON="${{ steps.youtube_meta.outputs.metadata_json }}"
         if [ -f "$METADATA_JSON" ]; then
-          echo "📋 Using metadata JSON: $METADATA_JSON"
-          echo "🎥 Video file: ${{ steps.youtube_meta.outputs.video_file_path }}"
+          echo "Using metadata JSON: $METADATA_JSON"
+          echo "Video file: ${{ steps.youtube_meta.outputs.video_file_path }}"
           
           # Upload using JSON metadata
           python scripts/upload_to_youtube.py --from-json "$METADATA_JSON"
           
-          echo "✅ YouTube upload completed!"
+          echo "YouTube upload completed!"
         else
-          echo "❌ Metadata JSON not found: $METADATA_JSON"
+          echo "Metadata JSON not found: $METADATA_JSON"
           echo "Cannot proceed without metadata JSON from prepare_youtube_metadata.py"
           exit 1
         fi
@@ -327,24 +320,24 @@ jobs:
     - name: Cleanup
       if: always()
       run: |
-        echo "🧹 Cleaning up large files..."
+        echo "Cleaning up large files..."
         
         # Remove video files to save space (already uploaded)
         find recordings/ -name "*.mp4" -type f -delete 2>/dev/null || true
         find recordings/ -name "*.webm" -type f -delete 2>/dev/null || true
         
-        echo "✅ Cleanup completed"
+        echo "Cleanup completed"
 
     - name: Summary
       if: always()
       run: |
-        echo "📊 Daily Episode Recording Summary"
+        echo "Daily Episode Recording Summary"
         echo "=================================="
-        echo "📺 Episode: ${{ steps.episode.outputs.title || 'Not available' }}"
-        echo "🆔 Episode ID: ${{ steps.episode.outputs.id || 'Not available' }}"
-        echo "🔗 Source URL: ${{ steps.episode.outputs.url || 'Not available' }}"
-        echo "🎥 Video File: ${{ steps.youtube_meta.outputs.video_file_path || steps.record.outputs.video_file || 'Not available' }}"
-        echo "📋 Session Log: ${{ steps.record.outputs.session_log || 'Not available' }}"
-        echo "📋 Metadata JSON: ${{ steps.youtube_meta.outputs.metadata_json || 'Not available' }}"
-        echo "📤 YouTube Upload: ${{ steps.upload.conclusion == 'success' && 'Completed' || 'Failed' }}"
-        echo "✅ Workflow Status: ${{ job.status }}" 
+        echo "Episode: ${{ steps.episode.outputs.title || 'Not available' }}"
+        echo "Episode ID: ${{ steps.episode.outputs.id || 'Not available' }}"
+        echo "Source URL: ${{ steps.episode.outputs.url || 'Not available' }}"
+        echo "Video File: ${{ steps.youtube_meta.outputs.video_file_path || steps.record.outputs.video_file || 'Not available' }}"
+        echo "Session Log: ${{ steps.record.outputs.session_log || 'Not available' }}"
+        echo "Metadata JSON: ${{ steps.youtube_meta.outputs.metadata_json || 'Not available' }}"
+        echo "YouTube Upload: ${{ steps.upload.conclusion == 'success' && 'Completed' || 'Failed' }}"
+        echo "Workflow Status: ${{ job.status }}" 

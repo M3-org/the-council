@@ -61,10 +61,11 @@ jobs:
     - name: Record episode
       id: record
       run: |
-        # Record the episode
+        # Record the episode with verbose logging disabled
         node scripts/recorder.js \
           --headless \
           --mute \
+          --quiet \
           --video-width=1920 \
           --video-height=1080 \
           --output-format=mp4 \
@@ -106,6 +107,12 @@ jobs:
         
         # Upload to YouTube using metadata file
         python scripts/upload_to_youtube.py --from-json "${{ steps.youtube_meta.outputs.metadata_json }}"
+
+    - name: Wait for YouTube Processing
+      if: success()
+      run: |
+        echo "Waiting for 5 minutes for YouTube to start processing the video..."
+        sleep 300
 
     - name: Archive artifacts
       uses: actions/upload-artifact@v4

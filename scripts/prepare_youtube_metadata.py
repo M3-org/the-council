@@ -123,8 +123,10 @@ def save_metadata_json(metadata, output_path):
         'privacy_status': metadata['privacy_status']
     }
     
-    if metadata['thumbnail_file']:
-        json_metadata['thumbnail_file'] = metadata['thumbnail_file']
+    # Exclude thumbnail from automated upload for robustness
+    # The thumbnail is still downloaded and archived for manual upload
+    # if metadata['thumbnail_file']:
+    #     json_metadata['thumbnail_file'] = metadata['thumbnail_file']
     
     if metadata['playlist_id']:
         json_metadata['playlist_id'] = metadata['playlist_id']

@@ -1,0 +1,17 @@
+{
+  "name": "jedai-council-recorder",
+  "version": "1.0.0",
+  "description": "Automated recording and upload system for JedAI Council episodes",
+  "main": "scripts/recorder.js",
+  "scripts": {
+    "record": "node scripts/recorder.js",
+    "upload": "python scripts/upload_to_youtube.py"
+  },
+  "dependencies": {
+    "puppeteer-stream": "^3.0.5"
+  },
+  "devDependencies": {},
+  "keywords": ["recording", "youtube", "automation", "shmotime"],
+  "author": "M3 Organization",
+  "license": "MIT"
+} 

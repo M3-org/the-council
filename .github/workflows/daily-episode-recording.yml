@@ -64,11 +64,8 @@ jobs:
         # Record the episode with verbose logging disabled
         node scripts/recorder.js \
           --headless \
-          --mute \
-          --quiet \
           --video-width=1920 \
           --video-height=1080 \
-          --output-format=mp4 \
           --stop-recording-at=end_postcredits \
           "${{ steps.episode.outputs.url }}"
         

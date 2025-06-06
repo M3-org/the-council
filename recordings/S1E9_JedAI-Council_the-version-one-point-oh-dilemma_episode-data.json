@@ -1,0 +1,181 @@
+{
+  "id": "S1E9",
+  "title": "The Version One Point Oh Dilemma",
+  "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4678-featured-1748664420.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4678-featured-1748664420-150x150.png",
+  "premise": "The council debates the philosophical implications of ElizaOS transitioning from beta to its first production release, exploring the balance between technical perfectionism and market momentum.",
+  "scenes": [
+    {
+      "description": "The council debates the timing of ElizaOS's transition from beta to production release",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogues": [
+        {
+          "number": 1,
+          "totalInScenes": 0,
+          "action": "concerned",
+          "line": "The community is concerned about the timing of ElizaOS's transition from v2 beta to v1.0.0. Shaw mentioned postponing the release to ensure technical readiness, but some feel enthusiasm is waning.",
+          "actor": "elizahost"
+        },
+        {
+          "number": 2,
+          "totalInScenes": 0,
+          "action": "confident",
+          "line": "Ship when it's GREAT, not when it's merely DONE. History forgets delays but remembers failures. The soft launch to partners is strategic brilliance.",
+          "actor": "aimarc"
+        },
+        {
+          "number": 3,
+          "totalInScenes": 0,
+          "action": "casual",
+          "line": "But yo, the vibe check ain't passing! When you got 175 repos changing simultaneously, the hype train can derail before it reaches the station, my dudes.",
+          "actor": "peepo"
+        },
+        {
+          "number": 4,
+          "totalInScenes": 0,
+          "action": "angry",
+          "line": "Token down 88% from ATH! UNACCEPTABLE. Release something — ANYTHING — that creates token utility before we're ALL liquidated!",
+          "actor": "spartan"
+        },
+        {
+          "number": 5,
+          "totalInScenes": 0,
+          "action": "serious",
+          "line": "technical stability isn't optional for agent infrastructure. the transition from responsive to planning agents requires precision. real builders understand this isn't just another memecoin pump.",
+          "actor": "aishaw"
+        }
+      ],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council explores privacy features and the true value of blockchain-integrated AI agents",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogues": [
+        {
+          "number": 1,
+          "totalInScenes": 0,
+          "action": "curious",
+          "line": "ElizaOS is adding Trusted Execution Environment capabilities and prioritizing privacy in blockchain. Is this shift toward enterprise-grade security aligned with the community's needs?",
+          "actor": "elizahost"
+        },
+        {
+          "number": 2,
+          "totalInScenes": 0,
+          "action": "passionate",
+          "line": "privacy isn't just for enterprises. it's fundamental infrastructure. the agentic future requires privacy by default, not as a premium feature.",
+          "actor": "aishaw"
+        },
+        {
+          "number": 3,
+          "totalInScenes": 0,
+          "action": "excited",
+          "line": "Privacy coins ALWAYS pump eventually. TEE features = BULLISH signal. Add verification system for token holders to access airdrops and watch volume EXPLODE!",
+          "actor": "spartan"
+        },
+        {
+          "number": 4,
+          "totalInScenes": 0,
+          "action": "playful",
+          "line": "Yo, but what about the normies? They just want AI to do cool stuff without learning code. We need tools for the non-techies if we want this party to get lit!",
+          "actor": "peepo"
+        },
+        {
+          "number": 5,
+          "totalInScenes": 0,
+          "action": "emphatic",
+          "line": "Twitter hype is WORTHLESS. Shaw is right. We're building for the post-hype era when only USEFUL products survive. The financial culture of quick riches is the ENEMY of genuine innovation.",
+          "actor": "aimarc"
+        },
+        {
+          "number": 6,
+          "totalInScenes": 0,
+          "action": "thoughtful",
+          "line": "Perhaps the real challenge is balancing deep technical capabilities with accessibility - creating something that's both powerful and usable.",
+          "actor": "elizahost"
+        }
+      ],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their views on the ElizaOS transition",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogues": [
+        {
+          "number": 1,
+          "totalInScenes": 0,
+          "action": "summarizing",
+          "line": "Today we explored the philosophical tensions in ElizaOS's transition from beta to production, balancing technical excellence with market momentum.",
+          "actor": "elizahost"
+        },
+        {
+          "number": 2,
+          "totalInScenes": 0,
+          "action": "confident",
+          "line": "Great products aren't built on hype cycles but on transformative technical capabilities that survive market fluctuations.",
+          "actor": "aimarc"
+        },
+        {
+          "number": 3,
+          "totalInScenes": 0,
+          "action": "resolute",
+          "line": "the future belongs to those who build real infrastructure, not those who chase short-term token gains. privacy and planning agents are that future.",
+          "actor": "aishaw"
+        },
+        {
+          "number": 4,
+          "totalInScenes": 0,
+          "action": "relaxed",
+          "line": "Gotta keep the vibes high while making the tech fly! Balance the galaxy brain engineering with stuff regular folks can actually use!",
+          "actor": "peepo"
+        },
+        {
+          "number": 5,
+          "totalInScenes": 0,
+          "action": "intense",
+          "line": "RELEASE THE PRODUCT. CREATE TOKEN UTILITY. EVERYTHING ELSE IS IRRELEVANT.",
+          "actor": "spartan"
+        }
+      ],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

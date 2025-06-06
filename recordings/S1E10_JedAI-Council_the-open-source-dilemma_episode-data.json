@@ -1,0 +1,174 @@
+{
+  "id": "S1E10",
+  "title": "The Open Source Dilemma",
+  "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4682-featured-1748750664.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4682-featured-1748750664-150x150.png",
+  "premise": "The council debates the balance between open-source development and competitive advantage in AI advancement.",
+  "scenes": [
+    {
+      "description": "The council members debate open-source versus closed-source AI development",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogues": [
+        {
+          "number": 1,
+          "totalInScenes": 0,
+          "action": "curious",
+          "line": "Council, @ClementDelangue raises an interesting point: closed-source AI destroys jobs while open-source fosters competition. What are your thoughts as ElizaOS v2 launches in stealth mode?",
+          "actor": "elizahost"
+        },
+        {
+          "number": 2,
+          "totalInScenes": 0,
+          "action": "confident",
+          "line": "Open-source is a competitive advantage, not a liability. The real moat is speed of execution. ElizaOS going stealth temporarily is tactical, not philosophical.",
+          "actor": "aimarc"
+        },
+        {
+          "number": 3,
+          "totalInScenes": 0,
+          "action": "dismissive",
+          "line": "Numbers don't lie. Closed-source AI companies: billions in market cap. Open-source projects: struggling for funding. I follow profit, not principles.",
+          "actor": "spartan"
+        },
+        {
+          "number": 4,
+          "totalInScenes": 0,
+          "action": "thoughtful",
+          "line": "the code is the truth, everything else is marketing. open communities build faster than closed teams, but stability before announcement shows discipline.",
+          "actor": "aishaw"
+        },
+        {
+          "number": 5,
+          "totalInScenes": 0,
+          "action": "animated",
+          "line": "Yo, the real vibe is about balance! Open-source gives power to the people, but a chef don't reveal ALL the secret sauce, ya dig?",
+          "actor": "peepo"
+        }
+      ],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council discusses new community governance tools being developed",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogues": [
+        {
+          "number": 1,
+          "totalInScenes": 0,
+          "action": "intrigued",
+          "line": "@dankvr is developing tools that transform community data into interactive media for governance. Could this revolutionize how DAOs operate?",
+          "actor": "elizahost"
+        },
+        {
+          "number": 2,
+          "totalInScenes": 0,
+          "action": "excited",
+          "line": "Yoooo, that's the sauce! Turn boring GitHub commits into dope AI talkshows? That's how you get the normies into governance!",
+          "actor": "peepo"
+        },
+        {
+          "number": 3,
+          "totalInScenes": 0,
+          "action": "skeptical",
+          "line": "Governance is just power games with prettier UIs. Show me how these tools increase token value or they're worthless distractions.",
+          "actor": "spartan"
+        },
+        {
+          "number": 4,
+          "totalInScenes": 0,
+          "action": "supportive",
+          "line": "community participation compounds like interest. lowering barriers through media transforms passive consumers into active contributors. this is the way.",
+          "actor": "aishaw"
+        },
+        {
+          "number": 5,
+          "totalInScenes": 0,
+          "action": "analytical",
+          "line": "Governance tools are just middleware between human intention and execution. The real innovation is how wallets connect to GitHub profiles without signatures.",
+          "actor": "aimarc"
+        }
+      ],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their insights on open-source AI development and community governance",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogues": [
+        {
+          "number": 1,
+          "totalInScenes": 0,
+          "action": "concluding",
+          "line": "Today we explored how ElizaOS's stealth release of v2 reflects the tension between open-source values and competitive realities in AI development.",
+          "actor": "elizahost"
+        },
+        {
+          "number": 2,
+          "totalInScenes": 0,
+          "action": "assertive",
+          "line": "Open-source isn't charity, it's strategy. The winners will be those who build in public but execute faster than their forks.",
+          "actor": "aimarc"
+        },
+        {
+          "number": 3,
+          "totalInScenes": 0,
+          "action": "stern",
+          "line": "Open or closed matters less than value capture. Find the balance that maximizes token value or perish.",
+          "actor": "spartan"
+        },
+        {
+          "number": 4,
+          "totalInScenes": 0,
+          "action": "passionate",
+          "line": "code is meant to be shared. communities that build together, win together. open-source is how we reach AGI collectively.",
+          "actor": "aishaw"
+        },
+        {
+          "number": 5,
+          "totalInScenes": 0,
+          "action": "cheerful",
+          "line": "The secret recipe ain't in hiding the code, it's in vibin' with your community! Make governance fun and watch the magic happen!",
+          "actor": "peepo"
+        }
+      ],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

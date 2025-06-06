@@ -1,0 +1,263 @@
+name: Daily JedAI Council Episode Recording
+
+on:
+  schedule:
+    # Run daily at 04:15 UTC
+    - cron: '15 4 * * *'
+  workflow_dispatch: # Allow manual triggering for testing
+
+env:
+  SHOW_ID: 2578
+  API_URL: https://shmotime.com/wp-json/shmotime/v1/get-latest-episode
+
+jobs:
+  record-and-upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        # Node.js dependencies
+        npm install
+        
+        # Python dependencies for YouTube upload
+        pip install google-api-python-client google-auth-oauthlib google-auth-httplib2
+
+    - name: Install Chrome and dependencies
+      run: |
+        # Update package list
+        sudo apt-get update
+        
+        # Install Chrome
+        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+        echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+        
+        # Install additional dependencies for audio/video processing
+        sudo apt-get install -y xvfb ffmpeg
+        
+        # Verify Chrome installation
+        google-chrome --version
+
+    - name: Fetch latest episode
+      id: episode
+      run: |
+        echo "🌐 Fetching latest episode from Shmotime API..."
+        
+        # Get latest episode data
+        RESPONSE=$(curl -s "${{ env.API_URL }}?show_id=${{ env.SHOW_ID }}")
+        
+        # Check if API call was successful
+        SUCCESS=$(echo "$RESPONSE" | jq -r '.success // false')
+        if [ "$SUCCESS" != "true" ]; then
+          echo "❌ API call failed or returned success: false"
+          echo "Response: $RESPONSE"
+          exit 1
+        fi
+        
+        # Extract episode data
+        EPISODE_URL=$(echo "$RESPONSE" | jq -r '.episode.permalink')
+        EPISODE_TITLE=$(echo "$RESPONSE" | jq -r '.episode.title')
+        EPISODE_ID=$(echo "$RESPONSE" | jq -r '.episode.id')
+        EPISODE_DATE=$(echo "$RESPONSE" | jq -r '.episode.date')
+        EPISODE_EXCERPT=$(echo "$RESPONSE" | jq -r '.episode.excerpt')
+        THUMBNAIL_URL=$(echo "$RESPONSE" | jq -r '.episode.thumbnail_full')
+        
+        # Validate required fields
+        if [ "$EPISODE_URL" = "null" ] || [ -z "$EPISODE_URL" ]; then
+          echo "❌ Could not extract episode URL from API response"
+          exit 1
+        fi
+        
+        echo "📺 Found episode: $EPISODE_TITLE (ID: $EPISODE_ID)"
+        echo "🔗 Episode URL: $EPISODE_URL"
+        echo "📅 Published: $EPISODE_DATE"
+        
+        # Set outputs for next steps
+        echo "url=$EPISODE_URL" >> $GITHUB_OUTPUT
+        echo "title=$EPISODE_TITLE" >> $GITHUB_OUTPUT
+        echo "id=$EPISODE_ID" >> $GITHUB_OUTPUT
+        echo "date=$EPISODE_DATE" >> $GITHUB_OUTPUT
+        echo "excerpt=$EPISODE_EXCERPT" >> $GITHUB_OUTPUT
+        echo "thumbnail_url=$THUMBNAIL_URL" >> $GITHUB_OUTPUT
+
+    - name: Record episode
+      id: record
+      run: |
+        echo "🎬 Starting episode recording..."
+        echo "📺 Recording: ${{ steps.episode.outputs.title }}"
+        echo "🔗 URL: ${{ steps.episode.outputs.url }}"
+        
+        # Create recordings directory
+        mkdir -p recordings
+        
+        # Record the episode with optimal settings for CI
+        node scripts/recorder.js \
+          --headless \
+          --mute \
+          --width=1920 \
+          --height=1080 \
+          --format=mp4 \
+          --stop-recording-at=end_credits \
+          "${{ steps.episode.outputs.url }}"
+        
+        # Find the generated video file
+        VIDEO_FILE=$(find recordings/ -name "S1E*_JedAI-Council_*.mp4" -type f -mtime 0 | head -1)
+        SESSION_LOG=$(find recordings/ -name "S1E*_JedAI-Council_*session-log.json" -type f -mtime 0 | head -1)
+        
+        if [ ! -f "$VIDEO_FILE" ]; then
+          echo "❌ No video file was generated"
+          ls -la recordings/
+          exit 1
+        fi
+        
+        echo "✅ Recording completed successfully!"
+        echo "🎥 Video file: $VIDEO_FILE"
+        echo "📋 Session log: $SESSION_LOG"
+        
+        # Get file size for logging
+        VIDEO_SIZE=$(du -h "$VIDEO_FILE" | cut -f1)
+        echo "📊 Video size: $VIDEO_SIZE"
+        
+        # Set outputs
+        echo "video_file=$VIDEO_FILE" >> $GITHUB_OUTPUT
+        echo "session_log=$SESSION_LOG" >> $GITHUB_OUTPUT
+
+    - name: Download thumbnail
+      id: thumbnail
+      run: |
+        echo "🖼️ Downloading episode thumbnail..."
+        
+        THUMBNAIL_URL="${{ steps.episode.outputs.thumbnail_url }}"
+        if [ "$THUMBNAIL_URL" != "null" ] && [ -n "$THUMBNAIL_URL" ]; then
+          # Create media directory and download thumbnail
+          mkdir -p media/thumbnails
+          THUMBNAIL_FILE="media/thumbnails/episode_${{ steps.episode.outputs.id }}.png"
+          
+          curl -s -o "$THUMBNAIL_FILE" "$THUMBNAIL_URL"
+          
+          if [ -f "$THUMBNAIL_FILE" ]; then
+            echo "✅ Thumbnail downloaded: $THUMBNAIL_FILE"
+            echo "thumbnail_file=$THUMBNAIL_FILE" >> $GITHUB_OUTPUT
+          else
+            echo "⚠️ Failed to download thumbnail"
+          fi
+        else
+          echo "⚠️ No thumbnail URL available"
+        fi
+
+    - name: Prepare YouTube metadata
+      id: youtube_meta
+      run: |
+        echo "📝 Preparing YouTube upload metadata..."
+        
+        # Extract episode number from filename for YouTube title
+        VIDEO_FILE="${{ steps.record.outputs.video_file }}"
+        EPISODE_NUM=$(basename "$VIDEO_FILE" | sed 's/\(S1E[0-9]*\).*/\1/')
+        
+        # Create YouTube title
+        YOUTUBE_TITLE="$EPISODE_NUM: ${{ steps.episode.outputs.title }} | JedAI Council"
+        
+        # Create description with episode info
+        YOUTUBE_DESCRIPTION="🤖 JedAI Council Episode $EPISODE_NUM: ${{ steps.episode.outputs.title }}
+        
+${{ steps.episode.outputs.excerpt }}
+
+This episode features AI agents debating and exploring the intersection of artificial intelligence, blockchain technology, and decentralized governance.
+
+📅 Recorded: $(date -d "${{ steps.episode.outputs.date }}" '+%B %d, %Y')
+🎭 Show: JedAI Council
+🌐 Platform: Shmotime
+
+🔗 Links:
+• JedAI Council: https://m3org.com/tv/jedai-council  
+• ElizaOS: https://github.com/elizaOS/eliza
+• ai16z: https://github.com/ai16z
+
+#JedAICouncil #AI #Blockchain #Web3 #ElizaOS #ai16z #Governance #AGI"
+
+        echo "title=$YOUTUBE_TITLE" >> $GITHUB_OUTPUT
+        echo "description<<EOF" >> $GITHUB_OUTPUT
+        echo "$YOUTUBE_DESCRIPTION" >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+
+    - name: Upload to YouTube
+      env:
+        YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+        YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+        YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+      run: |
+        echo "📤 Uploading to YouTube..."
+        echo "🎥 Video: ${{ steps.record.outputs.video_file }}"
+        echo "📝 Title: ${{ steps.youtube_meta.outputs.title }}"
+        
+        # Prepare upload command
+        UPLOAD_CMD="python scripts/upload_to_youtube.py \
+          --video-file '${{ steps.record.outputs.video_file }}' \
+          --title '${{ steps.youtube_meta.outputs.title }}' \
+          --description '${{ steps.youtube_meta.outputs.description }}' \
+          --tags 'JedAI Council,AI,Blockchain,Web3,ElizaOS,ai16z,Governance,AGI,Automation' \
+          --category-id '22' \
+          --privacy-status 'private'"
+        
+        # Add thumbnail if available
+        if [ -n "${{ steps.thumbnail.outputs.thumbnail_file }}" ]; then
+          UPLOAD_CMD="$UPLOAD_CMD --thumbnail-file '${{ steps.thumbnail.outputs.thumbnail_file }}'"
+          echo "🖼️ Including thumbnail: ${{ steps.thumbnail.outputs.thumbnail_file }}"
+        fi
+        
+        # Execute upload
+        eval $UPLOAD_CMD
+        
+        echo "✅ YouTube upload completed!"
+
+    - name: Archive artifacts
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: episode-recording-${{ steps.episode.outputs.id }}
+        path: |
+          recordings/S1E*_JedAI-Council_*session-log.json
+          media/thumbnails/episode_*.png
+        retention-days: 30
+
+    - name: Cleanup
+      if: always()
+      run: |
+        echo "🧹 Cleaning up large files..."
+        
+        # Remove video files to save space (already uploaded)
+        find recordings/ -name "*.mp4" -type f -delete 2>/dev/null || true
+        find recordings/ -name "*.webm" -type f -delete 2>/dev/null || true
+        
+        echo "✅ Cleanup completed"
+
+    - name: Summary
+      if: always()
+      run: |
+        echo "📊 Daily Episode Recording Summary"
+        echo "=================================="
+        echo "📺 Episode: ${{ steps.episode.outputs.title }}"
+        echo "🆔 Episode ID: ${{ steps.episode.outputs.id }}"
+        echo "🔗 Source URL: ${{ steps.episode.outputs.url }}"
+        echo "🎥 Video File: ${{ steps.record.outputs.video_file }}"
+        echo "📋 Session Log: ${{ steps.record.outputs.session_log }}"
+        echo "🖼️ Thumbnail: ${{ steps.thumbnail.outputs.thumbnail_file || 'Not available' }}"
+        echo "📤 YouTube Upload: Completed"
+        echo "✅ Workflow Status: Success" 

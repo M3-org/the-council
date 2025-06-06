@@ -67,6 +67,54 @@ It's like having your own strategy room of champions, always ready to brainstorm
 - **Animation Pipeline**: Character expressiveness and cinematography
 - **Data Integration**: Autonomous gathering of community context
 
+## Automated Episode Production
+
+This repository contains a GitHub Actions workflow that fully automates the recording of new JedAI Council episodes and uploads them to YouTube.
+
+**Workflow File**: [`.github/workflows/daily-episode-recording.yml`](./.github/workflows/daily-episode-recording.yml)
+
+### How It Works
+
+The workflow runs on a daily schedule and performs the following steps:
+
+1.  **Fetch Latest Episode**: Gets the URL for the newest episode from the Shmotime API.
+2.  **Record Episode**: Uses a headless Chrome browser to record the episode, saving a video file and a detailed session log.
+3.  **Prepare Metadata**: A Python script processes the session log to generate a clean title, description, and tags. It also downloads and compresses the episode thumbnail.
+4.  **Upload to YouTube**: Another Python script uploads the video, sets all the metadata, and adds it to the correct playlist.
+5.  **Wait for Processing**: The workflow pauses for 5 minutes to give YouTube's servers time to process the video before the next step.
+6.  **Archive & Cleanup**: The session log and thumbnail are saved as workflow artifacts, and the large video files are removed from the runner to save space.
+
+### Setup for Your Fork
+
+To get the automated workflow running on your own fork of this repository, follow these steps:
+
+1.  **Get YouTube API Credentials**:
+    *   Create a project in the [Google Cloud Console](https://console.cloud.google.com/).
+    *   Enable the **YouTube Data API v3**.
+    *   Create **OAuth 2.0 Client IDs** credentials for a "Desktop app".
+    *   Download the JSON file and save it as `client_secrets.json` in the root of your local repository. **Do not commit this file.**
+
+2.  **Generate a Refresh Token**:
+    *   Run the setup script from your terminal:
+        ```bash
+        pip install -r requirements.txt
+        python scripts/setup_youtube_auth.py
+        ```
+    *   This will open a browser window for you to sign in and grant access.
+    *   The script will then print the three secret values you need for the next step.
+
+3.  **Create GitHub Repository Secrets**:
+    *   In your forked repository on GitHub, go to `Settings` > `Secrets and variables` > `Actions`.
+    *   Create the following three repository secrets with the values from the previous step:
+        *   `YOUTUBE_CLIENT_ID`
+        *   `YOUTUBE_CLIENT_SECRET`
+        *   `YOUTUBE_REFRESH_TOKEN`
+
+4.  **Configure Workflow (Optional)**:
+    *   You can change the YouTube playlist by editing the `YOUTUBE_PLAYLIST_ID` environment variable at the top of the `.github/workflows/daily-episode-recording.yml` file.
+
+The workflow is now ready to run automatically or be triggered manually from the Actions tab on GitHub.
+
 ## Vision
 
 The Council is an evolution in how DAOs can make decisions—combining human creativity with AI processing power to create more thoughtful, inclusive, and effective governance.

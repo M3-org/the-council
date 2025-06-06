@@ -471,8 +471,13 @@ def main():
             update_thumbnail(youtube, args.update_thumbnail_for, args.thumbnail_file)
             return
         if youtube:
-            initialize_upload(youtube, args)
-            print("\n--- YouTube Upload Process Finished ---")
+            video_id = initialize_upload(youtube, args)
+            if video_id:
+                print(f"\n--- YouTube Upload Process Finished ---")
+                print(f"YOUTUBE_URL=https://www.youtube.com/watch?v={video_id}")
+            else:
+                print("\n--- YouTube Upload Failed ---")
+                sys.exit(1)
         else:
             print("Could not get authenticated YouTube service. Upload aborted.")
     except HttpError as e:

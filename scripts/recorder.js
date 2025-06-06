@@ -383,6 +383,13 @@ class ShmotimeRecorder {
         
         fs.writeFileSync(finalJsonPath, JSON.stringify(sessionData, null, 2));
         this.log(`Session log exported to: ${finalJsonPath}`);
+
+        // Also export just the episode data for WordPress submission
+        if (sessionData.episode_data) {
+          const episodeDataPath = finalJsonPath.replace('_session-log.json', '_episode-data.json');
+          fs.writeFileSync(episodeDataPath, JSON.stringify(sessionData.episode_data, null, 2));
+          this.log(`Episode data exported to: ${episodeDataPath}`);
+        }
       } else {
         this.log('No data to export for session log.', 'info');
       }
@@ -1103,6 +1110,20 @@ class ShmotimeRecorder {
     }
   }
 
+  async waitForEpisodeData(timeout = 30000) {
+    this.log(`Waiting for episode data... (timeout: ${timeout}ms)`);
+    const startTime = Date.now();
+    while (!this.episodeData && (Date.now() - startTime) < timeout) {
+      await new Promise(resolve => setTimeout(resolve, 500));
+    }
+    if (this.episodeData) {
+      this.log('Episode data received.');
+      return true;
+    }
+    this.log('Timed out waiting for episode data.', 'warn');
+    return false;
+  }
+
   async close() {
     this.log('Cleaning up resources...');
 
@@ -1294,14 +1315,18 @@ async function main() {
     }
 
     const { videoFile } = await player.startEpisode();
-    if (!videoFile && options.record) {
-      throw new Error('Failed to start episode recording');
+
+    if (options.record) {
+      if (!videoFile) {
+        throw new Error('Failed to start episode recording');
+      }
+      await player.waitForEpisodeToFinish(waitTime);
+      console.log('Episode processing complete');
+      if (videoFile) console.log(`Video will be saved to: ${videoFile}`);
+    } else {
+      await player.waitForEpisodeData();
+      console.log('Episode data retrieval complete.');
     }
-
-    await player.waitForEpisodeToFinish(waitTime);
-
-    console.log('Episode processing complete');
-    if (videoFile) console.log(`Video will be saved to: ${videoFile}`);
 
   } catch (error) {
     console.error(`Main process error: ${error.message}`);

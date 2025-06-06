@@ -74,9 +74,13 @@ jobs:
         # Find generated files
         VIDEO_FILE=$(find recordings/ -name "*.mp4" -type f -mtime 0 | head -1)
         SESSION_LOG=$(find recordings/ -name "*session-log.json" -type f -mtime 0 | head -1)
+        EPISODE_DATA_FILE=$(find recordings/ -name "*_episode-data.json" -type f -mtime 0 | head -1)
+        EPISODE_ID=$(jq -r '.id' "$EPISODE_DATA_FILE")
         
         echo "video_file=$VIDEO_FILE" >> $GITHUB_OUTPUT
         echo "session_log=$SESSION_LOG" >> $GITHUB_OUTPUT
+        echo "episode_data_file=$EPISODE_DATA_FILE" >> $GITHUB_OUTPUT
+        echo "episode_id=$EPISODE_ID" >> $GITHUB_OUTPUT
 
     - name: Prepare YouTube metadata
       id: youtube_meta
@@ -87,12 +91,13 @@ jobs:
           "${{ env.YOUTUBE_PLAYLIST_ID }}"
         
         # Find generated metadata file
-        BASE_NAME=$(basename "${{ steps.record.outputs.session_log }}" | sed 's/_session-log\.json$//')
+        BASE_NAME=$(basename "${{ steps.record.outputs.session_log }}" | sed 's/_session-log\\.json$//')
         METADATA_JSON="recordings/${BASE_NAME}_youtube-meta.json"
         
         echo "metadata_json=$METADATA_JSON" >> $GITHUB_OUTPUT
 
     - name: Upload to YouTube
+      id: upload
       env:
         YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
         YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
@@ -104,14 +109,73 @@ jobs:
           exit 0
         fi
         
-        # Upload to YouTube using metadata file
-        python scripts/upload_to_youtube.py --from-json "${{ steps.youtube_meta.outputs.metadata_json }}"
+        # Upload to YouTube and capture output
+        UPLOAD_OUTPUT=$(python scripts/upload_to_youtube.py --from-json "${{ steps.youtube_meta.outputs.metadata_json }}")
+
+        # Echo the output for debugging purposes
+        echo "$UPLOAD_OUTPUT"
+
+        # Extract the URL and set it as a step output
+        YOUTUBE_URL=$(echo "$UPLOAD_OUTPUT" | grep 'YOUTUBE_URL=' | cut -d'=' -f2)
+        if [ -z "$YOUTUBE_URL" ]; then
+          echo "::error::Could not find YouTube URL in the upload script output."
+        else
+          echo "Found YouTube URL: $YOUTUBE_URL"
+          echo "youtube_url=$YOUTUBE_URL" >> $GITHUB_OUTPUT
+        fi
 
     - name: Wait for YouTube Processing
       if: success()
       run: |
         echo "Waiting for 5 minutes for YouTube to start processing the video..."
         sleep 300
+
+    - name: Update WordPress Site
+      if: success() && steps.upload.outputs.youtube_url
+      env:
+        WORDPRESS_API_URL: https://m3org.com/tv/wp-json/jedai-council/v1/submit-episode
+        WORDPRESS_PASSCODE: ${{ secrets.WORDPRESS_PASSCODE }}
+      run: |
+        echo "Preparing to update WordPress..."
+        EPISODE_DATA_FILE="${{ steps.record.outputs.episode_data_file }}"
+        EPISODE_ID_LOWER=$(echo "${{ steps.record.outputs.episode_id }}" | tr '[:upper:]' '[:lower:]')
+        THUMBNAIL_FILE="media/thumbnails/episode_${EPISODE_ID_LOWER}_thumbnail.png"
+        YOUTUBE_URL="${{ steps.upload.outputs.youtube_url }}"
+
+        echo "Using Episode Data File: $EPISODE_DATA_FILE"
+        echo "Using Thumbnail File: $THUMBNAIL_FILE"
+
+        if [ ! -f "$EPISODE_DATA_FILE" ]; then
+          echo "::error::Episode data file not found!"
+          exit 1
+        fi
+
+        # Construct the base JSON payload
+        JSON_PAYLOAD=$(jq -n \
+          --arg passcode "$WORDPRESS_PASSCODE" \
+          --rawfile episode_data "$EPISODE_DATA_FILE" \
+          --arg youtube_url "$YOUTUBE_URL" \
+          '{ passcode: $passcode, episode_data: $episode_data, youtube_url: $youtube_url }')
+        
+        # Add the featured image to the payload if it exists
+        if [ -f "$THUMBNAIL_FILE" ]; then
+          echo "Thumbnail found, adding to payload."
+          MIME_TYPE=$(file -b --mime-type "$THUMBNAIL_FILE")
+          THUMBNAIL_BASE64=$(base64 "$THUMBNAIL_FILE" | tr -d '\n')
+          DATA_URL="data:${MIME_TYPE};base64,${THUMBNAIL_BASE64}"
+          JSON_PAYLOAD=$(echo "$JSON_PAYLOAD" | jq --arg image_data_url "$DATA_URL" '. + {featured_image: $image_data_url}')
+        else
+          echo "No thumbnail file found, submitting without it."
+        fi
+
+        # Use a temporary file to handle the large JSON payload
+        echo "$JSON_PAYLOAD" > payload.json
+        
+        echo "Sending POST request to WordPress API..."
+        curl -X POST \
+          -H "Content-Type: application/json" \
+          --data @payload.json \
+          "$WORDPRESS_API_URL"
 
     - name: Archive artifacts
       uses: actions/upload-artifact@v4
@@ -120,6 +184,7 @@ jobs:
         name: episode-recording-${{ github.run_id }}
         path: |
           recordings/*session-log.json
+          recordings/*_episode-data.json
           recordings/*youtube-meta.json
           media/thumbnails/episode_*.png
         retention-days: 7

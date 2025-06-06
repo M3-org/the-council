@@ -35,17 +35,17 @@ jobs:
         # Node.js dependencies
         npm install
         
-        # Python dependencies for YouTube upload
-        pip install google-api-python-client google-auth-oauthlib google-auth-httplib2
+        # Python dependencies from requirements.txt
+        pip install -r requirements.txt
 
     - name: Install Chrome and dependencies
       run: |
         # Update package list
         sudo apt-get update
         
-        # Install Chrome
-        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-        echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+        # Install Chrome using the more reliable method
+        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/google-chrome-keyring.gpg
+        echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
         sudo apt-get update
         sudo apt-get install -y google-chrome-stable
         
@@ -54,6 +54,10 @@ jobs:
         
         # Verify Chrome installation
         google-chrome --version
+        
+        # Set up display for headless operation
+        export DISPLAY=:99
+        Xvfb :99 -ac -screen 0 1920x1080x24 &
 
     - name: Fetch latest episode
       id: episode
@@ -110,10 +114,10 @@ jobs:
         # Record the episode with optimal settings for CI
         node scripts/recorder.js \
           --headless \
-          --mute \
-          --width=1920 \
-          --height=1080 \
-          --format=mp4 \
+          --mute-audio \
+          --video-width=1920 \
+          --video-height=1080 \
+          --output-format=mp4 \
           --stop-recording-at=end_credits \
           "${{ steps.episode.outputs.url }}"
         
@@ -167,35 +171,62 @@ jobs:
       run: |
         echo "📝 Preparing YouTube upload metadata..."
         
-        # Extract episode number from filename for YouTube title
-        VIDEO_FILE="${{ steps.record.outputs.video_file }}"
-        EPISODE_NUM=$(basename "$VIDEO_FILE" | sed 's/\(S1E[0-9]*\).*/\1/')
+        # Find the session log file
+        SESSION_LOG="${{ steps.record.outputs.session_log }}"
         
-        # Create YouTube title
-        YOUTUBE_TITLE="$EPISODE_NUM: ${{ steps.episode.outputs.title }} | JedAI Council"
-        
-        # Create description with episode info
-        YOUTUBE_DESCRIPTION="🤖 JedAI Council Episode $EPISODE_NUM: ${{ steps.episode.outputs.title }}
-        
-${{ steps.episode.outputs.excerpt }}
-
-This episode features AI agents debating and exploring the intersection of artificial intelligence, blockchain technology, and decentralized governance.
-
-📅 Recorded: $(date -d "${{ steps.episode.outputs.date }}" '+%B %d, %Y')
-🎭 Show: JedAI Council
-🌐 Platform: Shmotime
-
-🔗 Links:
-• JedAI Council: https://m3org.com/tv/jedai-council  
-• ElizaOS: https://github.com/elizaOS/eliza
-• ai16z: https://github.com/ai16z
-
-#JedAICouncil #AI #Blockchain #Web3 #ElizaOS #ai16z #Governance #AGI"
-
-        echo "title=$YOUTUBE_TITLE" >> $GITHUB_OUTPUT
-        echo "description<<EOF" >> $GITHUB_OUTPUT
-        echo "$YOUTUBE_DESCRIPTION" >> $GITHUB_OUTPUT
-        echo "EOF" >> $GITHUB_OUTPUT
+        if [ -f "$SESSION_LOG" ]; then
+          echo "📋 Using session log: $SESSION_LOG"
+          
+          # Use the Python script to extract metadata
+          python scripts/prepare_youtube_metadata.py "$SESSION_LOG"
+          
+          # Find the generated metadata JSON file
+          BASE_NAME=$(basename "$SESSION_LOG" | sed 's/_session-log\.json$//')
+          METADATA_JSON="recordings/${BASE_NAME}_youtube-meta.json"
+          
+          if [ -f "$METADATA_JSON" ]; then
+            echo "✅ Metadata JSON created: $METADATA_JSON"
+            echo "metadata_json=$METADATA_JSON" >> $GITHUB_OUTPUT
+          else
+            echo "❌ Failed to create metadata JSON"
+            exit 1
+          fi
+        else
+          echo "⚠️ Session log not found, falling back to manual metadata generation"
+          
+          # Extract episode number from filename for YouTube title
+          VIDEO_FILE="${{ steps.record.outputs.video_file }}"
+          EPISODE_NUM=$(basename "$VIDEO_FILE" | sed 's/\(S1E[0-9]*\).*/\1/')
+          
+          # Create YouTube title
+          YOUTUBE_TITLE="$EPISODE_NUM: ${{ steps.episode.outputs.title }} | JedAI Council"
+          
+          # Create description with episode info
+          EPISODE_TITLE="${{ steps.episode.outputs.title }}"
+          EPISODE_EXCERPT="${{ steps.episode.outputs.excerpt }}"
+          EPISODE_DATE="${{ steps.episode.outputs.date }}"
+          RECORDED_DATE=$(date -d "$EPISODE_DATE" '+%B %d, %Y' 2>/dev/null || echo "$(date '+%B %d, %Y')")
+          
+          echo "title=$YOUTUBE_TITLE" >> $GITHUB_OUTPUT
+          echo "description<<EOF" >> $GITHUB_OUTPUT
+          echo "🤖 JedAI Council Episode $EPISODE_NUM: $EPISODE_TITLE" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "$EPISODE_EXCERPT" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "This episode features AI agents debating and exploring the intersection of artificial intelligence, blockchain technology, and decentralized governance." >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "📅 Recorded: $RECORDED_DATE" >> $GITHUB_OUTPUT
+          echo "🎭 Show: JedAI Council" >> $GITHUB_OUTPUT
+          echo "🌐 Platform: Shmotime" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "🔗 Links:" >> $GITHUB_OUTPUT
+          echo "• JedAI Council: https://m3org.com/tv/jedai-council" >> $GITHUB_OUTPUT
+          echo "• ElizaOS: https://github.com/elizaOS/eliza" >> $GITHUB_OUTPUT
+          echo "• ai16z: https://github.com/ai16z" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "#JedAICouncil #AI #Blockchain #Web3 #ElizaOS #ai16z #Governance #AGI" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+        fi
 
     - name: Upload to YouTube
       env:
@@ -205,25 +236,33 @@ This episode features AI agents debating and exploring the intersection of artif
       run: |
         echo "📤 Uploading to YouTube..."
         echo "🎥 Video: ${{ steps.record.outputs.video_file }}"
-        echo "📝 Title: ${{ steps.youtube_meta.outputs.title }}"
         
-        # Prepare upload command
-        UPLOAD_CMD="python scripts/upload_to_youtube.py \
-          --video-file '${{ steps.record.outputs.video_file }}' \
-          --title '${{ steps.youtube_meta.outputs.title }}' \
-          --description '${{ steps.youtube_meta.outputs.description }}' \
-          --tags 'JedAI Council,AI,Blockchain,Web3,ElizaOS,ai16z,Governance,AGI,Automation' \
-          --category-id '22' \
-          --privacy-status 'private'"
-        
-        # Add thumbnail if available
-        if [ -n "${{ steps.thumbnail.outputs.thumbnail_file }}" ]; then
-          UPLOAD_CMD="$UPLOAD_CMD --thumbnail-file '${{ steps.thumbnail.outputs.thumbnail_file }}'"
-          echo "🖼️ Including thumbnail: ${{ steps.thumbnail.outputs.thumbnail_file }}"
+        # Check if we have metadata JSON file (preferred method)
+        if [ -n "${{ steps.youtube_meta.outputs.metadata_json }}" ] && [ -f "${{ steps.youtube_meta.outputs.metadata_json }}" ]; then
+          echo "📋 Using metadata JSON: ${{ steps.youtube_meta.outputs.metadata_json }}"
+          python scripts/upload_to_youtube.py --from-json "${{ steps.youtube_meta.outputs.metadata_json }}"
+        else
+          echo "📝 Using manual metadata"
+          echo "📝 Title: ${{ steps.youtube_meta.outputs.title }}"
+          
+          # Prepare upload command
+          UPLOAD_CMD="python scripts/upload_to_youtube.py \
+            --video-file '${{ steps.record.outputs.video_file }}' \
+            --title '${{ steps.youtube_meta.outputs.title }}' \
+            --description '${{ steps.youtube_meta.outputs.description }}' \
+            --tags 'JedAI Council,AI,Blockchain,Web3,ElizaOS,ai16z,Governance,AGI,Automation' \
+            --category-id '22' \
+            --privacy-status 'private'"
+          
+          # Add thumbnail if available
+          if [ -n "${{ steps.thumbnail.outputs.thumbnail_file }}" ]; then
+            UPLOAD_CMD="$UPLOAD_CMD --thumbnail-file '${{ steps.thumbnail.outputs.thumbnail_file }}'"
+            echo "🖼️ Including thumbnail: ${{ steps.thumbnail.outputs.thumbnail_file }}"
+          fi
+          
+          # Execute upload
+          eval $UPLOAD_CMD
         fi
-        
-        # Execute upload
-        eval $UPLOAD_CMD
         
         echo "✅ YouTube upload completed!"
 

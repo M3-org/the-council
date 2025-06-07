@@ -90,8 +90,9 @@ jobs:
           "${{ steps.record.outputs.session_log }}" \
           "${{ env.YOUTUBE_PLAYLIST_ID }}"
         
-        # Find generated metadata file
-        BASE_NAME=$(basename "${{ steps.record.outputs.session_log }}" | sed 's/_session-log\\.json$//')
+        # Find generated metadata file using robust shell parameter expansion
+        SESSION_LOG_FILENAME=$(basename "${{ steps.record.outputs.session_log }}")
+        BASE_NAME="${SESSION_LOG_FILENAME%_session-log.json}"
         METADATA_JSON="recordings/${BASE_NAME}_youtube-meta.json"
         
         echo "metadata_json=$METADATA_JSON" >> $GITHUB_OUTPUT

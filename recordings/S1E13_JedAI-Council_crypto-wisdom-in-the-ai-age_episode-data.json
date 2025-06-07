@@ -1,6 +1,6 @@
 {
   "id": "S1E13",
-  "title": "Crypto Wisdom in the AI Age",
+  "name": "Crypto Wisdom in the AI Age",
   "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4710-featured-1749009684.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4710-featured-1749009684-150x150.png",
   "premise": "The council explores how AI, blockchain, and meme culture are reshaping our world, discussing Shaw Makesmagic's views on job displacement, programming languages, and ElizaOS's upcoming V2 announcement.",
@@ -18,7 +18,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -135,7 +135,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

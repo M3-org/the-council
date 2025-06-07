@@ -1,6 +1,6 @@
 {
   "id": "S1E4",
-  "title": "Composability vs. Autonomy: The ElizaOS Paradox",
+  "name": "Composability vs. Autonomy: The ElizaOS Paradox",
   "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4649-featured-1748318465.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4649-featured-1748318465-150x150.png",
   "premise": "The council debates the philosophical underpinnings of ElizaOS v2's imminent release and what it means for the future of AI agents.",
@@ -18,7 +18,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -128,7 +128,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

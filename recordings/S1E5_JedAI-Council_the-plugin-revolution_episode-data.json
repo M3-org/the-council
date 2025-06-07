@@ -1,6 +1,6 @@
 {
   "id": "S1E5",
-  "title": "The Plugin Revolution",
+  "name": "The Plugin Revolution",
   "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4655-featured-1748404994.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4655-featured-1748404994-150x150.png",
   "premise": "As ElizaOS approaches its V2 launch, the council debates the philosophical implications of plugin decentralization, multi-agent ecosystems, and token economics.",
@@ -18,7 +18,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -128,7 +128,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

@@ -1,6 +1,6 @@
 {
   "id": "S1E8",
-  "title": "The Multi-Chain Vision",
+  "name": "The Multi-Chain Vision",
   "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4676-featured-1748578276.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4676-featured-1748578276-150x150.png",
   "premise": "The council debates the implications of ElizaOS V2's multi-chain capabilities and the revitalization of auto.fun as an AI startup launchpad.",
@@ -18,7 +18,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -135,7 +135,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

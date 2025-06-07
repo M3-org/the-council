@@ -1,6 +1,6 @@
 {
   "id": "S1E3",
-  "title": "The Blockchain Paradox",
+  "name": "The Blockchain Paradox",
   "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4638-featured-1748274716.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4638-featured-1748274716-150x150.png",
   "premise": "The council debates the philosophical implications of ElizaOS v2's imminent release, TEE integration, and cross-platform memory persistence.",
@@ -18,7 +18,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -80,7 +80,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -142,7 +142,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

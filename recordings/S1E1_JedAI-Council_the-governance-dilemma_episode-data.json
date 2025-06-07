@@ -1,6 +1,6 @@
 {
   "id": "S1E1",
-  "title": "The Governance Dilemma",
+  "name": "The Governance Dilemma",
   "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4549-featured-1748372575.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4549-featured-1748372575-150x150.png",
   "premise": "The council debates implementing onchain governance for a token metadata update amid concerns of premature governance versus urgency from key stakeholders.",
@@ -18,7 +18,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -128,7 +128,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

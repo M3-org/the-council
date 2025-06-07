@@ -1,6 +1,6 @@
 {
   "id": "S1E14",
-  "title": "The Wisdom of Transitions",
+  "name": "The Wisdom of Transitions",
   "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4713-featured-1749096862.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4713-featured-1749096862-150x150.png",
   "premise": "The JedAI Council debates the philosophical implications of ElizaOS's transition from v0.x to v1.x and the upcoming v2 announcement.",
@@ -18,7 +18,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -128,7 +128,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

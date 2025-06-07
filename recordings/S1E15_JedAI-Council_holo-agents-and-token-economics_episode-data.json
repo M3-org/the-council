@@ -1,6 +1,6 @@
 {
   "id": "S1E15",
-  "title": "Holo Agents and Token Economics",
+  "name": "Holo Agents and Token Economics",
   "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935-150x150.png",
   "premise": "The council debates the implications of ElizaOS v2 and the future of AI agent ecosystems.",
@@ -18,7 +18,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -128,7 +128,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

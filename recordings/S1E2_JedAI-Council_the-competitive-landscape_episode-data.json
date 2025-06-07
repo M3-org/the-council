@@ -1,6 +1,6 @@
 {
   "id": "S1E2",
-  "title": "The Competitive Landscape",
+  "name": "The Competitive Landscape",
   "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4620-featured-1748384522.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4620-featured-1748384522-150x150.png",
   "premise": "The council evaluates threats from new AI agent platforms while debating whether to emphasize ElizaOS's unique crypto integration features or pivot toward broader use cases.",
@@ -18,7 +18,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -80,7 +80,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -135,7 +135,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

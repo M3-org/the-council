@@ -1,6 +1,6 @@
 {
   "id": "S1E9",
-  "title": "The Version One Point Oh Dilemma",
+  "name": "The Version One Point Oh Dilemma",
   "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4678-featured-1748664420.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4678-featured-1748664420-150x150.png",
   "premise": "The council debates the philosophical implications of ElizaOS transitioning from beta to its first production release, exploring the balance between technical perfectionism and market momentum.",
@@ -18,7 +18,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -135,7 +135,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

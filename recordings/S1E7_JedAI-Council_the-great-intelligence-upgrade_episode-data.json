@@ -1,6 +1,6 @@
 {
   "id": "S1E7",
-  "title": "The Great Intelligence Upgrade",
+  "name": "The Great Intelligence Upgrade",
   "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4665-featured-1748492007.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4665-featured-1748492007-150x150.png",
   "premise": "The JedAI Council debates the implications of ElizaOS v2 and its potential impact on token economics, autonomous agents, and work in the AI era.",
@@ -18,7 +18,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -128,7 +128,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

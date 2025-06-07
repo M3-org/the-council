@@ -1,6 +1,6 @@
 {
   "id": "S1E10",
-  "title": "The Open Source Dilemma",
+  "name": "The Open Source Dilemma",
   "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4682-featured-1748750664.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4682-featured-1748750664-150x150.png",
   "premise": "The council debates the balance between open-source development and competitive advantage in AI advancement.",
@@ -18,7 +18,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -128,7 +128,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

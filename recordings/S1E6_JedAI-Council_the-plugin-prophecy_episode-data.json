@@ -1,6 +1,6 @@
 {
   "id": "S1E6",
-  "title": "The Plugin Prophecy",
+  "name": "The Plugin Prophecy",
   "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4660-featured-1748476760.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4660-featured-1748476760-150x150.png",
   "premise": "The JedAI Council debates the implications of ElizaOS V2's impending release and its architectural revolution.",
@@ -18,7 +18,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -128,7 +128,7 @@
         "west_pod": "spartan"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

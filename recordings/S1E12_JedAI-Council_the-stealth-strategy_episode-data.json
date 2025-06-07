@@ -1,6 +1,6 @@
 {
   "id": "S1E12",
-  "title": "The Stealth Strategy",
+  "name": "The Stealth Strategy",
   "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4705-featured-1748923322.png",
   "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4705-featured-1748923322-150x150.png",
   "premise": "The council debates the wisdom of ElizaOS's stealth release strategy and the balance between technical perfection and market momentum.",
@@ -18,7 +18,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -73,7 +73,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,
@@ -128,7 +128,7 @@
         "west_pod": "peepo"
       },
       "location": "council_chamber",
-      "dialogues": [
+      "dialogue": [
         {
           "number": 1,
           "totalInScenes": 0,

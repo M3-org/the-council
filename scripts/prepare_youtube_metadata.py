@@ -29,10 +29,12 @@ def extract_youtube_metadata(session_log_path, playlist_id=None):
     
     # Extract core episode data
     episode_data = session_data.get('episode_data', {})
-    show_config = session_data.get('show_config', {})
-    
-    episode_id = episode_data.get('id', 'Unknown')
-    episode_title = episode_data.get('title', 'Unknown Episode')
+    if not episode_data:
+        print(f"Error: 'episode_data' not found in {session_log_path}")
+        sys.exit(1)
+
+    episode_id = episode_data.get('id', 'S?E?')
+    episode_title = episode_data.get('name', 'Unknown Episode')
     episode_premise = episode_data.get('premise', '')
     
     # Get video file paths
@@ -52,11 +54,19 @@ def extract_youtube_metadata(session_log_path, playlist_id=None):
     youtube_title = f"JedAI Council {episode_id}: {episode_title}"
     
     # Create comprehensive description
+    show_config = session_data.get('show_config', {})
     show_description = show_config.get('description', '')
+    
+    # Generate a simple description from scene summaries
+    scene_descriptions = ""
+    for scene in session_data.get('scenes', []):
+        scene_descriptions += f"{scene.get('summary', 'Scene summary not available')}\n"
     
     youtube_description = f"""JedAI Council Episode {episode_id}: {episode_title}
 
 {episode_premise}
+
+{scene_descriptions}
 
 {show_description}
 
@@ -66,9 +76,6 @@ Show: JedAI Council
 Links:
 • JedAI Council: https://m3org.com/tv/jedai-council
 • ElizaOS: https://github.com/elizaOS/eliza
-• ai16z: https://github.com/ai16z
-• Shmotime: https://shmotime.com
-
 """
     
     # Generate tags
@@ -84,7 +91,7 @@ Links:
         "Automation",
         "Crypto",
         "Agents",
-        "Eliza Framework"
+        "DAO"
     ]
     
     # Try to find thumbnail from episode data
@@ -99,6 +106,7 @@ Links:
     return {
         'episode_id': episode_id,
         'episode_title': episode_title,
+        'episode_premise': episode_premise,
         'video_file': video_path,
         'youtube_title': youtube_title,
         'youtube_description': youtube_description,
@@ -264,7 +272,10 @@ def main():
     if save_metadata_json(metadata, json_output):
         print(f"Metadata saved: {json_output}")
     
-    print(f"Ready for upload: Episode {metadata['episode_id']}")
+    print(f"✅ YouTube metadata prepared successfully for {base_name}")
+    print(f"Episode: {metadata['episode_title']} ({metadata['episode_id']})")
+    print(f"Thumbnail: {metadata['thumbnail_file']}")
+    print(f"YouTube Title: {metadata['youtube_title']}")
 
 if __name__ == '__main__':
     main() 

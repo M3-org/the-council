@@ -136,7 +136,7 @@ class ShmotimeRecorder {
           elevenlabs_voice_id: actor.elevenlabs_voice_id || '',
           image: actor.image || '',
           image_thumb: actor.image_thumb || '',
-          title: actor.title || ''
+          name: actor.title || ''
         };
       });
     }
@@ -148,7 +148,7 @@ class ShmotimeRecorder {
           description: location.description || '',
           image: location.image || '',
           image_thumb: location.image_thumb || '',
-          title: location.title || '',
+          name: location.title || '',
           slots: {
             north_pod: location.slots?.north_pod || '',
             south_pod: location.slots?.south_pod || '',
@@ -167,7 +167,7 @@ class ShmotimeRecorder {
     this.log('Processing episode data...');
     this.episodeData = {
       id: episodeData.id || '',
-      title: episodeData.title || '',
+      name: episodeData.title || '',
       image: episodeData.image || false,
       image_thumb: episodeData.image_thumb || false,
       premise: episodeData.premise || '',
@@ -188,7 +188,7 @@ class ShmotimeRecorder {
           west_pod: scene.cast?.west_pod || undefined
         },
         location: scene.location || '',
-        dialogues: (scene.dialogues || []).map(dialogue => ({
+        dialogue: (scene.dialogues || []).map(dialogue => ({
           number: dialogue.number || 0,
           totalInScenes: dialogue.totalInScenes || 0,
           action: dialogue.action || '',
@@ -209,14 +209,14 @@ class ShmotimeRecorder {
   }
 
   updateFilenameWithEpisodeData() {
-    if (!this.episodeData?.id || !this.episodeData?.title || !this.outputFile?.path) {
+    if (!this.episodeData?.id || !this.episodeData?.name || !this.outputFile?.path) {
       return; // Can't update without complete data
     }
 
     const oldPath = this.outputFile.path;
     const extension = path.extname(oldPath);
     const episodeId = this.episodeData.id; // S1E12
-    const cleanTitle = this.episodeData.title.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-');
+    const cleanTitle = this.episodeData.name.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-');
     const suffix = this.options.filenameSuffix ? `_${this.options.filenameSuffix}` : '';
     
     const newFilename = `${episodeId}_JedAI-Council_${cleanTitle}${suffix}${extension}`;
@@ -344,9 +344,9 @@ class ShmotimeRecorder {
       const jsonExportTimestamp = new Date().toISOString().replace(/[:.]/g, '-');
 
       // Priority 1: Use captured episode data from platform (preferred)
-      if (this.episodeData?.id && this.episodeData?.title) {
+      if (this.episodeData?.id && this.episodeData?.name) {
         const episodeNumber = this.episodeData.id; // S1E12
-        const cleanTitle = this.episodeData.title.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-');
+        const cleanTitle = this.episodeData.name.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-');
         const suffix = this.options.filenameSuffix ? `_${this.options.filenameSuffix}` : '';
         baseNameForLog = `${episodeNumber}_JedAI-Council_${cleanTitle}${suffix}`;
       } else if (this.options.episodeData) {
@@ -359,8 +359,8 @@ class ShmotimeRecorder {
         baseNameForLog = path.basename(this.outputFile.path).replace(/\.\w+$/, '');
       } else {
         // Legacy fallback: create a unique name for the JSON log using current timestamp
-        const showPart = (this.episodeInfo?.showTitle || this.showConfig?.title || 'show').replace(/[^a-zA-Z0-9]/g, '-');
-        const titlePart = (this.episodeInfo?.title || this.episodeData?.title || this.episodeData?.id || 'episode').replace(/[^a-zA-Z0-9]/g, '-');
+        const showPart = (this.episodeInfo?.showTitle || this.showConfig?.name || 'show').replace(/[^a-zA-Z0-9]/g, '-');
+        const titlePart = (this.episodeInfo?.name || this.episodeData?.name || this.episodeData?.id || 'episode').replace(/[^a-zA-Z0-9]/g, '-');
         baseNameForLog = `${showPart}-${titlePart}-${jsonExportTimestamp}`;
       }
 
@@ -413,7 +413,7 @@ class ShmotimeRecorder {
 
       this.episodeInfo = await this.page.evaluate(() => {
         return {
-          title: document.title.split(' - ')[0] || 'episode',
+          name: document.title.split(' - ')[0] || 'episode',
           showTitle: window.shmotimeVoice?.showTitle || 'show',
           episodeId: window.shmotimeVoice?.shmotimeId || ''
         };
@@ -436,7 +436,7 @@ class ShmotimeRecorder {
         });
       });
 
-      this.log(`Loaded episode: ${this.episodeInfo.title}`);
+      this.log(`Loaded episode: ${this.episodeInfo.name}`);
       return this.episodeInfo;
     } catch (error) {
       this.log(`Error loading episode: ${error.message}`, 'error');
@@ -486,9 +486,9 @@ class ShmotimeRecorder {
 
   getRecordingFilename(extension = 'webm') {
     // Priority 1: Use captured episode data from platform (preferred)
-    if (this.episodeData?.id && this.episodeData?.title) {
+    if (this.episodeData?.id && this.episodeData?.name) {
       const episodeNumber = this.episodeData.id; // S1E12
-      const cleanTitle = this.episodeData.title.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-');
+      const cleanTitle = this.episodeData.name.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-');
       const suffix = this.options.filenameSuffix ? `_${this.options.filenameSuffix}` : '';
       return path.join(this.options.outputDir, `${episodeNumber}_JedAI-Council_${cleanTitle}${suffix}.${extension}`);
     }
@@ -504,7 +504,7 @@ class ShmotimeRecorder {
     // Priority 3: Legacy fallback for timestamp-based naming
     const date = new Date().toISOString().replace(/[:.]/g, '-');
     const show = (this.episodeInfo?.showTitle || 'show').replace(/[^a-zA-Z0-9]/g, '-');
-    const title = (this.episodeInfo?.title || 'episode').replace(/[^a-zA-Z0-9]/g, '-');
+    const title = (this.episodeInfo?.name || 'episode').replace(/[^a-zA-Z0-9]/g, '-');
     const suffix = this.options.filenameSuffix ? `_${this.options.filenameSuffix}` : '';
     return path.join(this.options.outputDir, `${show}_${title}${suffix}_${date}.${extension}`);
   }
@@ -1218,7 +1218,7 @@ Examples:
   node recorder.js --stop-recording-at=never https://shmotime.com/episode-url/
   
   # With episode data for proper naming
-  node recorder.js --episode-data='{"episode_number":"S1E10","clean_title":"The-Wisdom-of-Transitions","title":"The Wisdom of Transitions"}' https://shmotime.com/shmotime_episode/the-wisdom-of-transitions/
+  node recorder.js --episode-data='{"episode_number":"S1E10","clean_title":"The-Wisdom-of-Transitions","name":"The Wisdom of Transitions"}' https://shmotime.com/shmotime_episode/the-wisdom-of-transitions/
 `);
     process.exit(0);
   }
@@ -1246,7 +1246,7 @@ Examples:
   if (episodeDataRaw) {
     try {
       episodeData = JSON.parse(episodeDataRaw);
-      console.log(`📺 Using episode data: ${episodeData.episode_number} - ${episodeData.title}`);
+      console.log(`📺 Using episode data: ${episodeData.episode_number} - ${episodeData.name}`);
     } catch (error) {
       console.error(`❌ Invalid episode data JSON: ${error.message}`);
       process.exit(1);
@@ -1300,7 +1300,7 @@ async function main() {
   console.log(`Video: ${options.videoWidth}x${options.videoHeight}@${options.frameRate}fps`);
   
   if (options.episodeData) {
-    console.log(`🎬 Episode: ${options.episodeData.episode_number} - ${options.episodeData.title}`);
+    console.log(`🎬 Episode: ${options.episodeData.episode_number} - ${options.episodeData.name}`);
     console.log(`📁 Expected filename: ${options.episodeData.episode_number}_JedAI-Council-${options.episodeData.clean_title}.${options.outputFormat}`);
   }
 

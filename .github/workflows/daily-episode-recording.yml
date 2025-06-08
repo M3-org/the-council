@@ -71,11 +71,18 @@ jobs:
           --stop-recording-at=end_postcredits \
           "${{ steps.episode.outputs.url }}"
         
-        # Find generated files
-        VIDEO_FILE=$(find recordings/ -name "*.mp4" -type f -mtime 0 | head -1)
-        SESSION_LOG=$(find recordings/ -name "*session-log.json" -type f -mtime 0 | head -1)
-        EPISODE_DATA_FILE=$(find recordings/ -name "*_episode-data.json" -type f -mtime 0 | head -1)
+        # Find the most recently created files (not just files from today)
+        VIDEO_FILE=$(find recordings/ -name "*.mp4" -type f -printf '%T@ %p\n' | sort -n | tail -1 | cut -d' ' -f2-)
+        SESSION_LOG=$(find recordings/ -name "*session-log.json" -type f -printf '%T@ %p\n' | sort -n | tail -1 | cut -d' ' -f2-)
+        EPISODE_DATA_FILE=$(find recordings/ -name "*_episode-data.json" -type f -printf '%T@ %p\n' | sort -n | tail -1 | cut -d' ' -f2-)
+        
+        # Debug: Show what files were found
+        echo "Debug: Found VIDEO_FILE: $VIDEO_FILE"
+        echo "Debug: Found SESSION_LOG: $SESSION_LOG"
+        echo "Debug: Found EPISODE_DATA_FILE: $EPISODE_DATA_FILE"
+        
         EPISODE_ID=$(jq -r '.id' "$EPISODE_DATA_FILE")
+        echo "Debug: Extracted EPISODE_ID: $EPISODE_ID"
         
         echo "video_file=$VIDEO_FILE" >> $GITHUB_OUTPUT
         echo "session_log=$SESSION_LOG" >> $GITHUB_OUTPUT

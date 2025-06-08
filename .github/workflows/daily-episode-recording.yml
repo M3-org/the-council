@@ -85,6 +85,11 @@ jobs:
     - name: Prepare YouTube metadata
       id: youtube_meta
       run: |
+        # Debug: Show what files were found by the record step
+        echo "Debug: SESSION_LOG from record step: ${{ steps.record.outputs.session_log }}"
+        echo "Debug: EPISODE_DATA_FILE from record step: ${{ steps.record.outputs.episode_data_file }}"
+        echo "Debug: EPISODE_ID from record step: ${{ steps.record.outputs.episode_id }}"
+        
         # Generate YouTube metadata and download thumbnail
         python scripts/prepare_youtube_metadata.py \
           "${{ steps.record.outputs.session_log }}" \
@@ -95,6 +100,7 @@ jobs:
         BASE_NAME="${SESSION_LOG_FILENAME%_session-log.json}"
         METADATA_JSON="recordings/${BASE_NAME}_youtube-meta.json"
         
+        echo "Debug: Generated METADATA_JSON: $METADATA_JSON"
         echo "metadata_json=$METADATA_JSON" >> $GITHUB_OUTPUT
 
     - name: Upload to YouTube

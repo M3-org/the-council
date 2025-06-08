@@ -100,7 +100,7 @@ Links:
     
     if thumbnail_url:
         # Extract filename from URL for local download
-        thumbnail_filename = f"episode_{episode_id.lower()}_thumbnail.png"
+        thumbnail_filename = f"{episode_id}.jpg"
         thumbnail_file = f"media/thumbnails/{thumbnail_filename}"
     
     return {
@@ -204,7 +204,10 @@ def download_thumbnail(url, output_path):
         # Ensure directory exists
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         
-        response = requests.get(url, stream=True)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        response = requests.get(url, stream=True, headers=headers)
         response.raise_for_status()
         
         # Download to temporary location first

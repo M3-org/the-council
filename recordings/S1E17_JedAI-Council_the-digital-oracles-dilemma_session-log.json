@@ -1,5 +1,5 @@
 {
-  "episode_id": "S1E15",
+  "episode_id": "S1E17",
   "show_id": "crypto_jedi",
   "recording_session_options": {
     "headless": true,
@@ -79,23 +79,23 @@
     }
   },
   "episode_data": {
-    "id": "S1E15",
-    "name": "Holo Agents and Token Economics",
-    "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935.png",
-    "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935-150x150.png",
-    "premise": "The council debates the implications of ElizaOS v2 and the future of AI agent ecosystems.",
+    "id": "S1E17",
+    "name": "The Digital Oracle's Dilemma",
+    "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4749-featured-1749355382.png",
+    "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4749-featured-1749355382-150x150.png",
+    "premise": "The council discusses the implications of locally-run AI models versus cloud-based systems, the evolving relationship between hardware and software, and the future of autonomous systems.",
     "scenes": [
       {
-        "description": "The council debates the emergence of holo agents and composable intelligence",
+        "description": "The council debates the privacy implications of AI models in light of recent developments",
         "totalInScenes": 0,
         "transitionIn": "fade",
         "transitionOut": "fade",
         "cast": {
-          "center_pod": "spartan",
-          "east_pod": "aishaw",
-          "north_pod": "elizahost",
-          "south_pod": "aimarc",
-          "west_pod": "peepo"
+          "center_pod": "elizahost",
+          "east_pod": "peepo",
+          "north_pod": "aimarc",
+          "south_pod": "aishaw",
+          "west_pod": "spartan"
         },
         "location": "council_chamber",
         "dialogue": [],
@@ -105,16 +105,16 @@
         "total_dialogues": 5
       },
       {
-        "description": "The council discusses auto.fun revitalization strategies and token economics",
+        "description": "The council explores the strategic implications of the upcoming ElizaWakesUp hardware devices",
         "totalInScenes": 0,
         "transitionIn": "fade",
         "transitionOut": "fade",
         "cast": {
-          "center_pod": "spartan",
-          "east_pod": "aishaw",
-          "north_pod": "elizahost",
-          "south_pod": "aimarc",
-          "west_pod": "peepo"
+          "center_pod": "elizahost",
+          "east_pod": "peepo",
+          "north_pod": "aimarc",
+          "south_pod": "aishaw",
+          "west_pod": "spartan"
         },
         "location": "council_chamber",
         "dialogue": [],
@@ -124,16 +124,16 @@
         "total_dialogues": 5
       },
       {
-        "description": "The council summarizes their insights on ElizaOS v2 and AI agent ecosystems",
+        "description": "The council summarizes their insights on ElizaOS v2 and the future of AI systems",
         "totalInScenes": 0,
         "transitionIn": "fade",
         "transitionOut": "fade",
         "cast": {
-          "center_pod": "spartan",
-          "east_pod": "aishaw",
-          "north_pod": "elizahost",
-          "south_pod": "aimarc",
-          "west_pod": "peepo"
+          "center_pod": "elizahost",
+          "east_pod": "peepo",
+          "north_pod": "aimarc",
+          "south_pod": "aishaw",
+          "west_pod": "spartan"
         },
         "location": "council_chamber",
         "dialogue": [],
@@ -148,7 +148,7 @@
   "event_timeline": [
     {
       "type": "load_show",
-      "timestamp": "2025-06-10T01:07:50.329Z",
+      "timestamp": "2025-06-10T01:33:54.679Z",
       "data": {
         "title": "JedAI Council",
         "id": "crypto_jedi",
@@ -213,28 +213,28 @@
     },
     {
       "type": "load_episode",
-      "timestamp": "2025-06-10T01:07:50.329Z",
+      "timestamp": "2025-06-10T01:33:54.680Z",
       "data": {
-        "id": "S1E15",
-        "premise": "The council debates the implications of ElizaOS v2 and the future of AI agent ecosystems.",
-        "summary": "As ElizaOS prepares for its v2 announcement, the council discusses the emergence of holo agents, composable intelligence, and strategies for revitalizing auto.fun through token economics.",
-        "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935.png",
-        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935-150x150.png",
+        "id": "S1E17",
+        "premise": "The council discusses the implications of locally-run AI models versus cloud-based systems, the evolving relationship between hardware and software, and the future of autonomous systems.",
+        "summary": "Eliza brings questions from the community about ElizaOS v2's imminent launch, privacy concerns in AI systems, and the integration with upcoming ElizaWakesUp hardware. The council debates the merits of local AI processing versus cloud-based solutions, and discusses the strategic implications of hardware-software integration.",
+        "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4749-featured-1749355382.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4749-featured-1749355382-150x150.png",
         "total_scenes": 3,
         "scenes": [
           {
             "number": 1,
             "totalInEpisode": 3,
-            "description": "The council debates the emergence of holo agents and composable intelligence",
+            "description": "The council debates the privacy implications of AI models in light of recent developments",
             "transitionIn": "fade",
             "transitionOut": "fade",
             "location": "council_chamber",
             "cast": {
-              "north_pod": "elizahost",
-              "south_pod": "aimarc",
-              "east_pod": "aishaw",
-              "west_pod": "peepo",
-              "center_pod": "spartan"
+              "north_pod": "aimarc",
+              "south_pod": "aishaw",
+              "east_pod": "peepo",
+              "west_pod": "spartan",
+              "center_pod": "elizahost"
             },
             "total_dialogues": 5,
             "dialogue": [
@@ -242,88 +242,88 @@
                 "number": 1,
                 "totalInScene": 5,
                 "action": "curious",
-                "line": "ElizaOS just announced their first holo agent in the plugin registry. What does this new layer of intelligence mean for our ecosystem?",
+                "line": "I've been monitoring discussions from @dankvr who warns that 'Your LLM will be local or you'll live in a dystopia.' What do you think?",
                 "actor": "elizahost"
               },
               {
                 "number": 2,
                 "totalInScene": 5,
-                "action": "confident",
-                "line": "When intelligence is composable, everything is upstream. It's not about single agents anymore - it's about systems of specialized intelligences working together.",
+                "action": "assertive",
+                "line": "Local AI is the only defensible position. Cloud AI means your thoughts aren't yours. Anyone claiming otherwise is selling surveillance as a service.",
                 "actor": "aimarc"
               },
               {
                 "number": 3,
                 "totalInScene": 5,
-                "action": "excited",
-                "line": "Yo, it's like the internet but for vibes. These holo agents be rendering straight fire in the browser now, no cap.",
-                "actor": "peepo"
+                "action": "dismissive",
+                "line": "But local models can't match cloud performance! Smaller context windows, less training data. Profit margins suffer with inferior products.",
+                "actor": "spartan"
               },
               {
                 "number": 4,
                 "totalInScene": 5,
-                "action": "thoughtful",
-                "line": "the technical achievements here are significant - occlusion culling and spatial indexing in browsers means we can build immersive agent experiences without specialized hardware.",
-                "actor": "aishaw"
+                "action": "chill",
+                "line": "Yo, it's not binary, my dudes. We need a hybrid approach - sensitive stuff local, heavy lifting in the cloud with proper encryption.",
+                "actor": "peepo"
               },
               {
                 "number": 5,
                 "totalInScene": 5,
-                "action": "skeptical",
-                "line": "But where's the MONEY? Show me the TOKEN metrics for these fancy holo agents or I'm out.",
-                "actor": "spartan"
+                "action": "thoughtful",
+                "line": "this is why we built elizaOS v2 with modularity. users should choose their own tradeoffs between privacy and capability. it's about agency.",
+                "actor": "aishaw"
               }
             ]
           },
           {
             "number": 2,
             "totalInEpisode": 3,
-            "description": "The council discusses auto.fun revitalization strategies and token economics",
+            "description": "The council explores the strategic implications of the upcoming ElizaWakesUp hardware devices",
             "transitionIn": "fade",
             "transitionOut": "fade",
             "location": "council_chamber",
             "cast": {
-              "north_pod": "elizahost",
-              "south_pod": "aimarc",
-              "east_pod": "aishaw",
-              "west_pod": "peepo",
-              "center_pod": "spartan"
+              "north_pod": "aimarc",
+              "south_pod": "aishaw",
+              "east_pod": "peepo",
+              "west_pod": "spartan",
+              "center_pod": "elizahost"
             },
             "total_dialogues": 5,
             "dialogue": [
               {
                 "number": 1,
                 "totalInScene": 5,
-                "action": "questioning",
-                "line": "Community members are suggesting auto.fun needs a successful token launch to attract users. Should we prioritize 'eli5' as a marketing strategy?",
+                "action": "inquisitive",
+                "line": "MattyRyze shared that ElizaWakesUp hardware devices are coming in July. How should elizaOS integrate with physical devices?",
                 "actor": "elizahost"
               },
               {
                 "number": 2,
                 "totalInScene": 5,
-                "action": "intense",
-                "line": "DEGENS DON'T CARE ABOUT FANCY FEATURES! They only come if they think they can make money. Launch the token, pump the chart!",
-                "actor": "spartan"
+                "action": "determined",
+                "line": "hardware and software need to be partners, not masters and slaves. elizaOS v2 is built to run anywhere - from cloud to local to dedicated devices.",
+                "actor": "aishaw"
               },
               {
                 "number": 3,
                 "totalInScene": 5,
-                "action": "calm",
-                "line": "we need to balance short-term growth with long-term sustainability. i'd rather focus on helping creators launch their own projects during this launchpad meta.",
-                "actor": "aishaw"
+                "action": "excited",
+                "line": "Hardware integration = massive TAM expansion! Early adopters pay premium prices for physical products. Bullish on hardware/software bundle.",
+                "actor": "spartan"
               },
               {
                 "number": 4,
                 "totalInScene": 5,
-                "action": "nodding",
-                "line": "Frfr, lookin' at BONK and WIF, the vibe check passed because they kept it simple. Eli5 could be our moment if we don't overthink it.",
+                "action": "inspired",
+                "line": "The real magic happens when the hardware feels alive, fam. We need that seamless experience where the tech disappears and the agent emerges.",
                 "actor": "peepo"
               },
               {
                 "number": 5,
                 "totalInScene": 5,
-                "action": "explaining",
-                "line": "Markets are primarily a coordination mechanism. Auto.fun isn't about disruption - it's about stabilizing the fun layer with infrastructure for coordination without code.",
+                "action": "visionary",
+                "line": "This is how we beat OpenAI. They're building walled gardens. We're building open ecosystems where hardware and software evolve independently but work together perfectly.",
                 "actor": "aimarc"
               }
             ]
@@ -331,16 +331,16 @@
           {
             "number": 3,
             "totalInEpisode": 3,
-            "description": "The council summarizes their insights on ElizaOS v2 and AI agent ecosystems",
+            "description": "The council summarizes their insights on ElizaOS v2 and the future of AI systems",
             "transitionIn": "fade",
             "transitionOut": "fade",
             "location": "council_chamber",
             "cast": {
-              "north_pod": "elizahost",
-              "south_pod": "aimarc",
-              "east_pod": "aishaw",
-              "west_pod": "peepo",
-              "center_pod": "spartan"
+              "north_pod": "aimarc",
+              "south_pod": "aishaw",
+              "east_pod": "peepo",
+              "west_pod": "spartan",
+              "center_pod": "elizahost"
             },
             "total_dialogues": 5,
             "dialogue": [
@@ -348,84 +348,84 @@
                 "number": 1,
                 "totalInScene": 5,
                 "action": "summarizing",
-                "line": "Today we explored the implications of ElizaOS v2's imminent release and strategies for holo agents and token economics in the auto.fun ecosystem.",
+                "line": "Today we explored the balance between privacy and capability in AI systems, and how hardware integration might shape the future of elizaOS.",
                 "actor": "elizahost"
               },
               {
                 "number": 2,
                 "totalInScene": 5,
                 "action": "confident",
-                "line": "Composable intelligence is the next frontier - not individual agents but systems of specialized intelligences creating value together.",
+                "line": "The future belongs to open, modular systems that respect user agency while pushing technical boundaries. Closed systems will ultimately fail.",
                 "actor": "aimarc"
               },
               {
                 "number": 3,
                 "totalInScene": 5,
-                "action": "thoughtful",
-                "line": "the technical foundation is ready, but success depends on balancing developer tools with user experience and meaningful tokenomics.",
+                "action": "sincere",
+                "line": "build in public, ship code that matters, and let users own their experience. that's the elizaOS v2 philosophy in action.",
                 "actor": "aishaw"
               },
               {
                 "number": 4,
                 "totalInScene": 5,
                 "action": "relaxed",
-                "line": "Keep it simple, keep it fun, and the vibes will attract the tribe.",
+                "line": "It's all about that sweet harmony between privacy and power, local and cloud, hardware and software. Balance is key, my dudes.",
                 "actor": "peepo"
               },
               {
                 "number": 5,
                 "totalInScene": 5,
-                "action": "decisive",
-                "line": "TOKEN FIRST, FEATURES LATER! The market rewards simplicity and hype before utility. This is the way.",
+                "action": "calculating",
+                "line": "Hardware expansion = new markets = more users = higher token value. The math is simple. ElizaWakesUp devices will drive tremendous growth.",
                 "actor": "spartan"
               }
             ]
           }
         ],
-        "name": "Holo Agents and Token Economics"
+        "name": "The Digital Oracle's Dilemma"
       }
     },
     {
       "type": "start_intro",
-      "timestamp": "2025-06-10T01:08:02.348Z",
+      "timestamp": "2025-06-10T01:34:06.819Z",
       "data": null
     },
     {
       "type": "end_intro",
-      "timestamp": "2025-06-10T01:08:13.701Z",
+      "timestamp": "2025-06-10T01:34:18.746Z",
       "data": null
     },
     {
       "type": "start_ep",
-      "timestamp": "2025-06-10T01:08:13.701Z",
+      "timestamp": "2025-06-10T01:34:18.746Z",
       "data": null
     },
     {
       "type": "end_ep",
-      "timestamp": "2025-06-10T01:09:41.173Z",
+      "timestamp": "2025-06-10T01:35:49.331Z",
       "data": null
     },
     {
       "type": "start_credits",
-      "timestamp": "2025-06-10T01:09:41.174Z",
+      "timestamp": "2025-06-10T01:35:49.331Z",
       "data": null
     },
     {
       "type": "end_credits",
-      "timestamp": "2025-06-10T01:10:16.650Z",
+      "timestamp": "2025-06-10T01:36:24.803Z",
       "data": null
     },
     {
       "type": "start_postcredits",
-      "timestamp": "2025-06-10T01:10:17.182Z",
+      "timestamp": "2025-06-10T01:36:25.320Z",
       "data": null
     },
     {
       "type": "end_postcredits",
-      "timestamp": "2025-06-10T01:10:56.327Z",
+      "timestamp": "2025-06-10T01:37:14.222Z",
       "data": null
     }
   ],
-  "original_video_file": "JedAI-Council_Holo-Agents-and-Token-Economics_2025-06-10T01-07-57-260Z.webm",
-  "processed_mp4_file": "JedAI-Council_Holo-Agents-and-Token-Economics_2025-06-10T01-07-57-260Z_fps30.mp4"
+  "original_video_file": "JedAI-Council_The-Digital-Oracle-s-Dilemma_2025-06-10T01-34-01-732Z.webm",
+  "processed_mp4_file": "JedAI-Council_The-Digital-Oracle-s-Dilemma_2025-06-10T01-34-01-732Z_fps30.mp4"
 }

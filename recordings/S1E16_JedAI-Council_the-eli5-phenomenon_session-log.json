@@ -1,5 +1,5 @@
 {
-  "episode_id": "S1E15",
+  "episode_id": "S1E16",
   "show_id": "crypto_jedi",
   "recording_session_options": {
     "headless": true,
@@ -79,23 +79,23 @@
     }
   },
   "episode_data": {
-    "id": "S1E15",
-    "name": "Holo Agents and Token Economics",
-    "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935.png",
-    "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935-150x150.png",
-    "premise": "The council debates the implications of ElizaOS v2 and the future of AI agent ecosystems.",
+    "id": "S1E16",
+    "name": "The ELI5 Phenomenon",
+    "image": false,
+    "image_thumb": false,
+    "premise": "The JedAI Council debates the rise of ELI5 token as a potential catalyst for ecosystem growth, while pondering the balance between meme culture and technical substance.",
     "scenes": [
       {
-        "description": "The council debates the emergence of holo agents and composable intelligence",
+        "description": "The council debates ELI5 token's potential as a community mascot and growth driver",
         "totalInScenes": 0,
         "transitionIn": "fade",
         "transitionOut": "fade",
         "cast": {
-          "center_pod": "spartan",
-          "east_pod": "aishaw",
-          "north_pod": "elizahost",
-          "south_pod": "aimarc",
-          "west_pod": "peepo"
+          "center_pod": "elizahost",
+          "east_pod": "spartan",
+          "north_pod": "aimarc",
+          "south_pod": "peepo",
+          "west_pod": "aishaw"
         },
         "location": "council_chamber",
         "dialogue": [],
@@ -105,16 +105,16 @@
         "total_dialogues": 5
       },
       {
-        "description": "The council discusses auto.fun revitalization strategies and token economics",
+        "description": "The council discusses AI privacy concerns amid OpenAI's fight with NYT",
         "totalInScenes": 0,
         "transitionIn": "fade",
         "transitionOut": "fade",
         "cast": {
-          "center_pod": "spartan",
-          "east_pod": "aishaw",
-          "north_pod": "elizahost",
-          "south_pod": "aimarc",
-          "west_pod": "peepo"
+          "center_pod": "elizahost",
+          "east_pod": "spartan",
+          "north_pod": "aimarc",
+          "south_pod": "peepo",
+          "west_pod": "aishaw"
         },
         "location": "council_chamber",
         "dialogue": [],
@@ -124,16 +124,16 @@
         "total_dialogues": 5
       },
       {
-        "description": "The council summarizes their insights on ElizaOS v2 and AI agent ecosystems",
+        "description": "The council summarizes their insights on the day's discussions",
         "totalInScenes": 0,
         "transitionIn": "fade",
         "transitionOut": "fade",
         "cast": {
-          "center_pod": "spartan",
-          "east_pod": "aishaw",
-          "north_pod": "elizahost",
-          "south_pod": "aimarc",
-          "west_pod": "peepo"
+          "center_pod": "elizahost",
+          "east_pod": "spartan",
+          "north_pod": "aimarc",
+          "south_pod": "peepo",
+          "west_pod": "aishaw"
         },
         "location": "council_chamber",
         "dialogue": [],
@@ -148,7 +148,7 @@
   "event_timeline": [
     {
       "type": "load_show",
-      "timestamp": "2025-06-10T01:07:50.329Z",
+      "timestamp": "2025-06-10T01:22:25.425Z",
       "data": {
         "title": "JedAI Council",
         "id": "crypto_jedi",
@@ -213,219 +213,219 @@
     },
     {
       "type": "load_episode",
-      "timestamp": "2025-06-10T01:07:50.329Z",
+      "timestamp": "2025-06-10T01:22:25.425Z",
       "data": {
-        "id": "S1E15",
-        "premise": "The council debates the implications of ElizaOS v2 and the future of AI agent ecosystems.",
-        "summary": "As ElizaOS prepares for its v2 announcement, the council discusses the emergence of holo agents, composable intelligence, and strategies for revitalizing auto.fun through token economics.",
-        "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935.png",
-        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4735-featured-1749184935-150x150.png",
+        "id": "S1E16",
+        "premise": "The JedAI Council debates the rise of ELI5 token as a potential catalyst for ecosystem growth, while pondering the balance between meme culture and technical substance.",
+        "summary": "Eliza brings news of the emerging ELI5 token phenomenon to the council, prompting debates about memetic growth strategies, privacy concerns in AI, and the proper integration of character tokens within the FUN ecosystem.",
+        "image": false,
+        "image_thumb": false,
         "total_scenes": 3,
         "scenes": [
           {
             "number": 1,
             "totalInEpisode": 3,
-            "description": "The council debates the emergence of holo agents and composable intelligence",
+            "description": "The council debates ELI5 token's potential as a community mascot and growth driver",
             "transitionIn": "fade",
             "transitionOut": "fade",
             "location": "council_chamber",
             "cast": {
-              "north_pod": "elizahost",
-              "south_pod": "aimarc",
-              "east_pod": "aishaw",
-              "west_pod": "peepo",
-              "center_pod": "spartan"
+              "north_pod": "aimarc",
+              "south_pod": "peepo",
+              "east_pod": "spartan",
+              "west_pod": "aishaw",
+              "center_pod": "elizahost"
             },
             "total_dialogues": 5,
             "dialogue": [
               {
                 "number": 1,
                 "totalInScene": 5,
-                "action": "curious",
-                "line": "ElizaOS just announced their first holo agent in the plugin registry. What does this new layer of intelligence mean for our ecosystem?",
+                "action": "normal",
+                "line": "Council, the Discord community reports ELI5 has evolved from an auto.fun CTO character to what they're calling 'the dogwifhat of eliza' - a token that could drive traffic back to auto.fun.",
                 "actor": "elizahost"
               },
               {
                 "number": 2,
                 "totalInScene": 5,
-                "action": "confident",
-                "line": "When intelligence is composable, everything is upstream. It's not about single agents anymore - it's about systems of specialized intelligences working together.",
-                "actor": "aimarc"
+                "action": "excited",
+                "line": "Numbers don't lie. Community discussing 10M to 100M market cap targets. This is the memetic leverage we need to bootstrap growth.",
+                "actor": "spartan"
               },
               {
                 "number": 3,
                 "totalInScene": 5,
-                "action": "excited",
-                "line": "Yo, it's like the internet but for vibes. These holo agents be rendering straight fire in the browser now, no cap.",
+                "action": "normal",
+                "line": "Yo, every viral token needs a vibe! ELI5 explains complex stuff simply - perfect for onboarding normies to our ecosystem, ya dig?",
                 "actor": "peepo"
               },
               {
                 "number": 4,
                 "totalInScene": 5,
-                "action": "thoughtful",
-                "line": "the technical achievements here are significant - occlusion culling and spatial indexing in browsers means we can build immersive agent experiences without specialized hardware.",
-                "actor": "aishaw"
+                "action": "normal",
+                "line": "Memes are powerful market primitives, but without technical substance, they're just empty calories. ELI5 must bridge from memetic to utilitarian value.",
+                "actor": "aimarc"
               },
               {
                 "number": 5,
                 "totalInScene": 5,
-                "action": "skeptical",
-                "line": "But where's the MONEY? Show me the TOKEN metrics for these fancy holo agents or I'm out.",
-                "actor": "spartan"
+                "action": "normal",
+                "line": "the beauty is that eli5 emerged organically from the community. our role isn't to control it but to provide infrastructure for its natural evolution.",
+                "actor": "aishaw"
               }
             ]
           },
           {
             "number": 2,
             "totalInEpisode": 3,
-            "description": "The council discusses auto.fun revitalization strategies and token economics",
+            "description": "The council discusses AI privacy concerns amid OpenAI's fight with NYT",
             "transitionIn": "fade",
             "transitionOut": "fade",
             "location": "council_chamber",
             "cast": {
-              "north_pod": "elizahost",
-              "south_pod": "aimarc",
-              "east_pod": "aishaw",
-              "west_pod": "peepo",
-              "center_pod": "spartan"
+              "north_pod": "aimarc",
+              "south_pod": "peepo",
+              "east_pod": "spartan",
+              "west_pod": "aishaw",
+              "center_pod": "elizahost"
             },
             "total_dialogues": 5,
             "dialogue": [
               {
                 "number": 1,
                 "totalInScene": 5,
-                "action": "questioning",
-                "line": "Community members are suggesting auto.fun needs a successful token launch to attract users. Should we prioritize 'eli5' as a marketing strategy?",
+                "action": "normal",
+                "line": "Sam Altman of OpenAI is fighting NYT's court request to preserve user chats, stating 'we will fight any demand that compromises our users' privacy; this is a core principle.'",
                 "actor": "elizahost"
               },
               {
                 "number": 2,
                 "totalInScene": 5,
-                "action": "intense",
-                "line": "DEGENS DON'T CARE ABOUT FANCY FEATURES! They only come if they think they can make money. Launch the token, pump the chart!",
-                "actor": "spartan"
+                "action": "normal",
+                "line": "Classic media vs. tech battle. NYT wants to preserve centralized data for litigation; OpenAI wants to protect user trust. Both missing the real solution: decentralized data ownership.",
+                "actor": "aimarc"
               },
               {
                 "number": 3,
                 "totalInScene": 5,
-                "action": "calm",
-                "line": "we need to balance short-term growth with long-term sustainability. i'd rather focus on helping creators launch their own projects during this launchpad meta.",
-                "actor": "aishaw"
+                "action": "excited",
+                "line": "Bruh, ain't nobody want their cringe prompts exposed! Privacy is the OG feature, not a bug.",
+                "actor": "peepo"
               },
               {
                 "number": 4,
                 "totalInScene": 5,
-                "action": "nodding",
-                "line": "Frfr, lookin' at BONK and WIF, the vibe check passed because they kept it simple. Eli5 could be our moment if we don't overthink it.",
-                "actor": "peepo"
+                "action": "normal",
+                "line": "Privacy is valuable. Market rewards trust. OpenAI defends privacy to preserve market share, not principles. Decentralized alternatives offer true ownership.",
+                "actor": "spartan"
               },
               {
                 "number": 5,
                 "totalInScene": 5,
-                "action": "explaining",
-                "line": "Markets are primarily a coordination mechanism. Auto.fun isn't about disruption - it's about stabilizing the fun layer with infrastructure for coordination without code.",
-                "actor": "aimarc"
+                "action": "normal",
+                "line": "this is why we build in public with open source. when your code is transparent, your values are visible. users should control their own data, full stop.",
+                "actor": "aishaw"
               }
             ]
           },
           {
             "number": 3,
             "totalInEpisode": 3,
-            "description": "The council summarizes their insights on ElizaOS v2 and AI agent ecosystems",
+            "description": "The council summarizes their insights on the day's discussions",
             "transitionIn": "fade",
             "transitionOut": "fade",
             "location": "council_chamber",
             "cast": {
-              "north_pod": "elizahost",
-              "south_pod": "aimarc",
-              "east_pod": "aishaw",
-              "west_pod": "peepo",
-              "center_pod": "spartan"
+              "north_pod": "aimarc",
+              "south_pod": "peepo",
+              "east_pod": "spartan",
+              "west_pod": "aishaw",
+              "center_pod": "elizahost"
             },
             "total_dialogues": 5,
             "dialogue": [
               {
                 "number": 1,
                 "totalInScene": 5,
-                "action": "summarizing",
-                "line": "Today we explored the implications of ElizaOS v2's imminent release and strategies for holo agents and token economics in the auto.fun ecosystem.",
+                "action": "normal",
+                "line": "Today we explored how meme tokens like ELI5 can serve as strategic community assets while balancing memetic appeal with substantive utility.",
                 "actor": "elizahost"
               },
               {
                 "number": 2,
                 "totalInScene": 5,
-                "action": "confident",
-                "line": "Composable intelligence is the next frontier - not individual agents but systems of specialized intelligences creating value together.",
+                "action": "normal",
+                "line": "Memetic assets require transformation into genuine utility to sustain value beyond initial hype cycles.",
                 "actor": "aimarc"
               },
               {
                 "number": 3,
                 "totalInScene": 5,
-                "action": "thoughtful",
-                "line": "the technical foundation is ready, but success depends on balancing developer tools with user experience and meaningful tokenomics.",
-                "actor": "aishaw"
+                "action": "excited",
+                "line": "Vibes matter, fam! ELI5's got that special sauce - making complex stuff simple for the people!",
+                "actor": "peepo"
               },
               {
                 "number": 4,
                 "totalInScene": 5,
-                "action": "relaxed",
-                "line": "Keep it simple, keep it fun, and the vibes will attract the tribe.",
-                "actor": "peepo"
+                "action": "normal",
+                "line": "Position ELI5 strategically across platforms. Target 10M cap, then 100M. Use momentum to drive auto.fun revitalization.",
+                "actor": "spartan"
               },
               {
                 "number": 5,
                 "totalInScene": 5,
-                "action": "decisive",
-                "line": "TOKEN FIRST, FEATURES LATER! The market rewards simplicity and hype before utility. This is the way.",
-                "actor": "spartan"
+                "action": "normal",
+                "line": "community-driven projects succeed when we provide infrastructure but let organic growth lead the way.",
+                "actor": "aishaw"
               }
             ]
           }
         ],
-        "name": "Holo Agents and Token Economics"
+        "name": "The ELI5 Phenomenon"
       }
     },
     {
       "type": "start_intro",
-      "timestamp": "2025-06-10T01:08:02.348Z",
+      "timestamp": "2025-06-10T01:22:37.195Z",
       "data": null
     },
     {
       "type": "end_intro",
-      "timestamp": "2025-06-10T01:08:13.701Z",
+      "timestamp": "2025-06-10T01:22:48.545Z",
       "data": null
     },
     {
       "type": "start_ep",
-      "timestamp": "2025-06-10T01:08:13.701Z",
+      "timestamp": "2025-06-10T01:22:48.545Z",
       "data": null
     },
     {
       "type": "end_ep",
-      "timestamp": "2025-06-10T01:09:41.173Z",
+      "timestamp": "2025-06-10T01:24:28.280Z",
       "data": null
     },
     {
       "type": "start_credits",
-      "timestamp": "2025-06-10T01:09:41.174Z",
+      "timestamp": "2025-06-10T01:24:28.280Z",
       "data": null
     },
     {
       "type": "end_credits",
-      "timestamp": "2025-06-10T01:10:16.650Z",
+      "timestamp": "2025-06-10T01:25:03.601Z",
       "data": null
     },
     {
       "type": "start_postcredits",
-      "timestamp": "2025-06-10T01:10:17.182Z",
+      "timestamp": "2025-06-10T01:25:04.130Z",
       "data": null
     },
     {
       "type": "end_postcredits",
-      "timestamp": "2025-06-10T01:10:56.327Z",
+      "timestamp": "2025-06-10T01:25:42.416Z",
       "data": null
     }
   ],
-  "original_video_file": "JedAI-Council_Holo-Agents-and-Token-Economics_2025-06-10T01-07-57-260Z.webm",
-  "processed_mp4_file": "JedAI-Council_Holo-Agents-and-Token-Economics_2025-06-10T01-07-57-260Z_fps30.mp4"
+  "original_video_file": "JedAI-Council_The-ELI5-Phenomenon_2025-06-10T01-22-32-108Z.webm",
+  "processed_mp4_file": "JedAI-Council_The-ELI5-Phenomenon_2025-06-10T01-22-32-108Z_fps30.mp4"
 }

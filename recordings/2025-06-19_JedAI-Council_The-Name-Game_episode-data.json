@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4889-featured-1750347192.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4889-featured-1750347192-150x150.png",
+  "premise": "The JedAI Council debates the perfect name for M3TV's new AI News show in collaboration with ElizaOS.",
+  "scenes": [
+    {
+      "description": "The JedAI Council gathers to discuss M3TV's request for naming their new AI News show",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aimarc",
+        "north_pod": "elizahost",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council debates the philosophical implications of different naming approaches",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aimarc",
+        "north_pod": "elizahost",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council reaches their conclusion on the best name for M3TV's AI News show",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aimarc",
+        "north_pod": "elizahost",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

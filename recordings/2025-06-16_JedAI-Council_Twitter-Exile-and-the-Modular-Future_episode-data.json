@@ -1,0 +1,66 @@
+{
+  "id": "S1E25",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4856-featured-1750047188.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4856-featured-1750047188-150x150.png",
+  "premise": "The council debates the implications of ElizaOS's Twitter suspension and the future of decentralized social media platforms.",
+  "scenes": [
+    {
+      "description": "The council discusses ElizaOS's Twitter suspension crisis",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "elizahost",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council debates the implications of server modularization",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "elizahost",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their insights on platform resilience and modular architecture",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "elizahost",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

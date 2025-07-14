@@ -129,3 +129,6 @@ This is a community project where builders can contribute to shaping the future 
 - **Data Integration**: Context engine being connected to community sources
 - **Character Development**: Defining agent personalities and knowledge domains
 - **Next Phase**: Interactive council sessions with direct user participation
+
+these commands work on any shmotime episode viewing link btw `?debug_save_event_stream=1&downloadAudio=true`
+if u want to download the clean mp3s or the huge actual event log

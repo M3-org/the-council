@@ -39,6 +39,8 @@ class ShmotimeRecorder {
       episodeData: null, // NEW: Episode metadata for filename generation
       muteAudio: false, // NEW: Mute audio during recording
       filenameSuffix: '', // NEW: Optional suffix for filename
+      dateOverride: '', // NEW: Override date for output filenames
+      baseName: '', // NEW: Canonical base name for all output files
       ...options
     };
 
@@ -209,34 +211,8 @@ class ShmotimeRecorder {
   }
 
   updateFilenameWithEpisodeData() {
-    if (!this.episodeData?.id || !this.episodeData?.name || !this.outputFile?.path) {
-      return; // Can't update without complete data
-    }
-
-    const oldPath = this.outputFile.path;
-    const extension = path.extname(oldPath);
-    const episodeId = this.episodeData.id; // S1E12
-    const cleanTitle = this.episodeData.name.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-');
-    const suffix = this.options.filenameSuffix ? `_${this.options.filenameSuffix}` : '';
-    
-    const newFilename = `${episodeId}_JedAI-Council_${cleanTitle}${suffix}${extension}`;
-    const newPath = path.join(this.options.outputDir, newFilename);
-    
-    if (oldPath !== newPath) {
-      this.log(`📁 Updating filename: ${path.basename(oldPath)} → ${path.basename(newPath)}`);
-      
-      // Close current stream
-      if (this.outputFile && this.stream) {
-        this.stream.unpipe(this.outputFile);
-        this.outputFile.end();
-      }
-      
-      // Create new stream with better filename
-      this.outputFile = require('fs').createWriteStream(newPath);
-      if (this.stream) {
-        this.stream.pipe(this.outputFile);
-      }
-    }
+    // No-op: baseName is set once and never mutated
+    return;
   }
 
   async stopRecording() {
@@ -340,31 +316,7 @@ class ShmotimeRecorder {
     if (!this.options.exportData) return;
 
     try {
-      let baseNameForLog;
-      const jsonExportTimestamp = new Date().toISOString().replace(/[:.]/g, '-');
-
-      // Priority 1: Use captured episode data from platform (preferred)
-      if (this.episodeData?.id && this.episodeData?.name) {
-        const episodeNumber = this.episodeData.id; // S1E12
-        const cleanTitle = this.episodeData.name.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-');
-        const suffix = this.options.filenameSuffix ? `_${this.options.filenameSuffix}` : '';
-        baseNameForLog = `${episodeNumber}_JedAI-Council_${cleanTitle}${suffix}`;
-      } else if (this.options.episodeData) {
-        // Priority 2: Use command-line episode data (for manual override)
-        const episodeNumber = this.options.episodeData.episode_number;
-        const cleanTitle = this.options.episodeData.clean_title;
-        baseNameForLog = `${episodeNumber}_JedAI-Council-${cleanTitle}`;
-      } else if (this.outputFile?.path) {
-        // If a video was recorded, base the JSON name on the video filename (without its extension)
-        baseNameForLog = path.basename(this.outputFile.path).replace(/\.\w+$/, '');
-      } else {
-        // Legacy fallback: create a unique name for the JSON log using current timestamp
-        const showPart = (this.episodeInfo?.showTitle || this.showConfig?.name || 'show').replace(/[^a-zA-Z0-9]/g, '-');
-        const titlePart = (this.episodeInfo?.name || this.episodeData?.name || this.episodeData?.id || 'episode').replace(/[^a-zA-Z0-9]/g, '-');
-        baseNameForLog = `${showPart}-${titlePart}-${jsonExportTimestamp}`;
-      }
-
-      const finalJsonPath = path.join(this.options.outputDir, `${baseNameForLog}_session-log.json`);
+      const finalJsonPath = path.join(this.options.outputDir, `${this.options.baseName}_session-log.json`);
 
       if (this.showConfig || this.episodeData || this.recorderEvents.length > 0) {
         const sessionData = {
@@ -373,17 +325,13 @@ class ShmotimeRecorder {
           recording_session_options: this.options,
           show_config: this.showConfig || null, 
           episode_data: this.episodeData || null,
-          // Include episode metadata from fetcher if available
           fetcher_episode_data: this.options.episodeData || null,
           event_timeline: this.recorderEvents,
-          // Add references to the video files for clarity in the JSON
           original_video_file: this.outputFile?.path ? path.basename(this.outputFile.path) : null,
           processed_mp4_file: this.outputFile?.path ? path.basename(this.outputFile.path).replace(/(\.\w+)$/, `_fps${this.options.frameRate}.mp4`) : null
         };
-        
         fs.writeFileSync(finalJsonPath, JSON.stringify(sessionData, null, 2));
         this.log(`Session log exported to: ${finalJsonPath}`);
-
         // Also export just the episode data for WordPress submission
         if (sessionData.episode_data) {
           const episodeDataPath = finalJsonPath.replace('_session-log.json', '_episode-data.json');
@@ -393,7 +341,6 @@ class ShmotimeRecorder {
       } else {
         this.log('No data to export for session log.', 'info');
       }
-
     } catch (error) {
       this.log(`Error exporting data: ${error.message}`, 'error');
     }
@@ -485,28 +432,7 @@ class ShmotimeRecorder {
   }
 
   getRecordingFilename(extension = 'webm') {
-    // Priority 1: Use captured episode data from platform (preferred)
-    if (this.episodeData?.id && this.episodeData?.name) {
-      const episodeNumber = this.episodeData.id; // S1E12
-      const cleanTitle = this.episodeData.name.toLowerCase().replace(/[^a-zA-Z0-9]/g, '-');
-      const suffix = this.options.filenameSuffix ? `_${this.options.filenameSuffix}` : '';
-      return path.join(this.options.outputDir, `${episodeNumber}_JedAI-Council_${cleanTitle}${suffix}.${extension}`);
-    }
-    
-    // Priority 2: Use command-line episode data (for manual override)
-    if (this.options.episodeData) {
-      const episodeNumber = this.options.episodeData.episode_number;
-      const cleanTitle = this.options.episodeData.clean_title.toLowerCase();
-      const suffix = this.options.filenameSuffix ? `_${this.options.filenameSuffix}` : '';
-      return path.join(this.options.outputDir, `${episodeNumber}_JedAI-Council_${cleanTitle}${suffix}.${extension}`);
-    }
-    
-    // Priority 3: Legacy fallback for timestamp-based naming
-    const date = new Date().toISOString().replace(/[:.]/g, '-');
-    const show = (this.episodeInfo?.showTitle || 'show').replace(/[^a-zA-Z0-9]/g, '-');
-    const title = (this.episodeInfo?.name || 'episode').replace(/[^a-zA-Z0-9]/g, '-');
-    const suffix = this.options.filenameSuffix ? `_${this.options.filenameSuffix}` : '';
-    return path.join(this.options.outputDir, `${show}_${title}${suffix}_${date}.${extension}`);
+    return path.join(this.options.outputDir, `${this.options.baseName}.${extension}`);
   }
 
   log(message, level = 'info') {
@@ -1173,6 +1099,106 @@ class ShmotimeRecorder {
   } 
 }
 
+const LIST_TXT_PATH = path.resolve(__dirname, '../list.txt');
+
+function loadListTxtMapping() {
+  // Loads list.txt and returns a map: slug -> date
+  const mapping = {};
+  try {
+    const lines = fs.readFileSync(LIST_TXT_PATH, 'utf-8').split('\n');
+    for (const line of lines) {
+      if (!line.trim() || !line.includes(',')) continue;
+      const [date, url] = line.split(',', 2);
+      let slug = url.trim().split('/').filter(Boolean).pop();
+      mapping[slug] = date.trim();
+    }
+  } catch (e) {
+    // If list.txt missing, just return empty mapping
+  }
+  return mapping;
+}
+
+// --- Robust slug extraction helper ---
+function getEpisodeSlug(urlString) {
+  const fallback = '';
+  try {
+    const { pathname } = new URL(urlString);
+    const parts = pathname.split('/').filter(Boolean);
+    const i = parts.indexOf('shmotime_episode');
+    if (i >= 0 && i + 1 < parts.length) return parts[i + 1];
+    return parts.at(-1) ?? fallback;
+  } catch {
+    return fallback;
+  }
+}
+
+function slugToTitleCase(slug) {
+  return slug
+    .replace(/[^a-zA-Z0-9\- ]/g, ' ')
+    .replace(/-/g, ' ')
+    .trim()
+    .split(/\s+/)
+    .map(w => w[0] ? w[0].toUpperCase() + w.slice(1) : '')
+    .join('-');
+}
+
+function getSlugFromUrl(url) {
+  // Extracts the slug from a shmotime_episode URL robustly
+  if (!url) return null;
+  try {
+    const parts = url.split('/').filter(Boolean);
+    const idx = parts.findIndex(p => p === 'shmotime_episode');
+    if (idx >= 0 && idx + 1 < parts.length) {
+      return parts[idx + 1];
+    }
+    // Fallback: use last non-empty segment
+    return parts[parts.length - 1];
+  } catch (e) {
+    return null;
+  }
+}
+
+// --- Canonical filename helper ---
+function getCanonicalBaseName(episodeData, options, url) {
+  // 1. Use --date if provided
+  let date = options?.dateOverride || '';
+  let title = '';
+  // Always prefer slug from URL for title if URL is present
+  let slug = null;
+  if (url) {
+    slug = getSlugFromUrl(url);
+    if (slug) {
+      title = slugifyTitle(slug.replace(/-/g, ' '));
+    }
+  }
+  // Fallback to episodeData name if slug is empty
+  if (!title) {
+    if (episodeData?.name) {
+      title = slugifyTitle(episodeData.name);
+    } else if (options?.episodeData?.name) {
+      title = slugifyTitle(options.episodeData.name);
+    } else {
+      title = 'Episode';
+    }
+  }
+  // 2. If no --date, try list.txt
+  if (!date) {
+    const listMapping = loadListTxtMapping();
+    if (!slug && url) {
+      slug = getSlugFromUrl(url);
+    }
+    if (slug && listMapping[slug]) {
+      date = listMapping[slug];
+    }
+  }
+  // 3. If still no date, use today
+  if (!date) {
+    const now = new Date();
+    date = now.toISOString().slice(0, 10);
+  }
+  return `${date}_JedAI-Council_${title}`;
+}
+
 // Command line interface - simplified but keeping all functionality
 function parseArgs() {
   const args = process.argv.slice(2);
@@ -1201,24 +1227,15 @@ Options:
   --fps=<number>                Frame rate (default: 30)
   --episode-data=<json>         Episode metadata JSON for S1E# filename generation
   --filename-suffix=<text>      Add suffix to filename (e.g. --filename-suffix=test → S1E12_JedAI-Council_title_test.mp4)
+  --date=<YYYY-MM-DD>           Override date for output filenames (recommended)
   --help                        Show this help
 
 Examples:
   # Basic recording (stops at end_credits by default)
   node recorder.js https://shmotime.com/shmotime_episode/episode-url/
   
-  # Stop at different points
-  node recorder.js --stop-recording-at=start_credits https://shmotime.com/episode-url/
-  node recorder.js --stop-recording-at=end_ep https://shmotime.com/episode-url/
-  
-  # Silent recording in headless mode
-  node recorder.js --headless --mute --stop-recording-at=end_ep https://shmotime.com/episode-url/
-  
-  # Never stop automatically (manual control)
-  node recorder.js --stop-recording-at=never https://shmotime.com/episode-url/
-  
-  # With episode data for proper naming
-  node recorder.js --episode-data='{"episode_number":"S1E10","clean_title":"The-Wisdom-of-Transitions","name":"The Wisdom of Transitions"}' https://shmotime.com/shmotime_episode/the-wisdom-of-transitions/
+  # Specify canonical date for output filenames
+  node recorder.js --date=2025-07-12 https://shmotime.com/shmotime_episode/the-suspended-account/
 `);
     process.exit(0);
   }
@@ -1239,6 +1256,7 @@ Examples:
   const viewportWidth = parseInt(args.find(arg => arg.startsWith('--width='))?.split('=')[1] || '1920', 10);
   const frameRate = parseInt(args.find(arg => arg.startsWith('--fps='))?.split('=')[1] || '30', 10);
   const filenameSuffix = args.find(arg => arg.startsWith('--filename-suffix='))?.split('=')[1] || '';
+  const dateOverride = args.find(arg => arg.startsWith('--date='))?.split('=')[1] || '';
   
   // Parse episode data JSON
   const episodeDataRaw = args.find(arg => arg.startsWith('--episode-data='))?.split('=')[1];
@@ -1251,6 +1269,28 @@ Examples:
       console.error(`❌ Invalid episode data JSON: ${error.message}`);
       process.exit(1);
     }
+  }
+
+  // --- Canonical baseName logic ---
+  const slug = getEpisodeSlug(url);
+  if (!slug) {
+    console.error('❌  Could not extract episode slug from URL. Refusing to start—pass --date and/or --episode-data manually.');
+    process.exit(1);
+  }
+  // Date logic
+  let canonicalDate = dateOverride;
+  if (!canonicalDate) {
+    const listMapping = loadListTxtMapping();
+    if (listMapping[slug]) {
+      canonicalDate = listMapping[slug];
+    }
+  }
+  if (!canonicalDate) {
+    canonicalDate = new Date().toISOString().slice(0, 10);
+  }
+  const baseName = `${canonicalDate}_JedAI-Council_${slugToTitleCase(slug)}`;
+  if (/Episode/i.test(baseName)) {
+    throw new Error(`Filename fallback detected (${baseName}). Aborting.`);
   }
 
   const validStopEvents = [
@@ -1284,7 +1324,9 @@ Examples:
       videoHeight: viewportHeight,
       frameRate,
       episodeData,
-      filenameSuffix
+      filenameSuffix,
+      dateOverride,
+      baseName // <--- add to options
     },
     waitTime
   };

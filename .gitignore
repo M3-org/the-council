@@ -18,6 +18,9 @@ tmp/
 recordings/*.mp4
 recordings/*.webm
 recordings/*.mov
+recordings/**/*.mp4
+recordings/**/*.webm
+recordings/**/*.mov
 
 # Keep session logs but ignore large video files
 !recordings/*session-log.json

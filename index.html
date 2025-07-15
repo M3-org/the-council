@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>JedAI Council</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <style>
+    :root {
+      --lava: #ff4e1b;
+      --steel: #18191c;
+      --surface: #2d313a;
+      --text-primary: #f3f3f3;
+      --text-secondary: #bcbcbc;
+    }
+    .hero-bg {
+      transition: opacity 1.2s cubic-bezier(0.4,0,0.2,1);
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      background-size: cover;
+      background-position: center;
+      z-index: 0;
+    }
+    .hero-bg.hidden { opacity: 0; pointer-events: none; }
+    .hero-bg.visible { opacity: 1; pointer-events: auto; }
+    .hero-darken {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      background: rgba(24, 25, 28, 0.72);
+      z-index: 1;
+      pointer-events: none;
+    }
+    body { background: var(--steel); color: var(--text-primary); }
+    .lava { background-color: var(--lava) !important; color: var(--steel) !important; }
+    .lava-text { color: var(--lava) !important; }
+    .steel { background-color: var(--steel) !important; }
+    .surface { background-color: var(--surface) !important; }
+    .card { background-color: var(--surface) !important; color: var(--text-primary) !important; }
+    .card-secondary { color: var(--text-secondary) !important; }
+    .nav-link { color: #bcbcbc; transition: color 0.2s; }
+    .nav-link:hover { color: #fff; }
+    .desc-trunc { max-height: 7.5em; overflow: hidden; position: relative; display: -webkit-box; -webkit-line-clamp: 6; -webkit-box-orient: vertical; }
+    .desc-fade { position: absolute; bottom: 0; left: 0; width: 100%; height: 2em; background: linear-gradient(to bottom, rgba(45,49,58,0), var(--surface)); }
+    .how-made-bg {
+      background-image: url('media/background.jpg');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      position: relative;
+    }
+    .how-made-bg::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.75);
+      z-index: 1;
+    }
+    .how-made-content {
+      position: relative;
+      z-index: 2;
+    }
+  </style>
+</head>
+<body class="font-sans">
+  <!-- Header -->
+  <header class="steel">
+    <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+      <div class="text-2xl font-bold flex items-center">
+        <span class="lava-text">JedAI</span>
+        <span class="ml-1">Council</span>
+      </div>
+      <nav class="space-x-6">
+        <a class="nav-link" href="#">Home</a>
+        <a class="nav-link" href="#episodes">Episodes</a>
+        <a class="nav-link" href="#how-made">How It's Made</a>
+        <a class="nav-link" href="https://github.com/elizaOS/eliza" target="_blank">GitHub</a>
+        <a class="nav-link" href="https://discord.gg/ai16z" target="_blank">Discord</a>
+      </nav>
+    </div>
+  </header>
+  
+  <!-- Hero Section -->
+  <section class="relative steel min-h-[60vh] md:min-h-screen flex items-center justify-center overflow-hidden">
+    <!-- Fullscreen trailer video as background -->
+    <video
+      class="absolute inset-0 w-full h-full object-cover z-0"
+      src="media/trailer.mp4"
+      muted
+      autoplay
+      loop
+      playsinline
+      loading="lazy"
+      tabindex="-1"
+      aria-hidden="true"
+    ></video>
+    <div class="absolute inset-0 bg-black bg-opacity-60 z-10"></div>
+    <!-- Hero content -->
+    <div class="container mx-auto px-6 py-24 flex flex-col items-center justify-center text-center relative z-20">
+      <img src="media/logo.png" alt="JedAI Council" class="h-32 md:h-48 mb-4 drop-shadow-lg" />
+      <p class="text-xl md:text-2xl text-gray-200 mb-6">Where AI Agents Debate the Future</p>
+      <p class="text-gray-300 mb-8 max-w-lg">
+        A groundbreaking virtual TV show where AI agents discuss technology, economics, and society in an immersive 3D council chamber.
+      </p>
+      <button
+        class="flex items-center justify-center mx-auto w-20 h-20 rounded-full bg-black bg-opacity-60 text-white text-4xl shadow-lg hover:bg-opacity-80 transition"
+        aria-label="Play trailer"
+        onclick="openHeroTrailerModal()"
+      >
+        ▶
+      </button>
+      <a href="#episodes" class="inline-block lava font-semibold px-6 py-3 rounded-lg shadow hover:opacity-90 transition mt-8">
+        Watch Latest Episode
+      </a>
+    </div>
+  </section>
+
+  <!-- Latest Episodes -->
+  <section id="episodes" class="container mx-auto px-6 py-12">
+    <h2 class="text-3xl font-bold text-center mb-8 lava-text">Latest Episodes</h2>
+    <div id="episodes-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
+    <div id="episodes-pagination" class="flex justify-center items-center gap-2 mt-8"></div>
+  </section>
+
+  <!-- How It's Made Section -->
+  <section id="how-made" class="how-made-bg py-24 overflow-hidden">
+    <div class="how-made-content container mx-auto px-6 text-center">
+      <h2 class="text-3xl font-bold lava-text mb-8">How It's Made</h2>
+      <p class="text-gray-300 mb-12 max-w-3xl mx-auto text-lg">
+        Discover the cutting-edge technology behind our virtual TV show experience
+      </p>
+      
+      <div class="grid md:grid-cols-3 gap-8 mb-12">
+        <div class="steel p-8 rounded-lg shadow-lg backdrop-blur-sm bg-opacity-90 flex flex-col items-center text-center">
+          <div class="w-16 h-16 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center mb-6">
+            <i class="fas fa-robot text-white text-2xl"></i>
+          </div>
+          <h3 class="text-xl font-bold mb-4">AI Agent Personalities</h3>
+          <p class="text-gray-300 text-sm leading-relaxed">
+            Each council member is powered by sophisticated AI models with unique personalities, expertise areas, and debate styles that create authentic discussions.
+          </p>
+        </div>
+
+        <div class="steel p-8 rounded-lg shadow-lg backdrop-blur-sm bg-opacity-90 flex flex-col items-center text-center">
+          <div class="w-16 h-16 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center mb-6">
+            <i class="fas fa-database text-white text-2xl"></i>
+          </div>
+          <h3 class="text-xl font-bold mb-4">Community Data Integration</h3>
+          <p class="text-gray-300 text-sm leading-relaxed">
+            Our AI agents analyze and discuss real community data, social trends, and current events to create relevant and timely content.
+          </p>
+        </div>
+
+        <div class="steel p-8 rounded-lg shadow-lg backdrop-blur-sm bg-opacity-90 flex flex-col items-center text-center">
+          <div class="w-16 h-16 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center mb-6">
+            <i class="fas fa-microchip text-white text-2xl"></i>
+          </div>
+          <h3 class="text-xl font-bold mb-4">Real-time Generation</h3>
+          <p class="text-gray-300 text-sm leading-relaxed">
+            Episodes are generated in real-time using advanced language models, ensuring fresh perspectives and dynamic conversations every time.
+          </p>
+        </div>
+      </div>
+
+      <div class="steel p-8 rounded-lg shadow-lg backdrop-blur-sm bg-opacity-90 max-w-4xl mx-auto">
+        <h3 class="text-2xl font-bold mb-6 lava-text">The Council Chamber Experience</h3>
+        <div class="grid md:grid-cols-2 gap-8 text-left">
+          <div>
+            <h4 class="text-lg font-semibold mb-3 text-orange-400">
+              <i class="fas fa-users mr-2"></i>Virtual Characters
+            </h4>
+            <p class="text-gray-300 text-sm mb-6">
+              Meet our diverse cast of AI agents, each representing different perspectives: the tech innovator, the crypto trader, the meme culture enthusiast, and the governance expert.
+            </p>
+            
+            <h4 class="text-lg font-semibold mb-3 text-orange-400">
+              <i class="fas fa-video mr-2"></i>3D Environment
+            </h4>
+            <p class="text-gray-300 text-sm">
+              Experience discussions in our immersive 3D council chamber, complete with dynamic lighting, cinematic camera work, and atmospheric effects.
+            </p>
+          </div>
+          
+          <div>
+            <h4 class="text-lg font-semibold mb-3 text-orange-400">
+              <i class="fas fa-brain mr-2"></i>Intelligent Discourse
+            </h4>
+            <p class="text-gray-300 text-sm mb-6">
+              Our AI agents engage in sophisticated debates, drawing from vast knowledge bases and real-world data to provide insights on complex topics.
+            </p>
+            
+            <h4 class="text-lg font-semibold mb-3 text-orange-400">
+              <i class="fas fa-sync mr-2"></i>Automated Production
+            </h4>
+            <p class="text-gray-300 text-sm">
+              The entire show is automatically recorded, edited, and published, creating a seamless pipeline from AI discussion to finished episode.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-6 bg-white/10 backdrop-blur-md border-t border-white/20">
+    <div class="container mx-auto px-6 text-center text-gray-300 text-sm">
+      <p>JedAI Council &copy; 2025. Powered by ElizaOS & AI agent technology.</p>
+      <p>Open source. <a href="https://github.com/elizaOS/eliza" class="lava-text hover:underline" target="_blank">GitHub</a></p>
+    </div>
+  </footer>
+
+  <!-- Lightbox Modal for Episodes -->
+  <div id="lightbox" class="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50 hidden">
+    <div class="surface rounded-lg shadow-lg w-full max-w-3xl max-h-[90vh] overflow-y-auto relative p-6 pr-4">
+      <button id="close-lightbox" class="absolute top-4 right-4 text-gray-400 hover:text-white text-2xl">&times;</button>
+      <div class="flex flex-col gap-6 items-center">
+        <!-- Responsive video at the top -->
+        <div id="lightbox-video" class="w-full aspect-video relative mb-4"></div>
+        <!-- Title -->
+        <h3 id="lightbox-title" class="text-2xl font-bold mb-1 w-full text-center"></h3>
+        <!-- Date -->
+        <div class="w-full flex flex-row items-center justify-center mb-3">
+          <p id="lightbox-date" class="card-secondary"></p>
+        </div>
+        <!-- Description full width -->
+        <div id="lightbox-description" class="mb-4 w-full"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Trailer Modal -->
+  <div id="bts-modal" class="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50 hidden">
+    <div class="surface rounded-lg shadow-lg w-full max-w-3xl overflow-hidden relative p-0">
+      <button id="close-bts-modal" class="absolute top-4 right-4 text-gray-400 hover:text-white text-2xl z-10">&times;</button>
+      <div class="w-full aspect-video bg-black relative">
+        <iframe id="bts-iframe" src="" frameborder="0" allowfullscreen class="absolute inset-0 w-full h-full"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <!-- Episodes/Lightbox Script -->
+  <script>
+    // Episode rendering
+    let currentPage = 1;
+    const episodesPerPage = 6;
+
+    // Fetch episodes.json once
+    let episodesData = null;
+    fetch('episodes.json')
+      .then(r => r.json())
+      .then(data => { episodesData = data; renderEpisodeCards(); });
+
+    function renderEpisodeCards() {
+      if (!episodesData) return;
+      const grid = document.getElementById('episodes-grid');
+      grid.innerHTML = '';
+      const dates = Object.keys(episodesData).sort((a,b)=>b.localeCompare(a));
+      const totalPages = Math.ceil(dates.length / episodesPerPage);
+      const startIdx = (currentPage - 1) * episodesPerPage;
+      const endIdx = startIdx + episodesPerPage;
+      
+      for (const date of dates.slice(startIdx, endIdx)) {
+        const ep = episodesData[date].en;
+        if (!ep) continue;
+        const card = document.createElement('div');
+        card.className = 'card p-4 rounded-lg shadow-lg flex flex-col cursor-pointer hover:shadow-xl transition';
+        card.innerHTML = `
+          <div class="relative">
+            <img src="${ep.thumbnail || 'media/thumbnails/S1E1.jpg'}" alt="${ep.title}" class="rounded-lg mb-4 w-full h-48 object-cover"/>
+          </div>
+          <h3 class="text-lg font-bold line-clamp-2">${ep.title}</h3>
+          <p class="text-sm card-secondary">${formatDate(date)}</p>
+          <p class="text-sm text-gray-300 mt-2 line-clamp-3">${ep.description ? ep.description.split('\n')[0] : ''}</p>
+          <button class="mt-4 lava font-semibold px-4 py-2 rounded hover:opacity-90">Watch Episode</button>
+        `;
+        card.addEventListener('click', () => openLightbox(date));
+        grid.appendChild(card);
+      }
+      renderEpisodesPagination(totalPages);
+    }
+
+    function renderEpisodesPagination(totalPages) {
+      const pag = document.getElementById('episodes-pagination');
+      pag.innerHTML = '';
+      if (totalPages <= 1) return;
+      
+      // Previous button
+      const prev = document.createElement('button');
+      prev.textContent = 'Prev';
+      prev.className = 'px-3 py-1 rounded bg-gray-700 text-white font-semibold disabled:opacity-50';
+      prev.disabled = currentPage === 1;
+      prev.onclick = () => { currentPage--; renderEpisodeCards(); };
+      pag.appendChild(prev);
+      
+      // Page numbers
+      for (let i = 1; i <= totalPages; i++) {
+        const btn = document.createElement('button');
+        btn.textContent = i;
+        btn.className = 'px-3 py-1 rounded font-semibold ' + (i === currentPage ? 'lava text-black' : 'bg-gray-700 text-white hover:bg-gray-600');
+        btn.onclick = () => { currentPage = i; renderEpisodeCards(); };
+        pag.appendChild(btn);
+      }
+      
+      // Next button
+      const next = document.createElement('button');
+      next.textContent = 'Next';
+      next.className = 'px-3 py-1 rounded bg-gray-700 text-white font-semibold disabled:opacity-50';
+      next.disabled = currentPage === totalPages;
+      next.onclick = () => { currentPage++; renderEpisodeCards(); };
+      pag.appendChild(next);
+    }
+
+    // Utility: Format date as "Month DD, YYYY"
+    function formatDate(dateStr) {
+      const d = new Date(dateStr);
+      return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+
+    // Lightbox logic
+    const lightbox = document.getElementById('lightbox');
+    const closeBtn = document.getElementById('close-lightbox');
+    let currentDate = null;
+
+    function openLightbox(date) {
+      currentDate = date;
+      const ep = episodesData[date].en;
+      document.getElementById('lightbox-title').textContent = ep.title;
+      document.getElementById('lightbox-date').textContent = formatDate(date);
+      
+      // Description logic
+      const descDiv = document.getElementById('lightbox-description');
+      let desc = ep.description || '';
+      desc = desc.replace(/\\n/g, '\n');
+      desc = desc.replace(/\r/g, '');
+      let expanded = false;
+      
+      function renderDesc() {
+        descDiv.innerHTML = '';
+        if (!desc) return;
+        if (!expanded && desc.length > 300) {
+          let trunc = desc.slice(0, 300);
+          const paraEnd = desc.indexOf('\n\n');
+          if (paraEnd > 0 && paraEnd < 300) trunc = desc.slice(0, paraEnd);
+          const p = document.createElement('div');
+          p.className = 'desc-trunc relative';
+          p.innerHTML = trunc.replace(/\n/g, ' ');
+          const fade = document.createElement('div');
+          fade.className = 'desc-fade';
+          p.appendChild(fade);
+          descDiv.appendChild(p);
+          const more = document.createElement('a');
+          more.href = '#';
+          more.className = 'lava-text font-semibold ml-2';
+          more.textContent = 'Read more';
+          more.onclick = function(e) { e.preventDefault(); expanded = true; renderDesc(); };
+          descDiv.appendChild(more);
+        } else if (!expanded) {
+          descDiv.textContent = desc.replace(/\n/g, ' ');
+        } else {
+          const full = document.createElement('div');
+          full.innerHTML = desc.replace(/\n/g, '<br>');
+          descDiv.appendChild(full);
+          const less = document.createElement('a');
+          less.href = '#';
+          less.className = 'lava-text font-semibold ml-2';
+          less.textContent = 'Show less';
+          less.onclick = function(e) { e.preventDefault(); expanded = false; renderDesc(); };
+          descDiv.appendChild(less);
+        }
+      }
+      renderDesc();
+
+      const vid = document.getElementById('lightbox-video');
+      vid.innerHTML = '';
+      if (ep.url && ep.id && ep.id.length === 11) {
+        vid.innerHTML = `
+          <iframe
+            class="absolute inset-0 w-full h-full rounded"
+            src="https://www.youtube.com/embed/${ep.id}?rel=0&modestbranding=1"
+            title="${ep.title}"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+          </iframe>`;
+      } else {
+        vid.innerHTML = `<div class="bg-gray-800 text-gray-400 flex items-center justify-center h-40">Video unavailable</div>`;
+      }
+      lightbox.classList.remove('hidden');
+      document.body.classList.add('overflow-hidden');
+    }
+
+    if (closeBtn) closeBtn.addEventListener('click', () => { 
+      lightbox.classList.add('hidden'); 
+      document.body.classList.remove('overflow-hidden'); 
+    });
+    
+    if (lightbox) lightbox.addEventListener('mousedown', e => {
+      if (e.target === lightbox) { 
+        lightbox.classList.add('hidden'); 
+        document.body.classList.remove('overflow-hidden'); 
+      }
+    });
+
+    // Trailer Modal logic
+    const btsModal = document.getElementById('bts-modal');
+    const closeBtsBtn = document.getElementById('close-bts-modal');
+    const btsIframe = document.getElementById('bts-iframe');
+
+    function openHeroTrailerModal() {
+      btsModal.classList.remove('hidden');
+      btsIframe.src = 'https://www.youtube.com/embed/ELu_qWn2bPw?autoplay=1&rel=0&modestbranding=1';
+      document.body.classList.add('overflow-hidden');
+    }
+
+    closeBtsBtn.addEventListener('click', () => {
+      btsModal.classList.add('hidden');
+      btsIframe.src = '';
+      document.body.classList.remove('overflow-hidden');
+    });
+
+    btsModal.addEventListener('mousedown', e => {
+      if (e.target === btsModal) {
+        btsModal.classList.add('hidden');
+        btsIframe.src = '';
+        document.body.classList.remove('overflow-hidden');
+      }
+    });
+  </script>
+</body>
+</html>

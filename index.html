@@ -450,15 +450,21 @@
       }
     }
 
-    if (closeBtn) closeBtn.addEventListener('click', () => { 
-      lightbox.classList.add('hidden'); 
-      document.body.classList.remove('overflow-hidden'); 
-    });
+    function closeLightbox() {
+      lightbox.classList.add('hidden');
+      document.body.classList.remove('overflow-hidden');
+      // Stop video playback by clearing iframe src
+      const iframe = document.getElementById('lightbox-video').querySelector('iframe');
+      if (iframe) {
+        iframe.src = '';
+      }
+    }
+
+    if (closeBtn) closeBtn.addEventListener('click', closeLightbox);
     
     if (lightbox) lightbox.addEventListener('mousedown', e => {
       if (e.target === lightbox) { 
-        lightbox.classList.add('hidden'); 
-        document.body.classList.remove('overflow-hidden'); 
+        closeLightbox();
       }
     });
 
@@ -473,8 +479,7 @@
           navigateToNextEpisode();
         } else if (e.key === 'Escape') {
           e.preventDefault();
-          lightbox.classList.add('hidden');
-          document.body.classList.remove('overflow-hidden');
+          closeLightbox();
         }
       }
     });

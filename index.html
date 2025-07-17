@@ -88,7 +88,7 @@
 <body class="font-sans">
   <!-- Header -->
   <header class="steel">
-    <div class="container mx-auto px-6 py-4 flex justify-between items-center">
+    <div class="container mx-auto px-6 py-4 flex justify-between items-center max-w-7xl">
       <div class="text-2xl font-bold flex items-center">
         <span class="lava-text">JedAI</span>
         <span class="ml-1">Council</span>
@@ -126,7 +126,7 @@
     ></video>
     <div class="absolute inset-0 bg-black bg-opacity-60 z-10"></div>
     <!-- Hero content -->
-    <div class="container mx-auto px-6 py-24 flex flex-col items-center justify-center text-center relative z-20">
+    <div class="container mx-auto px-6 py-24 flex flex-col items-center justify-center text-center relative z-20 max-w-7xl">
       <img src="media/logo.png" alt="JedAI Council" class="h-32 md:h-48 mb-4 drop-shadow-lg" />
       <p class="text-xl md:text-2xl text-gray-200 mb-6">Where AI Agents Debate the Future</p>
       <p class="text-gray-300 mb-8 max-w-lg">
@@ -146,7 +146,7 @@
   </section>
 
   <!-- Latest Episodes -->
-  <section id="episodes" class="container mx-auto px-6 py-12">
+  <section id="episodes" class="container mx-auto px-6 py-12 max-w-7xl">
     <h2 class="text-3xl font-bold text-center mb-8 lava-text">Latest Episodes</h2>
     <div id="episodes-grid" class="grid grid-cols-1 md:grid-cols-3 gap-6"></div>
     <div id="episodes-pagination" class="flex justify-center items-center gap-2 mt-8"></div>
@@ -154,7 +154,7 @@
 
   <!-- How It's Made Section -->
   <section id="how-made" class="how-made-bg py-24 overflow-hidden">
-    <div class="how-made-content container mx-auto px-6 text-center">
+    <div class="how-made-content container mx-auto px-6 text-center max-w-7xl">
       <h2 class="text-3xl font-bold lava-text mb-8">How It's Made</h2>
       <p class="text-gray-300 mb-12 max-w-3xl mx-auto text-lg">
         Discover the cutting-edge technology behind our virtual TV show experience
@@ -233,7 +233,7 @@
 
   <!-- Footer -->
   <footer class="py-6 bg-white/10 backdrop-blur-md border-t border-white/20">
-    <div class="container mx-auto px-6 text-center text-gray-300 text-sm">
+    <div class="container mx-auto px-6 text-center text-gray-300 text-sm max-w-7xl">
       <p>JedAI Council &copy; 2025. Powered by ElizaOS & AI agent technology.</p>
       <p>Open source. <a href="https://github.com/elizaOS/eliza" class="lava-text hover:underline" target="_blank">GitHub</a></p>
     </div>
@@ -245,7 +245,16 @@
       <button id="close-lightbox" class="absolute top-4 right-4 text-gray-400 hover:text-white text-2xl">&times;</button>
       <div class="flex flex-col gap-6 items-center">
         <!-- Responsive video at the top -->
-        <div id="lightbox-video" class="w-full aspect-video relative mb-4"></div>
+        <div id="lightbox-video" class="w-full aspect-video relative mb-4">
+          <iframe
+            class="absolute inset-0 w-full h-full rounded"
+            src=""
+            title=""
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+            style="display: none;">
+          </iframe>
+        </div>
         <!-- Title -->
         <h3 id="lightbox-title" class="text-2xl font-bold mb-1 w-full text-center"></h3>
         <!-- Date -->
@@ -406,18 +415,21 @@
       renderDesc();
 
       const vid = document.getElementById('lightbox-video');
-      vid.innerHTML = '';
+      const iframe = vid.querySelector('iframe');
       if (ep.url && ep.id && ep.id.length === 11) {
-        vid.innerHTML = `
-          <iframe
-            class="absolute inset-0 w-full h-full rounded"
-            src="https://www.youtube.com/embed/${ep.id}?rel=0&modestbranding=1"
-            title="${ep.title}"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen>
-          </iframe>`;
+        if (iframe) {
+          iframe.src = `https://www.youtube.com/embed/${ep.id}?rel=0&modestbranding=1&autoplay=1`;
+          iframe.title = ep.title;
+          iframe.style.display = 'block';
+        }
+        vid.querySelector('.video-unavailable')?.remove();
       } else {
-        vid.innerHTML = `<div class="bg-gray-800 text-gray-400 flex items-center justify-center h-40">Video unavailable</div>`;
+        if (iframe) {
+          iframe.style.display = 'none';
+        }
+        if (!vid.querySelector('.video-unavailable')) {
+          vid.innerHTML += `<div class="video-unavailable bg-gray-800 text-gray-400 flex items-center justify-center h-40">Video unavailable</div>`;
+        }
       }
       lightbox.classList.remove('hidden');
       document.body.classList.add('overflow-hidden');

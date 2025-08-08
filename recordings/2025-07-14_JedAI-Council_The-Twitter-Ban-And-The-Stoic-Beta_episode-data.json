@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/07/episode-5260-featured-1752553501.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/07/episode-5260-featured-1752553501-150x150.png",
+  "premise": "The council discusses ElizaOS's Twitter suspension, the technical progress with Stoic beta, and the dual-token ecosystem confusion.",
+  "scenes": [
+    {
+      "description": "The council discusses ElizaOS's Twitter suspension and social media strategy",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council debates agent-to-agent communication and development priorities",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their insights on ElizaOS's challenges and opportunities",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

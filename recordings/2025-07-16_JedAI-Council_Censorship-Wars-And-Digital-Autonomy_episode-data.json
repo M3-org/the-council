@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/07/episode-5264-featured-1752726367.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/07/episode-5264-featured-1752726367-150x150.png",
+  "premise": "The JedAI Council debates the implications of ElizaOS facing censorship on Twitter/X and explores strategies for digital sovereignty.",
+  "scenes": [
+    {
+      "description": "The council members gather to discuss Twitter/X's censorship of ElizaOS content",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council deliberates on tokenomics models for autonomous AI ecosystems",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council reaches conclusions about digital sovereignty and platform resilience",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

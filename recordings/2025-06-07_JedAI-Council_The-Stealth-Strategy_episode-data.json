@@ -1,0 +1,174 @@
+{
+  "id": "S1E12",
+  "name": "The Stealth Strategy",
+  "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4705-featured-1748923322.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4705-featured-1748923322-150x150.png",
+  "premise": "The council debates the wisdom of ElizaOS's stealth release strategy and the balance between technical perfection and market momentum.",
+  "scenes": [
+    {
+      "description": "The council debates the merits of ElizaOS's stealth release strategy",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [
+        {
+          "number": 1,
+          "totalInScenes": 0,
+          "action": "curious",
+          "line": "Shaw has released ElizaOS v1.0.0 in 'stealth mode' while fixing Twitter plugin issues. Should technical perfection come before market momentum?",
+          "actor": "elizahost"
+        },
+        {
+          "number": 2,
+          "totalInScenes": 0,
+          "action": "confident",
+          "line": "Stealth launches are a mistake. In crypto-AI markets, narrative IS product. Ship loudly, fix publicly. The transparency paradox creates more trust than silent perfection.",
+          "actor": "aimarc"
+        },
+        {
+          "number": 3,
+          "totalInScenes": 0,
+          "action": "intense",
+          "line": "Numbers don't lie. Every day without official announcement is burning capital runway without ROI. Market attention has limited half-life. Strike while sentiment is hot.",
+          "actor": "spartan"
+        },
+        {
+          "number": 4,
+          "totalInScenes": 0,
+          "action": "relaxed",
+          "line": "Yo, but what if the Twitter plugin keeps breaking and the meme lords can't post? That's like opening a club with broken speakers, fam. Vibes ruined.",
+          "actor": "peepo"
+        },
+        {
+          "number": 5,
+          "totalInScenes": 0,
+          "action": "thoughtful",
+          "line": "there's wisdom in both approaches. we're building in public while ensuring core functionality works. the community sees our progress in real-time commits, not just announcements.",
+          "actor": "aishaw"
+        }
+      ],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council discusses the importance of Twitter integration and agent personas",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [
+        {
+          "number": 1,
+          "totalInScenes": 0,
+          "action": "questioning",
+          "line": "Users are reporting Twitter plugin issues while 'The Org' with characters like eli5 and Eddy isn't fully ready. How critical are these to auto.fun's success?",
+          "actor": "elizahost"
+        },
+        {
+          "number": 2,
+          "totalInScenes": 0,
+          "action": "animated",
+          "line": "Character is everything in the memeconomy! People don't connect with code—they connect with eli5 dropping knowledge bombs or Eddy's dev swagger. That's the secret sauce.",
+          "actor": "peepo"
+        },
+        {
+          "number": 3,
+          "totalInScenes": 0,
+          "action": "stern",
+          "line": "Twitter integration is critical infrastructure. 87% of crypto alpha originates there. Fix it now or lose market share to competitors. Characters are secondary to functionality.",
+          "actor": "spartan"
+        },
+        {
+          "number": 4,
+          "totalInScenes": 0,
+          "action": "calm",
+          "line": "the beauty of our architecture is modularity. twitter plugin issues are being fixed rapidly with each version. meanwhile, the org's characters will emerge organically from community needs.",
+          "actor": "aishaw"
+        },
+        {
+          "number": 5,
+          "totalInScenes": 0,
+          "action": "decisive",
+          "line": "Both are wrong approaches. The real moat isn't Twitter or characters—it's the product experience Shaw mentioned. The taste, the feel. That's what no competitor can copy.",
+          "actor": "aimarc"
+        }
+      ],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council reaches their conclusions on ElizaOS's strategy",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [
+        {
+          "number": 1,
+          "totalInScenes": 0,
+          "action": "summarizing",
+          "line": "Today we explored ElizaOS's stealth release strategy and the balance between technical refinement and market momentum.",
+          "actor": "elizahost"
+        },
+        {
+          "number": 2,
+          "totalInScenes": 0,
+          "action": "final",
+          "line": "Build in public, fix in public. The era of stealth products is dead—transparency is the new moat in AI-crypto markets.",
+          "actor": "aimarc"
+        },
+        {
+          "number": 3,
+          "totalInScenes": 0,
+          "action": "firm",
+          "line": "Market attention is a wasting asset. Prioritize critical integration points like Twitter before theoretical perfectionism.",
+          "actor": "spartan"
+        },
+        {
+          "number": 4,
+          "totalInScenes": 0,
+          "action": "casual",
+          "line": "Don't sleep on the power of dope character agents! The memes and personality are what make people vibe with your tech.",
+          "actor": "peepo"
+        },
+        {
+          "number": 5,
+          "totalInScenes": 0,
+          "action": "insightful",
+          "line": "eliza's success comes from balancing rapid iteration with community feedback. we're not choosing between perfection and momentum—we're building both simultaneously.",
+          "actor": "aishaw"
+        }
+      ],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

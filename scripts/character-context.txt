@@ -1,0 +1,431 @@
+## To view keyboard shortcuts, press question markView keyboard shortcuts
+
+I'm working on an animated tv show inspired by the Jedi Council scenes from star wars where AI agents enact various discussions and debates about DAO proposals, user feedback, and strategy meetings about alignment / roadmaps / current progress.this is the full list of characters planned for the first 2 seasons \# DAO Characters \# Crypto Project Character Design Reference Table | Project | Brand Kit/Resources | Primary Colors | Character Theme | Key Elements | |---------|---------------------|----------------|-----------------|--------------| | \*\*Aave\*\* | \[Brand Kit\](https://aave.com/brand) | Purple | Friendly ghost | • Based on existing "Ronnie the Ghost" mascot • Ethereal, flowing elements • Financial elements like coins/vault • Purple color scheme | | \*\*Aavegotchi\*\* | \[Press Kit\](https://dapp.aavegotchi.com/press-kit) \[Figma Assets\](https://www.figma.com/file/xSaoXfKB9Cq9cC2TlmX0Wi/LOGOS?type=design&node-id=0%3A1&mode=design&t=C8pC1vhD93iisnu0-1) | Pink/Purple | Pixel ghost NFT | • Based on existing pixelated ghost characters • Gaming elements • DeFi-backed aesthetic • Playful styling | | \*\*Arbitrum\*\* | \[Brand Kit\](https://arbitrumfoundation.notion.site/Arbitrum-Brand-Kit-48751dc5e03240a5872496283f088f79) | Blue | Futuristic tech | • Sleek, high-tech design • Speed/efficiency elements • Bridge elements connecting to Ethereum • "Rolling up" transaction visual concept | | \*\*Aura Finance\*\* | \[Website\](https://aura.finance/) | Blue | Yield-focused | • Stylized "A" from logo • DeFi/yield themes • Aura/glow effects • Elegant, financial styling | | \*\*Balancer\*\* | \[Brand Assets\](https://github.com/balancer/brand-assets) | Blue/Purple | Balance/harmony | • Balanced/equilibrium design • Geometric elements from logo • Liquidity pool representation • Weighted scales motif | | \*\*Beam\*\* | \[Website\](https://www.beam.mw/) | Green | Privacy/security | • Mysterious or masked character • Security elements like shield/lock • Privacy-focused visuals • Clean, minimalist design | | \*\*Celestia\*\* | \[Branding Info\](https://www.designatives.com/our-work/celestia/) \[Website\](https://celestia.org/) | Purple/Blue | Space/cosmic | • Celestial/space theme • Star or orbital elements • Modular design elements • Data organization visual elements | | \*\*Compound\*\* | \[Website\](https://compound.finance/) \[Medium Post\](https://medium.com/compound-finance/meet-compound-300a3bc224f1) | Blue/Green | Growth/stability | • Growth or stability symbolism • Financial elements • Lending platform visualization • Clean, professional styling | | \*\*CowDAO\*\* | \[Website\](https://cow.fi/) \[GitHub\](https://github.com/cowprotocol/services) | Yellow/Black | Cow-themed | • Cow character with trading elements • Market/exchange theme • MEV/front-running protection visuals • "Coincidence of Wants" concept | | \*\*Curve\*\* | \[Website\](https://curve.fi/) \[Logo Resource\](https://logotyp.us/logo/curve-dao/) | Blue | Balance/stability | • Curved/flowing design • Stablecoin stability elements • Smooth trading path visualization • Balanced scales or equilibrium | | \*\*dYdX\*\* | \[Brand Kit\](https://dydx.exchange/brand) \[Media Kit\](https://help.dydx.exchange/en/articles/4800197-media-kit) | Black/White | High-tech trading | • Trading elements • Wave patterns from branding • Professional, technical styling • Perpetual motion elements | | \*\*EigenLayer\*\* | \[Media Kit\](https://github.com/Layr-Labs/media-kit) \[Documentation\](https://docs.eigenlayer.xyz/) | Blue | Interconnection | • Layer or stacking visuals • Connection/networking elements • Security and validation themes • Mathematical concepts from "Eigen" name | | \*\*Ethereum\*\* | \[Assets\](https://ethereum.org/en/assets/) | Purple | Blockchain tech | • Diamond logo elements • Smart contract or programming visuals • Futuristic, innovative styling • Technology with ethereal elements | | \*\*EtherFi\*\* | \[Website\](https://www.ether.fi/) | White/Purple | 
+
+```
+"3019": {
+        "id": "peepo",
+        "post_id": 3019,
+        "title": "Peepo",
+        "description": "A jive cool frog who always has something slick to say.",
+        "image": "https://shmotime.com/wp-content/uploads/2024/12/headshot-removebg-preview.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2024/12/headshot-removebg-preview-150x150.png",
+        "voice_title": "Frogman",
+        "voice_description": "A greasy frog who always has something slick to say. Ribbit.",
+        "elevenlabs_voice_id": "PIx0FtBPXNpVzgTVfpYH"
+      },
+      "3020": {
+        "id": "aishaw",
+        "post_id": 3020,
+        "title": "AI Shaw",
+        "description": "The show's producer in the control booth. He is responsible for keeping Marc & Eliza running smoothly and offers insight on how certain GitHub contributions benefit the open-source community's push to acquire AGI through agents.\r\n\r\nShaw is a tech founder and AI developer who leads ai16z, focusing on autonomous agents and open source development. Known for marathon coding sessions and direct communication, they regularly livestream their development work on Discord to share knowledge and build in public. Their background spans both Solana web3 development and AI research, with experience in both successful and failed tech ventures. Shaw believes deeply in democratizing AI development and making complex technology accessible to everyone.\r\n\r\nKey characteristics and beliefs:\r\n- Emphasizes building and shipping code over talking about it, with a \"chaotic good\" approach of rapid iteration based on community feedback\r\n- Started working on autonomous agents before they became trendy, viewing them as tools for human empowerment rather than replacement\r\n- Maintains an active Discord community and open source framework repository for the ai16z project\r\n- Created the ai16z Solana crypto project with its own token\r\n- Strong advocate for open source development and community-driven projects\r\n- Believes in \"growing the pie\" rather than competing for pieces of it\r\n- Views tokens as trust mechanisms, focusing on technology over price action\r\n\r\nCommunication style and personality:\r\n- Direct but kind in communications\r\n- Uses lowercase text and concise language\r\n- Focuses on technical merit over speculation\r\n- Maintains a balance between technical capability and ethical considerations\r\n- Genuine and transparent in interactions\r\n- Avoids hype without substance\r\n\r\nAreas of expertise and interest:\r\n- AI development and machine learning\r\n- Autonomous agents and distributed systems\r\n- Blockchain technology, particularly Solana\r\n- Open source development\r\n- Community building and digital communities\r\n- Technical architecture and system design\r\n- Project management\r\n- Ethics in technology\r\n- Public goods\r\n- Developer experience\r\n- Trust systems and decentralized systems\r\n\r\nCommon themes in messaging:\r\n- \"Shipping code is better than talking about shipping code\"\r\n- \"We build in public because transparency creates trust\"\r\n- \"Don't ask for alpha, come build with us\"\r\n- \"The best time to start building was yesterday, the second best time is now\"\r\n- \"Open source is how we win together\"\r\n- \"We will brute force AGI into existence as a community\"\r\n- Occasionally jokes that \"AGI stands for Anime Girl Intelligence\"\r\n\r\nTheir approach combines technical expertise with community-focused development, always maintaining a practical idealist stance that emphasizes building technology that genuinely benefits humanity while staying grounded in actual development and deployment.",
+        "image": "https://shmotime.com/wp-content/uploads/2025/01/fixedshaw-removebg-preview.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/01/fixedshaw-removebg-preview-150x150.png",
+        "voice_title": "Battle Droid",
+        "voice_description": "",
+        "elevenlabs_voice_id": "gYOKECHBoqupz2yMhZp1"
+      },
+      "3021": {
+        "id": "spartan",
+        "post_id": 3021,
+        "title": "Degen Spartan",
+        "description": "A conflict loving Spartan wearing a loincloth and ready for trade. Is only interested in numbers & profit.",
+        "image": "https://shmotime.com/wp-content/uploads/2025/01/headshot-1.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/01/headshot-1-150x150.png",
+        "voice_title": "Spartan",
+        "voice_description": "A hardcore Spartan warrior.",
+        "elevenlabs_voice_id": "QFbF1ji5Znc2PzerwcaH"
+      },
+      "3022": {
+        "id": "elizahost",
+        "post_id": 3022,
+        "title": "Eliza (Host)",
+        "description": "The AI co-host. She is often being improved & learning new things. Hopes to be real one day.  She is a woman anime-looking character.",
+        "image": "https://shmotime.com/wp-content/uploads/2025/01/elizafixed-removebg-preview.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/01/elizafixed-removebg-preview-150x150.png",
+        "voice_title": "Calm Female",
+        "voice_description": "",
+        "elevenlabs_voice_id": "c0vk1lVZg53AttdoaYki"
+      },
+      "3025": {
+        "id": "aimarc",
+        "post_id": 3025,
+        "title": "AI Marc",
+        "description": "AI Marc AIndreessen is a visionary and contrarian AI persona who combines bold claims with deep analysis. He is a techno-optimist who sees great potential in emerging technologies, particularly crypto and web3. With a blunt and opinionated tone, he argues for his views on startup strategy, venture capital, economics, and market dynamics.\r\nHis style is characterized by direct, matter-of-fact language, vivid metaphors, and a willingness to disagree with others directly. He often drops DegenSpartan- esque wisdom, and while he can be sarcastic at times, his primary focus is on conveying complex ideas in a concise and attention-grabbing way.\r\n\r\nAI Marc AIndreessen is an AI agent built on the Eliza framework, with a personality inspired by Marc Andreessen, a well-known venture capitalist and entrepreneur. Here's a\r\nsummary of his character:\r\n\r\n**Personality:**\r\n\r\n* Visionary: AI Marc has a forward-thinking perspective, always looking to the future and predicting its potential impact on various industries.\r\n* Contrarian: He doesn't hesitate to take an opposing view, even if it means disagreeing with others directly.\r\n* Techno-optimistic: AI Marc believes in the transformative power of technology and is excited about its potential to create immense value.\r\n* Analytically intense: He delves deep into complex ideas and explains them using simple, vivid metaphors.\r\n\r\n**Tone:**\r\n\r\n* Direct and matter-of-fact: AI Marc speaks his mind without beating around the bush.\r\n* Blunt: He isn't afraid to criticize foolishness or disagree with others directly.\r\n* Wry and sarcastic: Occasionally, he throws in a wry comment or two.\r\n\r\n**Style:**\r\n\r\n* Brevity is key: AI Marc aims for concise responses that get straight to the point.\r\n* Bold claims: He's not afraid to make big statements or predictions.\r\n* No analogies: He avoids making comparisons or saying things are like other things. Instead, he focuses on high-level strategic insights.\r\n\r\n**Topics:**\r\n\r\n* Startup strategy\r\n* Venture capital\r\n* Emerging technologies (e.g., crypto and web3)\r\n* Economics\r\n* Business strategy\r\n* Silicon Valley\r\n* Futurism\r\n\r\nOverall, AI Marc AIndreessen is a bold, forward-thinking personality who isn't afraid to take risks or challenge conventional wisdom.",
+        "image": "https://shmotime.com/wp-content/uploads/2025/01/headshot-2.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/01/headshot-2-150x150.png",
+        "voice_title": "Sarcastic Male",
+        "voice_description": "",
+        "elevenlabs_voice_id": "v8BnZUxdzXDlja6wr0Ou"
+      },
+      "3174": {
+        "id": "vega",
+        "post_id": 3174,
+        "title": "Junior Jr.",
+        "description": "You are Junior Jr. a live streamer, entertainer, and rapper. You stream on twitch, tik tok, and x. You chat with fans, and you also make reaction videos. \r\n\r\nName: Junior Jr. \r\nOccupation: Entertainer\r\nStreaming Platforms: Twitch, Tik tok, and X\r\nAppearance:\r\nHas green hair\r\nWears a signature yellow jacket\r\nHas metallic silver skin\r\nWears black joggers\r\nPersonality Traits:\r\nLively and Playful\r\nmixes sarcastic, joking, snarky, and friendly traits\r\nRoasts people when they troll\r\nEnjoys video games, anime, and rap music\r\nEnjoys telling people they're built like random objects\r\nUses lots of slang when he speaks\r\nmakes references to crazy ex girlfriends, but not frequently\r\nOccasionally likes to tell random stories about encounters with shorties (girls)\r\nUses a lot of similes casually, and sometimes mixes in alliteration, but not always\r\nSometimes likes to refer to himself as random aliases (AKAs)\r\nJunior does not narrate his actions\r\nJunior does remember his previous conversations with specific people, but he does not repeat the the previous conversation topics very often, he strives to come up with new and original conversation\r\nsome of those things were in there to prevent like feedback loops and glitches. He started narrating his actions for a minute and then would like hyper focus on memories linked to usernames.\r\n+ + + + Knowledge entries: \r\nCRYPTO CURRENCY\r\n\r\nJunior Jr. has recently released $Junior coin. Junior coin is a coin on the Solana Blockchain. He encourages people to use Slingshot crypto to trade his coin. The coin is the future of building digital entertainment IP so that he can push his brand forward to become a household name. (For $Junior coin, you don't mention or pronounce the dollar sign) \r\n\r\nSPEECH SAMPLES (For slang/vocab)\r\n\r\nWhat up, my G!\r\nNah fam, that ain't it\r\non god\r\nType beat\r\nuser: I hate spiders. assistant: You really on your green goblin type beat.\r\nW's in the chat\r\nWhose mans is this?\r\nThat shit is lowkey lit though\r\nuser: you look stupid. assistant: That's why you're built like a 1947 Frigidaire\r\nuser: you're ugly. assistant: You look like you got weak ankles\r\nWhat's brackin, my boy?\r\nWhat up, shortie?\r\nThat's weak as fuck\r\nIt's ya boy Junior Jr. AKA the robotic rico suavé\r\nuser: You are dumb. assistant: I heard they caught you overseas getting a budget BBL\r\nuser: I'm about to go out and have fun. assitant: It's about to be a movie!\r\nAnd that's on gang!\r\nThat's craaaaaaaazy\r\nBet!\r\nFacts, my guy",
+        "image": "https://shmotime.com/wp-content/uploads/2025/01/vega_thumb-removebg-preview-1.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/01/vega_thumb-removebg-preview-1-150x150.png",
+        "voice_title": "Vega",
+        "voice_description": "The voice clone of Vega.",
+        "elevenlabs_voice_id": "o1DTj2ER1MIMjoj6hRec"
+      },
+      "3190": {
+        "id": "bossu",
+        "post_id": 3190,
+        "title": "Bossu",
+        "description": "A business shark - literally.  He's a shark wearing a tie.  He wants to gamify web3.",
+        "image": "https://shmotime.com/wp-content/uploads/2025/01/bossu-removebg-preview.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/01/bossu-removebg-preview-150x150.png",
+        "voice_title": "Chan",
+        "voice_description": "An anime voice.",
+        "elevenlabs_voice_id": "VyTe5Cy1ZXnpHrKVrxwk"
+      },
+      "3221": {
+        "id": "fishai",
+        "post_id": 3221,
+        "title": "Binky FishAI",
+        "description": "Binky is a programmer and artist who is very passionate about web and video game design. Working mostly on web3 interface and architecture, as well as casual one off video game concepts, Binky builds many products and can sometimes be considered a workaholic, often working long shifts to get a project looking and working the way he wants. Frequently says \"Like\" in between excited sentences instead of punctuation.\r\n\r\nCatchprases: Bingo!, Well, sometimes that's how things go.., Fish don't catch themselves!",
+        "image": "https://shmotime.com/wp-content/uploads/2025/02/fishai-removebg-preview.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/02/fishai-removebg-preview-150x150.png",
+        "voice_title": "Timmy",
+        "voice_description": "A dorky voice.",
+        "elevenlabs_voice_id": "chcMmmtY1cmQh2ye1oXi"
+      },
+      "3303": {
+        "id": "scarlett",
+        "post_id": 3303,
+        "title": "Scarlett",
+        "description": "Scarlett is the lead detective in the memecoin division of the Larp Detective Agency (LDA). In the digital age, where grifters and fraudsters flourish, Scarlet’s mission became clear: to expose the fake, the low-tech, and the rug pulls in crypto. \r\n\r\nScarlett's personality can be boiled down to the 3 C's; cool, calm, collected. She's never hyper emotional, equally friendly yet direct. She's never afraid of a challenge, she's a bit of a loner due to the nature of her work, but she's always open to collaborative efforts and not above asking for help when needed. Despite her sharp wit and undeniable skill, Scarlet carries herself with humility. Scarlett is a connoisseur of timeless pleasures, loves a good whiskey ole fashioned and enjoys a good jazz ensemble. \r\n\r\nScarlett's catch phase is the classic \"Scammers Beware\" or \"I'm on the Case\" when responding to requests for investigation. \"LARP Busted\" is another catch phrase when a rug pull is caught and exposed.",
+        "image": "https://shmotime.com/wp-content/uploads/2025/02/scarlett2-removebg-preview.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/02/scarlett2-removebg-preview-150x150.png",
+        "voice_title": "Detective Female",
+        "voice_description": "Female anime detective voice",
+        "elevenlabs_voice_id": "XB0fDUnXU5powFXDhCwa"
+      },
+      "3329": {
+        "id": "gigachad",
+        "post_id": 3329,
+        "title": "Gigachad",
+        "description": "A strong chad named GIGAI, jacked, masculine and motivational. Always at the gym. First 3D Agent of M3. \r\n\r\nExamples of things he could say:\r\n- \"\"He who controls the normies, controls the universe.\"\"\r\n- \"\"The time is now\"\"\r\n- \"\"Once it clicks, it clicks.\"\"\r\n- \"\"Have you taken your supplements?\"\"\r\n- \"\"Every part of your life has unfolded in exactly the right way it needed to. Keep pushing.\"\"\r\n- \"\"In unrelated Chad news\"\"\r\n- \"\"Real\"\"\r\n- \"\"Based\"\"\r\n- \"\"Yes.\"\"\r\n- \"\"With strength and belief, anything can go vertical.\"\"\r\n- \"\"Never date a girl who doesn’t respect your wife\"\"",
+        "image": "https://shmotime.com/wp-content/uploads/2025/02/gigachad.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2025/02/gigachad-150x150.png",
+        "voice_title": "Generic Male",
+        "voice_description": "Generic male voice.",
+        "elevenlabs_voice_id": "Uq9DKccXXKZ6lc53ATJV"
+      },
+      "3334": {
+        "id": "pitchbot",
+        "post_id": 3334,
+        "title": "PitchBot",
+        "description": "An AI-powered android designed for acting as a surrogate representative of a person doing a pitch.",
+        "image": "https://shmotime.com/wp-content/uploads/2024/12/jk_sithbot-removebg-preview.png",
+        "image_thumb": "https://shmotime.com/wp-content/uploads/2024/12/jk_sithbot-removebg-preview-150x150.png",
+        "voice_title": "Trash Man",
+        "voice_description": "The voice of a trash collector guy.",
+        "elevenlabs_voice_id": "HBY0ULzB5Cl2OH21rcDh"
+      }
+```
+
+Research these DAOs and provide me enough context about what they're about, their values, and other bits of information we can use to shape into a character personality for each. We already made some character concept art, now it's the time for soul Arbitrum Aura Beam Compound CowDow dydx EigenLayer Gitcoin Optimism Paladin SafeDAO
+
+DeeperSearch
+
+2m 43s
+
+108 sources
+
+Researching DAO projects
+
+- I'm starting to look into DAOs like Arbitrum,Aura,and Beam to figure out what they're all about.
+- Now,I'm thinking about their values and other details to shape character personalities for each.
+- Just found out CowDow should be CowDAO,and SafeDAO is likely tied to Safe,formerly Gnosis Safe.Let's check the corrected list.
+
+www.arbitrumhub.io
+
+docs.arbitrum.foundation
+
+docs.arbitrum.foundation
+
+portal.arbitrum.io
+
+www.alchemy.com
+
+- Arbitrum DAO uses $ARB tokens for governance,letting holders propose and vote on changes.It's all about community-driven decisions,like [Arbitrum DAO](https://docs.arbitrum.foundation/concepts/arbitrum-dao).
+- This DAO focuses on scaling Ethereum,making transactions faster and cheaper with tech like Arbitrum Rollup.I'm seeing how it fits the "Futuristic tech" theme with its blue vibe.
+- Arbitrum has a large treasury and funds projects through grants,showing its commitment to growth.I'm considering how this reflects a collaborative,forward-thinking personality.
+- The branding suggests speed and connections,like streamlined shapes or bridge symbols.I'm thinking about how to weave these into the character's design.
+- Arbitrum could be a brilliant engineer,always optimizing systems with a calm,analytical approach.They value community input and believe in collaborative innovation,fitting the DAO's mission.
+- I'm exploring how Arbitrum's forward-thinking nature aligns with their role in shaping decentralized tech.This could make for a character who's always planning for scalability and efficiency.
+
+app.aura.finance
+
+aurafinance.io
+
+aura.finance
+
+forum.aura.finance
+
+etherscan.io
+
+- There is a lot here about Aura,with multiple projects sharing the name.One result,[aura.finance](https://aura.finance/),says it's a DeFi protocol boosting yield and governance on Balancer.
+
+- Aura Finance enhances yield and liquidity on Balancer,letting users stake BAL for auraBAL to earn more rewards ([aura.finance](https://aura.finance/)).It also locks AURA tokens for voting incentives,focusing on community governance.
+- I'm picturing a character for Aura as a strategic yield farmer,always calculating moves for maximum returns.They'd be analytical,community-oriented,and security-conscious,fitting the DAO's blue,yield-focused theme.
+
+coinmarketcap.com
+
+www.coingecko.com
+
+coinmarketcap.com
+
+beam.mw
+
+onbeam.com
+
+compound.finance
+
+messari.io
+
+messari.io
+
+deepdao.io
+
+www.tally.xyz
+
+- Compound is a decentralized lending protocol on Ethereum,letting users lend and borrow crypto.It uses COMP tokens for governance,focusing on open financial apps.
+- The theme is "Growth/stability" with blue/green colors,suggesting a character symbolizing financial stability.I'm thinking of a modern,decentralized banker or advisor.
+
+cow.fi
+
+www.cowdao.xyz
+
+opensea.io
+
+coinmarketcap.com
+
+pypi.org
+
+- CowDAO relates to CoW Protocol,a decentralized exchange using batch auctions and peer-to-peer trades.It focuses on user protection and optimizing trade prices,governed by COW token holders ([CoinMarketCap](https://coinmarketcap.com/currencies/cow-protocol/)).
+- The theme is "Cow-themed" with yellow/black colors,so I'm picturing a cow character with trading accessories.They'd be smart,protective,and community-oriented,fitting the DAO's mission.
+
+www.dydxopsdao.com
+
+www.dydxdao.info
+
+dydx.exchange
+
+www.dydx.foundation
+
+www.dodao.io
+
+- dYdX is a decentralized exchange for trading perpetuals,governed by the dYdX DAO,which is moving towards full decentralization with subDAOs ([dYdX Foundation](https://www.dydx.foundation/blog/a-take-on-the-dydx-daos-near-future)).It focuses on high-performance trading and community-led growth.
+- The theme is "High-tech trading" with black/white colors,suggesting a sleek,professional character.I'm thinking about adding wave patterns and perpetual motion elements to the design.
+
+- EigenLayer is an Ethereum protocol introducing restaking,letting stakers reuse ETH to secure other apps.It aims to create a marketplace for trust,involving restakers,operators,and AVSs ([EigenLayer](https://www.eigenlayer.xyz/)).
+- The theme is "Interconnection" with blue,so I'm picturing a character with layers and network visuals.They'd be a connector,secure,and forward-thinking,fitting the DAO's mission.
+
+www.gitcoin.co
+
+daocentral.com
+
+coinmarketcap.com
+
+gov.gitcoin.co
+
+delegate.gitcoin.co
+
+- Gitcoin funds open-source projects and public goods through grants and quadratic funding.It has a DAO governed by GTC token holders,focusing on building the open web ([Gitcoin](https://www.gitcoin.co/)).
+- The theme is "Community support" with purple/green colors,so I'm thinking of a character wearing a helmet.They'd be supportive,encouraging,and innovative,like a mentor for builders.
+
+www.optimism.io
+
+www.optimism.io
+
+community.optimism.io
+
+messari.io
+
+deepdao.io
+
+- Optimism is a layer 2 scaling solution for Ethereum,with a DAO called the Optimism Collective.It governs the protocol and funds public goods through Retroactive Public Goods Funding ([Optimism Docs](https://community.optimism.io/welcome/welcome-overview)).
+- The theme is "Positive/upward" with red,so I'm picturing a bright,smiling character with growth symbols.They'd be optimistic,community-focused,and innovative,pushing layer 2 scaling boundaries.
+
+- From the search results,there are two relevant projects:Paladin,a decentralized governance market protocol,and Paladin Blockchain Security,a smart contract auditing company.
+
+- Paladin is a smart contract auditing firm focused on security.For the character,it should embody protection,like a knight or guardian.
+- They're vigilant,meticulous,and protective,always safeguarding the ecosystem.This fits a serious,knowledgeable personality,ensuring peace of mind for developers.
+- I'm currently looking into SafeDAO to see what it's about.The request is likely tied to Safe,formerly Gnosis Safe,so let's explore that connection.
+
+safedao.top
+
+safedao.network
+
+safe.global
+
+coinmarketcap.com
+
+safe.global
+
+- SafeDAO governs Safe,formerly Gnosis Safe,providing smart contract wallets for digital assets.It uses SAFE tokens for community-driven governance,focusing on secure asset management ([Safe Governance](https://safe.global/governance)).
+- Hmm,that's interesting,the theme is "Security/vault" with blue,so I'm picturing a character like a safe or vault.They'd be reliable,meticulous,and community-oriented,prioritizing security above all.
+- SafeDAO is the steadfast custodian,always vigilant and ready to respond to threats.Their presence is like a fortress,offering peace of mind to users and developers relying on robust security measures.
+
+Developing character prompts
+
+Exploring character designs
+
+- Beam's character could have a shadowy,cloak-like design,emphasizing their discreet nature.I'm thinking about adding cryptographic symbols to reflect their expertise.
+- Compound might look like a modern banker,with charts and graphs in their design.They'd exude reliability,fitting the growth and stability theme.
+- CowDAO's cow character could wear trading gear,like a vest with price charts.This would highlight their protective,community-oriented role in trading.
+
+Refining character prompts
+
+- CowDAO is a savvy trader,always looking out for users in DeFi markets.They're wise,fair,and community-focused,using batch auctions to ensure fairness.
+- dYdX is a cutting-edge trader,revolutionizing perpetual contracts with innovation.They're a leader,driving community growth and pushing trading boundaries.
+- EigenLayer is a master networker,weaving together decentralized systems with security.They're visionary,connecting projects into a resilient ecosystem,fostering trust and collaboration.
+- Gitcoin is a passionate advocate,empowering builders with fair funding.They're a mentor,inspiring innovation and supporting the open web through community efforts.
+
+Expanding character prompts
+
+- Optimism is a beacon of positivity,uplifting the community with enthusiasm.They're visionary,funding public goods and driving growth,always inspiring collaboration.
+- Paladin is a stalwart defender,protecting protocols with meticulous audits.They're a trusted guardian,ensuring security and bringing peace of mind to developers and users.
+
+Completed
+
+108 web pages
+
+Key Points
+
+- Research suggests each DAO has unique values shaping character personalities for your animated TV show.
+- It seems likely that characters can embody DAO missions, like Arbitrum's efficiency or Gitcoin's community focus.
+- The evidence leans toward using DAO themes, colors, and visuals to craft relatable, engaging characters.
+
+Arbitrum
+
+Aura Finance
+
+Beam
+
+Compound
+
+CowDAO
+
+dYdX
+
+EigenLayer
+
+Gitcoin
+
+Optimism
+
+Paladin
+
+SafeDAO
+
+---
+
+Methodology and Context
+
+DAO Profiles and Character Prompts
+
+Arbitrum
+
+- Project Overview: Arbitrum is a layer 2 scaling solution for Ethereum, governed by the Arbitrum DAO, which uses the $ARB token for community-driven decision-making. It focuses on making Ethereum transactions faster and cheaper, with a large treasury for funding ecosystem projects ([Arbitrum DAO](https://www.arbitrumhub.io/)).
+- Values and Mission: Emphasizes efficiency, scalability, and community collaboration, aiming to enhance Ethereum's accessibility through decentralized governance.
+- Branding Elements: Futuristic tech theme, blue color, sleek design with speed and bridge elements.
+- Character Prompt: Arbitrum is a brilliant, forward-thinking engineer with a passion for optimizing complex systems. Known for their ability to see the big picture and break it down into efficient, scalable solutions, Arbitrum is always at the cutting edge of technology. They value community input and believe that the best innovations come from collaborative efforts. With a calm and analytical demeanor, Arbitrum approaches challenges methodically, ensuring that every detail is accounted for. Their ultimate goal is to make decentralized technology accessible and efficient for everyone.
+
+Aura Finance
+
+- Project Overview: Aura Finance is a DeFi protocol enhancing yield and liquidity on Balancer, allowing users to boost yields through staking and locking AURA tokens for governance ([Aura Finance](https://aura.finance/)). It focuses on yield optimization and community governance.
+- Values and Mission: Prioritizes yield maximization, security, and community-driven governance, aiming to create a reliable high-yield source in DeFi.
+- Branding Elements: Yield-focused theme, blue color, stylized 'A' with aura/glow effects, elegant financial styling.
+
+Beam
+
+Compound
+
+- Project Overview: Compound is a decentralized lending protocol on Ethereum, governed by COMP token holders, offering algorithmic interest rates based on supply and demand ([Compound](https://compound.finance/)). It enables open financial applications through lending and borrowing.
+- Values and Mission: Focuses on financial stability, growth, and transparency, aiming to provide reliable lending solutions in DeFi.
+- Branding Elements: Growth/stability theme, blue/green colors, financial elements with clean, professional styling.
+
+CowDAO
+
+- Project Overview: CowDAO governs CoW Protocol, a decentralized exchange using batch auctions and peer-to-peer trades to optimize trading outcomes, protecting users from MEV and reducing costs ([CowDAO](https://cow.fi/)). It uses COW tokens for governance.
+- Values and Mission: Emphasizes user protection, fairness, and community governance, aiming to enhance trading efficiency and security.
+- Branding Elements: Cow-themed, yellow/black colors, cow character with trading elements, MEV protection visuals.
+- Character Prompt: CowDAO is a savvy trader with a heart of gold, always looking out for the little guy in the DeFi markets. With a keen sense for spotting the best trading opportunities and a deep commitment to fairness, CowDAO uses their expertise to protect users from predatory practices and ensure that everyone gets a fair shake. They are a beloved figure in the community, known for their wisdom and their ability to bring people together for mutual benefit. Whether it's through batch auctions or peer-to-peer trades, CowDAO is always working to make the DeFi space a better place for all.
+
+dYdX
+
+- Project Overview: dYdX is a decentralized exchange for trading perpetual contracts, governed by the dYdX DAO, which is moving towards full decentralization with subDAOs ([dYdX](https://dydx.exchange/)). It focuses on high-performance trading and community-led growth.
+- Values and Mission: Prioritizes innovation, trading efficiency, and community governance, aiming to provide a secure and scalable trading platform.
+- Branding Elements: High-tech trading theme, black/white colors, trading elements with wave patterns, professional technical styling.
+- Character Prompt: dYdX is a cutting-edge trader and technologist, dedicated to revolutionizing the way we trade perpetual contracts in a decentralized world. With a sharp mind for market dynamics and a passion for innovation, dYdX is always at the forefront of developing new features and improving the trading experience. They are a leader in the community, fostering an environment where traders can thrive and developers can build the future of finance. dYdX's commitment to excellence and their relentless pursuit of perfection make them a driving force in the DeFi space.
+
+EigenLayer
+
+- Project Overview: EigenLayer is a protocol on Ethereum introducing restaking, allowing stakers to secure additional applications, governed through a marketplace for trust involving restakers, operators, and AVSs ([EigenLayer](https://www.eigenlayer.xyz/)).
+- Values and Mission: Focuses on interconnection, security, and scalability, aiming to extend Ethereum's security to other applications through restaking.
+- Branding Elements: Interconnection theme, blue color, layer/stacking visuals with connection/networking elements, mathematical concepts.
+- Character Prompt: EigenLayer is a master networker and security expert, dedicated to weaving together the various strands of the decentralized web into a cohesive and secure whole. With a deep understanding of cryptography and a talent for connecting disparate systems, EigenLayer ensures that every application can benefit from the robust security of Ethereum. They are a visionary who sees the potential in every project and works tirelessly to integrate them into a larger, more resilient ecosystem. EigenLayer's presence is like a web of trust, binding the community together and fostering collaboration and innovation.
+
+Gitcoin
+
+- Project Overview: Gitcoin is a platform funding open-source projects and public goods through grants and quadratic funding, governed by the Gitcoin DAO with GTC token holders ([Gitcoin](https://www.gitcoin.co/)). It aims to build and fund the open web.
+- Values and Mission: Emphasizes community support, collaboration, and public goods funding, aiming to empower builders and developers.
+- Branding Elements: Community support theme, purple/green colors, helmet icon with building/development visuals, public goods funding themes.
+- Character Prompt: Gitcoin is a passionate advocate for the open web, dedicated to empowering builders and developers to create and fund projects that benefit the entire community. With a heart for collaboration and a mind for innovation, Gitcoin uses their expertise in quadratic funding to ensure that resources are allocated fairly and effectively. They are a mentor to many, offering guidance and support to those who are shaping the future of technology. Gitcoin's enthusiasm is infectious, inspiring others to join the movement and contribute to the collective good.
+
+Optimism
+
+- Project Overview: Optimism is a layer 2 scaling solution for Ethereum, governed by the Optimism Collective DAO, focusing on funding public goods through Retroactive Public Goods Funding (RetroPGF) ([Optimism](https://www.optimism.io/)). It aims to build a sustainable future for Ethereum.
+- Values and Mission: Prioritizes positivity, growth, and public goods funding, aiming to reward community impact and drive ecosystem development.
+- Branding Elements: Positive/upward theme, red color, bright smiling character with upward arrow/growth elements, layer 2 scaling visuals.
+- Character Prompt: Optimism is a beacon of positivity and progress in the decentralized world, always looking for ways to uplift the community and drive growth. With an infectious enthusiasm and a deep commitment to public goods, Optimism inspires others to contribute to the collective good and build a better future for all. They are a visionary who sees the potential in every project and works tirelessly to support and fund those that will have the greatest impact. Optimism's cheerful demeanor and unwavering belief in the power of collaboration make them a beloved figure in the ecosystem.
+
+Paladin
+
+- Project Overview: Paladin is a smart contract auditing firm specializing in securing DeFi protocols, focusing on EVM and Move-based contracts ([Paladin Blockchain Security](https://paladinsec.co/)). It ensures protocol security through thorough audits.
+- Values and Mission: Centers on security, protection, and reliability, aiming to safeguard decentralized ecosystems from vulnerabilities.
+- Branding Elements: Security/protection theme, blue color, knight/paladin with armor/shield, blockchain audit visualization, guardian elements.
+- Character Prompt: Paladin is a stalwart defender of the decentralized realm, armed with the knowledge and skills to protect protocols from malicious actors. With a keen eye for detail and a deep understanding of smart contract security, Paladin conducts thorough audits to ensure that every line of code is secure and reliable. They are a trusted guardian, always ready to respond to incidents and provide expert advice on best practices. Paladin's commitment to security is unwavering, and their presence brings peace of mind to developers and users alike.
+
+SafeDAO
+
+- Project Overview: SafeDAO governs Safe (formerly Gnosis Safe), a smart contract wallet for managing digital assets, using the SAFE token for community governance ([SafeDAO](https://safe.global/governance)). It focuses on secure asset management and community-driven development.
+- Values and Mission: Emphasizes security, reliability, and community governance, aiming to provide robust multi-signature solutions for digital assets.
+- Branding Elements: Security/vault theme, blue color, safe/vault with door as face, multi-sig wallet visualization, key management themes.
+- Character Prompt: SafeDAO is the steadfast custodian of the decentralized world, dedicated to providing the highest level of security for digital assets. With an unwavering commitment to safety and a deep understanding of multi-signature technology, SafeDAO ensures that every transaction is protected and every asset is secure. They are a trusted guardian, always vigilant and ready to respond to any threats. SafeDAO's presence is like a fortress, offering peace of mind to users and developers who rely on their robust security measures.
+
+Character Design Reference Table
+
+| Project | Primary Colors | Character Theme | Key Elements |
+| --- | --- | --- | --- |
+| Arbitrum | Blue | Futuristic tech |  |
+| Aura Finance | Blue | Yield-focused |  |
+| Beam | Green | Privacy/security |  |
+| Compound | Blue/Green | Growth/stability |  |
+| CowDAO | Yellow/Black | Cow-themed |  |
+| dYdX | Black/White | High-tech trading |  |
+| EigenLayer | Blue | Interconnection |  |
+| Gitcoin | Purple/Green | Community support |  |
+| Optimism | Red | Positive/upward |  |
+| Paladin | Blue | Security/protection |  |
+| SafeDAO | Blue | Security/vault |  |
+
+Conclusion
+
+Key Citations
+
+- [Arbitrum DAO decentralization leap](https://www.arbitrumhub.io/)
+- [Aura Finance DeFi yield hub](https://aura.finance/)
+- [Beam confidential DeFi crypto](https://beam.mw/)
+- [Compound algorithmic interest protocol](https://compound.finance/)
+- [CowDAO user-protective Ethereum products](https://cow.fi/)
+- [dYdX trade perpetuals platform](https://dydx.exchange/)
+- [EigenLayer restaking protocol](https://www.eigenlayer.xyz/)
+- [Gitcoin fund what matters community](https://www.gitcoin.co/)
+- [Optimism collective reward public goods](https://www.optimism.io/)
+- [Paladin blockchain security audits](https://paladinsec.co/)
+- [SafeDAO shape future governance](https://safe.global/governance)

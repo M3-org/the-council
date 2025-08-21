@@ -67,9 +67,10 @@ class ShmotimeRecorder {
       return '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome';
     } else if (platform === 'linux') {
       const possiblePaths = [
+        '/usr/bin/chromium',
+        '/usr/bin/chromium-browser',
         '/usr/bin/google-chrome',
         '/usr/bin/google-chrome-stable',
-        '/usr/bin/chromium',
         '/usr/bin/chromium-browser'
       ];
       for (const chromePath of possiblePaths) {
@@ -485,6 +486,22 @@ class ShmotimeRecorder {
       '--enable-features=VaapiVideoDecoder',
       '--disable-features=VizDisplayCompositor',
       `--force-device-scale-factor=1`,
+      '--disable-extensions',
+      '--disable-extensions-file-access-check',
+      '--disable-component-extensions-with-background-pages',
+      '--disable-default-apps',
+      '--disable-component-update',
+      '--no-default-browser-check',
+      '--no-pings',
+      '--disable-web-security',
+      '--disable-features=VizDisplayCompositor',
+      '--user-data-dir=/tmp/chrome-puppeteer-' + Date.now(),
+      '--extensions-dir=/dev/null',
+      '--disable-plugins',
+      '--disable-plugins-discovery',
+      '--disable-preconnect',
+      '--disable-translate',
+      '--disable-ipc-flooding-protection',
     ];
     
     // Add mute arguments if mute option is enabled
@@ -1099,13 +1116,12 @@ class ShmotimeRecorder {
   } 
 }
 
-const LIST_TXT_PATH = path.resolve(__dirname, '../list.txt');
-
-function loadListTxtMapping() {
-  // Loads list.txt and returns a map: slug -> date
+function loadListTxtMapping(listPath) {
+  if (!listPath) return {};
+  // Loads list.txt (or other list file) and returns a map: slug -> date
   const mapping = {};
   try {
-    const lines = fs.readFileSync(LIST_TXT_PATH, 'utf-8').split('\n');
+    const lines = fs.readFileSync(listPath, 'utf-8').split('\n');
     for (const line of lines) {
       if (!line.trim() || !line.includes(',')) continue;
       const [date, url] = line.split(',', 2);
@@ -1113,7 +1129,7 @@ function loadListTxtMapping() {
       mapping[slug] = date.trim();
     }
   } catch (e) {
-    // If list.txt missing, just return empty mapping
+    // If list file missing, just return empty mapping
   }
   return mapping;
 }
@@ -1181,9 +1197,9 @@ function getCanonicalBaseName(episodeData, options, url) {
       title = 'Episode';
     }
   }
-  // 2. If no --date, try list.txt
+  // 2. If no --date, try list file (if specified)
   if (!date) {
-    const listMapping = loadListTxtMapping();
+    const listMapping = loadListTxtMapping(options?.listPath);
     if (!slug && url) {
       slug = getSlugFromUrl(url);
     }
@@ -1228,6 +1244,7 @@ Options:
   --episode-data=<json>         Episode metadata JSON for S1E# filename generation
   --filename-suffix=<text>      Add suffix to filename (e.g. --filename-suffix=test → S1E12_JedAI-Council_title_test.mp4)
   --date=<YYYY-MM-DD>           Override date for output filenames (recommended)
+  --list=<path>                 Path to list file for date mapping (default: ../list.txt)
   --help                        Show this help
 
 Examples:
@@ -1257,6 +1274,7 @@ Examples:
   const frameRate = parseInt(args.find(arg => arg.startsWith('--fps='))?.split('=')[1] || '30', 10);
   const filenameSuffix = args.find(arg => arg.startsWith('--filename-suffix='))?.split('=')[1] || '';
   const dateOverride = args.find(arg => arg.startsWith('--date='))?.split('=')[1] || '';
+  const listPath = args.find(arg => arg.startsWith('--list='))?.split('=')[1];
   
   // Parse episode data JSON
   const episodeDataRaw = args.find(arg => arg.startsWith('--episode-data='))?.split('=')[1];
@@ -1280,7 +1298,8 @@ Examples:
   // Date logic
   let canonicalDate = dateOverride;
   if (!canonicalDate) {
-    const listMapping = loadListTxtMapping();
+    const listPath = args.find(arg => arg.startsWith('--list='))?.split('=')[1];
+    const listMapping = loadListTxtMapping(listPath);
     if (listMapping[slug]) {
       canonicalDate = listMapping[slug];
     }
@@ -1326,6 +1345,7 @@ Examples:
       episodeData,
       filenameSuffix,
       dateOverride,
+      listPath,
       baseName // <--- add to options
     },
     waitTime

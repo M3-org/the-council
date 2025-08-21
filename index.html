@@ -83,6 +83,244 @@
       position: relative;
       z-index: 2;
     }
+
+    /* Episode Page Modal Responsive Styles */
+    @media (max-width: 1024px) {
+      #episode-page-modal .max-w-7xl {
+        max-width: none;
+        margin: 1rem;
+      }
+    }
+
+    @media (max-width: 768px) {
+      #episode-page-modal .flex.items-center.justify-center {
+        flex-direction: column;
+        gap: 1rem;
+      }
+      
+      #episode-page-modal .max-w-2xl {
+        max-width: none;
+      }
+      
+      #episode-page-modal h1 {
+        font-size: 1.5rem;
+      }
+      
+      #episode-page-modal .p-6 {
+        padding: 1rem;
+      }
+      
+      #episode-page-modal .gap-6 {
+        gap: 1rem;
+      }
+
+      #episode-page-modal .text-3xl {
+        font-size: 1.5rem;
+      }
+
+      #episode-page-modal .text-4xl {
+        font-size: 1.75rem;
+      }
+    }
+
+    /* ——— Council Discussion: Enhanced Professional Chat ——— */
+    #episode-characters { 
+      padding-right: .25rem; 
+    }
+
+    /* Each message row */
+    .chat-message{
+      display: flex; 
+      align-items: flex-start; 
+      gap: .75rem;
+      margin: 0; /* reset */
+      transition: all 0.2s ease;
+    }
+
+    .chat-message.reverse {
+      flex-direction: row-reverse;
+    }
+
+    /* Simple, consistent spacing with bubble separation */
+    .chat-message { 
+      margin-bottom: 24px !important; /* Better gap between each bubble */
+    }
+    
+    .chat-message:last-child {
+      margin-bottom: 0 !important; /* Remove spacing after last message */
+    }
+    
+    /* Override any conflicting margin rules */
+    .chat-message.switch,
+    .chat-message.same {
+      margin-bottom: 24px !important;
+    }
+
+    /* Professional avatars with rings */
+    .chat-message.switch .chat-avatar{ 
+      width: 48px; 
+      height: 48px; 
+      opacity: 1; 
+      border-radius: 50%;
+      object-fit: cover;
+      flex-shrink: 0;
+      ring: 2px solid rgba(255, 78, 27, 0.3);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+      border: 2px solid rgba(255, 78, 27, 0.3);
+    }
+    
+    .chat-message.same .chat-avatar{ 
+      width: 32px; 
+      height: 32px; 
+      opacity: .2; 
+      border-color: transparent;
+      border-radius: 50%;
+      object-fit: cover;
+      flex-shrink: 0;
+      box-shadow: none;
+    }
+
+    /* Enhanced bubble base with professional gradients */
+    .chat-bubble{
+      position: relative;
+      border: 1px solid rgba(255,255,255,.1);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+      padding: 18px 12px;
+      word-wrap: break-word; 
+      white-space: pre-wrap;
+      border-radius: 18px;
+      max-width: 75%;
+    }
+
+    /* Host bubbles - enhanced orange gradient */
+    .chat-bubble.host{
+      background: linear-gradient(135deg, rgba(255,78,27,.18), rgba(255,78,27,.08));
+      border-color: rgba(255,78,27,.3);
+      color: rgba(255, 255, 255, 0.95);
+    }
+    
+    /* Other user bubbles - enhanced dark gradient */
+    .chat-bubble.other{
+      background: linear-gradient(135deg, rgba(45,49,58,.95), rgba(35,39,48,.88));
+      border-color: rgba(255,255,255,.12);
+      color: rgba(255, 255, 255, 0.9);
+    }
+
+    /* Enhanced text styling */
+    .chat-text{ 
+      font-size: .88rem; 
+      line-height: 1.35;
+      margin: 0;
+      position: relative;
+      z-index: 2;
+    }
+
+    /* Professional bubble tails - larger and better positioned */
+    .chat-message.switch .chat-bubble::before{
+      content: ''; 
+      position: absolute; 
+      width: 12px; 
+      height: 12px; 
+      transform: rotate(45deg);
+      top: 16px;
+      z-index: 1;
+    }
+    
+    /* Left tail for other users */
+    .chat-message:not(.reverse).switch .chat-bubble::before{ 
+      left: -6px; 
+      background: linear-gradient(135deg, rgba(45,49,58,.95), rgba(35,39,48,.88));
+      border-left: 1px solid rgba(255,255,255,.12);
+      border-bottom: 1px solid rgba(255,255,255,.12);
+    }
+    
+    /* Right tail for host */
+    .chat-message.reverse.switch .chat-bubble::before{ 
+      right: -6px; 
+      background: linear-gradient(135deg, rgba(255,78,27,.18), rgba(255,78,27,.08));
+      border-right: 1px solid rgba(255,78,27,.3);
+      border-top: 1px solid rgba(255,78,27,.3);
+    }
+
+    /* Dynamic bubble sizing using CSS custom properties */
+    .chat-bubble.dynamic-bubble {
+      max-width: var(--bubble-width-mobile, 80%);
+    }
+
+    /* Desktop responsive sizing */
+    @media (min-width: 640px) {
+      .chat-bubble.dynamic-bubble {
+        max-width: var(--bubble-width-desktop, 70%);
+      }
+      
+      .chat-message.switch .chat-avatar{ 
+        width: 52px; 
+        height: 52px; 
+      }
+      
+      .chat-message.same .chat-avatar{ 
+        width: 36px; 
+        height: 36px; 
+      }
+      
+      .chat-text { 
+        font-size: .9rem; 
+        line-height: 1.4;
+      }
+    }
+
+    /* Mobile optimizations */
+    @media (max-width: 640px){
+      .chat-message,
+      .chat-message.switch,
+      .chat-message.same {
+        margin-bottom: 20px !important; /* Comfortable mobile spacing */
+      }
+      
+      .chat-message.switch .chat-bubble::before {
+        top: 22px;
+        width: 12px;
+        height: 12px;
+      }
+      
+      .chat-message:not(.reverse).switch .chat-bubble::before{ 
+        left: -6px; 
+      }
+      
+      .chat-message.reverse.switch .chat-bubble::before{ 
+        right: -6px; 
+      }
+      
+      .chat-bubble {
+        padding: 10px 14px;
+      }
+      
+      .chat-text {
+        font-size: .85rem;
+        line-height: 1.35;
+      }
+    }
+
+    /* Custom scrollbar for chat area */
+    #episode-characters::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    #episode-characters::-webkit-scrollbar-track {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 3px;
+    }
+
+    #episode-characters::-webkit-scrollbar-thumb {
+      background: rgba(255, 78, 27, 0.5);
+      border-radius: 3px;
+    }
+
+    #episode-characters::-webkit-scrollbar-thumb:hover {
+      background: rgba(255, 78, 27, 0.7);
+    }
+
+
   </style>
 </head>
 <body class="font-sans">
@@ -94,7 +332,7 @@
         <span class="ml-1">Council</span>
       </div>
       <nav class="space-x-6 flex items-center">
-        <a class="nav-link" href="#episodes">Episodes</a>
+        <a class="nav-link" href="episodes.html">Episodes</a>
         <a class="nav-link" href="#how-made">How It's Made</a>
         <a class="nav-link" href="https://github.com/elizaOS/knowledge" target="_blank" title="GitHub">
           <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -239,33 +477,6 @@
     </div>
   </footer>
 
-  <!-- Lightbox Modal for Episodes -->
-  <div id="lightbox" class="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50 hidden">
-    <div class="surface rounded-lg shadow-lg w-full max-w-3xl max-h-[90vh] overflow-y-auto relative p-6 pr-4">
-      <button id="close-lightbox" class="absolute top-4 right-4 text-gray-400 hover:text-white text-2xl">&times;</button>
-      <div class="flex flex-col gap-6 items-center">
-        <!-- Responsive video at the top -->
-        <div id="lightbox-video" class="w-full aspect-video relative mb-4">
-          <iframe
-            class="absolute inset-0 w-full h-full rounded"
-            src=""
-            title=""
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-            style="display: none;">
-          </iframe>
-        </div>
-        <!-- Title -->
-        <h3 id="lightbox-title" class="text-2xl font-bold mb-1 w-full text-center"></h3>
-        <!-- Date -->
-        <div class="w-full flex flex-row items-center justify-center mb-3">
-          <p id="lightbox-date" class="card-secondary"></p>
-        </div>
-        <!-- Description full width -->
-        <div id="lightbox-description" class="mb-4 w-full"></div>
-      </div>
-    </div>
-  </div>
 
   <!-- Trailer Modal -->
   <div id="bts-modal" class="fixed inset-0 bg-black bg-opacity-80 flex items-center justify-center z-50 hidden">
@@ -273,6 +484,62 @@
       <button id="close-bts-modal" class="absolute top-4 right-4 text-gray-400 hover:text-white text-2xl z-10">&times;</button>
       <div class="w-full aspect-video bg-black relative">
         <iframe id="bts-iframe" src="" frameborder="0" allowfullscreen class="absolute inset-0 w-full h-full"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <!-- Episode Page Modal -->
+  <div id="episode-page-modal" class="fixed inset-0 bg-black bg-opacity-90 flex items-center justify-center z-50 hidden">
+    <div class="steel rounded-lg shadow-lg w-full max-w-7xl max-h-[95vh] overflow-y-auto relative m-4">
+      <button id="close-episode-page" class="absolute top-4 right-4 text-gray-400 hover:text-white text-2xl z-10 bg-black bg-opacity-50 rounded-full w-10 h-10 flex items-center justify-center">&times;</button>
+      
+      <!-- Episode Navigation -->
+      <div class="flex items-center justify-center gap-6 p-6 pb-0">
+        <button id="prev-episode-page" class="w-12 h-12 rounded-full surface border-2 border-gray-600 hover:border-white transition flex items-center justify-center text-xl cursor-pointer">◀</button>
+        <div class="text-center flex-1 max-w-2xl">
+          <div id="episode-page-meta" class="lava-text text-sm font-semibold tracking-wider uppercase mb-2"></div>
+          <h1 id="episode-page-title" class="text-3xl md:text-4xl font-bold mb-4 lava-text"></h1>
+        </div>
+        <button id="next-episode-page" class="w-12 h-12 rounded-full surface border-2 border-gray-600 hover:border-white transition flex items-center justify-center text-xl cursor-pointer">▶</button>
+      </div>
+
+      <!-- Episode Content -->
+      <div class="p-6">
+        <!-- Video Section -->
+        <div class="surface rounded-xl p-6 backdrop-filter backdrop-blur-sm border border-gray-600 mb-6">
+          <div id="episode-page-video" class="w-full aspect-video bg-black rounded-lg mb-4 relative overflow-hidden border-2 border-gray-600">
+            <iframe
+              class="absolute inset-0 w-full h-full rounded"
+              src=""
+              title=""
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowfullscreen
+              style="display: none;">
+            </iframe>
+            <div id="episode-video-placeholder" class="absolute inset-0 flex items-center justify-center text-gray-400">
+              <div class="text-center">
+                <i class="fas fa-exclamation-triangle text-4xl mb-4"></i>
+                <div class="text-lg">Video unavailable</div>
+                <div class="text-sm mt-2">
+                  <a href="#" id="episode-youtube-link" class="lava-text hover:underline" target="_blank">
+                    <i class="fab fa-youtube mr-1"></i>Watch on YouTube
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="episode-page-description" class="text-gray-300 leading-relaxed"></div>
+        </div>
+
+        <!-- Council Discussion Section -->
+        <div class="surface rounded-xl p-6 backdrop-filter backdrop-blur-sm border border-gray-600">
+          <h2 class="text-xl font-bold mb-4 lava-text border-b border-gray-600 pb-2">
+            <i class="fas fa-users mr-2"></i>Council Discussion
+          </h2>
+          <div id="episode-characters" class="max-h-96 overflow-y-auto space-y-0 pr-2">
+            <!-- Characters and dialogue will be loaded here -->
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -312,7 +579,7 @@
           <p class="text-sm text-gray-300 mt-2 line-clamp-3">${ep.description ? ep.description.split('\n')[0] : ''}</p>
           <button class="mt-4 lava font-semibold px-4 py-2 rounded hover:opacity-90">Watch Episode</button>
         `;
-        card.addEventListener('click', () => openLightbox(date));
+        card.addEventListener('click', () => openEpisodePage(date));
         grid.appendChild(card);
       }
       renderEpisodesPagination(totalPages);
@@ -355,135 +622,6 @@
       return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
     }
 
-    // Lightbox logic
-    const lightbox = document.getElementById('lightbox');
-    const closeBtn = document.getElementById('close-lightbox');
-    let currentDate = null;
-    let currentEpisodeIndex = 0;
-    let sortedDates = [];
-
-    function openLightbox(date) {
-      currentDate = date;
-      // Update sorted dates and current index
-      sortedDates = Object.keys(episodesData).sort((a,b)=>b.localeCompare(a));
-      currentEpisodeIndex = sortedDates.indexOf(date);
-      const ep = episodesData[date].en;
-      document.getElementById('lightbox-title').textContent = ep.title;
-      document.getElementById('lightbox-date').textContent = formatDate(date);
-      
-      // Description logic
-      const descDiv = document.getElementById('lightbox-description');
-      let desc = ep.description || '';
-      desc = desc.replace(/\\n/g, '\n');
-      desc = desc.replace(/\r/g, '');
-      let expanded = false;
-      
-      function renderDesc() {
-        descDiv.innerHTML = '';
-        if (!desc) return;
-        if (!expanded && desc.length > 300) {
-          let trunc = desc.slice(0, 300);
-          const paraEnd = desc.indexOf('\n\n');
-          if (paraEnd > 0 && paraEnd < 300) trunc = desc.slice(0, paraEnd);
-          const p = document.createElement('div');
-          p.className = 'desc-trunc relative';
-          p.innerHTML = trunc.replace(/\n/g, ' ');
-          const fade = document.createElement('div');
-          fade.className = 'desc-fade';
-          p.appendChild(fade);
-          descDiv.appendChild(p);
-          const more = document.createElement('a');
-          more.href = '#';
-          more.className = 'lava-text font-semibold ml-2';
-          more.textContent = 'Read more';
-          more.onclick = function(e) { e.preventDefault(); expanded = true; renderDesc(); };
-          descDiv.appendChild(more);
-        } else if (!expanded) {
-          descDiv.textContent = desc.replace(/\n/g, ' ');
-        } else {
-          const full = document.createElement('div');
-          full.innerHTML = desc.replace(/\n/g, '<br>');
-          descDiv.appendChild(full);
-          const less = document.createElement('a');
-          less.href = '#';
-          less.className = 'lava-text font-semibold ml-2';
-          less.textContent = 'Show less';
-          less.onclick = function(e) { e.preventDefault(); expanded = false; renderDesc(); };
-          descDiv.appendChild(less);
-        }
-      }
-      renderDesc();
-
-      const vid = document.getElementById('lightbox-video');
-      const iframe = vid.querySelector('iframe');
-      if (ep.url && ep.id && ep.id.length === 11) {
-        if (iframe) {
-          iframe.src = `https://www.youtube.com/embed/${ep.id}?rel=0&modestbranding=1&autoplay=1`;
-          iframe.title = ep.title;
-          iframe.style.display = 'block';
-        }
-        vid.querySelector('.video-unavailable')?.remove();
-      } else {
-        if (iframe) {
-          iframe.style.display = 'none';
-        }
-        if (!vid.querySelector('.video-unavailable')) {
-          vid.innerHTML += `<div class="video-unavailable bg-gray-800 text-gray-400 flex items-center justify-center h-40">Video unavailable</div>`;
-        }
-      }
-      lightbox.classList.remove('hidden');
-      document.body.classList.add('overflow-hidden');
-    }
-
-    // Navigation functions
-    function navigateToNextEpisode() {
-      if (currentEpisodeIndex > 0) {
-        const nextDate = sortedDates[currentEpisodeIndex - 1];
-        openLightbox(nextDate);
-      }
-    }
-
-    function navigateToPreviousEpisode() {
-      if (currentEpisodeIndex < sortedDates.length - 1) {
-        const prevDate = sortedDates[currentEpisodeIndex + 1];
-        openLightbox(prevDate);
-      }
-    }
-
-    function closeLightbox() {
-      lightbox.classList.add('hidden');
-      document.body.classList.remove('overflow-hidden');
-      // Stop video playback by clearing iframe src
-      const iframe = document.getElementById('lightbox-video').querySelector('iframe');
-      if (iframe) {
-        iframe.src = '';
-      }
-    }
-
-    if (closeBtn) closeBtn.addEventListener('click', closeLightbox);
-    
-    if (lightbox) lightbox.addEventListener('mousedown', e => {
-      if (e.target === lightbox) { 
-        closeLightbox();
-      }
-    });
-
-    // Keyboard navigation
-    document.addEventListener('keydown', (e) => {
-      if (!lightbox.classList.contains('hidden')) {
-        if (e.key === 'ArrowLeft') {
-          e.preventDefault();
-          navigateToPreviousEpisode();
-        } else if (e.key === 'ArrowRight') {
-          e.preventDefault();
-          navigateToNextEpisode();
-        } else if (e.key === 'Escape') {
-          e.preventDefault();
-          closeLightbox();
-        }
-      }
-    });
-
     // Trailer Modal logic
     const btsModal = document.getElementById('bts-modal');
     const closeBtsBtn = document.getElementById('close-bts-modal');
@@ -508,6 +646,282 @@
         document.body.classList.remove('overflow-hidden');
       }
     });
+
+    // Episode Page Modal functionality
+    const episodePageModal = document.getElementById('episode-page-modal');
+    const closeEpisodePageBtn = document.getElementById('close-episode-page');
+    let currentEpisodePageDate = null;
+    let sessionLogCache = {};
+
+    // Fetch session log data
+    async function fetchSessionLog(date) {
+      if (sessionLogCache[date]) {
+        return sessionLogCache[date];
+      }
+
+      const episodeData = episodesData[date]?.en;
+      if (!episodeData) return null;
+
+      // Try to find matching session log file
+      const possibleNames = [
+        `${date}_JedAI-Council_${episodeData.title.replace(/^JedAI Council S\d+E\d+:\s*/, '').replace(/[^a-zA-Z0-9]/g, '-')}_session-log.json`,
+        `${date}_JedAI-Council_${episodeData.title.split(': ')[1]?.replace(/[^a-zA-Z0-9]/g, '-')}_session-log.json`
+      ];
+
+      for (const filename of possibleNames) {
+        try {
+          const response = await fetch(`recordings/${filename}`);
+          if (response.ok) {
+            const data = await response.json();
+            sessionLogCache[date] = data;
+            return data;
+          }
+        } catch (e) {
+          // Continue trying other filenames
+        }
+      }
+
+      return null;
+    }
+
+    // Character definitions fallback
+    const defaultCharacters = {
+      'elizahost': { name: 'Eliza', image: 'https://shmotime.com/wp-content/uploads/2025/01/thumb-bust_eliza.png' },
+      'aishaw': { name: 'AI Shaw', image: 'https://shmotime.com/wp-content/uploads/2025/01/thumb-bust_shaw-ai.png' },
+      'aimarc': { name: 'AIXVC', image: 'https://shmotime.com/wp-content/uploads/2025/01/thumb-bust_marc.png' },
+      'spartan': { name: 'Degen Spartan', image: 'https://shmotime.com/wp-content/uploads/2025/01/thumb-bust_spartan.png' },
+      'peepo': { name: 'Peepo', image: 'https://shmotime.com/wp-content/uploads/2025/01/thumb-bust_peepo.png' }
+    };
+
+    // Open episode page modal
+    async function openEpisodePage(date) {
+      currentEpisodePageDate = date;
+      const episodeData = episodesData[date]?.en;
+      if (!episodeData) return;
+
+      // Update navigation using all episodes
+      const allDates = Object.keys(episodesData).sort((a, b) => b.localeCompare(a));
+      const episodeIndex = allDates.indexOf(date);
+      const nextBtn = document.getElementById('next-episode-page');
+      const prevBtn = document.getElementById('prev-episode-page');
+      
+      nextBtn.disabled = episodeIndex === 0;
+      prevBtn.disabled = episodeIndex === allDates.length - 1;
+      nextBtn.style.opacity = episodeIndex === 0 ? '0.4' : '1';
+      prevBtn.style.opacity = episodeIndex === allDates.length - 1 ? '0.4' : '1';
+
+      // Set basic episode info
+      document.getElementById('episode-page-title').textContent = episodeData.title;
+      document.getElementById('episode-page-meta').textContent = `Episode • ${formatDate(date)}`;
+      document.getElementById('episode-page-description').textContent = episodeData.description || '';
+
+      // Set video
+      const videoContainer = document.getElementById('episode-page-video');
+      const iframe = videoContainer.querySelector('iframe');
+      const placeholder = document.getElementById('episode-video-placeholder');
+      const youtubeLink = document.getElementById('episode-youtube-link');
+
+      if (episodeData.url && episodeData.id && episodeData.id.length === 11) {
+        iframe.src = `https://www.youtube.com/embed/${episodeData.id}?rel=0&modestbranding=1`;
+        iframe.style.display = 'block';
+        placeholder.style.display = 'none';
+        youtubeLink.href = episodeData.url;
+      } else {
+        iframe.style.display = 'none';
+        placeholder.style.display = 'flex';
+        youtubeLink.href = episodeData.url || '#';
+      }
+
+      // Load session log data and populate characters
+      const sessionLog = await fetchSessionLog(date);
+      populateCharacters(sessionLog);
+
+      // Show modal
+      episodePageModal.classList.remove('hidden');
+      document.body.classList.add('overflow-hidden');
+    }
+
+    // Populate characters section
+    function populateCharacters(sessionLog) {
+      const charactersContainer = document.getElementById('episode-characters');
+      charactersContainer.innerHTML = '';
+
+      let characters = defaultCharacters;
+      let dialogue = [];
+      let summary = '';
+
+      // Extract data from session log if available
+      if (sessionLog) {
+        if (sessionLog.show_config?.actors) {
+          characters = {};
+          Object.keys(sessionLog.show_config.actors).forEach(key => {
+            const actor = sessionLog.show_config.actors[key];
+            characters[key] = {
+              name: actor.name || actor.title,
+              image: actor.image || actor.image_thumb,
+              description: actor.description
+            };
+          });
+        }
+
+        // Extract dialogue from scenes
+        if (sessionLog.episode_data?.scenes) {
+          sessionLog.episode_data.scenes.forEach(scene => {
+            if (scene.dialogue && Array.isArray(scene.dialogue)) {
+              dialogue = dialogue.concat(scene.dialogue);
+            }
+          });
+        }
+
+        // Get summary from episode data
+        summary = sessionLog.episode_data?.summary || sessionLog.episode_data?.premise || '';
+      }
+
+      // Show dialogue in chat format if available
+      if (dialogue.length > 0) {
+        let prevActor = null;
+        let msgIndex = 0;
+
+        dialogue.forEach((line) => {
+          const character = characters[line.actor] || defaultCharacters[line.actor];
+          if (!character) return;
+
+          const isHost = line.actor === 'elizahost';
+          const isSameAsPrev = prevActor === line.actor;
+
+          const row = document.createElement('div');
+          row.className = (isHost ? 'chat-message reverse' : 'chat-message') + ' ' + (isSameAsPrev ? 'same' : 'switch');
+
+          const text = line.line || '';
+          const bubbleType = isHost ? 'host' : 'other';
+          
+          // Create bubble element with dynamic sizing
+          const bubbleDiv = document.createElement('div');
+          bubbleDiv.className = `chat-bubble dynamic-bubble ${bubbleType}`;
+          
+          // Apply dynamic width based on content
+          const width = calculateBubbleWidth(text);
+          bubbleDiv.style.setProperty('--bubble-width-mobile', `${width.mobile}%`);
+          bubbleDiv.style.setProperty('--bubble-width-desktop', `${width.desktop}%`);
+          
+          row.innerHTML = `
+            <img src="${character.image}" alt="${character.name}" class="chat-avatar">
+          `;
+          
+          bubbleDiv.innerHTML = `<div class="chat-text">${text}</div>`;
+          row.appendChild(bubbleDiv);
+          charactersContainer.appendChild(row);
+
+          prevActor = line.actor;
+          msgIndex++;
+        });
+      } else {
+        // Show character info if no dialogue available
+        const noDataMessage = document.createElement('div');
+        noDataMessage.className = 'chat-message reverse';
+        const hostCharacter = characters['elizahost'] || defaultCharacters['elizahost'];
+        noDataMessage.innerHTML = `
+          <img src="${hostCharacter.image}" alt="elizahost" class="chat-avatar">
+          <div class="chat-bubble long host">
+            <div class="chat-text">Episode discussion data is being prepared. Check back soon for the full conversation!</div>
+          </div>
+        `;
+        charactersContainer.appendChild(noDataMessage);
+      }
+    }
+
+    // Episode page navigation
+    function navigateEpisodePage(direction) {
+      const allDates = Object.keys(episodesData).sort((a, b) => b.localeCompare(a));
+      const currentIndex = allDates.indexOf(currentEpisodePageDate);
+      let newIndex;
+      
+      if (direction === 'next' && currentIndex > 0) {
+        newIndex = currentIndex - 1;
+      } else if (direction === 'prev' && currentIndex < allDates.length - 1) {
+        newIndex = currentIndex + 1;
+      } else {
+        return;
+      }
+      
+      openEpisodePage(allDates[newIndex]);
+    }
+
+    // Close episode page modal
+    function closeEpisodePage() {
+      episodePageModal.classList.add('hidden');
+      document.body.classList.remove('overflow-hidden');
+      const iframe = document.querySelector('#episode-page-video iframe');
+      if (iframe) iframe.src = '';
+    }
+
+    // Event listeners for episode page
+    closeEpisodePageBtn?.addEventListener('click', closeEpisodePage);
+
+    document.getElementById('next-episode-page')?.addEventListener('click', () => navigateEpisodePage('next'));
+    document.getElementById('prev-episode-page')?.addEventListener('click', () => navigateEpisodePage('prev'));
+
+    // Close on background click
+    episodePageModal.addEventListener('mousedown', e => {
+      if (e.target === episodePageModal) {
+        closeEpisodePage();
+      }
+    });
+
+    // Keyboard navigation for episode page
+    document.addEventListener('keydown', (e) => {
+      if (!episodePageModal.classList.contains('hidden')) {
+        if (e.key === 'ArrowLeft') {
+          e.preventDefault();
+          navigateEpisodePage('prev');
+        } else if (e.key === 'ArrowRight') {
+          e.preventDefault();
+          navigateEpisodePage('next');
+        } else if (e.key === 'Escape') {
+          e.preventDefault();
+          closeEpisodePage();
+        }
+      }
+    });
+
+    // Calculate dynamic bubble width based on message length (inspired by your template)
+    function calculateBubbleWidth(text) {
+      const length = text.length;
+      
+      // Base width percentages for different screen sizes
+      const mobile = {
+        min: 45,
+        max: 90
+      };
+      
+      const desktop = {
+        min: 30,
+        max: 75
+      };
+      
+      // Calculate width based on text length with smooth scaling
+      let widthPercent;
+      
+      if (length < 50) {
+        // Short messages get compact bubbles
+        widthPercent = mobile.min + (length / 50) * (mobile.max - mobile.min) * 0.4;
+      } else if (length < 120) {
+        // Medium messages scale proportionally
+        widthPercent = mobile.min + (length / 120) * (mobile.max - mobile.min) * 0.7;
+      } else {
+        // Long messages get wider bubbles
+        widthPercent = Math.min(mobile.max, mobile.min + (length / 200) * (mobile.max - mobile.min));
+      }
+      
+      // Ensure minimum and maximum bounds
+      widthPercent = Math.max(mobile.min, Math.min(mobile.max, widthPercent));
+      
+      return {
+        mobile: Math.round(widthPercent),
+        desktop: Math.round(widthPercent * 0.85) // Slightly smaller on desktop
+      };
+    }
+
   </script>
 </body>
 </html>

@@ -8,10 +8,14 @@
     "upload": "python scripts/upload_to_youtube.py"
   },
   "dependencies": {
-    "puppeteer-stream": "^3.0.5"
+    "puppeteer-stream": "^3.0.22"
   },
-  "devDependencies": {},
-  "keywords": ["recording", "youtube", "automation", "shmotime"],
+  "keywords": [
+    "recording",
+    "youtube",
+    "automation",
+    "shmotime"
+  ],
   "author": "M3 Organization",
   "license": "MIT"
-} 
+}

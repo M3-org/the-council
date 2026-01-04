@@ -1256,6 +1256,7 @@ Options:
   --filename-suffix=<text>      Add suffix to filename (e.g. --filename-suffix=test → S1E12_JedAI-Council_title_test.mp4)
   --date=<YYYY-MM-DD>           Override date for output filenames (recommended)
   --list=<path>                 Path to list file for date mapping (default: ../list.txt)
+  --skip-existing               Skip recording if output file already exists
   --help                        Show this help
 
 Examples:
@@ -1286,6 +1287,7 @@ Examples:
   const filenameSuffix = args.find(arg => arg.startsWith('--filename-suffix='))?.split('=')[1] || '';
   const dateOverride = args.find(arg => arg.startsWith('--date='))?.split('=')[1] || '';
   const listPath = args.find(arg => arg.startsWith('--list='))?.split('=')[1];
+  const skipExisting = args.includes('--skip-existing');
   
   // Parse episode data JSON
   const episodeDataRaw = args.find(arg => arg.startsWith('--episode-data='))?.split('=')[1];
@@ -1357,7 +1359,8 @@ Examples:
       filenameSuffix,
       dateOverride,
       listPath,
-      baseName // <--- add to options
+      baseName,
+      skipExisting
     },
     waitTime
   };
@@ -1375,6 +1378,15 @@ async function main() {
   if (options.episodeData) {
     console.log(`🎬 Episode: ${options.episodeData.episode_number} - ${options.episodeData.name}`);
     console.log(`📁 Expected filename: ${options.episodeData.episode_number}_JedAI-Council-${options.episodeData.clean_title}.${options.outputFormat}`);
+  }
+
+  // Check if recording already exists (--skip-existing)
+  if (options.skipExisting) {
+    const expectedFile = path.join(options.outputDir, `${options.baseName}.mp4`);
+    if (fs.existsSync(expectedFile)) {
+      console.log(`⏭️  Skipping: ${expectedFile} already exists`);
+      process.exit(0);
+    }
   }
 
   const player = new ShmotimeRecorder(options);

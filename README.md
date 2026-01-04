@@ -115,6 +115,20 @@ To get the automated workflow running on your own fork of this repository, follo
 
 The workflow is now ready to run automatically or be triggered manually from the Actions tab on GitHub.
 
+### Backfilling Episodes
+
+To record all missing episodes from `list.txt`:
+
+```bash
+while IFS=, read -r date url; do node scripts/recorder.js --skip-existing --headless --mute --quiet --date="$date" "$url"; done < list.txt
+```
+
+Flags:
+- `--skip-existing` - Skip if recording already exists
+- `--headless` - Run without visible browser
+- `--mute` - Mute audio during recording
+- `--quiet` - Reduce log output
+
 ## Vision
 
 The Council is an evolution in how DAOs can make decisions—combining human creativity with AI processing power to create more thoughtful, inclusive, and effective governance.

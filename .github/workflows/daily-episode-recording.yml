@@ -1,0 +1,248 @@
+name: Daily JedAI Council Episode Recording
+
+on:
+  schedule:
+    # Run daily at 04:15 UTC
+    - cron: '15 4 * * *'
+  workflow_dispatch:
+    inputs:
+      episode_url:
+        description: 'Override episode URL (leave empty for latest)'
+        required: false
+        type: string
+      skip_cdn_upload:
+        description: 'Skip CDN upload'
+        required: false
+        type: boolean
+        default: false
+
+env:
+  SHOW_ID: 2578
+  API_URL: https://shmotime.com/wp-json/shmotime/v1/get-latest-episode
+  CDN_REMOTE_PATH: the-council/
+
+jobs:
+  record-and-upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+        cache: 'npm'
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        npm install
+        pip install -r requirements.txt
+
+        # Install ffmpeg (Chrome and xvfb are pre-installed on runner)
+        sudo apt-get update
+        sudo apt-get install -y ffmpeg
+
+        # Start display for headless operation
+        export DISPLAY=:99
+        Xvfb :99 -ac -screen 0 1920x1080x24 &
+
+    - name: Fetch latest episode URL
+      id: episode
+      run: |
+        # Use manual input if provided, otherwise fetch from API
+        if [ -n "${{ inputs.episode_url }}" ]; then
+          EPISODE_URL="${{ inputs.episode_url }}"
+          echo "Using manual episode URL: $EPISODE_URL"
+        else
+          # Get latest episode URL from API
+          EPISODE_URL=$(curl -s "${{ env.API_URL }}?show_id=${{ env.SHOW_ID }}" | jq -r '.episode.permalink // empty')
+        fi
+
+        if [ -z "$EPISODE_URL" ]; then
+          echo "::error::No episode URL found"
+          exit 1
+        fi
+
+        echo "Episode URL: $EPISODE_URL"
+        echo "url=$EPISODE_URL" >> $GITHUB_OUTPUT
+
+        # Extract episode slug for later use
+        EPISODE_SLUG=$(echo "$EPISODE_URL" | sed 's|.*/shmotime_episode/||; s|/$||')
+        echo "slug=$EPISODE_SLUG" >> $GITHUB_OUTPUT
+
+    - name: Record episode
+      id: record
+      env:
+        DISPLAY: ':99'
+      run: |
+        # Record the episode
+        node scripts/recorder.js \
+          --headless \
+          --mute \
+          --quiet \
+          --video-width=1920 \
+          --video-height=1080 \
+          --stop-recording-at=end_postcredits \
+          "${{ steps.episode.outputs.url }}"
+
+        # Find the most recently created files
+        VIDEO_FILE=$(find recordings/ -name "*.mp4" -type f -printf '%T@ %p\n' 2>/dev/null | sort -n | tail -1 | cut -d' ' -f2-)
+        SESSION_LOG=$(find recordings/ -name "*session-log.json" -type f -printf '%T@ %p\n' 2>/dev/null | sort -n | tail -1 | cut -d' ' -f2-)
+        EPISODE_DATA=$(find recordings/ -name "*episode-data.json" -type f -printf '%T@ %p\n' 2>/dev/null | sort -n | tail -1 | cut -d' ' -f2-)
+
+        echo "Found files:"
+        echo "  VIDEO: $VIDEO_FILE"
+        echo "  SESSION_LOG: $SESSION_LOG"
+        echo "  EPISODE_DATA: $EPISODE_DATA"
+
+        if [ -z "$VIDEO_FILE" ]; then
+          echo "::error::No video file found after recording"
+          exit 1
+        fi
+
+        # Get video file size
+        VIDEO_SIZE=$(stat -c%s "$VIDEO_FILE" 2>/dev/null || echo "0")
+        VIDEO_SIZE_MB=$((VIDEO_SIZE / 1024 / 1024))
+        echo "Video size: ${VIDEO_SIZE_MB}MB"
+
+        # Extract date from filename for CDN organization
+        VIDEO_BASENAME=$(basename "$VIDEO_FILE")
+        RECORDING_DATE=$(echo "$VIDEO_BASENAME" | grep -oP '^\d{4}-\d{2}-\d{2}' || date +%Y-%m-%d)
+
+        echo "video_file=$VIDEO_FILE" >> $GITHUB_OUTPUT
+        echo "video_basename=$VIDEO_BASENAME" >> $GITHUB_OUTPUT
+        echo "session_log=$SESSION_LOG" >> $GITHUB_OUTPUT
+        echo "episode_data=$EPISODE_DATA" >> $GITHUB_OUTPUT
+        echo "recording_date=$RECORDING_DATE" >> $GITHUB_OUTPUT
+        echo "video_size_mb=$VIDEO_SIZE_MB" >> $GITHUB_OUTPUT
+
+    - name: Upload to Bunny CDN
+      id: cdn
+      if: ${{ !inputs.skip_cdn_upload }}
+      env:
+        BUNNY_STORAGE_ZONE: ${{ secrets.BUNNY_STORAGE_ZONE }}
+        BUNNY_STORAGE_PASSWORD: ${{ secrets.BUNNY_STORAGE_PASSWORD }}
+        BUNNY_CDN_URL: ${{ secrets.BUNNY_CDN_URL }}
+      run: |
+        # Skip if no CDN credentials
+        if [ -z "$BUNNY_STORAGE_ZONE" ] || [ -z "$BUNNY_STORAGE_PASSWORD" ]; then
+          echo "::warning::CDN credentials not configured - skipping upload"
+          echo "skipped=true" >> $GITHUB_OUTPUT
+          exit 0
+        fi
+
+        VIDEO_FILE="${{ steps.record.outputs.video_file }}"
+        VIDEO_BASENAME="${{ steps.record.outputs.video_basename }}"
+        RECORDING_DATE="${{ steps.record.outputs.recording_date }}"
+
+        # Upload video to CDN with date-based organization
+        REMOTE_PATH="${{ env.CDN_REMOTE_PATH }}${RECORDING_DATE}/${VIDEO_BASENAME}"
+
+        echo "Uploading to CDN: $REMOTE_PATH"
+        python scripts/upload_to_cdn.py \
+          --file "$VIDEO_FILE" \
+          --remote "$REMOTE_PATH" \
+          --manifest "recordings/${RECORDING_DATE}_cdn-manifest.json"
+
+        # Capture CDN URL from output
+        CDN_URL=$(python scripts/upload_to_cdn.py --file "$VIDEO_FILE" --remote "$REMOTE_PATH" --dry-run 2>/dev/null | grep "CDN_URL=" | cut -d= -f2)
+
+        if [ -n "$CDN_URL" ]; then
+          echo "cdn_url=$CDN_URL" >> $GITHUB_OUTPUT
+          echo "Video available at: $CDN_URL"
+        fi
+
+        # Also upload session log and episode data
+        if [ -f "${{ steps.record.outputs.session_log }}" ]; then
+          python scripts/upload_to_cdn.py \
+            --file "${{ steps.record.outputs.session_log }}" \
+            --remote "${{ env.CDN_REMOTE_PATH }}${RECORDING_DATE}/"
+        fi
+
+        if [ -f "${{ steps.record.outputs.episode_data }}" ]; then
+          python scripts/upload_to_cdn.py \
+            --file "${{ steps.record.outputs.episode_data }}" \
+            --remote "${{ env.CDN_REMOTE_PATH }}${RECORDING_DATE}/"
+        fi
+
+    - name: Update episode manifest
+      if: success()
+      run: |
+        RECORDING_DATE="${{ steps.record.outputs.recording_date }}"
+        MANIFEST_FILE="recordings/manifest.json"
+
+        # Create or update central manifest
+        if [ -f "$MANIFEST_FILE" ]; then
+          MANIFEST=$(cat "$MANIFEST_FILE")
+        else
+          MANIFEST='{"episodes":[]}'
+        fi
+
+        # Add new episode entry
+        NEW_ENTRY=$(jq -n \
+          --arg date "$RECORDING_DATE" \
+          --arg slug "${{ steps.episode.outputs.slug }}" \
+          --arg url "${{ steps.episode.outputs.url }}" \
+          --arg video "${{ steps.record.outputs.video_basename }}" \
+          --arg cdn_url "${{ steps.cdn.outputs.cdn_url }}" \
+          --arg size_mb "${{ steps.record.outputs.video_size_mb }}" \
+          '{
+            date: $date,
+            slug: $slug,
+            source_url: $url,
+            video_file: $video,
+            cdn_url: $cdn_url,
+            size_mb: ($size_mb | tonumber),
+            recorded_at: (now | strftime("%Y-%m-%dT%H:%M:%SZ"))
+          }')
+
+        # Append to manifest (avoid duplicates by date+slug)
+        echo "$MANIFEST" | jq --argjson entry "$NEW_ENTRY" \
+          '.episodes = ([.episodes[] | select(.date != $entry.date or .slug != $entry.slug)] + [$entry])' \
+          > "$MANIFEST_FILE"
+
+        echo "Updated manifest with episode: ${{ steps.episode.outputs.slug }}"
+
+    - name: Archive artifacts
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: episode-recording-${{ steps.record.outputs.recording_date }}
+        path: |
+          recordings/*session-log.json
+          recordings/*episode-data.json
+          recordings/*cdn-manifest.json
+          recordings/manifest.json
+        retention-days: 30
+
+    - name: Summary
+      if: always()
+      run: |
+        echo "## Episode Recording Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "| Property | Value |" >> $GITHUB_STEP_SUMMARY
+        echo "|----------|-------|" >> $GITHUB_STEP_SUMMARY
+        echo "| Episode | ${{ steps.episode.outputs.slug }} |" >> $GITHUB_STEP_SUMMARY
+        echo "| Date | ${{ steps.record.outputs.recording_date }} |" >> $GITHUB_STEP_SUMMARY
+        echo "| Video Size | ${{ steps.record.outputs.video_size_mb }}MB |" >> $GITHUB_STEP_SUMMARY
+        if [ -n "${{ steps.cdn.outputs.cdn_url }}" ]; then
+          echo "| CDN URL | ${{ steps.cdn.outputs.cdn_url }} |" >> $GITHUB_STEP_SUMMARY
+        fi
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Source: ${{ steps.episode.outputs.url }}" >> $GITHUB_STEP_SUMMARY
+
+    - name: Cleanup
+      if: always()
+      run: |
+        # Remove large video files to save space (they're on CDN now)
+        find recordings/ -name "*.mp4" -type f -delete 2>/dev/null || true
+        find recordings/ -name "*.webm" -type f -delete 2>/dev/null || true

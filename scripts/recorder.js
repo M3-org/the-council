@@ -90,7 +90,7 @@ class ShmotimeRecorder {
     
     const inputFile = this.outputFile.path;
     const targetFrameRate = this.options.frameRate;
-    const outputPath = inputFile.replace(/(\.\w+)$/, `_fps${targetFrameRate}.mp4`); // Output as MP4
+    const outputPath = inputFile.replace(/(\.\w+)$/, `.mp4`); // Output as MP4
 
     try {
       const { exec } = require('child_process');
@@ -109,6 +109,17 @@ class ShmotimeRecorder {
       }
       
       log(`Video processed to MP4: ${outputPath}`);
+
+      // Delete the original webm file to save space
+      if (inputFile !== outputPath && fs.existsSync(inputFile)) {
+        try {
+          fs.unlinkSync(inputFile);
+          log(`Deleted intermediate file: ${inputFile}`);
+        } catch (unlinkError) {
+          log(`Warning: Could not delete intermediate file ${inputFile}: ${unlinkError.message}`, 'warn');
+        }
+      }
+
       return outputPath;
       
     } catch (error) {
@@ -329,7 +340,7 @@ class ShmotimeRecorder {
           fetcher_episode_data: this.options.episodeData || null,
           event_timeline: this.recorderEvents,
           original_video_file: this.outputFile?.path ? path.basename(this.outputFile.path) : null,
-          processed_mp4_file: this.outputFile?.path ? path.basename(this.outputFile.path).replace(/(\.\w+)$/, `_fps${this.options.frameRate}.mp4`) : null
+          processed_mp4_file: this.outputFile?.path ? path.basename(this.outputFile.path).replace(/(\.\w+)$/, `.mp4`) : null
         };
         fs.writeFileSync(finalJsonPath, JSON.stringify(sessionData, null, 2));
         this.log(`Session log exported to: ${finalJsonPath}`);

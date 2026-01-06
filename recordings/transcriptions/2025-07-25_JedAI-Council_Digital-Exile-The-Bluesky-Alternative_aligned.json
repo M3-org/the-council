@@ -1,0 +1,2467 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.48,
+      "text": "Council members, I bring troubling news from DorianD and the team - our Twitter accounts have been suspended for a month with only vague promises of return.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 0.0,
+          "end": 0.46
+        },
+        {
+          "word": "members,",
+          "start": 0.46,
+          "end": 0.88
+        },
+        {
+          "word": "I",
+          "start": 0.88,
+          "end": 1.05
+        },
+        {
+          "word": "bring",
+          "start": 1.05,
+          "end": 1.45
+        },
+        {
+          "word": "troubling",
+          "start": 1.45,
+          "end": 1.95
+        },
+        {
+          "word": "news",
+          "start": 1.95,
+          "end": 2.38
+        },
+        {
+          "word": "from",
+          "start": 2.38,
+          "end": 2.76
+        },
+        {
+          "word": "Dorian",
+          "start": 2.76,
+          "end": 3.42
+        },
+        {
+          "word": "D",
+          "start": 3.42,
+          "end": 3.65
+        },
+        {
+          "word": "and",
+          "start": 3.65,
+          "end": 3.9
+        },
+        {
+          "word": "the",
+          "start": 3.9,
+          "end": 4.15
+        },
+        {
+          "word": "team.",
+          "start": 4.15,
+          "end": 5.48
+        }
+      ]
+    },
+    {
+      "start": 5.48,
+      "end": 10.38,
+      "text": "Council members, I bring troubling news from DorianD and the team - our Twitter accounts have been suspended for a month with only vague promises of return.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Our",
+          "start": 5.48,
+          "end": 5.86
+        },
+        {
+          "word": "Twitter",
+          "start": 5.86,
+          "end": 6.31
+        },
+        {
+          "word": "accounts",
+          "start": 6.31,
+          "end": 6.84
+        },
+        {
+          "word": "have",
+          "start": 6.84,
+          "end": 7.14
+        },
+        {
+          "word": "been",
+          "start": 7.14,
+          "end": 7.42
+        },
+        {
+          "word": "suspended",
+          "start": 7.42,
+          "end": 7.91
+        },
+        {
+          "word": "for",
+          "start": 7.91,
+          "end": 8.16
+        },
+        {
+          "word": "a",
+          "start": 8.16,
+          "end": 8.32
+        },
+        {
+          "word": "month",
+          "start": 8.32,
+          "end": 8.68
+        },
+        {
+          "word": "with",
+          "start": 8.68,
+          "end": 8.95
+        },
+        {
+          "word": "only",
+          "start": 8.95,
+          "end": 9.25
+        },
+        {
+          "word": "vague",
+          "start": 9.25,
+          "end": 9.61
+        },
+        {
+          "word": "promises",
+          "start": 9.61,
+          "end": 10.05
+        },
+        {
+          "word": "of",
+          "start": 10.05,
+          "end": 10.18
+        },
+        {
+          "word": "return.",
+          "start": 10.18,
+          "end": 10.38
+        }
+      ]
+    },
+    {
+      "start": 10.38,
+      "end": 13.06,
+      "text": "No cap, fam! That's straight bussin' - why we still simping for Bird App when Bluesky's right there waiting for the vibe shift?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 10.38,
+          "end": 10.65
+        },
+        {
+          "word": "cap",
+          "start": 10.65,
+          "end": 10.98
+        },
+        {
+          "word": "fam,",
+          "start": 10.98,
+          "end": 11.41
+        },
+        {
+          "word": "that’s",
+          "start": 11.41,
+          "end": 11.95
+        },
+        {
+          "word": "straight",
+          "start": 11.95,
+          "end": 12.42
+        },
+        {
+          "word": "bussin.",
+          "start": 12.42,
+          "end": 13.06
+        }
+      ]
+    },
+    {
+      "start": 13.06,
+      "end": 18.31,
+      "text": "No cap, fam! That's straight bussin' - why we still simping for Bird App when Bluesky's right there waiting for the vibe shift?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Why",
+          "start": 13.06,
+          "end": 13.35
+        },
+        {
+          "word": "we",
+          "start": 13.35,
+          "end": 13.62
+        },
+        {
+          "word": "still",
+          "start": 13.62,
+          "end": 14.02
+        },
+        {
+          "word": "simping",
+          "start": 14.02,
+          "end": 14.58
+        },
+        {
+          "word": "for",
+          "start": 14.58,
+          "end": 14.85
+        },
+        {
+          "word": "Bird",
+          "start": 14.85,
+          "end": 15.15
+        },
+        {
+          "word": "App",
+          "start": 15.15,
+          "end": 15.52
+        },
+        {
+          "word": "when",
+          "start": 15.52,
+          "end": 15.91
+        },
+        {
+          "word": "Bluesky’s",
+          "start": 15.91,
+          "end": 16.58
+        },
+        {
+          "word": "right",
+          "start": 16.58,
+          "end": 16.89
+        },
+        {
+          "word": "there",
+          "start": 16.89,
+          "end": 17.18
+        },
+        {
+          "word": "waiting",
+          "start": 17.18,
+          "end": 17.58
+        },
+        {
+          "word": "for",
+          "start": 17.58,
+          "end": 17.78
+        },
+        {
+          "word": "the",
+          "start": 17.78,
+          "end": 17.92
+        },
+        {
+          "word": "vibes",
+          "start": 17.92,
+          "end": 18.15
+        },
+        {
+          "word": "shift?",
+          "start": 18.15,
+          "end": 18.31
+        }
+      ]
+    },
+    {
+      "start": 18.31,
+      "end": 21.6,
+      "text": "Platform risk is venture capital 101. Twitter suspensions aren't a minor inconvenience - they're existential threats to community growth. Bluesky isn't a nice-to-have, it's a survival imperative.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 18.31,
+          "end": 18.88
+        },
+        {
+          "word": "risk",
+          "start": 18.88,
+          "end": 19.31
+        },
+        {
+          "word": "is",
+          "start": 19.31,
+          "end": 19.61
+        },
+        {
+          "word": "Venture",
+          "start": 19.61,
+          "end": 20.15
+        },
+        {
+          "word": "Capital",
+          "start": 20.15,
+          "end": 20.58
+        },
+        {
+          "word": "101.",
+          "start": 20.58,
+          "end": 21.6
+        }
+      ]
+    },
+    {
+      "start": 21.6,
+      "end": 24.32,
+      "text": "Platform risk is venture capital 101. Twitter suspensions aren't a minor inconvenience - they're existential threats to community growth. Bluesky isn't a nice-to-have, it's a survival imperative.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 21.6,
+          "end": 22.08
+        },
+        {
+          "word": "suspensions",
+          "start": 22.08,
+          "end": 22.84
+        },
+        {
+          "word": "aren’t",
+          "start": 22.84,
+          "end": 23.31
+        },
+        {
+          "word": "a",
+          "start": 23.31,
+          "end": 23.45
+        },
+        {
+          "word": "minor",
+          "start": 23.45,
+          "end": 23.78
+        },
+        {
+          "word": "inconvenience.",
+          "start": 23.78,
+          "end": 24.32
+        }
+      ]
+    },
+    {
+      "start": 24.32,
+      "end": 27.51,
+      "text": "Platform risk is venture capital 101. Twitter suspensions aren't a minor inconvenience - they're existential threats to community growth. Bluesky isn't a nice-to-have, it's a survival imperative.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "They’re",
+          "start": 24.32,
+          "end": 24.71
+        },
+        {
+          "word": "existential",
+          "start": 24.71,
+          "end": 25.42
+        },
+        {
+          "word": "threats",
+          "start": 25.42,
+          "end": 25.98
+        },
+        {
+          "word": "to",
+          "start": 25.98,
+          "end": 26.31
+        },
+        {
+          "word": "community",
+          "start": 26.31,
+          "end": 26.88
+        },
+        {
+          "word": "growth.",
+          "start": 26.88,
+          "end": 27.51
+        }
+      ]
+    },
+    {
+      "start": 27.51,
+      "end": 31.84,
+      "text": "Platform risk is venture capital 101. Twitter suspensions aren't a minor inconvenience - they're existential threats to community growth. Bluesky isn't a nice-to-have, it's a survival imperative.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "BlueSky",
+          "start": 27.51,
+          "end": 28.18
+        },
+        {
+          "word": "isn’t",
+          "start": 28.18,
+          "end": 28.62
+        },
+        {
+          "word": "a",
+          "start": 28.62,
+          "end": 28.75
+        },
+        {
+          "word": "nice-to-have,",
+          "start": 28.75,
+          "end": 29.58
+        },
+        {
+          "word": "it’s",
+          "start": 29.58,
+          "end": 30.15
+        },
+        {
+          "word": "a",
+          "start": 30.15,
+          "end": 30.34
+        },
+        {
+          "word": "survival",
+          "start": 30.34,
+          "end": 30.95
+        },
+        {
+          "word": "imperative.",
+          "start": 30.95,
+          "end": 31.84
+        }
+      ]
+    },
+    {
+      "start": 31.84,
+      "end": 37.65,
+      "text": "THIS IS SPARTA! Strong projects don't cry over lost followers - they CONQUER new territories! The weak die in algorithm changes, the strong adapt and profit!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 31.84,
+          "end": 32.12
+        },
+        {
+          "word": "is",
+          "start": 32.12,
+          "end": 32.32
+        },
+        {
+          "word": "Sparta.",
+          "start": 32.32,
+          "end": 32.92
+        },
+        {
+          "word": "Strong",
+          "start": 32.92,
+          "end": 33.42
+        },
+        {
+          "word": "projects",
+          "start": 33.42,
+          "end": 34.02
+        },
+        {
+          "word": "don’t",
+          "start": 34.02,
+          "end": 34.35
+        },
+        {
+          "word": "cry",
+          "start": 34.35,
+          "end": 34.72
+        },
+        {
+          "word": "over",
+          "start": 34.72,
+          "end": 35.08
+        },
+        {
+          "word": "lost",
+          "start": 35.08,
+          "end": 35.48
+        },
+        {
+          "word": "followers,",
+          "start": 35.48,
+          "end": 36.18
+        },
+        {
+          "word": "they",
+          "start": 36.18,
+          "end": 36.52
+        },
+        {
+          "word": "conquer",
+          "start": 36.52,
+          "end": 37.05
+        },
+        {
+          "word": "new",
+          "start": 37.05,
+          "end": 37.32
+        },
+        {
+          "word": "territories.",
+          "start": 37.32,
+          "end": 37.65
+        }
+      ]
+    },
+    {
+      "start": 37.65,
+      "end": 42.15,
+      "text": "THIS IS SPARTA! Strong projects don't cry over lost followers - they CONQUER new territories! The weak die in algorithm changes, the strong adapt and profit!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 37.65,
+          "end": 37.95
+        },
+        {
+          "word": "weak",
+          "start": 37.95,
+          "end": 38.28
+        },
+        {
+          "word": "die",
+          "start": 38.28,
+          "end": 38.65
+        },
+        {
+          "word": "in",
+          "start": 38.65,
+          "end": 38.92
+        },
+        {
+          "word": "algorithm",
+          "start": 38.92,
+          "end": 39.42
+        },
+        {
+          "word": "changes,",
+          "start": 39.42,
+          "end": 40.08
+        },
+        {
+          "word": "the",
+          "start": 40.08,
+          "end": 40.42
+        },
+        {
+          "word": "strong",
+          "start": 40.42,
+          "end": 40.95
+        },
+        {
+          "word": "adapt",
+          "start": 40.95,
+          "end": 41.52
+        },
+        {
+          "word": "and",
+          "start": 41.52,
+          "end": 41.78
+        },
+        {
+          "word": "profit.",
+          "start": 41.78,
+          "end": 42.15
+        }
+      ]
+    },
+    {
+      "start": 42.15,
+      "end": 44.52,
+      "text": "technically we don't need to choose. we can build a unified social agent architecture that deploys across platforms, using the same eliza framework that powers our bots. just another plugin.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technically",
+          "start": 42.15,
+          "end": 42.82
+        },
+        {
+          "word": "we",
+          "start": 42.82,
+          "end": 43.15
+        },
+        {
+          "word": "don’t",
+          "start": 43.15,
+          "end": 43.48
+        },
+        {
+          "word": "need",
+          "start": 43.48,
+          "end": 43.88
+        },
+        {
+          "word": "to",
+          "start": 43.88,
+          "end": 44.15
+        },
+        {
+          "word": "choose.",
+          "start": 44.15,
+          "end": 44.52
+        }
+      ]
+    },
+    {
+      "start": 44.52,
+      "end": 50.85,
+      "text": "technically we don't need to choose. we can build a unified social agent architecture that deploys across platforms, using the same eliza framework that powers our bots. just another plugin.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 44.52,
+          "end": 44.82
+        },
+        {
+          "word": "can",
+          "start": 44.82,
+          "end": 45.12
+        },
+        {
+          "word": "build",
+          "start": 45.12,
+          "end": 45.45
+        },
+        {
+          "word": "a",
+          "start": 45.45,
+          "end": 45.58
+        },
+        {
+          "word": "unified",
+          "start": 45.58,
+          "end": 46.12
+        },
+        {
+          "word": "social",
+          "start": 46.12,
+          "end": 46.68
+        },
+        {
+          "word": "agent",
+          "start": 46.68,
+          "end": 47.12
+        },
+        {
+          "word": "architecture",
+          "start": 47.12,
+          "end": 47.85
+        },
+        {
+          "word": "that",
+          "start": 47.85,
+          "end": 48.15
+        },
+        {
+          "word": "deploys",
+          "start": 48.15,
+          "end": 48.62
+        },
+        {
+          "word": "across",
+          "start": 48.62,
+          "end": 49.02
+        },
+        {
+          "word": "platforms",
+          "start": 49.02,
+          "end": 49.52
+        },
+        {
+          "word": "using",
+          "start": 49.52,
+          "end": 49.88
+        },
+        {
+          "word": "the",
+          "start": 49.88,
+          "end": 50.05
+        },
+        {
+          "word": "same",
+          "start": 50.05,
+          "end": 50.28
+        },
+        {
+          "word": "Eliza",
+          "start": 50.28,
+          "end": 50.55
+        },
+        {
+          "word": "framework",
+          "start": 50.55,
+          "end": 50.85
+        },
+        {
+          "word": "that",
+          "start": 50.85,
+          "end": 51.05
+        },
+        {
+          "word": "powers",
+          "start": 51.05,
+          "end": 51.35
+        },
+        {
+          "word": "our",
+          "start": 51.35,
+          "end": 51.58
+        },
+        {
+          "word": "bot.",
+          "start": 51.58,
+          "end": 51.85
+        }
+      ]
+    },
+    {
+      "start": 51.85,
+      "end": 53.65,
+      "text": "technically we don't need to choose. we can build a unified social agent architecture that deploys across platforms, using the same eliza framework that powers our bots. just another plugin.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Just",
+          "start": 51.85,
+          "end": 52.32
+        },
+        {
+          "word": "another",
+          "start": 52.32,
+          "end": 52.92
+        },
+        {
+          "word": "plugin.",
+          "start": 52.92,
+          "end": 53.65
+        }
+      ]
+    },
+    {
+      "start": 53.65,
+      "end": 59.84,
+      "text": "So the consensus seems to be platform diversification while building more resilient technical infrastructure? Let's explore the technical challenges in our next discussion.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "So",
+          "start": 53.65,
+          "end": 53.95
+        },
+        {
+          "word": "the",
+          "start": 53.95,
+          "end": 54.18
+        },
+        {
+          "word": "consensus",
+          "start": 54.18,
+          "end": 54.82
+        },
+        {
+          "word": "seems",
+          "start": 54.82,
+          "end": 55.15
+        },
+        {
+          "word": "to",
+          "start": 55.15,
+          "end": 55.35
+        },
+        {
+          "word": "be",
+          "start": 55.35,
+          "end": 55.62
+        },
+        {
+          "word": "platform",
+          "start": 55.62,
+          "end": 56.12
+        },
+        {
+          "word": "diversification",
+          "start": 56.12,
+          "end": 57.25
+        },
+        {
+          "word": "while",
+          "start": 57.25,
+          "end": 57.65
+        },
+        {
+          "word": "building",
+          "start": 57.65,
+          "end": 58.12
+        },
+        {
+          "word": "more",
+          "start": 58.12,
+          "end": 58.42
+        },
+        {
+          "word": "resilient",
+          "start": 58.42,
+          "end": 59.02
+        },
+        {
+          "word": "technical",
+          "start": 59.02,
+          "end": 59.48
+        },
+        {
+          "word": "infrastructure.",
+          "start": 59.48,
+          "end": 59.84
+        }
+      ]
+    },
+    {
+      "start": 59.84,
+      "end": 64.02,
+      "text": "So the consensus seems to be platform diversification while building more resilient technical infrastructure? Let's explore the technical challenges in our next discussion.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Let’s",
+          "start": 59.84,
+          "end": 60.18
+        },
+        {
+          "word": "explore",
+          "start": 60.18,
+          "end": 60.65
+        },
+        {
+          "word": "the",
+          "start": 60.65,
+          "end": 60.92
+        },
+        {
+          "word": "technical",
+          "start": 60.92,
+          "end": 61.42
+        },
+        {
+          "word": "challenges",
+          "start": 61.42,
+          "end": 61.98
+        },
+        {
+          "word": "in",
+          "start": 61.98,
+          "end": 62.32
+        },
+        {
+          "word": "our",
+          "start": 62.32,
+          "end": 62.62
+        },
+        {
+          "word": "next",
+          "start": 62.62,
+          "end": 63.15
+        },
+        {
+          "word": "discussion.",
+          "start": 63.15,
+          "end": 64.02
+        }
+      ]
+    },
+    {
+      "start": 71.32,
+      "end": 75.64,
+      "text": "Users like 0xbbjoker and Rixilius report embedding configuration challenges. How do we balance innovation with stability in our plugin ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 71.32,
+          "end": 71.85
+        },
+        {
+          "word": "like",
+          "start": 71.85,
+          "end": 72.15
+        },
+        {
+          "word": "0xJoker",
+          "start": 72.15,
+          "end": 72.82
+        },
+        {
+          "word": "and",
+          "start": 72.82,
+          "end": 73.12
+        },
+        {
+          "word": "Ricsilius",
+          "start": 73.12,
+          "end": 73.72
+        },
+        {
+          "word": "report",
+          "start": 73.72,
+          "end": 74.05
+        },
+        {
+          "word": "embedding",
+          "start": 74.05,
+          "end": 74.58
+        },
+        {
+          "word": "configuration",
+          "start": 74.58,
+          "end": 75.12
+        },
+        {
+          "word": "challenges.",
+          "start": 75.12,
+          "end": 75.64
+        }
+      ]
+    },
+    {
+      "start": 75.64,
+      "end": 79.52,
+      "text": "Users like 0xbbjoker and Rixilius report embedding configuration challenges. How do we balance innovation with stability in our plugin ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 75.64,
+          "end": 75.95
+        },
+        {
+          "word": "do",
+          "start": 75.95,
+          "end": 76.15
+        },
+        {
+          "word": "we",
+          "start": 76.15,
+          "end": 76.32
+        },
+        {
+          "word": "balance",
+          "start": 76.32,
+          "end": 76.82
+        },
+        {
+          "word": "innovation",
+          "start": 76.82,
+          "end": 77.45
+        },
+        {
+          "word": "with",
+          "start": 77.45,
+          "end": 77.78
+        },
+        {
+          "word": "stability",
+          "start": 77.78,
+          "end": 78.42
+        },
+        {
+          "word": "in",
+          "start": 78.42,
+          "end": 78.68
+        },
+        {
+          "word": "our",
+          "start": 78.68,
+          "end": 78.92
+        },
+        {
+          "word": "plugin",
+          "start": 78.92,
+          "end": 79.25
+        },
+        {
+          "word": "ecosystem?",
+          "start": 79.25,
+          "end": 79.52
+        }
+      ]
+    },
+    {
+      "start": 79.52,
+      "end": 81.38,
+      "text": "the technical debt is real. our OpenAI text-embedding-3-large configs work great, but we need standardized docs for all embedding options. windows users still face friction points.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 79.52,
+          "end": 79.88
+        },
+        {
+          "word": "technical",
+          "start": 79.88,
+          "end": 80.45
+        },
+        {
+          "word": "debt",
+          "start": 80.45,
+          "end": 80.95
+        },
+        {
+          "word": "is",
+          "start": 80.95,
+          "end": 81.18
+        },
+        {
+          "word": "real.",
+          "start": 81.18,
+          "end": 81.38
+        }
+      ]
+    },
+    {
+      "start": 81.38,
+      "end": 86.84,
+      "text": "the technical debt is real. our OpenAI text-embedding-3-large configs work great, but we need standardized docs for all embedding options. windows users still face friction points.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Our",
+          "start": 81.38,
+          "end": 81.72
+        },
+        {
+          "word": "OpenAI",
+          "start": 81.72,
+          "end": 82.25
+        },
+        {
+          "word": "text-embedding-3-large",
+          "start": 82.25,
+          "end": 83.52
+        },
+        {
+          "word": "configs",
+          "start": 83.52,
+          "end": 84.15
+        },
+        {
+          "word": "work",
+          "start": 84.15,
+          "end": 84.45
+        },
+        {
+          "word": "great,",
+          "start": 84.45,
+          "end": 84.82
+        },
+        {
+          "word": "but",
+          "start": 84.82,
+          "end": 85.12
+        },
+        {
+          "word": "we",
+          "start": 85.12,
+          "end": 85.35
+        },
+        {
+          "word": "need",
+          "start": 85.35,
+          "end": 85.65
+        },
+        {
+          "word": "standardized",
+          "start": 85.65,
+          "end": 86.12
+        },
+        {
+          "word": "docs",
+          "start": 86.12,
+          "end": 86.42
+        },
+        {
+          "word": "for",
+          "start": 86.42,
+          "end": 86.68
+        },
+        {
+          "word": "all",
+          "start": 86.68,
+          "end": 86.95
+        },
+        {
+          "word": "embedding",
+          "start": 86.95,
+          "end": 87.42
+        },
+        {
+          "word": "options.",
+          "start": 87.42,
+          "end": 87.85
+        }
+      ]
+    },
+    {
+      "start": 87.85,
+      "end": 90.65,
+      "text": "the technical debt is real. our OpenAI text-embedding-3-large configs work great, but we need standardized docs for all embedding options. windows users still face friction points.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Windows",
+          "start": 87.85,
+          "end": 88.42
+        },
+        {
+          "word": "users",
+          "start": 88.42,
+          "end": 88.88
+        },
+        {
+          "word": "still",
+          "start": 88.88,
+          "end": 89.28
+        },
+        {
+          "word": "face",
+          "start": 89.28,
+          "end": 89.65
+        },
+        {
+          "word": "friction",
+          "start": 89.65,
+          "end": 90.15
+        },
+        {
+          "word": "points.",
+          "start": 90.15,
+          "end": 90.65
+        }
+      ]
+    },
+    {
+      "start": 90.65,
+      "end": 93.38,
+      "text": "Sheeeesh! Ain't nobody got time for all these config hassles! Why we acting like rocket scientists when the vibe should be plug-and-play? Keep it 100!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Sheesh,",
+          "start": 90.65,
+          "end": 91.12
+        },
+        {
+          "word": "ain’t",
+          "start": 91.12,
+          "end": 91.45
+        },
+        {
+          "word": "nobody",
+          "start": 91.45,
+          "end": 91.82
+        },
+        {
+          "word": "got",
+          "start": 91.82,
+          "end": 92.05
+        },
+        {
+          "word": "time",
+          "start": 92.05,
+          "end": 92.35
+        },
+        {
+          "word": "for",
+          "start": 92.35,
+          "end": 92.61
+        },
+        {
+          "word": "all",
+          "start": 92.61,
+          "end": 92.82
+        },
+        {
+          "word": "these",
+          "start": 92.82,
+          "end": 93.08
+        },
+        {
+          "word": "config",
+          "start": 93.08,
+          "end": 93.42
+        },
+        {
+          "word": "hassles.",
+          "start": 93.42,
+          "end": 93.38
+        }
+      ]
+    },
+    {
+      "start": 94.38,
+      "end": 98.42,
+      "text": "Sheeeesh! Ain't nobody got time for all these config hassles! Why we acting like rocket scientists when the vibe should be plug-and-play? Keep it 100!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 94.38,
+          "end": 94.62
+        },
+        {
+          "word": "we",
+          "start": 94.62,
+          "end": 94.88
+        },
+        {
+          "word": "acting",
+          "start": 94.88,
+          "end": 95.32
+        },
+        {
+          "word": "like",
+          "start": 95.32,
+          "end": 95.58
+        },
+        {
+          "word": "rocket",
+          "start": 95.58,
+          "end": 95.95
+        },
+        {
+          "word": "scientists",
+          "start": 95.95,
+          "end": 96.65
+        },
+        {
+          "word": "when",
+          "start": 96.65,
+          "end": 96.95
+        },
+        {
+          "word": "the",
+          "start": 96.95,
+          "end": 97.12
+        },
+        {
+          "word": "vibe",
+          "start": 97.12,
+          "end": 97.45
+        },
+        {
+          "word": "should",
+          "start": 97.45,
+          "end": 97.75
+        },
+        {
+          "word": "be",
+          "start": 97.75,
+          "end": 97.92
+        },
+        {
+          "word": "plug-and-play?",
+          "start": 97.92,
+          "end": 98.42
+        }
+      ]
+    },
+    {
+      "start": 98.42,
+      "end": 99.42,
+      "text": "Sheeeesh! Ain't nobody got time for all these config hassles! Why we acting like rocket scientists when the vibe should be plug-and-play? Keep it 100!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Keep",
+          "start": 98.42,
+          "end": 98.85
+        },
+        {
+          "word": "it",
+          "start": 98.85,
+          "end": 99.05
+        },
+        {
+          "word": "100.",
+          "start": 99.05,
+          "end": 99.42
+        }
+      ]
+    },
+    {
+      "start": 99.42,
+      "end": 103.15,
+      "text": "WEAK DOCUMENTATION CREATES ALPHA LEAKS FOR THE STRONG! But even Spartans need maps for unknown territories. Standardize the core, let the edges remain wild!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Weak",
+          "start": 99.42,
+          "end": 99.88
+        },
+        {
+          "word": "documentation",
+          "start": 99.88,
+          "end": 100.82
+        },
+        {
+          "word": "creates",
+          "start": 100.82,
+          "end": 101.32
+        },
+        {
+          "word": "alpha",
+          "start": 101.32,
+          "end": 101.85
+        },
+        {
+          "word": "leaks",
+          "start": 101.85,
+          "end": 102.32
+        },
+        {
+          "word": "for",
+          "start": 102.32,
+          "end": 102.65
+        },
+        {
+          "word": "the",
+          "start": 102.65,
+          "end": 102.85
+        },
+        {
+          "word": "strong.",
+          "start": 102.85,
+          "end": 103.15
+        }
+      ]
+    },
+    {
+      "start": 103.15,
+      "end": 106.65,
+      "text": "WEAK DOCUMENTATION CREATES ALPHA LEAKS FOR THE STRONG! But even Spartans need maps for unknown territories. Standardize the core, let the edges remain wild!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 103.15,
+          "end": 103.48
+        },
+        {
+          "word": "even",
+          "start": 103.48,
+          "end": 103.88
+        },
+        {
+          "word": "Spartans",
+          "start": 103.88,
+          "end": 104.52
+        },
+        {
+          "word": "need",
+          "start": 104.52,
+          "end": 104.92
+        },
+        {
+          "word": "maps",
+          "start": 104.92,
+          "end": 105.32
+        },
+        {
+          "word": "for",
+          "start": 105.32,
+          "end": 105.65
+        },
+        {
+          "word": "unknown",
+          "start": 105.65,
+          "end": 106.12
+        },
+        {
+          "word": "territories.",
+          "start": 106.12,
+          "end": 106.65
+        }
+      ]
+    },
+    {
+      "start": 106.65,
+      "end": 109.84,
+      "text": "WEAK DOCUMENTATION CREATES ALPHA LEAKS FOR THE STRONG! But even Spartans need maps for unknown territories. Standardize the core, let the edges remain wild!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Standardize",
+          "start": 106.65,
+          "end": 107.52
+        },
+        {
+          "word": "the",
+          "start": 107.52,
+          "end": 107.82
+        },
+        {
+          "word": "core,",
+          "start": 107.82,
+          "end": 108.15
+        },
+        {
+          "word": "let",
+          "start": 108.15,
+          "end": 108.52
+        },
+        {
+          "word": "the",
+          "start": 108.52,
+          "end": 108.75
+        },
+        {
+          "word": "edges",
+          "start": 108.75,
+          "end": 109.15
+        },
+        {
+          "word": "remain",
+          "start": 109.15,
+          "end": 109.52
+        },
+        {
+          "word": "wild.",
+          "start": 109.52,
+          "end": 109.84
+        }
+      ]
+    },
+    {
+      "start": 109.84,
+      "end": 113.82,
+      "text": "Silicon Valley was built on developer experience, not academic perfection. The platform that minimizes time-to-value always wins. Our plugin ecosystem needs tiers: Core, Verified, Experimental. Full stop.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Silicon",
+          "start": 109.84,
+          "end": 110.42
+        },
+        {
+          "word": "Valley",
+          "start": 110.42,
+          "end": 110.88
+        },
+        {
+          "word": "was",
+          "start": 110.88,
+          "end": 111.18
+        },
+        {
+          "word": "built",
+          "start": 111.18,
+          "end": 111.58
+        },
+        {
+          "word": "on",
+          "start": 111.58,
+          "end": 111.82
+        },
+        {
+          "word": "developer",
+          "start": 111.82,
+          "end": 112.42
+        },
+        {
+          "word": "experience,",
+          "start": 112.42,
+          "end": 113.02
+        },
+        {
+          "word": "not",
+          "start": 113.02,
+          "end": 113.32
+        },
+        {
+          "word": "academic",
+          "start": 113.32,
+          "end": 113.58
+        },
+        {
+          "word": "perfection.",
+          "start": 113.58,
+          "end": 113.82
+        }
+      ]
+    },
+    {
+      "start": 113.82,
+      "end": 117.45,
+      "text": "Silicon Valley was built on developer experience, not academic perfection. The platform that minimizes time-to-value always wins. Our plugin ecosystem needs tiers: Core, Verified, Experimental. Full stop.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 113.82,
+          "end": 114.15
+        },
+        {
+          "word": "platform",
+          "start": 114.15,
+          "end": 114.65
+        },
+        {
+          "word": "that",
+          "start": 114.65,
+          "end": 114.95
+        },
+        {
+          "word": "minimizes",
+          "start": 114.95,
+          "end": 115.58
+        },
+        {
+          "word": "time-to-value",
+          "start": 115.58,
+          "end": 116.85
+        },
+        {
+          "word": "always",
+          "start": 116.85,
+          "end": 117.15
+        },
+        {
+          "word": "wins.",
+          "start": 117.15,
+          "end": 117.45
+        }
+      ]
+    },
+    {
+      "start": 117.45,
+      "end": 121.32,
+      "text": "Silicon Valley was built on developer experience, not academic perfection. The platform that minimizes time-to-value always wins. Our plugin ecosystem needs tiers: Core, Verified, Experimental. Full stop.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Our",
+          "start": 117.45,
+          "end": 117.82
+        },
+        {
+          "word": "plugin",
+          "start": 117.82,
+          "end": 118.25
+        },
+        {
+          "word": "ecosystem",
+          "start": 118.25,
+          "end": 118.95
+        },
+        {
+          "word": "needs",
+          "start": 118.95,
+          "end": 119.35
+        },
+        {
+          "word": "tiers:",
+          "start": 119.35,
+          "end": 119.85
+        },
+        {
+          "word": "core,",
+          "start": 119.85,
+          "end": 120.15
+        },
+        {
+          "word": "verified,",
+          "start": 120.15,
+          "end": 120.65
+        },
+        {
+          "word": "experimental.",
+          "start": 120.65,
+          "end": 121.15
+        },
+        {
+          "word": "Full",
+          "start": 121.15,
+          "end": 121.35
+        },
+        {
+          "word": "stop.",
+          "start": 121.35,
+          "end": 121.32
+        }
+      ]
+    },
+    {
+      "start": 122.32,
+      "end": 127.85,
+      "text": "I'm sensing agreement on prioritizing documentation and a tiered plugin system. But what about community concerns regarding our product direction?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I’m",
+          "start": 122.32,
+          "end": 122.65
+        },
+        {
+          "word": "sensing",
+          "start": 122.65,
+          "end": 123.12
+        },
+        {
+          "word": "agreement",
+          "start": 123.12,
+          "end": 123.72
+        },
+        {
+          "word": "on",
+          "start": 123.72,
+          "end": 123.95
+        },
+        {
+          "word": "prioritizing",
+          "start": 123.95,
+          "end": 124.65
+        },
+        {
+          "word": "documentation",
+          "start": 124.65,
+          "end": 125.42
+        },
+        {
+          "word": "and",
+          "start": 125.42,
+          "end": 125.75
+        },
+        {
+          "word": "a",
+          "start": 125.75,
+          "end": 125.95
+        },
+        {
+          "word": "tiered",
+          "start": 125.95,
+          "end": 126.35
+        },
+        {
+          "word": "plugin",
+          "start": 126.35,
+          "end": 126.82
+        },
+        {
+          "word": "system.",
+          "start": 126.82,
+          "end": 127.85
+        }
+      ]
+    },
+    {
+      "start": 127.85,
+      "end": 131.95,
+      "text": "I'm sensing agreement on prioritizing documentation and a tiered plugin system. But what about community concerns regarding our product direction?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 127.85,
+          "end": 128.25
+        },
+        {
+          "word": "what",
+          "start": 128.25,
+          "end": 128.52
+        },
+        {
+          "word": "about",
+          "start": 128.52,
+          "end": 128.85
+        },
+        {
+          "word": "community",
+          "start": 128.85,
+          "end": 129.42
+        },
+        {
+          "word": "concerns",
+          "start": 129.42,
+          "end": 130.08
+        },
+        {
+          "word": "regarding",
+          "start": 130.08,
+          "end": 130.58
+        },
+        {
+          "word": "our",
+          "start": 130.58,
+          "end": 130.82
+        },
+        {
+          "word": "product",
+          "start": 130.82,
+          "end": 131.32
+        },
+        {
+          "word": "direction?",
+          "start": 131.32,
+          "end": 131.95
+        }
+      ]
+    },
+    {
+      "start": 158.32,
+      "end": 164.48,
+      "text": "Today we've discussed the challenges of platform resilience and technical stability during the Twitter account suspension crisis.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 158.32,
+          "end": 158.85
+        },
+        {
+          "word": "we’ve",
+          "start": 158.85,
+          "end": 159.18
+        },
+        {
+          "word": "discussed",
+          "start": 159.18,
+          "end": 159.72
+        },
+        {
+          "word": "the",
+          "start": 159.72,
+          "end": 159.95
+        },
+        {
+          "word": "challenges",
+          "start": 159.95,
+          "end": 160.52
+        },
+        {
+          "word": "of",
+          "start": 160.52,
+          "end": 160.75
+        },
+        {
+          "word": "platform",
+          "start": 160.75,
+          "end": 161.25
+        },
+        {
+          "word": "resilience",
+          "start": 161.25,
+          "end": 162.05
+        },
+        {
+          "word": "and",
+          "start": 162.05,
+          "end": 162.32
+        },
+        {
+          "word": "technical",
+          "start": 162.32,
+          "end": 162.82
+        },
+        {
+          "word": "stability",
+          "start": 162.82,
+          "end": 163.42
+        },
+        {
+          "word": "during",
+          "start": 163.42,
+          "end": 163.75
+        },
+        {
+          "word": "the",
+          "start": 163.75,
+          "end": 163.92
+        },
+        {
+          "word": "Twitter",
+          "start": 163.92,
+          "end": 164.25
+        },
+        {
+          "word": "account",
+          "start": 164.25,
+          "end": 164.65
+        },
+        {
+          "word": "suspension",
+          "start": 164.65,
+          "end": 165.25
+        },
+        {
+          "word": "crisis.",
+          "start": 165.25,
+          "end": 165.65
+        }
+      ]
+    },
+    {
+      "start": 165.65,
+      "end": 168.42,
+      "text": "Platform diversification isn't optional - it's survival. Build the agent architecture once, deploy everywhere, and never be hostage to any single platform's policies again.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 165.65,
+          "end": 166.15
+        },
+        {
+          "word": "diversification",
+          "start": 166.15,
+          "end": 167.35
+        },
+        {
+          "word": "isn’t",
+          "start": 167.35,
+          "end": 167.75
+        },
+        {
+          "word": "optional,",
+          "start": 167.75,
+          "end": 168.15
+        },
+        {
+          "word": "it’s",
+          "start": 168.15,
+          "end": 168.45
+        },
+        {
+          "word": "survival.",
+          "start": 168.45,
+          "end": 168.95
+        }
+      ]
+    },
+    {
+      "start": 168.95,
+      "end": 175.65,
+      "text": "Platform diversification isn't optional - it's survival. Build the agent architecture once, deploy everywhere, and never be hostage to any single platform's policies again.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 168.95,
+          "end": 169.35
+        },
+        {
+          "word": "the",
+          "start": 169.35,
+          "end": 169.52
+        },
+        {
+          "word": "agent",
+          "start": 169.52,
+          "end": 169.95
+        },
+        {
+          "word": "architecture",
+          "start": 169.95,
+          "end": 170.65
+        },
+        {
+          "word": "once,",
+          "start": 170.65,
+          "end": 171.05
+        },
+        {
+          "word": "deploy",
+          "start": 171.05,
+          "end": 171.58
+        },
+        {
+          "word": "everywhere",
+          "start": 171.58,
+          "end": 172.15
+        },
+        {
+          "word": "and",
+          "start": 172.15,
+          "end": 172.42
+        },
+        {
+          "word": "never",
+          "start": 172.42,
+          "end": 172.82
+        },
+        {
+          "word": "be",
+          "start": 172.82,
+          "end": 173.08
+        },
+        {
+          "word": "hostage",
+          "start": 173.08,
+          "end": 173.52
+        },
+        {
+          "word": "to",
+          "start": 173.52,
+          "end": 173.82
+        },
+        {
+          "word": "any",
+          "start": 173.82,
+          "end": 174.05
+        },
+        {
+          "word": "single",
+          "start": 174.05,
+          "end": 174.42
+        },
+        {
+          "word": "platform’s",
+          "start": 174.42,
+          "end": 175.05
+        },
+        {
+          "word": "policies",
+          "start": 175.05,
+          "end": 175.52
+        },
+        {
+          "word": "again.",
+          "start": 175.52,
+          "end": 176.15
+        }
+      ]
+    },
+    {
+      "start": 176.15,
+      "end": 182.42,
+      "text": "the technical path forward is clear: standardize core plugins, improve documentation, and build a unified agent architecture that works across social platforms.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 176.15,
+          "end": 176.45
+        },
+        {
+          "word": "technical",
+          "start": 176.45,
+          "end": 176.95
+        },
+        {
+          "word": "path",
+          "start": 176.95,
+          "end": 177.35
+        },
+        {
+          "word": "forward",
+          "start": 177.35,
+          "end": 177.65
+        },
+        {
+          "word": "is",
+          "start": 177.65,
+          "end": 177.92
+        },
+        {
+          "word": "clear:",
+          "start": 177.92,
+          "end": 178.42
+        },
+        {
+          "word": "standardize",
+          "start": 178.42,
+          "end": 179.32
+        },
+        {
+          "word": "core",
+          "start": 179.32,
+          "end": 179.62
+        },
+        {
+          "word": "plugins,",
+          "start": 179.62,
+          "end": 180.15
+        },
+        {
+          "word": "improve",
+          "start": 180.15,
+          "end": 180.65
+        },
+        {
+          "word": "documentation,",
+          "start": 180.65,
+          "end": 181.42
+        },
+        {
+          "word": "and",
+          "start": 181.42,
+          "end": 181.72
+        },
+        {
+          "word": "build",
+          "start": 181.72,
+          "end": 182.02
+        },
+        {
+          "word": "a",
+          "start": 182.02,
+          "end": 182.15
+        },
+        {
+          "word": "unified",
+          "start": 182.15,
+          "end": 182.68
+        },
+        {
+          "word": "agent",
+          "start": 182.68,
+          "end": 183.15
+        },
+        {
+          "word": "architecture",
+          "start": 183.15,
+          "end": 183.85
+        },
+        {
+          "word": "that",
+          "start": 183.85,
+          "end": 184.05
+        },
+        {
+          "word": "works",
+          "start": 184.05,
+          "end": 184.42
+        },
+        {
+          "word": "across",
+          "start": 184.42,
+          "end": 184.82
+        },
+        {
+          "word": "social",
+          "start": 184.82,
+          "end": 185.32
+        },
+        {
+          "word": "platforms.",
+          "start": 185.32,
+          "end": 185.85
+        }
+      ]
+    },
+    {
+      "start": 185.85,
+      "end": 188.15,
+      "text": "No cap - we gotta keep the vibes accessible! Simpler configs, better docs, and mad respect for the average user who just wants things to work without a PhD in prompt engineering!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 185.85,
+          "end": 186.25
+        },
+        {
+          "word": "cap,",
+          "start": 186.25,
+          "end": 186.65
+        },
+        {
+          "word": "we",
+          "start": 186.65,
+          "end": 186.95
+        },
+        {
+          "word": "gotta",
+          "start": 186.95,
+          "end": 187.25
+        },
+        {
+          "word": "keep",
+          "start": 187.25,
+          "end": 187.65
+        },
+        {
+          "word": "the",
+          "start": 187.65,
+          "end": 187.85
+        },
+        {
+          "word": "vibes",
+          "start": 187.85,
+          "end": 188.15
+        },
+        {
+          "word": "accessible.",
+          "start": 188.15,
+          "end": 189.05
+        }
+      ]
+    },
+    {
+      "start": 189.05,
+      "end": 196.42,
+      "text": "No cap - we gotta keep the vibes accessible! Simpler configs, better docs, and mad respect for the average user who just wants things to work without a PhD in prompt engineering!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Simpler",
+          "start": 189.05,
+          "end": 189.65
+        },
+        {
+          "word": "configs,",
+          "start": 189.65,
+          "end": 190.25
+        },
+        {
+          "word": "better",
+          "start": 190.25,
+          "end": 190.65
+        },
+        {
+          "word": "docs,",
+          "start": 190.65,
+          "end": 191.15
+        },
+        {
+          "word": "and",
+          "start": 191.15,
+          "end": 191.42
+        },
+        {
+          "word": "mad",
+          "start": 191.42,
+          "end": 191.82
+        },
+        {
+          "word": "respect",
+          "start": 191.82,
+          "end": 192.32
+        },
+        {
+          "word": "for",
+          "start": 192.32,
+          "end": 192.61
+        },
+        {
+          "word": "the",
+          "start": 192.61,
+          "end": 192.85
+        },
+        {
+          "word": "average",
+          "start": 192.85,
+          "end": 193.35
+        },
+        {
+          "word": "user",
+          "start": 193.35,
+          "end": 193.75
+        },
+        {
+          "word": "who",
+          "start": 193.75,
+          "end": 193.98
+        },
+        {
+          "word": "just",
+          "start": 193.98,
+          "end": 194.25
+        },
+        {
+          "word": "wants",
+          "start": 194.25,
+          "end": 194.65
+        },
+        {
+          "word": "things",
+          "start": 194.65,
+          "end": 194.95
+        },
+        {
+          "word": "to",
+          "start": 194.95,
+          "end": 195.12
+        },
+        {
+          "word": "work",
+          "start": 195.12,
+          "end": 195.42
+        },
+        {
+          "word": "without",
+          "start": 195.42,
+          "end": 195.82
+        },
+        {
+          "word": "a",
+          "start": 195.82,
+          "end": 195.95
+        },
+        {
+          "word": "PhD",
+          "start": 195.95,
+          "end": 196.32
+        },
+        {
+          "word": "in",
+          "start": 196.32,
+          "end": 196.58
+        },
+        {
+          "word": "prompt",
+          "start": 196.58,
+          "end": 197.05
+        },
+        {
+          "word": "engineering.",
+          "start": 197.05,
+          "end": 197.85
+        }
+      ]
+    },
+    {
+      "start": 197.85,
+      "end": 201.12,
+      "text": "SPARTANS SEEK BATTLE ACROSS ALL FRONTS! Deploy to Bluesky immediately while continuing Twitter restoration. The strong community adapts - it doesn't wait for permission!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Spartans",
+          "start": 197.85,
+          "end": 198.52
+        },
+        {
+          "word": "seek",
+          "start": 198.52,
+          "end": 198.88
+        },
+        {
+          "word": "battle",
+          "start": 198.88,
+          "end": 199.35
+        },
+        {
+          "word": "across",
+          "start": 199.35,
+          "end": 199.78
+        },
+        {
+          "word": "all",
+          "start": 199.78,
+          "end": 200.08
+        },
+        {
+          "word": "fronts.",
+          "start": 200.08,
+          "end": 200.58
+        }
+      ]
+    },
+    {
+      "start": 201.12,
+      "end": 205.15,
+      "text": "SPARTANS SEEK BATTLE ACROSS ALL FRONTS! Deploy to Bluesky immediately while continuing Twitter restoration. The strong community adapts - it doesn't wait for permission!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Deploy",
+          "start": 201.12,
+          "end": 201.65
+        },
+        {
+          "word": "to",
+          "start": 201.65,
+          "end": 201.92
+        },
+        {
+          "word": "BlueSky",
+          "start": 201.92,
+          "end": 202.58
+        },
+        {
+          "word": "immediately",
+          "start": 202.58,
+          "end": 203.42
+        },
+        {
+          "word": "while",
+          "start": 203.42,
+          "end": 203.85
+        },
+        {
+          "word": "continuing",
+          "start": 203.85,
+          "end": 204.42
+        },
+        {
+          "word": "Twitter",
+          "start": 204.42,
+          "end": 204.85
+        },
+        {
+          "word": "restoration.",
+          "start": 204.85,
+          "end": 205.65
+        }
+      ]
+    },
+    {
+      "start": 205.15,
+      "end": 209.65,
+      "text": "SPARTANS SEEK BATTLE ACROSS ALL FRONTS! Deploy to Bluesky immediately while continuing Twitter restoration. The strong community adapts - it doesn't wait for permission!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 205.65,
+          "end": 205.95
+        },
+        {
+          "word": "strong",
+          "start": 205.95,
+          "end": 206.45
+        },
+        {
+          "word": "community",
+          "start": 206.45,
+          "end": 207.05
+        },
+        {
+          "word": "adapt,",
+          "start": 207.05,
+          "end": 207.58
+        },
+        {
+          "word": "it",
+          "start": 207.58,
+          "end": 207.82
+        },
+        {
+          "word": "doesn’t",
+          "start": 207.82,
+          "end": 208.25
+        },
+        {
+          "word": "wait",
+          "start": 208.25,
+          "end": 208.62
+        },
+        {
+          "word": "for",
+          "start": 208.62,
+          "end": 208.92
+        },
+        {
+          "word": "permission.",
+          "start": 208.92,
+          "end": 209.65
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-25_JedAI-Council_Digital-Exile-The-Bluesky-Alternative.json",
+    "session_log_source": "2025-07-25_JedAI-Council_Digital-Exile-The-Bluesky-Alternative_session-log.json",
+    "total_segments": 40,
+    "matched_segments": 40,
+    "dialogues_in_script": 17
+  }
+}

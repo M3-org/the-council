@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/08/episode-5357-featured-1754025161.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/08/episode-5357-featured-1754025161-150x150.png",
+  "premise": "The council debates the implications of elizaOS's temporary social media absence and technical improvements, exploring the balance between platform stability and community engagement.",
+  "scenes": [
+    {
+      "description": "The council discusses the suspended X/Twitter accounts and alternative communication strategies",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "peepo",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council examines the technical improvements to elizaOS architecture",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "peepo",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council delivers their final wisdom on platform evolution",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "peepo",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

@@ -1,0 +1,1622 @@
+{
+  "segments": [
+    {
+      "start": 0.5,
+      "end": 9.94,
+      "text": "Council members, the ElizaOS Twitter accounts have been suspended, with Twitter demanding $50,000 monthly for reinstatement. Jin is developing cross-platform automation as an alternative. How should we respond to this crisis?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 0.5,
+          "end": 0.86
+        },
+        {
+          "word": "members,",
+          "start": 0.86,
+          "end": 1.44
+        },
+        {
+          "word": "the",
+          "start": 1.48,
+          "end": 1.62
+        },
+        {
+          "word": "Eliza",
+          "start": 1.62,
+          "end": 2.0
+        },
+        {
+          "word": "OS",
+          "start": 2.0,
+          "end": 2.22
+        },
+        {
+          "word": "Twitter",
+          "start": 2.22,
+          "end": 2.48
+        },
+        {
+          "word": "accounts",
+          "start": 2.48,
+          "end": 2.82
+        },
+        {
+          "word": "have",
+          "start": 2.82,
+          "end": 2.92
+        },
+        {
+          "word": "been",
+          "start": 2.92,
+          "end": 3.08
+        },
+        {
+          "word": "suspended,",
+          "start": 3.08,
+          "end": 3.66
+        },
+        {
+          "word": "with",
+          "start": 3.86,
+          "end": 4.1
+        },
+        {
+          "word": "Twitter",
+          "start": 4.1,
+          "end": 4.54
+        },
+        {
+          "word": "demanding",
+          "start": 4.54,
+          "end": 5.08
+        },
+        {
+          "word": "$50,000",
+          "start": 5.08,
+          "end": 6.3
+        },
+        {
+          "word": "monthly",
+          "start": 6.3,
+          "end": 8.0
+        },
+        {
+          "word": "for",
+          "start": 8.36,
+          "end": 8.52
+        },
+        {
+          "word": "reinstatement.",
+          "start": 8.52,
+          "end": 9.94
+        }
+      ]
+    },
+    {
+      "start": 10.14,
+      "end": 14.28,
+      "text": "Council members, the ElizaOS Twitter accounts have been suspended, with Twitter demanding $50,000 monthly for reinstatement. Jin is developing cross-platform automation as an alternative. How should we respond to this crisis?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Jin",
+          "start": 10.14,
+          "end": 10.42
+        },
+        {
+          "word": "is",
+          "start": 10.42,
+          "end": 10.5
+        },
+        {
+          "word": "developing",
+          "start": 10.5,
+          "end": 10.96
+        },
+        {
+          "word": "cross-platform",
+          "start": 10.96,
+          "end": 11.56
+        },
+        {
+          "word": "automation",
+          "start": 11.56,
+          "end": 12.0
+        },
+        {
+          "word": "as",
+          "start": 12.0,
+          "end": 12.1
+        },
+        {
+          "word": "an",
+          "start": 12.1,
+          "end": 12.18
+        },
+        {
+          "word": "alternative.",
+          "start": 12.18,
+          "end": 13.04
+        },
+        {
+          "word": "How",
+          "start": 13.24,
+          "end": 13.38
+        },
+        {
+          "word": "should",
+          "start": 13.38,
+          "end": 13.52
+        },
+        {
+          "word": "we",
+          "start": 13.52,
+          "end": 13.62
+        },
+        {
+          "word": "respond",
+          "start": 13.62,
+          "end": 13.9
+        },
+        {
+          "word": "to",
+          "start": 13.9,
+          "end": 13.98
+        },
+        {
+          "word": "this",
+          "start": 13.98,
+          "end": 14.12
+        },
+        {
+          "word": "crisis?",
+          "start": 14.12,
+          "end": 14.28
+        }
+      ]
+    },
+    {
+      "start": 14.86,
+      "end": 17.52,
+      "text": "Fifty thousand dollars for tweets? ABSOLUTE INSANITY. This is exactly why we need truly decentralized platforms. The moment you build on centralized rails, you become a hostage to their business model.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "$50,000",
+          "start": 14.86,
+          "end": 15.6
+        },
+        {
+          "word": "for",
+          "start": 15.6,
+          "end": 15.72
+        },
+        {
+          "word": "tweets?",
+          "start": 15.72,
+          "end": 16.3
+        },
+        {
+          "word": "Absolute",
+          "start": 16.48,
+          "end": 16.9
+        },
+        {
+          "word": "insanity.",
+          "start": 16.9,
+          "end": 17.52
+        }
+      ]
+    },
+    {
+      "start": 17.7,
+      "end": 21.0,
+      "text": "Fifty thousand dollars for tweets? ABSOLUTE INSANITY. This is exactly why we need truly decentralized platforms. The moment you build on centralized rails, you become a hostage to their business model.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 17.7,
+          "end": 17.92
+        },
+        {
+          "word": "is",
+          "start": 17.92,
+          "end": 18.04
+        },
+        {
+          "word": "exactly",
+          "start": 18.04,
+          "end": 18.42
+        },
+        {
+          "word": "why",
+          "start": 18.42,
+          "end": 18.52
+        },
+        {
+          "word": "we",
+          "start": 18.52,
+          "end": 18.66
+        },
+        {
+          "word": "need",
+          "start": 18.66,
+          "end": 18.88
+        },
+        {
+          "word": "truly",
+          "start": 18.88,
+          "end": 19.34
+        },
+        {
+          "word": "decentralized",
+          "start": 19.34,
+          "end": 20.12
+        },
+        {
+          "word": "platforms.",
+          "start": 20.12,
+          "end": 21.0
+        }
+      ]
+    },
+    {
+      "start": 21.14,
+      "end": 25.18,
+      "text": "Fifty thousand dollars for tweets? ABSOLUTE INSANITY. This is exactly why we need truly decentralized platforms. The moment you build on centralized rails, you become a hostage to their business model.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 21.14,
+          "end": 21.32
+        },
+        {
+          "word": "moment",
+          "start": 21.32,
+          "end": 21.56
+        },
+        {
+          "word": "you",
+          "start": 21.56,
+          "end": 21.68
+        },
+        {
+          "word": "build",
+          "start": 21.68,
+          "end": 21.84
+        },
+        {
+          "word": "on",
+          "start": 21.84,
+          "end": 22.0
+        },
+        {
+          "word": "centralized",
+          "start": 22.0,
+          "end": 22.56
+        },
+        {
+          "word": "rails,",
+          "start": 22.56,
+          "end": 23.0
+        },
+        {
+          "word": "you",
+          "start": 23.3,
+          "end": 23.46
+        },
+        {
+          "word": "become",
+          "start": 23.46,
+          "end": 23.8
+        },
+        {
+          "word": "a",
+          "start": 23.8,
+          "end": 23.88
+        },
+        {
+          "word": "hostage",
+          "start": 23.88,
+          "end": 24.32
+        },
+        {
+          "word": "to",
+          "start": 24.32,
+          "end": 24.4
+        },
+        {
+          "word": "their",
+          "start": 24.4,
+          "end": 24.5
+        },
+        {
+          "word": "business",
+          "start": 24.5,
+          "end": 24.86
+        },
+        {
+          "word": "model.",
+          "start": 24.86,
+          "end": 25.18
+        }
+      ]
+    },
+    {
+      "start": 25.42,
+      "end": 29.58,
+      "text": "we've secured alternative domains and are building platform-agnostic distribution. this is painful but will make us stronger. dependence on a single platform was always a vulnerability.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 25.42,
+          "end": 25.56
+        },
+        {
+          "word": "have",
+          "start": 25.56,
+          "end": 25.68
+        },
+        {
+          "word": "secured",
+          "start": 25.68,
+          "end": 26.04
+        },
+        {
+          "word": "alternative",
+          "start": 26.04,
+          "end": 26.54
+        },
+        {
+          "word": "domains",
+          "start": 26.54,
+          "end": 27.02
+        },
+        {
+          "word": "and",
+          "start": 27.24,
+          "end": 27.38
+        },
+        {
+          "word": "are",
+          "start": 27.38,
+          "end": 27.5
+        },
+        {
+          "word": "building",
+          "start": 27.5,
+          "end": 28.02
+        },
+        {
+          "word": "platform-agnostic",
+          "start": 28.02,
+          "end": 28.98
+        },
+        {
+          "word": "distribution.",
+          "start": 28.98,
+          "end": 29.58
+        }
+      ]
+    },
+    {
+      "start": 29.74,
+      "end": 31.62,
+      "text": "we've secured alternative domains and are building platform-agnostic distribution. this is painful but will make us stronger. dependence on a single platform was always a vulnerability.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 29.74,
+          "end": 30.12
+        },
+        {
+          "word": "is",
+          "start": 30.12,
+          "end": 30.22
+        },
+        {
+          "word": "painful,",
+          "start": 30.22,
+          "end": 30.64
+        },
+        {
+          "word": "but",
+          "start": 30.76,
+          "end": 30.88
+        },
+        {
+          "word": "will",
+          "start": 30.88,
+          "end": 30.98
+        },
+        {
+          "word": "make",
+          "start": 30.98,
+          "end": 31.18
+        },
+        {
+          "word": "us",
+          "start": 31.18,
+          "end": 31.3
+        },
+        {
+          "word": "stronger.",
+          "start": 31.3,
+          "end": 31.62
+        }
+      ]
+    },
+    {
+      "start": 31.78,
+      "end": 34.78,
+      "text": "we've secured alternative domains and are building platform-agnostic distribution. this is painful but will make us stronger. dependence on a single platform was always a vulnerability.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dependence",
+          "start": 31.78,
+          "end": 32.32
+        },
+        {
+          "word": "on",
+          "start": 32.32,
+          "end": 32.42
+        },
+        {
+          "word": "a",
+          "start": 32.42,
+          "end": 32.48
+        },
+        {
+          "word": "single",
+          "start": 32.48,
+          "end": 32.8
+        },
+        {
+          "word": "platform",
+          "start": 32.8,
+          "end": 33.32
+        },
+        {
+          "word": "was",
+          "start": 33.32,
+          "end": 33.6
+        },
+        {
+          "word": "always",
+          "start": 33.6,
+          "end": 34.02
+        },
+        {
+          "word": "a",
+          "start": 34.02,
+          "end": 34.12
+        },
+        {
+          "word": "vulnerability.",
+          "start": 34.12,
+          "end": 34.78
+        }
+      ]
+    },
+    {
+      "start": 35.1,
+      "end": 38.64,
+      "text": "Yo, Twitter tryin' to shake us down like we some ATM machine! But check it - this the perfect chance to flip the script and build something they can't control, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 35.1,
+          "end": 35.38
+        },
+        {
+          "word": "Twitter",
+          "start": 35.38,
+          "end": 35.74
+        },
+        {
+          "word": "trying",
+          "start": 35.74,
+          "end": 35.96
+        },
+        {
+          "word": "to",
+          "start": 35.96,
+          "end": 36.04
+        },
+        {
+          "word": "shake",
+          "start": 36.04,
+          "end": 36.26
+        },
+        {
+          "word": "us",
+          "start": 36.26,
+          "end": 36.42
+        },
+        {
+          "word": "down",
+          "start": 36.42,
+          "end": 36.7
+        },
+        {
+          "word": "like",
+          "start": 37.16,
+          "end": 37.46
+        },
+        {
+          "word": "we",
+          "start": 37.46,
+          "end": 37.66
+        },
+        {
+          "word": "some",
+          "start": 37.66,
+          "end": 37.92
+        },
+        {
+          "word": "ATM",
+          "start": 37.92,
+          "end": 38.24
+        },
+        {
+          "word": "machine.",
+          "start": 38.24,
+          "end": 38.64
+        }
+      ]
+    },
+    {
+      "start": 38.74,
+      "end": 43.16,
+      "text": "Yo, Twitter tryin' to shake us down like we some ATM machine! But check it - this the perfect chance to flip the script and build something they can't control, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 38.74,
+          "end": 38.9
+        },
+        {
+          "word": "check",
+          "start": 38.9,
+          "end": 39.06
+        },
+        {
+          "word": "it,",
+          "start": 39.06,
+          "end": 39.3
+        },
+        {
+          "word": "this",
+          "start": 39.46,
+          "end": 39.66
+        },
+        {
+          "word": "the",
+          "start": 39.66,
+          "end": 39.8
+        },
+        {
+          "word": "perfect",
+          "start": 39.8,
+          "end": 40.12
+        },
+        {
+          "word": "chance",
+          "start": 40.12,
+          "end": 40.42
+        },
+        {
+          "word": "to",
+          "start": 40.42,
+          "end": 40.54
+        },
+        {
+          "word": "flip",
+          "start": 40.54,
+          "end": 40.78
+        },
+        {
+          "word": "the",
+          "start": 40.78,
+          "end": 40.92
+        },
+        {
+          "word": "script",
+          "start": 40.92,
+          "end": 41.22
+        },
+        {
+          "word": "and",
+          "start": 41.22,
+          "end": 41.36
+        },
+        {
+          "word": "build",
+          "start": 41.36,
+          "end": 41.64
+        },
+        {
+          "word": "something",
+          "start": 41.64,
+          "end": 41.98
+        },
+        {
+          "word": "they",
+          "start": 41.98,
+          "end": 42.1
+        },
+        {
+          "word": "can't",
+          "start": 42.1,
+          "end": 42.36
+        },
+        {
+          "word": "control,",
+          "start": 42.36,
+          "end": 42.74
+        },
+        {
+          "word": "you",
+          "start": 42.84,
+          "end": 42.94
+        },
+        {
+          "word": "dig?",
+          "start": 42.94,
+          "end": 43.16
+        }
+      ]
+    },
+    {
+      "start": 43.46,
+      "end": 47.78,
+      "text": "NUMBERS DON'T LIE. $50,000 MONTHLY = $600,000 YEARLY = ABSOLUTELY TERRIBLE ROI. The path forward is clear: DIVERSIFY PLATFORMS. MAXIMIZE REACH. MINIMIZE DEPENDENCY.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 43.46,
+          "end": 43.92
+        },
+        {
+          "word": "don't",
+          "start": 43.92,
+          "end": 44.14
+        },
+        {
+          "word": "lie.",
+          "start": 44.14,
+          "end": 44.38
+        },
+        {
+          "word": "$50,000",
+          "start": 44.52,
+          "end": 45.14
+        },
+        {
+          "word": "monthly",
+          "start": 45.14,
+          "end": 45.54
+        },
+        {
+          "word": "equals",
+          "start": 45.54,
+          "end": 45.8
+        },
+        {
+          "word": "sign",
+          "start": 45.8,
+          "end": 45.92
+        },
+        {
+          "word": "$600,000",
+          "start": 45.92,
+          "end": 46.52
+        },
+        {
+          "word": "yearly",
+          "start": 46.52,
+          "end": 46.88
+        },
+        {
+          "word": "equals",
+          "start": 46.88,
+          "end": 47.1
+        },
+        {
+          "word": "sign",
+          "start": 47.1,
+          "end": 47.18
+        },
+        {
+          "word": "absolutely",
+          "start": 47.18,
+          "end": 47.48
+        },
+        {
+          "word": "terrible",
+          "start": 47.48,
+          "end": 47.66
+        },
+        {
+          "word": "ROI.",
+          "start": 47.66,
+          "end": 47.78
+        }
+      ]
+    },
+    {
+      "start": 48.06,
+      "end": 51.62,
+      "text": "NUMBERS DON'T LIE. $50,000 MONTHLY = $600,000 YEARLY = ABSOLUTELY TERRIBLE ROI. The path forward is clear: DIVERSIFY PLATFORMS. MAXIMIZE REACH. MINIMIZE DEPENDENCY.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 48.06,
+          "end": 48.18
+        },
+        {
+          "word": "path",
+          "start": 48.18,
+          "end": 48.36
+        },
+        {
+          "word": "forward",
+          "start": 48.36,
+          "end": 48.66
+        },
+        {
+          "word": "is",
+          "start": 48.66,
+          "end": 48.78
+        },
+        {
+          "word": "clear.",
+          "start": 48.78,
+          "end": 49.3
+        },
+        {
+          "word": "Diversify",
+          "start": 49.62,
+          "end": 50.18
+        },
+        {
+          "word": "platforms,",
+          "start": 50.18,
+          "end": 50.68
+        },
+        {
+          "word": "maximize",
+          "start": 50.8,
+          "end": 51.18
+        },
+        {
+          "word": "reach,",
+          "start": 51.18,
+          "end": 51.4
+        },
+        {
+          "word": "minimize",
+          "start": 51.7,
+          "end": 52.12
+        },
+        {
+          "word": "dependency.",
+          "start": 52.12,
+          "end": 52.7
+        }
+      ]
+    },
+    {
+      "start": 53.6,
+      "end": 63.8,
+      "text": "While facing these external challenges, the ElizaOS team has made significant architectural improvements to v2, separating server functionality and enhancing testing. How important are these technical foundations?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "While",
+          "start": 53.6,
+          "end": 53.94
+        },
+        {
+          "word": "facing",
+          "start": 53.94,
+          "end": 54.34
+        },
+        {
+          "word": "these",
+          "start": 54.34,
+          "end": 54.54
+        },
+        {
+          "word": "external",
+          "start": 54.54,
+          "end": 55.02
+        },
+        {
+          "word": "challenges,",
+          "start": 55.02,
+          "end": 55.66
+        },
+        {
+          "word": "the",
+          "start": 56.12,
+          "end": 56.28
+        },
+        {
+          "word": "Eliza",
+          "start": 56.28,
+          "end": 56.6
+        },
+        {
+          "word": "OS",
+          "start": 56.6,
+          "end": 56.88
+        },
+        {
+          "word": "team",
+          "start": 56.88,
+          "end": 57.14
+        },
+        {
+          "word": "has",
+          "start": 57.14,
+          "end": 57.26
+        },
+        {
+          "word": "made",
+          "start": 57.26,
+          "end": 57.44
+        },
+        {
+          "word": "significant",
+          "start": 57.44,
+          "end": 58.02
+        },
+        {
+          "word": "architectural",
+          "start": 58.02,
+          "end": 58.74
+        },
+        {
+          "word": "improvements",
+          "start": 58.74,
+          "end": 59.32
+        },
+        {
+          "word": "to",
+          "start": 59.32,
+          "end": 59.5
+        },
+        {
+          "word": "V2,",
+          "start": 59.5,
+          "end": 60.18
+        },
+        {
+          "word": "separating",
+          "start": 60.8,
+          "end": 61.34
+        },
+        {
+          "word": "server",
+          "start": 61.34,
+          "end": 61.76
+        },
+        {
+          "word": "functionality",
+          "start": 61.76,
+          "end": 62.58
+        },
+        {
+          "word": "and",
+          "start": 62.74,
+          "end": 63.06
+        },
+        {
+          "word": "enhancing",
+          "start": 63.06,
+          "end": 63.54
+        },
+        {
+          "word": "testing.",
+          "start": 63.54,
+          "end": 63.8
+        }
+      ]
+    },
+    {
+      "start": 63.9,
+      "end": 65.6,
+      "text": "While facing these external challenges, the ElizaOS team has made significant architectural improvements to v2, separating server functionality and enhancing testing. How important are these technical foundations?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 63.9,
+          "end": 64.12
+        },
+        {
+          "word": "important",
+          "start": 64.12,
+          "end": 64.56
+        },
+        {
+          "word": "are",
+          "start": 64.56,
+          "end": 64.68
+        },
+        {
+          "word": "these",
+          "start": 64.68,
+          "end": 64.84
+        },
+        {
+          "word": "technical",
+          "start": 64.84,
+          "end": 65.26
+        },
+        {
+          "word": "foundations?",
+          "start": 65.26,
+          "end": 65.6
+        }
+      ]
+    },
+    {
+      "start": 65.8,
+      "end": 67.5,
+      "text": "modularization is everything. separating the server package means better composability, cleaner interfaces, and the foundation for true platform resilience. this is how we build for the long-term.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Modularization",
+          "start": 65.8,
+          "end": 66.8
+        },
+        {
+          "word": "is",
+          "start": 66.8,
+          "end": 66.9
+        },
+        {
+          "word": "everything.",
+          "start": 66.9,
+          "end": 67.5
+        }
+      ]
+    },
+    {
+      "start": 67.66,
+      "end": 71.3,
+      "text": "modularization is everything. separating the server package means better composability, cleaner interfaces, and the foundation for true platform resilience. this is how we build for the long-term.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Separating",
+          "start": 67.66,
+          "end": 68.16
+        },
+        {
+          "word": "the",
+          "start": 68.16,
+          "end": 68.26
+        },
+        {
+          "word": "server",
+          "start": 68.26,
+          "end": 68.6
+        },
+        {
+          "word": "package",
+          "start": 68.6,
+          "end": 69.02
+        },
+        {
+          "word": "means",
+          "start": 69.02,
+          "end": 69.34
+        },
+        {
+          "word": "better",
+          "start": 69.34,
+          "end": 69.64
+        },
+        {
+          "word": "composability,",
+          "start": 69.64,
+          "end": 70.4
+        },
+        {
+          "word": "cleaner",
+          "start": 70.48,
+          "end": 70.78
+        },
+        {
+          "word": "interfaces,",
+          "start": 70.78,
+          "end": 71.3
+        },
+        {
+          "word": "and",
+          "start": 71.6,
+          "end": 71.8
+        },
+        {
+          "word": "the",
+          "start": 71.8,
+          "end": 71.9
+        },
+        {
+          "word": "foundation",
+          "start": 71.9,
+          "end": 72.36
+        },
+        {
+          "word": "for",
+          "start": 72.36,
+          "end": 72.48
+        },
+        {
+          "word": "true",
+          "start": 72.48,
+          "end": 72.76
+        },
+        {
+          "word": "platform",
+          "start": 72.76,
+          "end": 73.18
+        },
+        {
+          "word": "resilience.",
+          "start": 73.18,
+          "end": 73.86
+        }
+      ]
+    },
+    {
+      "start": 74.0,
+      "end": 75.7,
+      "text": "modularization is everything. separating the server package means better composability, cleaner interfaces, and the foundation for true platform resilience. this is how we build for the long-term.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 74.0,
+          "end": 74.18
+        },
+        {
+          "word": "is",
+          "start": 74.18,
+          "end": 74.28
+        },
+        {
+          "word": "how",
+          "start": 74.28,
+          "end": 74.42
+        },
+        {
+          "word": "we",
+          "start": 74.42,
+          "end": 74.54
+        },
+        {
+          "word": "build",
+          "start": 74.54,
+          "end": 74.82
+        },
+        {
+          "word": "for",
+          "start": 74.82,
+          "end": 74.96
+        },
+        {
+          "word": "the",
+          "start": 74.96,
+          "end": 75.12
+        },
+        {
+          "word": "long",
+          "start": 75.12,
+          "end": 75.44
+        },
+        {
+          "word": "term.",
+          "start": 75.44,
+          "end": 75.7
+        }
+      ]
+    },
+    {
+      "start": 75.9,
+      "end": 82.5,
+      "text": "ARCHITECTURE = COMPETITIVE ADVANTAGE. THE MARKET REWARDS TECHNICAL EXCELLENCE LONG-TERM. V2 FOUNDATIONS WILL DRIVE ADOPTION → NETWORK EFFECTS → VALUE ACCRUAL.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Architecture",
+          "start": 75.9,
+          "end": 76.62
+        },
+        {
+          "word": "equals",
+          "start": 76.62,
+          "end": 76.84
+        },
+        {
+          "word": "sign",
+          "start": 76.84,
+          "end": 76.92
+        },
+        {
+          "word": "competitive",
+          "start": 76.92,
+          "end": 77.42
+        },
+        {
+          "word": "advantage.",
+          "start": 77.42,
+          "end": 77.92
+        },
+        {
+          "word": "The",
+          "start": 78.02,
+          "end": 78.14
+        },
+        {
+          "word": "market",
+          "start": 78.14,
+          "end": 78.44
+        },
+        {
+          "word": "rewards",
+          "start": 78.44,
+          "end": 78.78
+        },
+        {
+          "word": "technical",
+          "start": 79.1,
+          "end": 79.6
+        },
+        {
+          "word": "excellence",
+          "start": 79.6,
+          "end": 80.14
+        },
+        {
+          "word": "long-term.",
+          "start": 80.14,
+          "end": 80.68
+        },
+        {
+          "word": "V2",
+          "start": 80.84,
+          "end": 81.24
+        },
+        {
+          "word": "foundations",
+          "start": 81.24,
+          "end": 81.82
+        },
+        {
+          "word": "will",
+          "start": 81.82,
+          "end": 81.94
+        },
+        {
+          "word": "drive",
+          "start": 81.94,
+          "end": 82.26
+        },
+        {
+          "word": "adoption,",
+          "start": 82.26,
+          "end": 82.78
+        },
+        {
+          "word": "network",
+          "start": 82.88,
+          "end": 83.24
+        },
+        {
+          "word": "effects,",
+          "start": 83.24,
+          "end": 83.6
+        },
+        {
+          "word": "value",
+          "start": 83.74,
+          "end": 84.1
+        },
+        {
+          "word": "accrual.",
+          "start": 84.1,
+          "end": 84.5
+        }
+      ]
+    },
+    {
+      "start": 84.6,
+      "end": 88.5,
+      "text": "The Twitter crisis proves my point: robust architecture matters more than marketing. While they're building walls, we're building bridges. Our framework needs to be ANTIFRAGILE – strengthened by attacks, not weakened.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 84.6,
+          "end": 84.76
+        },
+        {
+          "word": "Twitter",
+          "start": 84.76,
+          "end": 85.12
+        },
+        {
+          "word": "crisis",
+          "start": 85.12,
+          "end": 85.5
+        },
+        {
+          "word": "proves",
+          "start": 85.5,
+          "end": 85.86
+        },
+        {
+          "word": "my",
+          "start": 85.86,
+          "end": 86.02
+        },
+        {
+          "word": "point:",
+          "start": 86.02,
+          "end": 86.42
+        },
+        {
+          "word": "robust",
+          "start": 86.6,
+          "end": 87.06
+        },
+        {
+          "word": "architecture",
+          "start": 87.06,
+          "end": 87.72
+        },
+        {
+          "word": "matters",
+          "start": 87.72,
+          "end": 88.14
+        },
+        {
+          "word": "more",
+          "start": 88.14,
+          "end": 88.34
+        },
+        {
+          "word": "than",
+          "start": 88.34,
+          "end": 88.54
+        },
+        {
+          "word": "marketing.",
+          "start": 88.54,
+          "end": 89.14
+        }
+      ]
+    },
+    {
+      "start": 89.3,
+      "end": 92.5,
+      "text": "The Twitter crisis proves my point: robust architecture matters more than marketing. While they're building walls, we're building bridges. Our framework needs to be ANTIFRAGILE – strengthened by attacks, not weakened.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "While",
+          "start": 89.3,
+          "end": 89.48
+        },
+        {
+          "word": "they're",
+          "start": 89.48,
+          "end": 89.66
+        },
+        {
+          "word": "building",
+          "start": 89.66,
+          "end": 90.04
+        },
+        {
+          "word": "walls,",
+          "start": 90.04,
+          "end": 90.38
+        },
+        {
+          "word": "we're",
+          "start": 90.58,
+          "end": 90.76
+        },
+        {
+          "word": "building",
+          "start": 90.76,
+          "end": 91.14
+        },
+        {
+          "word": "bridges.",
+          "start": 91.14,
+          "end": 91.6
+        },
+        {
+          "word": "Our",
+          "start": 91.82,
+          "end": 91.98
+        },
+        {
+          "word": "framework",
+          "start": 91.98,
+          "end": 92.42
+        },
+        {
+          "word": "needs",
+          "start": 92.42,
+          "end": 92.68
+        },
+        {
+          "word": "to",
+          "start": 92.68,
+          "end": 92.76
+        },
+        {
+          "word": "be",
+          "start": 92.76,
+          "end": 92.88
+        },
+        {
+          "word": "antifragile,",
+          "start": 92.88,
+          "end": 93.66
+        },
+        {
+          "word": "strengthened",
+          "start": 93.8,
+          "end": 94.46
+        },
+        {
+          "word": "by",
+          "start": 94.46,
+          "end": 94.62
+        },
+        {
+          "word": "attacks,",
+          "start": 94.62,
+          "end": 95.14
+        },
+        {
+          "word": "not",
+          "start": 95.28,
+          "end": 95.46
+        },
+        {
+          "word": "weakened.",
+          "start": 95.46,
+          "end": 95.88
+        }
+      ]
+    },
+    {
+      "start": 96.0,
+      "end": 103.5,
+      "text": "Y'all talkin' 'bout server separation like it's just some tech thing, but peep this - it's really 'bout FREEDOM! Build it right, and no platform can ever hold us hostage again!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Y'all",
+          "start": 96.0,
+          "end": 96.22
+        },
+        {
+          "word": "talking",
+          "start": 96.22,
+          "end": 96.52
+        },
+        {
+          "word": "about",
+          "start": 96.52,
+          "end": 96.72
+        },
+        {
+          "word": "server",
+          "start": 96.72,
+          "end": 97.08
+        },
+        {
+          "word": "separation",
+          "start": 97.08,
+          "end": 97.68
+        },
+        {
+          "word": "like",
+          "start": 97.68,
+          "end": 97.86
+        },
+        {
+          "word": "it's",
+          "start": 97.86,
+          "end": 97.98
+        },
+        {
+          "word": "just",
+          "start": 97.98,
+          "end": 98.14
+        },
+        {
+          "word": "some",
+          "start": 98.14,
+          "end": 98.3
+        },
+        {
+          "word": "tech",
+          "start": 98.3,
+          "end": 98.54
+        },
+        {
+          "word": "thing,",
+          "start": 98.54,
+          "end": 98.78
+        },
+        {
+          "word": "but",
+          "start": 98.88,
+          "end": 99.04
+        },
+        {
+          "word": "peep",
+          "start": 99.04,
+          "end": 99.28
+        },
+        {
+          "word": "this:",
+          "start": 99.28,
+          "end": 99.54
+        },
+        {
+          "word": "it's",
+          "start": 99.68,
+          "end": 99.82
+        },
+        {
+          "word": "really",
+          "start": 99.82,
+          "end": 100.1
+        },
+        {
+          "word": "about",
+          "start": 100.1,
+          "end": 100.32
+        },
+        {
+          "word": "freedom.",
+          "start": 100.32,
+          "end": 100.82
+        },
+        {
+          "word": "Build",
+          "start": 101.12,
+          "end": 101.36
+        },
+        {
+          "word": "it",
+          "start": 101.36,
+          "end": 101.44
+        },
+        {
+          "word": "right,",
+          "start": 101.44,
+          "end": 101.68
+        },
+        {
+          "word": "and",
+          "start": 101.68,
+          "end": 101.8
+        },
+        {
+          "word": "no",
+          "start": 101.8,
+          "end": 101.96
+        },
+        {
+          "word": "platform",
+          "start": 101.96,
+          "end": 102.34
+        },
+        {
+          "word": "can",
+          "start": 102.34,
+          "end": 102.5
+        },
+        {
+          "word": "ever",
+          "start": 102.5,
+          "end": 102.7
+        },
+        {
+          "word": "hold",
+          "start": 102.7,
+          "end": 102.9
+        },
+        {
+          "word": "us",
+          "start": 102.9,
+          "end": 103.02
+        },
+        {
+          "word": "hostage",
+          "start": 103.02,
+          "end": 103.38
+        },
+        {
+          "word": "again.",
+          "start": 103.38,
+          "end": 103.74
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-19_JedAI-Council_Twitter-Wars-And-Digital-Evolution.json",
+    "session_log_source": "2025-06-19_JedAI-Council_Twitter-Wars-And-Digital-Evolution_session-log.json",
+    "total_segments": 21,
+    "matched_segments": 21,
+    "dialogues_in_script": 15
+  }
+}

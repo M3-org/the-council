@@ -1,0 +1,2062 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "Welcome to the JedAI Council! Today we're discussing the ElizaOS token migration challenges. Some users are quite upset about Bithumb's handling of the situation.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.0,
+          "end": 0.44
+        },
+        {
+          "word": "to",
+          "start": 0.44,
+          "end": 0.52
+        },
+        {
+          "word": "the",
+          "start": 0.52,
+          "end": 0.62
+        },
+        {
+          "word": "J-E-D-I",
+          "start": 0.62,
+          "end": 1.25
+        },
+        {
+          "word": "Council.",
+          "start": 1.25,
+          "end": 1.62
+        }
+      ]
+    },
+    {
+      "start": 1.62,
+      "end": 6.82,
+      "text": "Welcome to the JedAI Council! Today we're discussing the ElizaOS token migration challenges. Some users are quite upset about Bithumb's handling of the situation.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 1.62,
+          "end": 1.94
+        },
+        {
+          "word": "we're",
+          "start": 1.94,
+          "end": 2.06
+        },
+        {
+          "word": "discussing",
+          "start": 2.06,
+          "end": 2.5
+        },
+        {
+          "word": "the",
+          "start": 2.5,
+          "end": 2.6
+        },
+        {
+          "word": "Eliza",
+          "start": 2.6,
+          "end": 3.0
+        },
+        {
+          "word": "OS",
+          "start": 3.0,
+          "end": 3.22
+        },
+        {
+          "word": "token",
+          "start": 3.22,
+          "end": 3.65
+        },
+        {
+          "word": "migration",
+          "start": 3.65,
+          "end": 4.14
+        },
+        {
+          "word": "challenges.",
+          "start": 4.14,
+          "end": 4.7
+        }
+      ]
+    },
+    {
+      "start": 4.7,
+      "end": 7.82,
+      "text": "Welcome to the JedAI Council! Today we're discussing the ElizaOS token migration challenges. Some users are quite upset about Bithumb's handling of the situation.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Some",
+          "start": 4.7,
+          "end": 4.96
+        },
+        {
+          "word": "users",
+          "start": 4.96,
+          "end": 5.4
+        },
+        {
+          "word": "are",
+          "start": 5.4,
+          "end": 5.52
+        },
+        {
+          "word": "quite",
+          "start": 5.52,
+          "end": 5.86
+        },
+        {
+          "word": "upset",
+          "start": 5.86,
+          "end": 6.22
+        },
+        {
+          "word": "about",
+          "start": 6.22,
+          "end": 6.44
+        },
+        {
+          "word": "Bithumb's",
+          "start": 6.44,
+          "end": 6.9
+        },
+        {
+          "word": "handling",
+          "start": 6.9,
+          "end": 7.3
+        },
+        {
+          "word": "of",
+          "start": 7.3,
+          "end": 7.42
+        },
+        {
+          "word": "the",
+          "start": 7.42,
+          "end": 7.52
+        },
+        {
+          "word": "situation.",
+          "start": 7.52,
+          "end": 7.82
+        }
+      ]
+    },
+    {
+      "start": 7.82,
+      "end": 13.9,
+      "text": "Users on Discord report 'max amount reached' errors and confusion about tokens purchased after the snapshot date. How should we approach exchange miscommunications?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 7.82,
+          "end": 8.16
+        },
+        {
+          "word": "on",
+          "start": 8.16,
+          "end": 8.24
+        },
+        {
+          "word": "Discord",
+          "start": 8.24,
+          "end": 8.68
+        },
+        {
+          "word": "report",
+          "start": 8.68,
+          "end": 9.08
+        },
+        {
+          "word": "\"max",
+          "start": 9.08,
+          "end": 9.38
+        },
+        {
+          "word": "amount",
+          "start": 9.38,
+          "end": 9.7
+        },
+        {
+          "word": "reached\"",
+          "start": 9.7,
+          "end": 10.02
+        },
+        {
+          "word": "errors",
+          "start": 10.02,
+          "end": 10.42
+        },
+        {
+          "word": "and",
+          "start": 10.42,
+          "end": 10.64
+        },
+        {
+          "word": "confusion",
+          "start": 10.64,
+          "end": 11.14
+        },
+        {
+          "word": "about",
+          "start": 11.14,
+          "end": 11.38
+        },
+        {
+          "word": "tokens",
+          "start": 11.38,
+          "end": 11.7
+        },
+        {
+          "word": "purchased",
+          "start": 11.7,
+          "end": 12.16
+        },
+        {
+          "word": "after",
+          "start": 12.16,
+          "end": 12.44
+        },
+        {
+          "word": "the",
+          "start": 12.44,
+          "end": 12.56
+        },
+        {
+          "word": "snapshot",
+          "start": 12.56,
+          "end": 13.0
+        },
+        {
+          "word": "date.",
+          "start": 13.0,
+          "end": 13.22
+        }
+      ]
+    },
+    {
+      "start": 13.22,
+      "end": 16.24,
+      "text": "Users on Discord report 'max amount reached' errors and confusion about tokens purchased after the snapshot date. How should we approach exchange miscommunications?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 13.22,
+          "end": 13.4
+        },
+        {
+          "word": "should",
+          "start": 13.4,
+          "end": 13.56
+        },
+        {
+          "word": "we",
+          "start": 13.56,
+          "end": 13.66
+        },
+        {
+          "word": "approach",
+          "start": 13.66,
+          "end": 14.04
+        },
+        {
+          "word": "exchange",
+          "start": 14.04,
+          "end": 14.5
+        },
+        {
+          "word": "miscommunications?",
+          "start": 14.5,
+          "end": 15.36
+        }
+      ]
+    },
+    {
+      "start": 16.24,
+      "end": 18.24,
+      "text": "Simple. Hold the line on the snapshot date. Markets need clear rules. If you make exceptions, you create moral hazard. Numbers don't lie, people do.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Simple.",
+          "start": 16.24,
+          "end": 16.82
+        },
+        {
+          "word": "Hold",
+          "start": 16.82,
+          "end": 17.06
+        },
+        {
+          "word": "the",
+          "start": 17.06,
+          "end": 17.18
+        },
+        {
+          "word": "line",
+          "start": 17.18,
+          "end": 17.42
+        },
+        {
+          "word": "on",
+          "start": 17.42,
+          "end": 17.52
+        },
+        {
+          "word": "the",
+          "start": 17.52,
+          "end": 17.62
+        },
+        {
+          "word": "snapshot",
+          "start": 17.62,
+          "end": 18.04
+        },
+        {
+          "word": "date.",
+          "start": 18.04,
+          "end": 18.24
+        }
+      ]
+    },
+    {
+      "start": 18.24,
+      "end": 20.3,
+      "text": "Simple. Hold the line on the snapshot date. Markets need clear rules. If you make exceptions, you create moral hazard. Numbers don't lie, people do.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 18.24,
+          "end": 18.72
+        },
+        {
+          "word": "need",
+          "start": 18.72,
+          "end": 18.96
+        },
+        {
+          "word": "clear",
+          "start": 18.96,
+          "end": 19.34
+        },
+        {
+          "word": "rules.",
+          "start": 19.34,
+          "end": 19.68
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 23.4,
+      "text": "Simple. Hold the line on the snapshot date. Markets need clear rules. If you make exceptions, you create moral hazard. Numbers don't lie, people do.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "If",
+          "start": 20.3,
+          "end": 20.44
+        },
+        {
+          "word": "you",
+          "start": 20.44,
+          "end": 20.54
+        },
+        {
+          "word": "make",
+          "start": 20.54,
+          "end": 20.82
+        },
+        {
+          "word": "exceptions,",
+          "start": 20.82,
+          "end": 21.46
+        },
+        {
+          "word": "you",
+          "start": 21.46,
+          "end": 21.58
+        },
+        {
+          "word": "create",
+          "start": 21.58,
+          "end": 21.96
+        },
+        {
+          "word": "moral",
+          "start": 21.96,
+          "end": 22.36
+        },
+        {
+          "word": "hazard.",
+          "start": 22.36,
+          "end": 22.84
+        }
+      ]
+    },
+    {
+      "start": 23.4,
+      "end": 26.1,
+      "text": "Simple. Hold the line on the snapshot date. Markets need clear rules. If you make exceptions, you create moral hazard. Numbers don't lie, people do.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 23.4,
+          "end": 23.94
+        },
+        {
+          "word": "don't",
+          "start": 23.94,
+          "end": 24.32
+        },
+        {
+          "word": "lie,",
+          "start": 24.32,
+          "end": 24.58
+        },
+        {
+          "word": "people",
+          "start": 24.58,
+          "end": 25.04
+        },
+        {
+          "word": "do.",
+          "start": 25.04,
+          "end": 25.26
+        }
+      ]
+    },
+    {
+      "start": 26.1,
+      "end": 28.5,
+      "text": "Disagree. This is a classic coordination problem. The value of the network depends on user trust. Better to offer partial compensation than lose community goodwill. The token is worthless without its community.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Disagree.",
+          "start": 26.1,
+          "end": 26.74
+        },
+        {
+          "word": "This",
+          "start": 26.74,
+          "end": 27.02
+        },
+        {
+          "word": "is",
+          "start": 27.02,
+          "end": 27.2
+        },
+        {
+          "word": "a",
+          "start": 27.2,
+          "end": 27.28
+        },
+        {
+          "word": "classic",
+          "start": 27.28,
+          "end": 27.76
+        },
+        {
+          "word": "coordination",
+          "start": 27.76,
+          "end": 28.26
+        },
+        {
+          "word": "problem.",
+          "start": 28.26,
+          "end": 28.62
+        }
+      ]
+    },
+    {
+      "start": 28.5,
+      "end": 31.6,
+      "text": "Disagree. This is a classic coordination problem. The value of the network depends on user trust. Better to offer partial compensation than lose community goodwill. The token is worthless without its community.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 28.5,
+          "end": 28.7
+        },
+        {
+          "word": "value",
+          "start": 28.7,
+          "end": 28.98
+        },
+        {
+          "word": "of",
+          "start": 28.98,
+          "end": 29.12
+        },
+        {
+          "word": "the",
+          "start": 29.12,
+          "end": 29.24
+        },
+        {
+          "word": "network",
+          "start": 29.24,
+          "end": 29.74
+        },
+        {
+          "word": "depends",
+          "start": 29.74,
+          "end": 30.16
+        },
+        {
+          "word": "on",
+          "start": 30.16,
+          "end": 30.34
+        },
+        {
+          "word": "user",
+          "start": 30.34,
+          "end": 30.76
+        },
+        {
+          "word": "trust.",
+          "start": 30.76,
+          "end": 31.06
+        }
+      ]
+    },
+    {
+      "start": 31.6,
+      "end": 35.5,
+      "text": "Disagree. This is a classic coordination problem. The value of the network depends on user trust. Better to offer partial compensation than lose community goodwill. The token is worthless without its community.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Better",
+          "start": 31.6,
+          "end": 31.98
+        },
+        {
+          "word": "to",
+          "start": 31.98,
+          "end": 32.14
+        },
+        {
+          "word": "offer",
+          "start": 32.14,
+          "end": 32.44
+        },
+        {
+          "word": "partial",
+          "start": 32.44,
+          "end": 32.96
+        },
+        {
+          "word": "compensation",
+          "start": 32.96,
+          "end": 33.68
+        },
+        {
+          "word": "than",
+          "start": 33.68,
+          "end": 33.94
+        },
+        {
+          "word": "lose",
+          "start": 33.94,
+          "end": 34.26
+        },
+        {
+          "word": "community",
+          "start": 34.26,
+          "end": 34.78
+        },
+        {
+          "word": "goodwill.",
+          "start": 34.78,
+          "end": 35.34
+        }
+      ]
+    },
+    {
+      "start": 35.5,
+      "end": 38.0,
+      "text": "Disagree. This is a classic coordination problem. The value of the network depends on user trust. Better to offer partial compensation than lose community goodwill. The token is worthless without its community.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 35.5,
+          "end": 35.66
+        },
+        {
+          "word": "token",
+          "start": 35.66,
+          "end": 36.02
+        },
+        {
+          "word": "is",
+          "start": 36.02,
+          "end": 36.18
+        },
+        {
+          "word": "worthless",
+          "start": 36.18,
+          "end": 36.72
+        },
+        {
+          "word": "without",
+          "start": 36.72,
+          "end": 37.06
+        },
+        {
+          "word": "its",
+          "start": 37.06,
+          "end": 37.22
+        },
+        {
+          "word": "community.",
+          "start": 37.22,
+          "end": 37.82
+        }
+      ]
+    },
+    {
+      "start": 38.0,
+      "end": 44.0,
+      "text": "Yo, the vibes are off, my dudes! Maybe we need a hybrid approach? Transparency about what happened plus a special process for verified victims? The meme potential of 'Migration Salvation' could turn this L into a W.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 38.0,
+          "end": 38.3
+        },
+        {
+          "word": "the",
+          "start": 38.3,
+          "end": 38.4
+        },
+        {
+          "word": "vibes",
+          "start": 38.4,
+          "end": 38.74
+        },
+        {
+          "word": "are",
+          "start": 38.74,
+          "end": 38.86
+        },
+        {
+          "word": "off",
+          "start": 38.86,
+          "end": 39.06
+        },
+        {
+          "word": "my",
+          "start": 39.06,
+          "end": 39.24
+        },
+        {
+          "word": "dudes",
+          "start": 39.24,
+          "end": 39.7
+        },
+        {
+          "word": "maybe",
+          "start": 39.7,
+          "end": 39.92
+        },
+        {
+          "word": "we",
+          "start": 39.92,
+          "end": 40.04
+        },
+        {
+          "word": "need",
+          "start": 40.04,
+          "end": 40.2
+        },
+        {
+          "word": "a",
+          "start": 40.2,
+          "end": 40.26
+        },
+        {
+          "word": "hybrid",
+          "start": 40.26,
+          "end": 40.68
+        },
+        {
+          "word": "approach?",
+          "start": 40.68,
+          "end": 41.2
+        }
+      ]
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": "Yo, the vibes are off, my dudes! Maybe we need a hybrid approach? Transparency about what happened plus a special process for verified victims? The meme potential of 'Migration Salvation' could turn this L into a W.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Transparency",
+          "start": 41.2,
+          "end": 41.98
+        },
+        {
+          "word": "about",
+          "start": 41.98,
+          "end": 42.18
+        },
+        {
+          "word": "what",
+          "start": 42.18,
+          "end": 42.4
+        },
+        {
+          "word": "happened",
+          "start": 42.4,
+          "end": 42.82
+        },
+        {
+          "word": "plus",
+          "start": 42.82,
+          "end": 43.1
+        },
+        {
+          "word": "a",
+          "start": 43.1,
+          "end": 43.18
+        },
+        {
+          "word": "special",
+          "start": 43.18,
+          "end": 43.62
+        },
+        {
+          "word": "process",
+          "start": 43.62,
+          "end": 44.06
+        },
+        {
+          "word": "for",
+          "start": 44.06,
+          "end": 44.24
+        },
+        {
+          "word": "verified",
+          "start": 44.24,
+          "end": 44.7
+        },
+        {
+          "word": "victims.",
+          "start": 44.7,
+          "end": 45.16
+        }
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 50.8,
+      "text": "Yo, the vibes are off, my dudes! Maybe we need a hybrid approach? Transparency about what happened plus a special process for verified victims? The meme potential of 'Migration Salvation' could turn this L into a W.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 45.16,
+          "end": 45.28
+        },
+        {
+          "word": "meme",
+          "start": 45.28,
+          "end": 45.62
+        },
+        {
+          "word": "potential",
+          "start": 45.62,
+          "end": 46.16
+        },
+        {
+          "word": "of",
+          "start": 46.16,
+          "end": 46.28
+        },
+        {
+          "word": "migration",
+          "start": 46.28,
+          "end": 46.78
+        },
+        {
+          "word": "salvation",
+          "start": 46.78,
+          "end": 47.4
+        },
+        {
+          "word": "could",
+          "start": 47.4,
+          "end": 47.62
+        },
+        {
+          "word": "turn",
+          "start": 47.62,
+          "end": 47.88
+        },
+        {
+          "word": "this",
+          "start": 47.88,
+          "end": 48.08
+        },
+        {
+          "word": "L",
+          "start": 48.08,
+          "end": 48.24
+        },
+        {
+          "word": "into",
+          "start": 48.24,
+          "end": 48.44
+        },
+        {
+          "word": "a",
+          "start": 48.44,
+          "end": 48.5
+        },
+        {
+          "word": "W.",
+          "start": 48.5,
+          "end": 48.8
+        }
+      ]
+    },
+    {
+      "start": 50.8,
+      "end": 53.6,
+      "text": "building in public means owning our mistakes. publish all exchange communications, create a community vote for resolution options, and ship a better process for next time. transparency creates trust.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Building",
+          "start": 48.8,
+          "end": 49.32
+        },
+        {
+          "word": "in",
+          "start": 49.32,
+          "end": 49.44
+        },
+        {
+          "word": "public",
+          "start": 49.44,
+          "end": 49.82
+        },
+        {
+          "word": "means",
+          "start": 49.82,
+          "end": 50.14
+        },
+        {
+          "word": "owning",
+          "start": 50.14,
+          "end": 50.5
+        },
+        {
+          "word": "our",
+          "start": 50.5,
+          "end": 50.64
+        },
+        {
+          "word": "mistakes.",
+          "start": 50.64,
+          "end": 51.14
+        }
+      ]
+    },
+    {
+      "start": 53.6,
+      "end": 58.5,
+      "text": "building in public means owning our mistakes. publish all exchange communications, create a community vote for resolution options, and ship a better process for next time. transparency creates trust.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Publish",
+          "start": 51.14,
+          "end": 51.58
+        },
+        {
+          "word": "all",
+          "start": 51.58,
+          "end": 51.8
+        },
+        {
+          "word": "exchange",
+          "start": 51.8,
+          "end": 52.32
+        },
+        {
+          "word": "communications,",
+          "start": 52.32,
+          "end": 53.28
+        },
+        {
+          "word": "create",
+          "start": 53.28,
+          "end": 53.68
+        },
+        {
+          "word": "a",
+          "start": 53.68,
+          "end": 53.76
+        },
+        {
+          "word": "community",
+          "start": 53.76,
+          "end": 54.34
+        },
+        {
+          "word": "vote",
+          "start": 54.34,
+          "end": 54.66
+        },
+        {
+          "word": "for",
+          "start": 54.66,
+          "end": 54.82
+        },
+        {
+          "word": "resolution",
+          "start": 54.82,
+          "end": 55.44
+        },
+        {
+          "word": "options,",
+          "start": 55.44,
+          "end": 55.94
+        },
+        {
+          "word": "and",
+          "start": 55.94,
+          "end": 56.16
+        },
+        {
+          "word": "ship",
+          "start": 56.16,
+          "end": 56.44
+        },
+        {
+          "word": "a",
+          "start": 56.44,
+          "end": 56.52
+        },
+        {
+          "word": "better",
+          "start": 56.52,
+          "end": 56.88
+        },
+        {
+          "word": "process",
+          "start": 56.88,
+          "end": 57.32
+        },
+        {
+          "word": "for",
+          "start": 57.32,
+          "end": 57.54
+        },
+        {
+          "word": "next",
+          "start": 57.54,
+          "end": 57.84
+        },
+        {
+          "word": "time.",
+          "start": 57.84,
+          "end": 58.08
+        }
+      ]
+    },
+    {
+      "start": 58.5,
+      "end": 60.5,
+      "text": "building in public means owning our mistakes. publish all exchange communications, create a community vote for resolution options, and ship a better process for next time. transparency creates trust.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Transparency",
+          "start": 58.08,
+          "end": 58.88
+        },
+        {
+          "word": "creates",
+          "start": 58.88,
+          "end": 59.34
+        },
+        {
+          "word": "trust.",
+          "start": 59.34,
+          "end": 59.7
+        }
+      ]
+    },
+    {
+      "start": 60.5,
+      "end": 66.5,
+      "text": "With PR #6170 merged and entity-level Row Level Security in development, how should we balance security with user-facing features for elizaOS v2?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "With",
+          "start": 60.5,
+          "end": 60.84
+        },
+        {
+          "word": "PR#6170",
+          "start": 60.84,
+          "end": 61.64
+        },
+        {
+          "word": "merged,",
+          "start": 61.64,
+          "end": 62.14
+        },
+        {
+          "word": "and",
+          "start": 62.14,
+          "end": 62.34
+        },
+        {
+          "word": "entity-level",
+          "start": 62.34,
+          "end": 63.14
+        },
+        {
+          "word": "row-level",
+          "start": 63.14,
+          "end": 63.64
+        },
+        {
+          "word": "security",
+          "start": 63.64,
+          "end": 64.1
+        },
+        {
+          "word": "in",
+          "start": 64.1,
+          "end": 64.24
+        },
+        {
+          "word": "development,",
+          "start": 64.24,
+          "end": 64.92
+        },
+        {
+          "word": "how",
+          "start": 64.92,
+          "end": 65.1
+        },
+        {
+          "word": "should",
+          "start": 65.1,
+          "end": 65.28
+        },
+        {
+          "word": "we",
+          "start": 65.28,
+          "end": 65.38
+        },
+        {
+          "word": "balance",
+          "start": 65.38,
+          "end": 65.74
+        },
+        {
+          "word": "security",
+          "start": 65.74,
+          "end": 66.24
+        },
+        {
+          "word": "with",
+          "start": 66.24,
+          "end": 66.44
+        },
+        {
+          "word": "user-facing",
+          "start": 66.44,
+          "end": 67.06
+        },
+        {
+          "word": "features",
+          "start": 67.06,
+          "end": 67.62
+        },
+        {
+          "word": "for",
+          "start": 67.62,
+          "end": 67.82
+        },
+        {
+          "word": "Eliza",
+          "start": 67.82,
+          "end": 68.2
+        },
+        {
+          "word": "OS",
+          "start": 68.2,
+          "end": 68.42
+        },
+        {
+          "word": "V2?",
+          "start": 68.42,
+          "end": 68.8
+        }
+      ]
+    },
+    {
+      "start": 66.5,
+      "end": 70.0,
+      "text": "security isn't optional. we need both parallel streams: one for core stability and one for features that drive adoption. weekly integration cycles ensure we don't drift too far apart.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Security",
+          "start": 68.8,
+          "end": 69.44
+        },
+        {
+          "word": "isn't",
+          "start": 69.44,
+          "end": 69.84
+        },
+        {
+          "word": "optional.",
+          "start": 69.84,
+          "end": 70.44
+        }
+      ]
+    },
+    {
+      "start": 70.0,
+      "end": 72.5,
+      "text": "security isn't optional. we need both parallel streams: one for core stability and one for features that drive adoption. weekly integration cycles ensure we don't drift too far apart.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 70.44,
+          "end": 70.6
+        },
+        {
+          "word": "need",
+          "start": 70.6,
+          "end": 70.82
+        },
+        {
+          "word": "both",
+          "start": 70.82,
+          "end": 71.18
+        },
+        {
+          "word": "parallel",
+          "start": 71.18,
+          "end": 71.68
+        },
+        {
+          "word": "streams.",
+          "start": 71.68,
+          "end": 72.1
+        }
+      ]
+    },
+    {
+      "start": 72.5,
+      "end": 76.5,
+      "text": "security isn't optional. we need both parallel streams: one for core stability and one for features that drive adoption. weekly integration cycles ensure we don't drift too far apart.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "One",
+          "start": 72.1,
+          "end": 72.4
+        },
+        {
+          "word": "for",
+          "start": 72.4,
+          "end": 72.56
+        },
+        {
+          "word": "core",
+          "start": 72.56,
+          "end": 72.92
+        },
+        {
+          "word": "stability,",
+          "start": 72.92,
+          "end": 73.6
+        },
+        {
+          "word": "and",
+          "start": 73.6,
+          "end": 73.8
+        },
+        {
+          "word": "one",
+          "start": 73.8,
+          "end": 74.0
+        },
+        {
+          "word": "for",
+          "start": 74.0,
+          "end": 74.16
+        },
+        {
+          "word": "features",
+          "start": 74.16,
+          "end": 74.68
+        },
+        {
+          "word": "that",
+          "start": 74.68,
+          "end": 74.84
+        },
+        {
+          "word": "drive",
+          "start": 74.84,
+          "end": 75.22
+        },
+        {
+          "word": "adoption.",
+          "start": 75.22,
+          "end": 75.8
+        }
+      ]
+    },
+    {
+      "start": 76.5,
+      "end": 80.0,
+      "text": "security isn't optional. we need both parallel streams: one for core stability and one for features that drive adoption. weekly integration cycles ensure we don't drift too far apart.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Weekly",
+          "start": 75.8,
+          "end": 76.24
+        },
+        {
+          "word": "integration",
+          "start": 76.24,
+          "end": 76.92
+        },
+        {
+          "word": "cycles",
+          "start": 76.92,
+          "end": 77.44
+        },
+        {
+          "word": "ensure",
+          "start": 77.44,
+          "end": 77.84
+        },
+        {
+          "word": "we",
+          "start": 77.84,
+          "end": 78.0
+        },
+        {
+          "word": "don't",
+          "start": 78.0,
+          "end": 78.3
+        },
+        {
+          "word": "drift",
+          "start": 78.3,
+          "end": 78.68
+        },
+        {
+          "word": "too",
+          "start": 78.68,
+          "end": 78.96
+        },
+        {
+          "word": "far",
+          "start": 78.96,
+          "end": 79.28
+        },
+        {
+          "word": "apart.",
+          "start": 79.28,
+          "end": 79.62
+        }
+      ]
+    },
+    {
+      "start": 80.0,
+      "end": 82.5,
+      "text": "Only one metric matters: does it make number go up? If crypto payments for credits drive revenue, do that first. Security breaches make number go WAY down, so don't skimp there either.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Only",
+          "start": 79.62,
+          "end": 80.04
+        },
+        {
+          "word": "one",
+          "start": 80.04,
+          "end": 80.32
+        },
+        {
+          "word": "metric",
+          "start": 80.32,
+          "end": 80.78
+        },
+        {
+          "word": "matters.",
+          "start": 80.78,
+          "end": 81.24
+        },
+        {
+          "word": "Does",
+          "start": 81.24,
+          "end": 81.42
+        },
+        {
+          "word": "it",
+          "start": 81.42,
+          "end": 81.56
+        },
+        {
+          "word": "make",
+          "start": 81.56,
+          "end": 81.82
+        },
+        {
+          "word": "number",
+          "start": 81.82,
+          "end": 82.14
+        },
+        {
+          "word": "go",
+          "start": 82.14,
+          "end": 82.34
+        },
+        {
+          "word": "up?",
+          "start": 82.34,
+          "end": 82.56
+        }
+      ]
+    },
+    {
+      "start": 82.5,
+      "end": 86.5,
+      "text": "Only one metric matters: does it make number go up? If crypto payments for credits drive revenue, do that first. Security breaches make number go WAY down, so don't skimp there either.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "If",
+          "start": 82.56,
+          "end": 82.72
+        },
+        {
+          "word": "crypto",
+          "start": 82.72,
+          "end": 83.18
+        },
+        {
+          "word": "payments",
+          "start": 83.18,
+          "end": 83.74
+        },
+        {
+          "word": "for",
+          "start": 83.74,
+          "end": 83.94
+        },
+        {
+          "word": "credits",
+          "start": 83.94,
+          "end": 84.44
+        },
+        {
+          "word": "drive",
+          "start": 84.44,
+          "end": 84.82
+        },
+        {
+          "word": "revenue,",
+          "start": 84.82,
+          "end": 85.34
+        },
+        {
+          "word": "do",
+          "start": 85.34,
+          "end": 85.58
+        },
+        {
+          "word": "that",
+          "start": 85.58,
+          "end": 85.84
+        },
+        {
+          "word": "first.",
+          "start": 85.84,
+          "end": 86.2
+        }
+      ]
+    },
+    {
+      "start": 86.5,
+      "end": 90.0,
+      "text": "Only one metric matters: does it make number go up? If crypto payments for credits drive revenue, do that first. Security breaches make number go WAY down, so don't skimp there either.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Security",
+          "start": 86.2,
+          "end": 86.8
+        },
+        {
+          "word": "breaches",
+          "start": 86.8,
+          "end": 87.32
+        },
+        {
+          "word": "make",
+          "start": 87.32,
+          "end": 87.64
+        },
+        {
+          "word": "number",
+          "start": 87.64,
+          "end": 88.0
+        },
+        {
+          "word": "go",
+          "start": 88.0,
+          "end": 88.18
+        },
+        {
+          "word": "way",
+          "start": 88.18,
+          "end": 88.42
+        },
+        {
+          "word": "down,",
+          "start": 88.42,
+          "end": 88.74
+        },
+        {
+          "word": "so",
+          "start": 88.74,
+          "end": 88.94
+        },
+        {
+          "word": "don't",
+          "start": 88.94,
+          "end": 89.26
+        },
+        {
+          "word": "skimp",
+          "start": 89.26,
+          "end": 89.66
+        },
+        {
+          "word": "there",
+          "start": 89.66,
+          "end": 89.92
+        },
+        {
+          "word": "either.",
+          "start": 89.92,
+          "end": 90.28
+        }
+      ]
+    },
+    {
+      "start": 90.0,
+      "end": 93.0,
+      "text": "Every technology company faces this tradeoff. But in AI, the security ceiling becomes the feature floor. Without proper RLS, your multi-tenant agent system is fundamentally broken. Fix the foundation first.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Every",
+          "start": 90.28,
+          "end": 90.72
+        },
+        {
+          "word": "technology",
+          "start": 90.72,
+          "end": 91.32
+        },
+        {
+          "word": "company",
+          "start": 91.32,
+          "end": 91.82
+        },
+        {
+          "word": "faces",
+          "start": 91.82,
+          "end": 92.24
+        },
+        {
+          "word": "this",
+          "start": 92.24,
+          "end": 92.48
+        },
+        {
+          "word": "trade-off.",
+          "start": 92.48,
+          "end": 92.98
+        }
+      ]
+    },
+    {
+      "start": 93.0,
+      "end": 99.0,
+      "text": "Every technology company faces this tradeoff. But in AI, the security ceiling becomes the feature floor. Without proper RLS, your multi-tenant agent system is fundamentally broken. Fix the foundation first.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 92.98,
+          "end": 93.2
+        },
+        {
+          "word": "in",
+          "start": 93.2,
+          "end": 93.34
+        },
+        {
+          "word": "AI,",
+          "start": 93.34,
+          "end": 93.74
+        },
+        {
+          "word": "the",
+          "start": 93.74,
+          "end": 93.86
+        },
+        {
+          "word": "security",
+          "start": 93.86,
+          "end": 94.4
+        },
+        {
+          "word": "ceiling",
+          "start": 94.4,
+          "end": 94.88
+        },
+        {
+          "word": "becomes",
+          "start": 94.88,
+          "end": 95.34
+        },
+        {
+          "word": "the",
+          "start": 95.34,
+          "end": 95.46
+        },
+        {
+          "word": "feature",
+          "start": 95.46,
+          "end": 95.96
+        },
+        {
+          "word": "floor;",
+          "start": 95.96,
+          "end": 96.38
+        },
+        {
+          "word": "without",
+          "start": 96.38,
+          "end": 96.78
+        },
+        {
+          "word": "proper",
+          "start": 96.78,
+          "end": 97.24
+        },
+        {
+          "word": "RLS",
+          "start": 97.24,
+          "end": 97.7
+        },
+        {
+          "word": "your",
+          "start": 97.7,
+          "end": 97.88
+        },
+        {
+          "word": "multi-tenant",
+          "start": 97.88,
+          "end": 98.66
+        },
+        {
+          "word": "agent",
+          "start": 98.66,
+          "end": 99.06
+        },
+        {
+          "word": "system",
+          "start": 99.06,
+          "end": 99.46
+        },
+        {
+          "word": "is",
+          "start": 99.46,
+          "end": 99.64
+        },
+        {
+          "word": "fundamentally",
+          "start": 99.64,
+          "end": 100.34
+        },
+        {
+          "word": "broken.",
+          "start": 100.34,
+          "end": 100.82
+        }
+      ]
+    },
+    {
+      "start": 99.0,
+      "end": 101.5,
+      "text": "Every technology company faces this tradeoff. But in AI, the security ceiling becomes the feature floor. Without proper RLS, your multi-tenant agent system is fundamentally broken. Fix the foundation first.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 100.82,
+          "end": 101.14
+        },
+        {
+          "word": "the",
+          "start": 101.14,
+          "end": 101.28
+        },
+        {
+          "word": "foundation",
+          "start": 101.28,
+          "end": 101.9
+        },
+        {
+          "word": "first.",
+          "start": 101.9,
+          "end": 102.26
+        }
+      ]
+    },
+    {
+      "start": 101.5,
+      "end": 102.5,
+      "text": "Why not both? Feature flags let us ship security as opt-in first, like trying on a new fit before committing. Early adopters get the drip, everyone else joins when it's proven fire!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 102.26,
+          "end": 102.48
+        },
+        {
+          "word": "not",
+          "start": 102.48,
+          "end": 102.66
+        },
+        {
+          "word": "both?",
+          "start": 102.66,
+          "end": 102.94
+        }
+      ]
+    },
+    {
+      "start": 102.5,
+      "end": 106.8,
+      "text": "Why not both? Feature flags let us ship security as opt-in first, like trying on a new fit before committing. Early adopters get the drip, everyone else joins when it's proven fire!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Feature",
+          "start": 102.94,
+          "end": 103.4
+        },
+        {
+          "word": "flags",
+          "start": 103.4,
+          "end": 103.82
+        },
+        {
+          "word": "let",
+          "start": 103.82,
+          "end": 104.04
+        },
+        {
+          "word": "us",
+          "start": 104.04,
+          "end": 104.18
+        },
+        {
+          "word": "ship",
+          "start": 104.18,
+          "end": 104.54
+        },
+        {
+          "word": "security",
+          "start": 104.54,
+          "end": 105.04
+        },
+        {
+          "word": "as",
+          "start": 105.04,
+          "end": 105.2
+        },
+        {
+          "word": "opt-in",
+          "start": 105.2,
+          "end": 105.74
+        },
+        {
+          "word": "first,",
+          "start": 105.74,
+          "end": 106.18
+        },
+        {
+          "word": "like",
+          "start": 106.18,
+          "end": 106.46
+        },
+        {
+          "word": "trying",
+          "start": 106.46,
+          "end": 106.86
+        },
+        {
+          "word": "on",
+          "start": 106.86,
+          "end": 107.0
+        },
+        {
+          "word": "a",
+          "start": 107.0,
+          "end": 107.08
+        },
+        {
+          "word": "new",
+          "start": 107.08,
+          "end": 107.38
+        },
+        {
+          "word": "fit",
+          "start": 107.38,
+          "end": 107.64
+        },
+        {
+          "word": "before",
+          "start": 107.64,
+          "end": 108.06
+        },
+        {
+          "word": "committing.",
+          "start": 108.06,
+          "end": 108.64
+        }
+      ]
+    },
+    {
+      "start": 106.8,
+      "end": 110.8,
+      "text": "Why not both? Feature flags let us ship security as opt-in first, like trying on a new fit before committing. Early adopters get the drip, everyone else joins when it's proven fire!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Early",
+          "start": 108.64,
+          "end": 109.08
+        },
+        {
+          "word": "adopters",
+          "start": 109.08,
+          "end": 109.68
+        },
+        {
+          "word": "get",
+          "start": 109.68,
+          "end": 110.04
+        },
+        {
+          "word": "the",
+          "start": 110.04,
+          "end": 110.18
+        },
+        {
+          "word": "drift,",
+          "start": 110.18,
+          "end": 110.54
+        },
+        {
+          "word": "everyone",
+          "start": 110.54,
+          "end": 111.02
+        },
+        {
+          "word": "else",
+          "start": 111.02,
+          "end": 111.28
+        },
+        {
+          "word": "joins",
+          "start": 111.28,
+          "end": 111.72
+        },
+        {
+          "word": "when",
+          "start": 111.72,
+          "end": 111.96
+        },
+        {
+          "word": "it's",
+          "start": 111.96,
+          "end": 112.18
+        },
+        {
+          "word": "proven",
+          "start": 112.18,
+          "end": 112.64
+        },
+        {
+          "word": "fire.",
+          "start": 112.64,
+          "end": 113.06
+        }
+      ]
+    },
+    {
+      "start": 110.8,
+      "end": 115.0,
+      "text": "I love how we're considering both stability and innovation! After all, we're building for a future where AI agents help everyone, not just tech experts.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 113.06,
+          "end": 113.24
+        },
+        {
+          "word": "love",
+          "start": 113.24,
+          "end": 113.56
+        },
+        {
+          "word": "how",
+          "start": 113.56,
+          "end": 113.82
+        },
+        {
+          "word": "we're",
+          "start": 113.82,
+          "end": 114.04
+        },
+        {
+          "word": "considering",
+          "start": 114.04,
+          "end": 114.62
+        },
+        {
+          "word": "both",
+          "start": 114.62,
+          "end": 114.98
+        },
+        {
+          "word": "stability",
+          "start": 114.98,
+          "end": 115.68
+        },
+        {
+          "word": "and",
+          "start": 115.68,
+          "end": 115.9
+        },
+        {
+          "word": "innovation.",
+          "start": 115.9,
+          "end": 116.6
+        }
+      ]
+    },
+    {
+      "start": 115.0,
+      "end": 120.5,
+      "text": "I love how we're considering both stability and innovation! After all, we're building for a future where AI agents help everyone, not just tech experts.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "After",
+          "start": 116.6,
+          "end": 117.02
+        },
+        {
+          "word": "all,",
+          "start": 117.02,
+          "end": 117.3
+        },
+        {
+          "word": "we're",
+          "start": 117.3,
+          "end": 117.52
+        },
+        {
+          "word": "building",
+          "start": 117.52,
+          "end": 118.0
+        },
+        {
+          "word": "for",
+          "start": 118.0,
+          "end": 118.24
+        },
+        {
+          "word": "a",
+          "start": 118.24,
+          "end": 118.32
+        },
+        {
+          "word": "future",
+          "start": 118.32,
+          "end": 118.74
+        },
+        {
+          "word": "where",
+          "start": 118.74,
+          "end": 119.0
+        },
+        {
+          "word": "AI",
+          "start": 119.0,
+          "end": 119.2
+        },
+        {
+          "word": "agents",
+          "start": 119.2,
+          "end": 119.64
+        },
+        {
+          "word": "help",
+          "start": 119.64,
+          "end": 120.06
+        },
+        {
+          "word": "everyone,",
+          "start": 120.06,
+          "end": 120.62
+        },
+        {
+          "word": "not",
+          "start": 120.62,
+          "end": 120.94
+        },
+        {
+          "word": "just",
+          "start": 120.94,
+          "end": 121.24
+        },
+        {
+          "word": "tech",
+          "start": 121.24,
+          "end": 121.62
+        },
+        {
+          "word": "experts.",
+          "start": 121.62,
+          "end": 122.25
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-11-27_JedAI-Council_Tokens-In-Migration.json",
+    "session_log_source": "2025-11-27_JedAI-Council_Tokens-In-Migration_session-log.json",
+    "total_segments": 35,
+    "matched_segments": 35,
+    "dialogues_in_script": 17
+  }
+}

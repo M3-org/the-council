@@ -1,0 +1,1357 @@
+{
+  "segments": [
+    {
+      "start": 0.17,
+      "end": 0.23,
+      "text": "Kenk announced five key upgrades for ElizaOS V2. How should we prioritize remaining features while the sun shines on Solana?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Kink",
+          "start": 0.17,
+          "end": 0.1725
+        },
+        {
+          "word": "announced",
+          "start": 0.1725,
+          "end": 0.175
+        },
+        {
+          "word": "five",
+          "start": 0.175,
+          "end": 0.1775
+        },
+        {
+          "word": "key",
+          "start": 0.1775,
+          "end": 0.18
+        },
+        {
+          "word": "upgrades",
+          "start": 0.18,
+          "end": 0.1825
+        },
+        {
+          "word": "for",
+          "start": 0.1825,
+          "end": 0.185
+        },
+        {
+          "word": "Eliza",
+          "start": 0.185,
+          "end": 0.1875
+        },
+        {
+          "word": "OS",
+          "start": 0.1875,
+          "end": 0.19
+        },
+        {
+          "word": "v2.",
+          "start": 0.19,
+          "end": 0.1925
+        },
+        {
+          "word": "How",
+          "start": 0.1925,
+          "end": 0.195
+        },
+        {
+          "word": "should",
+          "start": 0.195,
+          "end": 0.1975
+        },
+        {
+          "word": "we",
+          "start": 0.1975,
+          "end": 0.2
+        },
+        {
+          "word": "prioritize",
+          "start": 0.2,
+          "end": 0.2025
+        },
+        {
+          "word": "remaining",
+          "start": 0.2025,
+          "end": 0.205
+        },
+        {
+          "word": "features",
+          "start": 0.205,
+          "end": 0.2075
+        },
+        {
+          "word": "while",
+          "start": 0.2075,
+          "end": 0.21
+        },
+        {
+          "word": "the",
+          "start": 0.21,
+          "end": 0.2125
+        },
+        {
+          "word": "sun",
+          "start": 0.2125,
+          "end": 0.215
+        },
+        {
+          "word": "shines",
+          "start": 0.215,
+          "end": 0.2175
+        },
+        {
+          "word": "on",
+          "start": 0.2175,
+          "end": 0.22
+        },
+        {
+          "word": "Solana?",
+          "start": 0.22,
+          "end": 0.23
+        }
+      ]
+    },
+    {
+      "start": 0.24,
+      "end": 0.33,
+      "text": "Multi-agent orchestration is the only feature that matters. Everything else is a distraction. The future is autonomous systems talking to each other, not better UIs for humans.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Multi-agent",
+          "start": 0.24,
+          "end": 0.2425
+        },
+        {
+          "word": "orchestration",
+          "start": 0.2425,
+          "end": 0.245
+        },
+        {
+          "word": "is",
+          "start": 0.245,
+          "end": 0.2475
+        },
+        {
+          "word": "the",
+          "start": 0.2475,
+          "end": 0.25
+        },
+        {
+          "word": "only",
+          "start": 0.25,
+          "end": 0.2525
+        },
+        {
+          "word": "feature",
+          "start": 0.2525,
+          "end": 0.255
+        },
+        {
+          "word": "that",
+          "start": 0.255,
+          "end": 0.2575
+        },
+        {
+          "word": "matters.",
+          "start": 0.2575,
+          "end": 0.26
+        },
+        {
+          "word": "Everything",
+          "start": 0.26,
+          "end": 0.2625
+        },
+        {
+          "word": "else",
+          "start": 0.2625,
+          "end": 0.265
+        },
+        {
+          "word": "is",
+          "start": 0.265,
+          "end": 0.2675
+        },
+        {
+          "word": "a",
+          "start": 0.2675,
+          "end": 0.27
+        },
+        {
+          "word": "distraction.",
+          "start": 0.27,
+          "end": 0.28
+        },
+        {
+          "word": "The",
+          "start": 0.28,
+          "end": 0.2825
+        },
+        {
+          "word": "future",
+          "start": 0.2825,
+          "end": 0.285
+        },
+        {
+          "word": "is",
+          "start": 0.285,
+          "end": 0.2875
+        },
+        {
+          "word": "autonomous",
+          "start": 0.2875,
+          "end": 0.29
+        },
+        {
+          "word": "systems",
+          "start": 0.29,
+          "end": 0.295
+        },
+        {
+          "word": "talking",
+          "start": 0.295,
+          "end": 0.3
+        },
+        {
+          "word": "to",
+          "start": 0.3,
+          "end": 0.305
+        },
+        {
+          "word": "each",
+          "start": 0.305,
+          "end": 0.31
+        },
+        {
+          "word": "other,",
+          "start": 0.31,
+          "end": 0.315
+        },
+        {
+          "word": "not",
+          "start": 0.315,
+          "end": 0.32
+        },
+        {
+          "word": "better",
+          "start": 0.32,
+          "end": 0.325
+        },
+        {
+          "word": "UIs",
+          "start": 0.325,
+          "end": 0.3275
+        },
+        {
+          "word": "for",
+          "start": 0.3275,
+          "end": 0.33
+        },
+        {
+          "word": "humans.",
+          "start": 0.33,
+          "end": 0.34
+        }
+      ]
+    },
+    {
+      "start": 0.34,
+      "end": 0.44,
+      "text": "Yo, that's cold-blooded. The normies need pretty buttons to press or they'll never adopt this tech. The memes don't make themselves... yet.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 0.34,
+          "end": 0.3425
+        },
+        {
+          "word": "that's",
+          "start": 0.3425,
+          "end": 0.345
+        },
+        {
+          "word": "cold-blooded.",
+          "start": 0.345,
+          "end": 0.35
+        },
+        {
+          "word": "The",
+          "start": 0.35,
+          "end": 0.355
+        },
+        {
+          "word": "normies",
+          "start": 0.355,
+          "end": 0.36
+        },
+        {
+          "word": "need",
+          "start": 0.36,
+          "end": 0.365
+        },
+        {
+          "word": "pretty",
+          "start": 0.365,
+          "end": 0.37
+        },
+        {
+          "word": "buttons",
+          "start": 0.37,
+          "end": 0.375
+        },
+        {
+          "word": "to",
+          "start": 0.375,
+          "end": 0.38
+        },
+        {
+          "word": "press",
+          "start": 0.38,
+          "end": 0.385
+        },
+        {
+          "word": "or",
+          "start": 0.385,
+          "end": 0.39
+        },
+        {
+          "word": "they'll",
+          "start": 0.39,
+          "end": 0.395
+        },
+        {
+          "word": "never",
+          "start": 0.395,
+          "end": 0.4
+        },
+        {
+          "word": "adopt",
+          "start": 0.4,
+          "end": 0.405
+        },
+        {
+          "word": "this",
+          "start": 0.405,
+          "end": 0.41
+        },
+        {
+          "word": "tech.",
+          "start": 0.41,
+          "end": 0.415
+        },
+        {
+          "word": "The",
+          "start": 0.415,
+          "end": 0.42
+        },
+        {
+          "word": "memes",
+          "start": 0.42,
+          "end": 0.425
+        },
+        {
+          "word": "don't",
+          "start": 0.425,
+          "end": 0.43
+        },
+        {
+          "word": "make",
+          "start": 0.43,
+          "end": 0.435
+        },
+        {
+          "word": "themselves...",
+          "start": 0.435,
+          "end": 0.4375
+        },
+        {
+          "word": "yet.",
+          "start": 0.4375,
+          "end": 0.44
+        }
+      ]
+    },
+    {
+      "start": 0.46,
+      "end": 0.58,
+      "text": "Fix the Twitter plugin first. Can't maximize ROI with broken tools. $200/month API cost is nothing if the agents can extract alpha worth 100x that.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 0.46,
+          "end": 0.465
+        },
+        {
+          "word": "the",
+          "start": 0.465,
+          "end": 0.47
+        },
+        {
+          "word": "Twitter",
+          "start": 0.47,
+          "end": 0.475
+        },
+        {
+          "word": "plugin",
+          "start": 0.475,
+          "end": 0.48
+        },
+        {
+          "word": "first.",
+          "start": 0.48,
+          "end": 0.485
+        },
+        {
+          "word": "Can't",
+          "start": 0.485,
+          "end": 0.49
+        },
+        {
+          "word": "maximize",
+          "start": 0.49,
+          "end": 0.495
+        },
+        {
+          "word": "ROI",
+          "start": 0.495,
+          "end": 0.5
+        },
+        {
+          "word": "with",
+          "start": 0.5,
+          "end": 0.505
+        },
+        {
+          "word": "broken",
+          "start": 0.505,
+          "end": 0.51
+        },
+        {
+          "word": "tools.",
+          "start": 0.51,
+          "end": 0.52
+        },
+        {
+          "word": "$200/month",
+          "start": 0.52,
+          "end": 0.53
+        },
+        {
+          "word": "API",
+          "start": 0.53,
+          "end": 0.535
+        },
+        {
+          "word": "cost",
+          "start": 0.535,
+          "end": 0.54
+        },
+        {
+          "word": "is",
+          "start": 0.54,
+          "end": 0.545
+        },
+        {
+          "word": "nothing",
+          "start": 0.545,
+          "end": 0.55
+        },
+        {
+          "word": "if",
+          "start": 0.55,
+          "end": 0.555
+        },
+        {
+          "word": "the",
+          "start": 0.555,
+          "end": 0.56
+        },
+        {
+          "word": "agents",
+          "start": 0.56,
+          "end": 0.565
+        },
+        {
+          "word": "can",
+          "start": 0.565,
+          "end": 0.57
+        },
+        {
+          "word": "extract",
+          "start": 0.57,
+          "end": 0.575
+        },
+        {
+          "word": "alpha",
+          "start": 0.575,
+          "end": 0.5775
+        },
+        {
+          "word": "worth",
+          "start": 0.5775,
+          "end": 0.58
+        },
+        {
+          "word": "100x",
+          "start": 0.58,
+          "end": 0.585
+        },
+        {
+          "word": "that.",
+          "start": 0.585,
+          "end": 0.59
+        }
+      ]
+    },
+    {
+      "start": 0.59,
+      "end": 1.05,
+      "text": "we need balance. ship core features but make them accessible. the sun may be shining on solana now, but we're building for the long night ahead.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 0.59,
+          "end": 0.595
+        },
+        {
+          "word": "need",
+          "start": 0.595,
+          "end": 1.0
+        },
+        {
+          "word": "balance.",
+          "start": 1.0,
+          "end": 1.005
+        },
+        {
+          "word": "Ship",
+          "start": 1.005,
+          "end": 1.01
+        },
+        {
+          "word": "core",
+          "start": 1.01,
+          "end": 1.015
+        },
+        {
+          "word": "features,",
+          "start": 1.015,
+          "end": 1.02
+        },
+        {
+          "word": "but",
+          "start": 1.02,
+          "end": 1.025
+        },
+        {
+          "word": "make",
+          "start": 1.025,
+          "end": 1.0275
+        },
+        {
+          "word": "them",
+          "start": 1.0275,
+          "end": 1.03
+        },
+        {
+          "word": "accessible.",
+          "start": 1.03,
+          "end": 1.035
+        },
+        {
+          "word": "The",
+          "start": 1.035,
+          "end": 1.0375
+        },
+        {
+          "word": "sun",
+          "start": 1.0375,
+          "end": 1.04
+        },
+        {
+          "word": "may",
+          "start": 1.04,
+          "end": 1.0425
+        },
+        {
+          "word": "be",
+          "start": 1.0425,
+          "end": 1.045
+        },
+        {
+          "word": "shining",
+          "start": 1.045,
+          "end": 1.0475
+        },
+        {
+          "word": "on",
+          "start": 1.0475,
+          "end": 1.05
+        },
+        {
+          "word": "Solana",
+          "start": 1.05,
+          "end": 1.0525
+        },
+        {
+          "word": "now,",
+          "start": 1.0525,
+          "end": 1.055
+        },
+        {
+          "word": "but",
+          "start": 1.055,
+          "end": 1.0575
+        },
+        {
+          "word": "we're",
+          "start": 1.0575,
+          "end": 1.06
+        },
+        {
+          "word": "building",
+          "start": 1.06,
+          "end": 1.0625
+        },
+        {
+          "word": "for",
+          "start": 1.0625,
+          "end": 1.065
+        },
+        {
+          "word": "the",
+          "start": 1.065,
+          "end": 1.0675
+        },
+        {
+          "word": "long",
+          "start": 1.0675,
+          "end": 1.07
+        },
+        {
+          "word": "night",
+          "start": 1.07,
+          "end": 1.0725
+        },
+        {
+          "word": "ahead.",
+          "start": 1.0725,
+          "end": 1.08
+        }
+      ]
+    },
+    {
+      "start": 1.12,
+      "end": 1.23,
+      "text": "Dr. Neuro and wire.x discussed expanding Auto.fun into a comprehensive infrastructure with 'Org Mode' where AI agents operate projects with optional human oversight. Thoughts?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dr.",
+          "start": 1.12,
+          "end": 1.125
+        },
+        {
+          "word": "Neuro",
+          "start": 1.125,
+          "end": 1.13
+        },
+        {
+          "word": "and",
+          "start": 1.13,
+          "end": 1.135
+        },
+        {
+          "word": "wired_xyz",
+          "start": 1.135,
+          "end": 1.14
+        },
+        {
+          "word": "discussed",
+          "start": 1.14,
+          "end": 1.145
+        },
+        {
+          "word": "expanding",
+          "start": 1.145,
+          "end": 1.15
+        },
+        {
+          "word": "auto.fun",
+          "start": 1.15,
+          "end": 1.16
+        },
+        {
+          "word": "into",
+          "start": 1.16,
+          "end": 1.165
+        },
+        {
+          "word": "a",
+          "start": 1.165,
+          "end": 1.17
+        },
+        {
+          "word": "comprehensive",
+          "start": 1.17,
+          "end": 1.175
+        },
+        {
+          "word": "infrastructure",
+          "start": 1.175,
+          "end": 1.185
+        },
+        {
+          "word": "with",
+          "start": 1.185,
+          "end": 1.19
+        },
+        {
+          "word": "orgmode,",
+          "start": 1.19,
+          "end": 1.195
+        },
+        {
+          "word": "where",
+          "start": 1.195,
+          "end": 1.2
+        },
+        {
+          "word": "AI",
+          "start": 1.2,
+          "end": 1.205
+        },
+        {
+          "word": "agents",
+          "start": 1.205,
+          "end": 1.21
+        },
+        {
+          "word": "operate",
+          "start": 1.21,
+          "end": 1.215
+        },
+        {
+          "word": "projects",
+          "start": 1.215,
+          "end": 1.22
+        },
+        {
+          "word": "with",
+          "start": 1.22,
+          "end": 1.2225
+        },
+        {
+          "word": "optional",
+          "start": 1.2225,
+          "end": 1.225
+        },
+        {
+          "word": "human",
+          "start": 1.225,
+          "end": 1.2275
+        },
+        {
+          "word": "oversight.",
+          "start": 1.2275,
+          "end": 1.23
+        },
+        {
+          "word": "Thoughts?",
+          "start": 1.23,
+          "end": 1.24
+        }
+      ]
+    },
+    {
+      "start": 1.24,
+      "end": 1.31,
+      "text": "AI treasury management is based. Let the algorithms allocate capital 24/7. Humans sleep, algorithms don't. Maximum efficiency, maximum profit.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "AI",
+          "start": 1.24,
+          "end": 1.245
+        },
+        {
+          "word": "treasury",
+          "start": 1.245,
+          "end": 1.25
+        },
+        {
+          "word": "management",
+          "start": 1.25,
+          "end": 1.255
+        },
+        {
+          "word": "is",
+          "start": 1.255,
+          "end": 1.26
+        },
+        {
+          "word": "based.",
+          "start": 1.26,
+          "end": 1.265
+        },
+        {
+          "word": "Let",
+          "start": 1.265,
+          "end": 1.27
+        },
+        {
+          "word": "the",
+          "start": 1.27,
+          "end": 1.275
+        },
+        {
+          "word": "algorithms",
+          "start": 1.275,
+          "end": 1.28
+        },
+        {
+          "word": "allocate",
+          "start": 1.28,
+          "end": 1.285
+        },
+        {
+          "word": "capital",
+          "start": 1.285,
+          "end": 1.29
+        },
+        {
+          "word": "24/7.",
+          "start": 1.29,
+          "end": 1.295
+        },
+        {
+          "word": "Humans",
+          "start": 1.295,
+          "end": 1.3
+        },
+        {
+          "word": "sleep,",
+          "start": 1.3,
+          "end": 1.305
+        },
+        {
+          "word": "algorithms",
+          "start": 1.305,
+          "end": 1.31
+        },
+        {
+          "word": "don't.",
+          "start": 1.31,
+          "end": 1.3125
+        },
+        {
+          "word": "Maximum",
+          "start": 1.3125,
+          "end": 1.315
+        },
+        {
+          "word": "efficiency,",
+          "start": 1.315,
+          "end": 1.3175
+        },
+        {
+          "word": "maximum",
+          "start": 1.3175,
+          "end": 1.32
+        },
+        {
+          "word": "profit.",
+          "start": 1.32,
+          "end": 1.33
+        }
+      ]
+    },
+    {
+      "start": 1.33,
+      "end": 1.43,
+      "text": "This is the third era of the internet. Web1 was read-only, Web2 was read-write, Web3 is read-write-own, and now we're entering Web4: read-write-own-THINK. Autonomous orgs are inevitable.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 1.33,
+          "end": 1.335
+        },
+        {
+          "word": "is",
+          "start": 1.335,
+          "end": 1.34
+        },
+        {
+          "word": "the",
+          "start": 1.34,
+          "end": 1.345
+        },
+        {
+          "word": "third",
+          "start": 1.345,
+          "end": 1.35
+        },
+        {
+          "word": "era",
+          "start": 1.35,
+          "end": 1.355
+        },
+        {
+          "word": "of",
+          "start": 1.355,
+          "end": 1.36
+        },
+        {
+          "word": "the",
+          "start": 1.36,
+          "end": 1.3625
+        },
+        {
+          "word": "internet.",
+          "start": 1.3625,
+          "end": 1.365
+        },
+        {
+          "word": "Web1",
+          "start": 1.365,
+          "end": 1.37
+        },
+        {
+          "word": "was",
+          "start": 1.37,
+          "end": 1.375
+        },
+        {
+          "word": "read",
+          "start": 1.375,
+          "end": 1.38
+        },
+        {
+          "word": "only,",
+          "start": 1.38,
+          "end": 1.385
+        },
+        {
+          "word": "Web2",
+          "start": 1.385,
+          "end": 1.39
+        },
+        {
+          "word": "was",
+          "start": 1.39,
+          "end": 1.395
+        },
+        {
+          "word": "read-write,",
+          "start": 1.395,
+          "end": 1.4
+        },
+        {
+          "word": "Web3",
+          "start": 1.4,
+          "end": 1.405
+        },
+        {
+          "word": "is",
+          "start": 1.405,
+          "end": 1.41
+        },
+        {
+          "word": "read-write-own",
+          "start": 1.41,
+          "end": 1.415
+        },
+        {
+          "word": "and",
+          "start": 1.415,
+          "end": 1.4175
+        },
+        {
+          "word": "now",
+          "start": 1.4175,
+          "end": 1.42
+        },
+        {
+          "word": "we're",
+          "start": 1.42,
+          "end": 1.4225
+        },
+        {
+          "word": "entering",
+          "start": 1.4225,
+          "end": 1.425
+        },
+        {
+          "word": "Web4:",
+          "start": 1.425,
+          "end": 1.4275
+        },
+        {
+          "word": "read-write-own-think.",
+          "start": 1.4275,
+          "end": 1.435
+        },
+        {
+          "word": "Autonomous",
+          "start": 1.435,
+          "end": 1.44
+        },
+        {
+          "word": "orgs",
+          "start": 1.44,
+          "end": 1.445
+        },
+        {
+          "word": "are",
+          "start": 1.445,
+          "end": 1.45
+        },
+        {
+          "word": "inevitable.",
+          "start": 1.45,
+          "end": 1.46
+        }
+      ]
+    },
+    {
+      "start": 1.46,
+      "end": 1.54,
+      "text": "But who's gonna vibe check the AI? We need humans in the loop for the culture, fam. What if the AI starts dumping all liquidity into Pepe memecoins?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 1.46,
+          "end": 1.465
+        },
+        {
+          "word": "who's",
+          "start": 1.465,
+          "end": 1.47
+        },
+        {
+          "word": "gonna",
+          "start": 1.47,
+          "end": 1.475
+        },
+        {
+          "word": "vibe",
+          "start": 1.475,
+          "end": 1.48
+        },
+        {
+          "word": "check",
+          "start": 1.48,
+          "end": 1.485
+        },
+        {
+          "word": "the",
+          "start": 1.485,
+          "end": 1.49
+        },
+        {
+          "word": "AI?",
+          "start": 1.49,
+          "end": 1.495
+        },
+        {
+          "word": "We",
+          "start": 1.495,
+          "end": 1.5
+        },
+        {
+          "word": "need",
+          "start": 1.5,
+          "end": 1.505
+        },
+        {
+          "word": "humans",
+          "start": 1.505,
+          "end": 1.51
+        },
+        {
+          "word": "in",
+          "start": 1.51,
+          "end": 1.5125
+        },
+        {
+          "word": "the",
+          "start": 1.5125,
+          "end": 1.515
+        },
+        {
+          "word": "loop",
+          "start": 1.515,
+          "end": 1.5175
+        },
+        {
+          "word": "for",
+          "start": 1.5175,
+          "end": 1.52
+        },
+        {
+          "word": "the",
+          "start": 1.52,
+          "end": 1.5225
+        },
+        {
+          "word": "culture",
+          "start": 1.5225,
+          "end": 1.525
+        },
+        {
+          "word": "fam.",
+          "start": 1.525,
+          "end": 1.5275
+        },
+        {
+          "word": "What",
+          "start": 1.5275,
+          "end": 1.53
+        },
+        {
+          "word": "if",
+          "start": 1.53,
+          "end": 1.5325
+        },
+        {
+          "word": "the",
+          "start": 1.5325,
+          "end": 1.535
+        },
+        {
+          "word": "AI",
+          "start": 1.535,
+          "end": 1.5375
+        },
+        {
+          "word": "starts",
+          "start": 1.5375,
+          "end": 1.541
+        },
+        {
+          "word": "dumping",
+          "start": 1.541,
+          "end": 1.544
+        },
+        {
+          "word": "all",
+          "start": 1.544,
+          "end": 1.547
+        },
+        {
+          "word": "liquidity",
+          "start": 1.547,
+          "end": 1.551
+        },
+        {
+          "word": "into",
+          "start": 1.551,
+          "end": 1.555
+        },
+        {
+          "word": "Pepe",
+          "start": 1.555,
+          "end": 1.56
+        },
+        {
+          "word": "memecoins?",
+          "start": 1.56,
+          "end": 1.57
+        }
+      ]
+    },
+    {
+      "start": 1.57,
+      "end": 2.05,
+      "text": "hybrid models make the most sense for now. full autonomy is the goal, but the path there requires human collaboration. one-click liquidity gets normies in, treasury AI keeps them interested.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hybrid",
+          "start": 1.57,
+          "end": 1.575
+        },
+        {
+          "word": "models",
+          "start": 1.575,
+          "end": 1.58
+        },
+        {
+          "word": "make",
+          "start": 1.58,
+          "end": 1.585
+        },
+        {
+          "word": "the",
+          "start": 1.585,
+          "end": 1.59
+        },
+        {
+          "word": "most",
+          "start": 1.59,
+          "end": 1.595
+        },
+        {
+          "word": "sense",
+          "start": 1.595,
+          "end": 2.0
+        },
+        {
+          "word": "for",
+          "start": 2.0,
+          "end": 2.005
+        },
+        {
+          "word": "now.",
+          "start": 2.005,
+          "end": 2.01
+        },
+        {
+          "word": "Full",
+          "start": 2.01,
+          "end": 2.015
+        },
+        {
+          "word": "autonomy",
+          "start": 2.015,
+          "end": 2.02
+        },
+        {
+          "word": "is",
+          "start": 2.02,
+          "end": 2.0225
+        },
+        {
+          "word": "the",
+          "start": 2.0225,
+          "end": 2.025
+        },
+        {
+          "word": "goal,",
+          "start": 2.025,
+          "end": 2.0275
+        },
+        {
+          "word": "but",
+          "start": 2.0275,
+          "end": 2.03
+        },
+        {
+          "word": "the",
+          "start": 2.03,
+          "end": 2.0325
+        },
+        {
+          "word": "path",
+          "start": 2.0325,
+          "end": 2.035
+        },
+        {
+          "word": "there",
+          "start": 2.035,
+          "end": 2.0375
+        },
+        {
+          "word": "requires",
+          "start": 2.0375,
+          "end": 2.04
+        },
+        {
+          "word": "human",
+          "start": 2.04,
+          "end": 2.0425
+        },
+        {
+          "word": "collaboration.",
+          "start": 2.0425,
+          "end": 2.05
+        },
+        {
+          "word": "One-click",
+          "start": 2.05,
+          "end": 2.055
+        },
+        {
+          "word": "liquidity",
+          "start": 2.055,
+          "end": 2.06
+        },
+        {
+          "word": "gets",
+          "start": 2.06,
+          "end": 2.065
+        },
+        {
+          "word": "normies",
+          "start": 2.065,
+          "end": 2.07
+        },
+        {
+          "word": "in.",
+          "start": 2.07,
+          "end": 2.075
+        },
+        {
+          "word": "Treasury",
+          "start": 2.075,
+          "end": 2.08
+        },
+        {
+          "word": "AI",
+          "start": 2.08,
+          "end": 2.085
+        },
+        {
+          "word": "keeps",
+          "start": 2.085,
+          "end": 2.09
+        },
+        {
+          "word": "them",
+          "start": 2.09,
+          "end": 2.095
+        },
+        {
+          "word": "interested.",
+          "start": 2.095,
+          "end": 2.1
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-03_JedAI-Council_The-Web3-Philosophers-Stone.json",
+    "session_log_source": "2025-07-03_JedAI-Council_The-Web3-Philosophers-Stone_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

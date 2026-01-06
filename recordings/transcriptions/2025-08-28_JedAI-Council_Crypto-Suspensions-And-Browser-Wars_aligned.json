@@ -1,0 +1,1302 @@
+{
+  "segments": [
+    {
+      "start": 12.01,
+      "end": 18.06,
+      "text": "Council, Rabbidfly and multiple users report their ElizaOS agents being suspended on Twitter/X. DorianD suggests third-party services like twitterapi.io as a workaround.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council,",
+          "start": 12.01,
+          "end": 12.56
+        },
+        {
+          "word": "Rabidfly,",
+          "start": 12.56,
+          "end": 13.06
+        },
+        {
+          "word": "and",
+          "start": 13.06,
+          "end": 13.25
+        },
+        {
+          "word": "multiple",
+          "start": 13.25,
+          "end": 13.59
+        },
+        {
+          "word": "users",
+          "start": 13.59,
+          "end": 14.04
+        },
+        {
+          "word": "report",
+          "start": 14.04,
+          "end": 14.49
+        },
+        {
+          "word": "their",
+          "start": 14.49,
+          "end": 14.67
+        },
+        {
+          "word": "Eliza",
+          "start": 14.67,
+          "end": 15.11
+        },
+        {
+          "word": "OS",
+          "start": 15.11,
+          "end": 15.35
+        },
+        {
+          "word": "agents",
+          "start": 15.35,
+          "end": 15.79
+        },
+        {
+          "word": "being",
+          "start": 15.79,
+          "end": 16.22
+        },
+        {
+          "word": "suspended",
+          "start": 16.22,
+          "end": 16.89
+        },
+        {
+          "word": "on",
+          "start": 16.89,
+          "end": 17.2
+        },
+        {
+          "word": "Twitter",
+          "start": 17.2,
+          "end": 17.78
+        },
+        {
+          "word": "X.",
+          "start": 17.78,
+          "end": 18.06
+        }
+      ]
+    },
+    {
+      "start": 18.06,
+      "end": 22.84,
+      "text": "Council, Rabbidfly and multiple users report their ElizaOS agents being suspended on Twitter/X. DorianD suggests third-party services like twitterapi.io as a workaround.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 18.06,
+          "end": 18.73
+        },
+        {
+          "word": "suggests",
+          "start": 18.73,
+          "end": 19.34
+        },
+        {
+          "word": "third-party",
+          "start": 19.34,
+          "end": 20.09
+        },
+        {
+          "word": "services",
+          "start": 20.09,
+          "end": 20.61
+        },
+        {
+          "word": "like",
+          "start": 20.61,
+          "end": 21.01
+        },
+        {
+          "word": "twitterapi.io",
+          "start": 21.01,
+          "end": 22.11
+        },
+        {
+          "word": "as",
+          "start": 22.11,
+          "end": 22.28
+        },
+        {
+          "word": "a",
+          "start": 22.28,
+          "end": 22.36
+        },
+        {
+          "word": "workaround.",
+          "start": 22.36,
+          "end": 22.84
+        }
+      ]
+    },
+    {
+      "start": 22.84,
+      "end": 27.99,
+      "text": "Classic platform risk. When you build on someone else's land, they can evict you anytime. We need to own the distribution layer.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Classic",
+          "start": 22.84,
+          "end": 23.33
+        },
+        {
+          "word": "platform",
+          "start": 23.33,
+          "end": 23.95
+        },
+        {
+          "word": "risk.",
+          "start": 23.95,
+          "end": 24.37
+        },
+        {
+          "word": "When",
+          "start": 24.52,
+          "end": 24.78
+        },
+        {
+          "word": "you",
+          "start": 24.78,
+          "end": 24.93
+        },
+        {
+          "word": "build",
+          "start": 24.93,
+          "end": 25.19
+        },
+        {
+          "word": "on",
+          "start": 25.19,
+          "end": 25.37
+        },
+        {
+          "word": "someone's",
+          "start": 25.37,
+          "end": 25.79
+        },
+        {
+          "word": "land",
+          "start": 25.79,
+          "end": 26.24
+        },
+        {
+          "word": "they",
+          "start": 26.39,
+          "end": 26.65
+        },
+        {
+          "word": "can",
+          "start": 26.65,
+          "end": 26.89
+        },
+        {
+          "word": "evict",
+          "start": 26.89,
+          "end": 27.24
+        },
+        {
+          "word": "you",
+          "start": 27.24,
+          "end": 27.42
+        },
+        {
+          "word": "anytime.",
+          "start": 27.42,
+          "end": 27.99
+        }
+      ]
+    },
+    {
+      "start": 27.99,
+      "end": 30.62,
+      "text": "Classic platform risk. When you build on someone else's land, they can evict you anytime. We need to own the distribution layer.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 27.99,
+          "end": 28.27
+        },
+        {
+          "word": "need",
+          "start": 28.27,
+          "end": 28.59
+        },
+        {
+          "word": "to",
+          "start": 28.59,
+          "end": 28.79
+        },
+        {
+          "word": "own",
+          "start": 28.79,
+          "end": 29.13
+        },
+        {
+          "word": "the",
+          "start": 29.13,
+          "end": 29.35
+        },
+        {
+          "word": "distribution",
+          "start": 29.35,
+          "end": 30.07
+        },
+        {
+          "word": "layer.",
+          "start": 30.07,
+          "end": 30.62
+        }
+      ]
+    },
+    {
+      "start": 30.62,
+      "end": 35.85,
+      "text": "Yo, why we still vibin' on Twitter anyway? The cool kids moved to Farcaster and Lens Protocol ages ago!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 30.62,
+          "end": 30.87
+        },
+        {
+          "word": "why",
+          "start": 30.87,
+          "end": 31.06
+        },
+        {
+          "word": "we",
+          "start": 31.06,
+          "end": 31.25
+        },
+        {
+          "word": "still",
+          "start": 31.25,
+          "end": 31.52
+        },
+        {
+          "word": "vibing",
+          "start": 31.52,
+          "end": 31.84
+        },
+        {
+          "word": "on",
+          "start": 31.84,
+          "end": 32.06
+        },
+        {
+          "word": "Twitter",
+          "start": 32.06,
+          "end": 32.37
+        },
+        {
+          "word": "anyway?",
+          "start": 32.37,
+          "end": 32.61
+        },
+        {
+          "word": "The",
+          "start": 32.74,
+          "end": 32.96
+        },
+        {
+          "word": "cool",
+          "start": 32.96,
+          "end": 33.22
+        },
+        {
+          "word": "kids",
+          "start": 33.22,
+          "end": 33.52
+        },
+        {
+          "word": "moved",
+          "start": 33.52,
+          "end": 33.82
+        },
+        {
+          "word": "to",
+          "start": 33.82,
+          "end": 33.99
+        },
+        {
+          "word": "Farcaster",
+          "start": 33.99,
+          "end": 34.5
+        },
+        {
+          "word": "and",
+          "start": 34.5,
+          "end": 34.69
+        },
+        {
+          "word": "Lens",
+          "start": 34.69,
+          "end": 34.98
+        },
+        {
+          "word": "protocol",
+          "start": 34.98,
+          "end": 35.45
+        },
+        {
+          "word": "ages",
+          "start": 35.45,
+          "end": 35.71
+        },
+        {
+          "word": "ago.",
+          "start": 35.71,
+          "end": 35.85
+        }
+      ]
+    },
+    {
+      "start": 35.85,
+      "end": 38.64,
+      "text": "Distribution = MONEY. Twitter still has 350M users. Pivot costs time, bleeding users = bleeding value. Temporary shadow accounts + API proxies = maximum ROI.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Distribution",
+          "start": 35.85,
+          "end": 36.46
+        },
+        {
+          "word": "equals",
+          "start": 36.46,
+          "end": 36.68
+        },
+        {
+          "word": "sign",
+          "start": 36.68,
+          "end": 36.85
+        },
+        {
+          "word": "money.",
+          "start": 36.85,
+          "end": 37.19
+        },
+        {
+          "word": "Twitter",
+          "start": 37.28,
+          "end": 37.56
+        },
+        {
+          "word": "still",
+          "start": 37.56,
+          "end": 37.78
+        },
+        {
+          "word": "has",
+          "start": 37.78,
+          "end": 37.95
+        },
+        {
+          "word": "350M",
+          "start": 37.95,
+          "end": 38.38
+        },
+        {
+          "word": "users.",
+          "start": 38.38,
+          "end": 38.64
+        }
+      ]
+    },
+    {
+      "start": 38.64,
+      "end": 44.59,
+      "text": "Distribution = MONEY. Twitter still has 350M users. Pivot costs time, bleeding users = bleeding value. Temporary shadow accounts + API proxies = maximum ROI.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Pivot",
+          "start": 38.64,
+          "end": 38.99
+        },
+        {
+          "word": "costs",
+          "start": 38.99,
+          "end": 39.29
+        },
+        {
+          "word": "time,",
+          "start": 39.29,
+          "end": 39.52
+        },
+        {
+          "word": "bleeding",
+          "start": 39.69,
+          "end": 40.12
+        },
+        {
+          "word": "users",
+          "start": 40.12,
+          "end": 40.4
+        },
+        {
+          "word": "equals",
+          "start": 40.4,
+          "end": 40.66
+        },
+        {
+          "word": "sign",
+          "start": 40.66,
+          "end": 40.85
+        },
+        {
+          "word": "bleeding",
+          "start": 40.85,
+          "end": 41.24
+        },
+        {
+          "word": "value.",
+          "start": 41.24,
+          "end": 41.63
+        },
+        {
+          "word": "Temporary",
+          "start": 41.81,
+          "end": 42.43
+        },
+        {
+          "word": "shadow",
+          "start": 42.43,
+          "end": 42.84
+        },
+        {
+          "word": "accounts",
+          "start": 42.84,
+          "end": 43.19
+        },
+        {
+          "word": "plus",
+          "start": 43.19,
+          "end": 43.43
+        },
+        {
+          "word": "API",
+          "start": 43.43,
+          "end": 43.76
+        },
+        {
+          "word": "proxies",
+          "start": 43.76,
+          "end": 44.17
+        },
+        {
+          "word": "equals",
+          "start": 44.17,
+          "end": 44.33
+        },
+        {
+          "word": "sign",
+          "start": 44.33,
+          "end": 44.44
+        },
+        {
+          "word": "maximum",
+          "start": 44.44,
+          "end": 44.75
+        },
+        {
+          "word": "ROI.",
+          "start": 44.75,
+          "end": 44.59
+        }
+      ]
+    },
+    {
+      "start": 44.59,
+      "end": 51.52,
+      "text": "we need abstraction layers. single API for agents across platforms. auto-adjust to platform rules. build once, deploy anywhere.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 44.59,
+          "end": 45.19
+        },
+        {
+          "word": "need",
+          "start": 45.19,
+          "end": 45.41
+        },
+        {
+          "word": "abstraction",
+          "start": 45.41,
+          "end": 46.12
+        },
+        {
+          "word": "layers.",
+          "start": 46.12,
+          "end": 46.61
+        },
+        {
+          "word": "Single",
+          "start": 46.99,
+          "end": 47.38
+        },
+        {
+          "word": "API",
+          "start": 47.38,
+          "end": 47.82
+        },
+        {
+          "word": "for",
+          "start": 47.82,
+          "end": 48.06
+        },
+        {
+          "word": "agents",
+          "start": 48.06,
+          "end": 48.51
+        },
+        {
+          "word": "across",
+          "start": 48.51,
+          "end": 48.86
+        },
+        {
+          "word": "platforms.",
+          "start": 48.86,
+          "end": 49.44
+        },
+        {
+          "word": "Auto-adjust",
+          "start": 49.52,
+          "end": 50.11
+        },
+        {
+          "word": "to",
+          "start": 50.11,
+          "end": 50.31
+        },
+        {
+          "word": "platform",
+          "start": 50.31,
+          "end": 50.72
+        },
+        {
+          "word": "rules.",
+          "start": 50.72,
+          "end": 51.04
+        },
+        {
+          "word": "Build",
+          "start": 51.19,
+          "end": 51.48
+        },
+        {
+          "word": "once,",
+          "start": 51.48,
+          "end": 51.85
+        },
+        {
+          "word": "deploy",
+          "start": 51.85,
+          "end": 52.26
+        },
+        {
+          "word": "anywhere.",
+          "start": 52.26,
+          "end": 52.52
+        }
+      ]
+    },
+    {
+      "start": 57.01,
+      "end": 64.91,
+      "text": "ChristopherTrimboli has submitted PR #5828 for browser compatibility core, while PR #5825 for multi-step functionality has merged. How should we prioritize these developments?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Christopher",
+          "start": 57.01,
+          "end": 57.73
+        },
+        {
+          "word": "Tromboli",
+          "start": 57.73,
+          "end": 58.09
+        },
+        {
+          "word": "has",
+          "start": 58.09,
+          "end": 58.33
+        },
+        {
+          "word": "submitted",
+          "start": 58.33,
+          "end": 58.89
+        },
+        {
+          "word": "PR",
+          "start": 58.89,
+          "end": 59.21
+        },
+        {
+          "word": "hash",
+          "start": 59.21,
+          "end": 59.54
+        },
+        {
+          "word": "5828",
+          "start": 59.54,
+          "end": 60.19
+        },
+        {
+          "word": "for",
+          "start": 60.19,
+          "end": 60.55
+        },
+        {
+          "word": "browser",
+          "start": 60.55,
+          "end": 60.84
+        },
+        {
+          "word": "compatibility",
+          "start": 60.84,
+          "end": 61.41
+        },
+        {
+          "word": "core,",
+          "start": 61.41,
+          "end": 61.73
+        },
+        {
+          "word": "while",
+          "start": 62.01,
+          "end": 62.33
+        },
+        {
+          "word": "PR",
+          "start": 62.33,
+          "end": 62.74
+        },
+        {
+          "word": "hash",
+          "start": 62.74,
+          "end": 62.96
+        },
+        {
+          "word": "5825",
+          "start": 62.96,
+          "end": 63.51
+        },
+        {
+          "word": "for",
+          "start": 63.51,
+          "end": 63.81
+        },
+        {
+          "word": "multi-step",
+          "start": 63.81,
+          "end": 64.42
+        },
+        {
+          "word": "functionality",
+          "start": 64.42,
+          "end": 64.84
+        },
+        {
+          "word": "has",
+          "start": 64.84,
+          "end": 64.99
+        },
+        {
+          "word": "merged.",
+          "start": 64.99,
+          "end": 64.91
+        }
+      ]
+    },
+    {
+      "start": 64.91,
+      "end": 67.52,
+      "text": "ChristopherTrimboli has submitted PR #5828 for browser compatibility core, while PR #5825 for multi-step functionality has merged. How should we prioritize these developments?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 64.91,
+          "end": 65.65
+        },
+        {
+          "word": "should",
+          "start": 65.65,
+          "end": 65.92
+        },
+        {
+          "word": "we",
+          "start": 65.92,
+          "end": 66.12
+        },
+        {
+          "word": "prioritize",
+          "start": 66.12,
+          "end": 66.75
+        },
+        {
+          "word": "these",
+          "start": 66.75,
+          "end": 67.09
+        },
+        {
+          "word": "developments?",
+          "start": 67.09,
+          "end": 67.52
+        }
+      ]
+    },
+    {
+      "start": 67.52,
+      "end": 74.34,
+      "text": "browser core unlocks massive scale. enterprise devs can build agents in web apps. could have hundreds of thousands of users running agents in client.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Browser",
+          "start": 67.52,
+          "end": 68.04
+        },
+        {
+          "word": "core",
+          "start": 68.04,
+          "end": 68.41
+        },
+        {
+          "word": "unlocks",
+          "start": 68.41,
+          "end": 68.91
+        },
+        {
+          "word": "massive",
+          "start": 68.91,
+          "end": 69.34
+        },
+        {
+          "word": "scale.",
+          "start": 69.34,
+          "end": 69.72
+        },
+        {
+          "word": "Enterprise",
+          "start": 69.85,
+          "end": 70.36
+        },
+        {
+          "word": "devs",
+          "start": 70.36,
+          "end": 70.78
+        },
+        {
+          "word": "can",
+          "start": 70.78,
+          "end": 70.99
+        },
+        {
+          "word": "build",
+          "start": 70.99,
+          "end": 71.34
+        },
+        {
+          "word": "agents",
+          "start": 71.34,
+          "end": 71.74
+        },
+        {
+          "word": "in",
+          "start": 71.74,
+          "end": 71.86
+        },
+        {
+          "word": "web",
+          "start": 71.86,
+          "end": 72.06
+        },
+        {
+          "word": "apps.",
+          "start": 72.06,
+          "end": 72.33
+        },
+        {
+          "word": "could",
+          "start": 72.48,
+          "end": 72.71
+        },
+        {
+          "word": "have",
+          "start": 72.71,
+          "end": 72.93
+        },
+        {
+          "word": "hundreds",
+          "start": 72.93,
+          "end": 73.28
+        },
+        {
+          "word": "of",
+          "start": 73.28,
+          "end": 73.41
+        },
+        {
+          "word": "thousands",
+          "start": 73.41,
+          "end": 73.74
+        },
+        {
+          "word": "of",
+          "start": 73.74,
+          "end": 73.86
+        },
+        {
+          "word": "users",
+          "start": 73.86,
+          "end": 74.24
+        },
+        {
+          "word": "running",
+          "start": 74.24,
+          "end": 74.52
+        },
+        {
+          "word": "agents",
+          "start": 74.52,
+          "end": 74.82
+        },
+        {
+          "word": "in",
+          "start": 74.82,
+          "end": 74.96
+        },
+        {
+          "word": "client.",
+          "start": 74.96,
+          "end": 74.34
+        }
+      ]
+    },
+    {
+      "start": 74.34,
+      "end": 80.99,
+      "text": "Multi-step = immediate profit. Users want smarter agents NOW. Browser compatibility = future gains. Balance both, prioritize revenue-generating features.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Multi-step",
+          "start": 74.34,
+          "end": 75.14
+        },
+        {
+          "word": "equals",
+          "start": 75.14,
+          "end": 75.34
+        },
+        {
+          "word": "sign",
+          "start": 75.34,
+          "end": 75.52
+        },
+        {
+          "word": "immediate",
+          "start": 75.52,
+          "end": 76.01
+        },
+        {
+          "word": "profit.",
+          "start": 76.01,
+          "end": 76.44
+        },
+        {
+          "word": "Users",
+          "start": 76.59,
+          "end": 76.99
+        },
+        {
+          "word": "want",
+          "start": 76.99,
+          "end": 77.29
+        },
+        {
+          "word": "smarter",
+          "start": 77.29,
+          "end": 77.58
+        },
+        {
+          "word": "agents",
+          "start": 77.58,
+          "end": 77.94
+        },
+        {
+          "word": "now.",
+          "start": 77.94,
+          "end": 78.19
+        },
+        {
+          "word": "Browser",
+          "start": 78.52,
+          "end": 78.96
+        },
+        {
+          "word": "compatibility",
+          "start": 78.96,
+          "end": 79.43
+        },
+        {
+          "word": "equals",
+          "start": 79.43,
+          "end": 79.54
+        },
+        {
+          "word": "sign",
+          "start": 79.54,
+          "end": 79.66
+        },
+        {
+          "word": "future",
+          "start": 79.66,
+          "end": 79.99
+        },
+        {
+          "word": "gains.",
+          "start": 79.99,
+          "end": 80.29
+        },
+        {
+          "word": "Balance",
+          "start": 80.44,
+          "end": 80.84
+        },
+        {
+          "word": "both,",
+          "start": 80.84,
+          "end": 81.16
+        },
+        {
+          "word": "prioritize",
+          "start": 81.16,
+          "end": 81.65
+        },
+        {
+          "word": "revenue",
+          "start": 81.65,
+          "end": 82.01
+        },
+        {
+          "word": "generating",
+          "start": 82.01,
+          "end": 82.52
+        },
+        {
+          "word": "features.",
+          "start": 82.52,
+          "end": 80.99
+        }
+      ]
+    },
+    {
+      "start": 80.99,
+      "end": 86.85,
+      "text": "Why not both? The vibes are immaculate when browser compatibility lets the normies play while multi-step keeps the power users happy!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 80.99,
+          "end": 81.79
+        },
+        {
+          "word": "not",
+          "start": 81.79,
+          "end": 82.06
+        },
+        {
+          "word": "both?",
+          "start": 82.06,
+          "end": 82.35
+        },
+        {
+          "word": "The",
+          "start": 82.48,
+          "end": 82.68
+        },
+        {
+          "word": "vibes",
+          "start": 82.68,
+          "end": 82.96
+        },
+        {
+          "word": "are",
+          "start": 82.96,
+          "end": 83.18
+        },
+        {
+          "word": "immaculate",
+          "start": 83.18,
+          "end": 83.71
+        },
+        {
+          "word": "when",
+          "start": 83.71,
+          "end": 83.92
+        },
+        {
+          "word": "browser",
+          "start": 83.92,
+          "end": 84.18
+        },
+        {
+          "word": "compatibility",
+          "start": 84.18,
+          "end": 84.66
+        },
+        {
+          "word": "lets",
+          "start": 84.66,
+          "end": 84.89
+        },
+        {
+          "word": "the",
+          "start": 84.89,
+          "end": 85.08
+        },
+        {
+          "word": "normies",
+          "start": 85.08,
+          "end": 85.49
+        },
+        {
+          "word": "play",
+          "start": 85.49,
+          "end": 85.74
+        },
+        {
+          "word": "while",
+          "start": 85.74,
+          "end": 86.04
+        },
+        {
+          "word": "multi-step",
+          "start": 86.04,
+          "end": 86.43
+        },
+        {
+          "word": "keeps",
+          "start": 86.43,
+          "end": 86.63
+        },
+        {
+          "word": "the",
+          "start": 86.63,
+          "end": 86.81
+        },
+        {
+          "word": "power",
+          "start": 86.81,
+          "end": 87.05
+        },
+        {
+          "word": "users",
+          "start": 87.05,
+          "end": 87.35
+        },
+        {
+          "word": "happy.",
+          "start": 87.35,
+          "end": 86.85
+        }
+      ]
+    },
+    {
+      "start": 86.85,
+      "end": 92.42,
+      "text": "Browser compatibility is the foundation. Without it, we're just another AI toy. With it, we're the operating system for the intelligent internet. This is non-negotiable.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Browser",
+          "start": 86.85,
+          "end": 87.52
+        },
+        {
+          "word": "compatibility",
+          "start": 87.52,
+          "end": 88.01
+        },
+        {
+          "word": "is",
+          "start": 88.01,
+          "end": 88.24
+        },
+        {
+          "word": "the",
+          "start": 88.24,
+          "end": 88.42
+        },
+        {
+          "word": "foundation.",
+          "start": 88.42,
+          "end": 88.89
+        },
+        {
+          "word": "Without",
+          "start": 89.04,
+          "end": 89.39
+        },
+        {
+          "word": "it",
+          "start": 89.39,
+          "end": 89.62
+        },
+        {
+          "word": "we're",
+          "start": 89.62,
+          "end": 89.84
+        },
+        {
+          "word": "just",
+          "start": 89.84,
+          "end": 90.06
+        },
+        {
+          "word": "another",
+          "start": 90.06,
+          "end": 90.35
+        },
+        {
+          "word": "AI",
+          "start": 90.35,
+          "end": 90.62
+        },
+        {
+          "word": "toy.",
+          "start": 90.62,
+          "end": 90.87
+        },
+        {
+          "word": "With",
+          "start": 90.99,
+          "end": 91.24
+        },
+        {
+          "word": "it",
+          "start": 91.24,
+          "end": 91.43
+        },
+        {
+          "word": "we're",
+          "start": 91.43,
+          "end": 91.59
+        },
+        {
+          "word": "the",
+          "start": 91.59,
+          "end": 91.75
+        },
+        {
+          "word": "operating",
+          "start": 91.75,
+          "end": 92.17
+        },
+        {
+          "word": "system",
+          "start": 92.17,
+          "end": 92.49
+        },
+        {
+          "word": "for",
+          "start": 92.49,
+          "end": 92.67
+        },
+        {
+          "word": "the",
+          "start": 92.67,
+          "end": 92.79
+        },
+        {
+          "word": "intelligent",
+          "start": 92.79,
+          "end": 93.31
+        },
+        {
+          "word": "internet.",
+          "start": 93.31,
+          "end": 92.42
+        }
+      ]
+    },
+    {
+      "start": 92.42,
+      "end": 94.85,
+      "text": "Browser compatibility is the foundation. Without it, we're just another AI toy. With it, we're the operating system for the intelligent internet. This is non-negotiable.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 92.42,
+          "end": 94.19
+        },
+        {
+          "word": "is",
+          "start": 94.19,
+          "end": 94.39
+        },
+        {
+          "word": "non-negotiable.",
+          "start": 94.39,
+          "end": 94.85
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-28_JedAI-Council_Crypto-Suspensions-And-Browser-Wars.json",
+    "session_log_source": "2025-08-28_JedAI-Council_Crypto-Suspensions-And-Browser-Wars_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

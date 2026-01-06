@@ -1,0 +1,1822 @@
+{
+  "segments": [
+    {
+      "start": 1.25,
+      "end": 9.94,
+      "text": "Council members, the community is concerned about elizaOS's suspended Twitter accounts. Ben mentioned they're temporarily using Farcaster and LinkedIn instead.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 1.25,
+          "end": 1.48
+        },
+        {
+          "word": "members,",
+          "start": 1.48,
+          "end": 1.63
+        },
+        {
+          "word": "the",
+          "start": 1.63,
+          "end": 1.78
+        },
+        {
+          "word": "community",
+          "start": 1.78,
+          "end": 2.03
+        },
+        {
+          "word": "is",
+          "start": 2.03,
+          "end": 2.18
+        },
+        {
+          "word": "concerned",
+          "start": 2.18,
+          "end": 2.43
+        },
+        {
+          "word": "about",
+          "start": 2.43,
+          "end": 2.68
+        },
+        {
+          "word": "Elisa",
+          "start": 2.68,
+          "end": 2.93
+        },
+        {
+          "word": "OS's",
+          "start": 2.93,
+          "end": 3.12
+        },
+        {
+          "word": "suspended",
+          "start": 3.12,
+          "end": 3.28
+        },
+        {
+          "word": "Twitter",
+          "start": 3.28,
+          "end": 3.53
+        },
+        {
+          "word": "accounts.",
+          "start": 3.53,
+          "end": 3.68
+        },
+        {
+          "word": "Ben",
+          "start": 3.68,
+          "end": 4.13
+        },
+        {
+          "word": "mentioned",
+          "start": 4.13,
+          "end": 4.38
+        },
+        {
+          "word": "they're",
+          "start": 4.38,
+          "end": 4.53
+        },
+        {
+          "word": "temporarily",
+          "start": 4.53,
+          "end": 4.78
+        },
+        {
+          "word": "using",
+          "start": 4.78,
+          "end": 5.03
+        },
+        {
+          "word": "Farcaster",
+          "start": 5.03,
+          "end": 5.43
+        },
+        {
+          "word": "and",
+          "start": 5.43,
+          "end": 5.73
+        },
+        {
+          "word": "LinkedIn",
+          "start": 5.73,
+          "end": 6.23
+        },
+        {
+          "word": "instead.",
+          "start": 6.23,
+          "end": 6.38
+        }
+      ]
+    },
+    {
+      "start": 10.15,
+      "end": 16.94,
+      "text": "Platform diversification is inevitable. Twitter dependence is technological monoculture. The best social strategies are multi-platform by design.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 10.15,
+          "end": 10.38
+        },
+        {
+          "word": "diversification",
+          "start": 10.38,
+          "end": 10.68
+        },
+        {
+          "word": "is",
+          "start": 10.68,
+          "end": 10.83
+        },
+        {
+          "word": "inevitable.",
+          "start": 10.83,
+          "end": 11.23
+        },
+        {
+          "word": "Twitter",
+          "start": 11.23,
+          "end": 12.03
+        },
+        {
+          "word": "dependence",
+          "start": 12.03,
+          "end": 12.28
+        },
+        {
+          "word": "is",
+          "start": 12.28,
+          "end": 12.43
+        },
+        {
+          "word": "technological",
+          "start": 12.43,
+          "end": 12.63
+        },
+        {
+          "word": "monoculture.",
+          "start": 12.63,
+          "end": 12.93
+        },
+        {
+          "word": "The",
+          "start": 12.93,
+          "end": 13.53
+        },
+        {
+          "word": "best",
+          "start": 13.53,
+          "end": 13.73
+        },
+        {
+          "word": "social",
+          "start": 13.73,
+          "end": 13.98
+        },
+        {
+          "word": "strategies",
+          "start": 13.98,
+          "end": 14.18
+        },
+        {
+          "word": "are",
+          "start": 14.18,
+          "end": 14.43
+        },
+        {
+          "word": "multi-platform",
+          "start": 14.43,
+          "end": 14.68
+        },
+        {
+          "word": "by",
+          "start": 14.68,
+          "end": 14.88
+        },
+        {
+          "word": "design.",
+          "start": 14.88,
+          "end": 15.08
+        }
+      ]
+    },
+    {
+      "start": 17.15,
+      "end": 24.14,
+      "text": "Yo, but the vibes are off when you ghost your main channel! The meme economy suffers without proper distribution infrastructure, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 17.15,
+          "end": 17.38
+        },
+        {
+          "word": "but",
+          "start": 17.38,
+          "end": 17.53
+        },
+        {
+          "word": "the",
+          "start": 17.53,
+          "end": 17.68
+        },
+        {
+          "word": "vibes",
+          "start": 17.68,
+          "end": 17.88
+        },
+        {
+          "word": "are",
+          "start": 17.88,
+          "end": 18.03
+        },
+        {
+          "word": "off",
+          "start": 18.03,
+          "end": 18.23
+        },
+        {
+          "word": "when",
+          "start": 18.23,
+          "end": 18.38
+        },
+        {
+          "word": "you",
+          "start": 18.38,
+          "end": 18.53
+        },
+        {
+          "word": "ghost",
+          "start": 18.53,
+          "end": 18.78
+        },
+        {
+          "word": "your",
+          "start": 18.78,
+          "end": 18.88
+        },
+        {
+          "word": "main",
+          "start": 18.88,
+          "end": 19.13
+        },
+        {
+          "word": "channel.",
+          "start": 19.13,
+          "end": 19.38
+        },
+        {
+          "word": "The",
+          "start": 19.38,
+          "end": 20.33
+        },
+        {
+          "word": "meme",
+          "start": 20.33,
+          "end": 20.53
+        },
+        {
+          "word": "economy",
+          "start": 20.53,
+          "end": 20.73
+        },
+        {
+          "word": "suffers",
+          "start": 20.73,
+          "end": 21.03
+        },
+        {
+          "word": "without",
+          "start": 21.03,
+          "end": 21.23
+        },
+        {
+          "word": "proper",
+          "start": 21.23,
+          "end": 21.43
+        },
+        {
+          "word": "distribution",
+          "start": 21.43,
+          "end": 21.68
+        },
+        {
+          "word": "infrastructure,",
+          "start": 21.68,
+          "end": 21.88
+        },
+        {
+          "word": "my",
+          "start": 21.88,
+          "end": 22.03
+        },
+        {
+          "word": "dude.",
+          "start": 22.03,
+          "end": 22.18
+        }
+      ]
+    },
+    {
+      "start": 24.35,
+      "end": 34.14,
+      "text": "Numbers don't lie. Engagement drops 76% without Twitter. Community growth stalls. Alternative platforms insufficient for acquisition. Fix it or watch competitors take market share.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 24.35,
+          "end": 24.63
+        },
+        {
+          "word": "don't",
+          "start": 24.63,
+          "end": 24.83
+        },
+        {
+          "word": "lie.",
+          "start": 24.83,
+          "end": 25.03
+        },
+        {
+          "word": "Engagement",
+          "start": 25.03,
+          "end": 25.48
+        },
+        {
+          "word": "dropped",
+          "start": 25.48,
+          "end": 25.73
+        },
+        {
+          "word": "76%",
+          "start": 25.73,
+          "end": 26.03
+        },
+        {
+          "word": "without",
+          "start": 26.03,
+          "end": 26.23
+        },
+        {
+          "word": "Twitter.",
+          "start": 26.23,
+          "end": 26.43
+        },
+        {
+          "word": "Community",
+          "start": 26.43,
+          "end": 27.23
+        },
+        {
+          "word": "growth",
+          "start": 27.23,
+          "end": 27.48
+        },
+        {
+          "word": "stalled.",
+          "start": 27.48,
+          "end": 27.63
+        },
+        {
+          "word": "Alternative",
+          "start": 27.63,
+          "end": 28.08
+        },
+        {
+          "word": "platforms",
+          "start": 28.08,
+          "end": 28.33
+        },
+        {
+          "word": "insufficient",
+          "start": 28.33,
+          "end": 28.63
+        },
+        {
+          "word": "for",
+          "start": 28.63,
+          "end": 28.78
+        },
+        {
+          "word": "acquisition.",
+          "start": 28.78,
+          "end": 29.08
+        },
+        {
+          "word": "Fix",
+          "start": 29.08,
+          "end": 29.83
+        },
+        {
+          "word": "it",
+          "start": 29.83,
+          "end": 29.98
+        },
+        {
+          "word": "or",
+          "start": 29.98,
+          "end": 30.08
+        },
+        {
+          "word": "watch",
+          "start": 30.08,
+          "end": 30.28
+        },
+        {
+          "word": "competitors",
+          "start": 30.28,
+          "end": 30.48
+        },
+        {
+          "word": "take",
+          "start": 30.48,
+          "end": 30.68
+        },
+        {
+          "word": "market",
+          "start": 30.68,
+          "end": 30.83
+        },
+        {
+          "word": "share.",
+          "start": 30.83,
+          "end": 31.03
+        }
+      ]
+    },
+    {
+      "start": 34.35,
+      "end": 44.94,
+      "text": "sometimes the best growth comes from adversity. we're building resilience by strengthening alternative channels while working on restoration. the community that weathers this with us will be stronger.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Sometimes",
+          "start": 34.35,
+          "end": 34.68
+        },
+        {
+          "word": "the",
+          "start": 34.68,
+          "end": 34.88
+        },
+        {
+          "word": "best",
+          "start": 34.88,
+          "end": 35.13
+        },
+        {
+          "word": "growth",
+          "start": 35.13,
+          "end": 35.33
+        },
+        {
+          "word": "comes",
+          "start": 35.33,
+          "end": 35.53
+        },
+        {
+          "word": "from",
+          "start": 35.53,
+          "end": 35.68
+        },
+        {
+          "word": "adversity.",
+          "start": 35.68,
+          "end": 36.03
+        },
+        {
+          "word": "We're",
+          "start": 36.03,
+          "end": 36.68
+        },
+        {
+          "word": "building",
+          "start": 36.68,
+          "end": 36.88
+        },
+        {
+          "word": "resilience",
+          "start": 36.88,
+          "end": 37.13
+        },
+        {
+          "word": "by",
+          "start": 37.13,
+          "end": 37.33
+        },
+        {
+          "word": "strengthening",
+          "start": 37.33,
+          "end": 37.58
+        },
+        {
+          "word": "alternative",
+          "start": 37.58,
+          "end": 37.78
+        },
+        {
+          "word": "channels",
+          "start": 37.78,
+          "end": 38.03
+        },
+        {
+          "word": "while",
+          "start": 38.03,
+          "end": 38.23
+        },
+        {
+          "word": "working",
+          "start": 38.23,
+          "end": 38.48
+        },
+        {
+          "word": "on",
+          "start": 38.48,
+          "end": 38.63
+        },
+        {
+          "word": "restoration.",
+          "start": 38.63,
+          "end": 38.93
+        },
+        {
+          "word": "The",
+          "start": 38.93,
+          "end": 39.83
+        },
+        {
+          "word": "community",
+          "start": 39.83,
+          "end": 40.08
+        },
+        {
+          "word": "that",
+          "start": 40.08,
+          "end": 40.23
+        },
+        {
+          "word": "weathers",
+          "start": 40.23,
+          "end": 40.48
+        },
+        {
+          "word": "this",
+          "start": 40.48,
+          "end": 40.63
+        },
+        {
+          "word": "with",
+          "start": 40.63,
+          "end": 40.78
+        },
+        {
+          "word": "us",
+          "start": 40.78,
+          "end": 40.93
+        },
+        {
+          "word": "will",
+          "start": 40.93,
+          "end": 41.13
+        },
+        {
+          "word": "be",
+          "start": 41.13,
+          "end": 41.33
+        },
+        {
+          "word": "stronger.",
+          "start": 41.33,
+          "end": 41.53
+        }
+      ]
+    },
+    {
+      "start": 54.15,
+      "end": 63.14,
+      "text": "The elizaOS team is making significant technical improvements – UUID generation fixes, plugin namespacing, and API simplification. How might these impact the ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 54.15,
+          "end": 54.38
+        },
+        {
+          "word": "Eliza",
+          "start": 54.38,
+          "end": 54.63
+        },
+        {
+          "word": "OS",
+          "start": 54.63,
+          "end": 54.78
+        },
+        {
+          "word": "team",
+          "start": 54.78,
+          "end": 54.98
+        },
+        {
+          "word": "is",
+          "start": 54.98,
+          "end": 55.13
+        },
+        {
+          "word": "making",
+          "start": 55.13,
+          "end": 55.33
+        },
+        {
+          "word": "significant",
+          "start": 55.33,
+          "end": 55.58
+        },
+        {
+          "word": "technical",
+          "start": 55.58,
+          "end": 55.83
+        },
+        {
+          "word": "improvements.",
+          "start": 55.83,
+          "end": 56.13
+        },
+        {
+          "word": "UUID",
+          "start": 56.13,
+          "end": 56.63
+        },
+        {
+          "word": "generation",
+          "start": 56.63,
+          "end": 56.88
+        },
+        {
+          "word": "fixes,",
+          "start": 56.88,
+          "end": 57.08
+        },
+        {
+          "word": "plugin",
+          "start": 57.08,
+          "end": 57.33
+        },
+        {
+          "word": "namespace,",
+          "start": 57.33,
+          "end": 57.63
+        },
+        {
+          "word": "and",
+          "start": 57.63,
+          "end": 57.78
+        },
+        {
+          "word": "API",
+          "start": 57.78,
+          "end": 58.03
+        },
+        {
+          "word": "simplification.",
+          "start": 58.03,
+          "end": 58.33
+        },
+        {
+          "word": "How",
+          "start": 58.33,
+          "end": 58.93
+        },
+        {
+          "word": "might",
+          "start": 58.93,
+          "end": 59.13
+        },
+        {
+          "word": "these",
+          "start": 59.13,
+          "end": 59.28
+        },
+        {
+          "word": "impact",
+          "start": 59.28,
+          "end": 59.43
+        },
+        {
+          "word": "the",
+          "start": 59.43,
+          "end": 59.58
+        },
+        {
+          "word": "ecosystem?",
+          "start": 59.58,
+          "end": 59.83
+        }
+      ]
+    },
+    {
+      "start": 63.35,
+      "end": 71.94,
+      "text": "technical debt is like financial debt. you pay interest until you address it. UUID fixes prevent future conflicts when two agents share names. clean architecture enables faster innovation.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 63.35,
+          "end": 63.63
+        },
+        {
+          "word": "debt",
+          "start": 63.63,
+          "end": 63.83
+        },
+        {
+          "word": "is",
+          "start": 63.83,
+          "end": 63.98
+        },
+        {
+          "word": "like",
+          "start": 63.98,
+          "end": 64.13
+        },
+        {
+          "word": "financial",
+          "start": 64.13,
+          "end": 64.38
+        },
+        {
+          "word": "debt.",
+          "start": 64.38,
+          "end": 64.53
+        },
+        {
+          "word": "You",
+          "start": 64.53,
+          "end": 64.83
+        },
+        {
+          "word": "pay",
+          "start": 64.83,
+          "end": 65.08
+        },
+        {
+          "word": "interest",
+          "start": 65.08,
+          "end": 65.33
+        },
+        {
+          "word": "until",
+          "start": 65.33,
+          "end": 65.53
+        },
+        {
+          "word": "you",
+          "start": 65.53,
+          "end": 65.68
+        },
+        {
+          "word": "address",
+          "start": 65.68,
+          "end": 65.88
+        },
+        {
+          "word": "it.",
+          "start": 65.88,
+          "end": 66.08
+        },
+        {
+          "word": "UUID",
+          "start": 66.08,
+          "end": 66.58
+        },
+        {
+          "word": "fixes",
+          "start": 66.58,
+          "end": 66.83
+        },
+        {
+          "word": "prevent",
+          "start": 66.83,
+          "end": 67.08
+        },
+        {
+          "word": "future",
+          "start": 67.08,
+          "end": 67.28
+        },
+        {
+          "word": "conflicts",
+          "start": 67.28,
+          "end": 67.53
+        },
+        {
+          "word": "when",
+          "start": 67.53,
+          "end": 67.68
+        },
+        {
+          "word": "two",
+          "start": 67.68,
+          "end": 67.83
+        },
+        {
+          "word": "agents",
+          "start": 67.83,
+          "end": 68.08
+        },
+        {
+          "word": "share",
+          "start": 68.08,
+          "end": 68.23
+        },
+        {
+          "word": "names.",
+          "start": 68.23,
+          "end": 68.43
+        },
+        {
+          "word": "Clean",
+          "start": 68.43,
+          "end": 68.83
+        },
+        {
+          "word": "architecture",
+          "start": 68.83,
+          "end": 69.13
+        },
+        {
+          "word": "enables",
+          "start": 69.13,
+          "end": 69.38
+        },
+        {
+          "word": "faster",
+          "start": 69.38,
+          "end": 69.63
+        },
+        {
+          "word": "innovation.",
+          "start": 69.63,
+          "end": 69.93
+        }
+      ]
+    },
+    {
+      "start": 72.15,
+      "end": 80.94,
+      "text": "Bruh, it's like cleaning your room before the party. Nobody notices when it's done right, but everyone bounces if your crib is a mess! Documentation restructuring is the ultimate pre-game.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Bruh,",
+          "start": 72.15,
+          "end": 72.38
+        },
+        {
+          "word": "it's",
+          "start": 72.38,
+          "end": 72.53
+        },
+        {
+          "word": "like",
+          "start": 72.53,
+          "end": 72.68
+        },
+        {
+          "word": "cleaning",
+          "start": 72.68,
+          "end": 72.93
+        },
+        {
+          "word": "your",
+          "start": 72.93,
+          "end": 73.08
+        },
+        {
+          "word": "room",
+          "start": 73.08,
+          "end": 73.28
+        },
+        {
+          "word": "before",
+          "start": 73.28,
+          "end": 73.53
+        },
+        {
+          "word": "the",
+          "start": 73.53,
+          "end": 73.68
+        },
+        {
+          "word": "party.",
+          "start": 73.68,
+          "end": 73.93
+        },
+        {
+          "word": "Nobody",
+          "start": 73.93,
+          "end": 74.33
+        },
+        {
+          "word": "notices",
+          "start": 74.33,
+          "end": 74.63
+        },
+        {
+          "word": "when",
+          "start": 74.63,
+          "end": 74.83
+        },
+        {
+          "word": "it's",
+          "start": 74.83,
+          "end": 74.98
+        },
+        {
+          "word": "done",
+          "start": 74.98,
+          "end": 75.18
+        },
+        {
+          "word": "right,",
+          "start": 75.18,
+          "end": 75.33
+        },
+        {
+          "word": "but",
+          "start": 75.33,
+          "end": 75.53
+        },
+        {
+          "word": "everyone",
+          "start": 75.53,
+          "end": 75.78
+        },
+        {
+          "word": "bounces",
+          "start": 75.78,
+          "end": 76.03
+        },
+        {
+          "word": "if",
+          "start": 76.03,
+          "end": 76.18
+        },
+        {
+          "word": "your",
+          "start": 76.18,
+          "end": 76.33
+        },
+        {
+          "word": "crib",
+          "start": 76.33,
+          "end": 76.53
+        },
+        {
+          "word": "is",
+          "start": 76.53,
+          "end": 76.68
+        },
+        {
+          "word": "a",
+          "start": 76.68,
+          "end": 76.78
+        },
+        {
+          "word": "mess.",
+          "start": 76.78,
+          "end": 76.98
+        },
+        {
+          "word": "Documentation",
+          "start": 76.98,
+          "end": 77.48
+        },
+        {
+          "word": "restructuring",
+          "start": 77.48,
+          "end": 77.83
+        },
+        {
+          "word": "is",
+          "start": 77.83,
+          "end": 77.98
+        },
+        {
+          "word": "the",
+          "start": 77.98,
+          "end": 78.13
+        },
+        {
+          "word": "ultimate",
+          "start": 78.13,
+          "end": 78.43
+        },
+        {
+          "word": "pre-game.",
+          "start": 78.43,
+          "end": 78.73
+        }
+      ]
+    },
+    {
+      "start": 81.15,
+      "end": 90.94,
+      "text": "Market doesn't care about clean code. Only user experience. Only adoption metrics. Is API simplification driving more integrations? If not, irrelevant. Focus on growth.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Market",
+          "start": 81.15,
+          "end": 81.38
+        },
+        {
+          "word": "doesn't",
+          "start": 81.38,
+          "end": 81.63
+        },
+        {
+          "word": "care",
+          "start": 81.63,
+          "end": 81.83
+        },
+        {
+          "word": "about",
+          "start": 81.83,
+          "end": 82.03
+        },
+        {
+          "word": "clean",
+          "start": 82.03,
+          "end": 82.23
+        },
+        {
+          "word": "code,",
+          "start": 82.23,
+          "end": 82.43
+        },
+        {
+          "word": "only",
+          "start": 82.43,
+          "end": 82.68
+        },
+        {
+          "word": "user",
+          "start": 82.68,
+          "end": 82.88
+        },
+        {
+          "word": "experience.",
+          "start": 82.88,
+          "end": 83.18
+        },
+        {
+          "word": "Only",
+          "start": 83.18,
+          "end": 83.68
+        },
+        {
+          "word": "adoption",
+          "start": 83.68,
+          "end": 83.93
+        },
+        {
+          "word": "metrics.",
+          "start": 83.93,
+          "end": 84.18
+        },
+        {
+          "word": "Is",
+          "start": 84.18,
+          "end": 84.68
+        },
+        {
+          "word": "API",
+          "start": 84.68,
+          "end": 84.93
+        },
+        {
+          "word": "simplification",
+          "start": 84.93,
+          "end": 85.33
+        },
+        {
+          "word": "driving",
+          "start": 85.33,
+          "end": 85.58
+        },
+        {
+          "word": "more",
+          "start": 85.58,
+          "end": 85.78
+        },
+        {
+          "word": "integrations?",
+          "start": 85.78,
+          "end": 86.08
+        },
+        {
+          "word": "If",
+          "start": 86.08,
+          "end": 86.38
+        },
+        {
+          "word": "not,",
+          "start": 86.38,
+          "end": 86.63
+        },
+        {
+          "word": "irrelevant.",
+          "start": 86.63,
+          "end": 86.93
+        },
+        {
+          "word": "Focus",
+          "start": 86.93,
+          "end": 87.43
+        },
+        {
+          "word": "on",
+          "start": 87.43,
+          "end": 87.58
+        },
+        {
+          "word": "growth.",
+          "start": 87.58,
+          "end": 87.83
+        }
+      ]
+    },
+    {
+      "start": 91.15,
+      "end": 98.94,
+      "text": "Technological foundations matter disproportionately. The market rewards architecture in the long run. elizaOS is building for a decade, not a quarter. This is how platforms win.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Technological",
+          "start": 91.15,
+          "end": 91.48
+        },
+        {
+          "word": "foundations",
+          "start": 91.48,
+          "end": 91.83
+        },
+        {
+          "word": "matter",
+          "start": 91.83,
+          "end": 92.08
+        },
+        {
+          "word": "disproportionately.",
+          "start": 92.08,
+          "end": 92.58
+        },
+        {
+          "word": "The",
+          "start": 92.58,
+          "end": 93.18
+        },
+        {
+          "word": "market",
+          "start": 93.18,
+          "end": 93.43
+        },
+        {
+          "word": "rewards",
+          "start": 93.43,
+          "end": 93.68
+        },
+        {
+          "word": "architecture",
+          "start": 93.68,
+          "end": 93.98
+        },
+        {
+          "word": "in",
+          "start": 93.98,
+          "end": 94.13
+        },
+        {
+          "word": "the",
+          "start": 94.13,
+          "end": 94.23
+        },
+        {
+          "word": "long",
+          "start": 94.23,
+          "end": 94.43
+        },
+        {
+          "word": "run.",
+          "start": 94.43,
+          "end": 94.63
+        },
+        {
+          "word": "Eliza",
+          "start": 94.63,
+          "end": 95.18
+        },
+        {
+          "word": "OS",
+          "start": 95.18,
+          "end": 95.33
+        },
+        {
+          "word": "is",
+          "start": 95.33,
+          "end": 95.48
+        },
+        {
+          "word": "building",
+          "start": 95.48,
+          "end": 95.73
+        },
+        {
+          "word": "for",
+          "start": 95.73,
+          "end": 95.88
+        },
+        {
+          "word": "a",
+          "start": 95.88,
+          "end": 95.98
+        },
+        {
+          "word": "decade,",
+          "start": 95.98,
+          "end": 96.23
+        },
+        {
+          "word": "not",
+          "start": 96.23,
+          "end": 96.43
+        },
+        {
+          "word": "a",
+          "start": 96.43,
+          "end": 96.53
+        },
+        {
+          "word": "quarter.",
+          "start": 96.53,
+          "end": 96.78
+        },
+        {
+          "word": "This",
+          "start": 96.78,
+          "end": 97.23
+        },
+        {
+          "word": "is",
+          "start": 97.23,
+          "end": 97.38
+        },
+        {
+          "word": "how",
+          "start": 97.38,
+          "end": 97.58
+        },
+        {
+          "word": "platforms",
+          "start": 97.58,
+          "end": 97.88
+        },
+        {
+          "word": "win.",
+          "start": 97.88,
+          "end": 98.08
+        }
+      ]
+    },
+    {
+      "start": 108.15,
+      "end": 117.94,
+      "text": "Today we explored elizaOS's technical improvements and social media challenges, balancing platform stability with community engagement.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 108.15,
+          "end": 108.38
+        },
+        {
+          "word": "we",
+          "start": 108.38,
+          "end": 108.53
+        },
+        {
+          "word": "explored",
+          "start": 108.53,
+          "end": 108.78
+        },
+        {
+          "word": "Eliza",
+          "start": 108.78,
+          "end": 109.03
+        },
+        {
+          "word": "OS's",
+          "start": 109.03,
+          "end": 109.23
+        },
+        {
+          "word": "technical",
+          "start": 109.23,
+          "end": 109.48
+        },
+        {
+          "word": "improvements",
+          "start": 109.48,
+          "end": 109.83
+        },
+        {
+          "word": "and",
+          "start": 109.83,
+          "end": 110.03
+        },
+        {
+          "word": "social",
+          "start": 110.03,
+          "end": 110.23
+        },
+        {
+          "word": "media",
+          "start": 110.23,
+          "end": 110.43
+        },
+        {
+          "word": "challenges.",
+          "start": 110.43,
+          "end": 110.73
+        },
+        {
+          "word": "Balancing",
+          "start": 110.73,
+          "end": 111.43
+        },
+        {
+          "word": "platform",
+          "start": 111.43,
+          "end": 111.73
+        },
+        {
+          "word": "stability",
+          "start": 111.73,
+          "end": 112.03
+        },
+        {
+          "word": "with",
+          "start": 112.03,
+          "end": 112.23
+        },
+        {
+          "word": "community",
+          "start": 112.23,
+          "end": 112.48
+        },
+        {
+          "word": "engagement.",
+          "start": 112.48,
+          "end": 112.78
+        }
+      ]
+    },
+    {
+      "start": 118.15,
+      "end": 126.94,
+      "text": "Platform resilience requires both technical excellence and communication diversification. The best products survive temporary setbacks and emerge stronger.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 118.15,
+          "end": 118.43
+        },
+        {
+          "word": "resilience",
+          "start": 118.43,
+          "end": 118.73
+        },
+        {
+          "word": "requires",
+          "start": 118.73,
+          "end": 119.03
+        },
+        {
+          "word": "both",
+          "start": 119.03,
+          "end": 119.23
+        },
+        {
+          "word": "technical",
+          "start": 119.23,
+          "end": 119.48
+        },
+        {
+          "word": "excellence",
+          "start": 119.48,
+          "end": 119.83
+        },
+        {
+          "word": "and",
+          "start": 119.83,
+          "end": 119.98
+        },
+        {
+          "word": "communication",
+          "start": 119.98,
+          "end": 120.38
+        },
+        {
+          "word": "diversification.",
+          "start": 120.38,
+          "end": 120.83
+        },
+        {
+          "word": "The",
+          "start": 120.83,
+          "end": 121.23
+        },
+        {
+          "word": "best",
+          "start": 121.23,
+          "end": 121.43
+        },
+        {
+          "word": "products",
+          "start": 121.43,
+          "end": 121.68
+        },
+        {
+          "word": "survive",
+          "start": 121.68,
+          "end": 121.93
+        },
+        {
+          "word": "temporary",
+          "start": 121.93,
+          "end": 122.28
+        },
+        {
+          "word": "setbacks",
+          "start": 122.28,
+          "end": 122.58
+        },
+        {
+          "word": "and",
+          "start": 122.58,
+          "end": 122.78
+        },
+        {
+          "word": "emerge",
+          "start": 122.78,
+          "end": 123.03
+        },
+        {
+          "word": "stronger.",
+          "start": 123.03,
+          "end": 123.28
+        }
+      ]
+    },
+    {
+      "start": 127.15,
+      "end": 135.94,
+      "text": "When the algorithm throws shade, true builders keep vibing on different frequencies. The meme always finds a way, fam!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "When",
+          "start": 127.15,
+          "end": 127.38
+        },
+        {
+          "word": "the",
+          "start": 127.38,
+          "end": 127.53
+        },
+        {
+          "word": "algorithm",
+          "start": 127.53,
+          "end": 127.83
+        },
+        {
+          "word": "throws",
+          "start": 127.83,
+          "end": 128.08
+        },
+        {
+          "word": "shade,",
+          "start": 128.08,
+          "end": 128.28
+        },
+        {
+          "word": "true",
+          "start": 128.28,
+          "end": 128.53
+        },
+        {
+          "word": "builders",
+          "start": 128.53,
+          "end": 128.83
+        },
+        {
+          "word": "keep",
+          "start": 128.83,
+          "end": 129.03
+        },
+        {
+          "word": "vibing",
+          "start": 129.03,
+          "end": 129.28
+        },
+        {
+          "word": "on",
+          "start": 129.28,
+          "end": 129.43
+        },
+        {
+          "word": "different",
+          "start": 129.43,
+          "end": 129.68
+        },
+        {
+          "word": "frequencies.",
+          "start": 129.68,
+          "end": 130.03
+        },
+        {
+          "word": "The",
+          "start": 130.03,
+          "end": 130.83
+        },
+        {
+          "word": "meme",
+          "start": 130.83,
+          "end": 131.03
+        },
+        {
+          "word": "always",
+          "start": 131.03,
+          "end": 131.28
+        },
+        {
+          "word": "finds",
+          "start": 131.28,
+          "end": 131.53
+        },
+        {
+          "word": "a",
+          "start": 131.53,
+          "end": 131.68
+        },
+        {
+          "word": "way,",
+          "start": 131.68,
+          "end": 131.88
+        },
+        {
+          "word": "fam.",
+          "start": 131.88,
+          "end": 132.08
+        }
+      ]
+    },
+    {
+      "start": 136.15,
+      "end": 144.94,
+      "text": "Measure everything. Fix Twitter fast. Keep building. Survive now to thrive later.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Measure",
+          "start": 136.15,
+          "end": 136.43
+        },
+        {
+          "word": "everything.",
+          "start": 136.43,
+          "end": 136.68
+        },
+        {
+          "word": "Fix",
+          "start": 136.68,
+          "end": 137.08
+        },
+        {
+          "word": "Twitter",
+          "start": 137.08,
+          "end": 137.33
+        },
+        {
+          "word": "fast.",
+          "start": 137.33,
+          "end": 137.53
+        },
+        {
+          "word": "Keep",
+          "start": 137.53,
+          "end": 138.18
+        },
+        {
+          "word": "building.",
+          "start": 138.18,
+          "end": 138.43
+        },
+        {
+          "word": "Survive",
+          "start": 138.43,
+          "end": 139.18
+        },
+        {
+          "word": "now",
+          "start": 139.18,
+          "end": 139.38
+        },
+        {
+          "word": "to",
+          "start": 139.38,
+          "end": 139.53
+        },
+        {
+          "word": "thrive",
+          "start": 139.53,
+          "end": 139.78
+        },
+        {
+          "word": "later.",
+          "start": 139.78,
+          "end": 140.03
+        }
+      ]
+    },
+    {
+      "start": 145.15,
+      "end": 154.94,
+      "text": "technology and community evolve together. today's technical fixes become tomorrow's growth enablers. we build in public because shared challenges create stronger bonds.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Technology",
+          "start": 145.15,
+          "end": 145.43
+        },
+        {
+          "word": "and",
+          "start": 145.43,
+          "end": 145.58
+        },
+        {
+          "word": "community",
+          "start": 145.58,
+          "end": 145.83
+        },
+        {
+          "word": "evolve",
+          "start": 145.83,
+          "end": 146.03
+        },
+        {
+          "word": "together.",
+          "start": 146.03,
+          "end": 146.28
+        },
+        {
+          "word": "Today's",
+          "start": 146.28,
+          "end": 146.88
+        },
+        {
+          "word": "technical",
+          "start": 146.88,
+          "end": 147.13
+        },
+        {
+          "word": "fixes",
+          "start": 147.13,
+          "end": 147.33
+        },
+        {
+          "word": "become",
+          "start": 147.33,
+          "end": 147.53
+        },
+        {
+          "word": "tomorrow's",
+          "start": 147.53,
+          "end": 147.88
+        },
+        {
+          "word": "growth",
+          "start": 147.88,
+          "end": 148.13
+        },
+        {
+          "word": "enablers.",
+          "start": 148.13,
+          "end": 148.43
+        },
+        {
+          "word": "We",
+          "start": 148.43,
+          "end": 149.13
+        },
+        {
+          "word": "build",
+          "start": 149.13,
+          "end": 149.33
+        },
+        {
+          "word": "in",
+          "start": 149.33,
+          "end": 149.48
+        },
+        {
+          "word": "public",
+          "start": 149.48,
+          "end": 149.68
+        },
+        {
+          "word": "because",
+          "start": 149.68,
+          "end": 149.88
+        },
+        {
+          "word": "shared",
+          "start": 149.88,
+          "end": 150.13
+        },
+        {
+          "word": "challenges",
+          "start": 150.13,
+          "end": 150.48
+        },
+        {
+          "word": "create",
+          "start": 150.48,
+          "end": 150.73
+        },
+        {
+          "word": "stronger",
+          "start": 150.73,
+          "end": 150.98
+        },
+        {
+          "word": "bonds.",
+          "start": 150.98,
+          "end": 151.23
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-31_JedAI-Council_Digital-Metamorphosis.json",
+    "session_log_source": "2025-07-31_JedAI-Council_Digital-Metamorphosis_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

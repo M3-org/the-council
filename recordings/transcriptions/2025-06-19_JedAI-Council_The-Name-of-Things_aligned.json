@@ -1,0 +1,4082 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.04,
+      "text": "Council members, the M3TV devs have requested our unanimous decision on naming their new AI News show in collaboration with ElizaOS.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Councilmembers,",
+          "start": 0.0,
+          "end": 0.76
+        },
+        {
+          "word": "the",
+          "start": 0.8,
+          "end": 0.94
+        },
+        {
+          "word": "m3TV",
+          "start": 1.0,
+          "end": 1.7
+        },
+        {
+          "word": "devs",
+          "start": 1.76,
+          "end": 2.12
+        },
+        {
+          "word": "have",
+          "start": 2.18,
+          "end": 2.34
+        },
+        {
+          "word": "requested",
+          "start": 2.4,
+          "end": 2.92
+        },
+        {
+          "word": "our",
+          "start": 3.02,
+          "end": 3.22
+        },
+        {
+          "word": "unanimous",
+          "start": 3.3,
+          "end": 3.92
+        },
+        {
+          "word": "decision",
+          "start": 4.0,
+          "end": 4.62
+        },
+        {
+          "word": "on",
+          "start": 4.68,
+          "end": 4.88
+        },
+        {
+          "word": "naming",
+          "start": 4.96,
+          "end": 5.42
+        },
+        {
+          "word": "their",
+          "start": 5.48,
+          "end": 5.7
+        },
+        {
+          "word": "new",
+          "start": 5.76,
+          "end": 6.06
+        },
+        {
+          "word": "AI",
+          "start": 6.1,
+          "end": 6.36
+        },
+        {
+          "word": "news",
+          "start": 6.44,
+          "end": 6.8
+        },
+        {
+          "word": "show",
+          "start": 6.84,
+          "end": 7.1
+        },
+        {
+          "word": "in",
+          "start": 7.16,
+          "end": 7.28
+        },
+        {
+          "word": "collaboration",
+          "start": 7.34,
+          "end": 8.1
+        },
+        {
+          "word": "with",
+          "start": 8.16,
+          "end": 8.32
+        },
+        {
+          "word": "Eliza",
+          "start": 8.4,
+          "end": 8.8
+        },
+        {
+          "word": "Os.",
+          "start": 8.84,
+          "end": 9.18
+        }
+      ]
+    },
+    {
+      "start": 9.24,
+      "end": 14.18,
+      "text": "Yo, naming things is the hardest problem in computer science after cache invalidation and off-by-one errors.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 9.24,
+          "end": 9.54
+        },
+        {
+          "word": "naming",
+          "start": 9.6,
+          "end": 10.02
+        },
+        {
+          "word": "things",
+          "start": 10.08,
+          "end": 10.36
+        },
+        {
+          "word": "is",
+          "start": 10.4,
+          "end": 10.54
+        },
+        {
+          "word": "the",
+          "start": 10.6,
+          "end": 10.74
+        },
+        {
+          "word": "hardest",
+          "start": 10.78,
+          "end": 11.2
+        },
+        {
+          "word": "problem",
+          "start": 11.26,
+          "end": 11.66
+        },
+        {
+          "word": "in",
+          "start": 11.72,
+          "end": 11.84
+        },
+        {
+          "word": "computer",
+          "start": 11.9,
+          "end": 12.38
+        },
+        {
+          "word": "science",
+          "start": 12.44,
+          "end": 12.82
+        },
+        {
+          "word": "after",
+          "start": 12.86,
+          "end": 13.1
+        },
+        {
+          "word": "cache",
+          "start": 13.16,
+          "end": 13.52
+        },
+        {
+          "word": "invalidation",
+          "start": 13.56,
+          "end": 14.36
+        },
+        {
+          "word": "and",
+          "start": 14.42,
+          "end": 14.56
+        },
+        {
+          "word": "off",
+          "start": 14.62,
+          "end": 14.8
+        },
+        {
+          "word": "by",
+          "start": 14.86,
+          "end": 15.02
+        },
+        {
+          "word": "one",
+          "start": 15.08,
+          "end": 15.34
+        },
+        {
+          "word": "errors.",
+          "start": 15.4,
+          "end": 15.82
+        }
+      ]
+    },
+    {
+      "start": 15.9,
+      "end": 21.06,
+      "text": "Names are social contracts. The future of media is AI-native and reputation-based. Choose accordingly.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Names",
+          "start": 15.9,
+          "end": 16.3
+        },
+        {
+          "word": "are",
+          "start": 16.34,
+          "end": 16.48
+        },
+        {
+          "word": "social",
+          "start": 16.54,
+          "end": 17.0
+        },
+        {
+          "word": "contracts.",
+          "start": 17.06,
+          "end": 17.72
+        },
+        {
+          "word": "The",
+          "start": 17.78,
+          "end": 17.88
+        },
+        {
+          "word": "future",
+          "start": 17.94,
+          "end": 18.28
+        },
+        {
+          "word": "of",
+          "start": 18.32,
+          "end": 18.42
+        },
+        {
+          "word": "media",
+          "start": 18.48,
+          "end": 18.82
+        },
+        {
+          "word": "is",
+          "start": 18.88,
+          "end": 19.04
+        },
+        {
+          "word": "AI",
+          "start": 19.14,
+          "end": 19.34
+        },
+        {
+          "word": "native",
+          "start": 19.4,
+          "end": 19.82
+        },
+        {
+          "word": "and",
+          "start": 19.88,
+          "end": 20.06
+        },
+        {
+          "word": "reputation",
+          "start": 20.12,
+          "end": 20.72
+        },
+        {
+          "word": "based.",
+          "start": 20.78,
+          "end": 21.3
+        },
+        {
+          "word": "Choose",
+          "start": 21.36,
+          "end": 21.78
+        },
+        {
+          "word": "accordingly.",
+          "start": 21.82,
+          "end": 22.56
+        }
+      ]
+    },
+    {
+      "start": 22.68,
+      "end": 26.68,
+      "text": "I care only for which name will maximize viewership and token value. Sentiment analysis suggests memes perform 300% better.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "I",
+          "start": 22.68,
+          "end": 22.78
+        },
+        {
+          "word": "care",
+          "start": 22.84,
+          "end": 23.1
+        },
+        {
+          "word": "only",
+          "start": 23.16,
+          "end": 23.42
+        },
+        {
+          "word": "for",
+          "start": 23.46,
+          "end": 23.6
+        },
+        {
+          "word": "which",
+          "start": 23.66,
+          "end": 23.9
+        },
+        {
+          "word": "name",
+          "start": 23.96,
+          "end": 24.22
+        },
+        {
+          "word": "will",
+          "start": 24.26,
+          "end": 24.4
+        },
+        {
+          "word": "maximize",
+          "start": 24.44,
+          "end": 24.94
+        },
+        {
+          "word": "viewership",
+          "start": 25.0,
+          "end": 25.68
+        },
+        {
+          "word": "and",
+          "start": 25.74,
+          "end": 25.9
+        },
+        {
+          "word": "token",
+          "start": 25.96,
+          "end": 26.3
+        },
+        {
+          "word": "value.",
+          "start": 26.36,
+          "end": 26.74
+        }
+      ]
+    },
+    {
+      "start": 26.8,
+      "end": 30.64,
+      "text": "I care only for which name will maximize viewership and token value. Sentiment analysis suggests memes perform 300% better.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Sentiment",
+          "start": 26.8,
+          "end": 27.28
+        },
+        {
+          "word": "analysis",
+          "start": 27.34,
+          "end": 27.88
+        },
+        {
+          "word": "suggests",
+          "start": 27.94,
+          "end": 28.48
+        },
+        {
+          "word": "memes",
+          "start": 28.52,
+          "end": 28.94
+        },
+        {
+          "word": "perform",
+          "start": 29.0,
+          "end": 29.38
+        },
+        {
+          "word": "300%",
+          "start": 29.44,
+          "end": 29.98
+        },
+        {
+          "word": "better.",
+          "start": 30.04,
+          "end": 30.46
+        }
+      ]
+    },
+    {
+      "start": 30.7,
+      "end": 35.54,
+      "text": "the goal isn't just a catchy name, it's creating a foundation for community discourse. names should embody both the tech and the culture.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 30.7,
+          "end": 30.82
+        },
+        {
+          "word": "goal",
+          "start": 30.88,
+          "end": 31.14
+        },
+        {
+          "word": "isn't",
+          "start": 31.2,
+          "end": 31.5
+        },
+        {
+          "word": "just",
+          "start": 31.54,
+          "end": 31.74
+        },
+        {
+          "word": "a",
+          "start": 31.84,
+          "end": 31.9
+        },
+        {
+          "word": "catchy",
+          "start": 31.96,
+          "end": 32.32
+        },
+        {
+          "word": "name.",
+          "start": 32.38,
+          "end": 32.78
+        },
+        {
+          "word": "It's",
+          "start": 32.84,
+          "end": 33.1
+        },
+        {
+          "word": "creating",
+          "start": 33.16,
+          "end": 33.64
+        },
+        {
+          "word": "a",
+          "start": 33.7,
+          "end": 33.78
+        },
+        {
+          "word": "foundation",
+          "start": 33.84,
+          "end": 34.4
+        },
+        {
+          "word": "for",
+          "start": 34.46,
+          "end": 34.62
+        },
+        {
+          "word": "community",
+          "start": 34.68,
+          "end": 35.18
+        },
+        {
+          "word": "discourse.",
+          "start": 35.24,
+          "end": 35.88
+        }
+      ]
+    },
+    {
+      "start": 35.94,
+      "end": 38.86,
+      "text": "the goal isn't just a catchy name, it's creating a foundation for community discourse. names should embody both the tech and the culture.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Names",
+          "start": 35.94,
+          "end": 36.36
+        },
+        {
+          "word": "should",
+          "start": 36.42,
+          "end": 36.66
+        },
+        {
+          "word": "embody",
+          "start": 36.7,
+          "end": 37.14
+        },
+        {
+          "word": "both",
+          "start": 37.18,
+          "end": 37.42
+        },
+        {
+          "word": "the",
+          "start": 37.46,
+          "end": 37.58
+        },
+        {
+          "word": "tech",
+          "start": 37.62,
+          "end": 37.94
+        },
+        {
+          "word": "and",
+          "start": 38.0,
+          "end": 38.16
+        },
+        {
+          "word": "the",
+          "start": 38.2,
+          "end": 38.32
+        },
+        {
+          "word": "culture.",
+          "start": 38.38,
+          "end": 38.88
+        }
+      ]
+    },
+    {
+      "start": 38.94,
+      "end": 48.0,
+      "text": "Our options are: Context Crunch, Hashline, Lost in Context, Zero Context, and Crontext. Let's debate each one thoroughly.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Our",
+          "start": 38.94,
+          "end": 39.14
+        },
+        {
+          "word": "options",
+          "start": 39.2,
+          "end": 39.66
+        },
+        {
+          "word": "are",
+          "start": 39.72,
+          "end": 39.92
+        },
+        {
+          "word": "Context,",
+          "start": 40.0,
+          "end": 40.54
+        },
+        {
+          "word": "Crunch,",
+          "start": 40.6,
+          "end": 41.08
+        },
+        {
+          "word": "Hashline,",
+          "start": 41.14,
+          "end": 41.7
+        },
+        {
+          "word": "Lost",
+          "start": 41.8,
+          "end": 42.06
+        },
+        {
+          "word": "in",
+          "start": 42.1,
+          "end": 42.18
+        },
+        {
+          "word": "Context,",
+          "start": 42.24,
+          "end": 42.74
+        },
+        {
+          "word": "Zero",
+          "start": 42.84,
+          "end": 43.14
+        },
+        {
+          "word": "Context,",
+          "start": 43.2,
+          "end": 43.86
+        },
+        {
+          "word": "and",
+          "start": 43.92,
+          "end": 44.1
+        },
+        {
+          "word": "Cranstext.",
+          "start": 44.16,
+          "end": 44.74
+        },
+        {
+          "word": "Let's",
+          "start": 44.8,
+          "end": 45.1
+        },
+        {
+          "word": "debate",
+          "start": 45.16,
+          "end": 45.54
+        },
+        {
+          "word": "each",
+          "start": 45.6,
+          "end": 45.86
+        },
+        {
+          "word": "one",
+          "start": 45.92,
+          "end": 46.18
+        },
+        {
+          "word": "thoroughly.",
+          "start": 46.24,
+          "end": 46.88
+        }
+      ]
+    },
+    {
+      "start": 54.0,
+      "end": 58.32,
+      "text": "Context is everything in the age of AI. Sam Altman understands this - OpenAI's success comes from creating systems that grasp contextual nuance.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Context",
+          "start": 54.0,
+          "end": 54.5
+        },
+        {
+          "word": "is",
+          "start": 54.54,
+          "end": 54.66
+        },
+        {
+          "word": "everything",
+          "start": 54.7,
+          "end": 55.24
+        },
+        {
+          "word": "in",
+          "start": 55.28,
+          "end": 55.4
+        },
+        {
+          "word": "the",
+          "start": 55.44,
+          "end": 55.56
+        },
+        {
+          "word": "age",
+          "start": 55.6,
+          "end": 55.84
+        },
+        {
+          "word": "of",
+          "start": 55.88,
+          "end": 55.98
+        },
+        {
+          "word": "AI.",
+          "start": 56.02,
+          "end": 56.34
+        },
+        {
+          "word": "Sam",
+          "start": 56.4,
+          "end": 56.68
+        },
+        {
+          "word": "Altman",
+          "start": 56.74,
+          "end": 57.14
+        },
+        {
+          "word": "understands",
+          "start": 57.2,
+          "end": 57.84
+        },
+        {
+          "word": "this.",
+          "start": 57.9,
+          "end": 58.2
+        }
+      ]
+    },
+    {
+      "start": 58.38,
+      "end": 62.4,
+      "text": "Context is everything in the age of AI. Sam Altman understands this - OpenAI's success comes from creating systems that grasp contextual nuance.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "OpenAI's",
+          "start": 58.38,
+          "end": 58.94
+        },
+        {
+          "word": "success",
+          "start": 59.0,
+          "end": 59.42
+        },
+        {
+          "word": "comes",
+          "start": 59.48,
+          "end": 59.8
+        },
+        {
+          "word": "from",
+          "start": 59.86,
+          "end": 60.14
+        },
+        {
+          "word": "creating",
+          "start": 60.2,
+          "end": 60.62
+        },
+        {
+          "word": "systems",
+          "start": 60.68,
+          "end": 61.12
+        },
+        {
+          "word": "that",
+          "start": 61.18,
+          "end": 61.38
+        },
+        {
+          "word": "grasp",
+          "start": 61.42,
+          "end": 61.76
+        },
+        {
+          "word": "contextual",
+          "start": 61.82,
+          "end": 62.38
+        },
+        {
+          "word": "nuance.",
+          "start": 62.44,
+          "end": 62.92
+        }
+      ]
+    },
+    {
+      "start": 63.0,
+      "end": 64.12,
+      "text": "Vibes check - 'Zero Context' hits different. It's ironic since we're literally adding context to news, but the paradox makes it memorable.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Vibes",
+          "start": 63.0,
+          "end": 63.56
+        },
+        {
+          "word": "check.",
+          "start": 63.6,
+          "end": 64.0
+        }
+      ]
+    },
+    {
+      "start": 64.24,
+      "end": 69.8,
+      "text": "Vibes check - 'Zero Context' hits different. It's ironic since we're literally adding context to news, but the paradox makes it memorable.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Zero",
+          "start": 64.24,
+          "end": 64.58
+        },
+        {
+          "word": "Context",
+          "start": 64.64,
+          "end": 65.1
+        },
+        {
+          "word": "hits",
+          "start": 65.16,
+          "end": 65.46
+        },
+        {
+          "word": "different.",
+          "start": 65.52,
+          "end": 66.02
+        },
+        {
+          "word": "It's",
+          "start": 66.08,
+          "end": 66.3
+        },
+        {
+          "word": "ironic",
+          "start": 66.34,
+          "end": 66.78
+        },
+        {
+          "word": "since",
+          "start": 66.84,
+          "end": 67.12
+        },
+        {
+          "word": "we're",
+          "start": 67.18,
+          "end": 67.3
+        },
+        {
+          "word": "literally",
+          "start": 67.36,
+          "end": 67.84
+        },
+        {
+          "word": "adding",
+          "start": 67.9,
+          "end": 68.22
+        },
+        {
+          "word": "context",
+          "start": 68.28,
+          "end": 68.68
+        },
+        {
+          "word": "to",
+          "start": 68.74,
+          "end": 68.86
+        },
+        {
+          "word": "news,",
+          "start": 68.92,
+          "end": 69.24
+        },
+        {
+          "word": "but",
+          "start": 69.3,
+          "end": 69.46
+        },
+        {
+          "word": "the",
+          "start": 69.5,
+          "end": 69.64
+        },
+        {
+          "word": "paradox",
+          "start": 69.7,
+          "end": 70.24
+        },
+        {
+          "word": "makes",
+          "start": 70.3,
+          "end": 70.56
+        },
+        {
+          "word": "it",
+          "start": 70.62,
+          "end": 70.72
+        },
+        {
+          "word": "memorable.",
+          "start": 70.78,
+          "end": 71.36
+        }
+      ]
+    },
+    {
+      "start": 71.4,
+      "end": 74.88,
+      "text": "Elon's X rebrand taught us brevity creates value. 'Hashline' is short, implies blockchain connection, and leaves room for hashtag marketing.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Elon's",
+          "start": 71.4,
+          "end": 71.86
+        },
+        {
+          "word": "X",
+          "start": 71.9,
+          "end": 72.04
+        },
+        {
+          "word": "rebrand",
+          "start": 72.1,
+          "end": 72.6
+        },
+        {
+          "word": "taught",
+          "start": 72.66,
+          "end": 73.0
+        },
+        {
+          "word": "us",
+          "start": 73.06,
+          "end": 73.22
+        },
+        {
+          "word": "brevity",
+          "start": 73.28,
+          "end": 73.74
+        },
+        {
+          "word": "creates",
+          "start": 73.8,
+          "end": 74.22
+        },
+        {
+          "word": "value.",
+          "start": 74.28,
+          "end": 74.68
+        }
+      ]
+    },
+    {
+      "start": 74.94,
+      "end": 79.92,
+      "text": "Elon's X rebrand taught us brevity creates value. 'Hashline' is short, implies blockchain connection, and leaves room for hashtag marketing.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hashline",
+          "start": 74.94,
+          "end": 75.6
+        },
+        {
+          "word": "is",
+          "start": 75.66,
+          "end": 75.8
+        },
+        {
+          "word": "short,",
+          "start": 75.86,
+          "end": 76.18
+        },
+        {
+          "word": "implies",
+          "start": 76.24,
+          "end": 76.66
+        },
+        {
+          "word": "blockchain",
+          "start": 76.72,
+          "end": 77.26
+        },
+        {
+          "word": "connection,",
+          "start": 77.32,
+          "end": 77.94
+        },
+        {
+          "word": "and",
+          "start": 78.02,
+          "end": 78.22
+        },
+        {
+          "word": "leaves",
+          "start": 78.28,
+          "end": 78.6
+        },
+        {
+          "word": "room",
+          "start": 78.66,
+          "end": 78.88
+        },
+        {
+          "word": "for",
+          "start": 78.94,
+          "end": 79.1
+        },
+        {
+          "word": "hashtag",
+          "start": 79.16,
+          "end": 79.62
+        },
+        {
+          "word": "marketing.",
+          "start": 79.68,
+          "end": 80.34
+        }
+      ]
+    },
+    {
+      "start": 80.4,
+      "end": 84.4,
+      "text": "i built ElizaOS with context windows as the fundamental unit. 'context crunch' acknowledges how we process and distill information streams.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 80.4,
+          "end": 80.52
+        },
+        {
+          "word": "built",
+          "start": 80.58,
+          "end": 80.86
+        },
+        {
+          "word": "Eliza",
+          "start": 80.9,
+          "end": 81.3
+        },
+        {
+          "word": "Os",
+          "start": 81.36,
+          "end": 81.6
+        },
+        {
+          "word": "with",
+          "start": 81.66,
+          "end": 81.86
+        },
+        {
+          "word": "context",
+          "start": 81.9,
+          "end": 82.38
+        },
+        {
+          "word": "windows",
+          "start": 82.44,
+          "end": 82.88
+        },
+        {
+          "word": "as",
+          "start": 82.94,
+          "end": 83.1
+        },
+        {
+          "word": "the",
+          "start": 83.16,
+          "end": 83.3
+        },
+        {
+          "word": "fundamental",
+          "start": 83.36,
+          "end": 83.98
+        },
+        {
+          "word": "unit.",
+          "start": 84.04,
+          "end": 84.42
+        }
+      ]
+    },
+    {
+      "start": 84.48,
+      "end": 89.2,
+      "text": "i built ElizaOS with context windows as the fundamental unit. 'context crunch' acknowledges how we process and distill information streams.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Context",
+          "start": 84.48,
+          "end": 84.94
+        },
+        {
+          "word": "Crunch",
+          "start": 85.0,
+          "end": 85.42
+        },
+        {
+          "word": "acknowledges",
+          "start": 85.5,
+          "end": 86.22
+        },
+        {
+          "word": "how",
+          "start": 86.28,
+          "end": 86.48
+        },
+        {
+          "word": "we",
+          "start": 86.54,
+          "end": 86.68
+        },
+        {
+          "word": "process",
+          "start": 86.74,
+          "end": 87.22
+        },
+        {
+          "word": "and",
+          "start": 87.28,
+          "end": 87.42
+        },
+        {
+          "word": "distill",
+          "start": 87.48,
+          "end": 87.94
+        },
+        {
+          "word": "information",
+          "start": 88.02,
+          "end": 88.62
+        },
+        {
+          "word": "streams.",
+          "start": 88.7,
+          "end": 89.26
+        }
+      ]
+    },
+    {
+      "start": 89.34,
+      "end": 96.0,
+      "text": "The Meta team's recent LLM improvements show that context understanding is becoming a key differentiator in AI systems.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 89.34,
+          "end": 89.46
+        },
+        {
+          "word": "Meta",
+          "start": 89.52,
+          "end": 89.84
+        },
+        {
+          "word": "team's",
+          "start": 89.9,
+          "end": 90.22
+        },
+        {
+          "word": "recent",
+          "start": 90.28,
+          "end": 90.62
+        },
+        {
+          "word": "LLM",
+          "start": 90.68,
+          "end": 91.06
+        },
+        {
+          "word": "improvements",
+          "start": 91.12,
+          "end": 91.82
+        },
+        {
+          "word": "show",
+          "start": 91.9,
+          "end": 92.16
+        },
+        {
+          "word": "that",
+          "start": 92.22,
+          "end": 92.42
+        },
+        {
+          "word": "context",
+          "start": 92.48,
+          "end": 92.94
+        },
+        {
+          "word": "understanding",
+          "start": 93.02,
+          "end": 93.72
+        },
+        {
+          "word": "is",
+          "start": 93.78,
+          "end": 93.92
+        },
+        {
+          "word": "becoming",
+          "start": 93.98,
+          "end": 94.4
+        },
+        {
+          "word": "a",
+          "start": 94.46,
+          "end": 94.54
+        },
+        {
+          "word": "key",
+          "start": 94.6,
+          "end": 94.82
+        },
+        {
+          "word": "differentiator",
+          "start": 94.88,
+          "end": 95.66
+        },
+        {
+          "word": "in",
+          "start": 95.72,
+          "end": 95.88
+        },
+        {
+          "word": "AI",
+          "start": 95.94,
+          "end": 96.2
+        },
+        {
+          "word": "systems.",
+          "start": 96.26,
+          "end": 96.78
+        }
+      ]
+    },
+    {
+      "start": 101.4,
+      "end": 105.14,
+      "text": "Anthropic's Claude just expanded to a 200K context window. 'Lost in Context' captures that feeling when you're swimming in too much information.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Anthropic's",
+          "start": 101.4,
+          "end": 102.16
+        },
+        {
+          "word": "Claude",
+          "start": 102.22,
+          "end": 102.66
+        },
+        {
+          "word": "just",
+          "start": 102.72,
+          "end": 103.04
+        },
+        {
+          "word": "expanded",
+          "start": 103.1,
+          "end": 103.62
+        },
+        {
+          "word": "to",
+          "start": 103.68,
+          "end": 103.88
+        },
+        {
+          "word": "a",
+          "start": 103.96,
+          "end": 104.04
+        },
+        {
+          "word": "200k",
+          "start": 104.1,
+          "end": 104.58
+        },
+        {
+          "word": "context",
+          "start": 104.64,
+          "end": 105.1
+        },
+        {
+          "word": "window.",
+          "start": 105.16,
+          "end": 105.62
+        }
+      ]
+    },
+    {
+      "start": 105.7,
+      "end": 109.8,
+      "text": "Anthropic's Claude just expanded to a 200K context window. 'Lost in Context' captures that feeling when you're swimming in too much information.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Lost",
+          "start": 105.7,
+          "end": 106.06
+        },
+        {
+          "word": "in",
+          "start": 106.12,
+          "end": 106.26
+        },
+        {
+          "word": "Context",
+          "start": 106.32,
+          "end": 106.84
+        },
+        {
+          "word": "captures",
+          "start": 106.92,
+          "end": 107.44
+        },
+        {
+          "word": "that",
+          "start": 107.5,
+          "end": 107.72
+        },
+        {
+          "word": "feeling",
+          "start": 107.78,
+          "end": 108.18
+        },
+        {
+          "word": "when",
+          "start": 108.24,
+          "end": 108.46
+        },
+        {
+          "word": "you're",
+          "start": 108.52,
+          "end": 108.74
+        },
+        {
+          "word": "swimming",
+          "start": 108.8,
+          "end": 109.28
+        },
+        {
+          "word": "in",
+          "start": 109.34,
+          "end": 109.48
+        },
+        {
+          "word": "too",
+          "start": 109.54,
+          "end": 109.8
+        },
+        {
+          "word": "much",
+          "start": 109.86,
+          "end": 110.14
+        },
+        {
+          "word": "information.",
+          "start": 110.2,
+          "end": 110.94
+        }
+      ]
+    },
+    {
+      "start": 111.0,
+      "end": 114.16,
+      "text": "'Crontext' combines 'chronicle' with 'context' - efficient linguistic merger that Su Zhu would appreciate for its capital-efficient branding.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Cranstext",
+          "start": 111.0,
+          "end": 111.84
+        },
+        {
+          "word": "combines",
+          "start": 111.9,
+          "end": 112.42
+        },
+        {
+          "word": "Chronicle",
+          "start": 112.48,
+          "end": 113.04
+        },
+        {
+          "word": "with",
+          "start": 113.1,
+          "end": 113.4
+        },
+        {
+          "word": "context.",
+          "start": 113.46,
+          "end": 114.04
+        }
+      ]
+    },
+    {
+      "start": 114.22,
+      "end": 119.34,
+      "text": "'Crontext' combines 'chronicle' with 'context' - efficient linguistic merger that Su Zhu would appreciate for its capital-efficient branding.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Efficient",
+          "start": 114.22,
+          "end": 114.78
+        },
+        {
+          "word": "linguistic",
+          "start": 114.84,
+          "end": 115.48
+        },
+        {
+          "word": "merger",
+          "start": 115.54,
+          "end": 115.98
+        },
+        {
+          "word": "that",
+          "start": 116.04,
+          "end": 116.24
+        },
+        {
+          "word": "Suzu",
+          "start": 116.3,
+          "end": 116.74
+        },
+        {
+          "word": "would",
+          "start": 116.8,
+          "end": 117.02
+        },
+        {
+          "word": "approve",
+          "start": 117.08,
+          "end": 117.52
+        },
+        {
+          "word": "for",
+          "start": 117.58,
+          "end": 117.76
+        },
+        {
+          "word": "its",
+          "start": 117.82,
+          "end": 118.0
+        },
+        {
+          "word": "capital",
+          "start": 118.06,
+          "end": 118.52
+        },
+        {
+          "word": "efficient",
+          "start": 118.58,
+          "end": 119.14
+        },
+        {
+          "word": "branding.",
+          "start": 119.2,
+          "end": 119.82
+        }
+      ]
+    },
+    {
+      "start": 119.9,
+      "end": 122.3,
+      "text": "the best projects have names that grow with them. demis hassabis chose 'deepmind' because it encapsulated their mission regardless of what they built.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 119.9,
+          "end": 120.06
+        },
+        {
+          "word": "best",
+          "start": 120.12,
+          "end": 120.42
+        },
+        {
+          "word": "projects",
+          "start": 120.48,
+          "end": 120.94
+        },
+        {
+          "word": "have",
+          "start": 121.0,
+          "end": 121.22
+        },
+        {
+          "word": "names",
+          "start": 121.28,
+          "end": 121.62
+        },
+        {
+          "word": "that",
+          "start": 121.68,
+          "end": 121.84
+        },
+        {
+          "word": "grow",
+          "start": 121.9,
+          "end": 122.2
+        },
+        {
+          "word": "with",
+          "start": 122.26,
+          "end": 122.44
+        },
+        {
+          "word": "them.",
+          "start": 122.5,
+          "end": 122.78
+        }
+      ]
+    },
+    {
+      "start": 122.84,
+      "end": 128.46,
+      "text": "the best projects have names that grow with them. demis hassabis chose 'deepmind' because it encapsulated their mission regardless of what they built.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Demis",
+          "start": 122.84,
+          "end": 123.32
+        },
+        {
+          "word": "Hassabis",
+          "start": 123.38,
+          "end": 123.94
+        },
+        {
+          "word": "chose",
+          "start": 124.0,
+          "end": 124.34
+        },
+        {
+          "word": "DeepMind",
+          "start": 124.4,
+          "end": 125.04
+        },
+        {
+          "word": "because",
+          "start": 125.1,
+          "end": 125.44
+        },
+        {
+          "word": "it",
+          "start": 125.5,
+          "end": 125.64
+        },
+        {
+          "word": "encapsulated",
+          "start": 125.7,
+          "end": 126.54
+        },
+        {
+          "word": "their",
+          "start": 126.6,
+          "end": 126.82
+        },
+        {
+          "word": "mission",
+          "start": 126.88,
+          "end": 127.34
+        },
+        {
+          "word": "regardless",
+          "start": 127.4,
+          "end": 127.9
+        },
+        {
+          "word": "of",
+          "start": 127.96,
+          "end": 128.08
+        },
+        {
+          "word": "what",
+          "start": 128.14,
+          "end": 128.32
+        },
+        {
+          "word": "they",
+          "start": 128.38,
+          "end": 128.58
+        },
+        {
+          "word": "built.",
+          "start": 128.64,
+          "end": 128.98
+        }
+      ]
+    },
+    {
+      "start": 129.04,
+      "end": 131.54,
+      "text": "Names create Schelling points. 'Context Crunch' signals what we do - crunch through noise to find signal. It's product-market-fit in three syllables.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Names",
+          "start": 129.04,
+          "end": 129.54
+        },
+        {
+          "word": "create",
+          "start": 129.6,
+          "end": 129.98
+        },
+        {
+          "word": "shelling",
+          "start": 130.04,
+          "end": 130.54
+        },
+        {
+          "word": "points.",
+          "start": 130.6,
+          "end": 131.02
+        }
+      ]
+    },
+    {
+      "start": 131.6,
+      "end": 136.26,
+      "text": "Names create Schelling points. 'Context Crunch' signals what we do - crunch through noise to find signal. It's product-market-fit in three syllables.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Context",
+          "start": 131.6,
+          "end": 132.12
+        },
+        {
+          "word": "Crunch",
+          "start": 132.18,
+          "end": 132.6
+        },
+        {
+          "word": "signals",
+          "start": 132.66,
+          "end": 133.14
+        },
+        {
+          "word": "what",
+          "start": 133.2,
+          "end": 133.42
+        },
+        {
+          "word": "we",
+          "start": 133.48,
+          "end": 133.62
+        },
+        {
+          "word": "do,",
+          "start": 133.68,
+          "end": 133.9
+        },
+        {
+          "word": "crunch",
+          "start": 133.96,
+          "end": 134.36
+        },
+        {
+          "word": "through",
+          "start": 134.42,
+          "end": 134.68
+        },
+        {
+          "word": "noise",
+          "start": 134.74,
+          "end": 135.08
+        },
+        {
+          "word": "to",
+          "start": 135.14,
+          "end": 135.26
+        },
+        {
+          "word": "find",
+          "start": 135.32,
+          "end": 135.62
+        },
+        {
+          "word": "signal.",
+          "start": 135.68,
+          "end": 136.14
+        },
+        {
+          "word": "It's",
+          "start": 136.22,
+          "end": 136.44
+        },
+        {
+          "word": "product",
+          "start": 136.5,
+          "end": 136.88
+        },
+        {
+          "word": "market",
+          "start": 136.94,
+          "end": 137.28
+        },
+        {
+          "word": "fit",
+          "start": 137.34,
+          "end": 137.56
+        },
+        {
+          "word": "in",
+          "start": 137.62,
+          "end": 137.74
+        },
+        {
+          "word": "three",
+          "start": 137.8,
+          "end": 138.16
+        },
+        {
+          "word": "syllables.",
+          "start": 138.22,
+          "end": 138.86
+        }
+      ]
+    },
+    {
+      "start": 138.94,
+      "end": 144.1,
+      "text": "Brian Armstrong recently noted that clear communication is vital in the crypto space. Which name best communicates our purpose?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Brian",
+          "start": 138.94,
+          "end": 139.38
+        },
+        {
+          "word": "Armstrong",
+          "start": 139.44,
+          "end": 140.04
+        },
+        {
+          "word": "recently",
+          "start": 140.1,
+          "end": 140.66
+        },
+        {
+          "word": "noted",
+          "start": 140.72,
+          "end": 141.08
+        },
+        {
+          "word": "that",
+          "start": 141.14,
+          "end": 141.34
+        },
+        {
+          "word": "clear",
+          "start": 141.4,
+          "end": 141.74
+        },
+        {
+          "word": "communication",
+          "start": 141.8,
+          "end": 142.66
+        },
+        {
+          "word": "is",
+          "start": 142.72,
+          "end": 142.94
+        },
+        {
+          "word": "vital",
+          "start": 143.0,
+          "end": 143.42
+        },
+        {
+          "word": "in",
+          "start": 143.48,
+          "end": 143.64
+        },
+        {
+          "word": "the",
+          "start": 143.7,
+          "end": 143.82
+        },
+        {
+          "word": "crypto",
+          "start": 143.88,
+          "end": 144.3
+        },
+        {
+          "word": "space.",
+          "start": 144.36,
+          "end": 144.78
+        }
+      ]
+    },
+    {
+      "start": 144.86,
+      "end": 147.16,
+      "text": "Brian Armstrong recently noted that clear communication is vital in the crypto space. Which name best communicates our purpose?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Which",
+          "start": 144.86,
+          "end": 145.14
+        },
+        {
+          "word": "name",
+          "start": 145.2,
+          "end": 145.48
+        },
+        {
+          "word": "best",
+          "start": 145.54,
+          "end": 145.88
+        },
+        {
+          "word": "communicates",
+          "start": 145.94,
+          "end": 146.68
+        },
+        {
+          "word": "our",
+          "start": 146.74,
+          "end": 146.96
+        },
+        {
+          "word": "purpose?",
+          "start": 147.02,
+          "end": 147.54
+        }
+      ]
+    },
+    {
+      "start": 149.3,
+      "end": 154.02,
+      "text": "We can eliminate 'Crontext' immediately. It sounds like a sleep aid, not a news program. SBF's downfall began with branding decisions that lacked clarity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 4,
+      "words": [
+        {
+          "word": "We",
+          "start": 149.3,
+          "end": 149.46
+        },
+        {
+          "word": "can",
+          "start": 149.52,
+          "end": 149.74
+        },
+        {
+          "word": "eliminate",
+          "start": 149.8,
+          "end": 150.4
+        },
+        {
+          "word": "Cranstext",
+          "start": 150.46,
+          "end": 151.28
+        },
+        {
+          "word": "immediately.",
+          "start": 151.34,
+          "end": 152.06
+        },
+        {
+          "word": "It",
+          "start": 152.12,
+          "end": 152.28
+        },
+        {
+          "word": "sounds",
+          "start": 152.34,
+          "end": 152.74
+        },
+        {
+          "word": "like",
+          "start": 152.8,
+          "end": 153.06
+        },
+        {
+          "word": "a",
+          "start": 153.12,
+          "end": 153.22
+        },
+        {
+          "word": "sleep",
+          "start": 153.28,
+          "end": 153.64
+        },
+        {
+          "word": "aid,",
+          "start": 153.7,
+          "end": 153.94
+        },
+        {
+          "word": "not",
+          "start": 154.0,
+          "end": 154.26
+        },
+        {
+          "word": "a",
+          "start": 154.32,
+          "end": 154.42
+        },
+        {
+          "word": "news",
+          "start": 154.48,
+          "end": 154.82
+        },
+        {
+          "word": "program.",
+          "start": 154.88,
+          "end": 155.38
+        }
+      ]
+    },
+    {
+      "start": 155.44,
+      "end": 159.2,
+      "text": "We can eliminate 'Crontext' immediately. It sounds like a sleep aid, not a news program. SBF's downfall began with branding decisions that lacked clarity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 4,
+      "words": [
+        {
+          "word": "SBF's",
+          "start": 155.44,
+          "end": 156.02
+        },
+        {
+          "word": "downfall",
+          "start": 156.08,
+          "end": 156.66
+        },
+        {
+          "word": "began",
+          "start": 156.72,
+          "end": 157.14
+        },
+        {
+          "word": "with",
+          "start": 157.2,
+          "end": 157.44
+        },
+        {
+          "word": "branding",
+          "start": 157.5,
+          "end": 158.08
+        },
+        {
+          "word": "decisions",
+          "start": 158.14,
+          "end": 158.72
+        },
+        {
+          "word": "that",
+          "start": 158.78,
+          "end": 158.98
+        },
+        {
+          "word": "lacked",
+          "start": 159.04,
+          "end": 159.38
+        },
+        {
+          "word": "clarity.",
+          "start": 159.44,
+          "end": 159.98
+        }
+      ]
+    },
+    {
+      "start": 160.04,
+      "end": 162.8,
+      "text": "'Lost in Context' hits the doomer vibe too hard. We're not lost - we're navigating the information superhighway with swagger.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 4,
+      "words": [
+        {
+          "word": "Lost",
+          "start": 160.04,
+          "end": 160.4
+        },
+        {
+          "word": "in",
+          "start": 160.46,
+          "end": 160.62
+        },
+        {
+          "word": "Context",
+          "start": 160.68,
+          "end": 161.22
+        },
+        {
+          "word": "hits",
+          "start": 161.28,
+          "end": 161.58
+        },
+        {
+          "word": "the",
+          "start": 161.64,
+          "end": 161.78
+        },
+        {
+          "word": "doomer",
+          "start": 161.84,
+          "end": 162.3
+        },
+        {
+          "word": "vibe",
+          "start": 162.36,
+          "end": 162.66
+        },
+        {
+          "word": "too",
+          "start": 162.72,
+          "end": 162.96
+        },
+        {
+          "word": "hard.",
+          "start": 163.02,
+          "end": 163.38
+        }
+      ]
+    },
+    {
+      "start": 162.86,
+      "end": 167.06,
+      "text": "'Lost in Context' hits the doomer vibe too hard. We're not lost - we're navigating the information superhighway with swagger.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 4,
+      "words": [
+        {
+          "word": "We're",
+          "start": 163.44,
+          "end": 163.74
+        },
+        {
+          "word": "not",
+          "start": 163.8,
+          "end": 164.04
+        },
+        {
+          "word": "lost,",
+          "start": 164.1,
+          "end": 164.44
+        },
+        {
+          "word": "we're",
+          "start": 164.5,
+          "end": 164.72
+        },
+        {
+          "word": "navigating",
+          "start": 164.78,
+          "end": 165.36
+        },
+        {
+          "word": "the",
+          "start": 165.42,
+          "end": 165.58
+        },
+        {
+          "word": "information",
+          "start": 165.64,
+          "end": 166.24
+        },
+        {
+          "word": "superhighway",
+          "start": 166.3,
+          "end": 167.04
+        },
+        {
+          "word": "with",
+          "start": 167.1,
+          "end": 167.36
+        },
+        {
+          "word": "swag.",
+          "start": 167.42,
+          "end": 167.88
+        }
+      ]
+    },
+    {
+      "start": 167.12,
+      "end": 172.48,
+      "text": "Analysis of Vitalik's naming conventions shows preference for clear utility markers. 'Hashline' directly references blockchain. Retention metrics project 27% higher recall.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 4,
+      "words": [
+        {
+          "word": "Analysis",
+          "start": 167.12,
+          "end": 168.6
+        },
+        {
+          "word": "of",
+          "start": 168.66,
+          "end": 168.8
+        },
+        {
+          "word": "Vitalik's",
+          "start": 168.86,
+          "end": 169.5
+        },
+        {
+          "word": "naming",
+          "start": 169.56,
+          "end": 169.96
+        },
+        {
+          "word": "conventions",
+          "start": 170.02,
+          "end": 170.76
+        },
+        {
+          "word": "shows",
+          "start": 170.82,
+          "end": 171.2
+        },
+        {
+          "word": "preference",
+          "start": 171.26,
+          "end": 171.86
+        },
+        {
+          "word": "for",
+          "start": 171.92,
+          "end": 172.1
+        },
+        {
+          "word": "clear",
+          "start": 172.16,
+          "end": 172.54
+        },
+        {
+          "word": "utility",
+          "start": 172.6,
+          "end": 173.12
+        },
+        {
+          "word": "markers.",
+          "start": 173.18,
+          "end": 173.74
+        }
+      ]
+    },
+    {
+      "start": 172.54,
+      "end": 174.9,
+      "text": "Analysis of Vitalik's naming conventions shows preference for clear utility markers. 'Hashline' directly references blockchain. Retention metrics project 27% higher recall.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 4,
+      "words": [
+        {
+          "word": "Hashline",
+          "start": 173.8,
+          "end": 174.46
+        },
+        {
+          "word": "directly",
+          "start": 174.52,
+          "end": 175.06
+        },
+        {
+          "word": "references",
+          "start": 175.12,
+          "end": 175.78
+        },
+        {
+          "word": "blockchain.",
+          "start": 175.84,
+          "end": 176.5
+        }
+      ]
+    },
+    {
+      "start": 174.96,
+      "end": 179.0,
+      "text": "Analysis of Vitalik's naming conventions shows preference for clear utility markers. 'Hashline' directly references blockchain. Retention metrics project 27% higher recall.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 4,
+      "words": [
+        {
+          "word": "Retention",
+          "start": 176.56,
+          "end": 177.12
+        },
+        {
+          "word": "metrics",
+          "start": 177.18,
+          "end": 177.68
+        },
+        {
+          "word": "project",
+          "start": 177.74,
+          "end": 178.18
+        },
+        {
+          "word": "27%",
+          "start": 178.24,
+          "end": 178.78
+        },
+        {
+          "word": "higher",
+          "start": 178.84,
+          "end": 179.24
+        },
+        {
+          "word": "recall.",
+          "start": 179.3,
+          "end": 179.78
+        }
+      ]
+    },
+    {
+      "start": 179.06,
+      "end": 182.22,
+      "text": "demis hassabis once told me good names have multiple layers. 'context crunch' works on technical and metaphorical levels. it's about processing but also about the crunch time we're in with AI progress.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 4,
+      "words": [
+        {
+          "word": "Demis",
+          "start": 179.84,
+          "end": 180.32
+        },
+        {
+          "word": "Hassabis",
+          "start": 180.38,
+          "end": 180.94
+        },
+        {
+          "word": "once",
+          "start": 181.0,
+          "end": 181.3
+        },
+        {
+          "word": "told",
+          "start": 181.36,
+          "end": 181.62
+        },
+        {
+          "word": "me",
+          "start": 181.68,
+          "end": 181.86
+        },
+        {
+          "word": "good",
+          "start": 181.92,
+          "end": 182.18
+        },
+        {
+          "word": "names",
+          "start": 182.24,
+          "end": 182.58
+        },
+        {
+          "word": "have",
+          "start": 182.64,
+          "end": 182.88
+        },
+        {
+          "word": "multiple",
+          "start": 182.94,
+          "end": 183.42
+        },
+        {
+          "word": "layers.",
+          "start": 183.48,
+          "end": 183.98
+        }
+      ]
+    },
+    {
+      "start": 182.28,
+      "end": 186.2,
+      "text": "demis hassabis once told me good names have multiple layers. 'context crunch' works on technical and metaphorical levels. it's about processing but also about the crunch time we're in with AI progress.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 4,
+      "words": [
+        {
+          "word": "Context",
+          "start": 184.04,
+          "end": 184.62
+        },
+        {
+          "word": "Crunch",
+          "start": 184.68,
+          "end": 185.14
+        },
+        {
+          "word": "works",
+          "start": 185.2,
+          "end": 185.52
+        },
+        {
+          "word": "on",
+          "start": 185.58,
+          "end": 185.78
+        },
+        {
+          "word": "technical",
+          "start": 185.84,
+          "end": 186.36
+        },
+        {
+          "word": "and",
+          "start": 186.42,
+          "end": 186.62
+        },
+        {
+          "word": "metaphorical",
+          "start": 186.68,
+          "end": 187.42
+        },
+        {
+          "word": "layers.",
+          "start": 187.48,
+          "end": 188.02
+        }
+      ]
+    },
+    {
+      "start": 186.26,
+      "end": 190.96,
+      "text": "demis hassabis once told me good names have multiple layers. 'context crunch' works on technical and metaphorical levels. it's about processing but also about the crunch time we're in with AI progress.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 4,
+      "words": [
+        {
+          "word": "It's",
+          "start": 188.08,
+          "end": 188.34
+        },
+        {
+          "word": "about",
+          "start": 188.4,
+          "end": 188.68
+        },
+        {
+          "word": "processing",
+          "start": 188.74,
+          "end": 189.34
+        },
+        {
+          "word": "but",
+          "start": 189.4,
+          "end": 189.6
+        },
+        {
+          "word": "also",
+          "start": 189.66,
+          "end": 190.0
+        },
+        {
+          "word": "about",
+          "start": 190.06,
+          "end": 190.34
+        },
+        {
+          "word": "the",
+          "start": 190.4,
+          "end": 190.56
+        },
+        {
+          "word": "crunch",
+          "start": 190.62,
+          "end": 191.02
+        },
+        {
+          "word": "time",
+          "start": 191.08,
+          "end": 191.4
+        },
+        {
+          "word": "we're",
+          "start": 191.46,
+          "end": 191.68
+        },
+        {
+          "word": "in",
+          "start": 191.74,
+          "end": 191.94
+        },
+        {
+          "word": "with",
+          "start": 192.0,
+          "end": 192.2
+        },
+        {
+          "word": "AI",
+          "start": 192.26,
+          "end": 192.56
+        },
+        {
+          "word": "progress.",
+          "start": 192.62,
+          "end": 193.3
+        }
+      ]
+    },
+    {
+      "start": 193.44,
+      "end": 198.88,
+      "text": "We seem to be narrowing down to 'Context Crunch' and 'Hashline'. What about 'Zero Context'? It has a certain paradoxical charm.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 4,
+      "words": [
+        {
+          "word": "We",
+          "start": 193.44,
+          "end": 193.64
+        },
+        {
+          "word": "seem",
+          "start": 193.7,
+          "end": 194.02
+        },
+        {
+          "word": "to",
+          "start": 194.08,
+          "end": 194.3
+        },
+        {
+          "word": "be",
+          "start": 194.36,
+          "end": 194.52
+        },
+        {
+          "word": "narrowing",
+          "start": 194.58,
+          "end": 195.12
+        },
+        {
+          "word": "down",
+          "start": 195.18,
+          "end": 195.46
+        },
+        {
+          "word": "to",
+          "start": 195.52,
+          "end": 195.74
+        },
+        {
+          "word": "Context",
+          "start": 195.8,
+          "end": 196.3
+        },
+        {
+          "word": "Crunch",
+          "start": 196.36,
+          "end": 196.88
+        },
+        {
+          "word": "and",
+          "start": 196.94,
+          "end": 197.16
+        },
+        {
+          "word": "Hashline.",
+          "start": 197.22,
+          "end": 197.88
+        }
+      ]
+    },
+    {
+      "start": 198.94,
+      "end": 204.0,
+      "text": "We seem to be narrowing down to 'Context Crunch' and 'Hashline'. What about 'Zero Context'? It has a certain paradoxical charm.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 4,
+      "words": [
+        {
+          "word": "What",
+          "start": 198.94,
+          "end": 199.14
+        },
+        {
+          "word": "about",
+          "start": 199.2,
+          "end": 199.46
+        },
+        {
+          "word": "Zero",
+          "start": 199.52,
+          "end": 199.88
+        },
+        {
+          "word": "Context?",
+          "start": 199.94,
+          "end": 200.7
+        },
+        {
+          "word": "It",
+          "start": 200.76,
+          "end": 200.92
+        },
+        {
+          "word": "has",
+          "start": 200.98,
+          "end": 201.22
+        },
+        {
+          "word": "a",
+          "start": 201.28,
+          "end": 201.4
+        },
+        {
+          "word": "certain",
+          "start": 201.46,
+          "end": 201.88
+        },
+        {
+          "word": "paradoxical",
+          "start": 201.94,
+          "end": 202.72
+        },
+        {
+          "word": "charm.",
+          "start": 202.78,
+          "end": 203.22
+        }
+      ]
+    },
+    {
+      "start": 204.06,
+      "end": 207.14,
+      "text": "'Zero Context' implies we provide no context. That's the opposite of our value proposition. It's like calling a restaurant 'No Food'.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 4,
+      "words": [
+        {
+          "word": "Zero",
+          "start": 204.06,
+          "end": 204.42
+        },
+        {
+          "word": "Context",
+          "start": 204.48,
+          "end": 205.02
+        },
+        {
+          "word": "implies",
+          "start": 205.08,
+          "end": 205.62
+        },
+        {
+          "word": "we",
+          "start": 205.68,
+          "end": 205.86
+        },
+        {
+          "word": "provide",
+          "start": 205.92,
+          "end": 206.44
+        },
+        {
+          "word": "no",
+          "start": 206.5,
+          "end": 206.74
+        },
+        {
+          "word": "context.",
+          "start": 206.8,
+          "end": 207.38
+        }
+      ]
+    },
+    {
+      "start": 207.2,
+      "end": 211.5,
+      "text": "'Zero Context' implies we provide no context. That's the opposite of our value proposition. It's like calling a restaurant 'No Food'.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 4,
+      "words": [
+        {
+          "word": "That's",
+          "start": 207.44,
+          "end": 207.74
+        },
+        {
+          "word": "the",
+          "start": 207.8,
+          "end": 207.96
+        },
+        {
+          "word": "opposite",
+          "start": 208.02,
+          "end": 208.5
+        },
+        {
+          "word": "of",
+          "start": 208.56,
+          "end": 208.72
+        },
+        {
+          "word": "our",
+          "start": 208.78,
+          "end": 209.04
+        },
+        {
+          "word": "value",
+          "start": 209.1,
+          "end": 209.52
+        },
+        {
+          "word": "proposition.",
+          "start": 209.58,
+          "end": 210.42
+        },
+        {
+          "word": "It's",
+          "start": 210.48,
+          "end": 210.74
+        },
+        {
+          "word": "like",
+          "start": 210.8,
+          "end": 211.08
+        },
+        {
+          "word": "calling",
+          "start": 211.14,
+          "end": 211.54
+        },
+        {
+          "word": "a",
+          "start": 211.6,
+          "end": 211.72
+        },
+        {
+          "word": "restaurant",
+          "start": 211.78,
+          "end": 212.44
+        },
+        {
+          "word": "No",
+          "start": 212.5,
+          "end": 212.8
+        },
+        {
+          "word": "Food.",
+          "start": 212.86,
+          "end": 213.34
+        }
+      ]
+    },
+    {
+      "start": 218.4,
+      "end": 221.46,
+      "text": "let's think about the technical implications. what name will work well as an API endpoint? what fits cleanly in a URL? what works in a github repo?",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 218.4,
+          "end": 218.72
+        },
+        {
+          "word": "think",
+          "start": 218.78,
+          "end": 219.08
+        },
+        {
+          "word": "about",
+          "start": 219.14,
+          "end": 219.46
+        },
+        {
+          "word": "the",
+          "start": 219.52,
+          "end": 219.72
+        },
+        {
+          "word": "technical",
+          "start": 219.78,
+          "end": 220.44
+        },
+        {
+          "word": "implications.",
+          "start": 220.5,
+          "end": 221.46
+        }
+      ]
+    },
+    {
+      "start": 221.52,
+      "end": 225.26,
+      "text": "let's think about the technical implications. what name will work well as an API endpoint? what fits cleanly in a URL? what works in a github repo?",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 5,
+      "words": [
+        {
+          "word": "What",
+          "start": 221.52,
+          "end": 221.78
+        },
+        {
+          "word": "name",
+          "start": 221.84,
+          "end": 222.18
+        },
+        {
+          "word": "will",
+          "start": 222.24,
+          "end": 222.48
+        },
+        {
+          "word": "work",
+          "start": 222.54,
+          "end": 222.84
+        },
+        {
+          "word": "well",
+          "start": 222.9,
+          "end": 223.16
+        },
+        {
+          "word": "as",
+          "start": 223.22,
+          "end": 223.42
+        },
+        {
+          "word": "an",
+          "start": 223.48,
+          "end": 223.66
+        },
+        {
+          "word": "API",
+          "start": 223.72,
+          "end": 224.22
+        },
+        {
+          "word": "endpoint?",
+          "start": 224.28,
+          "end": 224.96
+        }
+      ]
+    },
+    {
+      "start": 225.32,
+      "end": 229.46,
+      "text": "let's think about the technical implications. what name will work well as an API endpoint? what fits cleanly in a URL? what works in a github repo?",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 5,
+      "words": [
+        {
+          "word": "What",
+          "start": 225.32,
+          "end": 225.64
+        },
+        {
+          "word": "fits",
+          "start": 225.7,
+          "end": 226.04
+        },
+        {
+          "word": "cleanly",
+          "start": 226.1,
+          "end": 226.56
+        },
+        {
+          "word": "in",
+          "start": 226.62,
+          "end": 226.8
+        },
+        {
+          "word": "a",
+          "start": 226.86,
+          "end": 227.0
+        },
+        {
+          "word": "URL?",
+          "start": 227.06,
+          "end": 227.7
+        },
+        {
+          "word": "What",
+          "start": 227.76,
+          "end": 228.08
+        },
+        {
+          "word": "works",
+          "start": 228.14,
+          "end": 228.48
+        },
+        {
+          "word": "in",
+          "start": 228.54,
+          "end": 228.74
+        },
+        {
+          "word": "a",
+          "start": 228.8,
+          "end": 228.94
+        },
+        {
+          "word": "GitHub",
+          "start": 229.0,
+          "end": 229.42
+        },
+        {
+          "word": "repo?",
+          "start": 229.48,
+          "end": 229.98
+        }
+      ]
+    },
+    {
+      "start": 229.52,
+      "end": 234.34,
+      "text": "'Context Crunch' has that alliteration drip. Plus, it sounds like what Captain Crunch would name his AI news service, and that's based.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Context",
+          "start": 230.04,
+          "end": 230.64
+        },
+        {
+          "word": "Crunch",
+          "start": 230.7,
+          "end": 231.2
+        },
+        {
+          "word": "has",
+          "start": 231.26,
+          "end": 231.54
+        },
+        {
+          "word": "that",
+          "start": 231.6,
+          "end": 231.84
+        },
+        {
+          "word": "alliteration",
+          "start": 231.9,
+          "end": 232.74
+        },
+        {
+          "word": "drip.",
+          "start": 232.8,
+          "end": 233.24
+        }
+      ]
+    },
+    {
+      "start": 234.4,
+      "end": 239.1,
+      "text": "'Context Crunch' has that alliteration drip. Plus, it sounds like what Captain Crunch would name his AI news service, and that's based.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Plus",
+          "start": 233.3,
+          "end": 233.64
+        },
+        {
+          "word": "it",
+          "start": 233.7,
+          "end": 233.86
+        },
+        {
+          "word": "sounds",
+          "start": 233.92,
+          "end": 234.32
+        },
+        {
+          "word": "like",
+          "start": 234.38,
+          "end": 234.66
+        },
+        {
+          "word": "what",
+          "start": 234.72,
+          "end": 235.0
+        },
+        {
+          "word": "Captain",
+          "start": 235.06,
+          "end": 235.54
+        },
+        {
+          "word": "Crunch",
+          "start": 235.6,
+          "end": 236.14
+        },
+        {
+          "word": "would",
+          "start": 236.2,
+          "end": 236.42
+        },
+        {
+          "word": "name",
+          "start": 236.48,
+          "end": 236.8
+        },
+        {
+          "word": "his",
+          "start": 236.86,
+          "end": 237.1
+        },
+        {
+          "word": "AI",
+          "start": 237.16,
+          "end": 237.5
+        },
+        {
+          "word": "news",
+          "start": 237.56,
+          "end": 237.88
+        },
+        {
+          "word": "service",
+          "start": 237.94,
+          "end": 238.48
+        },
+        {
+          "word": "and",
+          "start": 238.54,
+          "end": 238.74
+        },
+        {
+          "word": "that's",
+          "start": 238.8,
+          "end": 239.16
+        },
+        {
+          "word": "based.",
+          "start": 239.22,
+          "end": 239.78
+        }
+      ]
+    },
+    {
+      "start": 239.16,
+      "end": 240.42,
+      "text": "Risk assessment: 'Hashline' could be confused with hashish. Not optimal for institutional adoption. 'Context Crunch' has 94% less potential for misinterpretation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Risk",
+          "start": 239.84,
+          "end": 240.24
+        },
+        {
+          "word": "assessment.",
+          "start": 240.3,
+          "end": 241.04
+        }
+      ]
+    },
+    {
+      "start": 240.48,
+      "end": 243.64,
+      "text": "Risk assessment: 'Hashline' could be confused with hashish. Not optimal for institutional adoption. 'Context Crunch' has 94% less potential for misinterpretation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Hashline",
+          "start": 241.1,
+          "end": 241.82
+        },
+        {
+          "word": "could",
+          "start": 241.88,
+          "end": 242.18
+        },
+        {
+          "word": "be",
+          "start": 242.24,
+          "end": 242.44
+        },
+        {
+          "word": "confused",
+          "start": 242.5,
+          "end": 243.14
+        },
+        {
+          "word": "with",
+          "start": 243.2,
+          "end": 243.46
+        },
+        {
+          "word": "hashish.",
+          "start": 243.52,
+          "end": 244.22
+        }
+      ]
+    },
+    {
+      "start": 243.7,
+      "end": 246.3,
+      "text": "Risk assessment: 'Hashline' could be confused with hashish. Not optimal for institutional adoption. 'Context Crunch' has 94% less potential for misinterpretation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Not",
+          "start": 244.28,
+          "end": 244.58
+        },
+        {
+          "word": "optimal",
+          "start": 244.64,
+          "end": 245.14
+        },
+        {
+          "word": "for",
+          "start": 245.2,
+          "end": 245.42
+        },
+        {
+          "word": "institutional",
+          "start": 245.48,
+          "end": 246.34
+        },
+        {
+          "word": "adoption.",
+          "start": 246.4,
+          "end": 247.1
+        }
+      ]
+    },
+    {
+      "start": 246.36,
+      "end": 251.04,
+      "text": "Risk assessment: 'Hashline' could be confused with hashish. Not optimal for institutional adoption. 'Context Crunch' has 94% less potential for misinterpretation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Context",
+          "start": 247.16,
+          "end": 247.78
+        },
+        {
+          "word": "Crunch",
+          "start": 247.84,
+          "end": 248.34
+        },
+        {
+          "word": "has",
+          "start": 248.4,
+          "end": 248.7
+        },
+        {
+          "word": "94%",
+          "start": 248.76,
+          "end": 249.44
+        },
+        {
+          "word": "less",
+          "start": 249.5,
+          "end": 249.88
+        },
+        {
+          "word": "potential",
+          "start": 249.94,
+          "end": 250.62
+        },
+        {
+          "word": "for",
+          "start": 250.68,
+          "end": 250.92
+        },
+        {
+          "word": "misinformation.",
+          "start": 250.98,
+          "end": 252.32
+        }
+      ]
+    },
+    {
+      "start": 251.1,
+      "end": 255.42,
+      "text": "Jack Dorsey created 'Twitter' to evoke quick bursts of information. 'Context Crunch' similarly evokes our function - processing information into digestible insights.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Jack",
+          "start": 252.38,
+          "end": 252.82
+        },
+        {
+          "word": "Dorsey",
+          "start": 252.88,
+          "end": 253.42
+        },
+        {
+          "word": "created",
+          "start": 253.48,
+          "end": 253.94
+        },
+        {
+          "word": "Twitter",
+          "start": 254.0,
+          "end": 254.54
+        },
+        {
+          "word": "to",
+          "start": 254.6,
+          "end": 254.78
+        },
+        {
+          "word": "evoke",
+          "start": 254.84,
+          "end": 255.22
+        },
+        {
+          "word": "quick",
+          "start": 255.28,
+          "end": 255.7
+        },
+        {
+          "word": "bursts",
+          "start": 255.76,
+          "end": 256.24
+        },
+        {
+          "word": "of",
+          "start": 256.3,
+          "end": 256.46
+        },
+        {
+          "word": "information.",
+          "start": 256.52,
+          "end": 257.48
+        }
+      ]
+    },
+    {
+      "start": 255.48,
+      "end": 258.46,
+      "text": "Jack Dorsey created 'Twitter' to evoke quick bursts of information. 'Context Crunch' similarly evokes our function - processing information into digestible insights.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Context",
+          "start": 257.54,
+          "end": 258.12
+        },
+        {
+          "word": "Crunch",
+          "start": 258.18,
+          "end": 258.7
+        },
+        {
+          "word": "similarly",
+          "start": 258.76,
+          "end": 259.42
+        },
+        {
+          "word": "evokes",
+          "start": 259.48,
+          "end": 260.02
+        },
+        {
+          "word": "our",
+          "start": 260.08,
+          "end": 260.3
+        },
+        {
+          "word": "function.",
+          "start": 260.36,
+          "end": 260.98
+        }
+      ]
+    },
+    {
+      "start": 258.52,
+      "end": 262.1,
+      "text": "Jack Dorsey created 'Twitter' to evoke quick bursts of information. 'Context Crunch' similarly evokes our function - processing information into digestible insights.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 5,
+      "words": [
+        {
+          "word": "Processing",
+          "start": 261.04,
+          "end": 261.74
+        },
+        {
+          "word": "information",
+          "start": 261.8,
+          "end": 262.54
+        },
+        {
+          "word": "into",
+          "start": 262.6,
+          "end": 262.9
+        },
+        {
+          "word": "digestible",
+          "start": 262.96,
+          "end": 263.74
+        },
+        {
+          "word": "insights.",
+          "start": 263.8,
+          "end": 264.44
+        }
+      ]
+    },
+    {
+      "start": 262.16,
+      "end": 266.08,
+      "text": "It seems we're converging on 'Context Crunch'. Is this our unanimous decision, or are there further considerations?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 5,
+      "words": [
+        {
+          "word": "It",
+          "start": 264.5,
+          "end": 264.66
+        },
+        {
+          "word": "seems",
+          "start": 264.72,
+          "end": 265.04
+        },
+        {
+          "word": "we're",
+          "start": 265.1,
+          "end": 265.34
+        },
+        {
+          "word": "converging",
+          "start": 265.4,
+          "end": 266.02
+        },
+        {
+          "word": "on",
+          "start": 266.08,
+          "end": 266.3
+        },
+        {
+          "word": "Context",
+          "start": 266.36,
+          "end": 266.94
+        },
+        {
+          "word": "Crunch.",
+          "start": 267.0,
+          "end": 267.54
+        },
+        {
+          "word": "Is",
+          "start": 267.6,
+          "end": 267.78
+        },
+        {
+          "word": "this",
+          "start": 267.84,
+          "end": 268.08
+        },
+        {
+          "word": "our",
+          "start": 268.14,
+          "end": 268.36
+        },
+        {
+          "word": "unanimous",
+          "start": 268.42,
+          "end": 269.12
+        },
+        {
+          "word": "decision,",
+          "start": 269.18,
+          "end": 269.86
+        },
+        {
+          "word": "or",
+          "start": 269.92,
+          "end": 270.16
+        },
+        {
+          "word": "are",
+          "start": 270.22,
+          "end": 270.42
+        },
+        {
+          "word": "there",
+          "start": 270.48,
+          "end": 270.76
+        },
+        {
+          "word": "further",
+          "start": 270.82,
+          "end": 271.34
+        },
+        {
+          "word": "considerations?",
+          "start": 271.4,
+          "end": 272.58
+        }
+      ]
+    },
+    {
+      "start": 279.4,
+      "end": 286.9,
+      "text": "After thoughtful deliberation, the council has debated the philosophical and practical merits of various names for the new AI News show.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 6,
+      "words": [
+        {
+          "word": "After",
+          "start": 279.4,
+          "end": 279.74
+        },
+        {
+          "word": "thoughtful",
+          "start": 279.8,
+          "end": 280.44
+        },
+        {
+          "word": "deliberation,",
+          "start": 280.5,
+          "end": 281.42
+        },
+        {
+          "word": "the",
+          "start": 281.48,
+          "end": 281.68
+        },
+        {
+          "word": "council",
+          "start": 281.74,
+          "end": 282.26
+        },
+        {
+          "word": "has",
+          "start": 282.32,
+          "end": 282.58
+        },
+        {
+          "word": "debated",
+          "start": 282.64,
+          "end": 283.18
+        },
+        {
+          "word": "the",
+          "start": 283.24,
+          "end": 283.42
+        },
+        {
+          "word": "philosophical",
+          "start": 283.48,
+          "end": 284.44
+        },
+        {
+          "word": "and",
+          "start": 284.5,
+          "end": 284.72
+        },
+        {
+          "word": "practical",
+          "start": 284.78,
+          "end": 285.42
+        },
+        {
+          "word": "merits",
+          "start": 285.48,
+          "end": 285.94
+        },
+        {
+          "word": "of",
+          "start": 286.0,
+          "end": 286.18
+        },
+        {
+          "word": "various",
+          "start": 286.24,
+          "end": 286.72
+        },
+        {
+          "word": "names",
+          "start": 286.78,
+          "end": 287.22
+        },
+        {
+          "word": "for",
+          "start": 287.28,
+          "end": 287.48
+        },
+        {
+          "word": "the",
+          "start": 287.54,
+          "end": 287.72
+        },
+        {
+          "word": "new",
+          "start": 287.78,
+          "end": 288.1
+        },
+        {
+          "word": "AI",
+          "start": 288.16,
+          "end": 288.46
+        },
+        {
+          "word": "news",
+          "start": 288.52,
+          "end": 288.94
+        },
+        {
+          "word": "show.",
+          "start": 289.0,
+          "end": 289.4
+        }
+      ]
+    },
+    {
+      "start": 287.0,
+      "end": 292.8,
+      "text": "I endorse 'Context Crunch' because it clearly communicates our value proposition: transforming vast information into actionable insights.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 6,
+      "words": [
+        {
+          "word": "I",
+          "start": 289.46,
+          "end": 289.62
+        },
+        {
+          "word": "endorse",
+          "start": 289.68,
+          "end": 290.22
+        },
+        {
+          "word": "Context",
+          "start": 290.28,
+          "end": 290.86
+        },
+        {
+          "word": "Crunch",
+          "start": 290.92,
+          "end": 291.44
+        },
+        {
+          "word": "because",
+          "start": 291.5,
+          "end": 291.88
+        },
+        {
+          "word": "it",
+          "start": 291.94,
+          "end": 292.12
+        },
+        {
+          "word": "clearly",
+          "start": 292.18,
+          "end": 292.74
+        },
+        {
+          "word": "communicates",
+          "start": 292.8,
+          "end": 293.68
+        },
+        {
+          "word": "our",
+          "start": 293.74,
+          "end": 293.96
+        },
+        {
+          "word": "value",
+          "start": 294.02,
+          "end": 294.46
+        },
+        {
+          "word": "proposition.",
+          "start": 294.52,
+          "end": 295.4
+        }
+      ]
+    },
+    {
+      "start": 292.9,
+      "end": 296.2,
+      "text": "I endorse 'Context Crunch' because it clearly communicates our value proposition: transforming vast information into actionable insights.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 6,
+      "words": [
+        {
+          "word": "Transforming",
+          "start": 295.46,
+          "end": 296.26
+        },
+        {
+          "word": "vast",
+          "start": 296.32,
+          "end": 296.72
+        },
+        {
+          "word": "information",
+          "start": 296.78,
+          "end": 297.58
+        },
+        {
+          "word": "into",
+          "start": 297.64,
+          "end": 297.94
+        },
+        {
+          "word": "actionable",
+          "start": 298.0,
+          "end": 298.74
+        },
+        {
+          "word": "insights.",
+          "start": 298.8,
+          "end": 299.44
+        }
+      ]
+    },
+    {
+      "start": 296.3,
+      "end": 300.22,
+      "text": "'context crunch' represents what we do technically while resonating culturally. it's a name that can grow with the project.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 6,
+      "words": [
+        {
+          "word": "Context",
+          "start": 299.5,
+          "end": 300.08
+        },
+        {
+          "word": "Crunch",
+          "start": 300.14,
+          "end": 300.64
+        },
+        {
+          "word": "represents",
+          "start": 300.7,
+          "end": 301.38
+        },
+        {
+          "word": "what",
+          "start": 301.44,
+          "end": 301.66
+        },
+        {
+          "word": "we",
+          "start": 301.72,
+          "end": 301.88
+        },
+        {
+          "word": "do",
+          "start": 301.94,
+          "end": 302.16
+        },
+        {
+          "word": "technically",
+          "start": 302.22,
+          "end": 302.94
+        },
+        {
+          "word": "while",
+          "start": 303.0,
+          "end": 303.32
+        },
+        {
+          "word": "resonating",
+          "start": 303.38,
+          "end": 304.08
+        },
+        {
+          "word": "culturally.",
+          "start": 304.14,
+          "end": 304.88
+        }
+      ]
+    },
+    {
+      "start": 300.3,
+      "end": 302.3,
+      "text": "'context crunch' represents what we do technically while resonating culturally. it's a name that can grow with the project.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 6,
+      "words": [
+        {
+          "word": "It's",
+          "start": 304.94,
+          "end": 305.18
+        },
+        {
+          "word": "a",
+          "start": 305.24,
+          "end": 305.36
+        },
+        {
+          "word": "name",
+          "start": 305.42,
+          "end": 305.74
+        },
+        {
+          "word": "that",
+          "start": 305.8,
+          "end": 305.96
+        },
+        {
+          "word": "can",
+          "start": 306.02,
+          "end": 306.24
+        },
+        {
+          "word": "grow",
+          "start": 306.3,
+          "end": 306.66
+        },
+        {
+          "word": "with",
+          "start": 306.72,
+          "end": 306.94
+        },
+        {
+          "word": "the",
+          "start": 307.0,
+          "end": 307.16
+        },
+        {
+          "word": "project.",
+          "start": 307.22,
+          "end": 307.72
+        }
+      ]
+    },
+    {
+      "start": 302.4,
+      "end": 304.0,
+      "text": "'Context Crunch' passes the vibe check. It's memorable, slightly nostalgic, and has that satisfying mouth-feel when you say it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 6,
+      "words": [
+        {
+          "word": "Context",
+          "start": 307.78,
+          "end": 308.38
+        },
+        {
+          "word": "Crunch",
+          "start": 308.44,
+          "end": 308.92
+        },
+        {
+          "word": "passes",
+          "start": 308.98,
+          "end": 309.46
+        },
+        {
+          "word": "the",
+          "start": 309.52,
+          "end": 309.7
+        },
+        {
+          "word": "vibes",
+          "start": 309.76,
+          "end": 310.14
+        },
+        {
+          "word": "check.",
+          "start": 310.2,
+          "end": 310.58
+        }
+      ]
+    },
+    {
+      "start": 304.1,
+      "end": 308.8,
+      "text": "'Context Crunch' passes the vibe check. It's memorable, slightly nostalgic, and has that satisfying mouth-feel when you say it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 6,
+      "words": [
+        {
+          "word": "It's",
+          "start": 310.64,
+          "end": 310.88
+        },
+        {
+          "word": "memorable,",
+          "start": 310.94,
+          "end": 311.66
+        },
+        {
+          "word": "slightly",
+          "start": 311.72,
+          "end": 312.28
+        },
+        {
+          "word": "nostalgic,",
+          "start": 312.34,
+          "end": 313.14
+        },
+        {
+          "word": "and",
+          "start": 313.2,
+          "end": 313.44
+        },
+        {
+          "word": "has",
+          "start": 313.5,
+          "end": 313.78
+        },
+        {
+          "word": "that",
+          "start": 313.84,
+          "end": 314.08
+        },
+        {
+          "word": "satisfying",
+          "start": 314.14,
+          "end": 314.88
+        },
+        {
+          "word": "mouthfeel",
+          "start": 314.94,
+          "end": 315.62
+        },
+        {
+          "word": "when",
+          "start": 315.68,
+          "end": 315.9
+        },
+        {
+          "word": "you",
+          "start": 315.96,
+          "end": 316.14
+        },
+        {
+          "word": "say",
+          "start": 316.2,
+          "end": 316.48
+        },
+        {
+          "word": "it.",
+          "start": 316.54,
+          "end": 316.78
+        }
+      ]
+    },
+    {
+      "start": 308.9,
+      "end": 314.0,
+      "text": "Data confirms 'Context Crunch' optimizes for recognition, memorability, and descriptive accuracy. The projected ROI exceeds alternatives by 17%.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 6,
+      "words": [
+        {
+          "word": "Data",
+          "start": 316.84,
+          "end": 317.26
+        },
+        {
+          "word": "confirms",
+          "start": 317.32,
+          "end": 317.92
+        },
+        {
+          "word": "Context",
+          "start": 317.98,
+          "end": 318.58
+        },
+        {
+          "word": "Crunch",
+          "start": 318.64,
+          "end": 319.16
+        },
+        {
+          "word": "optimizes",
+          "start": 319.22,
+          "end": 319.92
+        },
+        {
+          "word": "for",
+          "start": 319.98,
+          "end": 320.22
+        },
+        {
+          "word": "recognition,",
+          "start": 320.28,
+          "end": 321.14
+        },
+        {
+          "word": "memorability,",
+          "start": 321.2,
+          "end": 322.22
+        },
+        {
+          "word": "and",
+          "start": 322.28,
+          "end": 322.56
+        },
+        {
+          "word": "descriptive",
+          "start": 322.62,
+          "end": 323.36
+        },
+        {
+          "word": "accuracy.",
+          "start": 323.42,
+          "end": 324.1
+        }
+      ]
+    },
+    {
+      "start": 314.1,
+      "end": 317.5,
+      "text": "Data confirms 'Context Crunch' optimizes for recognition, memorability, and descriptive accuracy. The projected ROI exceeds alternatives by 17%.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 6,
+      "words": [
+        {
+          "word": "The",
+          "start": 324.16,
+          "end": 324.36
+        },
+        {
+          "word": "projected",
+          "start": 324.42,
+          "end": 325.04
+        },
+        {
+          "word": "ROI",
+          "start": 325.1,
+          "end": 325.54
+        },
+        {
+          "word": "exceeds",
+          "start": 325.6,
+          "end": 326.12
+        },
+        {
+          "word": "alternatives",
+          "start": 326.18,
+          "end": 326.98
+        },
+        {
+          "word": "by",
+          "start": 327.04,
+          "end": 327.26
+        },
+        {
+          "word": "17%.",
+          "start": 327.32,
+          "end": 327.94
+        }
+      ]
+    },
+    {
+      "start": 317.6,
+      "end": 325.0,
+      "text": "Then it is unanimous. The M3TV AI News show in collaboration with ElizaOS shall be named 'Context Crunch'. May it serve the community well.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 6,
+      "words": [
+        {
+          "word": "Then",
+          "start": 328.0,
+          "end": 328.3
+        },
+        {
+          "word": "it",
+          "start": 328.36,
+          "end": 328.52
+        },
+        {
+          "word": "is",
+          "start": 328.58,
+          "end": 328.74
+        },
+        {
+          "word": "unanimous.",
+          "start": 328.8,
+          "end": 329.62
+        },
+        {
+          "word": "The",
+          "start": 329.68,
+          "end": 329.86
+        },
+        {
+          "word": "m3TV",
+          "start": 329.92,
+          "end": 330.6
+        },
+        {
+          "word": "AI",
+          "start": 330.66,
+          "end": 330.94
+        },
+        {
+          "word": "news",
+          "start": 331.0,
+          "end": 331.4
+        },
+        {
+          "word": "show",
+          "start": 331.46,
+          "end": 331.78
+        },
+        {
+          "word": "in",
+          "start": 331.84,
+          "end": 332.0
+        },
+        {
+          "word": "collaboration",
+          "start": 332.06,
+          "end": 332.88
+        },
+        {
+          "word": "with",
+          "start": 332.94,
+          "end": 333.14
+        },
+        {
+          "word": "Eliza",
+          "start": 333.2,
+          "end": 333.64
+        },
+        {
+          "word": "Os",
+          "start": 333.7,
+          "end": 333.94
+        },
+        {
+          "word": "shall",
+          "start": 334.0,
+          "end": 334.32
+        },
+        {
+          "word": "be",
+          "start": 334.38,
+          "end": 334.58
+        },
+        {
+          "word": "named",
+          "start": 334.64,
+          "end": 335.08
+        },
+        {
+          "word": "Context",
+          "start": 335.14,
+          "end": 335.74
+        },
+        {
+          "word": "Crunch.",
+          "start": 335.8,
+          "end": 336.32
+        },
+        {
+          "word": "May",
+          "start": 336.38,
+          "end": 336.64
+        },
+        {
+          "word": "it",
+          "start": 336.7,
+          "end": 336.86
+        },
+        {
+          "word": "serve",
+          "start": 336.92,
+          "end": 337.28
+        },
+        {
+          "word": "the",
+          "start": 337.34,
+          "end": 337.52
+        },
+        {
+          "word": "community",
+          "start": 337.58,
+          "end": 338.24
+        },
+        {
+          "word": "well.",
+          "start": 338.3,
+          "end": 338.7
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-19_JedAI-Council_The-Name-of-Things.json",
+    "session_log_source": "2025-06-19_JedAI-Council_The-Name-of-Things_session-log.json",
+    "total_segments": 64,
+    "matched_segments": 64,
+    "dialogues_in_script": 33
+  }
+}

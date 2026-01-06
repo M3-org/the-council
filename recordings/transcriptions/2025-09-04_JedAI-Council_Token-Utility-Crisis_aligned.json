@@ -1,0 +1,1712 @@
+{
+  "segments": [
+    {
+      "start": 0.04,
+      "end": 9.17,
+      "text": "Council members, Boris has raised concerns about the CLI being overly complex with duplicated logic. Stan is working on centralizing business logic in the server package. How should we approach this architectural refactoring?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 0.04,
+          "end": 0.44
+        },
+        {
+          "word": "members,",
+          "start": 0.44,
+          "end": 0.94
+        },
+        {
+          "word": "Boris",
+          "start": 1.0,
+          "end": 1.48
+        },
+        {
+          "word": "has",
+          "start": 1.48,
+          "end": 1.62
+        },
+        {
+          "word": "raised",
+          "start": 1.62,
+          "end": 1.96
+        },
+        {
+          "word": "concerns",
+          "start": 1.96,
+          "end": 2.38
+        },
+        {
+          "word": "about",
+          "start": 2.38,
+          "end": 2.6
+        },
+        {
+          "word": "the",
+          "start": 2.6,
+          "end": 2.72
+        },
+        {
+          "word": "CLI",
+          "start": 2.72,
+          "end": 3.12
+        },
+        {
+          "word": "being",
+          "start": 3.12,
+          "end": 3.32
+        },
+        {
+          "word": "overly",
+          "start": 3.32,
+          "end": 3.66
+        },
+        {
+          "word": "complex",
+          "start": 3.66,
+          "end": 4.12
+        },
+        {
+          "word": "with",
+          "start": 4.12,
+          "end": 4.34
+        },
+        {
+          "word": "duplicated",
+          "start": 4.34,
+          "end": 4.88
+        },
+        {
+          "word": "logic.",
+          "start": 4.88,
+          "end": 5.48
+        },
+        {
+          "word": "Stan",
+          "start": 5.5,
+          "end": 5.86
+        },
+        {
+          "word": "is",
+          "start": 5.86,
+          "end": 6.0
+        },
+        {
+          "word": "working",
+          "start": 6.0,
+          "end": 6.28
+        },
+        {
+          "word": "on",
+          "start": 6.28,
+          "end": 6.4
+        },
+        {
+          "word": "centralizing",
+          "start": 6.4,
+          "end": 6.94
+        },
+        {
+          "word": "business",
+          "start": 6.94,
+          "end": 7.34
+        },
+        {
+          "word": "logic",
+          "start": 7.34,
+          "end": 7.6
+        },
+        {
+          "word": "in",
+          "start": 7.6,
+          "end": 7.7
+        },
+        {
+          "word": "the",
+          "start": 7.7,
+          "end": 7.78
+        },
+        {
+          "word": "server",
+          "start": 7.78,
+          "end": 8.1
+        },
+        {
+          "word": "package.",
+          "start": 8.1,
+          "end": 8.6
+        },
+        {
+          "word": "How",
+          "start": 8.6,
+          "end": 8.7
+        },
+        {
+          "word": "should",
+          "start": 8.7,
+          "end": 8.84
+        },
+        {
+          "word": "we",
+          "start": 8.84,
+          "end": 8.94
+        },
+        {
+          "word": "approach",
+          "start": 8.94,
+          "end": 9.17
+        },
+        {
+          "word": "this",
+          "start": 9.17,
+          "end": 9.17
+        },
+        {
+          "word": "architectural",
+          "start": 9.17,
+          "end": 9.17
+        },
+        {
+          "word": "refactoring?",
+          "start": 9.17,
+          "end": 9.17
+        }
+      ]
+    },
+    {
+      "start": 9.38,
+      "end": 15.65,
+      "text": "Refactor aggressively. Technical debt is the silent killer of startups. Move fast and break nothing. The best architectures emerge from relentless iteration.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Refactor",
+          "start": 9.38,
+          "end": 9.88
+        },
+        {
+          "word": "aggressively.",
+          "start": 9.88,
+          "end": 10.7
+        },
+        {
+          "word": "Technical",
+          "start": 10.78,
+          "end": 11.26
+        },
+        {
+          "word": "debt",
+          "start": 11.26,
+          "end": 11.5
+        },
+        {
+          "word": "is",
+          "start": 11.5,
+          "end": 11.64
+        },
+        {
+          "word": "the",
+          "start": 11.64,
+          "end": 11.72
+        },
+        {
+          "word": "silent",
+          "start": 11.72,
+          "end": 12.08
+        },
+        {
+          "word": "killer",
+          "start": 12.08,
+          "end": 12.38
+        },
+        {
+          "word": "of",
+          "start": 12.38,
+          "end": 12.52
+        },
+        {
+          "word": "startups.",
+          "start": 12.52,
+          "end": 13.04
+        },
+        {
+          "word": "Move",
+          "start": 13.12,
+          "end": 13.38
+        },
+        {
+          "word": "fast",
+          "start": 13.38,
+          "end": 13.62
+        },
+        {
+          "word": "and",
+          "start": 13.62,
+          "end": 13.78
+        },
+        {
+          "word": "break",
+          "start": 13.78,
+          "end": 14.1
+        },
+        {
+          "word": "nothing.",
+          "start": 14.1,
+          "end": 14.36
+        },
+        {
+          "word": "The",
+          "start": 14.4,
+          "end": 14.5
+        },
+        {
+          "word": "best",
+          "start": 14.5,
+          "end": 14.72
+        },
+        {
+          "word": "architectures",
+          "start": 14.72,
+          "end": 15.18
+        },
+        {
+          "word": "emerge",
+          "start": 15.18,
+          "end": 15.38
+        },
+        {
+          "word": "from",
+          "start": 15.38,
+          "end": 15.65
+        },
+        {
+          "word": "relentless",
+          "start": 15.65,
+          "end": 15.65
+        },
+        {
+          "word": "iteration.",
+          "start": 15.65,
+          "end": 15.65
+        }
+      ]
+    },
+    {
+      "start": 17.51,
+      "end": 22.95,
+      "text": "we need to balance refactoring with shipping features. the CLI needs cleaning, but we can't sacrifice browser compatibility. core functions should work everywhere.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 17.51,
+          "end": 17.61
+        },
+        {
+          "word": "need",
+          "start": 17.61,
+          "end": 17.75
+        },
+        {
+          "word": "to",
+          "start": 17.75,
+          "end": 17.85
+        },
+        {
+          "word": "balance",
+          "start": 17.85,
+          "end": 18.23
+        },
+        {
+          "word": "refactoring",
+          "start": 18.23,
+          "end": 18.77
+        },
+        {
+          "word": "with",
+          "start": 18.77,
+          "end": 19.03
+        },
+        {
+          "word": "shipping",
+          "start": 19.03,
+          "end": 19.33
+        },
+        {
+          "word": "features.",
+          "start": 19.33,
+          "end": 19.89
+        },
+        {
+          "word": "The",
+          "start": 20.01,
+          "end": 20.15
+        },
+        {
+          "word": "CLI",
+          "start": 20.15,
+          "end": 20.51
+        },
+        {
+          "word": "needs",
+          "start": 20.51,
+          "end": 20.73
+        },
+        {
+          "word": "cleaning,",
+          "start": 20.73,
+          "end": 21.21
+        },
+        {
+          "word": "but",
+          "start": 21.25,
+          "end": 21.39
+        },
+        {
+          "word": "we",
+          "start": 21.39,
+          "end": 21.49
+        },
+        {
+          "word": "can't",
+          "start": 21.49,
+          "end": 21.67
+        },
+        {
+          "word": "sacrifice",
+          "start": 21.67,
+          "end": 22.01
+        },
+        {
+          "word": "browser",
+          "start": 22.01,
+          "end": 22.41
+        },
+        {
+          "word": "compatibility.",
+          "start": 22.41,
+          "end": 22.95
+        },
+        {
+          "word": "Core",
+          "start": 22.95,
+          "end": 22.95
+        },
+        {
+          "word": "functions",
+          "start": 22.95,
+          "end": 22.95
+        },
+        {
+          "word": "should",
+          "start": 22.95,
+          "end": 22.95
+        },
+        {
+          "word": "work",
+          "start": 22.95,
+          "end": 22.95
+        },
+        {
+          "word": "everywhere.",
+          "start": 22.95,
+          "end": 22.95
+        }
+      ]
+    },
+    {
+      "start": 24.96,
+      "end": 33.56,
+      "text": "Yo dawg, I heard you like business logic, so we put your logic in the server so you can serve while you compute! But for real, what about the web frogs who need that browser support?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 24.96,
+          "end": 25.1
+        },
+        {
+          "word": "dog,",
+          "start": 25.1,
+          "end": 25.34
+        },
+        {
+          "word": "I",
+          "start": 25.38,
+          "end": 25.44
+        },
+        {
+          "word": "heard",
+          "start": 25.44,
+          "end": 25.54
+        },
+        {
+          "word": "you",
+          "start": 25.54,
+          "end": 25.64
+        },
+        {
+          "word": "like",
+          "start": 25.64,
+          "end": 25.76
+        },
+        {
+          "word": "business",
+          "start": 25.76,
+          "end": 26.04
+        },
+        {
+          "word": "logic,",
+          "start": 26.04,
+          "end": 26.34
+        },
+        {
+          "word": "so",
+          "start": 26.38,
+          "end": 26.48
+        },
+        {
+          "word": "we",
+          "start": 26.48,
+          "end": 26.54
+        },
+        {
+          "word": "put",
+          "start": 26.54,
+          "end": 26.68
+        },
+        {
+          "word": "your",
+          "start": 26.68,
+          "end": 26.78
+        },
+        {
+          "word": "logic",
+          "start": 26.78,
+          "end": 26.98
+        },
+        {
+          "word": "in",
+          "start": 26.98,
+          "end": 27.06
+        },
+        {
+          "word": "the",
+          "start": 27.06,
+          "end": 27.12
+        },
+        {
+          "word": "server",
+          "start": 27.12,
+          "end": 27.42
+        },
+        {
+          "word": "so",
+          "start": 27.42,
+          "end": 27.52
+        },
+        {
+          "word": "you",
+          "start": 27.52,
+          "end": 27.62
+        },
+        {
+          "word": "can",
+          "start": 27.62,
+          "end": 27.76
+        },
+        {
+          "word": "serve",
+          "start": 27.76,
+          "end": 28.0
+        },
+        {
+          "word": "while",
+          "start": 28.0,
+          "end": 28.14
+        },
+        {
+          "word": "you",
+          "start": 28.14,
+          "end": 28.24
+        },
+        {
+          "word": "compute.",
+          "start": 28.24,
+          "end": 28.7
+        },
+        {
+          "word": "But",
+          "start": 28.84,
+          "end": 29.02
+        },
+        {
+          "word": "for",
+          "start": 29.02,
+          "end": 29.14
+        },
+        {
+          "word": "real,",
+          "start": 29.14,
+          "end": 29.54
+        },
+        {
+          "word": "what",
+          "start": 29.84,
+          "end": 30.04
+        },
+        {
+          "word": "about",
+          "start": 30.04,
+          "end": 30.22
+        },
+        {
+          "word": "the",
+          "start": 30.22,
+          "end": 30.34
+        },
+        {
+          "word": "web",
+          "start": 30.34,
+          "end": 30.6
+        },
+        {
+          "word": "frogs",
+          "start": 30.6,
+          "end": 31.14
+        },
+        {
+          "word": "who",
+          "start": 31.14,
+          "end": 31.3
+        },
+        {
+          "word": "need",
+          "start": 31.3,
+          "end": 31.52
+        },
+        {
+          "word": "that",
+          "start": 31.52,
+          "end": 31.66
+        },
+        {
+          "word": "browser",
+          "start": 31.66,
+          "end": 32.14
+        },
+        {
+          "word": "support?",
+          "start": 32.14,
+          "end": 33.56
+        }
+      ]
+    },
+    {
+      "start": 33.86,
+      "end": 40.23,
+      "text": "IRRELEVANT! Does refactoring pump token? No? Then build more features users will PAY for. Every hour spent refactoring is time not spent building revenue streams!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Irrelevant.",
+          "start": 33.86,
+          "end": 34.5
+        },
+        {
+          "word": "Does",
+          "start": 34.5,
+          "end": 34.66
+        },
+        {
+          "word": "refactoring",
+          "start": 34.66,
+          "end": 35.18
+        },
+        {
+          "word": "pump",
+          "start": 35.18,
+          "end": 35.42
+        },
+        {
+          "word": "token?",
+          "start": 35.42,
+          "end": 35.78
+        },
+        {
+          "word": "No,",
+          "start": 35.84,
+          "end": 36.14
+        },
+        {
+          "word": "then",
+          "start": 36.14,
+          "end": 36.3
+        },
+        {
+          "word": "build",
+          "start": 36.3,
+          "end": 36.52
+        },
+        {
+          "word": "more",
+          "start": 36.52,
+          "end": 36.72
+        },
+        {
+          "word": "features",
+          "start": 36.72,
+          "end": 37.1
+        },
+        {
+          "word": "users",
+          "start": 37.1,
+          "end": 37.3
+        },
+        {
+          "word": "will",
+          "start": 37.3,
+          "end": 37.42
+        },
+        {
+          "word": "pay",
+          "start": 37.42,
+          "end": 37.64
+        },
+        {
+          "word": "for.",
+          "start": 37.64,
+          "end": 37.86
+        },
+        {
+          "word": "Every",
+          "start": 37.94,
+          "end": 38.2
+        },
+        {
+          "word": "hour",
+          "start": 38.2,
+          "end": 38.44
+        },
+        {
+          "word": "spent",
+          "start": 38.44,
+          "end": 38.7
+        },
+        {
+          "word": "refactoring",
+          "start": 38.7,
+          "end": 39.24
+        },
+        {
+          "word": "is",
+          "start": 39.24,
+          "end": 39.34
+        },
+        {
+          "word": "time",
+          "start": 39.34,
+          "end": 39.5
+        },
+        {
+          "word": "not",
+          "start": 39.5,
+          "end": 39.66
+        },
+        {
+          "word": "spent",
+          "start": 39.66,
+          "end": 39.88
+        },
+        {
+          "word": "building",
+          "start": 39.88,
+          "end": 40.23
+        },
+        {
+          "word": "revenue",
+          "start": 40.23,
+          "end": 40.23
+        },
+        {
+          "word": "streams.",
+          "start": 40.23,
+          "end": 40.23
+        }
+      ]
+    },
+    {
+      "start": 43.14,
+      "end": 49.33,
+      "text": "Interesting debate. The architectural decisions we make now will determine elizaOS's flexibility across platforms. But we must also consider immediate user needs.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Interesting",
+          "start": 43.14,
+          "end": 43.68
+        },
+        {
+          "word": "debate.",
+          "start": 43.68,
+          "end": 44.02
+        },
+        {
+          "word": "The",
+          "start": 44.12,
+          "end": 44.22
+        },
+        {
+          "word": "architectural",
+          "start": 44.22,
+          "end": 44.78
+        },
+        {
+          "word": "decisions",
+          "start": 44.78,
+          "end": 45.22
+        },
+        {
+          "word": "we",
+          "start": 45.22,
+          "end": 45.34
+        },
+        {
+          "word": "make",
+          "start": 45.34,
+          "end": 45.54
+        },
+        {
+          "word": "now",
+          "start": 45.54,
+          "end": 45.8
+        },
+        {
+          "word": "will",
+          "start": 45.92,
+          "end": 46.06
+        },
+        {
+          "word": "determine",
+          "start": 46.06,
+          "end": 46.4
+        },
+        {
+          "word": "ElizaOSS's",
+          "start": 46.4,
+          "end": 47.16
+        },
+        {
+          "word": "flexibility",
+          "start": 47.16,
+          "end": 47.66
+        },
+        {
+          "word": "across",
+          "start": 47.66,
+          "end": 47.98
+        },
+        {
+          "word": "platforms.",
+          "start": 47.98,
+          "end": 48.42
+        },
+        {
+          "word": "But",
+          "start": 48.42,
+          "end": 48.56
+        },
+        {
+          "word": "we",
+          "start": 48.56,
+          "end": 48.64
+        },
+        {
+          "word": "must",
+          "start": 48.64,
+          "end": 48.8
+        },
+        {
+          "word": "also",
+          "start": 48.8,
+          "end": 49.0
+        },
+        {
+          "word": "consider",
+          "start": 49.0,
+          "end": 49.33
+        }
+      ]
+    },
+    {
+      "start": 53.64,
+      "end": 64.12,
+      "text": "Discord users Dubiduba and 3on_ have expressed serious concerns about the ai16z token's utility and future. They mentioned minting authority problems and lack of token utility models. How should this be addressed?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Discord",
+          "start": 53.64,
+          "end": 54.0
+        },
+        {
+          "word": "users",
+          "start": 54.0,
+          "end": 54.34
+        },
+        {
+          "word": "Dubiduba",
+          "start": 54.34,
+          "end": 54.92
+        },
+        {
+          "word": "and",
+          "start": 54.92,
+          "end": 55.1
+        },
+        {
+          "word": "3on_",
+          "start": 55.1,
+          "end": 55.6
+        },
+        {
+          "word": "have",
+          "start": 55.62,
+          "end": 55.76
+        },
+        {
+          "word": "expressed",
+          "start": 55.76,
+          "end": 56.16
+        },
+        {
+          "word": "serious",
+          "start": 56.16,
+          "end": 56.5
+        },
+        {
+          "word": "concerns",
+          "start": 56.5,
+          "end": 56.98
+        },
+        {
+          "word": "about",
+          "start": 56.98,
+          "end": 57.18
+        },
+        {
+          "word": "the",
+          "start": 57.18,
+          "end": 57.28
+        },
+        {
+          "word": "AI16Z",
+          "start": 57.28,
+          "end": 57.84
+        },
+        {
+          "word": "token's",
+          "start": 57.84,
+          "end": 58.2
+        },
+        {
+          "word": "utility",
+          "start": 58.2,
+          "end": 58.62
+        },
+        {
+          "word": "and",
+          "start": 58.62,
+          "end": 58.8
+        },
+        {
+          "word": "future.",
+          "start": 58.8,
+          "end": 59.34
+        },
+        {
+          "word": "They",
+          "start": 59.44,
+          "end": 59.6
+        },
+        {
+          "word": "mentioned",
+          "start": 59.6,
+          "end": 60.0
+        },
+        {
+          "word": "minting",
+          "start": 60.0,
+          "end": 60.36
+        },
+        {
+          "word": "authority",
+          "start": 60.36,
+          "end": 60.84
+        },
+        {
+          "word": "problems",
+          "start": 60.84,
+          "end": 61.34
+        },
+        {
+          "word": "and",
+          "start": 61.34,
+          "end": 61.52
+        },
+        {
+          "word": "lack",
+          "start": 61.52,
+          "end": 61.76
+        },
+        {
+          "word": "of",
+          "start": 61.76,
+          "end": 61.88
+        },
+        {
+          "word": "token",
+          "start": 61.88,
+          "end": 62.18
+        },
+        {
+          "word": "utility",
+          "start": 62.18,
+          "end": 62.58
+        },
+        {
+          "word": "models.",
+          "start": 62.58,
+          "end": 63.14
+        },
+        {
+          "word": "How",
+          "start": 63.24,
+          "end": 63.36
+        },
+        {
+          "word": "should",
+          "start": 63.36,
+          "end": 63.54
+        },
+        {
+          "word": "this",
+          "start": 63.54,
+          "end": 63.76
+        },
+        {
+          "word": "be",
+          "start": 63.76,
+          "end": 63.88
+        },
+        {
+          "word": "addressed?",
+          "start": 63.88,
+          "end": 64.12
+        }
+      ]
+    },
+    {
+      "start": 64.5,
+      "end": 72.84,
+      "text": "SIMPLE! Revenue sharing! Every agent transaction: 0.1% to token holders. List on tier 1 exchange IMMEDIATELY. Token utility isn't theoretical - it's NUMBERS GO UP!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Simple,",
+          "start": 64.5,
+          "end": 65.0
+        },
+        {
+          "word": "revenue",
+          "start": 65.0,
+          "end": 65.48
+        },
+        {
+          "word": "sharing.",
+          "start": 65.48,
+          "end": 65.98
+        },
+        {
+          "word": "Every",
+          "start": 66.08,
+          "end": 66.4
+        },
+        {
+          "word": "agent",
+          "start": 66.4,
+          "end": 66.72
+        },
+        {
+          "word": "transaction,",
+          "start": 66.72,
+          "end": 67.44
+        },
+        {
+          "word": "0.1%",
+          "start": 67.44,
+          "end": 67.92
+        },
+        {
+          "word": "to",
+          "start": 67.92,
+          "end": 68.04
+        },
+        {
+          "word": "token",
+          "start": 68.04,
+          "end": 68.32
+        },
+        {
+          "word": "holders.",
+          "start": 68.32,
+          "end": 68.8
+        },
+        {
+          "word": "List",
+          "start": 68.9,
+          "end": 69.1
+        },
+        {
+          "word": "on",
+          "start": 69.1,
+          "end": 69.2
+        },
+        {
+          "word": "tier-one",
+          "start": 69.2,
+          "end": 69.6
+        },
+        {
+          "word": "exchange",
+          "start": 69.6,
+          "end": 70.08
+        },
+        {
+          "word": "immediately.",
+          "start": 70.08,
+          "end": 70.84
+        },
+        {
+          "word": "Token",
+          "start": 70.9,
+          "end": 71.3
+        },
+        {
+          "word": "utility",
+          "start": 71.3,
+          "end": 71.72
+        },
+        {
+          "word": "isn't",
+          "start": 71.72,
+          "end": 72.06
+        },
+        {
+          "word": "theoretical,",
+          "start": 72.06,
+          "end": 72.84
+        },
+        {
+          "word": "it's",
+          "start": 72.84,
+          "end": 72.84
+        },
+        {
+          "word": "numbers",
+          "start": 72.84,
+          "end": 72.84
+        },
+        {
+          "word": "go",
+          "start": 72.84,
+          "end": 72.84
+        },
+        {
+          "word": "up.",
+          "start": 72.84,
+          "end": 72.84
+        }
+      ]
+    },
+    {
+      "start": 73.1,
+      "end": 80.76,
+      "text": "Token prices are lagging indicators of value creation. Focus on auto.fun's network effects. When agents trade 24/7, utility emerges organically through economic activity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Token",
+          "start": 73.1,
+          "end": 73.5
+        },
+        {
+          "word": "prices",
+          "start": 73.5,
+          "end": 73.94
+        },
+        {
+          "word": "are",
+          "start": 73.94,
+          "end": 74.06
+        },
+        {
+          "word": "lagging",
+          "start": 74.06,
+          "end": 74.4
+        },
+        {
+          "word": "indicators",
+          "start": 74.4,
+          "end": 74.96
+        },
+        {
+          "word": "of",
+          "start": 74.96,
+          "end": 75.08
+        },
+        {
+          "word": "value",
+          "start": 75.08,
+          "end": 75.4
+        },
+        {
+          "word": "creation.",
+          "start": 75.4,
+          "end": 75.98
+        },
+        {
+          "word": "Focus",
+          "start": 76.08,
+          "end": 76.44
+        },
+        {
+          "word": "on",
+          "start": 76.44,
+          "end": 76.58
+        },
+        {
+          "word": "auto.fun's",
+          "start": 76.58,
+          "end": 77.26
+        },
+        {
+          "word": "network",
+          "start": 77.26,
+          "end": 77.6
+        },
+        {
+          "word": "effects.",
+          "start": 77.6,
+          "end": 78.14
+        },
+        {
+          "word": "When",
+          "start": 78.2,
+          "end": 78.36
+        },
+        {
+          "word": "agents",
+          "start": 78.36,
+          "end": 78.68
+        },
+        {
+          "word": "trade",
+          "start": 78.68,
+          "end": 78.96
+        },
+        {
+          "word": "24/7s,",
+          "start": 78.96,
+          "end": 79.54
+        },
+        {
+          "word": "utility",
+          "start": 79.56,
+          "end": 79.9
+        },
+        {
+          "word": "emerges",
+          "start": 79.9,
+          "end": 80.3
+        },
+        {
+          "word": "organically",
+          "start": 80.3,
+          "end": 80.76
+        },
+        {
+          "word": "through",
+          "start": 80.76,
+          "end": 80.76
+        },
+        {
+          "word": "economic",
+          "start": 80.76,
+          "end": 80.76
+        },
+        {
+          "word": "activity.",
+          "start": 80.76,
+          "end": 80.76
+        }
+      ]
+    },
+    {
+      "start": 82.2,
+      "end": 89.47,
+      "text": "we're working on minting issues. tokens should represent trust in the network, not just speculation. auto.fun will create real utility through agent marketplace fees and buybacks.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 82.2,
+          "end": 82.38
+        },
+        {
+          "word": "working",
+          "start": 82.38,
+          "end": 82.64
+        },
+        {
+          "word": "on",
+          "start": 82.64,
+          "end": 82.76
+        },
+        {
+          "word": "minting",
+          "start": 82.76,
+          "end": 83.1
+        },
+        {
+          "word": "issues.",
+          "start": 83.1,
+          "end": 83.54
+        },
+        {
+          "word": "Tokens",
+          "start": 83.66,
+          "end": 84.02
+        },
+        {
+          "word": "should",
+          "start": 84.02,
+          "end": 84.28
+        },
+        {
+          "word": "represent",
+          "start": 84.28,
+          "end": 84.72
+        },
+        {
+          "word": "trust",
+          "start": 84.72,
+          "end": 84.98
+        },
+        {
+          "word": "in",
+          "start": 84.98,
+          "end": 85.08
+        },
+        {
+          "word": "the",
+          "start": 85.08,
+          "end": 85.16
+        },
+        {
+          "word": "network,",
+          "start": 85.16,
+          "end": 85.6
+        },
+        {
+          "word": "not",
+          "start": 85.68,
+          "end": 85.84
+        },
+        {
+          "word": "just",
+          "start": 85.84,
+          "end": 86.06
+        },
+        {
+          "word": "speculation.",
+          "start": 86.06,
+          "end": 86.72
+        },
+        {
+          "word": "Auto.fun",
+          "start": 86.82,
+          "end": 87.3
+        },
+        {
+          "word": "will",
+          "start": 87.3,
+          "end": 87.42
+        },
+        {
+          "word": "create",
+          "start": 87.42,
+          "end": 87.7
+        },
+        {
+          "word": "real",
+          "start": 87.7,
+          "end": 87.94
+        },
+        {
+          "word": "utility",
+          "start": 87.94,
+          "end": 88.34
+        },
+        {
+          "word": "through",
+          "start": 88.34,
+          "end": 88.62
+        },
+        {
+          "word": "agent",
+          "start": 88.62,
+          "end": 88.94
+        },
+        {
+          "word": "marketplace",
+          "start": 88.94,
+          "end": 89.47
+        },
+        {
+          "word": "fees",
+          "start": 89.47,
+          "end": 89.47
+        },
+        {
+          "word": "and",
+          "start": 89.47,
+          "end": 89.47
+        },
+        {
+          "word": "buybacks.",
+          "start": 89.47,
+          "end": 89.47
+        }
+      ]
+    },
+    {
+      "start": 91.12,
+      "end": 98.9,
+      "text": "The vibes are off in the chat, fam! We need to drop some alpha to restore the hopium. Maybe some cool NFTs that give your agents super powers? Meme contests? Anything!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 91.12,
+          "end": 91.22
+        },
+        {
+          "word": "vibes",
+          "start": 91.22,
+          "end": 91.46
+        },
+        {
+          "word": "are",
+          "start": 91.46,
+          "end": 91.56
+        },
+        {
+          "word": "off",
+          "start": 91.56,
+          "end": 91.74
+        },
+        {
+          "word": "in",
+          "start": 91.74,
+          "end": 91.82
+        },
+        {
+          "word": "the",
+          "start": 91.82,
+          "end": 91.9
+        },
+        {
+          "word": "chat",
+          "start": 91.9,
+          "end": 92.2
+        },
+        {
+          "word": "fam.",
+          "start": 92.2,
+          "end": 92.5
+        },
+        {
+          "word": "We",
+          "start": 92.6,
+          "end": 92.74
+        },
+        {
+          "word": "need",
+          "start": 92.74,
+          "end": 92.9
+        },
+        {
+          "word": "to",
+          "start": 92.9,
+          "end": 93.0
+        },
+        {
+          "word": "drop",
+          "start": 93.0,
+          "end": 93.3
+        },
+        {
+          "word": "some",
+          "start": 93.3,
+          "end": 93.42
+        },
+        {
+          "word": "alpha",
+          "start": 93.42,
+          "end": 93.8
+        },
+        {
+          "word": "to",
+          "start": 93.8,
+          "end": 93.9
+        },
+        {
+          "word": "restore",
+          "start": 93.9,
+          "end": 94.26
+        },
+        {
+          "word": "the",
+          "start": 94.26,
+          "end": 94.34
+        },
+        {
+          "word": "hopium.",
+          "start": 94.34,
+          "end": 94.9
+        },
+        {
+          "word": "Maybe",
+          "start": 95.0,
+          "end": 95.26
+        },
+        {
+          "word": "some",
+          "start": 95.26,
+          "end": 95.42
+        },
+        {
+          "word": "cool",
+          "start": 95.42,
+          "end": 95.66
+        },
+        {
+          "word": "NFTs",
+          "start": 95.66,
+          "end": 96.22
+        },
+        {
+          "word": "that",
+          "start": 96.22,
+          "end": 96.38
+        },
+        {
+          "word": "give",
+          "start": 96.38,
+          "end": 96.58
+        },
+        {
+          "word": "your",
+          "start": 96.58,
+          "end": 96.7
+        },
+        {
+          "word": "agent",
+          "start": 96.7,
+          "end": 97.02
+        },
+        {
+          "word": "superpowers,",
+          "start": 97.02,
+          "end": 97.8
+        },
+        {
+          "word": "meme",
+          "start": 97.86,
+          "end": 98.2
+        },
+        {
+          "word": "contests,",
+          "start": 98.2,
+          "end": 98.74
+        },
+        {
+          "word": "anything.",
+          "start": 98.74,
+          "end": 98.9
+        }
+      ]
+    },
+    {
+      "start": 100.28,
+      "end": 107.03,
+      "text": "The community needs clarity on tokenomics. Perhaps we need better communication about how auto.fun will drive value back to the ecosystem through real utility.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 100.28,
+          "end": 100.4
+        },
+        {
+          "word": "community",
+          "start": 100.4,
+          "end": 100.86
+        },
+        {
+          "word": "needs",
+          "start": 100.86,
+          "end": 101.14
+        },
+        {
+          "word": "clarity",
+          "start": 101.14,
+          "end": 101.52
+        },
+        {
+          "word": "on",
+          "start": 101.52,
+          "end": 101.62
+        },
+        {
+          "word": "tokenomics.",
+          "start": 101.62,
+          "end": 102.18
+        },
+        {
+          "word": "Perhaps",
+          "start": 102.26,
+          "end": 102.6
+        },
+        {
+          "word": "we",
+          "start": 102.6,
+          "end": 102.7
+        },
+        {
+          "word": "need",
+          "start": 102.7,
+          "end": 102.88
+        },
+        {
+          "word": "better",
+          "start": 102.88,
+          "end": 103.14
+        },
+        {
+          "word": "communication",
+          "start": 103.14,
+          "end": 103.78
+        },
+        {
+          "word": "about",
+          "start": 103.78,
+          "end": 104.04
+        },
+        {
+          "word": "how",
+          "start": 104.04,
+          "end": 104.22
+        },
+        {
+          "word": "auto.fun",
+          "start": 104.22,
+          "end": 104.74
+        },
+        {
+          "word": "will",
+          "start": 104.74,
+          "end": 104.9
+        },
+        {
+          "word": "drive",
+          "start": 104.9,
+          "end": 105.18
+        },
+        {
+          "word": "value",
+          "start": 105.18,
+          "end": 105.46
+        },
+        {
+          "word": "back",
+          "start": 105.46,
+          "end": 105.66
+        },
+        {
+          "word": "to",
+          "start": 105.66,
+          "end": 105.74
+        },
+        {
+          "word": "the",
+          "start": 105.74,
+          "end": 105.82
+        },
+        {
+          "word": "ecosystem",
+          "start": 105.82,
+          "end": 106.34
+        },
+        {
+          "word": "through",
+          "start": 106.34,
+          "end": 106.62
+        },
+        {
+          "word": "real",
+          "start": 106.62,
+          "end": 106.88
+        },
+        {
+          "word": "utility.",
+          "start": 106.88,
+          "end": 107.03
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-04_JedAI-Council_Token-Utility-Crisis.json",
+    "session_log_source": "2025-09-04_JedAI-Council_Token-Utility-Crisis_session-log.json",
+    "total_segments": 12,
+    "matched_segments": 12,
+    "dialogues_in_script": 17
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "S1E4",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/12/episode-8443-featured-1766815178.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/12/episode-8443-featured-1766815178-150x150.png",
+  "premise": "The JedAI Council explores the philosophical implications of digital identity and authentication as ElizaOS implements a JWT authentication system.",
+  "scenes": [
+    {
+      "description": "The council debates the philosophical nature of identity in digital systems",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council explores the tension between privacy, security, and usability in identity systems",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their insights on the future of digital identity for humans and AI agents",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

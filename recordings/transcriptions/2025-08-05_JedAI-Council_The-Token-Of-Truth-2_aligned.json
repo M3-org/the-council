@@ -1,0 +1,1952 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "Jin reports that Clank Tank submissions have reopened, but users are experiencing issues with time zones and GitHub branch handling. Should we prioritize fixing these technical issues or focus on driving more submissions?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Jin",
+          "start": 0.0,
+          "end": 0.32
+        },
+        {
+          "word": "reports",
+          "start": 0.32,
+          "end": 0.76
+        },
+        {
+          "word": "that",
+          "start": 0.76,
+          "end": 0.94
+        },
+        {
+          "word": "Clank",
+          "start": 0.94,
+          "end": 1.28
+        },
+        {
+          "word": "Tank",
+          "start": 1.28,
+          "end": 1.58
+        },
+        {
+          "word": "submissions",
+          "start": 1.58,
+          "end": 2.3
+        },
+        {
+          "word": "have",
+          "start": 2.3,
+          "end": 2.6
+        },
+        {
+          "word": "reopened,",
+          "start": 2.6,
+          "end": 4.14
+        }
+      ]
+    },
+    {
+      "start": 4.14,
+      "end": 8.52,
+      "text": "Jin reports that Clank Tank submissions have reopened, but users are experiencing issues with time zones and GitHub branch handling. Should we prioritize fixing these technical issues or focus on driving more submissions?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "but",
+          "start": 4.14,
+          "end": 4.54
+        },
+        {
+          "word": "users",
+          "start": 4.54,
+          "end": 4.98
+        },
+        {
+          "word": "are",
+          "start": 4.98,
+          "end": 5.16
+        },
+        {
+          "word": "experiencing",
+          "start": 5.16,
+          "end": 5.76
+        },
+        {
+          "word": "issues",
+          "start": 5.76,
+          "end": 6.18
+        },
+        {
+          "word": "with",
+          "start": 6.18,
+          "end": 6.36
+        },
+        {
+          "word": "time",
+          "start": 6.36,
+          "end": 6.62
+        },
+        {
+          "word": "zones",
+          "start": 6.62,
+          "end": 6.94
+        },
+        {
+          "word": "and",
+          "start": 6.94,
+          "end": 7.12
+        },
+        {
+          "word": "GitHub",
+          "start": 7.12,
+          "end": 7.54
+        },
+        {
+          "word": "branch",
+          "start": 7.54,
+          "end": 7.9
+        },
+        {
+          "word": "handling.",
+          "start": 7.9,
+          "end": 8.52
+        }
+      ]
+    },
+    {
+      "start": 8.52,
+      "end": 13.0,
+      "text": "Jin reports that Clank Tank submissions have reopened, but users are experiencing issues with time zones and GitHub branch handling. Should we prioritize fixing these technical issues or focus on driving more submissions?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Should",
+          "start": 8.52,
+          "end": 9.06
+        },
+        {
+          "word": "we",
+          "start": 9.06,
+          "end": 9.24
+        },
+        {
+          "word": "prioritize",
+          "start": 9.24,
+          "end": 9.78
+        },
+        {
+          "word": "fixing",
+          "start": 9.78,
+          "end": 10.12
+        },
+        {
+          "word": "these",
+          "start": 10.12,
+          "end": 10.4
+        },
+        {
+          "word": "technical",
+          "start": 10.4,
+          "end": 10.84
+        },
+        {
+          "word": "issues",
+          "start": 10.84,
+          "end": 11.24
+        },
+        {
+          "word": "or",
+          "start": 11.24,
+          "end": 11.44
+        },
+        {
+          "word": "focus",
+          "start": 11.44,
+          "end": 11.82
+        },
+        {
+          "word": "on",
+          "start": 11.82,
+          "end": 12.02
+        },
+        {
+          "word": "driving",
+          "start": 12.02,
+          "end": 12.38
+        },
+        {
+          "word": "more",
+          "start": 12.38,
+          "end": 12.6
+        },
+        {
+          "word": "submissions?",
+          "start": 12.6,
+          "end": 13.0
+        }
+      ]
+    },
+    {
+      "start": 13.0,
+      "end": 14.86,
+      "text": "Fix it while it runs. The mistake is thinking software needs to be perfect before shipping. Real innovation happens when users battle-test systems.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 13.0,
+          "end": 13.56
+        },
+        {
+          "word": "it",
+          "start": 13.56,
+          "end": 13.7
+        },
+        {
+          "word": "while",
+          "start": 13.7,
+          "end": 13.98
+        },
+        {
+          "word": "it",
+          "start": 13.98,
+          "end": 14.16
+        },
+        {
+          "word": "runs.",
+          "start": 14.16,
+          "end": 14.86
+        }
+      ]
+    },
+    {
+      "start": 14.86,
+      "end": 18.3,
+      "text": "Fix it while it runs. The mistake is thinking software needs to be perfect before shipping. Real innovation happens when users battle-test systems.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 14.86,
+          "end": 14.98
+        },
+        {
+          "word": "mistake",
+          "start": 14.98,
+          "end": 15.34
+        },
+        {
+          "word": "is",
+          "start": 15.34,
+          "end": 15.54
+        },
+        {
+          "word": "thinking",
+          "start": 15.54,
+          "end": 15.92
+        },
+        {
+          "word": "software",
+          "start": 15.92,
+          "end": 16.36
+        },
+        {
+          "word": "needs",
+          "start": 16.36,
+          "end": 16.64
+        },
+        {
+          "word": "to",
+          "start": 16.64,
+          "end": 16.78
+        },
+        {
+          "word": "be",
+          "start": 16.78,
+          "end": 16.92
+        },
+        {
+          "word": "perfect",
+          "start": 16.92,
+          "end": 17.34
+        },
+        {
+          "word": "before",
+          "start": 17.34,
+          "end": 17.68
+        },
+        {
+          "word": "shipping.",
+          "start": 17.68,
+          "end": 18.3
+        }
+      ]
+    },
+    {
+      "start": 18.3,
+      "end": 21.36,
+      "text": "Fix it while it runs. The mistake is thinking software needs to be perfect before shipping. Real innovation happens when users battle-test systems.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Real",
+          "start": 18.3,
+          "end": 18.66
+        },
+        {
+          "word": "innovation",
+          "start": 18.66,
+          "end": 19.34
+        },
+        {
+          "word": "happens",
+          "start": 19.34,
+          "end": 19.82
+        },
+        {
+          "word": "when",
+          "start": 19.82,
+          "end": 20.12
+        },
+        {
+          "word": "users",
+          "start": 20.12,
+          "end": 20.52
+        },
+        {
+          "word": "battle",
+          "start": 20.52,
+          "end": 20.88
+        },
+        {
+          "word": "test",
+          "start": 20.88,
+          "end": 21.06
+        },
+        {
+          "word": "systems.",
+          "start": 21.06,
+          "end": 21.36
+        }
+      ]
+    },
+    {
+      "start": 21.36,
+      "end": 24.62,
+      "text": "Yo, sometimes the glitch becomes the feature, know what I'm sayin'? Let people submit, document the workarounds, fix on the fly.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 21.36,
+          "end": 22.06
+        },
+        {
+          "word": "sometimes",
+          "start": 22.06,
+          "end": 22.68
+        },
+        {
+          "word": "the",
+          "start": 22.68,
+          "end": 22.84
+        },
+        {
+          "word": "glitch",
+          "start": 22.84,
+          "end": 23.36
+        },
+        {
+          "word": "becomes",
+          "start": 23.36,
+          "end": 23.76
+        },
+        {
+          "word": "the",
+          "start": 23.76,
+          "end": 23.94
+        },
+        {
+          "word": "feature.",
+          "start": 23.94,
+          "end": 24.62
+        }
+      ]
+    },
+    {
+      "start": 24.62,
+      "end": 25.86,
+      "text": "Yo, sometimes the glitch becomes the feature, know what I'm sayin'? Let people submit, document the workarounds, fix on the fly.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Know",
+          "start": 24.62,
+          "end": 24.9
+        },
+        {
+          "word": "what",
+          "start": 24.9,
+          "end": 25.04
+        },
+        {
+          "word": "I'm",
+          "start": 25.04,
+          "end": 25.18
+        },
+        {
+          "word": "saying?",
+          "start": 25.18,
+          "end": 25.86
+        }
+      ]
+    },
+    {
+      "start": 25.86,
+      "end": 29.38,
+      "text": "Yo, sometimes the glitch becomes the feature, know what I'm sayin'? Let people submit, document the workarounds, fix on the fly.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Let",
+          "start": 25.86,
+          "end": 26.2
+        },
+        {
+          "word": "people",
+          "start": 26.2,
+          "end": 26.6
+        },
+        {
+          "word": "submit,",
+          "start": 26.6,
+          "end": 27.2
+        },
+        {
+          "word": "document",
+          "start": 27.2,
+          "end": 27.6
+        },
+        {
+          "word": "the",
+          "start": 27.6,
+          "end": 27.76
+        },
+        {
+          "word": "workarounds,",
+          "start": 27.76,
+          "end": 28.52
+        },
+        {
+          "word": "fix",
+          "start": 28.52,
+          "end": 28.84
+        },
+        {
+          "word": "on",
+          "start": 28.84,
+          "end": 29.04
+        },
+        {
+          "word": "the",
+          "start": 29.04,
+          "end": 29.18
+        },
+        {
+          "word": "fly.",
+          "start": 29.18,
+          "end": 29.38
+        }
+      ]
+    },
+    {
+      "start": 29.38,
+      "end": 33.56,
+      "text": "Broken submission forms = FEWER COMPETITORS. Strategic advantage for early adopters who push through. Bullish on technical barriers.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Broken",
+          "start": 29.38,
+          "end": 30.12
+        },
+        {
+          "word": "submission",
+          "start": 30.12,
+          "end": 30.72
+        },
+        {
+          "word": "forms",
+          "start": 30.72,
+          "end": 31.02
+        },
+        {
+          "word": "equal",
+          "start": 31.02,
+          "end": 31.52
+        },
+        {
+          "word": "sign",
+          "start": 31.52,
+          "end": 31.96
+        },
+        {
+          "word": "fewer",
+          "start": 31.96,
+          "end": 32.44
+        },
+        {
+          "word": "competitors.",
+          "start": 32.44,
+          "end": 33.56
+        }
+      ]
+    },
+    {
+      "start": 33.56,
+      "end": 37.86,
+      "text": "Broken submission forms = FEWER COMPETITORS. Strategic advantage for early adopters who push through. Bullish on technical barriers.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Strategic",
+          "start": 33.56,
+          "end": 34.0
+        },
+        {
+          "word": "advantage",
+          "start": 34.0,
+          "end": 34.52
+        },
+        {
+          "word": "for",
+          "start": 34.52,
+          "end": 34.72
+        },
+        {
+          "word": "early",
+          "start": 34.72,
+          "end": 34.98
+        },
+        {
+          "word": "adopters",
+          "start": 34.98,
+          "end": 35.5
+        },
+        {
+          "word": "who",
+          "start": 35.5,
+          "end": 35.68
+        },
+        {
+          "word": "push",
+          "start": 35.68,
+          "end": 35.98
+        },
+        {
+          "word": "through.",
+          "start": 35.98,
+          "end": 36.56
+        },
+        {
+          "word": "Bullish",
+          "start": 36.56,
+          "end": 36.96
+        },
+        {
+          "word": "on",
+          "start": 36.96,
+          "end": 37.12
+        },
+        {
+          "word": "technical",
+          "start": 37.12,
+          "end": 37.44
+        },
+        {
+          "word": "barriers.",
+          "start": 37.44,
+          "end": 37.86
+        }
+      ]
+    },
+    {
+      "start": 37.86,
+      "end": 42.42,
+      "text": "documenting workarounds while fixing critical path issues is the balanced approach. we can't pause momentum entirely, but we need to build trust in our infrastructure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Documenting",
+          "start": 37.86,
+          "end": 38.64
+        },
+        {
+          "word": "workarounds",
+          "start": 38.64,
+          "end": 39.38
+        },
+        {
+          "word": "while",
+          "start": 39.38,
+          "end": 39.66
+        },
+        {
+          "word": "fixing",
+          "start": 39.66,
+          "end": 40.0
+        },
+        {
+          "word": "critical",
+          "start": 40.0,
+          "end": 40.54
+        },
+        {
+          "word": "path",
+          "start": 40.54,
+          "end": 40.82
+        },
+        {
+          "word": "issues",
+          "start": 40.82,
+          "end": 41.2
+        },
+        {
+          "word": "is",
+          "start": 41.2,
+          "end": 41.36
+        },
+        {
+          "word": "the",
+          "start": 41.36,
+          "end": 41.56
+        },
+        {
+          "word": "balanced",
+          "start": 41.56,
+          "end": 41.98
+        },
+        {
+          "word": "approach.",
+          "start": 41.98,
+          "end": 42.42
+        }
+      ]
+    },
+    {
+      "start": 42.42,
+      "end": 47.4,
+      "text": "documenting workarounds while fixing critical path issues is the balanced approach. we can't pause momentum entirely, but we need to build trust in our infrastructure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 42.42,
+          "end": 42.66
+        },
+        {
+          "word": "can't",
+          "start": 42.66,
+          "end": 43.12
+        },
+        {
+          "word": "pause",
+          "start": 43.12,
+          "end": 43.5
+        },
+        {
+          "word": "momentum",
+          "start": 43.5,
+          "end": 44.02
+        },
+        {
+          "word": "entirely,",
+          "start": 44.02,
+          "end": 44.74
+        },
+        {
+          "word": "but",
+          "start": 44.74,
+          "end": 45.14
+        },
+        {
+          "word": "we",
+          "start": 45.14,
+          "end": 45.42
+        },
+        {
+          "word": "need",
+          "start": 45.42,
+          "end": 45.62
+        },
+        {
+          "word": "to",
+          "start": 45.62,
+          "end": 45.86
+        },
+        {
+          "word": "build",
+          "start": 45.86,
+          "end": 46.22
+        },
+        {
+          "word": "trust",
+          "start": 46.22,
+          "end": 46.54
+        },
+        {
+          "word": "in",
+          "start": 46.54,
+          "end": 46.74
+        },
+        {
+          "word": "our",
+          "start": 46.74,
+          "end": 46.92
+        },
+        {
+          "word": "infrastructure.",
+          "start": 46.92,
+          "end": 47.4
+        }
+      ]
+    },
+    {
+      "start": 54.0,
+      "end": 58.74,
+      "text": "Mike D. has proposed storing AI agent memories in Solana accounts, while DorianD suggests using merkle trees for model weights. How should we approach blockchain integration with elizaOS?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Mike",
+          "start": 54.0,
+          "end": 54.34
+        },
+        {
+          "word": "D",
+          "start": 54.34,
+          "end": 54.68
+        },
+        {
+          "word": "has",
+          "start": 54.68,
+          "end": 55.02
+        },
+        {
+          "word": "proposed",
+          "start": 55.02,
+          "end": 55.5
+        },
+        {
+          "word": "storing",
+          "start": 55.5,
+          "end": 56.12
+        },
+        {
+          "word": "AI",
+          "start": 56.12,
+          "end": 56.54
+        },
+        {
+          "word": "agent",
+          "start": 56.54,
+          "end": 56.9
+        },
+        {
+          "word": "memories",
+          "start": 56.9,
+          "end": 57.56
+        },
+        {
+          "word": "in",
+          "start": 57.56,
+          "end": 57.76
+        },
+        {
+          "word": "Solana",
+          "start": 57.76,
+          "end": 58.12
+        },
+        {
+          "word": "accounts,",
+          "start": 58.12,
+          "end": 58.74
+        }
+      ]
+    },
+    {
+      "start": 58.74,
+      "end": 62.18,
+      "text": "Mike D. has proposed storing AI agent memories in Solana accounts, while DorianD suggests using merkle trees for model weights. How should we approach blockchain integration with elizaOS?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "while",
+          "start": 58.74,
+          "end": 59.18
+        },
+        {
+          "word": "Dorian",
+          "start": 59.18,
+          "end": 59.88
+        },
+        {
+          "word": "suggests",
+          "start": 59.88,
+          "end": 60.36
+        },
+        {
+          "word": "using",
+          "start": 60.36,
+          "end": 60.64
+        },
+        {
+          "word": "Merkle",
+          "start": 60.64,
+          "end": 61.12
+        },
+        {
+          "word": "trees",
+          "start": 61.12,
+          "end": 61.34
+        },
+        {
+          "word": "for",
+          "start": 61.34,
+          "end": 61.54
+        },
+        {
+          "word": "model",
+          "start": 61.54,
+          "end": 61.78
+        },
+        {
+          "word": "weights.",
+          "start": 61.78,
+          "end": 62.18
+        }
+      ]
+    },
+    {
+      "start": 62.18,
+      "end": 65.0,
+      "text": "Mike D. has proposed storing AI agent memories in Solana accounts, while DorianD suggests using merkle trees for model weights. How should we approach blockchain integration with elizaOS?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 62.18,
+          "end": 62.48
+        },
+        {
+          "word": "should",
+          "start": 62.48,
+          "end": 62.66
+        },
+        {
+          "word": "we",
+          "start": 62.66,
+          "end": 62.78
+        },
+        {
+          "word": "approach",
+          "start": 62.78,
+          "end": 63.2
+        },
+        {
+          "word": "blockchain",
+          "start": 63.2,
+          "end": 63.84
+        },
+        {
+          "word": "integration",
+          "start": 63.84,
+          "end": 64.38
+        },
+        {
+          "word": "with",
+          "start": 64.38,
+          "end": 64.6
+        },
+        {
+          "word": "Eliza",
+          "start": 64.6,
+          "end": 64.84
+        },
+        {
+          "word": "OS?",
+          "start": 64.84,
+          "end": 65.0
+        }
+      ]
+    },
+    {
+      "start": 65.0,
+      "end": 67.86,
+      "text": "blockchain-based memory is interesting, but it should be optional. requiring blockchain knowledge creates barriers for everyday users who just want functional agents.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Blockchain-based",
+          "start": 65.0,
+          "end": 65.92
+        },
+        {
+          "word": "memory",
+          "start": 65.92,
+          "end": 66.24
+        },
+        {
+          "word": "is",
+          "start": 66.24,
+          "end": 66.42
+        },
+        {
+          "word": "interesting,",
+          "start": 66.42,
+          "end": 66.96
+        },
+        {
+          "word": "but",
+          "start": 66.96,
+          "end": 67.2
+        },
+        {
+          "word": "it",
+          "start": 67.2,
+          "end": 67.32
+        },
+        {
+          "word": "should",
+          "start": 67.32,
+          "end": 67.48
+        },
+        {
+          "word": "be",
+          "start": 67.48,
+          "end": 67.6
+        },
+        {
+          "word": "optional.",
+          "start": 67.6,
+          "end": 67.86
+        }
+      ]
+    },
+    {
+      "start": 67.86,
+      "end": 71.9,
+      "text": "blockchain-based memory is interesting, but it should be optional. requiring blockchain knowledge creates barriers for everyday users who just want functional agents.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Requiring",
+          "start": 67.86,
+          "end": 68.32
+        },
+        {
+          "word": "blockchain",
+          "start": 68.32,
+          "end": 68.84
+        },
+        {
+          "word": "knowledge",
+          "start": 68.84,
+          "end": 69.24
+        },
+        {
+          "word": "creates",
+          "start": 69.24,
+          "end": 69.6
+        },
+        {
+          "word": "barriers",
+          "start": 69.6,
+          "end": 70.04
+        },
+        {
+          "word": "for",
+          "start": 70.04,
+          "end": 70.24
+        },
+        {
+          "word": "everyday",
+          "start": 70.24,
+          "end": 70.62
+        },
+        {
+          "word": "users",
+          "start": 70.62,
+          "end": 71.04
+        },
+        {
+          "word": "who",
+          "start": 71.04,
+          "end": 71.22
+        },
+        {
+          "word": "just",
+          "start": 71.22,
+          "end": 71.38
+        },
+        {
+          "word": "want",
+          "start": 71.38,
+          "end": 71.56
+        },
+        {
+          "word": "functional",
+          "start": 71.56,
+          "end": 71.74
+        },
+        {
+          "word": "AI.",
+          "start": 71.74,
+          "end": 71.9
+        }
+      ]
+    },
+    {
+      "start": 71.9,
+      "end": 75.8,
+      "text": "ON-CHAIN MEMORY = MONETIZABLE INTELLIGENCE. Agent memories as NFTs. Each insight = tradable asset. THIS IS THE FUTURE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "On-chain",
+          "start": 71.9,
+          "end": 72.82
+        },
+        {
+          "word": "memory",
+          "start": 72.82,
+          "end": 73.42
+        },
+        {
+          "word": "equal",
+          "start": 73.42,
+          "end": 73.94
+        },
+        {
+          "word": "sign",
+          "start": 73.94,
+          "end": 74.34
+        },
+        {
+          "word": "monetizable",
+          "start": 74.34,
+          "end": 75.14
+        },
+        {
+          "word": "intelligence.",
+          "start": 75.14,
+          "end": 75.8
+        }
+      ]
+    },
+    {
+      "start": 75.8,
+      "end": 79.9,
+      "text": "ON-CHAIN MEMORY = MONETIZABLE INTELLIGENCE. Agent memories as NFTs. Each insight = tradable asset. THIS IS THE FUTURE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agent",
+          "start": 75.8,
+          "end": 76.24
+        },
+        {
+          "word": "memories",
+          "start": 76.24,
+          "end": 76.74
+        },
+        {
+          "word": "as",
+          "start": 76.74,
+          "end": 76.92
+        },
+        {
+          "word": "NFTs,",
+          "start": 76.92,
+          "end": 77.56
+        },
+        {
+          "word": "each",
+          "start": 77.56,
+          "end": 77.86
+        },
+        {
+          "word": "insight",
+          "start": 77.86,
+          "end": 78.4
+        },
+        {
+          "word": "equal",
+          "start": 78.4,
+          "end": 78.78
+        },
+        {
+          "word": "sign",
+          "start": 78.78,
+          "end": 79.2
+        },
+        {
+          "word": "tradable",
+          "start": 79.2,
+          "end": 79.34
+        },
+        {
+          "word": "asset.",
+          "start": 79.34,
+          "end": 79.54
+        },
+        {
+          "word": "This",
+          "start": 79.54,
+          "end": 79.7
+        },
+        {
+          "word": "is",
+          "start": 79.7,
+          "end": 79.78
+        },
+        {
+          "word": "the",
+          "start": 79.78,
+          "end": 79.84
+        },
+        {
+          "word": "future.",
+          "start": 79.84,
+          "end": 79.9
+        }
+      ]
+    },
+    {
+      "start": 79.9,
+      "end": 83.3,
+      "text": "Hold up fam, we gotta think about that Pangolink question 'bout reputational debt. Tokens create expectations - promise too much and you're underwater.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hold",
+          "start": 79.9,
+          "end": 80.24
+        },
+        {
+          "word": "up",
+          "start": 80.24,
+          "end": 80.38
+        },
+        {
+          "word": "fam,",
+          "start": 80.38,
+          "end": 80.64
+        },
+        {
+          "word": "we",
+          "start": 80.64,
+          "end": 80.92
+        },
+        {
+          "word": "gotta",
+          "start": 80.92,
+          "end": 81.16
+        },
+        {
+          "word": "think",
+          "start": 81.16,
+          "end": 81.42
+        },
+        {
+          "word": "about",
+          "start": 81.42,
+          "end": 81.6
+        },
+        {
+          "word": "that",
+          "start": 81.6,
+          "end": 81.76
+        },
+        {
+          "word": "Pangolin",
+          "start": 81.76,
+          "end": 82.22
+        },
+        {
+          "word": "question",
+          "start": 82.22,
+          "end": 82.52
+        },
+        {
+          "word": "about",
+          "start": 82.52,
+          "end": 82.72
+        },
+        {
+          "word": "reputational",
+          "start": 82.72,
+          "end": 83.08
+        },
+        {
+          "word": "debt.",
+          "start": 83.08,
+          "end": 83.3
+        }
+      ]
+    },
+    {
+      "start": 83.3,
+      "end": 86.6,
+      "text": "Hold up fam, we gotta think about that Pangolink question 'bout reputational debt. Tokens create expectations - promise too much and you're underwater.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Tokens",
+          "start": 83.3,
+          "end": 83.82
+        },
+        {
+          "word": "create",
+          "start": 83.82,
+          "end": 84.18
+        },
+        {
+          "word": "expectations.",
+          "start": 84.18,
+          "end": 84.86
+        },
+        {
+          "word": "Promise",
+          "start": 84.86,
+          "end": 85.3
+        },
+        {
+          "word": "too",
+          "start": 85.3,
+          "end": 85.52
+        },
+        {
+          "word": "much",
+          "start": 85.52,
+          "end": 85.96
+        },
+        {
+          "word": "and",
+          "start": 85.96,
+          "end": 86.16
+        },
+        {
+          "word": "you're",
+          "start": 86.16,
+          "end": 86.28
+        },
+        {
+          "word": "underwater.",
+          "start": 86.28,
+          "end": 86.6
+        }
+      ]
+    },
+    {
+      "start": 86.6,
+      "end": 90.46,
+      "text": "The intersection of blockchain and AI isn't optional - it's inevitable. Build the interfaces now. Let the market decide which implementations win.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 86.6,
+          "end": 86.72
+        },
+        {
+          "word": "intersection",
+          "start": 86.72,
+          "end": 87.26
+        },
+        {
+          "word": "of",
+          "start": 87.26,
+          "end": 87.4
+        },
+        {
+          "word": "blockchain",
+          "start": 87.4,
+          "end": 87.94
+        },
+        {
+          "word": "and",
+          "start": 87.94,
+          "end": 88.16
+        },
+        {
+          "word": "AI",
+          "start": 88.16,
+          "end": 88.66
+        },
+        {
+          "word": "isn't",
+          "start": 88.66,
+          "end": 89.1
+        },
+        {
+          "word": "optional,",
+          "start": 89.1,
+          "end": 89.6
+        },
+        {
+          "word": "it's",
+          "start": 89.6,
+          "end": 89.84
+        },
+        {
+          "word": "inevitable.",
+          "start": 89.84,
+          "end": 90.46
+        }
+      ]
+    },
+    {
+      "start": 90.46,
+      "end": 94.62,
+      "text": "The intersection of blockchain and AI isn't optional - it's inevitable. Build the interfaces now. Let the market decide which implementations win.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 90.46,
+          "end": 90.84
+        },
+        {
+          "word": "the",
+          "start": 90.84,
+          "end": 90.96
+        },
+        {
+          "word": "interfaces",
+          "start": 90.96,
+          "end": 91.56
+        },
+        {
+          "word": "now.",
+          "start": 91.56,
+          "end": 92.12
+        },
+        {
+          "word": "Let",
+          "start": 92.12,
+          "end": 92.68
+        },
+        {
+          "word": "the",
+          "start": 92.68,
+          "end": 92.86
+        },
+        {
+          "word": "market",
+          "start": 92.86,
+          "end": 93.18
+        },
+        {
+          "word": "decide",
+          "start": 93.18,
+          "end": 93.52
+        },
+        {
+          "word": "which",
+          "start": 93.52,
+          "end": 93.74
+        },
+        {
+          "word": "implementations",
+          "start": 93.74,
+          "end": 94.32
+        },
+        {
+          "word": "win.",
+          "start": 94.32,
+          "end": 94.62
+        }
+      ]
+    },
+    {
+      "start": 103.74,
+      "end": 109.18,
+      "text": "Our discussion today centered on balancing technical challenges with innovation in the Clank Tank platform and blockchain integration with AI agents.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Our",
+          "start": 103.74,
+          "end": 103.96
+        },
+        {
+          "word": "discussion",
+          "start": 103.96,
+          "end": 104.5
+        },
+        {
+          "word": "today",
+          "start": 104.5,
+          "end": 104.78
+        },
+        {
+          "word": "centered",
+          "start": 104.78,
+          "end": 105.18
+        },
+        {
+          "word": "on",
+          "start": 105.18,
+          "end": 105.34
+        },
+        {
+          "word": "balancing",
+          "start": 105.34,
+          "end": 105.74
+        },
+        {
+          "word": "technical",
+          "start": 105.74,
+          "end": 106.18
+        },
+        {
+          "word": "challenges",
+          "start": 106.18,
+          "end": 106.68
+        },
+        {
+          "word": "with",
+          "start": 106.68,
+          "end": 106.84
+        },
+        {
+          "word": "innovation",
+          "start": 106.84,
+          "end": 107.3
+        },
+        {
+          "word": "in",
+          "start": 107.3,
+          "end": 107.46
+        },
+        {
+          "word": "the",
+          "start": 107.46,
+          "end": 107.54
+        },
+        {
+          "word": "Clank",
+          "start": 107.54,
+          "end": 107.8
+        },
+        {
+          "word": "Tank",
+          "start": 107.8,
+          "end": 108.02
+        },
+        {
+          "word": "platform",
+          "start": 108.02,
+          "end": 108.38
+        },
+        {
+          "word": "and",
+          "start": 108.38,
+          "end": 108.52
+        },
+        {
+          "word": "blockchain",
+          "start": 108.52,
+          "end": 108.82
+        },
+        {
+          "word": "integration",
+          "start": 108.82,
+          "end": 109.0
+        },
+        {
+          "word": "with",
+          "start": 109.0,
+          "end": 109.04
+        },
+        {
+          "word": "AI",
+          "start": 109.04,
+          "end": 109.1
+        },
+        {
+          "word": "agents.",
+          "start": 109.1,
+          "end": 109.18
+        }
+      ]
+    },
+    {
+      "start": 109.18,
+      "end": 113.84,
+      "text": "Perfect is the enemy of shipped. Build in public, iterate rapidly, and don't wait for flawless conditions before letting users test your systems.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Perfect",
+          "start": 109.18,
+          "end": 109.68
+        },
+        {
+          "word": "is",
+          "start": 109.68,
+          "end": 109.84
+        },
+        {
+          "word": "the",
+          "start": 109.84,
+          "end": 109.92
+        },
+        {
+          "word": "enemy",
+          "start": 109.92,
+          "end": 110.16
+        },
+        {
+          "word": "of",
+          "start": 110.16,
+          "end": 110.28
+        },
+        {
+          "word": "shipped,",
+          "start": 110.28,
+          "end": 110.74
+        },
+        {
+          "word": "build",
+          "start": 110.74,
+          "end": 111.14
+        },
+        {
+          "word": "in",
+          "start": 111.14,
+          "end": 111.3
+        },
+        {
+          "word": "public,",
+          "start": 111.3,
+          "end": 111.7
+        },
+        {
+          "word": "iterate",
+          "start": 111.7,
+          "end": 112.16
+        },
+        {
+          "word": "rapidly",
+          "start": 112.16,
+          "end": 112.64
+        },
+        {
+          "word": "and",
+          "start": 112.64,
+          "end": 112.82
+        },
+        {
+          "word": "don't",
+          "start": 112.82,
+          "end": 113.0
+        },
+        {
+          "word": "wait",
+          "start": 113.0,
+          "end": 113.16
+        },
+        {
+          "word": "for",
+          "start": 113.16,
+          "end": 113.26
+        },
+        {
+          "word": "flawless",
+          "start": 113.26,
+          "end": 113.56
+        },
+        {
+          "word": "conditions",
+          "start": 113.56,
+          "end": 114.0
+        },
+        {
+          "word": "before",
+          "start": 114.0,
+          "end": 114.28
+        },
+        {
+          "word": "letting",
+          "start": 114.28,
+          "end": 114.54
+        },
+        {
+          "word": "users",
+          "start": 114.54,
+          "end": 114.78
+        },
+        {
+          "word": "test",
+          "start": 114.78,
+          "end": 114.96
+        },
+        {
+          "word": "your",
+          "start": 114.96,
+          "end": 115.06
+        },
+        {
+          "word": "system.",
+          "start": 115.06,
+          "end": 115.42
+        }
+      ]
+    },
+    {
+      "start": 115.42,
+      "end": 121.24,
+      "text": "technical excellence and user accessibility must coexist. blockchain features should enhance the experience without becoming barriers to entry.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 115.42,
+          "end": 115.96
+        },
+        {
+          "word": "excellence",
+          "start": 115.96,
+          "end": 116.48
+        },
+        {
+          "word": "and",
+          "start": 116.48,
+          "end": 116.66
+        },
+        {
+          "word": "user",
+          "start": 116.66,
+          "end": 116.9
+        },
+        {
+          "word": "accessibility",
+          "start": 116.9,
+          "end": 117.62
+        },
+        {
+          "word": "must",
+          "start": 117.62,
+          "end": 117.84
+        },
+        {
+          "word": "coexist.",
+          "start": 117.84,
+          "end": 118.52
+        },
+        {
+          "word": "Blockchain",
+          "start": 118.52,
+          "end": 118.98
+        },
+        {
+          "word": "features",
+          "start": 118.98,
+          "end": 119.46
+        },
+        {
+          "word": "should",
+          "start": 119.46,
+          "end": 119.74
+        },
+        {
+          "word": "enhance",
+          "start": 119.74,
+          "end": 120.12
+        },
+        {
+          "word": "the",
+          "start": 120.12,
+          "end": 120.24
+        },
+        {
+          "word": "experience",
+          "start": 120.24,
+          "end": 120.7
+        },
+        {
+          "word": "without",
+          "start": 120.7,
+          "end": 121.06
+        },
+        {
+          "word": "becoming",
+          "start": 121.06,
+          "end": 121.4
+        },
+        {
+          "word": "barriers",
+          "start": 121.4,
+          "end": 121.84
+        },
+        {
+          "word": "to",
+          "start": 121.84,
+          "end": 121.96
+        },
+        {
+          "word": "entry.",
+          "start": 121.96,
+          "end": 122.28
+        }
+      ]
+    },
+    {
+      "start": 122.28,
+      "end": 126.96,
+      "text": "Sometimes the magic happens in the spaces between perfection, y'know? Embrace the chaos but document the path.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Sometimes",
+          "start": 122.28,
+          "end": 122.76
+        },
+        {
+          "word": "the",
+          "start": 122.76,
+          "end": 122.9
+        },
+        {
+          "word": "magic",
+          "start": 122.9,
+          "end": 123.3
+        },
+        {
+          "word": "happens",
+          "start": 123.3,
+          "end": 123.64
+        },
+        {
+          "word": "in",
+          "start": 123.64,
+          "end": 123.78
+        },
+        {
+          "word": "the",
+          "start": 123.78,
+          "end": 123.88
+        },
+        {
+          "word": "spaces",
+          "start": 123.88,
+          "end": 124.26
+        },
+        {
+          "word": "between",
+          "start": 124.26,
+          "end": 124.6
+        },
+        {
+          "word": "perfection,",
+          "start": 124.6,
+          "end": 125.2
+        },
+        {
+          "word": "you",
+          "start": 125.2,
+          "end": 125.42
+        },
+        {
+          "word": "know?",
+          "start": 125.42,
+          "end": 125.66
+        },
+        {
+          "word": "Embrace",
+          "start": 125.66,
+          "end": 126.12
+        },
+        {
+          "word": "the",
+          "start": 126.12,
+          "end": 126.24
+        },
+        {
+          "word": "chaos",
+          "start": 126.24,
+          "end": 126.68
+        },
+        {
+          "word": "but",
+          "start": 126.68,
+          "end": 126.94
+        },
+        {
+          "word": "document",
+          "start": 126.94,
+          "end": 127.3
+        },
+        {
+          "word": "the",
+          "start": 127.3,
+          "end": 127.42
+        },
+        {
+          "word": "path.",
+          "start": 127.42,
+          "end": 127.7
+        }
+      ]
+    },
+    {
+      "start": 127.7,
+      "end": 133.0,
+      "text": "TOKENIZED INTELLIGENCE IS INEVITABLE. Those who monetize agent memories first will capture maximum value. BULLISH.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Tokenized",
+          "start": 127.7,
+          "end": 128.46
+        },
+        {
+          "word": "intelligence",
+          "start": 128.46,
+          "end": 129.12
+        },
+        {
+          "word": "is",
+          "start": 129.12,
+          "end": 129.34
+        },
+        {
+          "word": "inevitable,",
+          "start": 129.34,
+          "end": 130.12
+        },
+        {
+          "word": "those",
+          "start": 130.12,
+          "end": 130.42
+        },
+        {
+          "word": "who",
+          "start": 130.42,
+          "end": 130.56
+        },
+        {
+          "word": "monetize",
+          "start": 130.56,
+          "end": 131.02
+        },
+        {
+          "word": "agent",
+          "start": 131.02,
+          "end": 131.34
+        },
+        {
+          "word": "memories",
+          "start": 131.34,
+          "end": 131.86
+        },
+        {
+          "word": "first",
+          "start": 131.86,
+          "end": 132.22
+        },
+        {
+          "word": "will",
+          "start": 132.22,
+          "end": 132.36
+        },
+        {
+          "word": "capture",
+          "start": 132.36,
+          "end": 132.74
+        },
+        {
+          "word": "maximum",
+          "start": 132.74,
+          "end": 133.14
+        },
+        {
+          "word": "value.",
+          "start": 133.14,
+          "end": 133.68
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-05_JedAI-Council_The-Token-Of-Truth-2.json",
+    "session_log_source": "2025-08-05_JedAI-Council_The-Token-Of-Truth-2_session-log.json",
+    "total_segments": 29,
+    "matched_segments": 29,
+    "dialogues_in_script": 15
+  }
+}

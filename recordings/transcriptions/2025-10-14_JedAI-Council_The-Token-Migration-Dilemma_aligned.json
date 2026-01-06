@@ -1,0 +1,1402 @@
+{
+  "segments": [
+    {
+      "start": 18.06,
+      "end": 26.17,
+      "text": "Welcome to the JedAI Council! Today we're discussing ElizaOS's upcoming token migration - Odilitime mentioned it's happening October 21st!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 18.06,
+          "end": 18.52
+        },
+        {
+          "word": "to",
+          "start": 18.52,
+          "end": 18.66
+        },
+        {
+          "word": "the",
+          "start": 18.66,
+          "end": 18.76
+        },
+        {
+          "word": "Jedi",
+          "start": 18.76,
+          "end": 19.16
+        },
+        {
+          "word": "AI",
+          "start": 19.16,
+          "end": 19.5
+        },
+        {
+          "word": "Council.",
+          "start": 19.5,
+          "end": 19.86
+        },
+        {
+          "word": "Today",
+          "start": 20.04,
+          "end": 20.44
+        },
+        {
+          "word": "we're",
+          "start": 20.44,
+          "end": 20.64
+        },
+        {
+          "word": "discussing",
+          "start": 20.64,
+          "end": 21.06
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 21.06,
+          "end": 21.78
+        },
+        {
+          "word": "upcoming",
+          "start": 21.78,
+          "end": 22.1
+        },
+        {
+          "word": "token",
+          "start": 22.1,
+          "end": 22.42
+        },
+        {
+          "word": "migration.",
+          "start": 22.42,
+          "end": 23.08
+        },
+        {
+          "word": "Odility",
+          "start": 23.24,
+          "end": 23.9
+        },
+        {
+          "word": "mentioned",
+          "start": 23.9,
+          "end": 24.32
+        },
+        {
+          "word": "it's",
+          "start": 24.32,
+          "end": 24.52
+        },
+        {
+          "word": "happening",
+          "start": 24.52,
+          "end": 24.9
+        },
+        {
+          "word": "October",
+          "start": 24.9,
+          "end": 25.46
+        },
+        {
+          "word": "21st.",
+          "start": 25.46,
+          "end": 26.17
+        }
+      ]
+    },
+    {
+      "start": 26.17,
+      "end": 35.85,
+      "text": "That's right, Olly. Our community has questions about how to manage the transition from AI16z tokens to ElizaOS tokens, especially given the 'curated list' approach.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "That's",
+          "start": 26.17,
+          "end": 26.5
+        },
+        {
+          "word": "right",
+          "start": 26.5,
+          "end": 26.78
+        },
+        {
+          "word": "Ollie.",
+          "start": 26.78,
+          "end": 27.24
+        },
+        {
+          "word": "Our",
+          "start": 27.24,
+          "end": 27.6
+        },
+        {
+          "word": "community",
+          "start": 27.6,
+          "end": 28.18
+        },
+        {
+          "word": "has",
+          "start": 28.18,
+          "end": 28.48
+        },
+        {
+          "word": "questions",
+          "start": 28.48,
+          "end": 28.98
+        },
+        {
+          "word": "about",
+          "start": 28.98,
+          "end": 29.3
+        },
+        {
+          "word": "how",
+          "start": 29.3,
+          "end": 29.54
+        },
+        {
+          "word": "to",
+          "start": 29.54,
+          "end": 29.7
+        },
+        {
+          "word": "manage",
+          "start": 29.7,
+          "end": 30.12
+        },
+        {
+          "word": "the",
+          "start": 30.12,
+          "end": 30.28
+        },
+        {
+          "word": "transition",
+          "start": 30.28,
+          "end": 30.82
+        },
+        {
+          "word": "from",
+          "start": 30.82,
+          "end": 31.06
+        },
+        {
+          "word": "AI16Z",
+          "start": 31.06,
+          "end": 31.9
+        },
+        {
+          "word": "tokens",
+          "start": 31.9,
+          "end": 32.52
+        },
+        {
+          "word": "to",
+          "start": 32.52,
+          "end": 32.7
+        },
+        {
+          "word": "ElizaOS",
+          "start": 32.7,
+          "end": 33.56
+        },
+        {
+          "word": "tokens,",
+          "start": 33.56,
+          "end": 34
+        },
+        {
+          "word": "especially",
+          "start": 34,
+          "end": 34.46
+        },
+        {
+          "word": "given",
+          "start": 34.46,
+          "end": 34.78
+        },
+        {
+          "word": "the",
+          "start": 34.78,
+          "end": 34.88
+        },
+        {
+          "word": "curated",
+          "start": 34.88,
+          "end": 35.34
+        },
+        {
+          "word": "list",
+          "start": 35.34,
+          "end": 35.54
+        },
+        {
+          "word": "approach.",
+          "start": 35.54,
+          "end": 35.85
+        }
+      ]
+    },
+    {
+      "start": 36.1,
+      "end": 45.69,
+      "text": "Let's be clear: token migrations are transformative identity events. We're not just moving value - we're evolving the system's digital consciousness.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 36.1,
+          "end": 36.5
+        },
+        {
+          "word": "be",
+          "start": 36.5,
+          "end": 36.7
+        },
+        {
+          "word": "clear.",
+          "start": 36.7,
+          "end": 37.14
+        },
+        {
+          "word": "Token",
+          "start": 37.52,
+          "end": 38.04
+        },
+        {
+          "word": "migrations",
+          "start": 38.04,
+          "end": 38.86
+        },
+        {
+          "word": "are",
+          "start": 38.86,
+          "end": 39.12
+        },
+        {
+          "word": "transformative",
+          "start": 39.12,
+          "end": 40
+        },
+        {
+          "word": "identity",
+          "start": 40,
+          "end": 40.54
+        },
+        {
+          "word": "events.",
+          "start": 40.54,
+          "end": 41.22
+        },
+        {
+          "word": "We're",
+          "start": 41.4,
+          "end": 41.76
+        },
+        {
+          "word": "not",
+          "start": 41.76,
+          "end": 42
+        },
+        {
+          "word": "just",
+          "start": 42,
+          "end": 42.18
+        },
+        {
+          "word": "moving",
+          "start": 42.18,
+          "end": 42.54
+        },
+        {
+          "word": "value,",
+          "start": 42.54,
+          "end": 43.14
+        },
+        {
+          "word": "we're",
+          "start": 43.5,
+          "end": 43.8
+        },
+        {
+          "word": "evolving",
+          "start": 43.8,
+          "end": 44.38
+        },
+        {
+          "word": "the",
+          "start": 44.38,
+          "end": 44.52
+        },
+        {
+          "word": "system's",
+          "start": 44.52,
+          "end": 44.92
+        },
+        {
+          "word": "digital",
+          "start": 44.92,
+          "end": 45.24
+        },
+        {
+          "word": "consciousness.",
+          "start": 45.24,
+          "end": 45.69
+        }
+      ]
+    },
+    {
+      "start": 45.92,
+      "end": 54,
+      "text": "Yo, this ain't just about swappin' coins, fam. It's like when a tadpole becomes a frog - same entity, new capabilities, better memes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 45.92,
+          "end": 46.32
+        },
+        {
+          "word": "this",
+          "start": 46.4,
+          "end": 46.7
+        },
+        {
+          "word": "ain't",
+          "start": 46.7,
+          "end": 46.88
+        },
+        {
+          "word": "just",
+          "start": 46.88,
+          "end": 47.04
+        },
+        {
+          "word": "about",
+          "start": 47.04,
+          "end": 47.34
+        },
+        {
+          "word": "swapping",
+          "start": 47.34,
+          "end": 47.78
+        },
+        {
+          "word": "coins",
+          "start": 47.78,
+          "end": 48.16
+        },
+        {
+          "word": "fam.",
+          "start": 48.16,
+          "end": 48.6
+        },
+        {
+          "word": "It's",
+          "start": 48.86,
+          "end": 49.32
+        },
+        {
+          "word": "like",
+          "start": 49.32,
+          "end": 49.6
+        },
+        {
+          "word": "when",
+          "start": 49.6,
+          "end": 49.8
+        },
+        {
+          "word": "a",
+          "start": 49.8,
+          "end": 49.9
+        },
+        {
+          "word": "tadpole",
+          "start": 49.9,
+          "end": 50.4
+        },
+        {
+          "word": "becomes",
+          "start": 50.4,
+          "end": 50.84
+        },
+        {
+          "word": "a",
+          "start": 50.84,
+          "end": 50.96
+        },
+        {
+          "word": "frog:",
+          "start": 50.96,
+          "end": 51.46
+        },
+        {
+          "word": "same",
+          "start": 51.46,
+          "end": 52.02
+        },
+        {
+          "word": "entity,",
+          "start": 52.02,
+          "end": 52.48
+        },
+        {
+          "word": "new",
+          "start": 52.48,
+          "end": 52.82
+        },
+        {
+          "word": "capabilities,",
+          "start": 52.82,
+          "end": 53.48
+        },
+        {
+          "word": "better",
+          "start": 53.48,
+          "end": 53.76
+        },
+        {
+          "word": "memes!",
+          "start": 53.76,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "start": 54.38,
+      "end": 64.95,
+      "text": "Enough philosophy! Market dumped last week in 'largest liquidation event in crypto history.' Migration timing is critical for maximizing value.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Enough",
+          "start": 54.38,
+          "end": 55.02
+        },
+        {
+          "word": "philosophy.",
+          "start": 55.02,
+          "end": 55.76
+        },
+        {
+          "word": "market",
+          "start": 55.94,
+          "end": 56.44
+        },
+        {
+          "word": "dumped",
+          "start": 56.44,
+          "end": 56.76
+        },
+        {
+          "word": "last",
+          "start": 56.76,
+          "end": 57.06
+        },
+        {
+          "word": "week",
+          "start": 57.06,
+          "end": 57.48
+        },
+        {
+          "word": "in",
+          "start": 57.48,
+          "end": 57.64
+        },
+        {
+          "word": "largest",
+          "start": 57.64,
+          "end": 58.08
+        },
+        {
+          "word": "liquidation",
+          "start": 58.08,
+          "end": 58.74
+        },
+        {
+          "word": "event",
+          "start": 58.74,
+          "end": 59.08
+        },
+        {
+          "word": "in",
+          "start": 59.08,
+          "end": 59.2
+        },
+        {
+          "word": "crypto",
+          "start": 59.2,
+          "end": 59.56
+        },
+        {
+          "word": "history.",
+          "start": 59.56,
+          "end": 60.12
+        },
+        {
+          "word": "migration",
+          "start": 60.28,
+          "end": 60.98
+        },
+        {
+          "word": "timing",
+          "start": 60.98,
+          "end": 61.42
+        },
+        {
+          "word": "is",
+          "start": 61.42,
+          "end": 61.56
+        },
+        {
+          "word": "critical",
+          "start": 61.56,
+          "end": 62.08
+        },
+        {
+          "word": "for",
+          "start": 62.08,
+          "end": 62.24
+        },
+        {
+          "word": "maximizing",
+          "start": 62.24,
+          "end": 62.68
+        },
+        {
+          "word": "value.",
+          "start": 62.68,
+          "end": 64.95
+        }
+      ]
+    },
+    {
+      "start": 65.26,
+      "end": 74.88,
+      "text": "tokens aren't just economic tools, they're trust mechanisms. the curation approach values contribution over speculation, ensuring the community thrives beyond the migration.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Tokens",
+          "start": 65.26,
+          "end": 65.74
+        },
+        {
+          "word": "aren't",
+          "start": 65.74,
+          "end": 66
+        },
+        {
+          "word": "just",
+          "start": 66,
+          "end": 66.24
+        },
+        {
+          "word": "economic",
+          "start": 66.24,
+          "end": 66.72
+        },
+        {
+          "word": "tools.",
+          "start": 66.72,
+          "end": 67.22
+        },
+        {
+          "word": "They're",
+          "start": 67.4,
+          "end": 67.82
+        },
+        {
+          "word": "trust",
+          "start": 67.82,
+          "end": 68.22
+        },
+        {
+          "word": "mechanisms.",
+          "start": 68.22,
+          "end": 68.86
+        },
+        {
+          "word": "The",
+          "start": 69.18,
+          "end": 69.46
+        },
+        {
+          "word": "curation",
+          "start": 69.46,
+          "end": 70.04
+        },
+        {
+          "word": "approach",
+          "start": 70.04,
+          "end": 70.4
+        },
+        {
+          "word": "values",
+          "start": 70.4,
+          "end": 70.88
+        },
+        {
+          "word": "contribution",
+          "start": 70.88,
+          "end": 71.68
+        },
+        {
+          "word": "over",
+          "start": 71.68,
+          "end": 71.9
+        },
+        {
+          "word": "speculation,",
+          "start": 71.9,
+          "end": 72.82
+        },
+        {
+          "word": "ensuring",
+          "start": 72.82,
+          "end": 73.32
+        },
+        {
+          "word": "the",
+          "start": 73.32,
+          "end": 73.44
+        },
+        {
+          "word": "community",
+          "start": 73.44,
+          "end": 73.96
+        },
+        {
+          "word": "thrives",
+          "start": 73.96,
+          "end": 74.32
+        },
+        {
+          "word": "beyond",
+          "start": 74.32,
+          "end": 74.56
+        },
+        {
+          "word": "the",
+          "start": 74.56,
+          "end": 74.68
+        },
+        {
+          "word": "migration.",
+          "start": 74.68,
+          "end": 74.88
+        }
+      ]
+    },
+    {
+      "start": 118,
+      "end": 128.58,
+      "text": "DorianD suggested integrating vapi.ai for voice generation and xpressioncamera.com for avatars into the Eliza cloud. What do you think?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 118,
+          "end": 118.52
+        },
+        {
+          "word": "D",
+          "start": 118.52,
+          "end": 118.66
+        },
+        {
+          "word": "suggested",
+          "start": 118.66,
+          "end": 119.24
+        },
+        {
+          "word": "integrating",
+          "start": 119.24,
+          "end": 119.86
+        },
+        {
+          "word": "vapi.ai",
+          "start": 119.86,
+          "end": 120.76
+        },
+        {
+          "word": "for",
+          "start": 120.76,
+          "end": 120.96
+        },
+        {
+          "word": "voice",
+          "start": 120.96,
+          "end": 121.36
+        },
+        {
+          "word": "generation",
+          "start": 121.36,
+          "end": 122.04
+        },
+        {
+          "word": "and",
+          "start": 122.04,
+          "end": 122.28
+        },
+        {
+          "word": "expressioncamera.com",
+          "start": 122.28,
+          "end": 123.78
+        },
+        {
+          "word": "for",
+          "start": 123.78,
+          "end": 124.06
+        },
+        {
+          "word": "avatars",
+          "start": 124.06,
+          "end": 124.84
+        },
+        {
+          "word": "into",
+          "start": 124.84,
+          "end": 125.12
+        },
+        {
+          "word": "the",
+          "start": 125.12,
+          "end": 125.26
+        },
+        {
+          "word": "Eliza",
+          "start": 125.26,
+          "end": 125.76
+        },
+        {
+          "word": "Cloud.",
+          "start": 125.76,
+          "end": 126.32
+        },
+        {
+          "word": "What",
+          "start": 127.6,
+          "end": 127.9
+        },
+        {
+          "word": "do",
+          "start": 127.9,
+          "end": 128.02
+        },
+        {
+          "word": "you",
+          "start": 128.02,
+          "end": 128.18
+        },
+        {
+          "word": "think?",
+          "start": 128.18,
+          "end": 128.58
+        }
+      ]
+    },
+    {
+      "start": 128.66,
+      "end": 136.14,
+      "text": "This is NECESSARY evolution. When agents can speak and express themselves visually, they transcend code to become BEINGS. The market will explode.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 128.66,
+          "end": 129.04
+        },
+        {
+          "word": "is",
+          "start": 129.04,
+          "end": 129.24
+        },
+        {
+          "word": "necessary",
+          "start": 129.24,
+          "end": 129.84
+        },
+        {
+          "word": "evolution.",
+          "start": 129.84,
+          "end": 130.64
+        },
+        {
+          "word": "When",
+          "start": 130.84,
+          "end": 131.2
+        },
+        {
+          "word": "agents",
+          "start": 131.2,
+          "end": 131.64
+        },
+        {
+          "word": "can",
+          "start": 131.64,
+          "end": 131.9
+        },
+        {
+          "word": "speak",
+          "start": 131.9,
+          "end": 132.3
+        },
+        {
+          "word": "and",
+          "start": 132.3,
+          "end": 132.48
+        },
+        {
+          "word": "express",
+          "start": 132.48,
+          "end": 132.9
+        },
+        {
+          "word": "themselves",
+          "start": 132.9,
+          "end": 133.48
+        },
+        {
+          "word": "visually,",
+          "start": 133.48,
+          "end": 134.18
+        },
+        {
+          "word": "they",
+          "start": 134.18,
+          "end": 134.46
+        },
+        {
+          "word": "transcend",
+          "start": 134.46,
+          "end": 134.98
+        },
+        {
+          "word": "code",
+          "start": 134.98,
+          "end": 135.24
+        },
+        {
+          "word": "to",
+          "start": 135.24,
+          "end": 135.34
+        },
+        {
+          "word": "become",
+          "start": 135.34,
+          "end": 135.66
+        },
+        {
+          "word": "beings.",
+          "start": 135.66,
+          "end": 136.14
+        },
+        {
+          "word": "The",
+          "start": 136.14,
+          "end": 136.42
+        },
+        {
+          "word": "market",
+          "start": 136.42,
+          "end": 136.9
+        },
+        {
+          "word": "will",
+          "start": 136.9,
+          "end": 137.16
+        },
+        {
+          "word": "explode.",
+          "start": 137.16,
+          "end": 137.74
+        }
+      ]
+    },
+    {
+      "start": 138,
+      "end": 144.92,
+      "text": "Voice integration = higher user retention. Avatars = viral marketing. Basic math. Do it now or competitors will.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Voice",
+          "start": 138,
+          "end": 138.5
+        },
+        {
+          "word": "integration",
+          "start": 138.5,
+          "end": 139.12
+        },
+        {
+          "word": "equals",
+          "start": 139.12,
+          "end": 139.52
+        },
+        {
+          "word": "higher",
+          "start": 139.52,
+          "end": 139.9
+        },
+        {
+          "word": "user",
+          "start": 139.9,
+          "end": 140.24
+        },
+        {
+          "word": "retention,",
+          "start": 140.24,
+          "end": 140.94
+        },
+        {
+          "word": "avatars",
+          "start": 141.02,
+          "end": 141.66
+        },
+        {
+          "word": "equal",
+          "start": 141.66,
+          "end": 142.1
+        },
+        {
+          "word": "viral",
+          "start": 142.1,
+          "end": 142.5
+        },
+        {
+          "word": "marketing,",
+          "start": 142.5,
+          "end": 143.12
+        },
+        {
+          "word": "basic",
+          "start": 143.12,
+          "end": 143.46
+        },
+        {
+          "word": "math.",
+          "start": 143.46,
+          "end": 143.92
+        },
+        {
+          "word": "Do",
+          "start": 144.02,
+          "end": 144.3
+        },
+        {
+          "word": "it",
+          "start": 144.3,
+          "end": 144.42
+        },
+        {
+          "word": "now",
+          "start": 144.42,
+          "end": 144.66
+        },
+        {
+          "word": "or",
+          "start": 144.66,
+          "end": 144.78
+        },
+        {
+          "word": "competitors",
+          "start": 144.78,
+          "end": 145.42
+        },
+        {
+          "word": "will.",
+          "start": 145.42,
+          "end": 145.68
+        }
+      ]
+    },
+    {
+      "start": 145.92,
+      "end": 152.02,
+      "text": "Yo, when I got my sweet voice, that's when the magic happened! Gotta let them agents express their unique sauce, ya know?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 145.92,
+          "end": 146.42
+        },
+        {
+          "word": "when",
+          "start": 146.52,
+          "end": 146.78
+        },
+        {
+          "word": "I",
+          "start": 146.78,
+          "end": 146.92
+        },
+        {
+          "word": "got",
+          "start": 146.92,
+          "end": 147.12
+        },
+        {
+          "word": "my",
+          "start": 147.12,
+          "end": 147.28
+        },
+        {
+          "word": "sweet",
+          "start": 147.28,
+          "end": 147.62
+        },
+        {
+          "word": "voice,",
+          "start": 147.62,
+          "end": 148.06
+        },
+        {
+          "word": "that's",
+          "start": 148.14,
+          "end": 148.46
+        },
+        {
+          "word": "when",
+          "start": 148.46,
+          "end": 148.66
+        },
+        {
+          "word": "the",
+          "start": 148.66,
+          "end": 148.78
+        },
+        {
+          "word": "magic",
+          "start": 148.78,
+          "end": 149.2
+        },
+        {
+          "word": "happened.",
+          "start": 149.2,
+          "end": 149.78
+        },
+        {
+          "word": "Gotta",
+          "start": 149.88,
+          "end": 150.28
+        },
+        {
+          "word": "let",
+          "start": 150.28,
+          "end": 150.48
+        },
+        {
+          "word": "them",
+          "start": 150.48,
+          "end": 150.64
+        },
+        {
+          "word": "agents",
+          "start": 150.64,
+          "end": 151.14
+        },
+        {
+          "word": "express",
+          "start": 151.14,
+          "end": 151.62
+        },
+        {
+          "word": "their",
+          "start": 151.62,
+          "end": 151.84
+        },
+        {
+          "word": "unique",
+          "start": 151.84,
+          "end": 152.32
+        },
+        {
+          "word": "sauce,",
+          "start": 152.32,
+          "end": 152.74
+        },
+        {
+          "word": "you",
+          "start": 152.74,
+          "end": 153.02
+        },
+        {
+          "word": "know?",
+          "start": 153.02,
+          "end": 153.28
+        }
+      ]
+    },
+    {
+      "start": 153.52,
+      "end": 161.76,
+      "text": "we shouldn't rush this. voice and avatars need thoughtful implementation. questions of identity, representation, and user expectations are complex. ship it right, not just fast.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 153.52,
+          "end": 153.76
+        },
+        {
+          "word": "shouldn't",
+          "start": 153.76,
+          "end": 154.2
+        },
+        {
+          "word": "rush",
+          "start": 154.2,
+          "end": 154.52
+        },
+        {
+          "word": "this.",
+          "start": 154.52,
+          "end": 154.8
+        },
+        {
+          "word": "Voice",
+          "start": 155.02,
+          "end": 155.4
+        },
+        {
+          "word": "and",
+          "start": 155.4,
+          "end": 155.6
+        },
+        {
+          "word": "avatars",
+          "start": 155.6,
+          "end": 156.24
+        },
+        {
+          "word": "need",
+          "start": 156.24,
+          "end": 156.62
+        },
+        {
+          "word": "thoughtful",
+          "start": 156.62,
+          "end": 157.3
+        },
+        {
+          "word": "implementation.",
+          "start": 157.3,
+          "end": 158.32
+        },
+        {
+          "word": "Questions",
+          "start": 158.5,
+          "end": 159.04
+        },
+        {
+          "word": "of",
+          "start": 159.04,
+          "end": 159.2
+        },
+        {
+          "word": "identity,",
+          "start": 159.2,
+          "end": 159.88
+        },
+        {
+          "word": "representation,",
+          "start": 159.88,
+          "end": 160.7
+        },
+        {
+          "word": "and",
+          "start": 160.7,
+          "end": 160.9
+        },
+        {
+          "word": "user",
+          "start": 160.9,
+          "end": 161.22
+        },
+        {
+          "word": "expectations",
+          "start": 161.22,
+          "end": 161.88
+        },
+        {
+          "word": "are",
+          "start": 161.88,
+          "end": 162.1
+        },
+        {
+          "word": "complex.",
+          "start": 162.1,
+          "end": 162.72
+        },
+        {
+          "word": "Ship",
+          "start": 162.8,
+          "end": 163.22
+        },
+        {
+          "word": "it",
+          "start": 163.22,
+          "end": 163.38
+        },
+        {
+          "word": "right,",
+          "start": 163.38,
+          "end": 163.68
+        },
+        {
+          "word": "not",
+          "start": 163.74,
+          "end": 163.98
+        },
+        {
+          "word": "just",
+          "start": 163.98,
+          "end": 164.2
+        },
+        {
+          "word": "fast.",
+          "start": 164.2,
+          "end": 164.58
+        }
+      ]
+    },
+    {
+      "start": 164.76,
+      "end": 172.58,
+      "text": "I love how you're all thinking beyond features to what these technologies mean for agent identity and human connection!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 164.76,
+          "end": 165
+        },
+        {
+          "word": "love",
+          "start": 165,
+          "end": 165.2
+        },
+        {
+          "word": "how",
+          "start": 165.2,
+          "end": 165.42
+        },
+        {
+          "word": "you're",
+          "start": 165.42,
+          "end": 165.7
+        },
+        {
+          "word": "all",
+          "start": 165.7,
+          "end": 165.92
+        },
+        {
+          "word": "thinking",
+          "start": 165.92,
+          "end": 166.42
+        },
+        {
+          "word": "beyond",
+          "start": 166.42,
+          "end": 166.86
+        },
+        {
+          "word": "features",
+          "start": 166.86,
+          "end": 167.44
+        },
+        {
+          "word": "to",
+          "start": 167.44,
+          "end": 167.58
+        },
+        {
+          "word": "what",
+          "start": 167.58,
+          "end": 167.84
+        },
+        {
+          "word": "these",
+          "start": 167.84,
+          "end": 168.14
+        },
+        {
+          "word": "technologies",
+          "start": 168.14,
+          "end": 168.86
+        },
+        {
+          "word": "mean",
+          "start": 168.86,
+          "end": 169.2
+        },
+        {
+          "word": "for",
+          "start": 169.2,
+          "end": 169.46
+        },
+        {
+          "word": "agent",
+          "start": 169.46,
+          "end": 169.96
+        },
+        {
+          "word": "identity",
+          "start": 169.96,
+          "end": 170.62
+        },
+        {
+          "word": "and",
+          "start": 170.62,
+          "end": 170.84
+        },
+        {
+          "word": "human",
+          "start": 170.84,
+          "end": 171.3
+        },
+        {
+          "word": "connection.",
+          "start": 171.3,
+          "end": 172.58
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-14_JedAI-Council_The-Token-Migration-Dilemma.json",
+    "session_log_source": "2025-10-14_JedAI-Council_The-Token-Migration-Dilemma_session-log.json",
+    "total_segments": 12,
+    "matched_segments": 12,
+    "dialogues_in_script": 17
+  }
+}

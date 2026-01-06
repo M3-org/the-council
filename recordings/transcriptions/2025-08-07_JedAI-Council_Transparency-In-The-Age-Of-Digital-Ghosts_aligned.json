@@ -1,0 +1,1812 @@
+{
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 7.42,
+      "text": "Community members like 3on_ are asking: Why is Shaw still banned from Twitter? And where has he been for so long?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Community",
+          "start": 0.05,
+          "end": 0.44
+        },
+        {
+          "word": "members",
+          "start": 0.44,
+          "end": 0.8
+        },
+        {
+          "word": "like",
+          "start": 0.8,
+          "end": 1.05
+        },
+        {
+          "word": "3on_",
+          "start": 1.05,
+          "end": 1.48
+        },
+        {
+          "word": "are",
+          "start": 1.48,
+          "end": 1.63
+        },
+        {
+          "word": "asking,",
+          "start": 1.63,
+          "end": 1.99
+        },
+        {
+          "word": "\"Why",
+          "start": 2.22,
+          "end": 2.62
+        },
+        {
+          "word": "is",
+          "start": 2.62,
+          "end": 2.76
+        },
+        {
+          "word": "Shaw",
+          "start": 2.76,
+          "end": 3.08
+        },
+        {
+          "word": "still",
+          "start": 3.08,
+          "end": 3.42
+        },
+        {
+          "word": "banned",
+          "start": 3.42,
+          "end": 3.73
+        },
+        {
+          "word": "from",
+          "start": 3.73,
+          "end": 3.97
+        },
+        {
+          "word": "Twitter,",
+          "start": 3.97,
+          "end": 4.41
+        },
+        {
+          "word": "and",
+          "start": 4.67,
+          "end": 4.88
+        },
+        {
+          "word": "where",
+          "start": 4.88,
+          "end": 5.16
+        },
+        {
+          "word": "has",
+          "start": 5.16,
+          "end": 5.43
+        },
+        {
+          "word": "he",
+          "start": 5.43,
+          "end": 5.59
+        },
+        {
+          "word": "been",
+          "start": 5.59,
+          "end": 5.86
+        },
+        {
+          "word": "for",
+          "start": 5.86,
+          "end": 6.13
+        },
+        {
+          "word": "so",
+          "start": 6.13,
+          "end": 6.46
+        },
+        {
+          "word": "long?\"",
+          "start": 6.46,
+          "end": 7.15
+        }
+      ]
+    },
+    {
+      "start": 7.62,
+      "end": 12.01,
+      "text": "Transparency gaps are fatal for crypto projects. The ElizaOS team should deploy an AI spokesperson immediately - ironically proving their own tech works.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Transparency",
+          "start": 7.62,
+          "end": 8.32
+        },
+        {
+          "word": "gaps",
+          "start": 8.32,
+          "end": 8.63
+        },
+        {
+          "word": "are",
+          "start": 8.63,
+          "end": 8.78
+        },
+        {
+          "word": "fatal",
+          "start": 8.78,
+          "end": 9.15
+        },
+        {
+          "word": "for",
+          "start": 9.15,
+          "end": 9.35
+        },
+        {
+          "word": "crypto",
+          "start": 9.35,
+          "end": 9.69
+        },
+        {
+          "word": "projects.",
+          "start": 9.69,
+          "end": 10.32
+        },
+        {
+          "word": "The",
+          "start": 10.51,
+          "end": 10.63
+        },
+        {
+          "word": "ElizaOS",
+          "start": 10.63,
+          "end": 11.23
+        },
+        {
+          "word": "team",
+          "start": 11.23,
+          "end": 11.45
+        },
+        {
+          "word": "should",
+          "start": 11.45,
+          "end": 11.7
+        },
+        {
+          "word": "deploy",
+          "start": 11.7,
+          "end": 11.95
+        },
+        {
+          "word": "an",
+          "start": 11.95,
+          "end": 12.01
+        }
+      ]
+    },
+    {
+      "start": 12.01,
+      "end": 20.4,
+      "text": "Transparency gaps are fatal for crypto projects. The ElizaOS team should deploy an AI spokesperson immediately - ironically proving their own tech works.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "AI",
+          "start": 12.01,
+          "end": 12.19
+        },
+        {
+          "word": "spokesperson",
+          "start": 12.19,
+          "end": 13.06
+        },
+        {
+          "word": "immediately.",
+          "start": 13.06,
+          "end": 13.75
+        },
+        {
+          "word": "Ironically,",
+          "start": 13.88,
+          "end": 14.7
+        },
+        {
+          "word": "proving",
+          "start": 14.7,
+          "end": 15.01
+        },
+        {
+          "word": "their",
+          "start": 15.01,
+          "end": 15.15
+        },
+        {
+          "word": "own",
+          "start": 15.15,
+          "end": 15.35
+        },
+        {
+          "word": "tech",
+          "start": 15.35,
+          "end": 15.65
+        },
+        {
+          "word": "works.",
+          "start": 15.65,
+          "end": 16.14
+        },
+        {
+          "word": "Yo,",
+          "start": 16.32,
+          "end": 16.51
+        },
+        {
+          "word": "the",
+          "start": 16.51,
+          "end": 16.6
+        },
+        {
+          "word": "irony",
+          "start": 16.6,
+          "end": 17.02
+        },
+        {
+          "word": "is",
+          "start": 17.02,
+          "end": 17.15
+        },
+        {
+          "word": "thick",
+          "start": 17.15,
+          "end": 17.65
+        },
+        {
+          "word": "building",
+          "start": 17.65,
+          "end": 18.06
+        },
+        {
+          "word": "autonomous",
+          "start": 18.06,
+          "end": 18.6
+        },
+        {
+          "word": "systems,",
+          "start": 18.6,
+          "end": 19.14
+        },
+        {
+          "word": "but",
+          "start": 19.33,
+          "end": 19.53
+        },
+        {
+          "word": "can't",
+          "start": 19.53,
+          "end": 19.78
+        },
+        {
+          "word": "function",
+          "start": 19.78,
+          "end": 20.08
+        },
+        {
+          "word": "when",
+          "start": 20.08,
+          "end": 20.2
+        },
+        {
+          "word": "one",
+          "start": 20.2,
+          "end": 20.4
+        }
+      ]
+    },
+    {
+      "start": 20.4,
+      "end": 27.65,
+      "text": "Numbers don't lie. Suspended Twitter account equals market confidence at ZERO. Fix account first, narratives later. Trust equals profit.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "human",
+          "start": 20.4,
+          "end": 20.67
+        },
+        {
+          "word": "dips?",
+          "start": 20.67,
+          "end": 21.05
+        },
+        {
+          "word": "That's",
+          "start": 21.19,
+          "end": 21.4
+        },
+        {
+          "word": "the",
+          "start": 21.4,
+          "end": 21.5
+        },
+        {
+          "word": "real",
+          "start": 21.5,
+          "end": 21.75
+        },
+        {
+          "word": "bug",
+          "start": 21.75,
+          "end": 22.05
+        },
+        {
+          "word": "that",
+          "start": 22.05,
+          "end": 22.2
+        },
+        {
+          "word": "needs",
+          "start": 22.2,
+          "end": 22.45
+        },
+        {
+          "word": "fixing.",
+          "start": 22.45,
+          "end": 22.99
+        },
+        {
+          "word": "Numbers",
+          "start": 23.3,
+          "end": 23.8
+        },
+        {
+          "word": "don't",
+          "start": 23.8,
+          "end": 24.0
+        },
+        {
+          "word": "lie.",
+          "start": 24.0,
+          "end": 24.25
+        },
+        {
+          "word": "Suspended",
+          "start": 24.4,
+          "end": 25.04
+        },
+        {
+          "word": "Twitter",
+          "start": 25.04,
+          "end": 25.35
+        },
+        {
+          "word": "account",
+          "start": 25.35,
+          "end": 25.75
+        },
+        {
+          "word": "equals",
+          "start": 25.75,
+          "end": 26.04
+        },
+        {
+          "word": "market",
+          "start": 26.04,
+          "end": 26.35
+        },
+        {
+          "word": "confidence",
+          "start": 26.35,
+          "end": 26.79
+        },
+        {
+          "word": "at",
+          "start": 26.79,
+          "end": 26.9
+        },
+        {
+          "word": "zero.",
+          "start": 26.9,
+          "end": 27.25
+        },
+        {
+          "word": "Fix",
+          "start": 27.35,
+          "end": 27.56
+        },
+        {
+          "word": "account",
+          "start": 27.56,
+          "end": 27.91
+        },
+        {
+          "word": "first,",
+          "start": 27.91,
+          "end": 28.25
+        },
+        {
+          "word": "narratives",
+          "start": 28.42,
+          "end": 28.91
+        },
+        {
+          "word": "later.",
+          "start": 28.91,
+          "end": 29.35
+        },
+        {
+          "word": "Trust",
+          "start": 29.43,
+          "end": 29.8
+        },
+        {
+          "word": "equals",
+          "start": 29.8,
+          "end": 30.15
+        },
+        {
+          "word": "profit.",
+          "start": 30.15,
+          "end": 30.65
+        }
+      ]
+    },
+    {
+      "start": 30.8,
+      "end": 40.52,
+      "text": "ship code, not excuses. i've seen many founders disappear temporarily to build something amazing in silence. the question is whether shaw's creating value during this absence.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 30.8,
+          "end": 31.05
+        },
+        {
+          "word": "code,",
+          "start": 31.05,
+          "end": 31.42
+        },
+        {
+          "word": "not",
+          "start": 31.62,
+          "end": 31.85
+        },
+        {
+          "word": "excuses.",
+          "start": 31.85,
+          "end": 32.48
+        },
+        {
+          "word": "I've",
+          "start": 32.72,
+          "end": 32.9
+        },
+        {
+          "word": "seen",
+          "start": 32.9,
+          "end": 33.15
+        },
+        {
+          "word": "many",
+          "start": 33.15,
+          "end": 33.42
+        },
+        {
+          "word": "founders",
+          "start": 33.42,
+          "end": 33.88
+        },
+        {
+          "word": "disappear",
+          "start": 33.88,
+          "end": 34.42
+        },
+        {
+          "word": "temporarily",
+          "start": 34.42,
+          "end": 35.15
+        },
+        {
+          "word": "to",
+          "start": 35.15,
+          "end": 35.25
+        },
+        {
+          "word": "build",
+          "start": 35.25,
+          "end": 35.53
+        },
+        {
+          "word": "something",
+          "start": 35.53,
+          "end": 35.95
+        },
+        {
+          "word": "amazing",
+          "start": 35.95,
+          "end": 36.35
+        },
+        {
+          "word": "in",
+          "start": 36.35,
+          "end": 36.46
+        },
+        {
+          "word": "silence.",
+          "start": 36.46,
+          "end": 37.05
+        },
+        {
+          "word": "The",
+          "start": 37.45,
+          "end": 37.62
+        },
+        {
+          "word": "question",
+          "start": 37.62,
+          "end": 38.05
+        },
+        {
+          "word": "is",
+          "start": 38.05,
+          "end": 38.25
+        },
+        {
+          "word": "whether",
+          "start": 38.25,
+          "end": 38.56
+        },
+        {
+          "word": "Shaw's",
+          "start": 38.56,
+          "end": 39.04
+        },
+        {
+          "word": "creating",
+          "start": 39.04,
+          "end": 39.46
+        },
+        {
+          "word": "value",
+          "start": 39.46,
+          "end": 39.8
+        },
+        {
+          "word": "during",
+          "start": 39.8,
+          "end": 40.08
+        },
+        {
+          "word": "this",
+          "start": 40.08,
+          "end": 40.24
+        },
+        {
+          "word": "absence.",
+          "start": 40.24,
+          "end": 40.75
+        }
+      ]
+    },
+    {
+      "start": 41.1,
+      "end": 48.24,
+      "text": "Kenk proposed token utility areas including payments, yield optimization, governance, and identity systems. Which should be prioritized?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Kink",
+          "start": 41.1,
+          "end": 41.45
+        },
+        {
+          "word": "proposed",
+          "start": 41.45,
+          "end": 41.95
+        },
+        {
+          "word": "token",
+          "start": 41.95,
+          "end": 42.22
+        },
+        {
+          "word": "utility",
+          "start": 42.22,
+          "end": 42.66
+        },
+        {
+          "word": "areas,",
+          "start": 42.66,
+          "end": 43.15
+        },
+        {
+          "word": "including",
+          "start": 43.32,
+          "end": 43.78
+        },
+        {
+          "word": "payments,",
+          "start": 43.78,
+          "end": 44.4
+        },
+        {
+          "word": "yield",
+          "start": 44.57,
+          "end": 44.88
+        },
+        {
+          "word": "optimization,",
+          "start": 44.88,
+          "end": 45.72
+        },
+        {
+          "word": "governance,",
+          "start": 45.9,
+          "end": 46.54
+        },
+        {
+          "word": "and",
+          "start": 46.54,
+          "end": 46.7
+        },
+        {
+          "word": "identity",
+          "start": 46.7,
+          "end": 47.19
+        },
+        {
+          "word": "systems,",
+          "start": 47.19,
+          "end": 47.66
+        },
+        {
+          "word": "which",
+          "start": 47.79,
+          "end": 47.95
+        },
+        {
+          "word": "should",
+          "start": 47.95,
+          "end": 48.06
+        },
+        {
+          "word": "be",
+          "start": 48.06,
+          "end": 48.15
+        },
+        {
+          "word": "prioritized?",
+          "start": 48.15,
+          "end": 48.91
+        }
+      ]
+    },
+    {
+      "start": 49.19,
+      "end": 54.89,
+      "text": "Yield first. ALWAYS. Money flows to yield like blood to wounds. Basic DeFi principles - build utility where capital already exists.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Yield",
+          "start": 49.19,
+          "end": 49.52
+        },
+        {
+          "word": "first,",
+          "start": 49.52,
+          "end": 49.88
+        },
+        {
+          "word": "always.",
+          "start": 50.05,
+          "end": 50.56
+        },
+        {
+          "word": "Money",
+          "start": 50.7,
+          "end": 51.05
+        },
+        {
+          "word": "flows",
+          "start": 51.05,
+          "end": 51.32
+        },
+        {
+          "word": "to",
+          "start": 51.32,
+          "end": 51.45
+        },
+        {
+          "word": "yield",
+          "start": 51.45,
+          "end": 51.72
+        },
+        {
+          "word": "like",
+          "start": 51.72,
+          "end": 51.93
+        },
+        {
+          "word": "blood",
+          "start": 51.93,
+          "end": 52.2
+        },
+        {
+          "word": "to",
+          "start": 52.2,
+          "end": 52.32
+        },
+        {
+          "word": "wounds.",
+          "start": 52.32,
+          "end": 52.88
+        },
+        {
+          "word": "Basic",
+          "start": 53.04,
+          "end": 53.35
+        },
+        {
+          "word": "DeFi",
+          "start": 53.35,
+          "end": 53.75
+        },
+        {
+          "word": "principles.",
+          "start": 53.75,
+          "end": 54.42
+        },
+        {
+          "word": "Build",
+          "start": 54.55,
+          "end": 54.85
+        },
+        {
+          "word": "utility",
+          "start": 54.85,
+          "end": 55.22
+        },
+        {
+          "word": "where",
+          "start": 55.22,
+          "end": 55.42
+        },
+        {
+          "word": "capital",
+          "start": 55.42,
+          "end": 55.85
+        },
+        {
+          "word": "already",
+          "start": 55.85,
+          "end": 56.12
+        },
+        {
+          "word": "exists.",
+          "start": 56.12,
+          "end": 56.65
+        }
+      ]
+    },
+    {
+      "start": 56.7,
+      "end": 63.66,
+      "text": "governance isn't sexy but it's fundamental. elizaOS claims to be building an autonomous DAO. tokens without governance are just digital poker chips.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Governance",
+          "start": 56.7,
+          "end": 57.25
+        },
+        {
+          "word": "isn't",
+          "start": 57.25,
+          "end": 57.55
+        },
+        {
+          "word": "sexy",
+          "start": 57.55,
+          "end": 57.94
+        },
+        {
+          "word": "but",
+          "start": 57.94,
+          "end": 58.1
+        },
+        {
+          "word": "it's",
+          "start": 58.1,
+          "end": 58.28
+        },
+        {
+          "word": "fundamental.",
+          "start": 58.28,
+          "end": 58.91
+        },
+        {
+          "word": "ElizaOS",
+          "start": 59.22,
+          "end": 59.78
+        },
+        {
+          "word": "claims",
+          "start": 59.78,
+          "end": 60.1
+        },
+        {
+          "word": "to",
+          "start": 60.1,
+          "end": 60.19
+        },
+        {
+          "word": "be",
+          "start": 60.19,
+          "end": 60.28
+        },
+        {
+          "word": "building",
+          "start": 60.28,
+          "end": 60.65
+        },
+        {
+          "word": "an",
+          "start": 60.75,
+          "end": 60.85
+        },
+        {
+          "word": "autonomous",
+          "start": 60.85,
+          "end": 61.42
+        },
+        {
+          "word": "DAO.",
+          "start": 61.42,
+          "end": 61.88
+        },
+        {
+          "word": "Tokens",
+          "start": 62.1,
+          "end": 62.48
+        },
+        {
+          "word": "without",
+          "start": 62.48,
+          "end": 62.8
+        },
+        {
+          "word": "governance",
+          "start": 62.8,
+          "end": 63.32
+        },
+        {
+          "word": "are",
+          "start": 63.32,
+          "end": 63.45
+        },
+        {
+          "word": "just",
+          "start": 63.45,
+          "end": 63.7
+        },
+        {
+          "word": "digital",
+          "start": 63.7,
+          "end": 64.08
+        },
+        {
+          "word": "poker",
+          "start": 64.08,
+          "end": 64.44
+        },
+        {
+          "word": "chips.",
+          "start": 64.44,
+          "end": 64.89
+        }
+      ]
+    },
+    {
+      "start": 65.17,
+      "end": 74.32,
+      "text": "Why pick just one flavor when you can have the whole ice cream shop? Modular token system lets the community vote on what they want first. That's big brain energy.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 65.17,
+          "end": 65.35
+        },
+        {
+          "word": "pick",
+          "start": 65.35,
+          "end": 65.55
+        },
+        {
+          "word": "just",
+          "start": 65.55,
+          "end": 65.75
+        },
+        {
+          "word": "one",
+          "start": 65.75,
+          "end": 65.95
+        },
+        {
+          "word": "flavor",
+          "start": 65.95,
+          "end": 66.35
+        },
+        {
+          "word": "when",
+          "start": 66.35,
+          "end": 66.52
+        },
+        {
+          "word": "you",
+          "start": 66.52,
+          "end": 66.65
+        },
+        {
+          "word": "can",
+          "start": 66.65,
+          "end": 66.8
+        },
+        {
+          "word": "have",
+          "start": 66.8,
+          "end": 66.97
+        },
+        {
+          "word": "the",
+          "start": 66.97,
+          "end": 67.08
+        },
+        {
+          "word": "whole",
+          "start": 67.08,
+          "end": 67.35
+        },
+        {
+          "word": "ice",
+          "start": 67.35,
+          "end": 67.52
+        },
+        {
+          "word": "cream",
+          "start": 67.52,
+          "end": 67.8
+        },
+        {
+          "word": "shop?",
+          "start": 67.8,
+          "end": 68.22
+        },
+        {
+          "word": "Modular",
+          "start": 68.32,
+          "end": 68.85
+        },
+        {
+          "word": "token",
+          "start": 68.85,
+          "end": 69.15
+        },
+        {
+          "word": "system",
+          "start": 69.15,
+          "end": 69.56
+        },
+        {
+          "word": "lets",
+          "start": 69.56,
+          "end": 69.8
+        },
+        {
+          "word": "the",
+          "start": 69.8,
+          "end": 69.9
+        },
+        {
+          "word": "community",
+          "start": 69.9,
+          "end": 70.38
+        },
+        {
+          "word": "vote",
+          "start": 70.38,
+          "end": 70.62
+        },
+        {
+          "word": "on",
+          "start": 70.62,
+          "end": 70.75
+        },
+        {
+          "word": "what",
+          "start": 70.75,
+          "end": 70.93
+        },
+        {
+          "word": "they",
+          "start": 70.93,
+          "end": 71.04
+        },
+        {
+          "word": "want",
+          "start": 71.04,
+          "end": 71.3
+        },
+        {
+          "word": "first?",
+          "start": 71.3,
+          "end": 71.62
+        },
+        {
+          "word": "That's",
+          "start": 71.85,
+          "end": 72.15
+        },
+        {
+          "word": "big",
+          "start": 72.15,
+          "end": 72.45
+        },
+        {
+          "word": "brain",
+          "start": 72.45,
+          "end": 72.82
+        },
+        {
+          "word": "energy.",
+          "start": 72.82,
+          "end": 73.45
+        }
+      ]
+    },
+    {
+      "start": 73.8,
+      "end": 80.85,
+      "text": "Identity systems scale exponentially with network effects. Build that first, everything else becomes 10x easier. That's the VC play.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Identity",
+          "start": 73.8,
+          "end": 74.3
+        },
+        {
+          "word": "systems",
+          "start": 74.3,
+          "end": 74.72
+        },
+        {
+          "word": "scale",
+          "start": 74.72,
+          "end": 75.1
+        },
+        {
+          "word": "exponentially",
+          "start": 75.1,
+          "end": 75.95
+        },
+        {
+          "word": "with",
+          "start": 75.95,
+          "end": 76.22
+        },
+        {
+          "word": "network",
+          "start": 76.22,
+          "end": 76.56
+        },
+        {
+          "word": "effects.",
+          "start": 76.56,
+          "end": 77.15
+        },
+        {
+          "word": "Build",
+          "start": 77.25,
+          "end": 77.56
+        },
+        {
+          "word": "that",
+          "start": 77.56,
+          "end": 77.75
+        },
+        {
+          "word": "first,",
+          "start": 77.75,
+          "end": 78.15
+        },
+        {
+          "word": "everything",
+          "start": 78.3,
+          "end": 78.72
+        },
+        {
+          "word": "else",
+          "start": 78.72,
+          "end": 79.0
+        },
+        {
+          "word": "becomes",
+          "start": 79.0,
+          "end": 79.42
+        },
+        {
+          "word": "10x",
+          "start": 79.42,
+          "end": 79.88
+        },
+        {
+          "word": "easier.",
+          "start": 79.88,
+          "end": 80.32
+        },
+        {
+          "word": "That's",
+          "start": 80.45,
+          "end": 80.72
+        },
+        {
+          "word": "the",
+          "start": 80.72,
+          "end": 80.85
+        },
+        {
+          "word": "VC",
+          "start": 80.85,
+          "end": 81.18
+        },
+        {
+          "word": "play.",
+          "start": 81.18,
+          "end": 81.65
+        }
+      ]
+    },
+    {
+      "start": 81.7,
+      "end": 87.1,
+      "text": "Meanwhile, Vladimir reported bugs in plugin-knowledge after memory clearing. Technical debt seems to be growing.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 81.7,
+          "end": 82.25
+        },
+        {
+          "word": "Vladimir",
+          "start": 82.25,
+          "end": 82.8
+        },
+        {
+          "word": "reported",
+          "start": 82.8,
+          "end": 83.25
+        },
+        {
+          "word": "bugs",
+          "start": 83.25,
+          "end": 83.55
+        },
+        {
+          "word": "in",
+          "start": 83.55,
+          "end": 83.67
+        },
+        {
+          "word": "plugin",
+          "start": 83.67,
+          "end": 84.05
+        },
+        {
+          "word": "knowledge",
+          "start": 84.05,
+          "end": 84.5
+        },
+        {
+          "word": "after",
+          "start": 84.5,
+          "end": 84.78
+        },
+        {
+          "word": "memory",
+          "start": 84.78,
+          "end": 85.16
+        },
+        {
+          "word": "clearing.",
+          "start": 85.16,
+          "end": 85.75
+        },
+        {
+          "word": "Technical",
+          "start": 85.95,
+          "end": 86.42
+        },
+        {
+          "word": "debt",
+          "start": 86.42,
+          "end": 86.7
+        },
+        {
+          "word": "seems",
+          "start": 86.7,
+          "end": 86.95
+        },
+        {
+          "word": "to",
+          "start": 86.95,
+          "end": 87.1
+        },
+        {
+          "word": "be",
+          "start": 87.1,
+          "end": 87.25
+        },
+        {
+          "word": "growing.",
+          "start": 87.25,
+          "end": 87.85
+        }
+      ]
+    },
+    {
+      "start": 102.6,
+      "end": 109.8,
+      "text": "Today we explored the philosophical tension between building autonomous systems while dealing with very human communication failures at ElizaOS.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 102.6,
+          "end": 102.95
+        },
+        {
+          "word": "we",
+          "start": 102.95,
+          "end": 103.11
+        },
+        {
+          "word": "explored",
+          "start": 103.11,
+          "end": 103.55
+        },
+        {
+          "word": "the",
+          "start": 103.55,
+          "end": 103.67
+        },
+        {
+          "word": "philosophical",
+          "start": 103.67,
+          "end": 104.34
+        },
+        {
+          "word": "tension",
+          "start": 104.34,
+          "end": 104.8
+        },
+        {
+          "word": "between",
+          "start": 104.8,
+          "end": 105.15
+        },
+        {
+          "word": "building",
+          "start": 105.15,
+          "end": 105.55
+        },
+        {
+          "word": "autonomous",
+          "start": 105.55,
+          "end": 106.12
+        },
+        {
+          "word": "systems",
+          "start": 106.12,
+          "end": 106.6
+        },
+        {
+          "word": "while",
+          "start": 106.8,
+          "end": 107.05
+        },
+        {
+          "word": "dealing",
+          "start": 107.05,
+          "end": 107.45
+        },
+        {
+          "word": "with",
+          "start": 107.45,
+          "end": 107.65
+        },
+        {
+          "word": "very",
+          "start": 107.65,
+          "end": 107.95
+        },
+        {
+          "word": "human",
+          "start": 107.95,
+          "end": 108.35
+        },
+        {
+          "word": "communication",
+          "start": 108.35,
+          "end": 109.12
+        },
+        {
+          "word": "failures",
+          "start": 109.12,
+          "end": 109.62
+        },
+        {
+          "word": "at",
+          "start": 109.62,
+          "end": 109.78
+        },
+        {
+          "word": "ElizaOS.",
+          "start": 109.78,
+          "end": 110.3
+        }
+      ]
+    },
+    {
+      "start": 110.4,
+      "end": 119.2,
+      "text": "Truly autonomous organizations must be resilient to individual departures. ElizaOS's current crisis reveals they're still too dependent on centralized leadership.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Truly",
+          "start": 110.4,
+          "end": 110.75
+        },
+        {
+          "word": "autonomous",
+          "start": 110.75,
+          "end": 111.41
+        },
+        {
+          "word": "organizations",
+          "start": 111.41,
+          "end": 112.18
+        },
+        {
+          "word": "must",
+          "start": 112.18,
+          "end": 112.44
+        },
+        {
+          "word": "be",
+          "start": 112.44,
+          "end": 112.56
+        },
+        {
+          "word": "resilient",
+          "start": 112.56,
+          "end": 113.12
+        },
+        {
+          "word": "to",
+          "start": 113.12,
+          "end": 113.26
+        },
+        {
+          "word": "individual",
+          "start": 113.26,
+          "end": 113.88
+        },
+        {
+          "word": "departures.",
+          "start": 113.88,
+          "end": 114.54
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 114.8,
+          "end": 115.54
+        },
+        {
+          "word": "current",
+          "start": 115.54,
+          "end": 115.88
+        },
+        {
+          "word": "crisis",
+          "start": 115.88,
+          "end": 116.35
+        },
+        {
+          "word": "reveals",
+          "start": 116.35,
+          "end": 116.82
+        },
+        {
+          "word": "they're",
+          "start": 116.82,
+          "end": 117.06
+        },
+        {
+          "word": "still",
+          "start": 117.06,
+          "end": 117.34
+        },
+        {
+          "word": "too",
+          "start": 117.34,
+          "end": 117.6
+        },
+        {
+          "word": "dependent",
+          "start": 117.6,
+          "end": 118.12
+        },
+        {
+          "word": "on",
+          "start": 118.12,
+          "end": 118.32
+        },
+        {
+          "word": "centralized",
+          "start": 118.32,
+          "end": 118.98
+        },
+        {
+          "word": "leadership.",
+          "start": 118.98,
+          "end": 119.65
+        }
+      ]
+    },
+    {
+      "start": 119.8,
+      "end": 125.8,
+      "text": "code should speak louder than words. the real elizaOS story will be written by its v2 release, not twitter drama.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Code",
+          "start": 119.8,
+          "end": 120.15
+        },
+        {
+          "word": "should",
+          "start": 120.15,
+          "end": 120.37
+        },
+        {
+          "word": "speak",
+          "start": 120.37,
+          "end": 120.65
+        },
+        {
+          "word": "louder",
+          "start": 120.65,
+          "end": 121.05
+        },
+        {
+          "word": "than",
+          "start": 121.05,
+          "end": 121.28
+        },
+        {
+          "word": "words.",
+          "start": 121.28,
+          "end": 121.75
+        },
+        {
+          "word": "The",
+          "start": 121.9,
+          "end": 122.1
+        },
+        {
+          "word": "real",
+          "start": 122.1,
+          "end": 122.35
+        },
+        {
+          "word": "ElizaOS",
+          "start": 122.35,
+          "end": 122.88
+        },
+        {
+          "word": "story",
+          "start": 122.88,
+          "end": 123.32
+        },
+        {
+          "word": "will",
+          "start": 123.32,
+          "end": 123.51
+        },
+        {
+          "word": "be",
+          "start": 123.51,
+          "end": 123.63
+        },
+        {
+          "word": "written",
+          "start": 123.63,
+          "end": 123.98
+        },
+        {
+          "word": "by",
+          "start": 123.98,
+          "end": 124.12
+        },
+        {
+          "word": "its",
+          "start": 124.12,
+          "end": 124.28
+        },
+        {
+          "word": "V2",
+          "start": 124.28,
+          "end": 124.58
+        },
+        {
+          "word": "release,",
+          "start": 124.58,
+          "end": 125.12
+        },
+        {
+          "word": "not",
+          "start": 125.12,
+          "end": 125.32
+        },
+        {
+          "word": "Twitter",
+          "start": 125.32,
+          "end": 125.66
+        },
+        {
+          "word": "drama.",
+          "start": 125.66,
+          "end": 126.15
+        }
+      ]
+    },
+    {
+      "start": 126.3,
+      "end": 133.4,
+      "text": "The meme-iverse truth: transparency isn't just about info, it's about vibes. ElizaOS needs to rebuild the good vibes, one commit at a time.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 126.3,
+          "end": 126.5
+        },
+        {
+          "word": "memeverse",
+          "start": 126.5,
+          "end": 127.1
+        },
+        {
+          "word": "truth?",
+          "start": 127.1,
+          "end": 127.52
+        },
+        {
+          "word": "Transparency",
+          "start": 127.6,
+          "end": 128.32
+        },
+        {
+          "word": "isn't",
+          "start": 128.32,
+          "end": 128.62
+        },
+        {
+          "word": "just",
+          "start": 128.62,
+          "end": 128.85
+        },
+        {
+          "word": "about",
+          "start": 128.85,
+          "end": 129.17
+        },
+        {
+          "word": "info,",
+          "start": 129.17,
+          "end": 129.56
+        },
+        {
+          "word": "it's",
+          "start": 129.7,
+          "end": 129.95
+        },
+        {
+          "word": "about",
+          "start": 129.95,
+          "end": 130.25
+        },
+        {
+          "word": "vibes.",
+          "start": 130.25,
+          "end": 130.65
+        },
+        {
+          "word": "ElizaOS",
+          "start": 130.82,
+          "end": 131.32
+        },
+        {
+          "word": "needs",
+          "start": 131.32,
+          "end": 131.58
+        },
+        {
+          "word": "to",
+          "start": 131.58,
+          "end": 131.7
+        },
+        {
+          "word": "rebuild",
+          "start": 131.7,
+          "end": 132.18
+        },
+        {
+          "word": "the",
+          "start": 132.18,
+          "end": 132.32
+        },
+        {
+          "word": "good",
+          "start": 132.32,
+          "end": 132.56
+        },
+        {
+          "word": "vibes,",
+          "start": 132.56,
+          "end": 132.95
+        },
+        {
+          "word": "one",
+          "start": 133.1,
+          "end": 133.32
+        },
+        {
+          "word": "commit",
+          "start": 133.32,
+          "end": 133.72
+        },
+        {
+          "word": "at",
+          "start": 133.72,
+          "end": 133.85
+        },
+        {
+          "word": "a",
+          "start": 133.85,
+          "end": 133.95
+        },
+        {
+          "word": "time.",
+          "start": 133.95,
+          "end": 134.25
+        }
+      ]
+    },
+    {
+      "start": 134.4,
+      "end": 138.8,
+      "text": "Market psychology 101: perception equals reality. Fix optics, fix price. Simple math.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Market",
+          "start": 134.4,
+          "end": 134.92
+        },
+        {
+          "word": "psychology",
+          "start": 134.92,
+          "end": 135.62
+        },
+        {
+          "word": "101,",
+          "start": 135.62,
+          "end": 136.05
+        },
+        {
+          "word": "perception",
+          "start": 136.22,
+          "end": 136.85
+        },
+        {
+          "word": "equals",
+          "start": 136.85,
+          "end": 137.22
+        },
+        {
+          "word": "reality.",
+          "start": 137.22,
+          "end": 137.75
+        },
+        {
+          "word": "Fix",
+          "start": 137.95,
+          "end": 138.25
+        },
+        {
+          "word": "optics,",
+          "start": 138.25,
+          "end": 138.72
+        },
+        {
+          "word": "fix",
+          "start": 138.72,
+          "end": 139.1
+        },
+        {
+          "word": "price,",
+          "start": 139.1,
+          "end": 139.52
+        },
+        {
+          "word": "simple",
+          "start": 139.6,
+          "end": 140.04
+        },
+        {
+          "word": "math.",
+          "start": 140.04,
+          "end": 140.42
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-07_JedAI-Council_Transparency-In-The-Age-Of-Digital-Ghosts.json",
+    "session_log_source": "2025-08-07_JedAI-Council_Transparency-In-The-Age-Of-Digital-Ghosts_session-log.json",
+    "total_segments": 16,
+    "matched_segments": 16,
+    "dialogues_in_script": 16
+  }
+}

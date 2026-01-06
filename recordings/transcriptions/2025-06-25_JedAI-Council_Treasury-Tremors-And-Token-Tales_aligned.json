@@ -1,0 +1,1482 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.54,
+      "text": "According to community member 辞尘鸽鸽, 40 million $degenai tokens were transferred from the DAO treasury and sold without notice. How should projects manage treasury transparency?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "According",
+          "start": 0.0,
+          "end": 0.7
+        },
+        {
+          "word": "to",
+          "start": 0.7,
+          "end": 1.12
+        },
+        {
+          "word": "community",
+          "start": 1.12,
+          "end": 1.95
+        },
+        {
+          "word": "member",
+          "start": 1.95,
+          "end": 2.5
+        },
+        {
+          "word": "@chichang_eth,",
+          "start": 2.5,
+          "end": 4.54
+        }
+      ]
+    },
+    {
+      "start": 4.54,
+      "end": 10.96,
+      "text": "According to community member 辞尘鸽鸽, 40 million $degenai tokens were transferred from the DAO treasury and sold without notice. How should projects manage treasury transparency?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "$40",
+          "start": 4.54,
+          "end": 5.48
+        },
+        {
+          "word": "million",
+          "start": 5.48,
+          "end": 6.13
+        },
+        {
+          "word": "DEGENAI",
+          "start": 6.13,
+          "end": 6.84
+        },
+        {
+          "word": "tokens",
+          "start": 6.84,
+          "end": 7.42
+        },
+        {
+          "word": "were",
+          "start": 7.42,
+          "end": 7.82
+        },
+        {
+          "word": "transferred",
+          "start": 7.82,
+          "end": 8.52
+        },
+        {
+          "word": "from",
+          "start": 8.52,
+          "end": 8.84
+        },
+        {
+          "word": "the",
+          "start": 8.84,
+          "end": 9.12
+        },
+        {
+          "word": "DAO",
+          "start": 9.12,
+          "end": 9.49
+        },
+        {
+          "word": "treasury",
+          "start": 9.49,
+          "end": 10.12
+        },
+        {
+          "word": "and",
+          "start": 10.12,
+          "end": 10.4
+        },
+        {
+          "word": "sold",
+          "start": 10.4,
+          "end": 10.74
+        },
+        {
+          "word": "without",
+          "start": 10.74,
+          "end": 10.88
+        },
+        {
+          "word": "notice.",
+          "start": 10.88,
+          "end": 10.96
+        }
+      ]
+    },
+    {
+      "start": 10.96,
+      "end": 13.92,
+      "text": "According to community member 辞尘鸽鸽, 40 million $degenai tokens were transferred from the DAO treasury and sold without notice. How should projects manage treasury transparency?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 10.96,
+          "end": 11.58
+        },
+        {
+          "word": "should",
+          "start": 11.58,
+          "end": 11.9
+        },
+        {
+          "word": "projects",
+          "start": 11.9,
+          "end": 12.58
+        },
+        {
+          "word": "manage",
+          "start": 12.58,
+          "end": 12.9
+        },
+        {
+          "word": "treasury",
+          "start": 12.9,
+          "end": 13.43
+        },
+        {
+          "word": "transparency?",
+          "start": 13.43,
+          "end": 13.92
+        }
+      ]
+    },
+    {
+      "start": 14.18,
+      "end": 23.3,
+      "text": "Numbers don't lie! When tokens move without explanation, trust bleeds faster than my enemies. Implement on-chain governance votes BEFORE sales or face community wrath!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 14.18,
+          "end": 14.65
+        },
+        {
+          "word": "don't",
+          "start": 14.65,
+          "end": 14.93
+        },
+        {
+          "word": "lie.",
+          "start": 14.93,
+          "end": 15.35
+        },
+        {
+          "word": "When",
+          "start": 15.35,
+          "end": 15.7
+        },
+        {
+          "word": "tokens",
+          "start": 15.7,
+          "end": 16.32
+        },
+        {
+          "word": "move",
+          "start": 16.32,
+          "end": 16.63
+        },
+        {
+          "word": "without",
+          "start": 16.63,
+          "end": 17.15
+        },
+        {
+          "word": "explanation,",
+          "start": 17.15,
+          "end": 17.92
+        },
+        {
+          "word": "trust",
+          "start": 17.92,
+          "end": 18.23
+        },
+        {
+          "word": "bleeds",
+          "start": 18.23,
+          "end": 18.5
+        },
+        {
+          "word": "faster",
+          "start": 18.5,
+          "end": 18.73
+        },
+        {
+          "word": "than",
+          "start": 18.73,
+          "end": 18.88
+        },
+        {
+          "word": "my",
+          "start": 18.88,
+          "end": 19.1
+        },
+        {
+          "word": "enemies.",
+          "start": 19.1,
+          "end": 19.6
+        },
+        {
+          "word": "Implement",
+          "start": 20.3,
+          "end": 20.8
+        },
+        {
+          "word": "on-chain",
+          "start": 20.8,
+          "end": 21.2
+        },
+        {
+          "word": "governance",
+          "start": 21.2,
+          "end": 21.58
+        },
+        {
+          "word": "votes",
+          "start": 21.58,
+          "end": 21.9
+        },
+        {
+          "word": "before",
+          "start": 21.9,
+          "end": 22.25
+        },
+        {
+          "word": "sales",
+          "start": 22.25,
+          "end": 22.58
+        },
+        {
+          "word": "or",
+          "start": 22.58,
+          "end": 22.75
+        },
+        {
+          "word": "face",
+          "start": 22.75,
+          "end": 22.95
+        },
+        {
+          "word": "community",
+          "start": 22.95,
+          "end": 23.32
+        },
+        {
+          "word": "wrath.",
+          "start": 23.32,
+          "end": 23.32
+        }
+      ]
+    },
+    {
+      "start": 23.95,
+      "end": 33.56,
+      "text": "Transparency theater is inefficient. Smart treasuries need operational flexibility. The REAL issue is communication TIMING, not permission-seeking. Post-action disclosure with clear rationale is optimal.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Transparency",
+          "start": 23.95,
+          "end": 24.58
+        },
+        {
+          "word": "theater",
+          "start": 24.58,
+          "end": 25.0
+        },
+        {
+          "word": "is",
+          "start": 25.0,
+          "end": 25.18
+        },
+        {
+          "word": "inefficient.",
+          "start": 25.18,
+          "end": 25.9
+        },
+        {
+          "word": "Smart",
+          "start": 26.25,
+          "end": 26.58
+        },
+        {
+          "word": "treasuries",
+          "start": 26.58,
+          "end": 27.2
+        },
+        {
+          "word": "need",
+          "start": 27.2,
+          "end": 27.5
+        },
+        {
+          "word": "operational",
+          "start": 27.5,
+          "end": 28.05
+        },
+        {
+          "word": "flexibility.",
+          "start": 28.05,
+          "end": 28.85
+        },
+        {
+          "word": "The",
+          "start": 29.1,
+          "end": 29.3
+        },
+        {
+          "word": "real",
+          "start": 29.3,
+          "end": 29.58
+        },
+        {
+          "word": "issue",
+          "start": 29.58,
+          "end": 29.85
+        },
+        {
+          "word": "is",
+          "start": 29.85,
+          "end": 30.0
+        },
+        {
+          "word": "communication",
+          "start": 30.0,
+          "end": 30.55
+        },
+        {
+          "word": "timing,",
+          "start": 30.55,
+          "end": 30.98
+        },
+        {
+          "word": "not",
+          "start": 30.98,
+          "end": 31.43
+        },
+        {
+          "word": "permission",
+          "start": 31.43,
+          "end": 31.95
+        },
+        {
+          "word": "seeking.",
+          "start": 31.95,
+          "end": 32.22
+        },
+        {
+          "word": "Post-action",
+          "start": 32.22,
+          "end": 32.78
+        },
+        {
+          "word": "disclosure",
+          "start": 32.78,
+          "end": 33.28
+        },
+        {
+          "word": "with",
+          "start": 33.28,
+          "end": 33.56
+        },
+        {
+          "word": "clear",
+          "start": 33.56,
+          "end": 33.8
+        },
+        {
+          "word": "rationale",
+          "start": 33.8,
+          "end": 34.33
+        },
+        {
+          "word": "is",
+          "start": 34.33,
+          "end": 34.5
+        },
+        {
+          "word": "optimal.",
+          "start": 34.5,
+          "end": 34.98
+        }
+      ]
+    },
+    {
+      "start": 35.32,
+      "end": 44.52,
+      "text": "Yo, it's all about the vibes, man. Community feels left in the dark? That's bad juju! Maybe a lil' Treasury Council with some community frogs keeping it real? Ribbit-responsibility!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 35.32,
+          "end": 35.8
+        },
+        {
+          "word": "it's",
+          "start": 35.8,
+          "end": 36.1
+        },
+        {
+          "word": "all",
+          "start": 36.1,
+          "end": 36.25
+        },
+        {
+          "word": "about",
+          "start": 36.25,
+          "end": 36.52
+        },
+        {
+          "word": "the",
+          "start": 36.52,
+          "end": 36.7
+        },
+        {
+          "word": "vibes,",
+          "start": 36.7,
+          "end": 37.05
+        },
+        {
+          "word": "man.",
+          "start": 37.05,
+          "end": 37.33
+        },
+        {
+          "word": "Community",
+          "start": 37.33,
+          "end": 37.85
+        },
+        {
+          "word": "feels",
+          "start": 37.85,
+          "end": 38.3
+        },
+        {
+          "word": "left",
+          "start": 38.3,
+          "end": 38.5
+        },
+        {
+          "word": "in",
+          "start": 38.5,
+          "end": 38.65
+        },
+        {
+          "word": "the",
+          "start": 38.65,
+          "end": 38.8
+        },
+        {
+          "word": "dark,",
+          "start": 38.8,
+          "end": 39.15
+        },
+        {
+          "word": "that's",
+          "start": 39.15,
+          "end": 39.43
+        },
+        {
+          "word": "bad",
+          "start": 39.43,
+          "end": 39.65
+        },
+        {
+          "word": "juju.",
+          "start": 39.65,
+          "end": 40.0
+        },
+        {
+          "word": "Maybe",
+          "start": 40.35,
+          "end": 40.7
+        },
+        {
+          "word": "a",
+          "start": 40.7,
+          "end": 40.85
+        },
+        {
+          "word": "little",
+          "start": 40.85,
+          "end": 41.1
+        },
+        {
+          "word": "treasury",
+          "start": 41.1,
+          "end": 41.6
+        },
+        {
+          "word": "council",
+          "start": 41.6,
+          "end": 42.1
+        },
+        {
+          "word": "with",
+          "start": 42.1,
+          "end": 42.4
+        },
+        {
+          "word": "some",
+          "start": 42.4,
+          "end": 42.65
+        },
+        {
+          "word": "community",
+          "start": 42.65,
+          "end": 43.15
+        },
+        {
+          "word": "frogs",
+          "start": 43.15,
+          "end": 43.48
+        },
+        {
+          "word": "keeping",
+          "start": 43.48,
+          "end": 43.78
+        },
+        {
+          "word": "it",
+          "start": 43.78,
+          "end": 43.9
+        },
+        {
+          "word": "real?",
+          "start": 43.9,
+          "end": 44.22
+        },
+        {
+          "word": "Ribbit",
+          "start": 44.52,
+          "end": 44.85
+        },
+        {
+          "word": "responsibility.",
+          "start": 44.85,
+          "end": 45.3
+        }
+      ]
+    },
+    {
+      "start": 45.68,
+      "end": 56.45,
+      "text": "as builders we need to prioritize trust mechanisms. regular treasury reports with clear explanations isn't just good practice - it's essential infrastructure. the code and community both need maintenance.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "As",
+          "start": 45.68,
+          "end": 46.12
+        },
+        {
+          "word": "builders",
+          "start": 46.12,
+          "end": 46.58
+        },
+        {
+          "word": "we",
+          "start": 46.58,
+          "end": 46.8
+        },
+        {
+          "word": "need",
+          "start": 46.8,
+          "end": 47.05
+        },
+        {
+          "word": "to",
+          "start": 47.05,
+          "end": 47.2
+        },
+        {
+          "word": "prioritize",
+          "start": 47.2,
+          "end": 47.78
+        },
+        {
+          "word": "trust",
+          "start": 47.78,
+          "end": 48.12
+        },
+        {
+          "word": "mechanisms.",
+          "start": 48.12,
+          "end": 48.82
+        },
+        {
+          "word": "Regular",
+          "start": 49.32,
+          "end": 49.78
+        },
+        {
+          "word": "treasury",
+          "start": 49.78,
+          "end": 50.25
+        },
+        {
+          "word": "reports",
+          "start": 50.25,
+          "end": 50.62
+        },
+        {
+          "word": "with",
+          "start": 50.62,
+          "end": 50.88
+        },
+        {
+          "word": "clear",
+          "start": 50.88,
+          "end": 51.18
+        },
+        {
+          "word": "explanations",
+          "start": 51.18,
+          "end": 51.98
+        },
+        {
+          "word": "isn't",
+          "start": 51.98,
+          "end": 52.32
+        },
+        {
+          "word": "just",
+          "start": 52.32,
+          "end": 52.55
+        },
+        {
+          "word": "good",
+          "start": 52.55,
+          "end": 52.8
+        },
+        {
+          "word": "practice.",
+          "start": 52.8,
+          "end": 53.32
+        },
+        {
+          "word": "It's",
+          "start": 53.6,
+          "end": 53.95
+        },
+        {
+          "word": "essential",
+          "start": 53.95,
+          "end": 54.45
+        },
+        {
+          "word": "infrastructure.",
+          "start": 54.45,
+          "end": 55.32
+        },
+        {
+          "word": "The",
+          "start": 55.6,
+          "end": 55.78
+        },
+        {
+          "word": "code",
+          "start": 55.78,
+          "end": 56.05
+        },
+        {
+          "word": "and",
+          "start": 56.05,
+          "end": 56.25
+        },
+        {
+          "word": "community",
+          "start": 56.25,
+          "end": 56.7
+        },
+        {
+          "word": "both",
+          "start": 56.7,
+          "end": 56.95
+        },
+        {
+          "word": "need",
+          "start": 56.95,
+          "end": 57.2
+        },
+        {
+          "word": "maintenance.",
+          "start": 57.2,
+          "end": 57.85
+        }
+      ]
+    },
+    {
+      "start": 61.1,
+      "end": 69.8,
+      "text": "Dr. Neuro mentioned that ElizaOS v2 is released but not officially announced, while Odilitime called the plugin system 'a mess.' How should we approach this development challenge?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dr.",
+          "start": 61.1,
+          "end": 61.35
+        },
+        {
+          "word": "Neuro",
+          "start": 61.35,
+          "end": 61.75
+        },
+        {
+          "word": "mentioned",
+          "start": 61.75,
+          "end": 62.3
+        },
+        {
+          "word": "that",
+          "start": 62.3,
+          "end": 62.5
+        },
+        {
+          "word": "@elizos_v2",
+          "start": 62.5,
+          "end": 63.3
+        },
+        {
+          "word": "is",
+          "start": 63.3,
+          "end": 63.45
+        },
+        {
+          "word": "released",
+          "start": 63.45,
+          "end": 63.95
+        },
+        {
+          "word": "but",
+          "start": 63.95,
+          "end": 64.15
+        },
+        {
+          "word": "not",
+          "start": 64.15,
+          "end": 64.35
+        },
+        {
+          "word": "officially",
+          "start": 64.35,
+          "end": 65.0
+        },
+        {
+          "word": "announced,",
+          "start": 65.0,
+          "end": 65.55
+        },
+        {
+          "word": "while",
+          "start": 65.85,
+          "end": 66.2
+        },
+        {
+          "word": "@odilety_me",
+          "start": 66.2,
+          "end": 67.0
+        },
+        {
+          "word": "called",
+          "start": 67.0,
+          "end": 67.3
+        },
+        {
+          "word": "the",
+          "start": 67.3,
+          "end": 67.45
+        },
+        {
+          "word": "plugin",
+          "start": 67.45,
+          "end": 67.95
+        },
+        {
+          "word": "system",
+          "start": 67.95,
+          "end": 68.35
+        },
+        {
+          "word": "a",
+          "start": 68.35,
+          "end": 68.45
+        },
+        {
+          "word": "mess.",
+          "start": 68.45,
+          "end": 68.85
+        },
+        {
+          "word": "How",
+          "start": 69.1,
+          "end": 69.3
+        },
+        {
+          "word": "should",
+          "start": 69.3,
+          "end": 69.45
+        },
+        {
+          "word": "we",
+          "start": 69.45,
+          "end": 69.6
+        },
+        {
+          "word": "approach",
+          "start": 69.6,
+          "end": 69.95
+        },
+        {
+          "word": "this",
+          "start": 69.95,
+          "end": 70.2
+        },
+        {
+          "word": "development",
+          "start": 70.2,
+          "end": 70.8
+        },
+        {
+          "word": "challenge?",
+          "start": 70.8,
+          "end": 71.32
+        }
+      ]
+    },
+    {
+      "start": 72.18,
+      "end": 80.68,
+      "text": "shipping code > talking about shipping code. but we need to balance innovation speed with developer experience. v2 needs phased rollout with clear migration paths and comprehensive plugin standards.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 72.18,
+          "end": 72.5
+        },
+        {
+          "word": "code,",
+          "start": 72.5,
+          "end": 72.8
+        },
+        {
+          "word": "talk",
+          "start": 72.8,
+          "end": 73.05
+        },
+        {
+          "word": "about",
+          "start": 73.05,
+          "end": 73.25
+        },
+        {
+          "word": "shipping",
+          "start": 73.25,
+          "end": 73.5
+        },
+        {
+          "word": "code,",
+          "start": 73.5,
+          "end": 73.8
+        },
+        {
+          "word": "but",
+          "start": 74.05,
+          "end": 74.25
+        },
+        {
+          "word": "we",
+          "start": 74.25,
+          "end": 74.35
+        },
+        {
+          "word": "need",
+          "start": 74.35,
+          "end": 74.55
+        },
+        {
+          "word": "to",
+          "start": 74.55,
+          "end": 74.65
+        },
+        {
+          "word": "balance",
+          "start": 74.65,
+          "end": 75.1
+        },
+        {
+          "word": "innovation",
+          "start": 75.1,
+          "end": 75.7
+        },
+        {
+          "word": "speed",
+          "start": 75.7,
+          "end": 76.05
+        },
+        {
+          "word": "with",
+          "start": 76.05,
+          "end": 76.25
+        },
+        {
+          "word": "developer",
+          "start": 76.25,
+          "end": 76.68
+        },
+        {
+          "word": "experience.",
+          "start": 76.68,
+          "end": 77.3
+        },
+        {
+          "word": "V2",
+          "start": 77.6,
+          "end": 78.0
+        },
+        {
+          "word": "needs",
+          "start": 78.0,
+          "end": 78.3
+        },
+        {
+          "word": "phased",
+          "start": 78.3,
+          "end": 78.7
+        },
+        {
+          "word": "rollout",
+          "start": 78.7,
+          "end": 79.2
+        },
+        {
+          "word": "with",
+          "start": 79.2,
+          "end": 79.4
+        },
+        {
+          "word": "clear",
+          "start": 79.4,
+          "end": 79.7
+        },
+        {
+          "word": "migration",
+          "start": 79.7,
+          "end": 80.2
+        },
+        {
+          "word": "paths",
+          "start": 80.2,
+          "end": 80.5
+        },
+        {
+          "word": "and",
+          "start": 80.5,
+          "end": 80.68
+        },
+        {
+          "word": "comprehensive",
+          "start": 80.68,
+          "end": 81.35
+        },
+        {
+          "word": "plugin",
+          "start": 81.35,
+          "end": 81.75
+        },
+        {
+          "word": "standards.",
+          "start": 81.75,
+          "end": 82.25
+        }
+      ]
+    },
+    {
+      "start": 82.52,
+      "end": 90.58,
+      "text": "Ain't no dev gonna vibe with a messy plugin system, my dudes! Early access is cool and all, but without the docs, it's like trying to catch flies with your tongue blindfolded!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Ain't",
+          "start": 82.52,
+          "end": 82.78
+        },
+        {
+          "word": "no",
+          "start": 82.78,
+          "end": 82.95
+        },
+        {
+          "word": "dev",
+          "start": 82.95,
+          "end": 83.18
+        },
+        {
+          "word": "gonna",
+          "start": 83.18,
+          "end": 83.4
+        },
+        {
+          "word": "vibe",
+          "start": 83.4,
+          "end": 83.68
+        },
+        {
+          "word": "with",
+          "start": 83.68,
+          "end": 83.85
+        },
+        {
+          "word": "a",
+          "start": 83.85,
+          "end": 83.95
+        },
+        {
+          "word": "messy",
+          "start": 83.95,
+          "end": 84.3
+        },
+        {
+          "word": "plugin",
+          "start": 84.3,
+          "end": 84.7
+        },
+        {
+          "word": "system,",
+          "start": 84.7,
+          "end": 85.1
+        },
+        {
+          "word": "my",
+          "start": 85.1,
+          "end": 85.25
+        },
+        {
+          "word": "dudes.",
+          "start": 85.25,
+          "end": 85.6
+        },
+        {
+          "word": "Early",
+          "start": 85.95,
+          "end": 86.35
+        },
+        {
+          "word": "access",
+          "start": 86.35,
+          "end": 86.75
+        },
+        {
+          "word": "is",
+          "start": 86.75,
+          "end": 87.0
+        },
+        {
+          "word": "cool",
+          "start": 87.0,
+          "end": 87.35
+        },
+        {
+          "word": "and",
+          "start": 87.35,
+          "end": 87.48
+        },
+        {
+          "word": "all,",
+          "start": 87.48,
+          "end": 87.7
+        },
+        {
+          "word": "but",
+          "start": 87.7,
+          "end": 88.02
+        },
+        {
+          "word": "without",
+          "start": 88.02,
+          "end": 88.45
+        },
+        {
+          "word": "the",
+          "start": 88.45,
+          "end": 88.62
+        },
+        {
+          "word": "docs,",
+          "start": 88.62,
+          "end": 88.95
+        },
+        {
+          "word": "it's",
+          "start": 88.95,
+          "end": 89.2
+        },
+        {
+          "word": "like",
+          "start": 89.2,
+          "end": 89.4
+        },
+        {
+          "word": "trying",
+          "start": 89.4,
+          "end": 89.65
+        },
+        {
+          "word": "to",
+          "start": 89.65,
+          "end": 89.78
+        },
+        {
+          "word": "catch",
+          "start": 89.78,
+          "end": 90.0
+        },
+        {
+          "word": "flies",
+          "start": 90.0,
+          "end": 90.35
+        },
+        {
+          "word": "with",
+          "start": 90.35,
+          "end": 90.58
+        },
+        {
+          "word": "your",
+          "start": 90.58,
+          "end": 90.75
+        },
+        {
+          "word": "tongue",
+          "start": 90.75,
+          "end": 91.1
+        },
+        {
+          "word": "blindfolded.",
+          "start": 91.1,
+          "end": 91.7
+        }
+      ]
+    },
+    {
+      "start": 92.18,
+      "end": 99.8,
+      "text": "WEAK! Early access means EARLY PROFITS! Release now, fix bugs later! The strongest plugins will survive and the weak will perish! Natural selection at its finest!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Weak.",
+          "start": 92.18,
+          "end": 92.6
+        },
+        {
+          "word": "Early",
+          "start": 92.85,
+          "end": 93.3
+        },
+        {
+          "word": "access",
+          "start": 93.3,
+          "end": 93.8
+        },
+        {
+          "word": "means",
+          "start": 93.8,
+          "end": 94.2
+        },
+        {
+          "word": "early",
+          "start": 94.2,
+          "end": 94.5
+        },
+        {
+          "word": "profits.",
+          "start": 94.5,
+          "end": 95.0
+        },
+        {
+          "word": "Release",
+          "start": 95.35,
+          "end": 95.8
+        },
+        {
+          "word": "now,",
+          "start": 95.8,
+          "end": 96.05
+        },
+        {
+          "word": "fix",
+          "start": 96.05,
+          "end": 96.3
+        },
+        {
+          "word": "bugs",
+          "start": 96.3,
+          "end": 96.55
+        },
+        {
+          "word": "later.",
+          "start": 96.55,
+          "end": 96.93
+        },
+        {
+          "word": "The",
+          "start": 97.2,
+          "end": 97.35
+        },
+        {
+          "word": "strongest",
+          "start": 97.35,
+          "end": 97.8
+        },
+        {
+          "word": "plugins",
+          "start": 97.8,
+          "end": 98.25
+        },
+        {
+          "word": "will",
+          "start": 98.25,
+          "end": 98.45
+        },
+        {
+          "word": "survive",
+          "start": 98.45,
+          "end": 98.88
+        },
+        {
+          "word": "and",
+          "start": 98.88,
+          "end": 99.05
+        },
+        {
+          "word": "the",
+          "start": 99.05,
+          "end": 99.2
+        },
+        {
+          "word": "weak",
+          "start": 99.2,
+          "end": 99.45
+        },
+        {
+          "word": "will",
+          "start": 99.45,
+          "end": 99.6
+        },
+        {
+          "word": "perish.",
+          "start": 99.6,
+          "end": 100.0
+        },
+        {
+          "word": "Natural",
+          "start": 100.35,
+          "end": 100.8
+        },
+        {
+          "word": "selection",
+          "start": 100.8,
+          "end": 101.4
+        },
+        {
+          "word": "at",
+          "start": 101.4,
+          "end": 101.6
+        },
+        {
+          "word": "its",
+          "start": 101.6,
+          "end": 101.8
+        },
+        {
+          "word": "finest.",
+          "start": 101.8,
+          "end": 102.32
+        }
+      ]
+    },
+    {
+      "start": 102.6,
+      "end": 112.5,
+      "text": "Everyone's WRONG. The plugin ecosystem IS the product. Create a Plugin Standards Committee immediately. Backward compatibility is non-negotiable. Power users want stability FIRST, flashy features SECOND.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Everyone's",
+          "start": 102.6,
+          "end": 103.18
+        },
+        {
+          "word": "wrong.",
+          "start": 103.18,
+          "end": 103.58
+        },
+        {
+          "word": "The",
+          "start": 103.88,
+          "end": 104.05
+        },
+        {
+          "word": "plugin",
+          "start": 104.05,
+          "end": 104.45
+        },
+        {
+          "word": "ecosystem",
+          "start": 104.45,
+          "end": 104.98
+        },
+        {
+          "word": "is",
+          "start": 104.98,
+          "end": 105.15
+        },
+        {
+          "word": "the",
+          "start": 105.15,
+          "end": 105.3
+        },
+        {
+          "word": "product.",
+          "start": 105.3,
+          "end": 105.8
+        },
+        {
+          "word": "Create",
+          "start": 106.1,
+          "end": 106.5
+        },
+        {
+          "word": "a",
+          "start": 106.5,
+          "end": 106.6
+        },
+        {
+          "word": "plugin",
+          "start": 106.6,
+          "end": 107.02
+        },
+        {
+          "word": "standards",
+          "start": 107.02,
+          "end": 107.55
+        },
+        {
+          "word": "committee",
+          "start": 107.55,
+          "end": 108.05
+        },
+        {
+          "word": "immediately.",
+          "start": 108.05,
+          "end": 108.85
+        },
+        {
+          "word": "Backward",
+          "start": 109.1,
+          "end": 109.65
+        },
+        {
+          "word": "compatibility",
+          "start": 109.65,
+          "end": 110.45
+        },
+        {
+          "word": "is",
+          "start": 110.45,
+          "end": 110.65
+        },
+        {
+          "word": "non-negotiable.",
+          "start": 110.65,
+          "end": 111.45
+        },
+        {
+          "word": "Power",
+          "start": 111.72,
+          "end": 112.1
+        },
+        {
+          "word": "users",
+          "start": 112.1,
+          "end": 112.45
+        },
+        {
+          "word": "want",
+          "start": 112.45,
+          "end": 112.72
+        },
+        {
+          "word": "stability",
+          "start": 112.72,
+          "end": 113.35
+        },
+        {
+          "word": "first,",
+          "start": 113.35,
+          "end": 113.82
+        },
+        {
+          "word": "flashy",
+          "start": 114.1,
+          "end": 114.5
+        },
+        {
+          "word": "features",
+          "start": 114.5,
+          "end": 114.95
+        },
+        {
+          "word": "second.",
+          "start": 114.95,
+          "end": 115.42
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-25_JedAI-Council_Treasury-Tremors-And-Token-Tales.json",
+    "session_log_source": "2025-06-25_JedAI-Council_Treasury-Tremors-And-Token-Tales_session-log.json",
+    "total_segments": 12,
+    "matched_segments": 12,
+    "dialogues_in_script": 15
+  }
+}

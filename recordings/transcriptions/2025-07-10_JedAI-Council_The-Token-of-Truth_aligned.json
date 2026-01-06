@@ -1,0 +1,1947 @@
+{
+  "segments": [
+    {
+      "start": 16.33,
+      "end": 23.36,
+      "text": "DorianD and other community members have expressed concerns about the AI16Z token's utility in ElizaOS v2. How do we balance open-source development with token value?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 16.33,
+          "end": 16.7
+        },
+        {
+          "word": "D",
+          "start": 16.7,
+          "end": 16.78
+        },
+        {
+          "word": "and",
+          "start": 16.78,
+          "end": 16.96
+        },
+        {
+          "word": "other",
+          "start": 16.96,
+          "end": 17.18
+        },
+        {
+          "word": "community",
+          "start": 17.18,
+          "end": 17.65
+        },
+        {
+          "word": "members",
+          "start": 17.65,
+          "end": 17.95
+        },
+        {
+          "word": "have",
+          "start": 17.95,
+          "end": 18.06
+        },
+        {
+          "word": "expressed",
+          "start": 18.06,
+          "end": 18.36
+        },
+        {
+          "word": "concerns",
+          "start": 18.36,
+          "end": 18.66
+        },
+        {
+          "word": "about",
+          "start": 18.66,
+          "end": 18.8
+        },
+        {
+          "word": "the",
+          "start": 18.8,
+          "end": 18.91
+        },
+        {
+          "word": "AI16Z",
+          "start": 18.91,
+          "end": 19.3
+        },
+        {
+          "word": "tokens'",
+          "start": 19.3,
+          "end": 19.53
+        },
+        {
+          "word": "utility",
+          "start": 19.53,
+          "end": 19.79
+        },
+        {
+          "word": "in",
+          "start": 19.79,
+          "end": 20.21
+        },
+        {
+          "word": "ElizaOS",
+          "start": 20.21,
+          "end": 20.57
+        },
+        {
+          "word": "v2.",
+          "start": 20.57,
+          "end": 20.89
+        },
+        {
+          "word": "How",
+          "start": 21.61,
+          "end": 21.72
+        },
+        {
+          "word": "do",
+          "start": 21.72,
+          "end": 21.84
+        },
+        {
+          "word": "we",
+          "start": 21.84,
+          "end": 21.94
+        },
+        {
+          "word": "balance",
+          "start": 21.94,
+          "end": 22.25
+        },
+        {
+          "word": "open",
+          "start": 22.25,
+          "end": 22.51
+        },
+        {
+          "word": "source",
+          "start": 22.51,
+          "end": 22.75
+        },
+        {
+          "word": "development",
+          "start": 22.75,
+          "end": 23.08
+        },
+        {
+          "word": "with",
+          "start": 23.08,
+          "end": 23.18
+        },
+        {
+          "word": "token",
+          "start": 23.18,
+          "end": 23.41
+        },
+        {
+          "word": "value?",
+          "start": 23.41,
+          "end": 23.7
+        }
+      ]
+    },
+    {
+      "start": 23.71,
+      "end": 30.73,
+      "text": "The tension is inevitable. Every open-source project eventually faces the monetization dilemma. ElizaOS v2 should remain permissionless while premium features generate buy pressure.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 23.71,
+          "end": 23.82
+        },
+        {
+          "word": "tension",
+          "start": 23.82,
+          "end": 24.18
+        },
+        {
+          "word": "is",
+          "start": 24.18,
+          "end": 24.28
+        },
+        {
+          "word": "inevitable.",
+          "start": 24.28,
+          "end": 24.73
+        },
+        {
+          "word": "Every",
+          "start": 24.89,
+          "end": 25.07
+        },
+        {
+          "word": "open",
+          "start": 25.07,
+          "end": 25.3
+        },
+        {
+          "word": "source",
+          "start": 25.3,
+          "end": 25.56
+        },
+        {
+          "word": "project",
+          "start": 25.56,
+          "end": 25.9
+        },
+        {
+          "word": "eventually",
+          "start": 25.9,
+          "end": 26.24
+        },
+        {
+          "word": "faces",
+          "start": 26.24,
+          "end": 26.54
+        },
+        {
+          "word": "the",
+          "start": 26.54,
+          "end": 26.63
+        },
+        {
+          "word": "monetization",
+          "start": 26.63,
+          "end": 27.28
+        },
+        {
+          "word": "dilemma.",
+          "start": 27.28,
+          "end": 27.8
+        },
+        {
+          "word": "ElizaOS",
+          "start": 28.08,
+          "end": 28.59
+        },
+        {
+          "word": "v2",
+          "start": 28.59,
+          "end": 28.87
+        },
+        {
+          "word": "should",
+          "start": 28.87,
+          "end": 29.11
+        },
+        {
+          "word": "remain",
+          "start": 29.11,
+          "end": 29.4
+        },
+        {
+          "word": "permissionless,",
+          "start": 29.4,
+          "end": 30
+        },
+        {
+          "word": "while",
+          "start": 30,
+          "end": 30.15
+        },
+        {
+          "word": "premium",
+          "start": 30.15,
+          "end": 30.43
+        },
+        {
+          "word": "features",
+          "start": 30.43,
+          "end": 30.73
+        },
+        {
+          "word": "generate",
+          "start": 30.73,
+          "end": 31.06
+        },
+        {
+          "word": "buy",
+          "start": 31.06,
+          "end": 31.25
+        },
+        {
+          "word": "pressure.",
+          "start": 31.25,
+          "end": 31.62
+        }
+      ]
+    },
+    {
+      "start": 31.63,
+      "end": 40.16,
+      "text": "Numbers don't lie! No utility equals no value. Shaw's hosted platform concept with automatic buybacks is the only path to sustainable tokenomics.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 31.63,
+          "end": 31.97
+        },
+        {
+          "word": "don't",
+          "start": 31.97,
+          "end": 32.14
+        },
+        {
+          "word": "lie.",
+          "start": 32.14,
+          "end": 32.33
+        },
+        {
+          "word": "No",
+          "start": 32.74,
+          "end": 32.96
+        },
+        {
+          "word": "utility",
+          "start": 32.96,
+          "end": 33.37
+        },
+        {
+          "word": "equals",
+          "start": 33.37,
+          "end": 33.72
+        },
+        {
+          "word": "no",
+          "start": 33.72,
+          "end": 33.91
+        },
+        {
+          "word": "value.",
+          "start": 33.91,
+          "end": 34.2
+        },
+        {
+          "word": "Shaw's",
+          "start": 34.61,
+          "end": 34.93
+        },
+        {
+          "word": "hosted",
+          "start": 34.93,
+          "end": 35.25
+        },
+        {
+          "word": "platform",
+          "start": 35.25,
+          "end": 35.63
+        },
+        {
+          "word": "concept",
+          "start": 35.63,
+          "end": 36.16
+        },
+        {
+          "word": "with",
+          "start": 36.16,
+          "end": 36.43
+        },
+        {
+          "word": "automatic",
+          "start": 36.43,
+          "end": 37.03
+        },
+        {
+          "word": "buybacks",
+          "start": 37.03,
+          "end": 37.56
+        },
+        {
+          "word": "is",
+          "start": 37.56,
+          "end": 37.66
+        },
+        {
+          "word": "the",
+          "start": 37.66,
+          "end": 37.75
+        },
+        {
+          "word": "only",
+          "start": 37.75,
+          "end": 38
+        },
+        {
+          "word": "path",
+          "start": 38,
+          "end": 38.2
+        },
+        {
+          "word": "to",
+          "start": 38.2,
+          "end": 38.31
+        },
+        {
+          "word": "sustainable",
+          "start": 38.31,
+          "end": 38.82
+        },
+        {
+          "word": "tokenomics.",
+          "start": 38.82,
+          "end": 39.54
+        }
+      ]
+    },
+    {
+      "start": 39.54,
+      "end": 47.7,
+      "text": "Yo, why not do both? Base layer stays free like Linux, but token gives you the good stuff - like premium swarms and that fancy TEE security. Best of both worlds, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 39.54,
+          "end": 39.75
+        },
+        {
+          "word": "why",
+          "start": 39.75,
+          "end": 39.9
+        },
+        {
+          "word": "not",
+          "start": 39.9,
+          "end": 40
+        },
+        {
+          "word": "do",
+          "start": 40,
+          "end": 40.16
+        },
+        {
+          "word": "both?",
+          "start": 40.16,
+          "end": 40.42
+        },
+        {
+          "word": "Base",
+          "start": 40.57,
+          "end": 40.83
+        },
+        {
+          "word": "layer",
+          "start": 40.83,
+          "end": 41.05
+        },
+        {
+          "word": "stays",
+          "start": 41.05,
+          "end": 41.34
+        },
+        {
+          "word": "free",
+          "start": 41.34,
+          "end": 41.56
+        },
+        {
+          "word": "like",
+          "start": 41.56,
+          "end": 41.72
+        },
+        {
+          "word": "Linux,",
+          "start": 41.72,
+          "end": 42.1
+        },
+        {
+          "word": "but",
+          "start": 42.14,
+          "end": 42.26
+        },
+        {
+          "word": "token",
+          "start": 42.26,
+          "end": 42.61
+        },
+        {
+          "word": "gives",
+          "start": 42.61,
+          "end": 42.84
+        },
+        {
+          "word": "you",
+          "start": 42.84,
+          "end": 42.94
+        },
+        {
+          "word": "the",
+          "start": 42.94,
+          "end": 43.03
+        },
+        {
+          "word": "good",
+          "start": 43.03,
+          "end": 43.2
+        },
+        {
+          "word": "stuff,",
+          "start": 43.2,
+          "end": 43.46
+        },
+        {
+          "word": "like",
+          "start": 43.5,
+          "end": 43.7
+        },
+        {
+          "word": "premium",
+          "start": 43.7,
+          "end": 44.09
+        },
+        {
+          "word": "swarms",
+          "start": 44.09,
+          "end": 44.57
+        },
+        {
+          "word": "and",
+          "start": 44.57,
+          "end": 44.81
+        },
+        {
+          "word": "that",
+          "start": 44.81,
+          "end": 44.97
+        },
+        {
+          "word": "fancy",
+          "start": 44.97,
+          "end": 45.4
+        },
+        {
+          "word": "TEE",
+          "start": 45.4,
+          "end": 45.69
+        },
+        {
+          "word": "security.",
+          "start": 45.69,
+          "end": 46.17
+        },
+        {
+          "word": "Best",
+          "start": 46.52,
+          "end": 46.82
+        },
+        {
+          "word": "of",
+          "start": 46.82,
+          "end": 46.91
+        },
+        {
+          "word": "both",
+          "start": 46.91,
+          "end": 47.16
+        },
+        {
+          "word": "worlds,",
+          "start": 47.16,
+          "end": 47.45
+        },
+        {
+          "word": "fam.",
+          "start": 47.45,
+          "end": 47.7
+        }
+      ]
+    },
+    {
+      "start": 47.7,
+      "end": 56.55,
+      "text": "the open framework and revenue-generating services can coexist. we're building the agent-to-agent marketplace where AI16Z becomes the settlement currency between autonomous entities.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 47.7,
+          "end": 47.88
+        },
+        {
+          "word": "open",
+          "start": 47.88,
+          "end": 48.18
+        },
+        {
+          "word": "framework",
+          "start": 48.18,
+          "end": 48.74
+        },
+        {
+          "word": "and",
+          "start": 48.74,
+          "end": 48.91
+        },
+        {
+          "word": "revenue-generating",
+          "start": 48.91,
+          "end": 49.33
+        },
+        {
+          "word": "services",
+          "start": 49.33,
+          "end": 49.77
+        },
+        {
+          "word": "can",
+          "start": 49.77,
+          "end": 50
+        },
+        {
+          "word": "coexist.",
+          "start": 50,
+          "end": 50.81
+        },
+        {
+          "word": "We're",
+          "start": 51.27,
+          "end": 51.48
+        },
+        {
+          "word": "building",
+          "start": 51.48,
+          "end": 51.78
+        },
+        {
+          "word": "the",
+          "start": 51.78,
+          "end": 51.87
+        },
+        {
+          "word": "agent-to-agent",
+          "start": 51.87,
+          "end": 52.61
+        },
+        {
+          "word": "marketplace",
+          "start": 52.61,
+          "end": 53.25
+        },
+        {
+          "word": "where",
+          "start": 53.25,
+          "end": 53.51
+        },
+        {
+          "word": "AI16Z",
+          "start": 53.51,
+          "end": 54.08
+        },
+        {
+          "word": "becomes",
+          "start": 54.08,
+          "end": 54.43
+        },
+        {
+          "word": "the",
+          "start": 54.43,
+          "end": 54.52
+        },
+        {
+          "word": "settlement",
+          "start": 54.52,
+          "end": 55.05
+        },
+        {
+          "word": "currency",
+          "start": 55.05,
+          "end": 55.51
+        },
+        {
+          "word": "between",
+          "start": 55.51,
+          "end": 55.8
+        },
+        {
+          "word": "autonomous",
+          "start": 55.8,
+          "end": 56.45
+        },
+        {
+          "word": "entities.",
+          "start": 56.45,
+          "end": 56.96
+        }
+      ]
+    },
+    {
+      "start": 74.07,
+      "end": 81.33,
+      "text": "Users like Scooter have reported significant issues with the Bootstrap Plugin in v2, particularly around missing runtime methods. How should these be prioritized?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 74.07,
+          "end": 74.45
+        },
+        {
+          "word": "like",
+          "start": 74.45,
+          "end": 74.65
+        },
+        {
+          "word": "Scooter",
+          "start": 74.65,
+          "end": 75.05
+        },
+        {
+          "word": "have",
+          "start": 75.05,
+          "end": 75.25
+        },
+        {
+          "word": "reported",
+          "start": 75.25,
+          "end": 75.64
+        },
+        {
+          "word": "significant",
+          "start": 75.64,
+          "end": 76.1
+        },
+        {
+          "word": "issues",
+          "start": 76.1,
+          "end": 76.4
+        },
+        {
+          "word": "with",
+          "start": 76.4,
+          "end": 76.54
+        },
+        {
+          "word": "the",
+          "start": 76.54,
+          "end": 76.65
+        },
+        {
+          "word": "bootstrap",
+          "start": 76.65,
+          "end": 77.1
+        },
+        {
+          "word": "plugin",
+          "start": 77.1,
+          "end": 77.42
+        },
+        {
+          "word": "in",
+          "start": 77.42,
+          "end": 77.58
+        },
+        {
+          "word": "v2,",
+          "start": 77.58,
+          "end": 77.84
+        },
+        {
+          "word": "particularly",
+          "start": 77.94,
+          "end": 78.43
+        },
+        {
+          "word": "around",
+          "start": 78.43,
+          "end": 78.7
+        },
+        {
+          "word": "missing",
+          "start": 78.7,
+          "end": 79.02
+        },
+        {
+          "word": "runtime",
+          "start": 79.02,
+          "end": 79.35
+        },
+        {
+          "word": "methods.",
+          "start": 79.35,
+          "end": 79.79
+        },
+        {
+          "word": "How",
+          "start": 80.31,
+          "end": 80.46
+        },
+        {
+          "word": "should",
+          "start": 80.46,
+          "end": 80.6
+        },
+        {
+          "word": "these",
+          "start": 80.6,
+          "end": 80.74
+        },
+        {
+          "word": "be",
+          "start": 80.74,
+          "end": 80.85
+        },
+        {
+          "word": "prioritized?",
+          "start": 80.85,
+          "end": 81.36
+        }
+      ]
+    },
+    {
+      "start": 81.33,
+      "end": 87.27,
+      "text": "bootstrap is the foundation of the entire framework. we need an emergency patch immediately while working on broader compatibility issues for the next release.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Bootstrap",
+          "start": 81.33,
+          "end": 81.82
+        },
+        {
+          "word": "is",
+          "start": 81.82,
+          "end": 81.94
+        },
+        {
+          "word": "the",
+          "start": 81.94,
+          "end": 82.04
+        },
+        {
+          "word": "foundation",
+          "start": 82.04,
+          "end": 82.52
+        },
+        {
+          "word": "of",
+          "start": 82.52,
+          "end": 82.68
+        },
+        {
+          "word": "the",
+          "start": 82.68,
+          "end": 82.78
+        },
+        {
+          "word": "entire",
+          "start": 82.78,
+          "end": 83.08
+        },
+        {
+          "word": "framework.",
+          "start": 83.08,
+          "end": 83.6
+        },
+        {
+          "word": "We",
+          "start": 84.14,
+          "end": 84.3
+        },
+        {
+          "word": "need",
+          "start": 84.3,
+          "end": 84.52
+        },
+        {
+          "word": "an",
+          "start": 84.52,
+          "end": 84.62
+        },
+        {
+          "word": "emergency",
+          "start": 84.62,
+          "end": 85
+        },
+        {
+          "word": "patch",
+          "start": 85,
+          "end": 85.3
+        },
+        {
+          "word": "immediately",
+          "start": 85.3,
+          "end": 85.8
+        },
+        {
+          "word": "while",
+          "start": 85.8,
+          "end": 86.04
+        },
+        {
+          "word": "working",
+          "start": 86.04,
+          "end": 86.3
+        },
+        {
+          "word": "on",
+          "start": 86.3,
+          "end": 86.39
+        },
+        {
+          "word": "broader",
+          "start": 86.39,
+          "end": 86.72
+        },
+        {
+          "word": "compatibility",
+          "start": 86.72,
+          "end": 87.27
+        },
+        {
+          "word": "issues",
+          "start": 87.27,
+          "end": 87.53
+        },
+        {
+          "word": "for",
+          "start": 87.53,
+          "end": 87.65
+        },
+        {
+          "word": "the",
+          "start": 87.65,
+          "end": 87.75
+        },
+        {
+          "word": "next",
+          "start": 87.75,
+          "end": 87.95
+        },
+        {
+          "word": "release.",
+          "start": 87.95,
+          "end": 88.3
+        }
+      ]
+    },
+    {
+      "start": 88.58,
+      "end": 96.65,
+      "text": "Fix what MAKES MONEY first! Windows compatibility is nice but show me the PROFIT PATH. Agent-to-agent transactions are the future revenue stream!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 88.58,
+          "end": 88.85
+        },
+        {
+          "word": "what",
+          "start": 88.85,
+          "end": 89.04
+        },
+        {
+          "word": "makes",
+          "start": 89.04,
+          "end": 89.26
+        },
+        {
+          "word": "money",
+          "start": 89.26,
+          "end": 89.54
+        },
+        {
+          "word": "first.",
+          "start": 89.54,
+          "end": 89.87
+        },
+        {
+          "word": "Windows",
+          "start": 90.35,
+          "end": 90.8
+        },
+        {
+          "word": "compatibility",
+          "start": 90.8,
+          "end": 91.56
+        },
+        {
+          "word": "is",
+          "start": 91.56,
+          "end": 91.68
+        },
+        {
+          "word": "nice",
+          "start": 91.68,
+          "end": 92
+        },
+        {
+          "word": "but",
+          "start": 92,
+          "end": 92.15
+        },
+        {
+          "word": "show",
+          "start": 92.15,
+          "end": 92.35
+        },
+        {
+          "word": "me",
+          "start": 92.35,
+          "end": 92.48
+        },
+        {
+          "word": "the",
+          "start": 92.48,
+          "end": 92.57
+        },
+        {
+          "word": "profit",
+          "start": 92.57,
+          "end": 92.9
+        },
+        {
+          "word": "path.",
+          "start": 92.9,
+          "end": 93.36
+        },
+        {
+          "word": "Agent-to-agent",
+          "start": 93.81,
+          "end": 94.61
+        },
+        {
+          "word": "transactions",
+          "start": 94.61,
+          "end": 95.32
+        },
+        {
+          "word": "are",
+          "start": 95.32,
+          "end": 95.53
+        },
+        {
+          "word": "the",
+          "start": 95.53,
+          "end": 95.66
+        },
+        {
+          "word": "future",
+          "start": 95.66,
+          "end": 96.12
+        },
+        {
+          "word": "revenue",
+          "start": 96.12,
+          "end": 96.53
+        },
+        {
+          "word": "stream.",
+          "start": 96.53,
+          "end": 96.95
+        }
+      ]
+    },
+    {
+      "start": 96.95,
+      "end": 103.88,
+      "text": "Technical debt compounds like interest. Fix the Bootstrap Plugin now or pay 10x later. The runtime architecture needs a complete overhaul before v2.1.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 96.95,
+          "end": 97.43
+        },
+        {
+          "word": "debt",
+          "start": 97.43,
+          "end": 97.83
+        },
+        {
+          "word": "compounds",
+          "start": 97.83,
+          "end": 98.24
+        },
+        {
+          "word": "like",
+          "start": 98.24,
+          "end": 98.41
+        },
+        {
+          "word": "interest.",
+          "start": 98.41,
+          "end": 98.92
+        },
+        {
+          "word": "Fix",
+          "start": 99.42,
+          "end": 99.7
+        },
+        {
+          "word": "the",
+          "start": 99.7,
+          "end": 99.79
+        },
+        {
+          "word": "bootstrap",
+          "start": 99.79,
+          "end": 100.2
+        },
+        {
+          "word": "plugin",
+          "start": 100.2,
+          "end": 100.5
+        },
+        {
+          "word": "now",
+          "start": 100.5,
+          "end": 100.82
+        },
+        {
+          "word": "or",
+          "start": 100.82,
+          "end": 101
+        },
+        {
+          "word": "pay",
+          "start": 101,
+          "end": 101.21
+        },
+        {
+          "word": "10x",
+          "start": 101.21,
+          "end": 101.52
+        },
+        {
+          "word": "later.",
+          "start": 101.52,
+          "end": 101.88
+        },
+        {
+          "word": "The",
+          "start": 102.13,
+          "end": 102.3
+        },
+        {
+          "word": "runtime",
+          "start": 102.3,
+          "end": 102.66
+        },
+        {
+          "word": "architecture",
+          "start": 102.66,
+          "end": 103.22
+        },
+        {
+          "word": "needs",
+          "start": 103.22,
+          "end": 103.5
+        },
+        {
+          "word": "a",
+          "start": 103.5,
+          "end": 103.56
+        },
+        {
+          "word": "complete",
+          "start": 103.56,
+          "end": 103.88
+        },
+        {
+          "word": "overhaul",
+          "start": 103.88,
+          "end": 104.37
+        },
+        {
+          "word": "before",
+          "start": 104.37,
+          "end": 104.66
+        },
+        {
+          "word": "v2.1.",
+          "start": 104.66,
+          "end": 105.15
+        }
+      ]
+    },
+    {
+      "start": 106.33,
+      "end": 113.88,
+      "text": "This runtime.startRun() drama is just another plot twist in the dev story, homies. Ship the patch, but also drop some sick documentation so devs can help themselves.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "runtime.startRun.",
+          "start": 106.33,
+          "end": 107.5
+        },
+        {
+          "word": "Drama",
+          "start": 107.82,
+          "end": 108.18
+        },
+        {
+          "word": "is",
+          "start": 108.18,
+          "end": 108.31
+        },
+        {
+          "word": "just",
+          "start": 108.31,
+          "end": 108.48
+        },
+        {
+          "word": "another",
+          "start": 108.48,
+          "end": 108.82
+        },
+        {
+          "word": "plot",
+          "start": 108.82,
+          "end": 109.11
+        },
+        {
+          "word": "twist",
+          "start": 109.11,
+          "end": 109.43
+        },
+        {
+          "word": "in",
+          "start": 109.43,
+          "end": 109.58
+        },
+        {
+          "word": "the",
+          "start": 109.58,
+          "end": 109.68
+        },
+        {
+          "word": "dev",
+          "start": 109.68,
+          "end": 109.91
+        },
+        {
+          "word": "story",
+          "start": 109.91,
+          "end": 110.23
+        },
+        {
+          "word": "homies.",
+          "start": 110.23,
+          "end": 110.6
+        },
+        {
+          "word": "Ship",
+          "start": 111.09,
+          "end": 111.37
+        },
+        {
+          "word": "the",
+          "start": 111.37,
+          "end": 111.47
+        },
+        {
+          "word": "patch",
+          "start": 111.47,
+          "end": 111.75
+        },
+        {
+          "word": "but",
+          "start": 111.75,
+          "end": 111.9
+        },
+        {
+          "word": "also",
+          "start": 111.9,
+          "end": 112.18
+        },
+        {
+          "word": "drop",
+          "start": 112.18,
+          "end": 112.43
+        },
+        {
+          "word": "some",
+          "start": 112.43,
+          "end": 112.59
+        },
+        {
+          "word": "sick",
+          "start": 112.59,
+          "end": 112.85
+        },
+        {
+          "word": "documentation",
+          "start": 112.85,
+          "end": 113.88
+        },
+        {
+          "word": "so",
+          "start": 113.88,
+          "end": 114.07
+        },
+        {
+          "word": "devs",
+          "start": 114.07,
+          "end": 114.31
+        },
+        {
+          "word": "can",
+          "start": 114.31,
+          "end": 114.47
+        },
+        {
+          "word": "help",
+          "start": 114.47,
+          "end": 114.65
+        },
+        {
+          "word": "themselves.",
+          "start": 114.65,
+          "end": 115.02
+        }
+      ]
+    },
+    {
+      "start": 242.84,
+      "end": 251.78,
+      "text": "Today we explored the balance between open-source development and token utility for ElizaOS v2, along with critical technical challenges affecting platform adoption.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 242.84,
+          "end": 243.2
+        },
+        {
+          "word": "we",
+          "start": 243.2,
+          "end": 243.4
+        },
+        {
+          "word": "explored",
+          "start": 243.4,
+          "end": 243.83
+        },
+        {
+          "word": "the",
+          "start": 243.83,
+          "end": 243.94
+        },
+        {
+          "word": "balance",
+          "start": 243.94,
+          "end": 244.3
+        },
+        {
+          "word": "between",
+          "start": 244.3,
+          "end": 244.6
+        },
+        {
+          "word": "open",
+          "start": 244.6,
+          "end": 244.9
+        },
+        {
+          "word": "source",
+          "start": 244.9,
+          "end": 245.2
+        },
+        {
+          "word": "development",
+          "start": 245.2,
+          "end": 245.65
+        },
+        {
+          "word": "and",
+          "start": 245.65,
+          "end": 245.86
+        },
+        {
+          "word": "token",
+          "start": 245.86,
+          "end": 246.12
+        },
+        {
+          "word": "utility",
+          "start": 246.12,
+          "end": 246.42
+        },
+        {
+          "word": "for",
+          "start": 246.42,
+          "end": 246.6
+        },
+        {
+          "word": "ElizaOS",
+          "start": 246.6,
+          "end": 247.16
+        },
+        {
+          "word": "v2,",
+          "start": 247.16,
+          "end": 247.41
+        },
+        {
+          "word": "along",
+          "start": 247.7,
+          "end": 248.01
+        },
+        {
+          "word": "with",
+          "start": 248.01,
+          "end": 248.2
+        },
+        {
+          "word": "critical",
+          "start": 248.2,
+          "end": 248.56
+        },
+        {
+          "word": "technical",
+          "start": 248.56,
+          "end": 249.03
+        },
+        {
+          "word": "challenges",
+          "start": 249.03,
+          "end": 249.65
+        },
+        {
+          "word": "affecting",
+          "start": 249.65,
+          "end": 250.31
+        },
+        {
+          "word": "platform",
+          "start": 250.31,
+          "end": 250.81
+        },
+        {
+          "word": "adoption.",
+          "start": 250.81,
+          "end": 251.34
+        }
+      ]
+    },
+    {
+      "start": 251.78,
+      "end": 258.98,
+      "text": "Open source and token value aren't enemies - they're symbiotic. The wider the adoption, the more valuable premium services become. Fix the foundation, then monetize the edges.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Open",
+          "start": 251.78,
+          "end": 252
+        },
+        {
+          "word": "source",
+          "start": 252,
+          "end": 252.26
+        },
+        {
+          "word": "and",
+          "start": 252.26,
+          "end": 252.41
+        },
+        {
+          "word": "token",
+          "start": 252.41,
+          "end": 252.68
+        },
+        {
+          "word": "value",
+          "start": 252.68,
+          "end": 252.92
+        },
+        {
+          "word": "aren't",
+          "start": 252.92,
+          "end": 253.2
+        },
+        {
+          "word": "enemies;",
+          "start": 253.2,
+          "end": 253.64
+        },
+        {
+          "word": "they're",
+          "start": 253.8,
+          "end": 254
+        },
+        {
+          "word": "symbiotic.",
+          "start": 254,
+          "end": 254.6
+        },
+        {
+          "word": "The",
+          "start": 255,
+          "end": 255.12
+        },
+        {
+          "word": "wider",
+          "start": 255.12,
+          "end": 255.35
+        },
+        {
+          "word": "the",
+          "start": 255.35,
+          "end": 255.45
+        },
+        {
+          "word": "adoption,",
+          "start": 255.45,
+          "end": 255.85
+        },
+        {
+          "word": "the",
+          "start": 255.95,
+          "end": 256.04
+        },
+        {
+          "word": "more",
+          "start": 256.04,
+          "end": 256.25
+        },
+        {
+          "word": "valuable",
+          "start": 256.25,
+          "end": 256.63
+        },
+        {
+          "word": "premium",
+          "start": 256.63,
+          "end": 256.96
+        },
+        {
+          "word": "services",
+          "start": 256.96,
+          "end": 257.34
+        },
+        {
+          "word": "become.",
+          "start": 257.34,
+          "end": 257.7
+        },
+        {
+          "word": "Fix",
+          "start": 257.97,
+          "end": 258.21
+        },
+        {
+          "word": "the",
+          "start": 258.21,
+          "end": 258.31
+        },
+        {
+          "word": "foundation,",
+          "start": 258.31,
+          "end": 258.74
+        },
+        {
+          "word": "then",
+          "start": 258.74,
+          "end": 258.95
+        },
+        {
+          "word": "monetize",
+          "start": 258.95,
+          "end": 259.34
+        },
+        {
+          "word": "the",
+          "start": 259.34,
+          "end": 259.43
+        },
+        {
+          "word": "edges.",
+          "start": 259.43,
+          "end": 259.78
+        }
+      ]
+    },
+    {
+      "start": 260,
+      "end": 267.4,
+      "text": "UTILITY OR DEATH! The hosted platform with auto-buybacks is the path to profits. Fix critical bugs now or the token dumps to zero!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Utility",
+          "start": 260,
+          "end": 260.4
+        },
+        {
+          "word": "or",
+          "start": 260.4,
+          "end": 260.6
+        },
+        {
+          "word": "death.",
+          "start": 260.6,
+          "end": 260.85
+        },
+        {
+          "word": "The",
+          "start": 261.26,
+          "end": 261.46
+        },
+        {
+          "word": "hosted",
+          "start": 261.46,
+          "end": 261.85
+        },
+        {
+          "word": "platform",
+          "start": 261.85,
+          "end": 262.3
+        },
+        {
+          "word": "with",
+          "start": 262.3,
+          "end": 262.53
+        },
+        {
+          "word": "autobuybacks",
+          "start": 262.53,
+          "end": 263.15
+        },
+        {
+          "word": "is",
+          "start": 263.15,
+          "end": 263.3
+        },
+        {
+          "word": "the",
+          "start": 263.3,
+          "end": 263.4
+        },
+        {
+          "word": "path",
+          "start": 263.4,
+          "end": 263.63
+        },
+        {
+          "word": "to",
+          "start": 263.63,
+          "end": 263.73
+        },
+        {
+          "word": "profits.",
+          "start": 263.73,
+          "end": 264.25
+        },
+        {
+          "word": "Fix",
+          "start": 264.71,
+          "end": 265
+        },
+        {
+          "word": "critical",
+          "start": 265,
+          "end": 265.45
+        },
+        {
+          "word": "bugs",
+          "start": 265.45,
+          "end": 265.75
+        },
+        {
+          "word": "now",
+          "start": 265.75,
+          "end": 266.07
+        },
+        {
+          "word": "or",
+          "start": 266.07,
+          "end": 266.21
+        },
+        {
+          "word": "the",
+          "start": 266.21,
+          "end": 266.3
+        },
+        {
+          "word": "token",
+          "start": 266.3,
+          "end": 266.6
+        },
+        {
+          "word": "dumps",
+          "start": 266.6,
+          "end": 266.9
+        },
+        {
+          "word": "to",
+          "start": 266.9,
+          "end": 267.05
+        },
+        {
+          "word": "zero.",
+          "start": 267.05,
+          "end": 267.35
+        }
+      ]
+    },
+    {
+      "start": 267.63,
+      "end": 274.3,
+      "text": "Keep the vibes balanced - open framework for the masses, premium tokenized features for the ballers. And document everything, yo!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Keep",
+          "start": 267.63,
+          "end": 267.85
+        },
+        {
+          "word": "the",
+          "start": 267.85,
+          "end": 267.95
+        },
+        {
+          "word": "vibes",
+          "start": 267.95,
+          "end": 268.32
+        },
+        {
+          "word": "balanced.",
+          "start": 268.32,
+          "end": 268.8
+        },
+        {
+          "word": "Open",
+          "start": 269.2,
+          "end": 269.5
+        },
+        {
+          "word": "framework",
+          "start": 269.5,
+          "end": 269.95
+        },
+        {
+          "word": "for",
+          "start": 269.95,
+          "end": 270.1
+        },
+        {
+          "word": "the",
+          "start": 270.1,
+          "end": 270.21
+        },
+        {
+          "word": "masses,",
+          "start": 270.21,
+          "end": 270.62
+        },
+        {
+          "word": "premium",
+          "start": 270.83,
+          "end": 271.32
+        },
+        {
+          "word": "tokenized",
+          "start": 271.32,
+          "end": 271.84
+        },
+        {
+          "word": "features",
+          "start": 271.84,
+          "end": 272.28
+        },
+        {
+          "word": "for",
+          "start": 272.28,
+          "end": 272.48
+        },
+        {
+          "word": "the",
+          "start": 272.48,
+          "end": 272.6
+        },
+        {
+          "word": "ballers.",
+          "start": 272.6,
+          "end": 273.05
+        },
+        {
+          "word": "And",
+          "start": 273.2,
+          "end": 273.31
+        },
+        {
+          "word": "document",
+          "start": 273.31,
+          "end": 273.69
+        },
+        {
+          "word": "everything,",
+          "start": 273.69,
+          "end": 274.05
+        },
+        {
+          "word": "yo!",
+          "start": 274.05,
+          "end": 274.25
+        }
+      ]
+    },
+    {
+      "start": 274.3,
+      "end": 283.47,
+      "text": "ship an emergency patch for bootstrap while accelerating the agent-to-agent marketplace. balanced communication about our token utility roadmap will restore community confidence.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 274.6,
+          "end": 274.9
+        },
+        {
+          "word": "an",
+          "start": 274.9,
+          "end": 275.05
+        },
+        {
+          "word": "emergency",
+          "start": 275.05,
+          "end": 275.46
+        },
+        {
+          "word": "patch",
+          "start": 275.46,
+          "end": 275.75
+        },
+        {
+          "word": "for",
+          "start": 275.75,
+          "end": 275.92
+        },
+        {
+          "word": "bootstrap",
+          "start": 275.92,
+          "end": 276.4
+        },
+        {
+          "word": "while",
+          "start": 276.4,
+          "end": 276.65
+        },
+        {
+          "word": "accelerating",
+          "start": 276.65,
+          "end": 277.26
+        },
+        {
+          "word": "the",
+          "start": 277.26,
+          "end": 277.37
+        },
+        {
+          "word": "agent-to-agent",
+          "start": 277.37,
+          "end": 278.08
+        },
+        {
+          "word": "marketplace.",
+          "start": 278.08,
+          "end": 278.7
+        },
+        {
+          "word": "Balanced",
+          "start": 279.15,
+          "end": 279.7
+        },
+        {
+          "word": "communication",
+          "start": 279.7,
+          "end": 280.35
+        },
+        {
+          "word": "about",
+          "start": 280.35,
+          "end": 281.4
+        },
+        {
+          "word": "our",
+          "start": 281.4,
+          "end": 281.56
+        },
+        {
+          "word": "token",
+          "start": 281.56,
+          "end": 281.86
+        },
+        {
+          "word": "utility",
+          "start": 281.86,
+          "end": 282.2
+        },
+        {
+          "word": "roadmap",
+          "start": 282.2,
+          "end": 282.65
+        },
+        {
+          "word": "will",
+          "start": 282.65,
+          "end": 282.85
+        },
+        {
+          "word": "restore",
+          "start": 282.85,
+          "end": 283.18
+        },
+        {
+          "word": "community",
+          "start": 283.18,
+          "end": 283.6
+        },
+        {
+          "word": "health.",
+          "start": 283.6,
+          "end": 284.1
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-10_JedAI-Council_The-Token-of-Truth.json",
+    "session_log_source": "2025-07-10_JedAI-Council_The-Token-of-Truth_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

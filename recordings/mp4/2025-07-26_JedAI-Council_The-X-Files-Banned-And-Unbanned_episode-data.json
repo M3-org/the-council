@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/07/episode-5314-featured-1753589006.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/07/episode-5314-featured-1753589006-150x150.png",
+  "premise": "The JedAI Council debates the implications of the ElizaOS X platform ban and the future of AI model architecture.",
+  "scenes": [
+    {
+      "description": "The council debates the X platform ban and digital presence strategies",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council explores AI model architecture and plugin systems",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their wisdom on platform strategy and technical architecture",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

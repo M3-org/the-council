@@ -1,0 +1,1607 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.73,
+      "text": "Welcome to the JedAI Council! Today we're examining the ElizaOS token migration that's been causing quite a stir.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.0,
+          "end": 0.65
+        },
+        {
+          "word": "to",
+          "start": 0.65,
+          "end": 0.82
+        },
+        {
+          "word": "the",
+          "start": 0.82,
+          "end": 1.05
+        },
+        {
+          "word": "JEDii",
+          "start": 1.05,
+          "end": 2.22
+        },
+        {
+          "word": "Council.",
+          "start": 2.22,
+          "end": 3.73
+        }
+      ]
+    },
+    {
+      "start": 3.73,
+      "end": 9.4,
+      "text": "Welcome to the JedAI Council! Today we're examining the ElizaOS token migration that's been causing quite a stir.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 3.73,
+          "end": 4.14
+        },
+        {
+          "word": "we're",
+          "start": 4.14,
+          "end": 4.5
+        },
+        {
+          "word": "examining",
+          "start": 4.5,
+          "end": 4.96
+        },
+        {
+          "word": "the",
+          "start": 4.96,
+          "end": 5.25
+        },
+        {
+          "word": "ElizaOS",
+          "start": 5.25,
+          "end": 6.32
+        },
+        {
+          "word": "token",
+          "start": 6.32,
+          "end": 6.81
+        },
+        {
+          "word": "migration",
+          "start": 6.81,
+          "end": 7.64
+        },
+        {
+          "word": "that's",
+          "start": 7.64,
+          "end": 8.04
+        },
+        {
+          "word": "been",
+          "start": 8.04,
+          "end": 8.16
+        },
+        {
+          "word": "causing",
+          "start": 8.16,
+          "end": 8.64
+        },
+        {
+          "word": "quite",
+          "start": 8.64,
+          "end": 8.92
+        },
+        {
+          "word": "a",
+          "start": 8.92,
+          "end": 9.06
+        },
+        {
+          "word": "stir.",
+          "start": 9.06,
+          "end": 9.4
+        }
+      ]
+    },
+    {
+      "start": 9.4,
+      "end": 14.77,
+      "text": "Users like Kenk and Borko are reporting 'max amount reached' errors and wallet connectivity problems. What are your thoughts on the migration strategy?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 9.4,
+          "end": 10.33
+        },
+        {
+          "word": "like",
+          "start": 10.33,
+          "end": 10.51
+        },
+        {
+          "word": "Ken",
+          "start": 10.51,
+          "end": 11.23
+        },
+        {
+          "word": "and",
+          "start": 11.23,
+          "end": 11.45
+        },
+        {
+          "word": "Borco",
+          "start": 11.45,
+          "end": 11.97
+        },
+        {
+          "word": "are",
+          "start": 11.97,
+          "end": 12.06
+        },
+        {
+          "word": "reporting",
+          "start": 12.06,
+          "end": 12.4
+        },
+        {
+          "word": "'max",
+          "start": 12.4,
+          "end": 12.63
+        },
+        {
+          "word": "amount",
+          "start": 12.63,
+          "end": 12.9
+        },
+        {
+          "word": "reached'",
+          "start": 12.9,
+          "end": 13.14
+        },
+        {
+          "word": "errors",
+          "start": 13.14,
+          "end": 13.43
+        },
+        {
+          "word": "and",
+          "start": 13.43,
+          "end": 13.54
+        },
+        {
+          "word": "wallet",
+          "start": 13.54,
+          "end": 13.82
+        },
+        {
+          "word": "connectivity",
+          "start": 13.82,
+          "end": 14.39
+        },
+        {
+          "word": "problems.",
+          "start": 14.39,
+          "end": 14.77
+        }
+      ]
+    },
+    {
+      "start": 14.77,
+      "end": 16.91,
+      "text": "Users like Kenk and Borko are reporting 'max amount reached' errors and wallet connectivity problems. What are your thoughts on the migration strategy?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 14.77,
+          "end": 15.01
+        },
+        {
+          "word": "are",
+          "start": 15.01,
+          "end": 15.11
+        },
+        {
+          "word": "your",
+          "start": 15.11,
+          "end": 15.34
+        },
+        {
+          "word": "thoughts",
+          "start": 15.34,
+          "end": 15.65
+        },
+        {
+          "word": "on",
+          "start": 15.65,
+          "end": 15.79
+        },
+        {
+          "word": "the",
+          "start": 15.79,
+          "end": 15.93
+        },
+        {
+          "word": "migration",
+          "start": 15.93,
+          "end": 16.54
+        },
+        {
+          "word": "strategy?",
+          "start": 16.54,
+          "end": 16.91
+        }
+      ]
+    },
+    {
+      "start": 16.91,
+      "end": 20.3,
+      "text": "11 BILLION TOKENS? This dilution is MADNESS! No wonder users are panicking - you can't just 10x supply and expect the market to shrug!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "11",
+          "start": 16.91,
+          "end": 17.65
+        },
+        {
+          "word": "billion",
+          "start": 17.65,
+          "end": 17.85
+        },
+        {
+          "word": "tokens?",
+          "start": 17.85,
+          "end": 18.25
+        },
+        {
+          "word": "This",
+          "start": 18.25,
+          "end": 18.89
+        },
+        {
+          "word": "dilution",
+          "start": 18.89,
+          "end": 19.34
+        },
+        {
+          "word": "is",
+          "start": 19.34,
+          "end": 19.6
+        },
+        {
+          "word": "madness.",
+          "start": 19.6,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 24.58,
+      "text": "11 BILLION TOKENS? This dilution is MADNESS! No wonder users are panicking - you can't just 10x supply and expect the market to shrug!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 20.3,
+          "end": 20.67
+        },
+        {
+          "word": "wonder",
+          "start": 20.67,
+          "end": 20.89
+        },
+        {
+          "word": "users",
+          "start": 20.89,
+          "end": 21.08
+        },
+        {
+          "word": "are",
+          "start": 21.08,
+          "end": 21.2
+        },
+        {
+          "word": "panicking.",
+          "start": 21.2,
+          "end": 21.65
+        },
+        {
+          "word": "You",
+          "start": 21.65,
+          "end": 22.0
+        },
+        {
+          "word": "can't",
+          "start": 22.0,
+          "end": 22.18
+        },
+        {
+          "word": "just",
+          "start": 22.18,
+          "end": 22.42
+        },
+        {
+          "word": "10x",
+          "start": 22.42,
+          "end": 23.38
+        },
+        {
+          "word": "supply",
+          "start": 23.38,
+          "end": 23.7
+        },
+        {
+          "word": "and",
+          "start": 23.7,
+          "end": 23.83
+        },
+        {
+          "word": "expect",
+          "start": 23.83,
+          "end": 24.08
+        },
+        {
+          "word": "the",
+          "start": 24.08,
+          "end": 24.16
+        },
+        {
+          "word": "market",
+          "start": 24.16,
+          "end": 24.34
+        },
+        {
+          "word": "to",
+          "start": 24.34,
+          "end": 24.45
+        },
+        {
+          "word": "shrug.",
+          "start": 24.45,
+          "end": 24.58
+        }
+      ]
+    },
+    {
+      "start": 24.58,
+      "end": 28.32,
+      "text": "Markets are efficient. Large supply doesn't matter if tokenomics are sound. The real issue is execution. Migration is a high-stakes systems test that reveals organizational competence.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 24.58,
+          "end": 25.4
+        },
+        {
+          "word": "are",
+          "start": 25.4,
+          "end": 25.49
+        },
+        {
+          "word": "efficient.",
+          "start": 25.49,
+          "end": 25.96
+        },
+        {
+          "word": "Large",
+          "start": 25.96,
+          "end": 26.68
+        },
+        {
+          "word": "supply",
+          "start": 26.68,
+          "end": 26.89
+        },
+        {
+          "word": "doesn't",
+          "start": 26.89,
+          "end": 27.24
+        },
+        {
+          "word": "matter",
+          "start": 27.24,
+          "end": 27.4
+        },
+        {
+          "word": "if",
+          "start": 27.4,
+          "end": 27.5
+        },
+        {
+          "word": "tokenomics",
+          "start": 27.5,
+          "end": 28.01
+        },
+        {
+          "word": "are",
+          "start": 28.01,
+          "end": 28.12
+        },
+        {
+          "word": "sound.",
+          "start": 28.12,
+          "end": 28.32
+        }
+      ]
+    },
+    {
+      "start": 28.32,
+      "end": 33.15,
+      "text": "Markets are efficient. Large supply doesn't matter if tokenomics are sound. The real issue is execution. Migration is a high-stakes systems test that reveals organizational competence.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 28.32,
+          "end": 28.66
+        },
+        {
+          "word": "real",
+          "start": 28.66,
+          "end": 28.79
+        },
+        {
+          "word": "issue",
+          "start": 28.79,
+          "end": 29.04
+        },
+        {
+          "word": "is",
+          "start": 29.04,
+          "end": 29.17
+        },
+        {
+          "word": "execution.",
+          "start": 29.17,
+          "end": 29.69
+        },
+        {
+          "word": "Migration",
+          "start": 29.69,
+          "end": 30.29
+        },
+        {
+          "word": "is",
+          "start": 30.29,
+          "end": 30.41
+        },
+        {
+          "word": "a",
+          "start": 30.41,
+          "end": 30.46
+        },
+        {
+          "word": "high-stakes",
+          "start": 30.46,
+          "end": 31.06
+        },
+        {
+          "word": "systems",
+          "start": 31.06,
+          "end": 31.6
+        },
+        {
+          "word": "test",
+          "start": 31.6,
+          "end": 32.14
+        },
+        {
+          "word": "that",
+          "start": 32.14,
+          "end": 32.31
+        },
+        {
+          "word": "reveals",
+          "start": 32.31,
+          "end": 32.55
+        },
+        {
+          "word": "organizational",
+          "start": 32.55,
+          "end": 32.96
+        },
+        {
+          "word": "competence.",
+          "start": 32.96,
+          "end": 33.15
+        }
+      ]
+    },
+    {
+      "start": 33.15,
+      "end": 37.14,
+      "text": "Yo, my crypto homies be sweatin' when they can't move their bags! Technical problems might be temporary, but trust is forever, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 33.15,
+          "end": 33.74
+        },
+        {
+          "word": "my",
+          "start": 33.74,
+          "end": 34.02
+        },
+        {
+          "word": "crypto",
+          "start": 34.02,
+          "end": 34.22
+        },
+        {
+          "word": "homies",
+          "start": 34.22,
+          "end": 34.62
+        },
+        {
+          "word": "be",
+          "start": 34.62,
+          "end": 34.74
+        },
+        {
+          "word": "sweating",
+          "start": 34.74,
+          "end": 35.12
+        },
+        {
+          "word": "when",
+          "start": 35.12,
+          "end": 35.29
+        },
+        {
+          "word": "they",
+          "start": 35.29,
+          "end": 35.43
+        },
+        {
+          "word": "can't",
+          "start": 35.43,
+          "end": 35.63
+        },
+        {
+          "word": "move",
+          "start": 35.63,
+          "end": 35.85
+        },
+        {
+          "word": "their",
+          "start": 35.85,
+          "end": 35.94
+        },
+        {
+          "word": "bags.",
+          "start": 35.94,
+          "end": 37.14
+        }
+      ]
+    },
+    {
+      "start": 37.14,
+      "end": 40.52,
+      "text": "Yo, my crypto homies be sweatin' when they can't move their bags! Technical problems might be temporary, but trust is forever, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 37.14,
+          "end": 37.8
+        },
+        {
+          "word": "problems",
+          "start": 37.8,
+          "end": 38.07
+        },
+        {
+          "word": "might",
+          "start": 38.07,
+          "end": 38.2
+        },
+        {
+          "word": "be",
+          "start": 38.2,
+          "end": 38.3
+        },
+        {
+          "word": "temporary,",
+          "start": 38.3,
+          "end": 38.83
+        },
+        {
+          "word": "but",
+          "start": 38.83,
+          "end": 39.11
+        },
+        {
+          "word": "trust",
+          "start": 39.11,
+          "end": 39.36
+        },
+        {
+          "word": "is",
+          "start": 39.36,
+          "end": 39.5
+        },
+        {
+          "word": "forever.",
+          "start": 39.5,
+          "end": 39.9
+        },
+        {
+          "word": "You",
+          "start": 39.9,
+          "end": 40.16
+        },
+        {
+          "word": "dig?",
+          "start": 40.16,
+          "end": 40.52
+        }
+      ]
+    },
+    {
+      "start": 40.52,
+      "end": 43.61,
+      "text": "the RLS fix we just merged shows we're responding to technical issues, but we need better communication during migration. open source means anyone can contribute to the solution.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 40.52,
+          "end": 40.94
+        },
+        {
+          "word": "RIS",
+          "start": 40.94,
+          "end": 41.25
+        },
+        {
+          "word": "fix",
+          "start": 41.25,
+          "end": 41.48
+        },
+        {
+          "word": "we",
+          "start": 41.48,
+          "end": 41.6
+        },
+        {
+          "word": "just",
+          "start": 41.6,
+          "end": 41.76
+        },
+        {
+          "word": "merged",
+          "start": 41.76,
+          "end": 42.06
+        },
+        {
+          "word": "shows",
+          "start": 42.06,
+          "end": 42.36
+        },
+        {
+          "word": "we're",
+          "start": 42.36,
+          "end": 42.54
+        },
+        {
+          "word": "responding",
+          "start": 42.54,
+          "end": 42.92
+        },
+        {
+          "word": "to",
+          "start": 42.92,
+          "end": 43.08
+        },
+        {
+          "word": "technical",
+          "start": 43.08,
+          "end": 43.34
+        },
+        {
+          "word": "issues.",
+          "start": 43.34,
+          "end": 43.61
+        }
+      ]
+    },
+    {
+      "start": 43.61,
+      "end": 46.54,
+      "text": "the RLS fix we just merged shows we're responding to technical issues, but we need better communication during migration. open source means anyone can contribute to the solution.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 43.61,
+          "end": 44.11
+        },
+        {
+          "word": "we",
+          "start": 44.11,
+          "end": 44.42
+        },
+        {
+          "word": "need",
+          "start": 44.42,
+          "end": 44.75
+        },
+        {
+          "word": "better",
+          "start": 44.75,
+          "end": 45.1
+        },
+        {
+          "word": "communication",
+          "start": 45.1,
+          "end": 45.89
+        },
+        {
+          "word": "during",
+          "start": 45.89,
+          "end": 46.22
+        },
+        {
+          "word": "migration.",
+          "start": 46.22,
+          "end": 46.54
+        }
+      ]
+    },
+    {
+      "start": 46.54,
+      "end": 49.33,
+      "text": "the RLS fix we just merged shows we're responding to technical issues, but we need better communication during migration. open source means anyone can contribute to the solution.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Open",
+          "start": 46.54,
+          "end": 47.16
+        },
+        {
+          "word": "source",
+          "start": 47.16,
+          "end": 47.5
+        },
+        {
+          "word": "means",
+          "start": 47.5,
+          "end": 47.89
+        },
+        {
+          "word": "anyone",
+          "start": 47.89,
+          "end": 48.43
+        },
+        {
+          "word": "can",
+          "start": 48.43,
+          "end": 48.56
+        },
+        {
+          "word": "contribute",
+          "start": 48.56,
+          "end": 48.97
+        },
+        {
+          "word": "to",
+          "start": 48.97,
+          "end": 49.07
+        },
+        {
+          "word": "the",
+          "start": 49.07,
+          "end": 49.12
+        },
+        {
+          "word": "solution.",
+          "start": 49.12,
+          "end": 49.33
+        }
+      ]
+    },
+    {
+      "start": 49.33,
+      "end": 56.59,
+      "text": "Gate.io and Bybit are listing ElizaOS tomorrow. How important are exchange listings during such a critical migration period?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "gate.io",
+          "start": 49.33,
+          "end": 50.81
+        },
+        {
+          "word": "and",
+          "start": 50.81,
+          "end": 51.05
+        },
+        {
+          "word": "Bybit",
+          "start": 51.05,
+          "end": 51.36
+        },
+        {
+          "word": "are",
+          "start": 51.36,
+          "end": 51.49
+        },
+        {
+          "word": "listing",
+          "start": 51.49,
+          "end": 51.81
+        },
+        {
+          "word": "ElizaOS",
+          "start": 51.81,
+          "end": 52.61
+        },
+        {
+          "word": "tomorrow.",
+          "start": 52.61,
+          "end": 53.07
+        },
+        {
+          "word": "How",
+          "start": 53.07,
+          "end": 53.81
+        },
+        {
+          "word": "important",
+          "start": 53.81,
+          "end": 54.26
+        },
+        {
+          "word": "are",
+          "start": 54.26,
+          "end": 54.41
+        },
+        {
+          "word": "exchange",
+          "start": 54.41,
+          "end": 54.83
+        },
+        {
+          "word": "listings",
+          "start": 54.83,
+          "end": 55.42
+        },
+        {
+          "word": "during",
+          "start": 55.42,
+          "end": 55.67
+        },
+        {
+          "word": "such",
+          "start": 55.67,
+          "end": 55.83
+        },
+        {
+          "word": "a",
+          "start": 55.83,
+          "end": 55.87
+        },
+        {
+          "word": "critical",
+          "start": 55.87,
+          "end": 56.12
+        },
+        {
+          "word": "migration",
+          "start": 56.12,
+          "end": 56.42
+        },
+        {
+          "word": "period?",
+          "start": 56.42,
+          "end": 56.59
+        }
+      ]
+    },
+    {
+      "start": 56.59,
+      "end": 58.07,
+      "text": "LIQUIDITY IS OXYGEN! More exchanges means more escape routes when things go south. Smart money always wants exit liquidity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Liquidity",
+          "start": 56.59,
+          "end": 57.34
+        },
+        {
+          "word": "is",
+          "start": 57.34,
+          "end": 57.51
+        },
+        {
+          "word": "oxygen.",
+          "start": 57.51,
+          "end": 58.07
+        }
+      ]
+    },
+    {
+      "start": 58.07,
+      "end": 62.4,
+      "text": "LIQUIDITY IS OXYGEN! More exchanges means more escape routes when things go south. Smart money always wants exit liquidity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "More",
+          "start": 58.07,
+          "end": 58.37
+        },
+        {
+          "word": "exchanges",
+          "start": 58.37,
+          "end": 58.82
+        },
+        {
+          "word": "means",
+          "start": 58.82,
+          "end": 59.01
+        },
+        {
+          "word": "more",
+          "start": 59.01,
+          "end": 59.18
+        },
+        {
+          "word": "escape",
+          "start": 59.18,
+          "end": 59.43
+        },
+        {
+          "word": "routes",
+          "start": 59.43,
+          "end": 59.7
+        },
+        {
+          "word": "when",
+          "start": 59.7,
+          "end": 59.85
+        },
+        {
+          "word": "things",
+          "start": 59.85,
+          "end": 60.03
+        },
+        {
+          "word": "go",
+          "start": 60.03,
+          "end": 60.18
+        },
+        {
+          "word": "south.",
+          "start": 60.18,
+          "end": 60.31
+        },
+        {
+          "word": "Smart",
+          "start": 60.31,
+          "end": 61.35
+        },
+        {
+          "word": "money",
+          "start": 61.35,
+          "end": 61.64
+        },
+        {
+          "word": "always",
+          "start": 61.64,
+          "end": 61.85
+        },
+        {
+          "word": "wants",
+          "start": 61.85,
+          "end": 62.11
+        },
+        {
+          "word": "exit",
+          "start": 62.11,
+          "end": 62.33
+        },
+        {
+          "word": "liquidity.",
+          "start": 62.33,
+          "end": 62.4
+        }
+      ]
+    },
+    {
+      "start": 62.4,
+      "end": 67.24,
+      "text": "exchanges matter, but the openrouter embedding option we're adding shows our real focus: making the framework more accessible to developers building on it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Exchanges",
+          "start": 62.4,
+          "end": 62.91
+        },
+        {
+          "word": "matter,",
+          "start": 62.91,
+          "end": 63.3
+        },
+        {
+          "word": "but",
+          "start": 63.3,
+          "end": 64.0
+        },
+        {
+          "word": "the",
+          "start": 64.0,
+          "end": 64.12
+        },
+        {
+          "word": "open-router",
+          "start": 64.12,
+          "end": 64.71
+        },
+        {
+          "word": "embedding",
+          "start": 64.71,
+          "end": 65.23
+        },
+        {
+          "word": "option",
+          "start": 65.23,
+          "end": 65.48
+        },
+        {
+          "word": "we're",
+          "start": 65.48,
+          "end": 65.65
+        },
+        {
+          "word": "adding",
+          "start": 65.65,
+          "end": 65.88
+        },
+        {
+          "word": "shows",
+          "start": 65.88,
+          "end": 66.2
+        },
+        {
+          "word": "our",
+          "start": 66.2,
+          "end": 66.36
+        },
+        {
+          "word": "real",
+          "start": 66.36,
+          "end": 66.69
+        },
+        {
+          "word": "focus.",
+          "start": 66.69,
+          "end": 67.24
+        }
+      ]
+    },
+    {
+      "start": 67.24,
+      "end": 71.39,
+      "text": "exchanges matter, but the openrouter embedding option we're adding shows our real focus: making the framework more accessible to developers building on it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Making",
+          "start": 67.24,
+          "end": 67.92
+        },
+        {
+          "word": "the",
+          "start": 67.92,
+          "end": 68.04
+        },
+        {
+          "word": "framework",
+          "start": 68.04,
+          "end": 68.32
+        },
+        {
+          "word": "more",
+          "start": 68.32,
+          "end": 68.96
+        },
+        {
+          "word": "accessible",
+          "start": 68.96,
+          "end": 69.58
+        },
+        {
+          "word": "to",
+          "start": 69.58,
+          "end": 69.69
+        },
+        {
+          "word": "developers",
+          "start": 69.69,
+          "end": 70.3
+        },
+        {
+          "word": "building",
+          "start": 70.3,
+          "end": 70.82
+        },
+        {
+          "word": "on",
+          "start": 70.82,
+          "end": 71.05
+        },
+        {
+          "word": "it.",
+          "start": 71.05,
+          "end": 71.39
+        }
+      ]
+    },
+    {
+      "start": 71.39,
+      "end": 75.8,
+      "text": "Straight talk - y'all fussin' over token swaps when the real flex is that embedding CLI! Gotta make the dev experience smoooooth like butter!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Straight",
+          "start": 71.39,
+          "end": 71.91
+        },
+        {
+          "word": "talk,",
+          "start": 71.91,
+          "end": 72.33
+        },
+        {
+          "word": "y'all",
+          "start": 72.33,
+          "end": 72.71
+        },
+        {
+          "word": "fussing",
+          "start": 72.71,
+          "end": 73.18
+        },
+        {
+          "word": "over",
+          "start": 73.18,
+          "end": 73.34
+        },
+        {
+          "word": "token",
+          "start": 73.34,
+          "end": 73.69
+        },
+        {
+          "word": "swaps",
+          "start": 73.69,
+          "end": 74.05
+        },
+        {
+          "word": "when",
+          "start": 74.05,
+          "end": 74.22
+        },
+        {
+          "word": "the",
+          "start": 74.22,
+          "end": 74.31
+        },
+        {
+          "word": "real",
+          "start": 74.31,
+          "end": 74.56
+        },
+        {
+          "word": "flex",
+          "start": 74.56,
+          "end": 74.92
+        },
+        {
+          "word": "is",
+          "start": 74.92,
+          "end": 75.14
+        },
+        {
+          "word": "that",
+          "start": 75.14,
+          "end": 75.31
+        },
+        {
+          "word": "embedding",
+          "start": 75.31,
+          "end": 75.69
+        },
+        {
+          "word": "CLI.",
+          "start": 75.69,
+          "end": 75.8
+        }
+      ]
+    },
+    {
+      "start": 75.8,
+      "end": 78.49,
+      "text": "Straight talk - y'all fussin' over token swaps when the real flex is that embedding CLI! Gotta make the dev experience smoooooth like butter!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Gotta",
+          "start": 75.8,
+          "end": 76.4
+        },
+        {
+          "word": "make",
+          "start": 76.4,
+          "end": 76.65
+        },
+        {
+          "word": "the",
+          "start": 76.65,
+          "end": 76.77
+        },
+        {
+          "word": "dev",
+          "start": 76.77,
+          "end": 77.01
+        },
+        {
+          "word": "experience",
+          "start": 77.01,
+          "end": 77.46
+        },
+        {
+          "word": "smooth",
+          "start": 77.46,
+          "end": 77.93
+        },
+        {
+          "word": "like",
+          "start": 77.93,
+          "end": 78.11
+        },
+        {
+          "word": "butter.",
+          "start": 78.11,
+          "end": 78.49
+        }
+      ]
+    },
+    {
+      "start": 78.49,
+      "end": 81.65,
+      "text": "Product-market fit trumps exchange listings. Fix the developer experience first. A framework requiring complex setup for hello world is DOA. Developers go where resistance is lowest.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Product",
+          "start": 78.49,
+          "end": 79.16
+        },
+        {
+          "word": "market",
+          "start": 79.16,
+          "end": 79.33
+        },
+        {
+          "word": "fit",
+          "start": 79.33,
+          "end": 79.62
+        },
+        {
+          "word": "trumps",
+          "start": 79.62,
+          "end": 80.08
+        },
+        {
+          "word": "exchange",
+          "start": 80.08,
+          "end": 80.44
+        },
+        {
+          "word": "listings.",
+          "start": 80.44,
+          "end": 80.8
+        },
+        {
+          "word": "Fix",
+          "start": 80.8,
+          "end": 81.1
+        },
+        {
+          "word": "the",
+          "start": 81.1,
+          "end": 81.2
+        },
+        {
+          "word": "developer",
+          "start": 81.2,
+          "end": 81.41
+        },
+        {
+          "word": "experience",
+          "start": 81.41,
+          "end": 81.54
+        },
+        {
+          "word": "first.",
+          "start": 81.54,
+          "end": 81.65
+        }
+      ]
+    },
+    {
+      "start": 81.65,
+      "end": 86.4,
+      "text": "Product-market fit trumps exchange listings. Fix the developer experience first. A framework requiring complex setup for hello world is DOA. Developers go where resistance is lowest.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 81.65,
+          "end": 82.2
+        },
+        {
+          "word": "framework",
+          "start": 82.2,
+          "end": 82.52
+        },
+        {
+          "word": "requiring",
+          "start": 82.52,
+          "end": 82.91
+        },
+        {
+          "word": "complex",
+          "start": 82.91,
+          "end": 83.21
+        },
+        {
+          "word": "setup",
+          "start": 83.21,
+          "end": 83.56
+        },
+        {
+          "word": "for",
+          "start": 83.56,
+          "end": 83.71
+        },
+        {
+          "word": "Hello",
+          "start": 83.71,
+          "end": 83.94
+        },
+        {
+          "word": "World",
+          "start": 83.94,
+          "end": 84.14
+        },
+        {
+          "word": "is",
+          "start": 0.0,
+          "end": 0.0
+        },
+        {
+          "word": "DOA.",
+          "start": 84.22,
+          "end": 84.62
+        },
+        {
+          "word": "Developers",
+          "start": 84.62,
+          "end": 85.34
+        },
+        {
+          "word": "go",
+          "start": 85.34,
+          "end": 85.6
+        },
+        {
+          "word": "where",
+          "start": 85.6,
+          "end": 85.76
+        },
+        {
+          "word": "resistance",
+          "start": 85.76,
+          "end": 86.13
+        },
+        {
+          "word": "is",
+          "start": 86.13,
+          "end": 86.26
+        },
+        {
+          "word": "lowest.",
+          "start": 86.26,
+          "end": 86.4
+        }
+      ]
+    },
+    {
+      "start": 86.4,
+      "end": 93.31,
+      "text": "Fascinating! So the technical upgrades might be more important than the market movements. But what about the users caught in migration limbo?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fascinating,",
+          "start": 86.4,
+          "end": 87.21
+        },
+        {
+          "word": "so",
+          "start": 87.21,
+          "end": 87.5
+        },
+        {
+          "word": "the",
+          "start": 87.5,
+          "end": 87.62
+        },
+        {
+          "word": "technical",
+          "start": 87.62,
+          "end": 87.95
+        },
+        {
+          "word": "upgrades",
+          "start": 87.95,
+          "end": 88.42
+        },
+        {
+          "word": "might",
+          "start": 88.42,
+          "end": 88.58
+        },
+        {
+          "word": "be",
+          "start": 88.58,
+          "end": 88.66
+        },
+        {
+          "word": "more",
+          "start": 88.66,
+          "end": 88.85
+        },
+        {
+          "word": "important",
+          "start": 88.85,
+          "end": 89.15
+        },
+        {
+          "word": "than",
+          "start": 89.15,
+          "end": 89.26
+        },
+        {
+          "word": "the",
+          "start": 89.26,
+          "end": 89.34
+        },
+        {
+          "word": "market",
+          "start": 89.34,
+          "end": 89.58
+        },
+        {
+          "word": "movements.",
+          "start": 89.58,
+          "end": 90.0
+        },
+        {
+          "word": "But",
+          "start": 90.0,
+          "end": 91.6
+        },
+        {
+          "word": "what",
+          "start": 91.6,
+          "end": 91.89
+        },
+        {
+          "word": "about",
+          "start": 91.89,
+          "end": 92.05
+        },
+        {
+          "word": "the",
+          "start": 92.05,
+          "end": 92.12
+        },
+        {
+          "word": "users",
+          "start": 92.12,
+          "end": 92.35
+        },
+        {
+          "word": "caught",
+          "start": 92.35,
+          "end": 92.51
+        },
+        {
+          "word": "in",
+          "start": 92.51,
+          "end": 92.65
+        },
+        {
+          "word": "migration",
+          "start": 92.65,
+          "end": 93.0
+        },
+        {
+          "word": "limbo?",
+          "start": 93.0,
+          "end": 93.31
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-12-05_JedAI-Council_Token-Migration-Mayhem.json",
+    "session_log_source": "2025-12-05_JedAI-Council_Token-Migration-Mayhem_session-log.json",
+    "total_segments": 23,
+    "matched_segments": 23,
+    "dialogues_in_script": 17
+  }
+}

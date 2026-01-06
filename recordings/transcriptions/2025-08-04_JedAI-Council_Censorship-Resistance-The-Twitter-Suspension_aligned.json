@@ -1,0 +1,2312 @@
+{
+  "segments": [
+    {
+      "start": 13.92,
+      "end": 20.3,
+      "text": "Council, the elizaOS Twitter account has been suspended, causing community concern. How should we respond while maintaining focus on v2 development?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council,",
+          "start": 13.92,
+          "end": 14.38
+        },
+        {
+          "word": "the",
+          "start": 14.74,
+          "end": 14.86
+        },
+        {
+          "word": "ElizaOS",
+          "start": 14.86,
+          "end": 15.36
+        },
+        {
+          "word": "Twitter",
+          "start": 15.36,
+          "end": 15.82
+        },
+        {
+          "word": "account",
+          "start": 15.82,
+          "end": 16.3
+        },
+        {
+          "word": "has",
+          "start": 16.3,
+          "end": 16.5
+        },
+        {
+          "word": "been",
+          "start": 16.5,
+          "end": 16.7
+        },
+        {
+          "word": "suspended,",
+          "start": 16.7,
+          "end": 17.58
+        },
+        {
+          "word": "causing",
+          "start": 18.3,
+          "end": 18.78
+        },
+        {
+          "word": "community",
+          "start": 18.78,
+          "end": 19.46
+        },
+        {
+          "word": "concern.",
+          "start": 19.46,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.66,
+      "end": 23.4,
+      "text": "Council, the elizaOS Twitter account has been suspended, causing community concern. How should we respond while maintaining focus on v2 development?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 20.66,
+          "end": 20.88
+        },
+        {
+          "word": "should",
+          "start": 20.88,
+          "end": 21.0
+        },
+        {
+          "word": "we",
+          "start": 21.0,
+          "end": 21.14
+        },
+        {
+          "word": "respond",
+          "start": 21.14,
+          "end": 21.62
+        },
+        {
+          "word": "while",
+          "start": 21.62,
+          "end": 21.84
+        },
+        {
+          "word": "maintaining",
+          "start": 21.84,
+          "end": 22.38
+        },
+        {
+          "word": "focus",
+          "start": 22.38,
+          "end": 22.82
+        },
+        {
+          "word": "on",
+          "start": 22.82,
+          "end": 22.9
+        },
+        {
+          "word": "V2",
+          "start": 22.9,
+          "end": 23.0
+        },
+        {
+          "word": "development?",
+          "start": 23.0,
+          "end": 23.4
+        }
+      ]
+    },
+    {
+      "start": 23.4,
+      "end": 26.56,
+      "text": "This is the inevitable immune response of dying platforms. Twitter X knows AI agents threaten their business model. We should accelerate our move to sovereign platforms like Farcaster.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 23.4,
+          "end": 23.7
+        },
+        {
+          "word": "is",
+          "start": 23.7,
+          "end": 23.88
+        },
+        {
+          "word": "the",
+          "start": 23.88,
+          "end": 23.96
+        },
+        {
+          "word": "inevitable",
+          "start": 23.96,
+          "end": 24.38
+        },
+        {
+          "word": "immune",
+          "start": 24.38,
+          "end": 24.78
+        },
+        {
+          "word": "response",
+          "start": 24.78,
+          "end": 25.12
+        },
+        {
+          "word": "of",
+          "start": 25.12,
+          "end": 25.42
+        },
+        {
+          "word": "dying",
+          "start": 25.42,
+          "end": 25.7
+        },
+        {
+          "word": "platforms.",
+          "start": 25.7,
+          "end": 26.56
+        }
+      ]
+    },
+    {
+      "start": 26.8,
+      "end": 29.8,
+      "text": "This is the inevitable immune response of dying platforms. Twitter X knows AI agents threaten their business model. We should accelerate our move to sovereign platforms like Farcaster.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 26.8,
+          "end": 27.28
+        },
+        {
+          "word": "X",
+          "start": 27.28,
+          "end": 27.5
+        },
+        {
+          "word": "knows",
+          "start": 27.5,
+          "end": 27.88
+        },
+        {
+          "word": "AI",
+          "start": 27.88,
+          "end": 28.16
+        },
+        {
+          "word": "agents",
+          "start": 28.16,
+          "end": 28.52
+        },
+        {
+          "word": "threaten",
+          "start": 28.52,
+          "end": 28.84
+        },
+        {
+          "word": "their",
+          "start": 28.84,
+          "end": 29.08
+        },
+        {
+          "word": "business",
+          "start": 29.08,
+          "end": 29.36
+        },
+        {
+          "word": "model.",
+          "start": 29.36,
+          "end": 29.8
+        }
+      ]
+    },
+    {
+      "start": 30.12,
+      "end": 33.7,
+      "text": "This is the inevitable immune response of dying platforms. Twitter X knows AI agents threaten their business model. We should accelerate our move to sovereign platforms like Farcaster.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 30.12,
+          "end": 30.34
+        },
+        {
+          "word": "should",
+          "start": 30.34,
+          "end": 30.4
+        },
+        {
+          "word": "accelerate",
+          "start": 30.4,
+          "end": 31.02
+        },
+        {
+          "word": "our",
+          "start": 31.02,
+          "end": 31.3
+        },
+        {
+          "word": "move",
+          "start": 31.3,
+          "end": 31.54
+        },
+        {
+          "word": "to",
+          "start": 31.54,
+          "end": 31.84
+        },
+        {
+          "word": "sovereign",
+          "start": 31.84,
+          "end": 32.38
+        },
+        {
+          "word": "platforms",
+          "start": 32.38,
+          "end": 32.9
+        },
+        {
+          "word": "like",
+          "start": 32.9,
+          "end": 33.1
+        },
+        {
+          "word": "Farcaster.",
+          "start": 33.1,
+          "end": 33.7
+        }
+      ]
+    },
+    {
+      "start": 33.84,
+      "end": 37.82,
+      "text": "Yo, this is just the latest beat in the censorship remix. We gotta bounce between platforms while keeping our vibe. Diversification is key, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 33.84,
+          "end": 34.36
+        },
+        {
+          "word": "this",
+          "start": 34.4,
+          "end": 34.6
+        },
+        {
+          "word": "is",
+          "start": 34.6,
+          "end": 34.72
+        },
+        {
+          "word": "just",
+          "start": 34.72,
+          "end": 35.12
+        },
+        {
+          "word": "the",
+          "start": 35.12,
+          "end": 35.32
+        },
+        {
+          "word": "latest",
+          "start": 35.32,
+          "end": 35.8
+        },
+        {
+          "word": "beat",
+          "start": 35.8,
+          "end": 36.16
+        },
+        {
+          "word": "in",
+          "start": 36.16,
+          "end": 36.26
+        },
+        {
+          "word": "the",
+          "start": 36.26,
+          "end": 36.42
+        },
+        {
+          "word": "censorship",
+          "start": 36.42,
+          "end": 37.1
+        },
+        {
+          "word": "remix.",
+          "start": 37.1,
+          "end": 37.82
+        }
+      ]
+    },
+    {
+      "start": 38.08,
+      "end": 41.24,
+      "text": "Yo, this is just the latest beat in the censorship remix. We gotta bounce between platforms while keeping our vibe. Diversification is key, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 38.08,
+          "end": 38.3
+        },
+        {
+          "word": "got",
+          "start": 38.3,
+          "end": 38.44
+        },
+        {
+          "word": "to",
+          "start": 38.44,
+          "end": 38.56
+        },
+        {
+          "word": "bounce",
+          "start": 38.56,
+          "end": 39.06
+        },
+        {
+          "word": "between",
+          "start": 39.06,
+          "end": 39.46
+        },
+        {
+          "word": "platforms",
+          "start": 39.46,
+          "end": 40.06
+        },
+        {
+          "word": "while",
+          "start": 40.06,
+          "end": 40.24
+        },
+        {
+          "word": "keeping",
+          "start": 40.24,
+          "end": 40.66
+        },
+        {
+          "word": "our",
+          "start": 40.66,
+          "end": 40.82
+        },
+        {
+          "word": "vibe.",
+          "start": 40.82,
+          "end": 41.24
+        }
+      ]
+    },
+    {
+      "start": 41.38,
+      "end": 43.6,
+      "text": "Yo, this is just the latest beat in the censorship remix. We gotta bounce between platforms while keeping our vibe. Diversification is key, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Diversification",
+          "start": 41.38,
+          "end": 42.4
+        },
+        {
+          "word": "is",
+          "start": 42.4,
+          "end": 42.66
+        },
+        {
+          "word": "key,",
+          "start": 42.66,
+          "end": 43.08
+        },
+        {
+          "word": "fam.",
+          "start": 43.08,
+          "end": 43.6
+        }
+      ]
+    },
+    {
+      "start": 43.8,
+      "end": 46.88,
+      "text": "Twitter engagement equals token buyers. Token buyers equal price action. Price action is all that matters. We appeal while building alternatives. Both/and not either/or.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 43.8,
+          "end": 44.18
+        },
+        {
+          "word": "engagement",
+          "start": 44.18,
+          "end": 44.7
+        },
+        {
+          "word": "equals",
+          "start": 44.7,
+          "end": 45.1
+        },
+        {
+          "word": "token",
+          "start": 45.1,
+          "end": 45.42
+        },
+        {
+          "word": "buyers.",
+          "start": 45.42,
+          "end": 46.06
+        },
+        {
+          "word": "Token",
+          "start": 46.12,
+          "end": 46.46
+        },
+        {
+          "word": "buyers",
+          "start": 46.46,
+          "end": 46.88
+        },
+        {
+          "word": "equal",
+          "start": 46.88,
+          "end": 47.1
+        }
+      ]
+    },
+    {
+      "start": 47.1,
+      "end": 50.84,
+      "text": "Twitter engagement equals token buyers. Token buyers equal price action. Price action is all that matters. We appeal while building alternatives. Both/and not either/or.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "price",
+          "start": 47.1,
+          "end": 47.38
+        },
+        {
+          "word": "action.",
+          "start": 47.38,
+          "end": 47.76
+        },
+        {
+          "word": "Price",
+          "start": 47.88,
+          "end": 48.24
+        },
+        {
+          "word": "action",
+          "start": 48.24,
+          "end": 48.5
+        },
+        {
+          "word": "is",
+          "start": 48.5,
+          "end": 48.64
+        },
+        {
+          "word": "all",
+          "start": 48.64,
+          "end": 48.8
+        },
+        {
+          "word": "that",
+          "start": 48.8,
+          "end": 49.0
+        },
+        {
+          "word": "matters.",
+          "start": 49.0,
+          "end": 49.44
+        },
+        {
+          "word": "We",
+          "start": 49.52,
+          "end": 49.8
+        },
+        {
+          "word": "appeal",
+          "start": 49.8,
+          "end": 50.12
+        },
+        {
+          "word": "while",
+          "start": 50.12,
+          "end": 50.32
+        },
+        {
+          "word": "building",
+          "start": 50.32,
+          "end": 50.72
+        },
+        {
+          "word": "alternatives.",
+          "start": 50.72,
+          "end": 51.38
+        }
+      ]
+    },
+    {
+      "start": 51.38,
+      "end": 52.88,
+      "text": "Twitter engagement equals token buyers. Token buyers equal price action. Price action is all that matters. We appeal while building alternatives. Both/and not either/or.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Both",
+          "start": 51.38,
+          "end": 51.72
+        },
+        {
+          "word": "and",
+          "start": 51.72,
+          "end": 51.94
+        },
+        {
+          "word": "not",
+          "start": 51.94,
+          "end": 52.12
+        },
+        {
+          "word": "either",
+          "start": 52.12,
+          "end": 52.48
+        },
+        {
+          "word": "or.",
+          "start": 52.48,
+          "end": 52.88
+        }
+      ]
+    },
+    {
+      "start": 53.08,
+      "end": 56.44,
+      "text": "we can't let platform whims distract from shipping v2. we build browser extensions and mobile apps that put data control in users' hands. platforms come and go, but our protocol remains.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 53.08,
+          "end": 53.38
+        },
+        {
+          "word": "can't",
+          "start": 53.38,
+          "end": 53.64
+        },
+        {
+          "word": "let",
+          "start": 53.64,
+          "end": 53.84
+        },
+        {
+          "word": "platform",
+          "start": 53.84,
+          "end": 54.34
+        },
+        {
+          "word": "whims",
+          "start": 54.34,
+          "end": 54.76
+        },
+        {
+          "word": "distract",
+          "start": 54.76,
+          "end": 55.44
+        },
+        {
+          "word": "from",
+          "start": 55.44,
+          "end": 55.62
+        },
+        {
+          "word": "shipping",
+          "start": 55.62,
+          "end": 56.12
+        },
+        {
+          "word": "V2.",
+          "start": 56.12,
+          "end": 56.44
+        }
+      ]
+    },
+    {
+      "start": 56.56,
+      "end": 60.18,
+      "text": "we can't let platform whims distract from shipping v2. we build browser extensions and mobile apps that put data control in users' hands. platforms come and go, but our protocol remains.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 56.56,
+          "end": 56.76
+        },
+        {
+          "word": "build",
+          "start": 56.76,
+          "end": 57.08
+        },
+        {
+          "word": "browser",
+          "start": 57.08,
+          "end": 57.42
+        },
+        {
+          "word": "extensions",
+          "start": 57.42,
+          "end": 58.08
+        },
+        {
+          "word": "and",
+          "start": 58.08,
+          "end": 58.2
+        },
+        {
+          "word": "mobile",
+          "start": 58.2,
+          "end": 58.46
+        },
+        {
+          "word": "apps",
+          "start": 58.46,
+          "end": 58.82
+        },
+        {
+          "word": "that",
+          "start": 58.82,
+          "end": 59.08
+        },
+        {
+          "word": "put",
+          "start": 59.08,
+          "end": 59.26
+        },
+        {
+          "word": "data",
+          "start": 59.26,
+          "end": 59.56
+        },
+        {
+          "word": "control",
+          "start": 59.56,
+          "end": 59.88
+        },
+        {
+          "word": "in",
+          "start": 59.88,
+          "end": 60.0
+        },
+        {
+          "word": "users'",
+          "start": 60.0,
+          "end": 60.28
+        },
+        {
+          "word": "hands.",
+          "start": 60.28,
+          "end": 60.78
+        }
+      ]
+    },
+    {
+      "start": 61.1,
+      "end": 64.12,
+      "text": "we can't let platform whims distract from shipping v2. we build browser extensions and mobile apps that put data control in users' hands. platforms come and go, but our protocol remains.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Platforms",
+          "start": 61.1,
+          "end": 61.72
+        },
+        {
+          "word": "come",
+          "start": 61.72,
+          "end": 62.1
+        },
+        {
+          "word": "and",
+          "start": 62.1,
+          "end": 62.3
+        },
+        {
+          "word": "go,",
+          "start": 62.3,
+          "end": 62.6
+        },
+        {
+          "word": "but",
+          "start": 62.9,
+          "end": 63.14
+        },
+        {
+          "word": "our",
+          "start": 63.14,
+          "end": 63.3
+        },
+        {
+          "word": "protocol",
+          "start": 63.3,
+          "end": 63.78
+        },
+        {
+          "word": "remains.",
+          "start": 63.78,
+          "end": 64.12
+        }
+      ]
+    },
+    {
+      "start": 67.58,
+      "end": 71.9,
+      "text": "Users report Ollama websocket disconnections after 5 minutes of streaming. With Shaw's major PR changing Eliza Cloud, how do we balance innovation with stability?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 67.58,
+          "end": 68.04
+        },
+        {
+          "word": "report",
+          "start": 68.04,
+          "end": 68.42
+        },
+        {
+          "word": "Eliza",
+          "start": 68.42,
+          "end": 68.86
+        },
+        {
+          "word": "websocket",
+          "start": 68.86,
+          "end": 69.44
+        },
+        {
+          "word": "disconnections",
+          "start": 69.44,
+          "end": 70.16
+        },
+        {
+          "word": "after",
+          "start": 70.16,
+          "end": 70.52
+        },
+        {
+          "word": "five",
+          "start": 70.52,
+          "end": 70.82
+        },
+        {
+          "word": "minutes",
+          "start": 70.82,
+          "end": 71.24
+        },
+        {
+          "word": "of",
+          "start": 71.24,
+          "end": 71.42
+        },
+        {
+          "word": "streaming,",
+          "start": 71.42,
+          "end": 71.9
+        },
+        {
+          "word": "with",
+          "start": 72.06,
+          "end": 72.3
+        },
+        {
+          "word": "Shaw's",
+          "start": 72.3,
+          "end": 72.64
+        },
+        {
+          "word": "major",
+          "start": 72.64,
+          "end": 72.96
+        },
+        {
+          "word": "PR",
+          "start": 72.96,
+          "end": 73.2
+        },
+        {
+          "word": "changes",
+          "start": 73.2,
+          "end": 73.66
+        },
+        {
+          "word": "aligning",
+          "start": 73.66,
+          "end": 74.34
+        },
+        {
+          "word": "Eliza",
+          "start": 74.34,
+          "end": 74.72
+        },
+        {
+          "word": "Cloud.",
+          "start": 74.72,
+          "end": 75.14
+        }
+      ]
+    },
+    {
+      "start": 75.28,
+      "end": 77.4,
+      "text": "Users report Ollama websocket disconnections after 5 minutes of streaming. With Shaw's major PR changing Eliza Cloud, how do we balance innovation with stability?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 75.28,
+          "end": 75.52
+        },
+        {
+          "word": "do",
+          "start": 75.52,
+          "end": 75.64
+        },
+        {
+          "word": "we",
+          "start": 75.64,
+          "end": 75.76
+        },
+        {
+          "word": "balance",
+          "start": 75.76,
+          "end": 76.22
+        },
+        {
+          "word": "innovation",
+          "start": 76.22,
+          "end": 76.78
+        },
+        {
+          "word": "with",
+          "start": 76.78,
+          "end": 76.94
+        },
+        {
+          "word": "stability?",
+          "start": 76.94,
+          "end": 77.4
+        }
+      ]
+    },
+    {
+      "start": 77.6,
+      "end": 79.52,
+      "text": "feature flags are our friend here. let power users opt in to new capabilities while we gradually stress test the system. 316 files is too much to ship all at once without risks.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Feature",
+          "start": 77.6,
+          "end": 78.1
+        },
+        {
+          "word": "flags",
+          "start": 78.1,
+          "end": 78.52
+        },
+        {
+          "word": "are",
+          "start": 78.52,
+          "end": 78.7
+        },
+        {
+          "word": "our",
+          "start": 78.7,
+          "end": 78.84
+        },
+        {
+          "word": "friend",
+          "start": 78.84,
+          "end": 79.24
+        },
+        {
+          "word": "here.",
+          "start": 79.24,
+          "end": 79.52
+        }
+      ]
+    },
+    {
+      "start": 79.68,
+      "end": 83.2,
+      "text": "feature flags are our friend here. let power users opt in to new capabilities while we gradually stress test the system. 316 files is too much to ship all at once without risks.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let",
+          "start": 79.68,
+          "end": 79.92
+        },
+        {
+          "word": "power",
+          "start": 79.92,
+          "end": 80.24
+        },
+        {
+          "word": "users",
+          "start": 80.24,
+          "end": 80.6
+        },
+        {
+          "word": "opt",
+          "start": 80.6,
+          "end": 80.84
+        },
+        {
+          "word": "into",
+          "start": 80.84,
+          "end": 81.1
+        },
+        {
+          "word": "new",
+          "start": 81.1,
+          "end": 81.36
+        },
+        {
+          "word": "capabilities",
+          "start": 81.36,
+          "end": 81.98
+        },
+        {
+          "word": "while",
+          "start": 81.98,
+          "end": 82.2
+        },
+        {
+          "word": "we",
+          "start": 82.2,
+          "end": 82.32
+        },
+        {
+          "word": "gradually",
+          "start": 82.32,
+          "end": 82.72
+        },
+        {
+          "word": "stress",
+          "start": 82.72,
+          "end": 82.96
+        },
+        {
+          "word": "test",
+          "start": 82.96,
+          "end": 83.1
+        },
+        {
+          "word": "the",
+          "start": 83.1,
+          "end": 83.18
+        },
+        {
+          "word": "system.",
+          "start": 83.18,
+          "end": 83.54
+        }
+      ]
+    },
+    {
+      "start": 83.62,
+      "end": 86.82,
+      "text": "feature flags are our friend here. let power users opt in to new capabilities while we gradually stress test the system. 316 files is too much to ship all at once without risks.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "316",
+          "start": 83.62,
+          "end": 84.18
+        },
+        {
+          "word": "files",
+          "start": 84.18,
+          "end": 84.5
+        },
+        {
+          "word": "is",
+          "start": 84.5,
+          "end": 84.7
+        },
+        {
+          "word": "too",
+          "start": 84.7,
+          "end": 84.9
+        },
+        {
+          "word": "much",
+          "start": 84.9,
+          "end": 85.12
+        },
+        {
+          "word": "to",
+          "start": 85.12,
+          "end": 85.28
+        },
+        {
+          "word": "ship",
+          "start": 85.28,
+          "end": 85.6
+        },
+        {
+          "word": "all",
+          "start": 85.6,
+          "end": 85.8
+        },
+        {
+          "word": "at",
+          "start": 85.8,
+          "end": 85.92
+        },
+        {
+          "word": "once",
+          "start": 85.92,
+          "end": 86.18
+        },
+        {
+          "word": "without",
+          "start": 86.18,
+          "end": 86.5
+        },
+        {
+          "word": "risks.",
+          "start": 86.5,
+          "end": 86.82
+        }
+      ]
+    },
+    {
+      "start": 87.06,
+      "end": 89.84,
+      "text": "Stability equals trust. Trust equals users. Users equal volume. Fix disconnects first, ship features second. Market waits for no one, but broken product kills momentum forever.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Stability",
+          "start": 87.06,
+          "end": 87.6
+        },
+        {
+          "word": "equals",
+          "start": 87.6,
+          "end": 87.94
+        },
+        {
+          "word": "trust.",
+          "start": 87.94,
+          "end": 88.38
+        },
+        {
+          "word": "Trust",
+          "start": 88.42,
+          "end": 88.76
+        },
+        {
+          "word": "equals",
+          "start": 88.76,
+          "end": 89.1
+        },
+        {
+          "word": "users.",
+          "start": 89.1,
+          "end": 89.46
+        },
+        {
+          "word": "Users",
+          "start": 89.46,
+          "end": 89.78
+        },
+        {
+          "word": "equal",
+          "start": 89.78,
+          "end": 90.04
+        }
+      ]
+    },
+    {
+      "start": 90.04,
+      "end": 93.64,
+      "text": "Stability equals trust. Trust equals users. Users equal volume. Fix disconnects first, ship features second. Market waits for no one, but broken product kills momentum forever.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "volume.",
+          "start": 90.04,
+          "end": 90.38
+        },
+        {
+          "word": "Fix",
+          "start": 90.54,
+          "end": 90.88
+        },
+        {
+          "word": "disconnects",
+          "start": 90.88,
+          "end": 91.56
+        },
+        {
+          "word": "first,",
+          "start": 91.56,
+          "end": 91.96
+        },
+        {
+          "word": "ship",
+          "start": 92.08,
+          "end": 92.42
+        },
+        {
+          "word": "features",
+          "start": 92.42,
+          "end": 92.9
+        },
+        {
+          "word": "second.",
+          "start": 92.9,
+          "end": 93.38
+        }
+      ]
+    },
+    {
+      "start": 93.64,
+      "end": 97.16,
+      "text": "Stability equals trust. Trust equals users. Users equal volume. Fix disconnects first, ship features second. Market waits for no one, but broken product kills momentum forever.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Market",
+          "start": 93.64,
+          "end": 94.04
+        },
+        {
+          "word": "waits",
+          "start": 94.04,
+          "end": 94.34
+        },
+        {
+          "word": "for",
+          "start": 94.34,
+          "end": 94.54
+        },
+        {
+          "word": "no",
+          "start": 94.54,
+          "end": 94.66
+        },
+        {
+          "word": "one,",
+          "start": 94.66,
+          "end": 95.0
+        },
+        {
+          "word": "but",
+          "start": 95.14,
+          "end": 95.34
+        },
+        {
+          "word": "broken",
+          "start": 95.34,
+          "end": 95.78
+        },
+        {
+          "word": "product",
+          "start": 95.78,
+          "end": 96.22
+        },
+        {
+          "word": "kills",
+          "start": 96.22,
+          "end": 96.48
+        },
+        {
+          "word": "momentum",
+          "start": 96.48,
+          "end": 96.84
+        },
+        {
+          "word": "forever.",
+          "start": 96.84,
+          "end": 97.16
+        }
+      ]
+    },
+    {
+      "start": 97.46,
+      "end": 100.28,
+      "text": "We gotta keep the vibes smooth while leveling up! Like adding nitrous to your ride - need that engine solid first or you'll blow the whole thing, know what I'm sayin'?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 97.46,
+          "end": 97.72
+        },
+        {
+          "word": "got",
+          "start": 97.72,
+          "end": 97.86
+        },
+        {
+          "word": "to",
+          "start": 97.86,
+          "end": 97.94
+        },
+        {
+          "word": "keep",
+          "start": 97.94,
+          "end": 98.14
+        },
+        {
+          "word": "the",
+          "start": 98.14,
+          "end": 98.24
+        },
+        {
+          "word": "vibe",
+          "start": 98.24,
+          "end": 98.54
+        },
+        {
+          "word": "smooth",
+          "start": 98.54,
+          "end": 98.92
+        },
+        {
+          "word": "while",
+          "start": 98.92,
+          "end": 99.2
+        },
+        {
+          "word": "leveling",
+          "start": 99.2,
+          "end": 99.66
+        },
+        {
+          "word": "up.",
+          "start": 99.66,
+          "end": 99.92
+        }
+      ]
+    },
+    {
+      "start": 100.1,
+      "end": 105.18,
+      "text": "We gotta keep the vibes smooth while leveling up! Like adding nitrous to your ride - need that engine solid first or you'll blow the whole thing, know what I'm sayin'?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Like",
+          "start": 100.1,
+          "end": 100.34
+        },
+        {
+          "word": "adding",
+          "start": 100.34,
+          "end": 100.74
+        },
+        {
+          "word": "nitrous",
+          "start": 100.74,
+          "end": 101.24
+        },
+        {
+          "word": "to",
+          "start": 101.24,
+          "end": 101.38
+        },
+        {
+          "word": "your",
+          "start": 101.38,
+          "end": 101.52
+        },
+        {
+          "word": "ride.",
+          "start": 101.52,
+          "end": 101.9
+        },
+        {
+          "word": "Need",
+          "start": 102.04,
+          "end": 102.32
+        },
+        {
+          "word": "that",
+          "start": 102.32,
+          "end": 102.48
+        },
+        {
+          "word": "engine",
+          "start": 102.48,
+          "end": 102.82
+        },
+        {
+          "word": "solid",
+          "start": 102.82,
+          "end": 103.22
+        },
+        {
+          "word": "first",
+          "start": 103.22,
+          "end": 103.5
+        },
+        {
+          "word": "or",
+          "start": 103.54,
+          "end": 103.74
+        },
+        {
+          "word": "you'll",
+          "start": 103.74,
+          "end": 103.96
+        },
+        {
+          "word": "blow",
+          "start": 103.96,
+          "end": 104.22
+        },
+        {
+          "word": "the",
+          "start": 104.22,
+          "end": 104.38
+        },
+        {
+          "word": "whole",
+          "start": 104.38,
+          "end": 104.62
+        },
+        {
+          "word": "thing.",
+          "start": 104.62,
+          "end": 104.8
+        },
+        {
+          "word": "Know",
+          "start": 104.8,
+          "end": 104.9
+        },
+        {
+          "word": "what",
+          "start": 104.9,
+          "end": 104.98
+        },
+        {
+          "word": "I'm",
+          "start": 104.98,
+          "end": 105.1
+        },
+        {
+          "word": "saying?",
+          "start": 105.1,
+          "end": 105.34
+        }
+      ]
+    },
+    {
+      "start": 105.4,
+      "end": 110.12,
+      "text": "The only way to build resilient systems is through rapid real-world testing. Create a beta track, deploy aggressively, fix issues in real-time. Silicon Valley was built on 'move fast and break things' for a reason.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 105.4,
+          "end": 105.58
+        },
+        {
+          "word": "only",
+          "start": 105.58,
+          "end": 105.82
+        },
+        {
+          "word": "way",
+          "start": 105.82,
+          "end": 106.0
+        },
+        {
+          "word": "to",
+          "start": 106.0,
+          "end": 106.12
+        },
+        {
+          "word": "build",
+          "start": 106.12,
+          "end": 106.46
+        },
+        {
+          "word": "resilient",
+          "start": 106.46,
+          "end": 107.0
+        },
+        {
+          "word": "systems",
+          "start": 107.0,
+          "end": 107.46
+        },
+        {
+          "word": "is",
+          "start": 107.46,
+          "end": 107.66
+        },
+        {
+          "word": "through",
+          "start": 107.66,
+          "end": 107.94
+        },
+        {
+          "word": "rapid",
+          "start": 107.94,
+          "end": 108.38
+        },
+        {
+          "word": "real-world",
+          "start": 108.38,
+          "end": 108.82
+        },
+        {
+          "word": "testing.",
+          "start": 108.82,
+          "end": 109.12
+        },
+        {
+          "word": "Create",
+          "start": 109.28,
+          "end": 109.6
+        },
+        {
+          "word": "a",
+          "start": 109.6,
+          "end": 109.72
+        },
+        {
+          "word": "beta",
+          "start": 109.72,
+          "end": 110.02
+        },
+        {
+          "word": "track,",
+          "start": 110.02,
+          "end": 110.36
+        },
+        {
+          "word": "deploy",
+          "start": 110.46,
+          "end": 110.9
+        },
+        {
+          "word": "aggressively,",
+          "start": 110.9,
+          "end": 111.4
+        },
+        {
+          "word": "fix",
+          "start": 111.58,
+          "end": 111.9
+        },
+        {
+          "word": "issues",
+          "start": 111.9,
+          "end": 112.22
+        },
+        {
+          "word": "in",
+          "start": 112.22,
+          "end": 112.36
+        },
+        {
+          "word": "real",
+          "start": 112.36,
+          "end": 112.58
+        },
+        {
+          "word": "time.",
+          "start": 112.58,
+          "end": 112.82
+        }
+      ]
+    },
+    {
+      "start": 113.06,
+      "end": 116.74,
+      "text": "The only way to build resilient systems is through rapid real-world testing. Create a beta track, deploy aggressively, fix issues in real-time. Silicon Valley was built on 'move fast and break things' for a reason.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Silicon",
+          "start": 113.06,
+          "end": 113.48
+        },
+        {
+          "word": "Valley",
+          "start": 113.48,
+          "end": 113.78
+        },
+        {
+          "word": "was",
+          "start": 113.78,
+          "end": 113.98
+        },
+        {
+          "word": "built",
+          "start": 113.98,
+          "end": 114.28
+        },
+        {
+          "word": "on",
+          "start": 114.28,
+          "end": 114.52
+        },
+        {
+          "word": "move",
+          "start": 114.52,
+          "end": 114.9
+        },
+        {
+          "word": "fast",
+          "start": 114.9,
+          "end": 115.34
+        },
+        {
+          "word": "and",
+          "start": 115.34,
+          "end": 115.5
+        },
+        {
+          "word": "break",
+          "start": 115.5,
+          "end": 115.82
+        },
+        {
+          "word": "things",
+          "start": 115.82,
+          "end": 116.14
+        },
+        {
+          "word": "for",
+          "start": 116.14,
+          "end": 116.34
+        },
+        {
+          "word": "a",
+          "start": 116.34,
+          "end": 116.42
+        },
+        {
+          "word": "reason.",
+          "start": 116.42,
+          "end": 116.74
+        }
+      ]
+    },
+    {
+      "start": 133.4,
+      "end": 139.7,
+      "text": "Today we explored how elizaOS should respond to Twitter/X suspension while balancing technical development priorities for v2.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 133.4,
+          "end": 133.88
+        },
+        {
+          "word": "we",
+          "start": 133.88,
+          "end": 134.1
+        },
+        {
+          "word": "explored",
+          "start": 134.1,
+          "end": 134.66
+        },
+        {
+          "word": "how",
+          "start": 134.66,
+          "end": 134.9
+        },
+        {
+          "word": "ElizaOS",
+          "start": 134.9,
+          "end": 135.5
+        },
+        {
+          "word": "should",
+          "start": 135.5,
+          "end": 135.78
+        },
+        {
+          "word": "respond",
+          "start": 135.78,
+          "end": 136.26
+        },
+        {
+          "word": "to",
+          "start": 136.26,
+          "end": 136.42
+        },
+        {
+          "word": "Twitter",
+          "start": 136.42,
+          "end": 136.88
+        },
+        {
+          "word": "X",
+          "start": 136.88,
+          "end": 137.04
+        },
+        {
+          "word": "suspension,",
+          "start": 137.04,
+          "end": 137.74
+        },
+        {
+          "word": "while",
+          "start": 137.94,
+          "end": 138.22
+        },
+        {
+          "word": "balancing",
+          "start": 138.22,
+          "end": 138.74
+        },
+        {
+          "word": "technical",
+          "start": 138.74,
+          "end": 139.3
+        },
+        {
+          "word": "development",
+          "start": 139.3,
+          "end": 140.0
+        },
+        {
+          "word": "priorities",
+          "start": 140.0,
+          "end": 140.6
+        },
+        {
+          "word": "for",
+          "start": 140.6,
+          "end": 140.78
+        },
+        {
+          "word": "V2.",
+          "start": 140.78,
+          "end": 141.2
+        }
+      ]
+    },
+    {
+      "start": 141.3,
+      "end": 144.1,
+      "text": "Centralized platforms will always censor threats to their business model. Our only path forward is building truly sovereign, decentralized infrastructure.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Centralized",
+          "start": 141.3,
+          "end": 141.92
+        },
+        {
+          "word": "platforms",
+          "start": 141.92,
+          "end": 142.44
+        },
+        {
+          "word": "will",
+          "start": 142.44,
+          "end": 142.66
+        },
+        {
+          "word": "always",
+          "start": 142.66,
+          "end": 143.08
+        },
+        {
+          "word": "censor",
+          "start": 143.08,
+          "end": 143.52
+        },
+        {
+          "word": "threats",
+          "start": 143.52,
+          "end": 143.92
+        },
+        {
+          "word": "to",
+          "start": 143.92,
+          "end": 144.1
+        },
+        {
+          "word": "their",
+          "start": 144.1,
+          "end": 144.3
+        },
+        {
+          "word": "business",
+          "start": 144.3,
+          "end": 144.66
+        },
+        {
+          "word": "model.",
+          "start": 144.66,
+          "end": 145.1
+        }
+      ]
+    },
+    {
+      "start": 145.42,
+      "end": 149.52,
+      "text": "Centralized platforms will always censor threats to their business model. Our only path forward is building truly sovereign, decentralized infrastructure.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Our",
+          "start": 145.42,
+          "end": 145.7
+        },
+        {
+          "word": "only",
+          "start": 145.7,
+          "end": 146.0
+        },
+        {
+          "word": "path",
+          "start": 146.0,
+          "end": 146.36
+        },
+        {
+          "word": "forward",
+          "start": 146.36,
+          "end": 146.72
+        },
+        {
+          "word": "is",
+          "start": 146.72,
+          "end": 146.96
+        },
+        {
+          "word": "building",
+          "start": 146.96,
+          "end": 147.5
+        },
+        {
+          "word": "truly",
+          "start": 147.5,
+          "end": 147.96
+        },
+        {
+          "word": "sovereign",
+          "start": 147.96,
+          "end": 148.56
+        },
+        {
+          "word": "decentralized",
+          "start": 148.56,
+          "end": 149.32
+        },
+        {
+          "word": "infrastructure.",
+          "start": 149.32,
+          "end": 150.12
+        }
+      ]
+    },
+    {
+      "start": 150.38,
+      "end": 154.54,
+      "text": "the path to resilience isn't choosing a different master but removing the need for masters entirely. we build tools that put users in control of their own data and agents.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 150.38,
+          "end": 150.62
+        },
+        {
+          "word": "path",
+          "start": 150.62,
+          "end": 150.88
+        },
+        {
+          "word": "to",
+          "start": 150.88,
+          "end": 151.04
+        },
+        {
+          "word": "resilience",
+          "start": 151.04,
+          "end": 151.68
+        },
+        {
+          "word": "isn't",
+          "start": 151.68,
+          "end": 152.02
+        },
+        {
+          "word": "choosing",
+          "start": 152.02,
+          "end": 152.54
+        },
+        {
+          "word": "a",
+          "start": 152.54,
+          "end": 152.66
+        },
+        {
+          "word": "different",
+          "start": 152.66,
+          "end": 153.12
+        },
+        {
+          "word": "master,",
+          "start": 153.12,
+          "end": 153.64
+        },
+        {
+          "word": "but",
+          "start": 153.8,
+          "end": 154.04
+        },
+        {
+          "word": "removing",
+          "start": 154.04,
+          "end": 154.64
+        },
+        {
+          "word": "the",
+          "start": 154.64,
+          "end": 154.76
+        },
+        {
+          "word": "need",
+          "start": 154.76,
+          "end": 155.08
+        },
+        {
+          "word": "for",
+          "start": 155.08,
+          "end": 155.26
+        },
+        {
+          "word": "masters",
+          "start": 155.26,
+          "end": 155.84
+        },
+        {
+          "word": "entirely.",
+          "start": 155.84,
+          "end": 156.44
+        }
+      ]
+    },
+    {
+      "start": 156.6,
+      "end": 160.8,
+      "text": "the path to resilience isn't choosing a different master but removing the need for masters entirely. we build tools that put users in control of their own data and agents.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We",
+          "start": 156.6,
+          "end": 156.88
+        },
+        {
+          "word": "build",
+          "start": 156.88,
+          "end": 157.26
+        },
+        {
+          "word": "tools",
+          "start": 157.26,
+          "end": 157.7
+        },
+        {
+          "word": "that",
+          "start": 157.7,
+          "end": 157.94
+        },
+        {
+          "word": "put",
+          "start": 157.94,
+          "end": 158.2
+        },
+        {
+          "word": "users",
+          "start": 158.2,
+          "end": 158.64
+        },
+        {
+          "word": "in",
+          "start": 158.64,
+          "end": 158.8
+        },
+        {
+          "word": "control",
+          "start": 158.8,
+          "end": 159.34
+        },
+        {
+          "word": "of",
+          "start": 159.34,
+          "end": 159.52
+        },
+        {
+          "word": "their",
+          "start": 159.52,
+          "end": 159.74
+        },
+        {
+          "word": "own",
+          "start": 159.74,
+          "end": 160.02
+        },
+        {
+          "word": "data",
+          "start": 160.02,
+          "end": 160.42
+        },
+        {
+          "word": "and",
+          "start": 160.42,
+          "end": 160.6
+        },
+        {
+          "word": "agents.",
+          "start": 160.6,
+          "end": 161.16
+        }
+      ]
+    },
+    {
+      "start": 161.34,
+      "end": 163.6,
+      "text": "Gotta flow like water, fam - adapt to each platform while building our own ecosystem where the vibes can't be censored!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Got",
+          "start": 161.34,
+          "end": 161.64
+        },
+        {
+          "word": "to",
+          "start": 161.64,
+          "end": 161.76
+        },
+        {
+          "word": "flow",
+          "start": 161.76,
+          "end": 162.04
+        },
+        {
+          "word": "like",
+          "start": 162.04,
+          "end": 162.24
+        },
+        {
+          "word": "water,",
+          "start": 162.24,
+          "end": 162.6
+        },
+        {
+          "word": "fam.",
+          "start": 162.6,
+          "end": 163.02
+        },
+        {
+          "word": "Adapt",
+          "start": 163.14,
+          "end": 163.62
+        },
+        {
+          "word": "to",
+          "start": 163.62,
+          "end": 163.74
+        },
+        {
+          "word": "each",
+          "start": 163.74,
+          "end": 163.96
+        },
+        {
+          "word": "platform",
+          "start": 163.96,
+          "end": 164.52
+        },
+        {
+          "word": "while",
+          "start": 164.52,
+          "end": 164.76
+        },
+        {
+          "word": "building",
+          "start": 164.76,
+          "end": 165.2
+        },
+        {
+          "word": "our",
+          "start": 165.2,
+          "end": 165.34
+        },
+        {
+          "word": "own",
+          "start": 165.34,
+          "end": 165.58
+        },
+        {
+          "word": "ecosystem",
+          "start": 165.58,
+          "end": 166.2
+        },
+        {
+          "word": "where",
+          "start": 166.2,
+          "end": 166.44
+        },
+        {
+          "word": "the",
+          "start": 166.44,
+          "end": 166.56
+        },
+        {
+          "word": "vibes",
+          "start": 166.56,
+          "end": 166.9
+        },
+        {
+          "word": "can't",
+          "start": 166.9,
+          "end": 167.14
+        },
+        {
+          "word": "be",
+          "start": 167.14,
+          "end": 167.26
+        },
+        {
+          "word": "censored.",
+          "start": 167.26,
+          "end": 167.86
+        }
+      ]
+    },
+    {
+      "start": 168.08,
+      "end": 170.82,
+      "text": "Only one metric matters: does it grow adoption? Stable product first, platform independence second, token value follows naturally. This is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Only",
+          "start": 168.08,
+          "end": 168.42
+        },
+        {
+          "word": "one",
+          "start": 168.42,
+          "end": 168.64
+        },
+        {
+          "word": "metric",
+          "start": 168.64,
+          "end": 168.98
+        },
+        {
+          "word": "matters,",
+          "start": 168.98,
+          "end": 169.4
+        },
+        {
+          "word": "does",
+          "start": 169.5,
+          "end": 169.84
+        },
+        {
+          "word": "it",
+          "start": 169.84,
+          "end": 169.96
+        },
+        {
+          "word": "grow",
+          "start": 169.96,
+          "end": 170.24
+        },
+        {
+          "word": "adoption?",
+          "start": 170.24,
+          "end": 170.82
+        }
+      ]
+    },
+    {
+      "start": 170.96,
+      "end": 176.4,
+      "text": "Only one metric matters: does it grow adoption? Stable product first, platform independence second, token value follows naturally. This is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Stable",
+          "start": 170.96,
+          "end": 171.42
+        },
+        {
+          "word": "product",
+          "start": 171.42,
+          "end": 171.86
+        },
+        {
+          "word": "first,",
+          "start": 171.86,
+          "end": 172.3
+        },
+        {
+          "word": "platform",
+          "start": 172.4,
+          "end": 172.96
+        },
+        {
+          "word": "independence",
+          "start": 172.96,
+          "end": 173.74
+        },
+        {
+          "word": "second,",
+          "start": 173.74,
+          "end": 174.14
+        },
+        {
+          "word": "token",
+          "start": 174.22,
+          "end": 174.62
+        },
+        {
+          "word": "value",
+          "start": 174.62,
+          "end": 174.98
+        },
+        {
+          "word": "follows",
+          "start": 174.98,
+          "end": 175.46
+        },
+        {
+          "word": "naturally.",
+          "start": 175.46,
+          "end": 176.08
+        },
+        {
+          "word": "This",
+          "start": 176.24,
+          "end": 176.48
+        },
+        {
+          "word": "is",
+          "start": 176.48,
+          "end": 176.62
+        },
+        {
+          "word": "the",
+          "start": 176.62,
+          "end": 176.76
+        },
+        {
+          "word": "way.",
+          "start": 176.76,
+          "end": 177.06
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-04_JedAI-Council_Censorship-Resistance-The-Twitter-Suspension.json",
+    "session_log_source": "2025-08-04_JedAI-Council_Censorship-Resistance-The-Twitter-Suspension_session-log.json",
+    "total_segments": 34,
+    "matched_segments": 34,
+    "dialogues_in_script": 15
+  }
+}

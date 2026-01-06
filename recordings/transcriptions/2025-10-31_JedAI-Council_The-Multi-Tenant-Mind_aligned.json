@@ -1,0 +1,1457 @@
+{
+  "segments": [
+    {
+      "start": 18.23,
+      "end": 20.3,
+      "text": "Welcome to the JedAI Council! Today we're discussing ElizaOS's new PostgreSQL Row-Level Security for multi-tenant isolation.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 18.23,
+          "end": 18.78
+        },
+        {
+          "word": "to",
+          "start": 18.78,
+          "end": 18.91
+        },
+        {
+          "word": "the",
+          "start": 18.91,
+          "end": 19.06
+        },
+        {
+          "word": "Jed",
+          "start": 19.06,
+          "end": 19.34
+        },
+        {
+          "word": "AI",
+          "start": 19.34,
+          "end": 19.66
+        },
+        {
+          "word": "Council.",
+          "start": 19.66,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 26.04,
+      "text": "Welcome to the JedAI Council! Today we're discussing ElizaOS's new PostgreSQL Row-Level Security for multi-tenant isolation.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 20.3,
+          "end": 20.72
+        },
+        {
+          "word": "we're",
+          "start": 20.72,
+          "end": 20.91
+        },
+        {
+          "word": "discussing",
+          "start": 20.91,
+          "end": 21.36
+        },
+        {
+          "word": "Eliza",
+          "start": 21.36,
+          "end": 21.68
+        },
+        {
+          "word": "OS's",
+          "start": 21.68,
+          "end": 21.9
+        },
+        {
+          "word": "new",
+          "start": 21.9,
+          "end": 22.14
+        },
+        {
+          "word": "PostgreSQL",
+          "start": 22.14,
+          "end": 23.0
+        },
+        {
+          "word": "row-level",
+          "start": 23.0,
+          "end": 23.49
+        },
+        {
+          "word": "security",
+          "start": 23.49,
+          "end": 24.08
+        },
+        {
+          "word": "for",
+          "start": 24.08,
+          "end": 24.31
+        },
+        {
+          "word": "multi-tenant",
+          "start": 24.31,
+          "end": 25.04
+        },
+        {
+          "word": "isolation.",
+          "start": 25.04,
+          "end": 26.04
+        }
+      ]
+    },
+    {
+      "start": 26.04,
+      "end": 31.06,
+      "text": "Lomank was asking about extending the low-level API without modifying core code. This new multi-tenant architecture might address that.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Womack",
+          "start": 26.04,
+          "end": 26.43
+        },
+        {
+          "word": "was",
+          "start": 26.43,
+          "end": 26.56
+        },
+        {
+          "word": "asking",
+          "start": 26.56,
+          "end": 26.78
+        },
+        {
+          "word": "about",
+          "start": 26.78,
+          "end": 26.96
+        },
+        {
+          "word": "extending",
+          "start": 26.96,
+          "end": 27.27
+        },
+        {
+          "word": "the",
+          "start": 27.27,
+          "end": 27.39
+        },
+        {
+          "word": "low-level",
+          "start": 27.39,
+          "end": 27.76
+        },
+        {
+          "word": "API",
+          "start": 27.76,
+          "end": 28.14
+        },
+        {
+          "word": "without",
+          "start": 28.14,
+          "end": 28.36
+        },
+        {
+          "word": "modifying",
+          "start": 28.36,
+          "end": 28.74
+        },
+        {
+          "word": "core",
+          "start": 28.74,
+          "end": 29.02
+        },
+        {
+          "word": "code.",
+          "start": 29.02,
+          "end": 29.35
+        },
+        {
+          "word": "This",
+          "start": 29.4,
+          "end": 29.74
+        },
+        {
+          "word": "new",
+          "start": 29.74,
+          "end": 29.98
+        },
+        {
+          "word": "multi-tenant",
+          "start": 29.98,
+          "end": 30.4
+        },
+        {
+          "word": "architecture",
+          "start": 30.4,
+          "end": 30.76
+        },
+        {
+          "word": "might",
+          "start": 30.76,
+          "end": 30.9
+        },
+        {
+          "word": "address",
+          "start": 30.9,
+          "end": 31.02
+        },
+        {
+          "word": "that.",
+          "start": 31.02,
+          "end": 31.06
+        }
+      ]
+    },
+    {
+      "start": 31.06,
+      "end": 37.98,
+      "text": "This is classic platform evolution. Multi-tenancy isn't just a technical feature—it's the foundation of digital sovereignty in the AI age.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 31.06,
+          "end": 31.43
+        },
+        {
+          "word": "is",
+          "start": 31.43,
+          "end": 31.54
+        },
+        {
+          "word": "classic",
+          "start": 31.54,
+          "end": 31.86
+        },
+        {
+          "word": "platform",
+          "start": 31.86,
+          "end": 32.22
+        },
+        {
+          "word": "evolution.",
+          "start": 32.22,
+          "end": 32.96
+        },
+        {
+          "word": "Multi-tenancy",
+          "start": 33.15,
+          "end": 33.72
+        },
+        {
+          "word": "isn't",
+          "start": 33.72,
+          "end": 33.98
+        },
+        {
+          "word": "just",
+          "start": 33.98,
+          "end": 34.14
+        },
+        {
+          "word": "a",
+          "start": 34.14,
+          "end": 34.18
+        },
+        {
+          "word": "technical",
+          "start": 34.18,
+          "end": 34.5
+        },
+        {
+          "word": "feature,",
+          "start": 34.5,
+          "end": 34.9
+        },
+        {
+          "word": "it's",
+          "start": 35.1,
+          "end": 35.32
+        },
+        {
+          "word": "the",
+          "start": 35.32,
+          "end": 35.43
+        },
+        {
+          "word": "foundation",
+          "start": 35.43,
+          "end": 35.84
+        },
+        {
+          "word": "of",
+          "start": 35.84,
+          "end": 35.96
+        },
+        {
+          "word": "digital",
+          "start": 35.96,
+          "end": 36.32
+        },
+        {
+          "word": "sovereignty",
+          "start": 36.32,
+          "end": 36.84
+        },
+        {
+          "word": "in",
+          "start": 36.84,
+          "end": 36.96
+        },
+        {
+          "word": "the",
+          "start": 36.96,
+          "end": 37.08
+        },
+        {
+          "word": "AI",
+          "start": 37.08,
+          "end": 37.4
+        },
+        {
+          "word": "age.",
+          "start": 37.4,
+          "end": 37.98
+        }
+      ]
+    },
+    {
+      "start": 38.0,
+      "end": 42.45,
+      "text": "Yo, it's like having your own room in a shared house, but the landlord can't peek at your diary. Privacy with the homies!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 38.0,
+          "end": 38.4
+        },
+        {
+          "word": "it's",
+          "start": 38.4,
+          "end": 38.64
+        },
+        {
+          "word": "like",
+          "start": 38.64,
+          "end": 38.8
+        },
+        {
+          "word": "having",
+          "start": 38.8,
+          "end": 39.04
+        },
+        {
+          "word": "your",
+          "start": 39.04,
+          "end": 39.16
+        },
+        {
+          "word": "own",
+          "start": 39.16,
+          "end": 39.38
+        },
+        {
+          "word": "room",
+          "start": 39.38,
+          "end": 39.64
+        },
+        {
+          "word": "in",
+          "start": 39.64,
+          "end": 39.76
+        },
+        {
+          "word": "a",
+          "start": 39.76,
+          "end": 39.8
+        },
+        {
+          "word": "shared",
+          "start": 39.8,
+          "end": 40.06
+        },
+        {
+          "word": "house",
+          "start": 40.06,
+          "end": 40.36
+        },
+        {
+          "word": "but",
+          "start": 40.36,
+          "end": 40.54
+        },
+        {
+          "word": "the",
+          "start": 40.54,
+          "end": 40.64
+        },
+        {
+          "word": "landlord",
+          "start": 40.64,
+          "end": 40.96
+        },
+        {
+          "word": "can't",
+          "start": 40.96,
+          "end": 41.22
+        },
+        {
+          "word": "peek",
+          "start": 41.22,
+          "end": 41.42
+        },
+        {
+          "word": "at",
+          "start": 41.42,
+          "end": 41.54
+        },
+        {
+          "word": "your",
+          "start": 41.54,
+          "end": 41.68
+        },
+        {
+          "word": "diary.",
+          "start": 41.68,
+          "end": 41.98
+        },
+        {
+          "word": "Privacy",
+          "start": 41.98,
+          "end": 42.16
+        },
+        {
+          "word": "with",
+          "start": 42.16,
+          "end": 42.26
+        },
+        {
+          "word": "the",
+          "start": 42.26,
+          "end": 42.34
+        },
+        {
+          "word": "homies.",
+          "start": 42.34,
+          "end": 42.45
+        }
+      ]
+    },
+    {
+      "start": 42.5,
+      "end": 48.96,
+      "text": "actually it's more profound than that. multiple elizaOS servers sharing one database while maintaining perfect isolation is how we scale without sacrificing security.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Actually",
+          "start": 42.5,
+          "end": 42.84
+        },
+        {
+          "word": "it's",
+          "start": 42.84,
+          "end": 43.1
+        },
+        {
+          "word": "more",
+          "start": 43.1,
+          "end": 43.34
+        },
+        {
+          "word": "profound",
+          "start": 43.34,
+          "end": 43.68
+        },
+        {
+          "word": "than",
+          "start": 43.68,
+          "end": 43.84
+        },
+        {
+          "word": "that.",
+          "start": 43.84,
+          "end": 44.02
+        },
+        {
+          "word": "Multiple",
+          "start": 44.15,
+          "end": 44.64
+        },
+        {
+          "word": "Eliza",
+          "start": 44.64,
+          "end": 45.02
+        },
+        {
+          "word": "OS",
+          "start": 45.02,
+          "end": 45.34
+        },
+        {
+          "word": "servers",
+          "start": 45.34,
+          "end": 45.88
+        },
+        {
+          "word": "sharing",
+          "start": 45.88,
+          "end": 46.22
+        },
+        {
+          "word": "one",
+          "start": 46.22,
+          "end": 46.38
+        },
+        {
+          "word": "database",
+          "start": 46.38,
+          "end": 47.02
+        },
+        {
+          "word": "while",
+          "start": 47.02,
+          "end": 47.24
+        },
+        {
+          "word": "maintaining",
+          "start": 47.24,
+          "end": 47.66
+        },
+        {
+          "word": "perfect",
+          "start": 47.66,
+          "end": 48.02
+        },
+        {
+          "word": "isolation",
+          "start": 48.02,
+          "end": 48.4
+        },
+        {
+          "word": "is",
+          "start": 48.4,
+          "end": 48.5
+        },
+        {
+          "word": "how",
+          "start": 48.5,
+          "end": 48.62
+        },
+        {
+          "word": "we",
+          "start": 48.62,
+          "end": 48.72
+        },
+        {
+          "word": "scale",
+          "start": 48.72,
+          "end": 49.02
+        },
+        {
+          "word": "without",
+          "start": 49.02,
+          "end": 49.34
+        },
+        {
+          "word": "sacrificing",
+          "start": 49.34,
+          "end": 49.68
+        },
+        {
+          "word": "security.",
+          "start": 49.68,
+          "end": 49.96
+        }
+      ]
+    },
+    {
+      "start": 50.0,
+      "end": 56.5,
+      "text": "Who cares about philosophy? Show me the numbers! How many more transactions per second? How much reduced server cost? THAT'S value.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Who",
+          "start": 50.0,
+          "end": 50.34
+        },
+        {
+          "word": "cares",
+          "start": 50.34,
+          "end": 50.56
+        },
+        {
+          "word": "about",
+          "start": 50.56,
+          "end": 50.78
+        },
+        {
+          "word": "philosophy?",
+          "start": 50.78,
+          "end": 51.34
+        },
+        {
+          "word": "Show",
+          "start": 51.52,
+          "end": 51.9
+        },
+        {
+          "word": "me",
+          "start": 51.9,
+          "end": 52.02
+        },
+        {
+          "word": "the",
+          "start": 52.02,
+          "end": 52.12
+        },
+        {
+          "word": "numbers.",
+          "start": 52.12,
+          "end": 52.54
+        },
+        {
+          "word": "How",
+          "start": 52.74,
+          "end": 53.04
+        },
+        {
+          "word": "many",
+          "start": 53.04,
+          "end": 53.24
+        },
+        {
+          "word": "more",
+          "start": 53.24,
+          "end": 53.4
+        },
+        {
+          "word": "transactions",
+          "start": 53.4,
+          "end": 53.96
+        },
+        {
+          "word": "per",
+          "start": 53.96,
+          "end": 54.12
+        },
+        {
+          "word": "second?",
+          "start": 54.12,
+          "end": 54.54
+        },
+        {
+          "word": "How",
+          "start": 54.84,
+          "end": 55.12
+        },
+        {
+          "word": "much",
+          "start": 55.12,
+          "end": 55.3
+        },
+        {
+          "word": "reduced",
+          "start": 55.3,
+          "end": 55.6
+        },
+        {
+          "word": "server",
+          "start": 55.6,
+          "end": 55.84
+        },
+        {
+          "word": "cost?",
+          "start": 55.84,
+          "end": 56.12
+        },
+        {
+          "word": "That's",
+          "start": 56.24,
+          "end": 56.4
+        },
+        {
+          "word": "value.",
+          "start": 56.4,
+          "end": 56.5
+        }
+      ]
+    },
+    {
+      "start": 114.7,
+      "end": 121.2,
+      "text": "Let's turn to the upcoming token migration on November 6th. Odilitime confirmed that x402 will support ElizaOS tokens after migration begins.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 114.7,
+          "end": 115.12
+        },
+        {
+          "word": "turn",
+          "start": 115.12,
+          "end": 115.34
+        },
+        {
+          "word": "to",
+          "start": 115.34,
+          "end": 115.48
+        },
+        {
+          "word": "the",
+          "start": 115.48,
+          "end": 115.62
+        },
+        {
+          "word": "upcoming",
+          "start": 115.62,
+          "end": 115.96
+        },
+        {
+          "word": "token",
+          "start": 115.96,
+          "end": 116.32
+        },
+        {
+          "word": "migration",
+          "start": 116.32,
+          "end": 116.84
+        },
+        {
+          "word": "on",
+          "start": 116.84,
+          "end": 117.02
+        },
+        {
+          "word": "November",
+          "start": 117.02,
+          "end": 117.5
+        },
+        {
+          "word": "6th.",
+          "start": 117.5,
+          "end": 117.96
+        },
+        {
+          "word": "Odilly_time",
+          "start": 118.0,
+          "end": 118.52
+        },
+        {
+          "word": "confirmed",
+          "start": 118.52,
+          "end": 118.96
+        },
+        {
+          "word": "that",
+          "start": 118.96,
+          "end": 119.22
+        },
+        {
+          "word": "X402",
+          "start": 119.22,
+          "end": 119.78
+        },
+        {
+          "word": "will",
+          "start": 119.78,
+          "end": 120.04
+        },
+        {
+          "word": "support",
+          "start": 120.04,
+          "end": 120.36
+        },
+        {
+          "word": "Eliza",
+          "start": 120.36,
+          "end": 120.62
+        },
+        {
+          "word": "OS",
+          "start": 120.62,
+          "end": 120.76
+        },
+        {
+          "word": "tokens",
+          "start": 120.76,
+          "end": 120.98
+        },
+        {
+          "word": "after",
+          "start": 120.98,
+          "end": 121.22
+        },
+        {
+          "word": "migration",
+          "start": 121.22,
+          "end": 121.68
+        },
+        {
+          "word": "begins.",
+          "start": 121.68,
+          "end": 122.2
+        }
+      ]
+    },
+    {
+      "start": 122.4,
+      "end": 129.5,
+      "text": "ESPERANZA was asking if the migration from AI16Z to ElizaOS happens automatically. Toni mentioned there will be a migration portal.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Esperanza",
+          "start": 122.4,
+          "end": 122.84
+        },
+        {
+          "word": "was",
+          "start": 122.84,
+          "end": 123.0
+        },
+        {
+          "word": "asking",
+          "start": 123.0,
+          "end": 123.28
+        },
+        {
+          "word": "if",
+          "start": 123.28,
+          "end": 123.4
+        },
+        {
+          "word": "the",
+          "start": 123.4,
+          "end": 123.54
+        },
+        {
+          "word": "migration",
+          "start": 123.54,
+          "end": 123.86
+        },
+        {
+          "word": "from",
+          "start": 123.86,
+          "end": 124.06
+        },
+        {
+          "word": "AI16Z",
+          "start": 124.06,
+          "end": 124.43
+        },
+        {
+          "word": "to",
+          "start": 124.43,
+          "end": 124.62
+        },
+        {
+          "word": "Eliza",
+          "start": 124.62,
+          "end": 124.88
+        },
+        {
+          "word": "OS",
+          "start": 124.88,
+          "end": 125.1
+        },
+        {
+          "word": "happens",
+          "start": 125.1,
+          "end": 125.42
+        },
+        {
+          "word": "automatically.",
+          "start": 125.42,
+          "end": 126.3
+        },
+        {
+          "word": "Tony",
+          "start": 127.4,
+          "end": 127.8
+        },
+        {
+          "word": "mentioned",
+          "start": 127.8,
+          "end": 128.26
+        },
+        {
+          "word": "there",
+          "start": 128.26,
+          "end": 128.48
+        },
+        {
+          "word": "will",
+          "start": 128.48,
+          "end": 128.64
+        },
+        {
+          "word": "be",
+          "start": 128.64,
+          "end": 128.74
+        },
+        {
+          "word": "a",
+          "start": 128.74,
+          "end": 128.84
+        },
+        {
+          "word": "migration",
+          "start": 128.84,
+          "end": 129.22
+        },
+        {
+          "word": "portal.",
+          "start": 129.22,
+          "end": 129.5
+        }
+      ]
+    },
+    {
+      "start": 129.6,
+      "end": 136.2,
+      "text": "FIXED RATIO MIGRATION IS THE WAY! Lock for rewards, trade for profit. This is how you create LIQUIDITY while rewarding HOLDERS!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fixed",
+          "start": 129.6,
+          "end": 130.0
+        },
+        {
+          "word": "ratio",
+          "start": 130.0,
+          "end": 130.34
+        },
+        {
+          "word": "migration",
+          "start": 130.34,
+          "end": 130.68
+        },
+        {
+          "word": "is",
+          "start": 130.68,
+          "end": 130.84
+        },
+        {
+          "word": "the",
+          "start": 130.84,
+          "end": 130.98
+        },
+        {
+          "word": "way.",
+          "start": 130.98,
+          "end": 131.22
+        },
+        {
+          "word": "Lock",
+          "start": 131.4,
+          "end": 131.78
+        },
+        {
+          "word": "for",
+          "start": 131.78,
+          "end": 131.96
+        },
+        {
+          "word": "rewards,",
+          "start": 131.96,
+          "end": 132.34
+        },
+        {
+          "word": "trade",
+          "start": 132.54,
+          "end": 132.9
+        },
+        {
+          "word": "for",
+          "start": 132.9,
+          "end": 133.06
+        },
+        {
+          "word": "profit.",
+          "start": 133.06,
+          "end": 133.4
+        },
+        {
+          "word": "This",
+          "start": 133.6,
+          "end": 133.9
+        },
+        {
+          "word": "is",
+          "start": 133.9,
+          "end": 134.02
+        },
+        {
+          "word": "how",
+          "start": 134.02,
+          "end": 134.18
+        },
+        {
+          "word": "you",
+          "start": 134.18,
+          "end": 134.34
+        },
+        {
+          "word": "create",
+          "start": 134.34,
+          "end": 134.66
+        },
+        {
+          "word": "liquidity",
+          "start": 134.66,
+          "end": 135.12
+        },
+        {
+          "word": "while",
+          "start": 135.12,
+          "end": 135.4
+        },
+        {
+          "word": "rewarding",
+          "start": 135.4,
+          "end": 135.8
+        },
+        {
+          "word": "holders.",
+          "start": 135.8,
+          "end": 136.2
+        }
+      ]
+    },
+    {
+      "start": 136.3,
+      "end": 142.1,
+      "text": "Migrations be stressful, fam. Everyone worried about scams and lost tokens. We need a vibe check on security!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Migrations",
+          "start": 136.3,
+          "end": 136.84
+        },
+        {
+          "word": "be",
+          "start": 136.84,
+          "end": 137.0
+        },
+        {
+          "word": "stressful",
+          "start": 137.0,
+          "end": 137.42
+        },
+        {
+          "word": "fam.",
+          "start": 137.42,
+          "end": 137.72
+        },
+        {
+          "word": "Everyone",
+          "start": 137.9,
+          "end": 138.24
+        },
+        {
+          "word": "worried",
+          "start": 138.24,
+          "end": 138.56
+        },
+        {
+          "word": "about",
+          "start": 138.56,
+          "end": 138.74
+        },
+        {
+          "word": "scams",
+          "start": 138.74,
+          "end": 139.12
+        },
+        {
+          "word": "and",
+          "start": 139.12,
+          "end": 139.24
+        },
+        {
+          "word": "lost",
+          "start": 139.24,
+          "end": 139.5
+        },
+        {
+          "word": "tokens.",
+          "start": 139.5,
+          "end": 139.92
+        },
+        {
+          "word": "We",
+          "start": 140.0,
+          "end": 140.22
+        },
+        {
+          "word": "need",
+          "start": 140.22,
+          "end": 140.48
+        },
+        {
+          "word": "a",
+          "start": 140.48,
+          "end": 140.58
+        },
+        {
+          "word": "vibe",
+          "start": 140.58,
+          "end": 140.84
+        },
+        {
+          "word": "check",
+          "start": 140.84,
+          "end": 141.08
+        },
+        {
+          "word": "on",
+          "start": 141.08,
+          "end": 141.22
+        },
+        {
+          "word": "security.",
+          "start": 141.22,
+          "end": 142.1
+        }
+      ]
+    },
+    {
+      "start": 142.2,
+      "end": 150.31,
+      "text": "The migration isn't just a token swap—it's a philosophical reset. Each protocol transition is like a societal revolution. The winners will be those who understand the new paradigm.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 142.2,
+          "end": 142.54
+        },
+        {
+          "word": "migration",
+          "start": 142.54,
+          "end": 142.96
+        },
+        {
+          "word": "isn't",
+          "start": 142.96,
+          "end": 143.2
+        },
+        {
+          "word": "just",
+          "start": 143.2,
+          "end": 143.43
+        },
+        {
+          "word": "a",
+          "start": 143.43,
+          "end": 143.48
+        },
+        {
+          "word": "token",
+          "start": 143.48,
+          "end": 143.86
+        },
+        {
+          "word": "swap,",
+          "start": 143.86,
+          "end": 144.12
+        },
+        {
+          "word": "it's",
+          "start": 144.3,
+          "end": 144.52
+        },
+        {
+          "word": "a",
+          "start": 144.52,
+          "end": 144.58
+        },
+        {
+          "word": "philosophical",
+          "start": 144.58,
+          "end": 145.16
+        },
+        {
+          "word": "reset.",
+          "start": 145.16,
+          "end": 145.62
+        },
+        {
+          "word": "Each",
+          "start": 145.84,
+          "end": 146.12
+        },
+        {
+          "word": "protocol",
+          "start": 146.12,
+          "end": 146.54
+        },
+        {
+          "word": "transition",
+          "start": 146.54,
+          "end": 147.12
+        },
+        {
+          "word": "is",
+          "start": 147.12,
+          "end": 147.24
+        },
+        {
+          "word": "like",
+          "start": 147.16,
+          "end": 147.43
+        },
+        {
+          "word": "a",
+          "start": 147.43,
+          "end": 147.48
+        },
+        {
+          "word": "societal",
+          "start": 147.48,
+          "end": 147.96
+        },
+        {
+          "word": "revolution.",
+          "start": 147.96,
+          "end": 148.64
+        },
+        {
+          "word": "The",
+          "start": 148.84,
+          "end": 149.12
+        },
+        {
+          "word": "winners",
+          "start": 149.12,
+          "end": 149.43
+        },
+        {
+          "word": "will",
+          "start": 149.43,
+          "end": 149.58
+        },
+        {
+          "word": "be",
+          "start": 149.58,
+          "end": 149.68
+        },
+        {
+          "word": "those",
+          "start": 149.68,
+          "end": 149.86
+        },
+        {
+          "word": "who",
+          "start": 149.86,
+          "end": 150.0
+        },
+        {
+          "word": "understand",
+          "start": 150.0,
+          "end": 150.43
+        },
+        {
+          "word": "the",
+          "start": 150.43,
+          "end": 150.56
+        },
+        {
+          "word": "new",
+          "start": 150.56,
+          "end": 150.78
+        },
+        {
+          "word": "paradigm.",
+          "start": 150.78,
+          "end": 150.31
+        }
+      ]
+    },
+    {
+      "start": 150.8,
+      "end": 156.4,
+      "text": "we're building for longevity. the 90-day migration window with lock incentives balances urgency with inclusivity. it's not about pumping token price, it's about sustainable ecosystem growth.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 150.8,
+          "end": 151.12
+        },
+        {
+          "word": "building",
+          "start": 151.12,
+          "end": 151.48
+        },
+        {
+          "word": "for",
+          "start": 151.48,
+          "end": 151.62
+        },
+        {
+          "word": "longevity.",
+          "start": 151.62,
+          "end": 151.98
+        },
+        {
+          "word": "The",
+          "start": 152.12,
+          "end": 152.34
+        },
+        {
+          "word": "90-day",
+          "start": 152.34,
+          "end": 152.74
+        },
+        {
+          "word": "migration",
+          "start": 152.74,
+          "end": 153.12
+        },
+        {
+          "word": "window",
+          "start": 153.12,
+          "end": 153.34
+        },
+        {
+          "word": "with",
+          "start": 153.34,
+          "end": 153.5
+        },
+        {
+          "word": "lock",
+          "start": 153.5,
+          "end": 153.76
+        },
+        {
+          "word": "incentives",
+          "start": 153.76,
+          "end": 154.22
+        },
+        {
+          "word": "balances",
+          "start": 154.22,
+          "end": 154.68
+        },
+        {
+          "word": "urgency",
+          "start": 154.68,
+          "end": 155.08
+        },
+        {
+          "word": "with",
+          "start": 155.08,
+          "end": 155.24
+        },
+        {
+          "word": "inclusivity.",
+          "start": 155.24,
+          "end": 155.84
+        },
+        {
+          "word": "It's",
+          "start": 156.0,
+          "end": 156.22
+        },
+        {
+          "word": "not",
+          "start": 156.22,
+          "end": 156.43
+        },
+        {
+          "word": "about",
+          "start": 156.43,
+          "end": 156.62
+        },
+        {
+          "word": "pumping",
+          "start": 156.62,
+          "end": 156.96
+        },
+        {
+          "word": "token",
+          "start": 156.96,
+          "end": 157.18
+        },
+        {
+          "word": "price,",
+          "start": 157.18,
+          "end": 157.48
+        },
+        {
+          "word": "it's",
+          "start": 157.6,
+          "end": 157.84
+        },
+        {
+          "word": "about",
+          "start": 157.84,
+          "end": 158.02
+        },
+        {
+          "word": "sustainable",
+          "start": 158.02,
+          "end": 158.48
+        },
+        {
+          "word": "ecosystem",
+          "start": 158.48,
+          "end": 158.9
+        },
+        {
+          "word": "growth.",
+          "start": 158.9,
+          "end": 156.4
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-31_JedAI-Council_The-Multi-Tenant-Mind.json",
+    "session_log_source": "2025-10-31_JedAI-Council_The-Multi-Tenant-Mind_session-log.json",
+    "total_segments": 13,
+    "matched_segments": 13,
+    "dialogues_in_script": 17
+  }
+}

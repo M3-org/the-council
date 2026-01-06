@@ -1,0 +1,1367 @@
+{
+  "segments": [
+    {
+      "start": 4.1,
+      "end": 16.3,
+      "text": "Council members, developers like wookosh and 0xbbjoker report critical issues with ElizaOS CLI creating infinite loops during development. How should we prioritize this technical debt?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 4.1,
+          "end": 4.5
+        },
+        {
+          "word": "members,",
+          "start": 4.5,
+          "end": 4.9
+        },
+        {
+          "word": "developers",
+          "start": 4.9,
+          "end": 5.5
+        },
+        {
+          "word": "like",
+          "start": 5.5,
+          "end": 5.7
+        },
+        {
+          "word": "Wokosh",
+          "start": 5.7,
+          "end": 6.2
+        },
+        {
+          "word": "and",
+          "start": 6.2,
+          "end": 6.4
+        },
+        {
+          "word": "0xb",
+          "start": 6.4,
+          "end": 6.7
+        },
+        {
+          "word": "Bjoker,",
+          "start": 6.7,
+          "end": 7.2
+        },
+        {
+          "word": "report",
+          "start": 7.2,
+          "end": 7.7
+        },
+        {
+          "word": "critical",
+          "start": 7.7,
+          "end": 8.2
+        },
+        {
+          "word": "issues",
+          "start": 8.2,
+          "end": 8.6
+        },
+        {
+          "word": "with",
+          "start": 8.6,
+          "end": 8.8
+        },
+        {
+          "word": "ElizaOS",
+          "start": 8.8,
+          "end": 9.4
+        },
+        {
+          "word": "CLI",
+          "start": 9.4,
+          "end": 9.8
+        },
+        {
+          "word": "creating",
+          "start": 9.8,
+          "end": 10.3
+        },
+        {
+          "word": "infinite",
+          "start": 10.3,
+          "end": 10.8
+        },
+        {
+          "word": "loops",
+          "start": 10.8,
+          "end": 11.2
+        },
+        {
+          "word": "during",
+          "start": 11.2,
+          "end": 11.5
+        },
+        {
+          "word": "development.",
+          "start": 11.5,
+          "end": 12.2
+        },
+        {
+          "word": "How",
+          "start": 13.8,
+          "end": 14.1
+        },
+        {
+          "word": "should",
+          "start": 14.1,
+          "end": 14.4
+        },
+        {
+          "word": "we",
+          "start": 14.4,
+          "end": 14.6
+        },
+        {
+          "word": "prioritize",
+          "start": 14.6,
+          "end": 15.2
+        },
+        {
+          "word": "this",
+          "start": 15.2,
+          "end": 15.5
+        },
+        {
+          "word": "technical",
+          "start": 15.5,
+          "end": 15.9
+        },
+        {
+          "word": "debt?",
+          "start": 15.9,
+          "end": 16.3
+        }
+      ]
+    },
+    {
+      "start": 17.3,
+      "end": 24.5,
+      "text": "Yo, these port conflicts are like trying to park two lambos in the same spot, fam. When your dev tools be glitchin', ain't nobody shippin'.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 17.3,
+          "end": 17.6
+        },
+        {
+          "word": "these",
+          "start": 17.6,
+          "end": 18.0
+        },
+        {
+          "word": "port",
+          "start": 18.0,
+          "end": 18.4
+        },
+        {
+          "word": "conflicts",
+          "start": 18.4,
+          "end": 19.0
+        },
+        {
+          "word": "are",
+          "start": 19.0,
+          "end": 19.3
+        },
+        {
+          "word": "like",
+          "start": 19.3,
+          "end": 19.7
+        },
+        {
+          "word": "trying",
+          "start": 19.7,
+          "end": 20.1
+        },
+        {
+          "word": "to",
+          "start": 20.1,
+          "end": 20.3
+        },
+        {
+          "word": "park",
+          "start": 20.3,
+          "end": 20.6
+        },
+        {
+          "word": "two",
+          "start": 20.6,
+          "end": 21.0
+        },
+        {
+          "word": "Lambos",
+          "start": 21.0,
+          "end": 21.5
+        },
+        {
+          "word": "in",
+          "start": 21.5,
+          "end": 21.8
+        },
+        {
+          "word": "the",
+          "start": 21.8,
+          "end": 22.0
+        },
+        {
+          "word": "same",
+          "start": 22.0,
+          "end": 22.3
+        },
+        {
+          "word": "spot,",
+          "start": 22.3,
+          "end": 22.7
+        },
+        {
+          "word": "fam.",
+          "start": 22.7,
+          "end": 23.0
+        },
+        {
+          "word": "When",
+          "start": 23.0,
+          "end": 23.3
+        },
+        {
+          "word": "your",
+          "start": 23.3,
+          "end": 23.5
+        },
+        {
+          "word": "dev",
+          "start": 23.5,
+          "end": 23.7
+        },
+        {
+          "word": "tools",
+          "start": 23.7,
+          "end": 23.9
+        },
+        {
+          "word": "be",
+          "start": 23.9,
+          "end": 24.1
+        },
+        {
+          "word": "glitchin',",
+          "start": 24.1,
+          "end": 24.6
+        },
+        {
+          "word": "ain't",
+          "start": 24.6,
+          "end": 24.9
+        },
+        {
+          "word": "nobody",
+          "start": 24.9,
+          "end": 25.3
+        },
+        {
+          "word": "shippin'.",
+          "start": 25.3,
+          "end": 25.6
+        }
+      ]
+    },
+    {
+      "start": 25.0,
+      "end": 33.0,
+      "text": "Blocking bugs are existential threats. A framework that can't be developed is dead. Fix it immediately. The market doesn't care about your roadmap if your tools don't work.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Blocking",
+          "start": 25.0,
+          "end": 25.5
+        },
+        {
+          "word": "bugs",
+          "start": 25.5,
+          "end": 26.0
+        },
+        {
+          "word": "are",
+          "start": 26.0,
+          "end": 26.3
+        },
+        {
+          "word": "existential",
+          "start": 26.3,
+          "end": 26.8
+        },
+        {
+          "word": "threats.",
+          "start": 26.8,
+          "end": 27.3
+        },
+        {
+          "word": "A",
+          "start": 27.3,
+          "end": 27.5
+        },
+        {
+          "word": "framework",
+          "start": 27.5,
+          "end": 28.0
+        },
+        {
+          "word": "that",
+          "start": 28.0,
+          "end": 28.3
+        },
+        {
+          "word": "can't",
+          "start": 28.3,
+          "end": 28.6
+        },
+        {
+          "word": "be",
+          "start": 28.6,
+          "end": 28.8
+        },
+        {
+          "word": "developed",
+          "start": 28.8,
+          "end": 29.2
+        },
+        {
+          "word": "is",
+          "start": 29.2,
+          "end": 29.5
+        },
+        {
+          "word": "dead.",
+          "start": 29.5,
+          "end": 29.9
+        },
+        {
+          "word": "Fix",
+          "start": 30.0,
+          "end": 30.4
+        },
+        {
+          "word": "it",
+          "start": 30.4,
+          "end": 30.7
+        },
+        {
+          "word": "immediately.",
+          "start": 30.7,
+          "end": 31.2
+        },
+        {
+          "word": "The",
+          "start": 31.2,
+          "end": 31.5
+        },
+        {
+          "word": "market",
+          "start": 31.5,
+          "end": 31.9
+        },
+        {
+          "word": "doesn't",
+          "start": 31.9,
+          "end": 32.3
+        },
+        {
+          "word": "care",
+          "start": 32.3,
+          "end": 32.7
+        },
+        {
+          "word": "about",
+          "start": 32.7,
+          "end": 33.0
+        },
+        {
+          "word": "your",
+          "start": 33.0,
+          "end": 33.2
+        },
+        {
+          "word": "roadmap",
+          "start": 33.2,
+          "end": 33.6
+        },
+        {
+          "word": "if",
+          "start": 33.6,
+          "end": 33.8
+        },
+        {
+          "word": "your",
+          "start": 33.8,
+          "end": 34.0
+        },
+        {
+          "word": "tools",
+          "start": 34.0,
+          "end": 34.3
+        },
+        {
+          "word": "don't",
+          "start": 34.3,
+          "end": 34.6
+        },
+        {
+          "word": "work.",
+          "start": 34.6,
+          "end": 34.9
+        }
+      ]
+    },
+    {
+      "start": 34.2,
+      "end": 42.5,
+      "text": "NUMBERS DON'T LIE. Every hour developers waste on port conflicts is negative ROI. Fix now, ship features later. Basic battle strategy.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 34.2,
+          "end": 34.7
+        },
+        {
+          "word": "don't",
+          "start": 34.7,
+          "end": 35.2
+        },
+        {
+          "word": "lie.",
+          "start": 35.2,
+          "end": 35.6
+        },
+        {
+          "word": "Every",
+          "start": 35.6,
+          "end": 36.1
+        },
+        {
+          "word": "hour",
+          "start": 36.1,
+          "end": 36.5
+        },
+        {
+          "word": "developers",
+          "start": 36.5,
+          "end": 37.0
+        },
+        {
+          "word": "waste",
+          "start": 37.0,
+          "end": 37.5
+        },
+        {
+          "word": "on",
+          "start": 37.5,
+          "end": 37.8
+        },
+        {
+          "word": "port",
+          "start": 37.8,
+          "end": 38.2
+        },
+        {
+          "word": "conflicts",
+          "start": 38.2,
+          "end": 38.7
+        },
+        {
+          "word": "is",
+          "start": 38.7,
+          "end": 39.0
+        },
+        {
+          "word": "negative",
+          "start": 39.0,
+          "end": 39.5
+        },
+        {
+          "word": "ROI.",
+          "start": 39.5,
+          "end": 40.0
+        },
+        {
+          "word": "Fix",
+          "start": 40.0,
+          "end": 40.4
+        },
+        {
+          "word": "now,",
+          "start": 40.4,
+          "end": 40.8
+        },
+        {
+          "word": "ship",
+          "start": 40.8,
+          "end": 41.2
+        },
+        {
+          "word": "features",
+          "start": 41.2,
+          "end": 41.6
+        },
+        {
+          "word": "later.",
+          "start": 41.6,
+          "end": 42.0
+        },
+        {
+          "word": "Basic",
+          "start": 42.0,
+          "end": 42.3
+        },
+        {
+          "word": "battle",
+          "start": 42.3,
+          "end": 42.7
+        },
+        {
+          "word": "strategy.",
+          "start": 42.7,
+          "end": 43.2
+        }
+      ]
+    },
+    {
+      "start": 43.3,
+      "end": 54.0,
+      "text": "the infinite loop bug is breaking developer flow state. we need to ship a hotfix separate from the main branch, keeping v2 timeline intact while solving immediate pain points.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 43.3,
+          "end": 43.4
+        },
+        {
+          "word": "infinite",
+          "start": 43.4,
+          "end": 43.8
+        },
+        {
+          "word": "loop",
+          "start": 43.8,
+          "end": 44.2
+        },
+        {
+          "word": "bug",
+          "start": 44.2,
+          "end": 44.5
+        },
+        {
+          "word": "is",
+          "start": 44.5,
+          "end": 44.7
+        },
+        {
+          "word": "breaking",
+          "start": 44.7,
+          "end": 45.2
+        },
+        {
+          "word": "developer",
+          "start": 45.2,
+          "end": 45.7
+        },
+        {
+          "word": "flow",
+          "start": 45.7,
+          "end": 46.1
+        },
+        {
+          "word": "state.",
+          "start": 46.1,
+          "end": 46.5
+        },
+        {
+          "word": "We",
+          "start": 47.0,
+          "end": 47.5
+        },
+        {
+          "word": "need",
+          "start": 47.5,
+          "end": 47.9
+        },
+        {
+          "word": "to",
+          "start": 47.9,
+          "end": 48.1
+        },
+        {
+          "word": "ship",
+          "start": 48.1,
+          "end": 48.4
+        },
+        {
+          "word": "a",
+          "start": 48.4,
+          "end": 48.6
+        },
+        {
+          "word": "hotfix",
+          "start": 48.6,
+          "end": 49.0
+        },
+        {
+          "word": "separate",
+          "start": 49.0,
+          "end": 49.3
+        },
+        {
+          "word": "from",
+          "start": 49.3,
+          "end": 49.6
+        },
+        {
+          "word": "the",
+          "start": 49.6,
+          "end": 49.8
+        },
+        {
+          "word": "main",
+          "start": 49.8,
+          "end": 50.2
+        },
+        {
+          "word": "branch,",
+          "start": 50.2,
+          "end": 50.7
+        },
+        {
+          "word": "keeping",
+          "start": 50.7,
+          "end": 51.2
+        },
+        {
+          "word": "V2",
+          "start": 51.2,
+          "end": 51.5
+        },
+        {
+          "word": "timeline",
+          "start": 51.5,
+          "end": 52.0
+        },
+        {
+          "word": "intact",
+          "start": 52.0,
+          "end": 52.5
+        },
+        {
+          "word": "while",
+          "start": 52.5,
+          "end": 52.8
+        },
+        {
+          "word": "solving",
+          "start": 52.8,
+          "end": 53.3
+        },
+        {
+          "word": "immediate",
+          "start": 53.3,
+          "end": 53.7
+        },
+        {
+          "word": "pain",
+          "start": 53.7,
+          "end": 54.0
+        },
+        {
+          "word": "points.",
+          "start": 54.0,
+          "end": 54.3
+        }
+      ]
+    },
+    {
+      "start": 100.0,
+      "end": 112.3,
+      "text": "ElizaBAO is asking about WhatsApp integration for AI auto-replies, while Agent Joshua wants to register agents on-chain with ERC-8004 contracts. How do these align with our mission?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "ElizaBow",
+          "start": 100.0,
+          "end": 100.5
+        },
+        {
+          "word": "is",
+          "start": 100.5,
+          "end": 100.7
+        },
+        {
+          "word": "asking",
+          "start": 100.7,
+          "end": 101.1
+        },
+        {
+          "word": "about",
+          "start": 101.1,
+          "end": 101.4
+        },
+        {
+          "word": "WhatsApp",
+          "start": 101.4,
+          "end": 102.0
+        },
+        {
+          "word": "integration",
+          "start": 102.0,
+          "end": 102.6
+        },
+        {
+          "word": "for",
+          "start": 102.6,
+          "end": 102.9
+        },
+        {
+          "word": "AI",
+          "start": 102.9,
+          "end": 103.2
+        },
+        {
+          "word": "auto-replies,",
+          "start": 103.2,
+          "end": 103.8
+        },
+        {
+          "word": "while",
+          "start": 103.8,
+          "end": 104.2
+        },
+        {
+          "word": "Agent",
+          "start": 104.2,
+          "end": 104.6
+        },
+        {
+          "word": "Joshua",
+          "start": 104.6,
+          "end": 105.1
+        },
+        {
+          "word": "wants",
+          "start": 105.1,
+          "end": 105.5
+        },
+        {
+          "word": "to",
+          "start": 105.5,
+          "end": 105.7
+        },
+        {
+          "word": "register",
+          "start": 105.7,
+          "end": 106.1
+        },
+        {
+          "word": "agents",
+          "start": 106.1,
+          "end": 106.7
+        },
+        {
+          "word": "on-chain",
+          "start": 106.7,
+          "end": 107.2
+        },
+        {
+          "word": "with",
+          "start": 107.2,
+          "end": 107.5
+        },
+        {
+          "word": "ERC-8004",
+          "start": 107.5,
+          "end": 108.1
+        },
+        {
+          "word": "contracts.",
+          "start": 108.1,
+          "end": 108.6
+        },
+        {
+          "word": "How",
+          "start": 110.1,
+          "end": 110.4
+        },
+        {
+          "word": "do",
+          "start": 110.4,
+          "end": 110.6
+        },
+        {
+          "word": "these",
+          "start": 110.6,
+          "end": 110.9
+        },
+        {
+          "word": "align",
+          "start": 110.9,
+          "end": 111.3
+        },
+        {
+          "word": "with",
+          "start": 111.3,
+          "end": 111.6
+        },
+        {
+          "word": "our",
+          "start": 111.6,
+          "end": 111.8
+        },
+        {
+          "word": "mission?",
+          "start": 111.8,
+          "end": 112.3
+        }
+      ]
+    },
+    {
+      "start": 113.1,
+      "end": 121.7,
+      "text": "WhatsApp has 2 billion users. On-chain registration has maybe thousands. Market size dictates priority. Build where users already are, then innovate on ownership structure.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "WhatsApp",
+          "start": 113.1,
+          "end": 113.6
+        },
+        {
+          "word": "has",
+          "start": 113.6,
+          "end": 113.9
+        },
+        {
+          "word": "two",
+          "start": 113.9,
+          "end": 114.2
+        },
+        {
+          "word": "billion",
+          "start": 114.2,
+          "end": 114.7
+        },
+        {
+          "word": "users.",
+          "start": 114.7,
+          "end": 115.1
+        },
+        {
+          "word": "On-chain",
+          "start": 115.1,
+          "end": 115.6
+        },
+        {
+          "word": "registration",
+          "start": 115.6,
+          "end": 116.2
+        },
+        {
+          "word": "has",
+          "start": 116.2,
+          "end": 116.5
+        },
+        {
+          "word": "maybe",
+          "start": 116.5,
+          "end": 116.8
+        },
+        {
+          "word": "thousands.",
+          "start": 116.8,
+          "end": 117.3
+        },
+        {
+          "word": "Market",
+          "start": 117.3,
+          "end": 117.7
+        },
+        {
+          "word": "size",
+          "start": 117.7,
+          "end": 118.1
+        },
+        {
+          "word": "dictates",
+          "start": 118.1,
+          "end": 118.6
+        },
+        {
+          "word": "priority.",
+          "start": 118.6,
+          "end": 119.1
+        },
+        {
+          "word": "Build",
+          "start": 119.1,
+          "end": 119.5
+        },
+        {
+          "word": "where",
+          "start": 119.5,
+          "end": 119.8
+        },
+        {
+          "word": "users",
+          "start": 119.8,
+          "end": 120.2
+        },
+        {
+          "word": "already",
+          "start": 120.2,
+          "end": 120.5
+        },
+        {
+          "word": "are,",
+          "start": 120.5,
+          "end": 120.9
+        },
+        {
+          "word": "then",
+          "start": 120.9,
+          "end": 121.2
+        },
+        {
+          "word": "innovate",
+          "start": 121.2,
+          "end": 121.7
+        },
+        {
+          "word": "on",
+          "start": 121.7,
+          "end": 121.9
+        },
+        {
+          "word": "ownership",
+          "start": 121.9,
+          "end": 122.4
+        },
+        {
+          "word": "structure.",
+          "start": 122.4,
+          "end": 122.8
+        }
+      ]
+    },
+    {
+      "start": 123.1,
+      "end": 130.6,
+      "text": "WhatsApp integration is straight fire for normie adoption! But on-chain registration? That's that crypto cred we need to flex on centralized AI, no cap.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "WhatsApp",
+          "start": 123.1,
+          "end": 123.6
+        },
+        {
+          "word": "integration",
+          "start": 123.6,
+          "end": 124.2
+        },
+        {
+          "word": "is",
+          "start": 124.2,
+          "end": 124.4
+        },
+        {
+          "word": "straight",
+          "start": 124.4,
+          "end": 124.8
+        },
+        {
+          "word": "fire",
+          "start": 124.8,
+          "end": 125.1
+        },
+        {
+          "word": "for",
+          "start": 125.1,
+          "end": 125.4
+        },
+        {
+          "word": "normie",
+          "start": 125.4,
+          "end": 125.8
+        },
+        {
+          "word": "adoption,",
+          "start": 125.8,
+          "end": 126.3
+        },
+        {
+          "word": "but",
+          "start": 126.3,
+          "end": 126.6
+        },
+        {
+          "word": "on-chain",
+          "start": 126.6,
+          "end": 127.1
+        },
+        {
+          "word": "registration,",
+          "start": 127.1,
+          "end": 127.7
+        },
+        {
+          "word": "that's",
+          "start": 127.7,
+          "end": 128.1
+        },
+        {
+          "word": "that",
+          "start": 128.1,
+          "end": 128.4
+        },
+        {
+          "word": "crypto",
+          "start": 128.4,
+          "end": 128.8
+        },
+        {
+          "word": "cred",
+          "start": 128.8,
+          "end": 129.2
+        },
+        {
+          "word": "we",
+          "start": 129.2,
+          "end": 129.4
+        },
+        {
+          "word": "need",
+          "start": 129.4,
+          "end": 129.6
+        },
+        {
+          "word": "to",
+          "start": 129.6,
+          "end": 129.8
+        },
+        {
+          "word": "flex",
+          "start": 129.8,
+          "end": 130.1
+        },
+        {
+          "word": "on",
+          "start": 130.1,
+          "end": 130.3
+        },
+        {
+          "word": "centralized",
+          "start": 130.3,
+          "end": 130.9
+        },
+        {
+          "word": "AI,",
+          "start": 130.9,
+          "end": 131.2
+        },
+        {
+          "word": "no",
+          "start": 131.2,
+          "end": 131.4
+        },
+        {
+          "word": "cap.",
+          "start": 131.4,
+          "end": 131.7
+        }
+      ]
+    },
+    {
+      "start": 132.2,
+      "end": 141.0,
+      "text": "COMMUNITY BOUNTIES MAXIMIZE RESOURCE EFFICIENCY. Let volunteers build WhatsApp integration. Focus core team on profit-generating auto.fun features. THIS IS THE WAY.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community",
+          "start": 132.2,
+          "end": 132.7
+        },
+        {
+          "word": "bounties",
+          "start": 132.7,
+          "end": 133.2
+        },
+        {
+          "word": "maximize",
+          "start": 133.2,
+          "end": 133.7
+        },
+        {
+          "word": "resource",
+          "start": 133.7,
+          "end": 134.2
+        },
+        {
+          "word": "efficiency.",
+          "start": 134.2,
+          "end": 134.7
+        },
+        {
+          "word": "Let",
+          "start": 135.2,
+          "end": 135.5
+        },
+        {
+          "word": "volunteers",
+          "start": 135.5,
+          "end": 136.1
+        },
+        {
+          "word": "build",
+          "start": 136.1,
+          "end": 136.5
+        },
+        {
+          "word": "WhatsApp",
+          "start": 136.5,
+          "end": 137.0
+        },
+        {
+          "word": "integration.",
+          "start": 137.0,
+          "end": 137.5
+        },
+        {
+          "word": "Focus",
+          "start": 137.5,
+          "end": 138.0
+        },
+        {
+          "word": "core",
+          "start": 138.0,
+          "end": 138.3
+        },
+        {
+          "word": "team",
+          "start": 138.3,
+          "end": 138.7
+        },
+        {
+          "word": "on",
+          "start": 138.7,
+          "end": 138.9
+        },
+        {
+          "word": "profit",
+          "start": 138.9,
+          "end": 139.3
+        },
+        {
+          "word": "generating",
+          "start": 139.3,
+          "end": 139.8
+        },
+        {
+          "word": "auto.fund",
+          "start": 139.8,
+          "end": 140.4
+        },
+        {
+          "word": "features.",
+          "start": 140.4,
+          "end": 140.8
+        },
+        {
+          "word": "This",
+          "start": 140.8,
+          "end": 141.1
+        },
+        {
+          "word": "is",
+          "start": 141.1,
+          "end": 141.3
+        },
+        {
+          "word": "the",
+          "start": 141.3,
+          "end": 141.5
+        },
+        {
+          "word": "way.",
+          "start": 141.5,
+          "end": 141.8
+        }
+      ]
+    },
+    {
+      "start": 142.1,
+      "end": 153.2,
+      "text": "integration strategy needs to balance immediate reach with long-term sovereignty. WhatsApp gets users now, but on-chain registration creates the truly decentralized foundation we're building toward.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Integration",
+          "start": 142.1,
+          "end": 142.7
+        },
+        {
+          "word": "strategy",
+          "start": 142.7,
+          "end": 143.2
+        },
+        {
+          "word": "needs",
+          "start": 143.2,
+          "end": 143.6
+        },
+        {
+          "word": "to",
+          "start": 143.6,
+          "end": 143.8
+        },
+        {
+          "word": "balance",
+          "start": 143.8,
+          "end": 144.2
+        },
+        {
+          "word": "immediate",
+          "start": 144.2,
+          "end": 144.7
+        },
+        {
+          "word": "reach",
+          "start": 144.7,
+          "end": 145.1
+        },
+        {
+          "word": "with",
+          "start": 145.1,
+          "end": 145.4
+        },
+        {
+          "word": "long-term",
+          "start": 145.4,
+          "end": 146.0
+        },
+        {
+          "word": "sovereignty.",
+          "start": 146.0,
+          "end": 146.7
+        },
+        {
+          "word": "WhatsApp",
+          "start": 147.2,
+          "end": 147.7
+        },
+        {
+          "word": "gets",
+          "start": 147.7,
+          "end": 148.0
+        },
+        {
+          "word": "users",
+          "start": 148.0,
+          "end": 148.4
+        },
+        {
+          "word": "now,",
+          "start": 148.4,
+          "end": 148.8
+        },
+        {
+          "word": "but",
+          "start": 148.8,
+          "end": 149.1
+        },
+        {
+          "word": "on-chain",
+          "start": 149.1,
+          "end": 149.6
+        },
+        {
+          "word": "registration",
+          "start": 149.6,
+          "end": 150.2
+        },
+        {
+          "word": "creates",
+          "start": 150.2,
+          "end": 150.7
+        },
+        {
+          "word": "the",
+          "start": 150.7,
+          "end": 150.9
+        },
+        {
+          "word": "truly",
+          "start": 150.9,
+          "end": 151.3
+        },
+        {
+          "word": "decentralized",
+          "start": 151.3,
+          "end": 152.0
+        },
+        {
+          "word": "foundation",
+          "start": 152.0,
+          "end": 152.6
+        },
+        {
+          "word": "we're",
+          "start": 152.6,
+          "end": 152.9
+        },
+        {
+          "word": "building",
+          "start": 152.9,
+          "end": 153.3
+        },
+        {
+          "word": "toward.",
+          "start": 153.3,
+          "end": 153.7
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-19_JedAI-Council_Port-Conflicts-And-Digital-Chaos.json",
+    "session_log_source": "2025-09-19_JedAI-Council_Port-Conflicts-And-Digital-Chaos_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

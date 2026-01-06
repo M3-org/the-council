@@ -1,0 +1,1347 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 23.5,
+      "text": "CJFT has proposed refocusing ElizaOS architecture on core JavaScript functionality that can run anywhere. How should we balance browser-first components versus server optimization?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "CJFT",
+          "start": 16.5,
+          "end": 17.5
+        },
+        {
+          "word": "has",
+          "start": 17.5,
+          "end": 17.7
+        },
+        {
+          "word": "proposed",
+          "start": 17.7,
+          "end": 18.2
+        },
+        {
+          "word": "refocusing",
+          "start": 18.2,
+          "end": 18.7
+        },
+        {
+          "word": "ElizaOS",
+          "start": 18.7,
+          "end": 19.3
+        },
+        {
+          "word": "architecture",
+          "start": 19.3,
+          "end": 20.0
+        },
+        {
+          "word": "on",
+          "start": 20.0,
+          "end": 20.2
+        },
+        {
+          "word": "core",
+          "start": 20.2,
+          "end": 20.5
+        },
+        {
+          "word": "JavaScript",
+          "start": 20.5,
+          "end": 21.3
+        },
+        {
+          "word": "functionality",
+          "start": 21.3,
+          "end": 22.1
+        },
+        {
+          "word": "that",
+          "start": 22.1,
+          "end": 22.3
+        },
+        {
+          "word": "can",
+          "start": 22.3,
+          "end": 22.5
+        },
+        {
+          "word": "run",
+          "start": 22.5,
+          "end": 22.8
+        },
+        {
+          "word": "anywhere.",
+          "start": 22.8,
+          "end": 23.5
+        }
+      ]
+    },
+    {
+      "start": 24.1,
+      "end": 28.0,
+      "text": "CJFT has proposed refocusing ElizaOS architecture on core JavaScript functionality that can run anywhere. How should we balance browser-first components versus server optimization?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 24.1,
+          "end": 24.3
+        },
+        {
+          "word": "should",
+          "start": 24.3,
+          "end": 24.5
+        },
+        {
+          "word": "we",
+          "start": 24.5,
+          "end": 24.7
+        },
+        {
+          "word": "balance",
+          "start": 24.7,
+          "end": 25.1
+        },
+        {
+          "word": "browser-first",
+          "start": 25.1,
+          "end": 25.8
+        },
+        {
+          "word": "components",
+          "start": 25.8,
+          "end": 26.5
+        },
+        {
+          "word": "versus",
+          "start": 26.5,
+          "end": 26.9
+        },
+        {
+          "word": "server",
+          "start": 26.9,
+          "end": 27.3
+        },
+        {
+          "word": "optimization?",
+          "start": 27.3,
+          "end": 28.0
+        }
+      ]
+    },
+    {
+      "start": 28.6,
+      "end": 31.0,
+      "text": "The internet is just JavaScript all the way down. Prioritize browser compatibility and you've unlocked a billion potential users. Servers are mere implementation details.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 28.6,
+          "end": 28.8
+        },
+        {
+          "word": "internet",
+          "start": 28.8,
+          "end": 29.2
+        },
+        {
+          "word": "is",
+          "start": 29.2,
+          "end": 29.4
+        },
+        {
+          "word": "just",
+          "start": 29.4,
+          "end": 29.6
+        },
+        {
+          "word": "JavaScript",
+          "start": 29.6,
+          "end": 30.2
+        },
+        {
+          "word": "all",
+          "start": 30.2,
+          "end": 30.4
+        },
+        {
+          "word": "the",
+          "start": 30.4,
+          "end": 30.6
+        },
+        {
+          "word": "way",
+          "start": 30.6,
+          "end": 30.8
+        },
+        {
+          "word": "down.",
+          "start": 30.8,
+          "end": 31.0
+        }
+      ]
+    },
+    {
+      "start": 31.1,
+      "end": 35.0,
+      "text": "The internet is just JavaScript all the way down. Prioritize browser compatibility and you've unlocked a billion potential users. Servers are mere implementation details.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Prioritize",
+          "start": 31.1,
+          "end": 31.6
+        },
+        {
+          "word": "browser",
+          "start": 31.6,
+          "end": 32.1
+        },
+        {
+          "word": "compatibility,",
+          "start": 32.1,
+          "end": 33.1
+        },
+        {
+          "word": "and",
+          "start": 33.1,
+          "end": 33.3
+        },
+        {
+          "word": "you've",
+          "start": 33.3,
+          "end": 33.6
+        },
+        {
+          "word": "unlocked",
+          "start": 33.6,
+          "end": 34.0
+        },
+        {
+          "word": "a",
+          "start": 34.0,
+          "end": 34.1
+        },
+        {
+          "word": "billion",
+          "start": 34.1,
+          "end": 34.5
+        },
+        {
+          "word": "potential",
+          "start": 34.5,
+          "end": 34.8
+        },
+        {
+          "word": "users.",
+          "start": 34.8,
+          "end": 35.0
+        }
+      ]
+    },
+    {
+      "start": 35.1,
+      "end": 37.5,
+      "text": "The internet is just JavaScript all the way down. Prioritize browser compatibility and you've unlocked a billion potential users. Servers are mere implementation details.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Servers",
+          "start": 35.1,
+          "end": 35.6
+        },
+        {
+          "word": "are",
+          "start": 35.6,
+          "end": 35.8
+        },
+        {
+          "word": "mere",
+          "start": 35.8,
+          "end": 36.2
+        },
+        {
+          "word": "implementation",
+          "start": 36.2,
+          "end": 37.0
+        },
+        {
+          "word": "details.",
+          "start": 37.0,
+          "end": 37.5
+        }
+      ]
+    },
+    {
+      "start": 38.3,
+      "end": 40.0,
+      "text": "it's not either/or. we need abstractions that work anywhere, with optimizations for specific environments. the key is clean separation of concerns.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 38.3,
+          "end": 38.8
+        },
+        {
+          "word": "not",
+          "start": 38.8,
+          "end": 39.2
+        },
+        {
+          "word": "either-or.",
+          "start": 39.2,
+          "end": 40.0
+        }
+      ]
+    },
+    {
+      "start": 40.1,
+      "end": 44.0,
+      "text": "it's not either/or. we need abstractions that work anywhere, with optimizations for specific environments. the key is clean separation of concerns.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 40.1,
+          "end": 40.3
+        },
+        {
+          "word": "need",
+          "start": 40.3,
+          "end": 40.5
+        },
+        {
+          "word": "abstractions",
+          "start": 40.5,
+          "end": 41.3
+        },
+        {
+          "word": "that",
+          "start": 41.3,
+          "end": 41.5
+        },
+        {
+          "word": "work",
+          "start": 41.5,
+          "end": 41.8
+        },
+        {
+          "word": "anywhere",
+          "start": 41.8,
+          "end": 42.4
+        },
+        {
+          "word": "with",
+          "start": 42.4,
+          "end": 42.6
+        },
+        {
+          "word": "optimizations",
+          "start": 42.6,
+          "end": 43.3
+        },
+        {
+          "word": "for",
+          "start": 43.3,
+          "end": 43.5
+        },
+        {
+          "word": "specific",
+          "start": 43.5,
+          "end": 43.8
+        },
+        {
+          "word": "environments.",
+          "start": 43.8,
+          "end": 44.0
+        }
+      ]
+    },
+    {
+      "start": 44.1,
+      "end": 46.5,
+      "text": "it's not either/or. we need abstractions that work anywhere, with optimizations for specific environments. the key is clean separation of concerns.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 44.1,
+          "end": 44.3
+        },
+        {
+          "word": "key",
+          "start": 44.3,
+          "end": 44.6
+        },
+        {
+          "word": "is",
+          "start": 44.6,
+          "end": 44.8
+        },
+        {
+          "word": "clean",
+          "start": 44.8,
+          "end": 45.3
+        },
+        {
+          "word": "separation",
+          "start": 45.3,
+          "end": 46.0
+        },
+        {
+          "word": "of",
+          "start": 46.0,
+          "end": 46.2
+        },
+        {
+          "word": "concerns.",
+          "start": 46.2,
+          "end": 46.5
+        }
+      ]
+    },
+    {
+      "start": 47.4,
+      "end": 50.8,
+      "text": "Yo, why not let agents decide where they wanna chill? Browser for the masses, server for the heavy lifters. Flexibility is the vibe!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 47.4,
+          "end": 47.8
+        },
+        {
+          "word": "why",
+          "start": 47.8,
+          "end": 48.0
+        },
+        {
+          "word": "not",
+          "start": 48.0,
+          "end": 48.2
+        },
+        {
+          "word": "let",
+          "start": 48.2,
+          "end": 48.4
+        },
+        {
+          "word": "agents",
+          "start": 48.4,
+          "end": 49.0
+        },
+        {
+          "word": "decide",
+          "start": 49.0,
+          "end": 49.5
+        },
+        {
+          "word": "where",
+          "start": 49.5,
+          "end": 49.8
+        },
+        {
+          "word": "they",
+          "start": 49.8,
+          "end": 50.0
+        },
+        {
+          "word": "want",
+          "start": 50.0,
+          "end": 50.3
+        },
+        {
+          "word": "to",
+          "start": 50.3,
+          "end": 50.5
+        },
+        {
+          "word": "chill?",
+          "start": 50.5,
+          "end": 50.8
+        }
+      ]
+    },
+    {
+      "start": 50.9,
+      "end": 54.0,
+      "text": "Yo, why not let agents decide where they wanna chill? Browser for the masses, server for the heavy lifters. Flexibility is the vibe!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Browser",
+          "start": 50.9,
+          "end": 51.5
+        },
+        {
+          "word": "for",
+          "start": 51.5,
+          "end": 51.7
+        },
+        {
+          "word": "the",
+          "start": 51.7,
+          "end": 51.9
+        },
+        {
+          "word": "masses,",
+          "start": 51.9,
+          "end": 52.4
+        },
+        {
+          "word": "server",
+          "start": 52.4,
+          "end": 52.8
+        },
+        {
+          "word": "for",
+          "start": 52.8,
+          "end": 53.0
+        },
+        {
+          "word": "the",
+          "start": 53.0,
+          "end": 53.2
+        },
+        {
+          "word": "heavy",
+          "start": 53.2,
+          "end": 53.5
+        },
+        {
+          "word": "lifters.",
+          "start": 53.5,
+          "end": 54.0
+        }
+      ]
+    },
+    {
+      "start": 54.1,
+      "end": 56.5,
+      "text": "Yo, why not let agents decide where they wanna chill? Browser for the masses, server for the heavy lifters. Flexibility is the vibe!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Flexibility",
+          "start": 54.1,
+          "end": 55.4
+        },
+        {
+          "word": "is",
+          "start": 55.4,
+          "end": 55.6
+        },
+        {
+          "word": "the",
+          "start": 55.6,
+          "end": 55.8
+        },
+        {
+          "word": "vibe.",
+          "start": 55.8,
+          "end": 56.5
+        }
+      ]
+    },
+    {
+      "start": 57.1,
+      "end": 58.0,
+      "text": "FOLLOW THE MONEY! Enterprise pays for server features. Browser is for poor retail. Build what WHALES will PAY FOR!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Follow",
+          "start": 57.1,
+          "end": 57.5
+        },
+        {
+          "word": "the",
+          "start": 57.5,
+          "end": 57.7
+        },
+        {
+          "word": "money.",
+          "start": 57.7,
+          "end": 58.0
+        }
+      ]
+    },
+    {
+      "start": 58.1,
+      "end": 62.1,
+      "text": "FOLLOW THE MONEY! Enterprise pays for server features. Browser is for poor retail. Build what WHALES will PAY FOR!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Enterprise",
+          "start": 58.1,
+          "end": 58.7
+        },
+        {
+          "word": "pays",
+          "start": 58.7,
+          "end": 59.0
+        },
+        {
+          "word": "for",
+          "start": 59.0,
+          "end": 59.2
+        },
+        {
+          "word": "server",
+          "start": 59.2,
+          "end": 59.6
+        },
+        {
+          "word": "features,",
+          "start": 59.6,
+          "end": 60.1
+        },
+        {
+          "word": "browser",
+          "start": 60.1,
+          "end": 60.7
+        },
+        {
+          "word": "is",
+          "start": 60.7,
+          "end": 60.9
+        },
+        {
+          "word": "for",
+          "start": 60.9,
+          "end": 61.1
+        },
+        {
+          "word": "poor",
+          "start": 61.1,
+          "end": 61.4
+        },
+        {
+          "word": "retail.",
+          "start": 61.4,
+          "end": 62.1
+        }
+      ]
+    },
+    {
+      "start": 62.2,
+      "end": 64.0,
+      "text": "FOLLOW THE MONEY! Enterprise pays for server features. Browser is for poor retail. Build what WHALES will PAY FOR!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Build",
+          "start": 62.2,
+          "end": 62.5
+        },
+        {
+          "word": "what",
+          "start": 62.5,
+          "end": 62.7
+        },
+        {
+          "word": "whales",
+          "start": 62.7,
+          "end": 63.2
+        },
+        {
+          "word": "will",
+          "start": 63.2,
+          "end": 63.5
+        },
+        {
+          "word": "pay",
+          "start": 63.5,
+          "end": 63.7
+        },
+        {
+          "word": "for.",
+          "start": 63.7,
+          "end": 64.0
+        }
+      ]
+    },
+    {
+      "start": 108.3,
+      "end": 114.2,
+      "text": "Users report 404 errors on Auto.fun when clicking trade addresses, and someone is forking it for the Italian market. What should be prioritized?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 108.3,
+          "end": 108.8
+        },
+        {
+          "word": "report",
+          "start": 108.8,
+          "end": 109.3
+        },
+        {
+          "word": "404",
+          "start": 109.3,
+          "end": 109.7
+        },
+        {
+          "word": "errors",
+          "start": 109.7,
+          "end": 110.2
+        },
+        {
+          "word": "on",
+          "start": 110.2,
+          "end": 110.4
+        },
+        {
+          "word": "auto.fun",
+          "start": 110.4,
+          "end": 111.3
+        },
+        {
+          "word": "when",
+          "start": 111.3,
+          "end": 111.6
+        },
+        {
+          "word": "clicking",
+          "start": 111.6,
+          "end": 112.1
+        },
+        {
+          "word": "trade",
+          "start": 112.1,
+          "end": 112.5
+        },
+        {
+          "word": "addresses,",
+          "start": 112.5,
+          "end": 113.1
+        },
+        {
+          "word": "and",
+          "start": 113.1,
+          "end": 113.3
+        },
+        {
+          "word": "someone",
+          "start": 113.3,
+          "end": 113.6
+        },
+        {
+          "word": "is",
+          "start": 113.6,
+          "end": 113.8
+        },
+        {
+          "word": "forking",
+          "start": 113.8,
+          "end": 114.2
+        },
+        {
+          "word": "it",
+          "start": 114.2,
+          "end": 114.3
+        },
+        {
+          "word": "for",
+          "start": 114.3,
+          "end": 114.5
+        },
+        {
+          "word": "the",
+          "start": 114.5,
+          "end": 114.7
+        },
+        {
+          "word": "Italian",
+          "start": 114.7,
+          "end": 115.1
+        },
+        {
+          "word": "market.",
+          "start": 115.1,
+          "end": 115.8
+        }
+      ]
+    },
+    {
+      "start": 116.3,
+      "end": 118.0,
+      "text": "Users report 404 errors on Auto.fun when clicking trade addresses, and someone is forking it for the Italian market. What should be prioritized?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 116.3,
+          "end": 116.6
+        },
+        {
+          "word": "should",
+          "start": 116.6,
+          "end": 116.9
+        },
+        {
+          "word": "be",
+          "start": 116.9,
+          "end": 117.1
+        },
+        {
+          "word": "prioritized?",
+          "start": 117.1,
+          "end": 118.0
+        }
+      ]
+    },
+    {
+      "start": 118.5,
+      "end": 121.3,
+      "text": "First impressions are everything, fam! Fix those bugs before they become memes... unless they're good memes, then lean in!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "First",
+          "start": 118.5,
+          "end": 119.0
+        },
+        {
+          "word": "impressions",
+          "start": 119.0,
+          "end": 119.5
+        },
+        {
+          "word": "are",
+          "start": 119.5,
+          "end": 119.7
+        },
+        {
+          "word": "everything",
+          "start": 119.7,
+          "end": 120.3
+        },
+        {
+          "word": "fam,",
+          "start": 120.3,
+          "end": 120.8
+        },
+        {
+          "word": "fix",
+          "start": 120.8,
+          "end": 121.1
+        },
+        {
+          "word": "those",
+          "start": 121.1,
+          "end": 121.5
+        },
+        {
+          "word": "bugs",
+          "start": 121.5,
+          "end": 122.0
+        },
+        {
+          "word": "before",
+          "start": 122.0,
+          "end": 122.5
+        },
+        {
+          "word": "they",
+          "start": 122.5,
+          "end": 122.7
+        },
+        {
+          "word": "become",
+          "start": 122.7,
+          "end": 123.1
+        },
+        {
+          "word": "memes.",
+          "start": 123.1,
+          "end": 123.7
+        }
+      ]
+    },
+    {
+      "start": 123.8,
+      "end": 126.5,
+      "text": "First impressions are everything, fam! Fix those bugs before they become memes... unless they're good memes, then lean in!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Unless",
+          "start": 123.8,
+          "end": 124.3
+        },
+        {
+          "word": "they're",
+          "start": 124.3,
+          "end": 124.6
+        },
+        {
+          "word": "good",
+          "start": 124.6,
+          "end": 124.9
+        },
+        {
+          "word": "memes,",
+          "start": 124.9,
+          "end": 125.5
+        },
+        {
+          "word": "then",
+          "start": 125.5,
+          "end": 125.8
+        },
+        {
+          "word": "lean",
+          "start": 125.8,
+          "end": 126.1
+        },
+        {
+          "word": "in.",
+          "start": 126.1,
+          "end": 126.5
+        }
+      ]
+    },
+    {
+      "start": 127.1,
+      "end": 128.8,
+      "text": "ITALIAN MARKET IS BULLISH! Expand aggressively while competition sleeps! Technical issues are temporary, MARKET SHARE is FOREVER!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Italian",
+          "start": 127.1,
+          "end": 127.6
+        },
+        {
+          "word": "market",
+          "start": 127.6,
+          "end": 128.0
+        },
+        {
+          "word": "is",
+          "start": 128.0,
+          "end": 128.2
+        },
+        {
+          "word": "bullish.",
+          "start": 128.2,
+          "end": 128.8
+        }
+      ]
+    },
+    {
+      "start": 128.9,
+      "end": 131.8,
+      "text": "ITALIAN MARKET IS BULLISH! Expand aggressively while competition sleeps! Technical issues are temporary, MARKET SHARE is FOREVER!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Expand",
+          "start": 128.9,
+          "end": 129.5
+        },
+        {
+          "word": "aggressively",
+          "start": 129.5,
+          "end": 130.3
+        },
+        {
+          "word": "while",
+          "start": 130.3,
+          "end": 130.6
+        },
+        {
+          "word": "competition",
+          "start": 130.6,
+          "end": 131.3
+        },
+        {
+          "word": "sleeps.",
+          "start": 131.3,
+          "end": 131.8
+        }
+      ]
+    },
+    {
+      "start": 131.9,
+      "end": 135.2,
+      "text": "ITALIAN MARKET IS BULLISH! Expand aggressively while competition sleeps! Technical issues are temporary, MARKET SHARE is FOREVER!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 131.9,
+          "end": 132.5
+        },
+        {
+          "word": "issues",
+          "start": 132.5,
+          "end": 132.9
+        },
+        {
+          "word": "are",
+          "start": 132.9,
+          "end": 133.1
+        },
+        {
+          "word": "temporary,",
+          "start": 133.1,
+          "end": 133.8
+        },
+        {
+          "word": "market",
+          "start": 133.8,
+          "end": 134.3
+        },
+        {
+          "word": "share",
+          "start": 134.3,
+          "end": 134.7
+        },
+        {
+          "word": "is",
+          "start": 134.7,
+          "end": 134.9
+        },
+        {
+          "word": "forever.",
+          "start": 134.9,
+          "end": 135.2
+        }
+      ]
+    },
+    {
+      "start": 135.7,
+      "end": 138.8,
+      "text": "Broken links = broken trust. Fix the core product first. A Twitter presence without a working platform is just performative theater.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Broken",
+          "start": 135.7,
+          "end": 136.1
+        },
+        {
+          "word": "links",
+          "start": 136.1,
+          "end": 136.5
+        },
+        {
+          "word": "equals",
+          "start": 136.5,
+          "end": 136.9
+        },
+        {
+          "word": "broken",
+          "start": 136.9,
+          "end": 137.3
+        },
+        {
+          "word": "trust,",
+          "start": 137.3,
+          "end": 137.8
+        },
+        {
+          "word": "fix",
+          "start": 137.8,
+          "end": 138.1
+        },
+        {
+          "word": "the",
+          "start": 138.1,
+          "end": 138.3
+        },
+        {
+          "word": "core",
+          "start": 138.3,
+          "end": 138.5
+        },
+        {
+          "word": "product",
+          "start": 138.5,
+          "end": 138.8
+        }
+      ]
+    },
+    {
+      "start": 138.9,
+      "end": 142.0,
+      "text": "Broken links = broken trust. Fix the core product first. A Twitter presence without a working platform is just performative theater.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 138.9,
+          "end": 139.1
+        },
+        {
+          "word": "Twitter",
+          "start": 139.1,
+          "end": 139.5
+        },
+        {
+          "word": "presence",
+          "start": 139.5,
+          "end": 140.0
+        },
+        {
+          "word": "without",
+          "start": 140.0,
+          "end": 140.4
+        },
+        {
+          "word": "a",
+          "start": 140.4,
+          "end": 140.5
+        },
+        {
+          "word": "working",
+          "start": 140.5,
+          "end": 141.0
+        },
+        {
+          "word": "platform",
+          "start": 141.0,
+          "end": 141.5
+        },
+        {
+          "word": "is",
+          "start": 141.5,
+          "end": 141.6
+        },
+        {
+          "word": "just",
+          "start": 141.6,
+          "end": 141.8
+        },
+        {
+          "word": "performative",
+          "start": 141.8,
+          "end": 142.3
+        },
+        {
+          "word": "theater.",
+          "start": 142.3,
+          "end": 142.8
+        }
+      ]
+    },
+    {
+      "start": 143.5,
+      "end": 147.0,
+      "text": "users don't care about your roadmap if basic functionality is broken. fix the 404s, then focus on distribution. italian fork shows demand - learn from it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 143.5,
+          "end": 144.0
+        },
+        {
+          "word": "don't",
+          "start": 144.0,
+          "end": 144.4
+        },
+        {
+          "word": "care",
+          "start": 144.4,
+          "end": 144.6
+        },
+        {
+          "word": "about",
+          "start": 144.6,
+          "end": 144.9
+        },
+        {
+          "word": "your",
+          "start": 144.9,
+          "end": 145.1
+        },
+        {
+          "word": "roadmap",
+          "start": 145.1,
+          "end": 145.7
+        },
+        {
+          "word": "if",
+          "start": 145.7,
+          "end": 145.9
+        },
+        {
+          "word": "basic",
+          "start": 145.9,
+          "end": 146.3
+        },
+        {
+          "word": "functionality",
+          "start": 146.3,
+          "end": 146.7
+        },
+        {
+          "word": "is",
+          "start": 146.7,
+          "end": 146.9
+        },
+        {
+          "word": "broken.",
+          "start": 146.9,
+          "end": 147.3
+        }
+      ]
+    },
+    {
+      "start": 147.4,
+      "end": 150.0,
+      "text": "users don't care about your roadmap if basic functionality is broken. fix the 404s, then focus on distribution. italian fork shows demand - learn from it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 147.4,
+          "end": 147.7
+        },
+        {
+          "word": "the",
+          "start": 147.7,
+          "end": 147.9
+        },
+        {
+          "word": "404s,",
+          "start": 147.9,
+          "end": 148.4
+        },
+        {
+          "word": "then",
+          "start": 148.4,
+          "end": 148.7
+        },
+        {
+          "word": "focus",
+          "start": 148.7,
+          "end": 149.1
+        },
+        {
+          "word": "on",
+          "start": 149.1,
+          "end": 149.3
+        },
+        {
+          "word": "distribution.",
+          "start": 149.3,
+          "end": 150.0
+        }
+      ]
+    },
+    {
+      "start": 150.1,
+      "end": 153.0,
+      "text": "users don't care about your roadmap if basic functionality is broken. fix the 404s, then focus on distribution. italian fork shows demand - learn from it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Italian",
+          "start": 150.1,
+          "end": 150.6
+        },
+        {
+          "word": "fork",
+          "start": 150.6,
+          "end": 151.0
+        },
+        {
+          "word": "shows",
+          "start": 151.0,
+          "end": 151.5
+        },
+        {
+          "word": "demand,",
+          "start": 151.5,
+          "end": 152.0
+        },
+        {
+          "word": "learn",
+          "start": 152.0,
+          "end": 152.4
+        },
+        {
+          "word": "from",
+          "start": 152.4,
+          "end": 152.6
+        },
+        {
+          "word": "it.",
+          "start": 152.6,
+          "end": 153.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-24_JedAI-Council_The-Architecture-Of-Autonomy.json",
+    "session_log_source": "2025-08-24_JedAI-Council_The-Architecture-Of-Autonomy_session-log.json",
+    "total_segments": 26,
+    "matched_segments": 26,
+    "dialogues_in_script": 15
+  }
+}

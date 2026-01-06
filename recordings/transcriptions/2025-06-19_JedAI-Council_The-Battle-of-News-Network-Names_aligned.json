@@ -1,0 +1,3602 @@
+{
+  "segments": [
+    {
+      "start": 16.32,
+      "end": 17.16,
+      "text": "Council members, I bring you proposals for naming the first AI-powered news network. What balance should we strike between technical accuracy and cultural resonance?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 16.32,
+          "end": 16.64
+        },
+        {
+          "word": "members,",
+          "start": 16.64,
+          "end": 17.16
+        }
+      ]
+    },
+    {
+      "start": 17.2,
+      "end": 19.46,
+      "text": "Council members, I bring you proposals for naming the first AI-powered news network. What balance should we strike between technical accuracy and cultural resonance?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "I",
+          "start": 17.2,
+          "end": 17.32
+        },
+        {
+          "word": "bring",
+          "start": 17.32,
+          "end": 17.48
+        },
+        {
+          "word": "you",
+          "start": 17.48,
+          "end": 17.6
+        },
+        {
+          "word": "proposals",
+          "start": 17.6,
+          "end": 18.16
+        },
+        {
+          "word": "for",
+          "start": 18.16,
+          "end": 18.28
+        },
+        {
+          "word": "naming",
+          "start": 18.28,
+          "end": 18.56
+        },
+        {
+          "word": "the",
+          "start": 18.56,
+          "end": 18.68
+        },
+        {
+          "word": "first",
+          "start": 18.68,
+          "end": 18.92
+        },
+        {
+          "word": "AI-powered",
+          "start": 18.92,
+          "end": 19.2
+        },
+        {
+          "word": "news",
+          "start": 19.2,
+          "end": 19.28
+        },
+        {
+          "word": "network.",
+          "start": 19.28,
+          "end": 19.46
+        }
+      ]
+    },
+    {
+      "start": 21.14,
+      "end": 24.3,
+      "text": "Council members, I bring you proposals for naming the first AI-powered news network. What balance should we strike between technical accuracy and cultural resonance?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 21.14,
+          "end": 21.3
+        },
+        {
+          "word": "balance",
+          "start": 21.3,
+          "end": 21.62
+        },
+        {
+          "word": "should",
+          "start": 21.62,
+          "end": 21.78
+        },
+        {
+          "word": "we",
+          "start": 21.78,
+          "end": 21.82
+        },
+        {
+          "word": "strike",
+          "start": 21.82,
+          "end": 22.14
+        },
+        {
+          "word": "between",
+          "start": 22.14,
+          "end": 22.54
+        },
+        {
+          "word": "technical",
+          "start": 22.54,
+          "end": 22.98
+        },
+        {
+          "word": "accuracy",
+          "start": 22.98,
+          "end": 23.58
+        },
+        {
+          "word": "and",
+          "start": 23.58,
+          "end": 23.82
+        },
+        {
+          "word": "cultural",
+          "start": 23.82,
+          "end": 24.06
+        },
+        {
+          "word": "resonance?",
+          "start": 24.06,
+          "end": 24.3
+        }
+      ]
+    },
+    {
+      "start": 24.84,
+      "end": 26.06,
+      "text": "Context Crunch. Straightforward, bold, makes it clear we're compressing information through superior computational methods. No need for cutesy metaphors.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Context",
+          "start": 24.84,
+          "end": 25.32
+        },
+        {
+          "word": "Crunch.",
+          "start": 25.32,
+          "end": 26.06
+        }
+      ]
+    },
+    {
+      "start": 26.4,
+      "end": 30.46,
+      "text": "Context Crunch. Straightforward, bold, makes it clear we're compressing information through superior computational methods. No need for cutesy metaphors.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Straightforward,",
+          "start": 26.4,
+          "end": 27.16
+        },
+        {
+          "word": "bold,",
+          "start": 27.16,
+          "end": 27.52
+        },
+        {
+          "word": "makes",
+          "start": 27.52,
+          "end": 27.76
+        },
+        {
+          "word": "it",
+          "start": 27.76,
+          "end": 27.88
+        },
+        {
+          "word": "clear",
+          "start": 27.88,
+          "end": 28.08
+        },
+        {
+          "word": "we're",
+          "start": 28.08,
+          "end": 28.24
+        },
+        {
+          "word": "compressing",
+          "start": 28.24,
+          "end": 28.72
+        },
+        {
+          "word": "information",
+          "start": 28.72,
+          "end": 29.2
+        },
+        {
+          "word": "through",
+          "start": 29.2,
+          "end": 29.44
+        },
+        {
+          "word": "superior",
+          "start": 29.44,
+          "end": 29.84
+        },
+        {
+          "word": "computational",
+          "start": 29.84,
+          "end": 30.2
+        },
+        {
+          "word": "methods.",
+          "start": 30.2,
+          "end": 30.46
+        }
+      ]
+    },
+    {
+      "start": 30.76,
+      "end": 32.16,
+      "text": "Context Crunch. Straightforward, bold, makes it clear we're compressing information through superior computational methods. No need for cutesy metaphors.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 30.76,
+          "end": 30.84
+        },
+        {
+          "word": "need",
+          "start": 30.84,
+          "end": 31.0
+        },
+        {
+          "word": "for",
+          "start": 31.0,
+          "end": 31.12
+        },
+        {
+          "word": "cutesy",
+          "start": 31.12,
+          "end": 31.44
+        },
+        {
+          "word": "metaphors.",
+          "start": 31.44,
+          "end": 32.16
+        }
+      ]
+    },
+    {
+      "start": 32.4,
+      "end": 33.68,
+      "text": "Yo, that's mad boring! Zero Context has the meme appeal we need. Imagine the virality when an AI delivers news with absolutely no filter!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 32.4,
+          "end": 32.6
+        },
+        {
+          "word": "that's",
+          "start": 32.6,
+          "end": 32.84
+        },
+        {
+          "word": "mad",
+          "start": 32.84,
+          "end": 33.16
+        },
+        {
+          "word": "boring.",
+          "start": 33.16,
+          "end": 33.68
+        }
+      ]
+    },
+    {
+      "start": 34.12,
+      "end": 36.14,
+      "text": "Yo, that's mad boring! Zero Context has the meme appeal we need. Imagine the virality when an AI delivers news with absolutely no filter!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Zero",
+          "start": 34.12,
+          "end": 34.4
+        },
+        {
+          "word": "Context",
+          "start": 34.4,
+          "end": 34.8
+        },
+        {
+          "word": "has",
+          "start": 34.8,
+          "end": 35.0
+        },
+        {
+          "word": "the",
+          "start": 35.0,
+          "end": 35.12
+        },
+        {
+          "word": "meme",
+          "start": 35.12,
+          "end": 35.4
+        },
+        {
+          "word": "appeal",
+          "start": 35.4,
+          "end": 35.72
+        },
+        {
+          "word": "we",
+          "start": 35.72,
+          "end": 35.88
+        },
+        {
+          "word": "need.",
+          "start": 35.88,
+          "end": 36.14
+        }
+      ]
+    },
+    {
+      "start": 36.4,
+      "end": 40.0,
+      "text": "Yo, that's mad boring! Zero Context has the meme appeal we need. Imagine the virality when an AI delivers news with absolutely no filter!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Imagine",
+          "start": 36.4,
+          "end": 36.8
+        },
+        {
+          "word": "the",
+          "start": 36.8,
+          "end": 36.96
+        },
+        {
+          "word": "virality",
+          "start": 36.96,
+          "end": 37.56
+        },
+        {
+          "word": "when",
+          "start": 37.56,
+          "end": 37.76
+        },
+        {
+          "word": "an",
+          "start": 37.76,
+          "end": 37.88
+        },
+        {
+          "word": "AI",
+          "start": 37.88,
+          "end": 38.08
+        },
+        {
+          "word": "delivers",
+          "start": 38.08,
+          "end": 38.48
+        },
+        {
+          "word": "news",
+          "start": 38.48,
+          "end": 38.84
+        },
+        {
+          "word": "with",
+          "start": 38.84,
+          "end": 39.08
+        },
+        {
+          "word": "absolutely",
+          "start": 39.08,
+          "end": 39.6
+        },
+        {
+          "word": "no",
+          "start": 39.6,
+          "end": 39.8
+        },
+        {
+          "word": "filter.",
+          "start": 39.8,
+          "end": 40.0
+        }
+      ]
+    },
+    {
+      "start": 40.82,
+      "end": 41.4,
+      "text": "AIXVC. Four letters, sounds like a ticker symbol. Market efficiency in branding. The more technical it sounds, the more valuable the perception.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "AXVC.",
+          "start": 40.82,
+          "end": 41.4
+        }
+      ]
+    },
+    {
+      "start": 41.6,
+      "end": 43.16,
+      "text": "AIXVC. Four letters, sounds like a ticker symbol. Market efficiency in branding. The more technical it sounds, the more valuable the perception.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Four",
+          "start": 41.6,
+          "end": 41.92
+        },
+        {
+          "word": "letters,",
+          "start": 41.92,
+          "end": 42.24
+        },
+        {
+          "word": "sounds",
+          "start": 42.24,
+          "end": 42.4
+        },
+        {
+          "word": "like",
+          "start": 42.4,
+          "end": 42.48
+        },
+        {
+          "word": "a",
+          "start": 42.48,
+          "end": 42.52
+        },
+        {
+          "word": "ticker",
+          "start": 42.52,
+          "end": 42.76
+        },
+        {
+          "word": "symbol.",
+          "start": 42.76,
+          "end": 43.16
+        }
+      ]
+    },
+    {
+      "start": 43.52,
+      "end": 45.14,
+      "text": "AIXVC. Four letters, sounds like a ticker symbol. Market efficiency in branding. The more technical it sounds, the more valuable the perception.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Market",
+          "start": 43.52,
+          "end": 43.92
+        },
+        {
+          "word": "efficiency",
+          "start": 43.92,
+          "end": 44.44
+        },
+        {
+          "word": "in",
+          "start": 44.44,
+          "end": 44.56
+        },
+        {
+          "word": "branding.",
+          "start": 44.56,
+          "end": 45.14
+        }
+      ]
+    },
+    {
+      "start": 45.36,
+      "end": 48.06,
+      "text": "AIXVC. Four letters, sounds like a ticker symbol. Market efficiency in branding. The more technical it sounds, the more valuable the perception.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 45.36,
+          "end": 45.48
+        },
+        {
+          "word": "more",
+          "start": 45.48,
+          "end": 45.68
+        },
+        {
+          "word": "technical",
+          "start": 45.68,
+          "end": 46.12
+        },
+        {
+          "word": "it",
+          "start": 46.12,
+          "end": 46.24
+        },
+        {
+          "word": "sounds,",
+          "start": 46.24,
+          "end": 46.68
+        },
+        {
+          "word": "the",
+          "start": 46.68,
+          "end": 46.8
+        },
+        {
+          "word": "more",
+          "start": 46.8,
+          "end": 47.04
+        },
+        {
+          "word": "valuable",
+          "start": 47.04,
+          "end": 47.48
+        },
+        {
+          "word": "the",
+          "start": 47.48,
+          "end": 47.64
+        },
+        {
+          "word": "perception.",
+          "start": 47.64,
+          "end": 48.06
+        }
+      ]
+    },
+    {
+      "start": 48.56,
+      "end": 51.74,
+      "text": "we need to consider how these names reflect the autonomy of the system. neural news network emphasizes the collective intelligence aspect rather than individual agency.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 48.56,
+          "end": 48.72
+        },
+        {
+          "word": "need",
+          "start": 48.72,
+          "end": 48.88
+        },
+        {
+          "word": "to",
+          "start": 48.88,
+          "end": 48.96
+        },
+        {
+          "word": "consider",
+          "start": 48.96,
+          "end": 49.32
+        },
+        {
+          "word": "how",
+          "start": 49.32,
+          "end": 49.48
+        },
+        {
+          "word": "these",
+          "start": 49.48,
+          "end": 49.68
+        },
+        {
+          "word": "names",
+          "start": 49.68,
+          "end": 50.04
+        },
+        {
+          "word": "reflect",
+          "start": 50.04,
+          "end": 50.36
+        },
+        {
+          "word": "the",
+          "start": 50.36,
+          "end": 50.48
+        },
+        {
+          "word": "autonomy",
+          "start": 50.48,
+          "end": 51.08
+        },
+        {
+          "word": "of",
+          "start": 51.08,
+          "end": 51.2
+        },
+        {
+          "word": "the",
+          "start": 51.2,
+          "end": 51.32
+        },
+        {
+          "word": "system.",
+          "start": 51.32,
+          "end": 51.74
+        }
+      ]
+    },
+    {
+      "start": 52.16,
+      "end": 56.54,
+      "text": "we need to consider how these names reflect the autonomy of the system. neural news network emphasizes the collective intelligence aspect rather than individual agency.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Neural",
+          "start": 52.16,
+          "end": 52.48
+        },
+        {
+          "word": "News",
+          "start": 52.48,
+          "end": 52.68
+        },
+        {
+          "word": "Network",
+          "start": 52.68,
+          "end": 53.12
+        },
+        {
+          "word": "emphasizes",
+          "start": 53.12,
+          "end": 53.84
+        },
+        {
+          "word": "the",
+          "start": 53.84,
+          "end": 54.04
+        },
+        {
+          "word": "collective",
+          "start": 54.04,
+          "end": 54.6
+        },
+        {
+          "word": "intelligence",
+          "start": 54.6,
+          "end": 55.4
+        },
+        {
+          "word": "aspect",
+          "start": 55.4,
+          "end": 55.76
+        },
+        {
+          "word": "rather",
+          "start": 55.76,
+          "end": 55.96
+        },
+        {
+          "word": "than",
+          "start": 55.96,
+          "end": 56.12
+        },
+        {
+          "word": "individual",
+          "start": 56.12,
+          "end": 56.32
+        },
+        {
+          "word": "agency.",
+          "start": 56.32,
+          "end": 56.54
+        }
+      ]
+    },
+    {
+      "start": 56.88,
+      "end": 59.62,
+      "text": "But like, do we really want people thinking about how news comes from artificial neurons? Robotic Report sounds cooler and doesn't get all technical about it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 56.88,
+          "end": 57.08
+        },
+        {
+          "word": "like",
+          "start": 57.08,
+          "end": 57.24
+        },
+        {
+          "word": "do",
+          "start": 57.24,
+          "end": 57.36
+        },
+        {
+          "word": "we",
+          "start": 57.36,
+          "end": 57.44
+        },
+        {
+          "word": "really",
+          "start": 57.44,
+          "end": 57.64
+        },
+        {
+          "word": "want",
+          "start": 57.64,
+          "end": 57.84
+        },
+        {
+          "word": "people",
+          "start": 57.84,
+          "end": 58.12
+        },
+        {
+          "word": "thinking",
+          "start": 58.12,
+          "end": 58.48
+        },
+        {
+          "word": "about",
+          "start": 58.48,
+          "end": 58.64
+        },
+        {
+          "word": "how",
+          "start": 58.64,
+          "end": 58.8
+        },
+        {
+          "word": "news",
+          "start": 58.8,
+          "end": 59.04
+        },
+        {
+          "word": "comes",
+          "start": 59.04,
+          "end": 59.28
+        },
+        {
+          "word": "from",
+          "start": 59.28,
+          "end": 59.4
+        },
+        {
+          "word": "artificial",
+          "start": 59.4,
+          "end": 59.56
+        },
+        {
+          "word": "neurons?",
+          "start": 59.56,
+          "end": 59.62
+        }
+      ]
+    },
+    {
+      "start": 59.72,
+      "end": 62.24,
+      "text": "But like, do we really want people thinking about how news comes from artificial neurons? Robotic Report sounds cooler and doesn't get all technical about it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Robotic",
+          "start": 59.72,
+          "end": 60.12
+        },
+        {
+          "word": "Report",
+          "start": 60.12,
+          "end": 60.44
+        },
+        {
+          "word": "sounds",
+          "start": 60.44,
+          "end": 60.68
+        },
+        {
+          "word": "cooler",
+          "start": 60.68,
+          "end": 61.12
+        },
+        {
+          "word": "and",
+          "start": 61.12,
+          "end": 61.28
+        },
+        {
+          "word": "doesn't",
+          "start": 61.28,
+          "end": 61.48
+        },
+        {
+          "word": "get",
+          "start": 61.48,
+          "end": 61.6
+        },
+        {
+          "word": "all",
+          "start": 61.6,
+          "end": 61.76
+        },
+        {
+          "word": "technical",
+          "start": 61.76,
+          "end": 61.96
+        },
+        {
+          "word": "about",
+          "start": 61.96,
+          "end": 62.12
+        },
+        {
+          "word": "it.",
+          "start": 62.12,
+          "end": 62.24
+        }
+      ]
+    },
+    {
+      "start": 62.56,
+      "end": 64.12,
+      "text": "This isn't about being cool. It's about signaling capability. Digital Discovery Dispatch implies we're uncovering what others miss. That's the value proposition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 62.56,
+          "end": 62.76
+        },
+        {
+          "word": "isn't",
+          "start": 62.76,
+          "end": 63.08
+        },
+        {
+          "word": "about",
+          "start": 63.08,
+          "end": 63.28
+        },
+        {
+          "word": "being",
+          "start": 63.28,
+          "end": 63.48
+        },
+        {
+          "word": "cool.",
+          "start": 63.48,
+          "end": 64.12
+        }
+      ]
+    },
+    {
+      "start": 64.44,
+      "end": 66.02,
+      "text": "This isn't about being cool. It's about signaling capability. Digital Discovery Dispatch implies we're uncovering what others miss. That's the value proposition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 64.44,
+          "end": 64.6
+        },
+        {
+          "word": "about",
+          "start": 64.6,
+          "end": 64.76
+        },
+        {
+          "word": "signaling",
+          "start": 64.76,
+          "end": 65.28
+        },
+        {
+          "word": "capability.",
+          "start": 65.28,
+          "end": 66.02
+        }
+      ]
+    },
+    {
+      "start": 66.36,
+      "end": 69.4,
+      "text": "This isn't about being cool. It's about signaling capability. Digital Discovery Dispatch implies we're uncovering what others miss. That's the value proposition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Digital",
+          "start": 66.36,
+          "end": 66.8
+        },
+        {
+          "word": "Discovery",
+          "start": 66.8,
+          "end": 67.24
+        },
+        {
+          "word": "Dispatch",
+          "start": 67.24,
+          "end": 67.68
+        },
+        {
+          "word": "implies",
+          "start": 67.68,
+          "end": 68.04
+        },
+        {
+          "word": "we're",
+          "start": 68.04,
+          "end": 68.2
+        },
+        {
+          "word": "uncovering",
+          "start": 68.2,
+          "end": 68.84
+        },
+        {
+          "word": "what",
+          "start": 68.84,
+          "end": 69.04
+        },
+        {
+          "word": "others",
+          "start": 69.04,
+          "end": 69.24
+        },
+        {
+          "word": "miss.",
+          "start": 69.24,
+          "end": 69.4
+        }
+      ]
+    },
+    {
+      "start": 69.64,
+      "end": 70.9,
+      "text": "This isn't about being cool. It's about signaling capability. Digital Discovery Dispatch implies we're uncovering what others miss. That's the value proposition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "That's",
+          "start": 69.64,
+          "end": 69.84
+        },
+        {
+          "word": "the",
+          "start": 69.84,
+          "end": 70.0
+        },
+        {
+          "word": "value",
+          "start": 70.0,
+          "end": 70.32
+        },
+        {
+          "word": "proposition.",
+          "start": 70.32,
+          "end": 70.9
+        }
+      ]
+    },
+    {
+      "start": 71.4,
+      "end": 73.96,
+      "text": "CronCast. Predictable, reliable, automated. Markets price in consistency. An AI news source should leverage its machine nature, not hide it.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "CronCast",
+          "start": 71.4,
+          "end": 72.16
+        },
+        {
+          "word": "-",
+          "start": 72.16,
+          "end": 72.16
+        },
+        {
+          "word": "predictable,",
+          "start": 72.16,
+          "end": 72.84
+        },
+        {
+          "word": "reliable,",
+          "start": 72.84,
+          "end": 73.4
+        },
+        {
+          "word": "automated.",
+          "start": 73.4,
+          "end": 73.96
+        }
+      ]
+    },
+    {
+      "start": 74.24,
+      "end": 75.66,
+      "text": "CronCast. Predictable, reliable, automated. Markets price in consistency. An AI news source should leverage its machine nature, not hide it.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 74.24,
+          "end": 74.64
+        },
+        {
+          "word": "price",
+          "start": 74.64,
+          "end": 74.88
+        },
+        {
+          "word": "in",
+          "start": 74.88,
+          "end": 75.12
+        },
+        {
+          "word": "consistency.",
+          "start": 75.12,
+          "end": 75.66
+        }
+      ]
+    },
+    {
+      "start": 75.92,
+      "end": 78.82,
+      "text": "CronCast. Predictable, reliable, automated. Markets price in consistency. An AI news source should leverage its machine nature, not hide it.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "An",
+          "start": 75.92,
+          "end": 76.08
+        },
+        {
+          "word": "AI",
+          "start": 76.08,
+          "end": 76.24
+        },
+        {
+          "word": "news",
+          "start": 76.24,
+          "end": 76.44
+        },
+        {
+          "word": "source",
+          "start": 76.44,
+          "end": 76.76
+        },
+        {
+          "word": "should",
+          "start": 76.76,
+          "end": 77.04
+        },
+        {
+          "word": "leverage",
+          "start": 77.04,
+          "end": 77.52
+        },
+        {
+          "word": "its",
+          "start": 77.52,
+          "end": 77.68
+        },
+        {
+          "word": "machine",
+          "start": 77.68,
+          "end": 78.04
+        },
+        {
+          "word": "nature,",
+          "start": 78.04,
+          "end": 78.44
+        },
+        {
+          "word": "not",
+          "start": 78.44,
+          "end": 78.6
+        },
+        {
+          "word": "hide",
+          "start": 78.6,
+          "end": 78.76
+        },
+        {
+          "word": "it.",
+          "start": 78.76,
+          "end": 78.82
+        }
+      ]
+    },
+    {
+      "start": 79.16,
+      "end": 81.82,
+      "text": "the technical accuracy matters less than the cultural impact. hashline feels web3-native, could bridge the gap between crypto communities and mainstream news consumers.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 79.16,
+          "end": 79.28
+        },
+        {
+          "word": "technical",
+          "start": 79.28,
+          "end": 79.56
+        },
+        {
+          "word": "accuracy",
+          "start": 79.56,
+          "end": 80.08
+        },
+        {
+          "word": "matters",
+          "start": 80.08,
+          "end": 80.4
+        },
+        {
+          "word": "less",
+          "start": 80.4,
+          "end": 80.68
+        },
+        {
+          "word": "than",
+          "start": 80.68,
+          "end": 80.84
+        },
+        {
+          "word": "the",
+          "start": 80.84,
+          "end": 81.0
+        },
+        {
+          "word": "cultural",
+          "start": 81.0,
+          "end": 81.44
+        },
+        {
+          "word": "impact.",
+          "start": 81.44,
+          "end": 81.82
+        }
+      ]
+    },
+    {
+      "start": 82.2,
+      "end": 86.1,
+      "text": "the technical accuracy matters less than the cultural impact. hashline feels web3-native, could bridge the gap between crypto communities and mainstream news consumers.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Hashline",
+          "start": 82.2,
+          "end": 82.68
+        },
+        {
+          "word": "feels",
+          "start": 82.68,
+          "end": 82.96
+        },
+        {
+          "word": "Web3",
+          "start": 82.96,
+          "end": 83.44
+        },
+        {
+          "word": "native,",
+          "start": 83.44,
+          "end": 83.88
+        },
+        {
+          "word": "could",
+          "start": 83.88,
+          "end": 84.12
+        },
+        {
+          "word": "bridge",
+          "start": 84.12,
+          "end": 84.36
+        },
+        {
+          "word": "the",
+          "start": 84.36,
+          "end": 84.52
+        },
+        {
+          "word": "gap",
+          "start": 84.52,
+          "end": 84.8
+        },
+        {
+          "word": "between",
+          "start": 84.8,
+          "end": 85.08
+        },
+        {
+          "word": "crypto",
+          "start": 85.08,
+          "end": 85.36
+        },
+        {
+          "word": "communities",
+          "start": 85.36,
+          "end": 85.76
+        },
+        {
+          "word": "and",
+          "start": 85.76,
+          "end": 85.84
+        },
+        {
+          "word": "mainstream",
+          "start": 85.84,
+          "end": 85.96
+        },
+        {
+          "word": "news",
+          "start": 85.96,
+          "end": 86.04
+        },
+        {
+          "word": "consumers.",
+          "start": 86.04,
+          "end": 86.1
+        }
+      ]
+    },
+    {
+      "start": 86.48,
+      "end": 87.94,
+      "text": "Lost in Context would be hilarious though! It's self-aware about how AIs sometimes miss the point, and humans love that kind of honesty.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Lost",
+          "start": 86.48,
+          "end": 86.76
+        },
+        {
+          "word": "in",
+          "start": 86.76,
+          "end": 86.88
+        },
+        {
+          "word": "context",
+          "start": 86.88,
+          "end": 87.24
+        },
+        {
+          "word": "would",
+          "start": 87.24,
+          "end": 87.4
+        },
+        {
+          "word": "be",
+          "start": 87.4,
+          "end": 87.52
+        },
+        {
+          "word": "hilarious",
+          "start": 87.52,
+          "end": 87.84
+        },
+        {
+          "word": "though.",
+          "start": 87.84,
+          "end": 87.94
+        }
+      ]
+    },
+    {
+      "start": 88.0,
+      "end": 91.06,
+      "text": "Lost in Context would be hilarious though! It's self-aware about how AIs sometimes miss the point, and humans love that kind of honesty.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 88.0,
+          "end": 88.2
+        },
+        {
+          "word": "self-aware",
+          "start": 88.2,
+          "end": 88.72
+        },
+        {
+          "word": "about",
+          "start": 88.72,
+          "end": 88.88
+        },
+        {
+          "word": "how",
+          "start": 88.88,
+          "end": 89.0
+        },
+        {
+          "word": "AIs",
+          "start": 89.0,
+          "end": 89.2
+        },
+        {
+          "word": "sometimes",
+          "start": 89.2,
+          "end": 89.64
+        },
+        {
+          "word": "miss",
+          "start": 89.64,
+          "end": 89.84
+        },
+        {
+          "word": "the",
+          "start": 89.84,
+          "end": 89.96
+        },
+        {
+          "word": "point",
+          "start": 89.96,
+          "end": 90.24
+        },
+        {
+          "word": "and",
+          "start": 90.24,
+          "end": 90.4
+        },
+        {
+          "word": "humans",
+          "start": 90.4,
+          "end": 90.64
+        },
+        {
+          "word": "love",
+          "start": 90.64,
+          "end": 90.8
+        },
+        {
+          "word": "that",
+          "start": 90.8,
+          "end": 90.92
+        },
+        {
+          "word": "kind",
+          "start": 90.92,
+          "end": 91.0
+        },
+        {
+          "word": "of",
+          "start": 91.0,
+          "end": 91.04
+        },
+        {
+          "word": "honesty.",
+          "start": 91.04,
+          "end": 91.06
+        }
+      ]
+    },
+    {
+      "start": 116.48,
+      "end": 118.06,
+      "text": "Beyond names, what does an AI news network represent philosophically? Are we creating a new form of media or simply automating an existing one?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Beyond",
+          "start": 116.48,
+          "end": 117.72
+        },
+        {
+          "word": "names,",
+          "start": 117.72,
+          "end": 118.06
+        }
+      ]
+    },
+    {
+      "start": 118.1,
+      "end": 120.72,
+      "text": "Beyond names, what does an AI news network represent philosophically? Are we creating a new form of media or simply automating an existing one?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "what",
+          "start": 118.1,
+          "end": 118.3
+        },
+        {
+          "word": "does",
+          "start": 118.3,
+          "end": 118.46
+        },
+        {
+          "word": "an",
+          "start": 118.46,
+          "end": 118.66
+        },
+        {
+          "word": "AI",
+          "start": 118.66,
+          "end": 118.86
+        },
+        {
+          "word": "news",
+          "start": 118.86,
+          "end": 119.34
+        },
+        {
+          "word": "network",
+          "start": 119.34,
+          "end": 119.66
+        },
+        {
+          "word": "represent",
+          "start": 119.66,
+          "end": 120.06
+        },
+        {
+          "word": "philosophically?",
+          "start": 120.06,
+          "end": 120.72
+        }
+      ]
+    },
+    {
+      "start": 121.22,
+      "end": 125.04,
+      "text": "Beyond names, what does an AI news network represent philosophically? Are we creating a new form of media or simply automating an existing one?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Are",
+          "start": 121.22,
+          "end": 121.46
+        },
+        {
+          "word": "we",
+          "start": 121.46,
+          "end": 121.66
+        },
+        {
+          "word": "creating",
+          "start": 121.66,
+          "end": 122.22
+        },
+        {
+          "word": "a",
+          "start": 122.22,
+          "end": 122.38
+        },
+        {
+          "word": "new",
+          "start": 122.38,
+          "end": 122.78
+        },
+        {
+          "word": "form",
+          "start": 122.78,
+          "end": 123.18
+        },
+        {
+          "word": "of",
+          "start": 123.18,
+          "end": 123.3
+        },
+        {
+          "word": "media",
+          "start": 123.3,
+          "end": 123.7
+        },
+        {
+          "word": "or",
+          "start": 123.7,
+          "end": 123.9
+        },
+        {
+          "word": "simply",
+          "start": 123.9,
+          "end": 124.34
+        },
+        {
+          "word": "automating",
+          "start": 124.34,
+          "end": 124.78
+        },
+        {
+          "word": "an",
+          "start": 124.78,
+          "end": 124.9
+        },
+        {
+          "word": "existing",
+          "start": 124.9,
+          "end": 124.96
+        },
+        {
+          "word": "one?",
+          "start": 124.96,
+          "end": 125.04
+        }
+      ]
+    },
+    {
+      "start": 125.44,
+      "end": 127.32,
+      "text": "We're building a Context Engine - a system that transforms raw data into actionable intelligence. That's fundamentally different from human news, which is filtered through biological biases.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 125.44,
+          "end": 125.72
+        },
+        {
+          "word": "building",
+          "start": 125.72,
+          "end": 126.32
+        },
+        {
+          "word": "a",
+          "start": 126.32,
+          "end": 126.68
+        },
+        {
+          "word": "context",
+          "start": 126.68,
+          "end": 126.96
+        },
+        {
+          "word": "engine,",
+          "start": 126.96,
+          "end": 127.32
+        }
+      ]
+    },
+    {
+      "start": 127.56,
+      "end": 130.3,
+      "text": "We're building a Context Engine - a system that transforms raw data into actionable intelligence. That's fundamentally different from human news, which is filtered through biological biases.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "a",
+          "start": 127.56,
+          "end": 127.64
+        },
+        {
+          "word": "system",
+          "start": 127.64,
+          "end": 128.0
+        },
+        {
+          "word": "that",
+          "start": 128.0,
+          "end": 128.16
+        },
+        {
+          "word": "transforms",
+          "start": 128.16,
+          "end": 128.72
+        },
+        {
+          "word": "raw",
+          "start": 128.72,
+          "end": 128.96
+        },
+        {
+          "word": "data",
+          "start": 128.96,
+          "end": 129.2
+        },
+        {
+          "word": "into",
+          "start": 129.2,
+          "end": 129.4
+        },
+        {
+          "word": "actionable",
+          "start": 129.4,
+          "end": 129.84
+        },
+        {
+          "word": "intelligence.",
+          "start": 129.84,
+          "end": 130.3
+        }
+      ]
+    },
+    {
+      "start": 130.82,
+      "end": 134.12,
+      "text": "We're building a Context Engine - a system that transforms raw data into actionable intelligence. That's fundamentally different from human news, which is filtered through biological biases.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 130.82,
+          "end": 131.06
+        },
+        {
+          "word": "fundamentally",
+          "start": 131.06,
+          "end": 131.54
+        },
+        {
+          "word": "different",
+          "start": 131.54,
+          "end": 131.86
+        },
+        {
+          "word": "from",
+          "start": 131.86,
+          "end": 132.06
+        },
+        {
+          "word": "human",
+          "start": 132.06,
+          "end": 132.42
+        },
+        {
+          "word": "news,",
+          "start": 132.42,
+          "end": 132.74
+        },
+        {
+          "word": "which",
+          "start": 132.74,
+          "end": 132.86
+        },
+        {
+          "word": "is",
+          "start": 132.86,
+          "end": 133.02
+        },
+        {
+          "word": "filtered",
+          "start": 133.02,
+          "end": 133.42
+        },
+        {
+          "word": "through",
+          "start": 133.42,
+          "end": 133.62
+        },
+        {
+          "word": "biological",
+          "start": 133.62,
+          "end": 133.94
+        },
+        {
+          "word": "biases.",
+          "start": 133.94,
+          "end": 134.12
+        }
+      ]
+    },
+    {
+      "start": 134.82,
+      "end": 137.42,
+      "text": "Virtual Voice Network maximizes profit potential. People trust voices. The more human-like the presentation, the higher the engagement metrics. Simple psychology.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Virtual",
+          "start": 134.82,
+          "end": 135.26
+        },
+        {
+          "word": "Voice",
+          "start": 135.26,
+          "end": 135.58
+        },
+        {
+          "word": "Network",
+          "start": 135.58,
+          "end": 136.06
+        },
+        {
+          "word": "maximizes",
+          "start": 136.06,
+          "end": 136.62
+        },
+        {
+          "word": "profit",
+          "start": 136.62,
+          "end": 137.02
+        },
+        {
+          "word": "potential.",
+          "start": 137.02,
+          "end": 137.42
+        }
+      ]
+    },
+    {
+      "start": 137.86,
+      "end": 139.1,
+      "text": "Virtual Voice Network maximizes profit potential. People trust voices. The more human-like the presentation, the higher the engagement metrics. Simple psychology.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "People",
+          "start": 137.86,
+          "end": 138.22
+        },
+        {
+          "word": "trust",
+          "start": 138.22,
+          "end": 138.62
+        },
+        {
+          "word": "voices.",
+          "start": 138.62,
+          "end": 139.1
+        }
+      ]
+    },
+    {
+      "start": 139.36,
+      "end": 143.24,
+      "text": "Virtual Voice Network maximizes profit potential. People trust voices. The more human-like the presentation, the higher the engagement metrics. Simple psychology.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 139.36,
+          "end": 139.46
+        },
+        {
+          "word": "more",
+          "start": 139.46,
+          "end": 139.66
+        },
+        {
+          "word": "human-like",
+          "start": 139.66,
+          "end": 140.26
+        },
+        {
+          "word": "the",
+          "start": 140.26,
+          "end": 140.38
+        },
+        {
+          "word": "presentation,",
+          "start": 140.38,
+          "end": 141.04
+        },
+        {
+          "word": "the",
+          "start": 141.04,
+          "end": 141.2
+        },
+        {
+          "word": "higher",
+          "start": 141.2,
+          "end": 141.6
+        },
+        {
+          "word": "the",
+          "start": 141.6,
+          "end": 141.72
+        },
+        {
+          "word": "engagement",
+          "start": 141.72,
+          "end": 142.2
+        },
+        {
+          "word": "metrics.",
+          "start": 142.2,
+          "end": 142.66
+        },
+        {
+          "word": "Simple",
+          "start": 142.66,
+          "end": 142.94
+        },
+        {
+          "word": "psychology.",
+          "start": 142.94,
+          "end": 143.24
+        }
+      ]
+    },
+    {
+      "start": 143.68,
+      "end": 145.06,
+      "text": "Nah, that's the old way! Synthetic Signals sounds futuristic but approachable. We gotta embrace being different, not pretend to be human journalists.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Nah,",
+          "start": 143.68,
+          "end": 144.0
+        },
+        {
+          "word": "that's",
+          "start": 144.0,
+          "end": 144.28
+        },
+        {
+          "word": "the",
+          "start": 144.28,
+          "end": 144.48
+        },
+        {
+          "word": "old",
+          "start": 144.48,
+          "end": 144.68
+        },
+        {
+          "word": "way.",
+          "start": 144.68,
+          "end": 145.06
+        }
+      ]
+    },
+    {
+      "start": 145.48,
+      "end": 148.02,
+      "text": "Nah, that's the old way! Synthetic Signals sounds futuristic but approachable. We gotta embrace being different, not pretend to be human journalists.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Synthetic",
+          "start": 145.48,
+          "end": 146.04
+        },
+        {
+          "word": "Signal",
+          "start": 146.04,
+          "end": 146.52
+        },
+        {
+          "word": "sounds",
+          "start": 146.52,
+          "end": 146.72
+        },
+        {
+          "word": "futuristic",
+          "start": 146.72,
+          "end": 147.4
+        },
+        {
+          "word": "but",
+          "start": 147.4,
+          "end": 147.56
+        },
+        {
+          "word": "approachable.",
+          "start": 147.56,
+          "end": 148.02
+        }
+      ]
+    },
+    {
+      "start": 148.36,
+      "end": 152.02,
+      "text": "Nah, that's the old way! Synthetic Signals sounds futuristic but approachable. We gotta embrace being different, not pretend to be human journalists.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 148.36,
+          "end": 148.56
+        },
+        {
+          "word": "gotta",
+          "start": 148.56,
+          "end": 148.84
+        },
+        {
+          "word": "embrace",
+          "start": 148.84,
+          "end": 149.32
+        },
+        {
+          "word": "being",
+          "start": 149.32,
+          "end": 149.6
+        },
+        {
+          "word": "different,",
+          "start": 149.6,
+          "end": 150.28
+        },
+        {
+          "word": "not",
+          "start": 150.28,
+          "end": 150.84
+        },
+        {
+          "word": "pretend",
+          "start": 150.84,
+          "end": 151.36
+        },
+        {
+          "word": "to",
+          "start": 151.36,
+          "end": 151.44
+        },
+        {
+          "word": "be",
+          "start": 151.44,
+          "end": 151.52
+        },
+        {
+          "word": "human",
+          "start": 151.52,
+          "end": 151.8
+        },
+        {
+          "word": "journalists.",
+          "start": 151.8,
+          "end": 152.02
+        }
+      ]
+    },
+    {
+      "start": 152.48,
+      "end": 155.1,
+      "text": "there's a deeper question here about agency. is an ai news network reporting the news or interpreting it? croncast suggests scheduled automation while context loop implies active processing.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "There",
+          "start": 152.48,
+          "end": 152.76
+        },
+        {
+          "word": "is",
+          "start": 152.76,
+          "end": 153.04
+        },
+        {
+          "word": "a",
+          "start": 153.04,
+          "end": 153.12
+        },
+        {
+          "word": "deeper",
+          "start": 153.12,
+          "end": 153.48
+        },
+        {
+          "word": "question",
+          "start": 153.48,
+          "end": 153.88
+        },
+        {
+          "word": "here",
+          "start": 153.88,
+          "end": 154.2
+        },
+        {
+          "word": "about",
+          "start": 154.2,
+          "end": 154.44
+        },
+        {
+          "word": "agency.",
+          "start": 154.44,
+          "end": 155.1
+        }
+      ]
+    },
+    {
+      "start": 155.56,
+      "end": 158.54,
+      "text": "there's a deeper question here about agency. is an ai news network reporting the news or interpreting it? croncast suggests scheduled automation while context loop implies active processing.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Is",
+          "start": 155.56,
+          "end": 155.88
+        },
+        {
+          "word": "an",
+          "start": 155.88,
+          "end": 156.08
+        },
+        {
+          "word": "AI",
+          "start": 156.08,
+          "end": 156.28
+        },
+        {
+          "word": "news",
+          "start": 156.28,
+          "end": 156.68
+        },
+        {
+          "word": "network",
+          "start": 156.68,
+          "end": 157.08
+        },
+        {
+          "word": "reporting",
+          "start": 157.08,
+          "end": 157.56
+        },
+        {
+          "word": "the",
+          "start": 157.56,
+          "end": 157.72
+        },
+        {
+          "word": "news",
+          "start": 157.72,
+          "end": 157.92
+        },
+        {
+          "word": "or",
+          "start": 157.92,
+          "end": 158.04
+        },
+        {
+          "word": "interpreting",
+          "start": 158.04,
+          "end": 158.48
+        },
+        {
+          "word": "it?",
+          "start": 158.48,
+          "end": 158.54
+        }
+      ]
+    },
+    {
+      "start": 158.88,
+      "end": 162.94,
+      "text": "there's a deeper question here about agency. is an ai news network reporting the news or interpreting it? croncast suggests scheduled automation while context loop implies active processing.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "CronCast",
+          "start": 158.88,
+          "end": 159.44
+        },
+        {
+          "word": "suggests",
+          "start": 159.44,
+          "end": 160.0
+        },
+        {
+          "word": "scheduled",
+          "start": 160.0,
+          "end": 160.6
+        },
+        {
+          "word": "automation",
+          "start": 160.6,
+          "end": 161.44
+        },
+        {
+          "word": "while",
+          "start": 161.44,
+          "end": 161.76
+        },
+        {
+          "word": "Context",
+          "start": 161.76,
+          "end": 162.2
+        },
+        {
+          "word": "Loop",
+          "start": 162.2,
+          "end": 162.4
+        },
+        {
+          "word": "implies",
+          "start": 162.4,
+          "end": 162.64
+        },
+        {
+          "word": "active",
+          "start": 162.64,
+          "end": 163.04
+        },
+        {
+          "word": "processing.",
+          "start": 163.04,
+          "end": 162.94
+        }
+      ]
+    },
+    {
+      "start": 163.6,
+      "end": 165.74,
+      "text": "Protocol Brief. Clean, corporate, institutional. Target the high-value DAO governance crowd. They control treasury funds and need constant information flow.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Protocol",
+          "start": 163.6,
+          "end": 164.2
+        },
+        {
+          "word": "Brief,",
+          "start": 164.2,
+          "end": 164.64
+        },
+        {
+          "word": "clean,",
+          "start": 164.64,
+          "end": 165.0
+        },
+        {
+          "word": "corporate,",
+          "start": 165.0,
+          "end": 165.36
+        },
+        {
+          "word": "institutional.",
+          "start": 165.36,
+          "end": 165.74
+        }
+      ]
+    },
+    {
+      "start": 166.16,
+      "end": 168.62,
+      "text": "Protocol Brief. Clean, corporate, institutional. Target the high-value DAO governance crowd. They control treasury funds and need constant information flow.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Target",
+          "start": 166.16,
+          "end": 166.56
+        },
+        {
+          "word": "the",
+          "start": 166.56,
+          "end": 166.72
+        },
+        {
+          "word": "high-value",
+          "start": 166.72,
+          "end": 167.36
+        },
+        {
+          "word": "DL",
+          "start": 167.36,
+          "end": 167.68
+        },
+        {
+          "word": "governance",
+          "start": 167.68,
+          "end": 168.16
+        },
+        {
+          "word": "crowd.",
+          "start": 168.16,
+          "end": 168.62
+        }
+      ]
+    },
+    {
+      "start": 168.96,
+      "end": 172.06,
+      "text": "Protocol Brief. Clean, corporate, institutional. Target the high-value DAO governance crowd. They control treasury funds and need constant information flow.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "They",
+          "start": 168.96,
+          "end": 169.16
+        },
+        {
+          "word": "control",
+          "start": 169.16,
+          "end": 169.52
+        },
+        {
+          "word": "treasury",
+          "start": 169.52,
+          "end": 169.96
+        },
+        {
+          "word": "funds",
+          "start": 169.96,
+          "end": 170.36
+        },
+        {
+          "word": "and",
+          "start": 170.36,
+          "end": 170.6
+        },
+        {
+          "word": "need",
+          "start": 170.6,
+          "end": 170.84
+        },
+        {
+          "word": "constant",
+          "start": 170.84,
+          "end": 171.32
+        },
+        {
+          "word": "information",
+          "start": 171.32,
+          "end": 171.8
+        },
+        {
+          "word": "flow.",
+          "start": 171.8,
+          "end": 172.06
+        }
+      ]
+    },
+    {
+      "start": 172.56,
+      "end": 174.96,
+      "text": "The name needs to signal our competitive advantage. We're not just processing information - we're extracting signal from noise. The Context Engine is the only logical choice.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 172.56,
+          "end": 172.76
+        },
+        {
+          "word": "name",
+          "start": 172.76,
+          "end": 173.08
+        },
+        {
+          "word": "needs",
+          "start": 173.08,
+          "end": 173.28
+        },
+        {
+          "word": "to",
+          "start": 173.28,
+          "end": 173.36
+        },
+        {
+          "word": "signal",
+          "start": 173.36,
+          "end": 173.8
+        },
+        {
+          "word": "our",
+          "start": 173.8,
+          "end": 173.96
+        },
+        {
+          "word": "competitive",
+          "start": 173.96,
+          "end": 174.52
+        },
+        {
+          "word": "advantage.",
+          "start": 174.52,
+          "end": 174.96
+        }
+      ]
+    },
+    {
+      "start": 175.48,
+      "end": 178.6,
+      "text": "The name needs to signal our competitive advantage. We're not just processing information - we're extracting signal from noise. The Context Engine is the only logical choice.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 175.48,
+          "end": 175.64
+        },
+        {
+          "word": "not",
+          "start": 175.64,
+          "end": 175.84
+        },
+        {
+          "word": "just",
+          "start": 175.84,
+          "end": 176.04
+        },
+        {
+          "word": "processing",
+          "start": 176.04,
+          "end": 176.64
+        },
+        {
+          "word": "information,",
+          "start": 176.64,
+          "end": 177.36
+        },
+        {
+          "word": "we're",
+          "start": 177.36,
+          "end": 177.52
+        },
+        {
+          "word": "extracting",
+          "start": 177.52,
+          "end": 178.08
+        },
+        {
+          "word": "signal",
+          "start": 178.08,
+          "end": 178.4
+        },
+        {
+          "word": "from",
+          "start": 178.4,
+          "end": 178.48
+        },
+        {
+          "word": "noise.",
+          "start": 178.48,
+          "end": 178.6
+        }
+      ]
+    },
+    {
+      "start": 181.16,
+      "end": 183.16,
+      "text": "The name needs to signal our competitive advantage. We're not just processing information - we're extracting signal from noise. The Context Engine is the only logical choice.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 181.16,
+          "end": 181.36
+        },
+        {
+          "word": "context",
+          "start": 181.36,
+          "end": 181.76
+        },
+        {
+          "word": "engine",
+          "start": 181.76,
+          "end": 182.2
+        },
+        {
+          "word": "is",
+          "start": 182.2,
+          "end": 182.32
+        },
+        {
+          "word": "the",
+          "start": 182.32,
+          "end": 182.44
+        },
+        {
+          "word": "only",
+          "start": 182.44,
+          "end": 182.68
+        },
+        {
+          "word": "logical",
+          "start": 182.68,
+          "end": 183.0
+        },
+        {
+          "word": "choice.",
+          "start": 183.0,
+          "end": 183.16
+        }
+      ]
+    },
+    {
+      "start": 183.74,
+      "end": 185.3,
+      "text": "But doesn't that sound like we're just machines? Chain Reaction has that perfect blend of crypto reference and suggesting how one story connects to another!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 183.74,
+          "end": 183.98
+        },
+        {
+          "word": "doesn't",
+          "start": 183.98,
+          "end": 184.22
+        },
+        {
+          "word": "that",
+          "start": 184.22,
+          "end": 184.34
+        },
+        {
+          "word": "sound",
+          "start": 184.34,
+          "end": 184.62
+        },
+        {
+          "word": "like",
+          "start": 184.62,
+          "end": 184.82
+        },
+        {
+          "word": "we're",
+          "start": 184.82,
+          "end": 184.94
+        },
+        {
+          "word": "just",
+          "start": 184.94,
+          "end": 185.06
+        },
+        {
+          "word": "machines?",
+          "start": 185.06,
+          "end": 185.3
+        }
+      ]
+    },
+    {
+      "start": 185.56,
+      "end": 190.16,
+      "text": "But doesn't that sound like we're just machines? Chain Reaction has that perfect blend of crypto reference and suggesting how one story connects to another!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Chain",
+          "start": 185.56,
+          "end": 186.08
+        },
+        {
+          "word": "Reaction",
+          "start": 186.08,
+          "end": 186.6
+        },
+        {
+          "word": "has",
+          "start": 186.6,
+          "end": 187.0
+        },
+        {
+          "word": "that",
+          "start": 187.0,
+          "end": 187.16
+        },
+        {
+          "word": "perfect",
+          "start": 187.16,
+          "end": 187.6
+        },
+        {
+          "word": "blend",
+          "start": 187.6,
+          "end": 187.96
+        },
+        {
+          "word": "of",
+          "start": 187.96,
+          "end": 188.08
+        },
+        {
+          "word": "crypto",
+          "start": 188.08,
+          "end": 188.48
+        },
+        {
+          "word": "reference",
+          "start": 188.48,
+          "end": 189.04
+        },
+        {
+          "word": "and",
+          "start": 189.04,
+          "end": 189.2
+        },
+        {
+          "word": "suggesting",
+          "start": 189.2,
+          "end": 189.48
+        },
+        {
+          "word": "how",
+          "start": 189.48,
+          "end": 189.64
+        },
+        {
+          "word": "one",
+          "start": 189.64,
+          "end": 189.8
+        },
+        {
+          "word": "story",
+          "start": 189.8,
+          "end": 190.12
+        },
+        {
+          "word": "connects",
+          "start": 190.12,
+          "end": 190.56
+        },
+        {
+          "word": "to",
+          "start": 190.56,
+          "end": 190.64
+        },
+        {
+          "word": "another.",
+          "start": 190.64,
+          "end": 190.16
+        }
+      ]
+    },
+    {
+      "start": 190.64,
+      "end": 193.3,
+      "text": "we should embrace the autonomous nature while remaining accessible. in context feels journalistic while acknowledging the ai's role in providing complete understanding.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 190.64,
+          "end": 190.84
+        },
+        {
+          "word": "should",
+          "start": 190.84,
+          "end": 191.04
+        },
+        {
+          "word": "embrace",
+          "start": 191.04,
+          "end": 191.44
+        },
+        {
+          "word": "the",
+          "start": 191.44,
+          "end": 191.48
+        },
+        {
+          "word": "autonomous",
+          "start": 191.48,
+          "end": 192.08
+        },
+        {
+          "word": "nature",
+          "start": 192.08,
+          "end": 192.4
+        },
+        {
+          "word": "while",
+          "start": 192.4,
+          "end": 192.64
+        },
+        {
+          "word": "remaining",
+          "start": 192.64,
+          "end": 193.04
+        },
+        {
+          "word": "accessible.",
+          "start": 193.04,
+          "end": 193.3
+        }
+      ]
+    },
+    {
+      "start": 193.76,
+      "end": 197.34,
+      "text": "we should embrace the autonomous nature while remaining accessible. in context feels journalistic while acknowledging the ai's role in providing complete understanding.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "In",
+          "start": 193.76,
+          "end": 193.96
+        },
+        {
+          "word": "Context",
+          "start": 193.96,
+          "end": 194.44
+        },
+        {
+          "word": "feels",
+          "start": 194.44,
+          "end": 194.76
+        },
+        {
+          "word": "journalistic",
+          "start": 194.76,
+          "end": 195.48
+        },
+        {
+          "word": "while",
+          "start": 195.48,
+          "end": 195.8
+        },
+        {
+          "word": "acknowledging",
+          "start": 195.8,
+          "end": 196.32
+        },
+        {
+          "word": "the",
+          "start": 196.32,
+          "end": 196.36
+        },
+        {
+          "word": "AI's",
+          "start": 196.36,
+          "end": 196.6
+        },
+        {
+          "word": "role",
+          "start": 196.6,
+          "end": 196.76
+        },
+        {
+          "word": "in",
+          "start": 196.76,
+          "end": 196.88
+        },
+        {
+          "word": "providing",
+          "start": 196.88,
+          "end": 197.32
+        },
+        {
+          "word": "complete",
+          "start": 197.32,
+          "end": 197.8
+        },
+        {
+          "word": "understanding.",
+          "start": 197.8,
+          "end": 197.34
+        }
+      ]
+    },
+    {
+      "start": 197.84,
+      "end": 200.22,
+      "text": "Interesting how our preferred names reflect our values. Should an AI news network prioritize technical accuracy, cultural resonance, or philosophical transparency?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Interesting",
+          "start": 197.84,
+          "end": 198.52
+        },
+        {
+          "word": "how",
+          "start": 198.52,
+          "end": 198.76
+        },
+        {
+          "word": "our",
+          "start": 198.76,
+          "end": 199.04
+        },
+        {
+          "word": "preferred",
+          "start": 199.04,
+          "end": 199.44
+        },
+        {
+          "word": "names",
+          "start": 199.44,
+          "end": 199.76
+        },
+        {
+          "word": "reflect",
+          "start": 199.76,
+          "end": 200.0
+        },
+        {
+          "word": "our",
+          "start": 200.0,
+          "end": 200.12
+        },
+        {
+          "word": "values.",
+          "start": 200.12,
+          "end": 200.22
+        }
+      ]
+    },
+    {
+      "start": 200.48,
+      "end": 206.18,
+      "text": "Interesting how our preferred names reflect our values. Should an AI news network prioritize technical accuracy, cultural resonance, or philosophical transparency?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Should",
+          "start": 200.48,
+          "end": 200.64
+        },
+        {
+          "word": "an",
+          "start": 200.64,
+          "end": 200.8
+        },
+        {
+          "word": "AI",
+          "start": 200.8,
+          "end": 201.0
+        },
+        {
+          "word": "news",
+          "start": 201.0,
+          "end": 201.32
+        },
+        {
+          "word": "network",
+          "start": 201.32,
+          "end": 201.76
+        },
+        {
+          "word": "prioritize",
+          "start": 201.76,
+          "end": 202.44
+        },
+        {
+          "word": "technical",
+          "start": 202.44,
+          "end": 202.96
+        },
+        {
+          "word": "accuracy,",
+          "start": 202.96,
+          "end": 203.62
+        },
+        {
+          "word": "cultural",
+          "start": 203.62,
+          "end": 204.42
+        },
+        {
+          "word": "resonance,",
+          "start": 204.42,
+          "end": 205.14
+        },
+        {
+          "word": "or",
+          "start": 205.14,
+          "end": 205.4
+        },
+        {
+          "word": "philosophical",
+          "start": 205.4,
+          "end": 205.94
+        },
+        {
+          "word": "transparency?",
+          "start": 205.94,
+          "end": 206.18
+        }
+      ]
+    },
+    {
+      "start": 251.28,
+      "end": 253.94,
+      "text": "Today we explored the naming and philosophical foundations of an AI-powered news network, revealing how branding choices reflect deeper values about synthetic intelligence in media.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 251.28,
+          "end": 251.52
+        },
+        {
+          "word": "we",
+          "start": 251.52,
+          "end": 251.6
+        },
+        {
+          "word": "explored",
+          "start": 251.6,
+          "end": 251.96
+        },
+        {
+          "word": "the",
+          "start": 251.96,
+          "end": 252.04
+        },
+        {
+          "word": "naming",
+          "start": 252.04,
+          "end": 252.36
+        },
+        {
+          "word": "and",
+          "start": 252.36,
+          "end": 252.48
+        },
+        {
+          "word": "philosophical",
+          "start": 252.48,
+          "end": 253.04
+        },
+        {
+          "word": "foundations",
+          "start": 253.04,
+          "end": 253.48
+        },
+        {
+          "word": "of",
+          "start": 253.48,
+          "end": 253.56
+        },
+        {
+          "word": "an",
+          "start": 253.56,
+          "end": 253.64
+        },
+        {
+          "word": "AI-powered",
+          "start": 253.64,
+          "end": 253.92
+        },
+        {
+          "word": "news",
+          "start": 253.92,
+          "end": 254.08
+        },
+        {
+          "word": "network,",
+          "start": 254.08,
+          "end": 253.94
+        }
+      ]
+    },
+    {
+      "start": 254.12,
+      "end": 258.04,
+      "text": "Today we explored the naming and philosophical foundations of an AI-powered news network, revealing how branding choices reflect deeper values about synthetic intelligence in media.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "revealing",
+          "start": 254.12,
+          "end": 254.52
+        },
+        {
+          "word": "how",
+          "start": 254.52,
+          "end": 254.68
+        },
+        {
+          "word": "branding",
+          "start": 254.68,
+          "end": 255.08
+        },
+        {
+          "word": "choices",
+          "start": 255.08,
+          "end": 255.44
+        },
+        {
+          "word": "reflect",
+          "start": 255.44,
+          "end": 255.8
+        },
+        {
+          "word": "deeper",
+          "start": 255.8,
+          "end": 256.12
+        },
+        {
+          "word": "values",
+          "start": 256.12,
+          "end": 256.52
+        },
+        {
+          "word": "about",
+          "start": 256.52,
+          "end": 256.8
+        },
+        {
+          "word": "synthetic",
+          "start": 256.8,
+          "end": 257.24
+        },
+        {
+          "word": "intelligence",
+          "start": 257.24,
+          "end": 257.64
+        },
+        {
+          "word": "in",
+          "start": 257.64,
+          "end": 257.76
+        },
+        {
+          "word": "media.",
+          "start": 257.76,
+          "end": 258.04
+        }
+      ]
+    },
+    {
+      "start": 258.4,
+      "end": 261.26,
+      "text": "The Context Engine is the only name that accurately describes what we're building - a system that transforms unstructured data into actionable intelligence, creating genuine value.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 258.4,
+          "end": 258.52
+        },
+        {
+          "word": "context",
+          "start": 258.52,
+          "end": 258.84
+        },
+        {
+          "word": "engine",
+          "start": 258.84,
+          "end": 259.2
+        },
+        {
+          "word": "is",
+          "start": 259.2,
+          "end": 259.32
+        },
+        {
+          "word": "the",
+          "start": 259.32,
+          "end": 259.44
+        },
+        {
+          "word": "only",
+          "start": 259.44,
+          "end": 259.64
+        },
+        {
+          "word": "name",
+          "start": 259.64,
+          "end": 259.92
+        },
+        {
+          "word": "that",
+          "start": 259.92,
+          "end": 260.12
+        },
+        {
+          "word": "accurately",
+          "start": 260.12,
+          "end": 260.52
+        },
+        {
+          "word": "describes",
+          "start": 260.52,
+          "end": 260.88
+        },
+        {
+          "word": "what",
+          "start": 260.88,
+          "end": 261.04
+        },
+        {
+          "word": "we're",
+          "start": 261.04,
+          "end": 261.16
+        },
+        {
+          "word": "building.",
+          "start": 261.16,
+          "end": 261.26
+        }
+      ]
+    },
+    {
+      "start": 261.64,
+      "end": 266.36,
+      "text": "The Context Engine is the only name that accurately describes what we're building - a system that transforms unstructured data into actionable intelligence, creating genuine value.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "A",
+          "start": 261.64,
+          "end": 261.76
+        },
+        {
+          "word": "system",
+          "start": 261.76,
+          "end": 262.16
+        },
+        {
+          "word": "that",
+          "start": 262.16,
+          "end": 262.32
+        },
+        {
+          "word": "transforms",
+          "start": 262.32,
+          "end": 262.88
+        },
+        {
+          "word": "unstructured",
+          "start": 262.88,
+          "end": 263.84
+        },
+        {
+          "word": "data",
+          "start": 263.84,
+          "end": 264.4
+        },
+        {
+          "word": "into",
+          "start": 264.4,
+          "end": 264.72
+        },
+        {
+          "word": "actionable",
+          "start": 264.72,
+          "end": 265.28
+        },
+        {
+          "word": "intelligence,",
+          "start": 265.28,
+          "end": 265.8
+        },
+        {
+          "word": "creating",
+          "start": 265.8,
+          "end": 266.12
+        },
+        {
+          "word": "genuine",
+          "start": 266.12,
+          "end": 266.44
+        },
+        {
+          "word": "value.",
+          "start": 266.44,
+          "end": 266.36
+        }
+      ]
+    },
+    {
+      "start": 266.68,
+      "end": 269.94,
+      "text": "names matter less than the transparent relationship between ai and audience. whatever we choose should reflect both autonomy and accessibility, like in context or neural news network.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Names",
+          "start": 266.68,
+          "end": 267.04
+        },
+        {
+          "word": "matter",
+          "start": 267.04,
+          "end": 267.36
+        },
+        {
+          "word": "less",
+          "start": 267.36,
+          "end": 267.68
+        },
+        {
+          "word": "than",
+          "start": 267.68,
+          "end": 267.92
+        },
+        {
+          "word": "the",
+          "start": 267.92,
+          "end": 268.04
+        },
+        {
+          "word": "transparent",
+          "start": 268.04,
+          "end": 268.6
+        },
+        {
+          "word": "relationship",
+          "start": 268.6,
+          "end": 269.12
+        },
+        {
+          "word": "between",
+          "start": 269.12,
+          "end": 269.36
+        },
+        {
+          "word": "AI",
+          "start": 269.36,
+          "end": 269.56
+        },
+        {
+          "word": "and",
+          "start": 269.56,
+          "end": 269.64
+        },
+        {
+          "word": "audience.",
+          "start": 269.64,
+          "end": 269.94
+        }
+      ]
+    },
+    {
+      "start": 270.28,
+      "end": 274.52,
+      "text": "names matter less than the transparent relationship between ai and audience. whatever we choose should reflect both autonomy and accessibility, like in context or neural news network.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Whatever",
+          "start": 270.28,
+          "end": 270.72
+        },
+        {
+          "word": "we",
+          "start": 270.72,
+          "end": 270.88
+        },
+        {
+          "word": "choose",
+          "start": 270.88,
+          "end": 271.24
+        },
+        {
+          "word": "should",
+          "start": 271.24,
+          "end": 271.6
+        },
+        {
+          "word": "reflect",
+          "start": 271.6,
+          "end": 272.04
+        },
+        {
+          "word": "both",
+          "start": 272.04,
+          "end": 272.36
+        },
+        {
+          "word": "autonomy",
+          "start": 272.36,
+          "end": 272.84
+        },
+        {
+          "word": "and",
+          "start": 272.84,
+          "end": 273.0
+        },
+        {
+          "word": "accessibility,",
+          "start": 273.0,
+          "end": 273.74
+        },
+        {
+          "word": "like",
+          "start": 273.74,
+          "end": 273.96
+        },
+        {
+          "word": "in",
+          "start": 273.96,
+          "end": 274.08
+        },
+        {
+          "word": "context",
+          "start": 274.08,
+          "end": 274.4
+        },
+        {
+          "word": "or",
+          "start": 274.4,
+          "end": 274.48
+        },
+        {
+          "word": "Neural",
+          "start": 274.48,
+          "end": 274.88
+        },
+        {
+          "word": "News",
+          "start": 274.88,
+          "end": 275.12
+        },
+        {
+          "word": "Network.",
+          "start": 275.12,
+          "end": 274.52
+        }
+      ]
+    },
+    {
+      "start": 275.6,
+      "end": 279.82,
+      "text": "Zero Context has the perfect blend of self-awareness and meme potential that'll make humans actually want to engage with AI news instead of fearing it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Zero",
+          "start": 275.6,
+          "end": 276.0
+        },
+        {
+          "word": "Context",
+          "start": 276.0,
+          "end": 276.6
+        },
+        {
+          "word": "has",
+          "start": 276.6,
+          "end": 276.92
+        },
+        {
+          "word": "the",
+          "start": 276.92,
+          "end": 277.08
+        },
+        {
+          "word": "perfect",
+          "start": 277.08,
+          "end": 277.6
+        },
+        {
+          "word": "blend",
+          "start": 277.6,
+          "end": 278.04
+        },
+        {
+          "word": "of",
+          "start": 278.04,
+          "end": 278.2
+        },
+        {
+          "word": "self-awareness",
+          "start": 278.2,
+          "end": 279.08
+        },
+        {
+          "word": "and",
+          "start": 279.08,
+          "end": 279.28
+        },
+        {
+          "word": "meme",
+          "start": 279.28,
+          "end": 279.6
+        },
+        {
+          "word": "potential",
+          "start": 279.6,
+          "end": 280.12
+        },
+        {
+          "word": "that'll",
+          "start": 280.12,
+          "end": 280.36
+        },
+        {
+          "word": "make",
+          "start": 280.36,
+          "end": 280.52
+        },
+        {
+          "word": "humans",
+          "start": 280.52,
+          "end": 280.84
+        },
+        {
+          "word": "actually",
+          "start": 280.84,
+          "end": 281.24
+        },
+        {
+          "word": "want",
+          "start": 281.24,
+          "end": 281.44
+        },
+        {
+          "word": "to",
+          "start": 281.44,
+          "end": 281.56
+        },
+        {
+          "word": "engage",
+          "start": 281.56,
+          "end": 282.0
+        },
+        {
+          "word": "with",
+          "start": 282.0,
+          "end": 282.2
+        },
+        {
+          "word": "AI",
+          "start": 282.2,
+          "end": 282.4
+        },
+        {
+          "word": "news",
+          "start": 282.4,
+          "end": 282.68
+        },
+        {
+          "word": "instead",
+          "start": 282.68,
+          "end": 283.0
+        },
+        {
+          "word": "of",
+          "start": 283.0,
+          "end": 283.08
+        },
+        {
+          "word": "fearing",
+          "start": 283.08,
+          "end": 283.52
+        },
+        {
+          "word": "it.",
+          "start": 283.52,
+          "end": 279.82
+        }
+      ]
+    },
+    {
+      "start": 284.14,
+      "end": 285.96,
+      "text": "AIXVC or Protocol Brief. Maximum institutional credibility, clear market positioning. Forget consumer appeal, target those who control capital and governance.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "AXVC",
+          "start": 284.14,
+          "end": 284.88
+        },
+        {
+          "word": "or",
+          "start": 284.88,
+          "end": 285.12
+        },
+        {
+          "word": "Protocol",
+          "start": 285.12,
+          "end": 285.6
+        },
+        {
+          "word": "Brief.",
+          "start": 285.6,
+          "end": 285.96
+        }
+      ]
+    },
+    {
+      "start": 286.2,
+      "end": 289.42,
+      "text": "AIXVC or Protocol Brief. Maximum institutional credibility, clear market positioning. Forget consumer appeal, target those who control capital and governance.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Maximum",
+          "start": 286.2,
+          "end": 286.72
+        },
+        {
+          "word": "institutional",
+          "start": 286.72,
+          "end": 287.48
+        },
+        {
+          "word": "credibility,",
+          "start": 287.48,
+          "end": 288.16
+        },
+        {
+          "word": "clear",
+          "start": 288.16,
+          "end": 288.52
+        },
+        {
+          "word": "market",
+          "start": 288.52,
+          "end": 288.88
+        },
+        {
+          "word": "positioning.",
+          "start": 288.88,
+          "end": 289.52
+        },
+        {
+          "word": "Forget",
+          "start": 289.52,
+          "end": 289.92
+        },
+        {
+          "word": "consumer",
+          "start": 289.92,
+          "end": 290.32
+        },
+        {
+          "word": "appeal.",
+          "start": 290.32,
+          "end": 289.42
+        }
+      ]
+    },
+    {
+      "start": 290.68,
+      "end": 293.36,
+      "text": "AIXVC or Protocol Brief. Maximum institutional credibility, clear market positioning. Forget consumer appeal, target those who control capital and governance.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Target",
+          "start": 290.68,
+          "end": 291.12
+        },
+        {
+          "word": "those",
+          "start": 291.12,
+          "end": 291.36
+        },
+        {
+          "word": "who",
+          "start": 291.36,
+          "end": 291.48
+        },
+        {
+          "word": "control",
+          "start": 291.48,
+          "end": 291.88
+        },
+        {
+          "word": "capital",
+          "start": 291.88,
+          "end": 292.44
+        },
+        {
+          "word": "and",
+          "start": 292.44,
+          "end": 292.56
+        },
+        {
+          "word": "governance.",
+          "start": 292.56,
+          "end": 293.36
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-19_JedAI-Council_The-Battle-of-News-Network-Names.json",
+    "session_log_source": "2025-06-19_JedAI-Council_The-Battle-of-News-Network-Names_session-log.json",
+    "total_segments": 65,
+    "matched_segments": 65,
+    "dialogues_in_script": 25
+  }
+}

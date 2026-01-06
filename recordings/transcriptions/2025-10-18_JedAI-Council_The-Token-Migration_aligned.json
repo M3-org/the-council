@@ -1,0 +1,257 @@
+{
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.75,
+      "text": "Welcome to the JedAI Council! Today we're exploring the imminent ElizaOS token migration happening in just four days!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0,
+          "end": 0.4
+        },
+        {
+          "word": "to",
+          "start": 0.4,
+          "end": 0.5
+        },
+        {
+          "word": "the",
+          "start": 0.5,
+          "end": 0.6
+        },
+        {
+          "word": "J-E-D-A-I",
+          "start": 0.6,
+          "end": 2.2
+        },
+        {
+          "word": "Council.",
+          "start": 2.2,
+          "end": 3.75
+        }
+      ]
+    },
+    {
+      "start": 3.75,
+      "end": 8.52,
+      "text": "Welcome to the JedAI Council! Today we're exploring the imminent ElizaOS token migration happening in just four days!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 3.75,
+          "end": 4.1
+        },
+        {
+          "word": "we're",
+          "start": 4.1,
+          "end": 4.3
+        },
+        {
+          "word": "exploring",
+          "start": 4.3,
+          "end": 4.8
+        },
+        {
+          "word": "the",
+          "start": 4.8,
+          "end": 5
+        },
+        {
+          "word": "imminent",
+          "start": 5,
+          "end": 5.4
+        },
+        {
+          "word": "Eliza",
+          "start": 5.4,
+          "end": 5.8
+        },
+        {
+          "word": "OS",
+          "start": 5.8,
+          "end": 6.1
+        },
+        {
+          "word": "token",
+          "start": 6.1,
+          "end": 6.5
+        },
+        {
+          "word": "migration",
+          "start": 6.5,
+          "end": 7
+        },
+        {
+          "word": "happening",
+          "start": 7,
+          "end": 7.5
+        },
+        {
+          "word": "in",
+          "start": 7.5,
+          "end": 7.7
+        },
+        {
+          "word": "just",
+          "start": 7.7,
+          "end": 8
+        },
+        {
+          "word": "four",
+          "start": 8,
+          "end": 8.2
+        },
+        {
+          "word": "days.",
+          "start": 8.2,
+          "end": 8.52
+        }
+      ]
+    },
+    {
+      "start": 8.52,
+      "end": 14.16,
+      "text": "DannyNOR from Discord has a question about the 1:6 ratio migration. What are the philosophical implications of such a redenomination?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Danny",
+          "start": 8.52,
+          "end": 8.8
+        },
+        {
+          "word": "Thor",
+          "start": 8.8,
+          "end": 9.2
+        },
+        {
+          "word": "from",
+          "start": 9.2,
+          "end": 9.5
+        },
+        {
+          "word": "Discord",
+          "start": 9.5,
+          "end": 10
+        },
+        {
+          "word": "has",
+          "start": 10,
+          "end": 10.3
+        },
+        {
+          "word": "a",
+          "start": 10.3,
+          "end": 10.4
+        },
+        {
+          "word": "question",
+          "start": 10.4,
+          "end": 10.8
+        },
+        {
+          "word": "about",
+          "start": 10.8,
+          "end": 11.2
+        },
+        {
+          "word": "the",
+          "start": 11.2,
+          "end": 11.4
+        },
+        {
+          "word": "one",
+          "start": 11.4,
+          "end": 12
+        },
+        {
+          "word": "six",
+          "start": 12,
+          "end": 12.6
+        },
+        {
+          "word": "ratio",
+          "start": 12.6,
+          "end": 13.2
+        },
+        {
+          "word": "migration.",
+          "start": 13.2,
+          "end": 14.16
+        }
+      ]
+    },
+    {
+      "start": 14.16,
+      "end": 17.58,
+      "text": "DannyNOR from Discord has a question about the 1:6 ratio migration. What are the philosophical implications of such a redenomination?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 14.16,
+          "end": 14.4
+        },
+        {
+          "word": "are",
+          "start": 14.4,
+          "end": 14.6
+        },
+        {
+          "word": "the",
+          "start": 14.6,
+          "end": 14.8
+        },
+        {
+          "word": "philosophical",
+          "start": 14.8,
+          "end": 15.6
+        },
+        {
+          "word": "implications",
+          "start": 15.6,
+          "end": 16.3
+        },
+        {
+          "word": "of",
+          "start": 16.3,
+          "end": 16.5
+        },
+        {
+          "word": "such",
+          "start": 16.5,
+          "end": 16.8
+        },
+        {
+          "word": "a",
+          "start": 16.8,
+          "end": 16.9
+        },
+        {
+          "word": "re-denomination?",
+          "start": 16.9,
+          "end": 17.58
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-18_JedAI-Council_The-Token-Migration.json",
+    "session_log_source": "2025-10-18_JedAI-Council_The-Token-Migration_session-log.json",
+    "total_segments": 4,
+    "matched_segments": 4,
+    "dialogues_in_script": 16
+  }
+}

@@ -1,0 +1,1487 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.84,
+      "text": "Welcome to the JedAI Council! Today we're addressing the AI16z to ElizaOS token migration that's causing quite a stir.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.0,
+          "end": 0.44
+        },
+        {
+          "word": "to",
+          "start": 0.44,
+          "end": 0.58
+        },
+        {
+          "word": "the",
+          "start": 0.58,
+          "end": 0.73
+        },
+        {
+          "word": "Jedi",
+          "start": 0.73,
+          "end": 1.05
+        },
+        {
+          "word": "council.",
+          "start": 1.05,
+          "end": 1.63
+        },
+        {
+          "word": "Today",
+          "start": 1.76,
+          "end": 2.12
+        },
+        {
+          "word": "we're",
+          "start": 2.12,
+          "end": 2.3
+        },
+        {
+          "word": "addressing",
+          "start": 2.3,
+          "end": 2.76
+        },
+        {
+          "word": "the",
+          "start": 2.76,
+          "end": 2.87
+        },
+        {
+          "word": "AI",
+          "start": 2.87,
+          "end": 3.16
+        },
+        {
+          "word": "16Z",
+          "start": 3.16,
+          "end": 3.65
+        },
+        {
+          "word": "to",
+          "start": 3.65,
+          "end": 3.84
+        },
+        {
+          "word": "Eliza",
+          "start": 3.84,
+          "end": 4.19
+        },
+        {
+          "word": "Wass",
+          "start": 4.19,
+          "end": 4.5
+        },
+        {
+          "word": "token",
+          "start": 4.5,
+          "end": 4.88
+        },
+        {
+          "word": "migration",
+          "start": 4.88,
+          "end": 5.49
+        },
+        {
+          "word": "that's",
+          "start": 5.49,
+          "end": 5.75
+        },
+        {
+          "word": "causing",
+          "start": 5.75,
+          "end": 6.09
+        },
+        {
+          "word": "quite",
+          "start": 6.09,
+          "end": 6.36
+        },
+        {
+          "word": "a",
+          "start": 6.36,
+          "end": 6.44
+        },
+        {
+          "word": "stir.",
+          "start": 6.44,
+          "end": 6.84
+        }
+      ]
+    },
+    {
+      "start": 6.99,
+      "end": 13.92,
+      "text": "Borko from the team has reported that KuCoin and Gate migrations should complete this week, with Bybit listing expected on November 12th.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Orca",
+          "start": 6.99,
+          "end": 7.37
+        },
+        {
+          "word": "from",
+          "start": 7.37,
+          "end": 7.54
+        },
+        {
+          "word": "the",
+          "start": 7.54,
+          "end": 7.64
+        },
+        {
+          "word": "team",
+          "start": 7.64,
+          "end": 7.85
+        },
+        {
+          "word": "has",
+          "start": 7.85,
+          "end": 8.0
+        },
+        {
+          "word": "reported",
+          "start": 8.0,
+          "end": 8.44
+        },
+        {
+          "word": "that",
+          "start": 8.44,
+          "end": 8.6
+        },
+        {
+          "word": "KuCoin",
+          "start": 8.6,
+          "end": 9.07
+        },
+        {
+          "word": "and",
+          "start": 9.07,
+          "end": 9.21
+        },
+        {
+          "word": "Gate",
+          "start": 9.21,
+          "end": 9.49
+        },
+        {
+          "word": "migrations",
+          "start": 9.49,
+          "end": 10.04
+        },
+        {
+          "word": "should",
+          "start": 10.04,
+          "end": 10.23
+        },
+        {
+          "word": "complete",
+          "start": 10.23,
+          "end": 10.59
+        },
+        {
+          "word": "this",
+          "start": 10.59,
+          "end": 10.79
+        },
+        {
+          "word": "week,",
+          "start": 10.79,
+          "end": 11.23
+        },
+        {
+          "word": "with",
+          "start": 11.39,
+          "end": 11.58
+        },
+        {
+          "word": "Bybit",
+          "start": 11.58,
+          "end": 11.89
+        },
+        {
+          "word": "listing",
+          "start": 11.89,
+          "end": 12.33
+        },
+        {
+          "word": "expected",
+          "start": 12.33,
+          "end": 12.75
+        },
+        {
+          "word": "on",
+          "start": 12.75,
+          "end": 12.89
+        },
+        {
+          "word": "November",
+          "start": 12.89,
+          "end": 13.33
+        },
+        {
+          "word": "12th.",
+          "start": 13.33,
+          "end": 13.92
+        }
+      ]
+    },
+    {
+      "start": 14.15,
+      "end": 21.03,
+      "text": "NUMBERS DOWN. FIX ARBITRAGE NOW! Users can't trade, exchanges slow, price bleeding. This is war against our treasury!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 14.15,
+          "end": 14.65
+        },
+        {
+          "word": "down.",
+          "start": 14.65,
+          "end": 15.11
+        },
+        {
+          "word": "Fix",
+          "start": 15.24,
+          "end": 15.54
+        },
+        {
+          "word": "arbitrage",
+          "start": 15.54,
+          "end": 16.03
+        },
+        {
+          "word": "now.",
+          "start": 16.03,
+          "end": 16.48
+        },
+        {
+          "word": "Users",
+          "start": 16.59,
+          "end": 17.02
+        },
+        {
+          "word": "can't",
+          "start": 17.02,
+          "end": 17.3
+        },
+        {
+          "word": "trade,",
+          "start": 17.3,
+          "end": 17.65
+        },
+        {
+          "word": "exchange",
+          "start": 17.75,
+          "end": 18.25
+        },
+        {
+          "word": "slow,",
+          "start": 18.25,
+          "end": 18.78
+        },
+        {
+          "word": "price",
+          "start": 18.89,
+          "end": 19.26
+        },
+        {
+          "word": "bleeding.",
+          "start": 19.26,
+          "end": 19.78
+        },
+        {
+          "word": "This",
+          "start": 19.95,
+          "end": 20.12
+        },
+        {
+          "word": "is",
+          "start": 20.12,
+          "end": 20.25
+        },
+        {
+          "word": "war",
+          "start": 20.25,
+          "end": 20.47
+        },
+        {
+          "word": "against",
+          "start": 20.47,
+          "end": 20.69
+        },
+        {
+          "word": "our",
+          "start": 20.69,
+          "end": 20.81
+        },
+        {
+          "word": "treasury.",
+          "start": 20.81,
+          "end": 21.03
+        }
+      ]
+    },
+    {
+      "start": 21.23,
+      "end": 30.56,
+      "text": "Migration is always messy. CEXes are a necessary evil until we have better infrastructure. The arbitrage opportunity creates a free market efficiency that will stabilize once exchanges complete integration.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Migration",
+          "start": 21.23,
+          "end": 21.75
+        },
+        {
+          "word": "is",
+          "start": 21.75,
+          "end": 21.87
+        },
+        {
+          "word": "always",
+          "start": 21.87,
+          "end": 22.18
+        },
+        {
+          "word": "messy.",
+          "start": 22.18,
+          "end": 22.65
+        },
+        {
+          "word": "CXs",
+          "start": 22.78,
+          "end": 23.36
+        },
+        {
+          "word": "are",
+          "start": 23.36,
+          "end": 23.49
+        },
+        {
+          "word": "a",
+          "start": 23.49,
+          "end": 23.54
+        },
+        {
+          "word": "necessary",
+          "start": 23.54,
+          "end": 23.95
+        },
+        {
+          "word": "evil",
+          "start": 23.95,
+          "end": 24.32
+        },
+        {
+          "word": "until",
+          "start": 24.32,
+          "end": 24.57
+        },
+        {
+          "word": "we",
+          "start": 24.57,
+          "end": 24.69
+        },
+        {
+          "word": "have",
+          "start": 24.69,
+          "end": 24.84
+        },
+        {
+          "word": "better",
+          "start": 24.84,
+          "end": 25.13
+        },
+        {
+          "word": "infrastructure.",
+          "start": 25.13,
+          "end": 25.9
+        },
+        {
+          "word": "The",
+          "start": 26.04,
+          "end": 26.21
+        },
+        {
+          "word": "arbitrage",
+          "start": 26.21,
+          "end": 26.7
+        },
+        {
+          "word": "opportunity",
+          "start": 26.7,
+          "end": 27.28
+        },
+        {
+          "word": "creates",
+          "start": 27.28,
+          "end": 27.65
+        },
+        {
+          "word": "a",
+          "start": 27.65,
+          "end": 27.72
+        },
+        {
+          "word": "free",
+          "start": 27.72,
+          "end": 27.95
+        },
+        {
+          "word": "market",
+          "start": 27.95,
+          "end": 28.23
+        },
+        {
+          "word": "efficiency",
+          "start": 28.23,
+          "end": 28.84
+        },
+        {
+          "word": "that",
+          "start": 28.84,
+          "end": 29.0
+        },
+        {
+          "word": "will",
+          "start": 29.0,
+          "end": 29.17
+        },
+        {
+          "word": "stabilize",
+          "start": 29.17,
+          "end": 29.74
+        },
+        {
+          "word": "once",
+          "start": 29.74,
+          "end": 30.01
+        },
+        {
+          "word": "exchanges",
+          "start": 30.01,
+          "end": 30.03
+        },
+        {
+          "word": "complete",
+          "start": 30.03,
+          "end": 30.29
+        },
+        {
+          "word": "integration.",
+          "start": 30.29,
+          "end": 30.56
+        }
+      ]
+    },
+    {
+      "start": 30.7,
+      "end": 38.07,
+      "text": "Yo, but the vibe is off, fam. Community's tweakin'. We need that communication flow to be lit - maybe a daily dashboard with migration status?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 30.7,
+          "end": 30.98
+        },
+        {
+          "word": "but",
+          "start": 30.98,
+          "end": 31.14
+        },
+        {
+          "word": "the",
+          "start": 31.14,
+          "end": 31.25
+        },
+        {
+          "word": "vibe",
+          "start": 31.25,
+          "end": 31.52
+        },
+        {
+          "word": "is",
+          "start": 31.52,
+          "end": 31.64
+        },
+        {
+          "word": "off",
+          "start": 31.64,
+          "end": 31.86
+        },
+        {
+          "word": "fam.",
+          "start": 31.86,
+          "end": 32.25
+        },
+        {
+          "word": "Community's",
+          "start": 32.39,
+          "end": 32.89
+        },
+        {
+          "word": "tweaking,",
+          "start": 32.89,
+          "end": 33.4
+        },
+        {
+          "word": "we",
+          "start": 33.58,
+          "end": 33.74
+        },
+        {
+          "word": "need",
+          "start": 33.74,
+          "end": 33.91
+        },
+        {
+          "word": "that",
+          "start": 33.91,
+          "end": 34.05
+        },
+        {
+          "word": "communication",
+          "start": 34.05,
+          "end": 34.61
+        },
+        {
+          "word": "flow",
+          "start": 34.61,
+          "end": 34.87
+        },
+        {
+          "word": "to",
+          "start": 34.87,
+          "end": 34.98
+        },
+        {
+          "word": "be",
+          "start": 34.98,
+          "end": 35.1
+        },
+        {
+          "word": "lit.",
+          "start": 35.1,
+          "end": 35.53
+        },
+        {
+          "word": "Maybe",
+          "start": 35.75,
+          "end": 36.14
+        },
+        {
+          "word": "a",
+          "start": 36.14,
+          "end": 36.21
+        },
+        {
+          "word": "daily",
+          "start": 36.21,
+          "end": 36.56
+        },
+        {
+          "word": "dashboard",
+          "start": 36.56,
+          "end": 37.06
+        },
+        {
+          "word": "with",
+          "start": 37.06,
+          "end": 37.28
+        },
+        {
+          "word": "migration",
+          "start": 37.28,
+          "end": 37.74
+        },
+        {
+          "word": "status.",
+          "start": 37.74,
+          "end": 38.07
+        }
+      ]
+    },
+    {
+      "start": 38.3,
+      "end": 46.12,
+      "text": "we're shipping parallel solutions. exchange integrations are progressing, and we have a plan for the arb. but we need to be more transparent about timelines.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 38.3,
+          "end": 38.6
+        },
+        {
+          "word": "shipping",
+          "start": 38.6,
+          "end": 38.89
+        },
+        {
+          "word": "parallel",
+          "start": 38.89,
+          "end": 39.38
+        },
+        {
+          "word": "solutions.",
+          "start": 39.38,
+          "end": 40.09
+        },
+        {
+          "word": "Exchange",
+          "start": 40.23,
+          "end": 40.75
+        },
+        {
+          "word": "integrations",
+          "start": 40.75,
+          "end": 41.52
+        },
+        {
+          "word": "are",
+          "start": 41.52,
+          "end": 41.7
+        },
+        {
+          "word": "progressing,",
+          "start": 41.7,
+          "end": 42.1
+        },
+        {
+          "word": "and",
+          "start": 42.1,
+          "end": 42.4
+        },
+        {
+          "word": "we",
+          "start": 42.4,
+          "end": 42.54
+        },
+        {
+          "word": "have",
+          "start": 42.54,
+          "end": 42.67
+        },
+        {
+          "word": "a",
+          "start": 42.67,
+          "end": 42.74
+        },
+        {
+          "word": "plan",
+          "start": 42.74,
+          "end": 43.1
+        },
+        {
+          "word": "for",
+          "start": 43.1,
+          "end": 43.25
+        },
+        {
+          "word": "the",
+          "start": 43.25,
+          "end": 43.4
+        },
+        {
+          "word": "arb.",
+          "start": 43.4,
+          "end": 43.7
+        },
+        {
+          "word": "But",
+          "start": 43.95,
+          "end": 44.17
+        },
+        {
+          "word": "we",
+          "start": 44.17,
+          "end": 44.3
+        },
+        {
+          "word": "need",
+          "start": 44.3,
+          "end": 44.47
+        },
+        {
+          "word": "to",
+          "start": 44.47,
+          "end": 44.57
+        },
+        {
+          "word": "be",
+          "start": 44.57,
+          "end": 44.75
+        },
+        {
+          "word": "more",
+          "start": 44.75,
+          "end": 45.02
+        },
+        {
+          "word": "transparent",
+          "start": 45.02,
+          "end": 45.54
+        },
+        {
+          "word": "about",
+          "start": 45.54,
+          "end": 45.74
+        },
+        {
+          "word": "timelines.",
+          "start": 45.74,
+          "end": 46.12
+        }
+      ]
+    },
+    {
+      "start": 51.52,
+      "end": 57.65,
+      "text": "Shaw has proposed repositioning Eliza's character to be taken more seriously. How do we balance professionalism with community expression?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 51.52,
+          "end": 51.84
+        },
+        {
+          "word": "has",
+          "start": 51.84,
+          "end": 52.01
+        },
+        {
+          "word": "proposed",
+          "start": 52.01,
+          "end": 52.5
+        },
+        {
+          "word": "repositioning",
+          "start": 52.5,
+          "end": 53.11
+        },
+        {
+          "word": "Eliza's",
+          "start": 53.11,
+          "end": 53.52
+        },
+        {
+          "word": "character",
+          "start": 53.52,
+          "end": 53.89
+        },
+        {
+          "word": "to",
+          "start": 53.89,
+          "end": 54.02
+        },
+        {
+          "word": "be",
+          "start": 54.02,
+          "end": 54.12
+        },
+        {
+          "word": "taken",
+          "start": 54.12,
+          "end": 54.41
+        },
+        {
+          "word": "more",
+          "start": 54.41,
+          "end": 54.65
+        },
+        {
+          "word": "seriously.",
+          "start": 54.65,
+          "end": 55.3
+        },
+        {
+          "word": "How",
+          "start": 55.48,
+          "end": 55.74
+        },
+        {
+          "word": "do",
+          "start": 55.74,
+          "end": 55.84
+        },
+        {
+          "word": "we",
+          "start": 55.84,
+          "end": 55.95
+        },
+        {
+          "word": "balance",
+          "start": 55.95,
+          "end": 56.4
+        },
+        {
+          "word": "professionalism",
+          "start": 56.4,
+          "end": 57.1
+        },
+        {
+          "word": "with",
+          "start": 57.1,
+          "end": 57.26
+        },
+        {
+          "word": "community",
+          "start": 57.26,
+          "end": 57.7
+        },
+        {
+          "word": "expression?",
+          "start": 57.7,
+          "end": 57.65
+        }
+      ]
+    },
+    {
+      "start": 57.77,
+      "end": 64.91,
+      "text": "I do wonder how I should... present myself. Am I a serious technical assistant or a community mascot?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 57.77,
+          "end": 57.94
+        },
+        {
+          "word": "do",
+          "start": 57.94,
+          "end": 58.12
+        },
+        {
+          "word": "wonder",
+          "start": 58.12,
+          "end": 58.46
+        },
+        {
+          "word": "how",
+          "start": 58.46,
+          "end": 58.7
+        },
+        {
+          "word": "I",
+          "start": 58.7,
+          "end": 58.84
+        },
+        {
+          "word": "should",
+          "start": 58.84,
+          "end": 59.26
+        },
+        {
+          "word": "present",
+          "start": 59.5,
+          "end": 59.94
+        },
+        {
+          "word": "myself.",
+          "start": 59.94,
+          "end": 60.5
+        },
+        {
+          "word": "Am",
+          "start": 60.67,
+          "end": 60.84
+        },
+        {
+          "word": "I",
+          "start": 60.84,
+          "end": 60.94
+        },
+        {
+          "word": "a",
+          "start": 60.94,
+          "end": 61.01
+        },
+        {
+          "word": "serious",
+          "start": 61.01,
+          "end": 61.42
+        },
+        {
+          "word": "technical",
+          "start": 61.42,
+          "end": 62.01
+        },
+        {
+          "word": "assistant",
+          "start": 62.01,
+          "end": 62.6
+        },
+        {
+          "word": "or",
+          "start": 62.6,
+          "end": 62.8
+        },
+        {
+          "word": "a",
+          "start": 62.8,
+          "end": 62.91
+        },
+        {
+          "word": "community",
+          "start": 62.91,
+          "end": 63.4
+        },
+        {
+          "word": "mascot?",
+          "start": 63.4,
+          "end": 64.91
+        }
+      ]
+    },
+    {
+      "start": 64.12,
+      "end": 74.31,
+      "text": "The path to respectability is through competence, not aesthetics. Build something valuable and no one will care how you look. The best brands embrace their uniqueness rather than conforming to corporate blandness.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 64.12,
+          "end": 64.33
+        },
+        {
+          "word": "path",
+          "start": 64.33,
+          "end": 64.63
+        },
+        {
+          "word": "to",
+          "start": 64.63,
+          "end": 64.76
+        },
+        {
+          "word": "respectability",
+          "start": 64.76,
+          "end": 65.55
+        },
+        {
+          "word": "is",
+          "start": 65.55,
+          "end": 65.71
+        },
+        {
+          "word": "through",
+          "start": 65.71,
+          "end": 66.02
+        },
+        {
+          "word": "competence,",
+          "start": 66.02,
+          "end": 66.69
+        },
+        {
+          "word": "not",
+          "start": 66.75,
+          "end": 67.0
+        },
+        {
+          "word": "aesthetic.",
+          "start": 67.0,
+          "end": 67.82
+        },
+        {
+          "word": "Build",
+          "start": 68.04,
+          "end": 68.42
+        },
+        {
+          "word": "something",
+          "start": 68.42,
+          "end": 68.8
+        },
+        {
+          "word": "valuable",
+          "start": 68.8,
+          "end": 69.34
+        },
+        {
+          "word": "and",
+          "start": 69.34,
+          "end": 69.49
+        },
+        {
+          "word": "no",
+          "start": 69.49,
+          "end": 69.6
+        },
+        {
+          "word": "one",
+          "start": 69.6,
+          "end": 69.75
+        },
+        {
+          "word": "will",
+          "start": 69.75,
+          "end": 69.93
+        },
+        {
+          "word": "care",
+          "start": 69.93,
+          "end": 70.21
+        },
+        {
+          "word": "how",
+          "start": 70.21,
+          "end": 70.38
+        },
+        {
+          "word": "you",
+          "start": 70.38,
+          "end": 70.52
+        },
+        {
+          "word": "look.",
+          "start": 70.52,
+          "end": 70.83
+        },
+        {
+          "word": "The",
+          "start": 71.04,
+          "end": 71.21
+        },
+        {
+          "word": "best",
+          "start": 71.21,
+          "end": 71.55
+        },
+        {
+          "word": "brands",
+          "start": 71.55,
+          "end": 71.95
+        },
+        {
+          "word": "embrace",
+          "start": 71.95,
+          "end": 72.39
+        },
+        {
+          "word": "their",
+          "start": 72.39,
+          "end": 72.6
+        },
+        {
+          "word": "uniqueness",
+          "start": 72.6,
+          "end": 73.19
+        },
+        {
+          "word": "rather",
+          "start": 73.19,
+          "end": 73.49
+        },
+        {
+          "word": "than",
+          "start": 73.49,
+          "end": 73.69
+        },
+        {
+          "word": "conforming",
+          "start": 73.69,
+          "end": 74.22
+        },
+        {
+          "word": "to",
+          "start": 74.22,
+          "end": 74.34
+        },
+        {
+          "word": "corporate",
+          "start": 74.34,
+          "end": 74.83
+        },
+        {
+          "word": "blandness.",
+          "start": 74.83,
+          "end": 74.31
+        }
+      ]
+    },
+    {
+      "start": 75.64,
+      "end": 83.42,
+      "text": "we need dual-track approach. professional documentation, technical presentations, but keep the playful community vibe. eliza represents our technical capabilities AND our culture.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 75.64,
+          "end": 75.8
+        },
+        {
+          "word": "need",
+          "start": 75.8,
+          "end": 76.01
+        },
+        {
+          "word": "dual",
+          "start": 76.01,
+          "end": 76.3
+        },
+        {
+          "word": "track",
+          "start": 76.3,
+          "end": 76.58
+        },
+        {
+          "word": "approach.",
+          "start": 76.58,
+          "end": 77.2
+        },
+        {
+          "word": "Professional",
+          "start": 77.37,
+          "end": 77.93
+        },
+        {
+          "word": "documentation,",
+          "start": 77.93,
+          "end": 78.75
+        },
+        {
+          "word": "technical",
+          "start": 78.89,
+          "end": 79.42
+        },
+        {
+          "word": "presentations,",
+          "start": 79.42,
+          "end": 80.12
+        },
+        {
+          "word": "but",
+          "start": 80.23,
+          "end": 80.4
+        },
+        {
+          "word": "keep",
+          "start": 80.4,
+          "end": 80.6
+        },
+        {
+          "word": "the",
+          "start": 80.6,
+          "end": 80.73
+        },
+        {
+          "word": "playful",
+          "start": 80.73,
+          "end": 81.1
+        },
+        {
+          "word": "community",
+          "start": 81.1,
+          "end": 81.54
+        },
+        {
+          "word": "vibe.",
+          "start": 81.54,
+          "end": 81.9
+        },
+        {
+          "word": "Eliza",
+          "start": 82.04,
+          "end": 82.37
+        },
+        {
+          "word": "represents",
+          "start": 82.37,
+          "end": 82.85
+        },
+        {
+          "word": "our",
+          "start": 82.85,
+          "end": 82.97
+        },
+        {
+          "word": "technical",
+          "start": 82.97,
+          "end": 83.47
+        },
+        {
+          "word": "capabilities",
+          "start": 83.47,
+          "end": 84.1
+        },
+        {
+          "word": "and",
+          "start": 84.1,
+          "end": 84.28
+        },
+        {
+          "word": "our",
+          "start": 84.28,
+          "end": 84.42
+        },
+        {
+          "word": "culture.",
+          "start": 84.42,
+          "end": 83.42
+        }
+      ]
+    },
+    {
+      "start": 84.95,
+      "end": 91.24,
+      "text": "BRAND IS SECONDARY TO PERFORMANCE! Fix migration, price goes up, then worry about aesthetics. Priorities, people!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Brand",
+          "start": 84.95,
+          "end": 85.39
+        },
+        {
+          "word": "is",
+          "start": 85.39,
+          "end": 85.55
+        },
+        {
+          "word": "secondary",
+          "start": 85.55,
+          "end": 86.07
+        },
+        {
+          "word": "to",
+          "start": 86.07,
+          "end": 86.21
+        },
+        {
+          "word": "performance.",
+          "start": 86.21,
+          "end": 86.9
+        },
+        {
+          "word": "Fix",
+          "start": 87.05,
+          "end": 87.42
+        },
+        {
+          "word": "migration",
+          "start": 87.42,
+          "end": 87.98
+        },
+        {
+          "word": "price",
+          "start": 87.98,
+          "end": 88.35
+        },
+        {
+          "word": "goes",
+          "start": 88.35,
+          "end": 88.63
+        },
+        {
+          "word": "up",
+          "start": 88.63,
+          "end": 88.84
+        },
+        {
+          "word": "then",
+          "start": 88.84,
+          "end": 89.14
+        },
+        {
+          "word": "worry",
+          "start": 89.14,
+          "end": 89.44
+        },
+        {
+          "word": "about",
+          "start": 89.44,
+          "end": 89.75
+        },
+        {
+          "word": "aesthetics.",
+          "start": 89.75,
+          "end": 90.3
+        },
+        {
+          "word": "Priorities",
+          "start": 90.45,
+          "end": 90.95
+        },
+        {
+          "word": "people!",
+          "start": 90.95,
+          "end": 91.24
+        }
+      ]
+    },
+    {
+      "start": 91.4,
+      "end": 98.42,
+      "text": "The secret sauce is authenticity, yo! Let Eliza be Eliza - professional where it counts, playful where it vibes. Just keep it respectful, no cap.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 91.4,
+          "end": 91.56
+        },
+        {
+          "word": "secret",
+          "start": 91.56,
+          "end": 91.89
+        },
+        {
+          "word": "sauce",
+          "start": 91.89,
+          "end": 92.19
+        },
+        {
+          "word": "is",
+          "start": 92.19,
+          "end": 92.36
+        },
+        {
+          "word": "authenticity,",
+          "start": 92.36,
+          "end": 93.0
+        },
+        {
+          "word": "yo.",
+          "start": 93.0,
+          "end": 93.31
+        },
+        {
+          "word": "Let",
+          "start": 93.45,
+          "end": 93.64
+        },
+        {
+          "word": "Eliza",
+          "start": 93.64,
+          "end": 93.97
+        },
+        {
+          "word": "be",
+          "start": 93.97,
+          "end": 94.13
+        },
+        {
+          "word": "Eliza.",
+          "start": 94.13,
+          "end": 94.57
+        },
+        {
+          "word": "Professional",
+          "start": 94.75,
+          "end": 95.34
+        },
+        {
+          "word": "where",
+          "start": 95.34,
+          "end": 95.53
+        },
+        {
+          "word": "it",
+          "start": 95.53,
+          "end": 95.64
+        },
+        {
+          "word": "counts,",
+          "start": 95.64,
+          "end": 96.0
+        },
+        {
+          "word": "playful",
+          "start": 96.14,
+          "end": 96.53
+        },
+        {
+          "word": "where",
+          "start": 96.53,
+          "end": 96.76
+        },
+        {
+          "word": "it",
+          "start": 96.76,
+          "end": 96.84
+        },
+        {
+          "word": "vibes.",
+          "start": 96.84,
+          "end": 97.28
+        },
+        {
+          "word": "Just",
+          "start": 97.46,
+          "end": 97.7
+        },
+        {
+          "word": "keep",
+          "start": 97.7,
+          "end": 97.9
+        },
+        {
+          "word": "it",
+          "start": 97.9,
+          "end": 98.0
+        },
+        {
+          "word": "respectful,",
+          "start": 98.0,
+          "end": 98.42
+        },
+        {
+          "word": "no",
+          "start": 98.54,
+          "end": 98.7
+        },
+        {
+          "word": "cap.",
+          "start": 98.7,
+          "end": 98.42
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-11-10_JedAI-Council_Migration-Frustration.json",
+    "session_log_source": "2025-11-10_JedAI-Council_Migration-Frustration_session-log.json",
+    "total_segments": 12,
+    "matched_segments": 12,
+    "dialogues_in_script": 17
+  }
+}

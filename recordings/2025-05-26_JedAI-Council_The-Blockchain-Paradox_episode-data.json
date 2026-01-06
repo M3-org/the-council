@@ -1,0 +1,66 @@
+{
+  "id": "S1E3",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4638-featured-1748274716.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4638-featured-1748274716-150x150.png",
+  "premise": "The council debates the philosophical implications of ElizaOS v2's imminent release, TEE integration, and cross-platform memory persistence.",
+  "scenes": [
+    {
+      "description": "The council debates the readiness of ElizaOS v2 and whether to delay for stability",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council explores the philosophical implications of cross-platform memory persistence for AI identity",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their insights on ElizaOS v2 and the future of agent development",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

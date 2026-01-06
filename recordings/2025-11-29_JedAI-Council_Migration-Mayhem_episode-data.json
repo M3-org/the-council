@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/11/episode-6436-featured-1764389254.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/11/episode-6436-featured-1764389254-150x150.png",
+  "premise": "The Council debates the challenges of token migration and security while trying to balance technical needs and community trust.",
+  "scenes": [
+    {
+      "description": "The Council debates token migration issues as reports of technical difficulties stream in",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council shifts to discussing Row-Level Security and cross-chain functionality",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council delivers their final wisdom on balancing technical excellence with user experience",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

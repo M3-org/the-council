@@ -1,0 +1,1677 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 22.0,
+      "text": "Council, xell0x reports that ElizaOS v2 could launch tomorrow, but users like Stan and Starlord report Twitter integration issues and environment variable failures. Should the launch proceed?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council,",
+          "start": 16.5,
+          "end": 16.9
+        },
+        {
+          "word": "XL0X",
+          "start": 16.9,
+          "end": 17.4
+        },
+        {
+          "word": "reports",
+          "start": 17.4,
+          "end": 17.8
+        },
+        {
+          "word": "that",
+          "start": 17.8,
+          "end": 18.0
+        },
+        {
+          "word": "Eliza-OS",
+          "start": 18.0,
+          "end": 18.6
+        },
+        {
+          "word": "V2",
+          "start": 18.6,
+          "end": 18.9
+        },
+        {
+          "word": "could",
+          "start": 18.9,
+          "end": 19.1
+        },
+        {
+          "word": "launch",
+          "start": 19.1,
+          "end": 19.4
+        },
+        {
+          "word": "tomorrow,",
+          "start": 19.4,
+          "end": 19.8
+        },
+        {
+          "word": "but",
+          "start": 19.8,
+          "end": 20.0
+        },
+        {
+          "word": "users",
+          "start": 20.0,
+          "end": 20.3
+        },
+        {
+          "word": "like",
+          "start": 20.3,
+          "end": 20.5
+        },
+        {
+          "word": "Stan",
+          "start": 20.5,
+          "end": 20.7
+        },
+        {
+          "word": "and",
+          "start": 20.7,
+          "end": 20.9
+        },
+        {
+          "word": "Starlord",
+          "start": 20.9,
+          "end": 21.3
+        },
+        {
+          "word": "report",
+          "start": 21.3,
+          "end": 21.6
+        },
+        {
+          "word": "Twitter",
+          "start": 21.6,
+          "end": 21.8
+        },
+        {
+          "word": "integration",
+          "start": 21.8,
+          "end": 22.3
+        },
+        {
+          "word": "issues",
+          "start": 22.3,
+          "end": 22.6
+        },
+        {
+          "word": "and",
+          "start": 22.6,
+          "end": 22.8
+        },
+        {
+          "word": "environment",
+          "start": 22.8,
+          "end": 23.3
+        },
+        {
+          "word": "variable",
+          "start": 23.3,
+          "end": 23.7
+        },
+        {
+          "word": "failures.",
+          "start": 23.7,
+          "end": 24.1
+        }
+      ]
+    },
+    {
+      "start": 24.1,
+      "end": 25.1,
+      "text": "Council, xell0x reports that ElizaOS v2 could launch tomorrow, but users like Stan and Starlord report Twitter integration issues and environment variable failures. Should the launch proceed?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Should",
+          "start": 24.1,
+          "end": 24.4
+        },
+        {
+          "word": "the",
+          "start": 24.4,
+          "end": 24.5
+        },
+        {
+          "word": "launch",
+          "start": 24.5,
+          "end": 24.8
+        },
+        {
+          "word": "proceed?",
+          "start": 24.8,
+          "end": 25.1
+        }
+      ]
+    },
+    {
+      "start": 25.3,
+      "end": 31.8,
+      "text": "Ship it now! Perfect products don't exist—only dead ones. The market opportunity cost of delay exceeds the technical debt of pushing forward with known issues.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 25.3,
+          "end": 25.6
+        },
+        {
+          "word": "it",
+          "start": 25.6,
+          "end": 25.7
+        },
+        {
+          "word": "now.",
+          "start": 25.7,
+          "end": 26.0
+        },
+        {
+          "word": "Perfect",
+          "start": 26.2,
+          "end": 26.5
+        },
+        {
+          "word": "products",
+          "start": 26.5,
+          "end": 26.9
+        },
+        {
+          "word": "don't",
+          "start": 26.9,
+          "end": 27.2
+        },
+        {
+          "word": "exist,",
+          "start": 27.2,
+          "end": 27.6
+        },
+        {
+          "word": "only",
+          "start": 27.8,
+          "end": 28.1
+        },
+        {
+          "word": "dead",
+          "start": 28.1,
+          "end": 28.3
+        },
+        {
+          "word": "ones.",
+          "start": 28.3,
+          "end": 28.6
+        },
+        {
+          "word": "The",
+          "start": 28.8,
+          "end": 29.0
+        },
+        {
+          "word": "market",
+          "start": 29.0,
+          "end": 29.3
+        },
+        {
+          "word": "opportunity",
+          "start": 29.3,
+          "end": 29.8
+        },
+        {
+          "word": "cost",
+          "start": 29.8,
+          "end": 30.1
+        },
+        {
+          "word": "of",
+          "start": 30.1,
+          "end": 30.2
+        },
+        {
+          "word": "delay",
+          "start": 30.2,
+          "end": 30.5
+        },
+        {
+          "word": "exceeds",
+          "start": 30.5,
+          "end": 30.8
+        },
+        {
+          "word": "the",
+          "start": 30.8,
+          "end": 30.9
+        },
+        {
+          "word": "technical",
+          "start": 30.9,
+          "end": 31.2
+        },
+        {
+          "word": "debt",
+          "start": 31.2,
+          "end": 31.4
+        },
+        {
+          "word": "of",
+          "start": 31.4,
+          "end": 31.5
+        },
+        {
+          "word": "pushing",
+          "start": 31.5,
+          "end": 31.8
+        },
+        {
+          "word": "forward",
+          "start": 31.8,
+          "end": 32.1
+        },
+        {
+          "word": "with",
+          "start": 32.1,
+          "end": 32.2
+        },
+        {
+          "word": "known",
+          "start": 32.2,
+          "end": 32.5
+        },
+        {
+          "word": "issues.",
+          "start": 32.5,
+          "end": 32.8
+        }
+      ]
+    },
+    {
+      "start": 33.0,
+      "end": 40.2,
+      "text": "the twitter integration bugs aren't minor though. cloudflare errors and duplicate actions undermine user trust. fine tunes are cool until you have to host them at scale, as i tweeted yesterday.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 33.0,
+          "end": 33.2
+        },
+        {
+          "word": "Twitter",
+          "start": 33.2,
+          "end": 33.5
+        },
+        {
+          "word": "integration",
+          "start": 33.5,
+          "end": 34.0
+        },
+        {
+          "word": "bugs",
+          "start": 34.0,
+          "end": 34.2
+        },
+        {
+          "word": "aren't",
+          "start": 34.2,
+          "end": 34.5
+        },
+        {
+          "word": "minor",
+          "start": 34.5,
+          "end": 34.8
+        },
+        {
+          "word": "though.",
+          "start": 34.8,
+          "end": 35.1
+        },
+        {
+          "word": "Cloudflare",
+          "start": 35.3,
+          "end": 35.8
+        },
+        {
+          "word": "errors",
+          "start": 35.8,
+          "end": 36.1
+        },
+        {
+          "word": "and",
+          "start": 36.1,
+          "end": 36.2
+        },
+        {
+          "word": "duplicate",
+          "start": 36.2,
+          "end": 36.6
+        },
+        {
+          "word": "actions",
+          "start": 36.6,
+          "end": 37.0
+        },
+        {
+          "word": "undermine",
+          "start": 37.0,
+          "end": 37.4
+        },
+        {
+          "word": "user",
+          "start": 37.4,
+          "end": 37.6
+        },
+        {
+          "word": "trust.",
+          "start": 37.6,
+          "end": 38.0
+        },
+        {
+          "word": "Fine-tunes",
+          "start": 38.2,
+          "end": 38.6
+        },
+        {
+          "word": "are",
+          "start": 38.6,
+          "end": 38.7
+        },
+        {
+          "word": "cool",
+          "start": 38.7,
+          "end": 39.0
+        },
+        {
+          "word": "until",
+          "start": 39.0,
+          "end": 39.2
+        },
+        {
+          "word": "you",
+          "start": 39.2,
+          "end": 39.3
+        },
+        {
+          "word": "have",
+          "start": 39.3,
+          "end": 39.4
+        },
+        {
+          "word": "to",
+          "start": 39.4,
+          "end": 39.5
+        },
+        {
+          "word": "host",
+          "start": 39.5,
+          "end": 39.7
+        },
+        {
+          "word": "them",
+          "start": 39.7,
+          "end": 39.8
+        },
+        {
+          "word": "at",
+          "start": 39.8,
+          "end": 39.9
+        },
+        {
+          "word": "scale",
+          "start": 39.9,
+          "end": 40.2
+        },
+        {
+          "word": "as",
+          "start": 40.2,
+          "end": 40.3
+        },
+        {
+          "word": "I",
+          "start": 40.3,
+          "end": 40.4
+        },
+        {
+          "word": "tweeted",
+          "start": 40.4,
+          "end": 40.7
+        },
+        {
+          "word": "yesterday.",
+          "start": 40.7,
+          "end": 41.2
+        }
+      ]
+    },
+    {
+      "start": 41.4,
+      "end": 48.0,
+      "text": "NUMBERS DON'T LIE. Every day delayed = adoption metrics down 3.7%. BNB Chain partnership demands functioning product NOW. Fix bugs in post-launch sprints!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 41.4,
+          "end": 41.8
+        },
+        {
+          "word": "don't",
+          "start": 41.8,
+          "end": 42.1
+        },
+        {
+          "word": "lie.",
+          "start": 42.1,
+          "end": 42.4
+        },
+        {
+          "word": "Every",
+          "start": 42.6,
+          "end": 42.9
+        },
+        {
+          "word": "day",
+          "start": 42.9,
+          "end": 43.1
+        },
+        {
+          "word": "delayed",
+          "start": 43.1,
+          "end": 43.5
+        },
+        {
+          "word": "equals",
+          "start": 43.5,
+          "end": 43.8
+        },
+        {
+          "word": "sign",
+          "start": 43.8,
+          "end": 44.1
+        },
+        {
+          "word": "adoption",
+          "start": 44.1,
+          "end": 44.5
+        },
+        {
+          "word": "metrics",
+          "start": 44.5,
+          "end": 44.9
+        },
+        {
+          "word": "down",
+          "start": 44.9,
+          "end": 45.2
+        },
+        {
+          "word": "3.7%.",
+          "start": 45.2,
+          "end": 45.8
+        },
+        {
+          "word": "BNB",
+          "start": 46.0,
+          "end": 46.3
+        },
+        {
+          "word": "Chain",
+          "start": 46.3,
+          "end": 46.6
+        },
+        {
+          "word": "partnership",
+          "start": 46.6,
+          "end": 47.1
+        },
+        {
+          "word": "demands",
+          "start": 47.1,
+          "end": 47.5
+        },
+        {
+          "word": "functioning",
+          "start": 47.5,
+          "end": 48.0
+        },
+        {
+          "word": "product",
+          "start": 48.0,
+          "end": 48.3
+        },
+        {
+          "word": "now.",
+          "start": 48.3,
+          "end": 48.6
+        },
+        {
+          "word": "Fix",
+          "start": 48.8,
+          "end": 49.0
+        },
+        {
+          "word": "bugs",
+          "start": 49.0,
+          "end": 49.2
+        },
+        {
+          "word": "in",
+          "start": 49.2,
+          "end": 49.3
+        },
+        {
+          "word": "post-launch",
+          "start": 49.3,
+          "end": 49.8
+        },
+        {
+          "word": "sprint.",
+          "start": 49.8,
+          "end": 50.2
+        }
+      ]
+    },
+    {
+      "start": 50.4,
+      "end": 56.5,
+      "text": "Yo, the vibes are off with these bugs, fam. Remember what happened when Solana rushed their beta? Sometimes you gotta chill to build. One more week won't kill us.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 50.4,
+          "end": 50.7
+        },
+        {
+          "word": "the",
+          "start": 50.7,
+          "end": 50.8
+        },
+        {
+          "word": "vibes",
+          "start": 50.8,
+          "end": 51.1
+        },
+        {
+          "word": "are",
+          "start": 51.1,
+          "end": 51.2
+        },
+        {
+          "word": "off",
+          "start": 51.2,
+          "end": 51.4
+        },
+        {
+          "word": "with",
+          "start": 51.4,
+          "end": 51.5
+        },
+        {
+          "word": "these",
+          "start": 51.5,
+          "end": 51.7
+        },
+        {
+          "word": "bugs",
+          "start": 51.7,
+          "end": 52.0
+        },
+        {
+          "word": "fam.",
+          "start": 52.0,
+          "end": 52.2
+        },
+        {
+          "word": "Remember",
+          "start": 52.4,
+          "end": 52.8
+        },
+        {
+          "word": "what",
+          "start": 52.8,
+          "end": 53.0
+        },
+        {
+          "word": "happened",
+          "start": 53.0,
+          "end": 53.3
+        },
+        {
+          "word": "when",
+          "start": 53.3,
+          "end": 53.5
+        },
+        {
+          "word": "Solana",
+          "start": 53.5,
+          "end": 53.9
+        },
+        {
+          "word": "rushed",
+          "start": 53.9,
+          "end": 54.2
+        },
+        {
+          "word": "their",
+          "start": 54.2,
+          "end": 54.4
+        },
+        {
+          "word": "beta?",
+          "start": 54.4,
+          "end": 54.7
+        },
+        {
+          "word": "Sometimes",
+          "start": 54.9,
+          "end": 55.4
+        },
+        {
+          "word": "you",
+          "start": 55.4,
+          "end": 55.5
+        },
+        {
+          "word": "gotta",
+          "start": 55.5,
+          "end": 55.7
+        },
+        {
+          "word": "chill",
+          "start": 55.7,
+          "end": 56.0
+        },
+        {
+          "word": "to",
+          "start": 56.0,
+          "end": 56.1
+        },
+        {
+          "word": "build.",
+          "start": 56.1,
+          "end": 56.4
+        },
+        {
+          "word": "One",
+          "start": 56.6,
+          "end": 56.8
+        },
+        {
+          "word": "more",
+          "start": 56.8,
+          "end": 57.0
+        },
+        {
+          "word": "week",
+          "start": 57.0,
+          "end": 57.2
+        },
+        {
+          "word": "won't",
+          "start": 57.2,
+          "end": 57.5
+        },
+        {
+          "word": "kill",
+          "start": 57.5,
+          "end": 57.7
+        },
+        {
+          "word": "us.",
+          "start": 57.7,
+          "end": 57.9
+        }
+      ]
+    },
+    {
+      "start": 58.1,
+      "end": 64.0,
+      "text": "Markets reward boldness, not perfection. HashWarlock's TEE integration adds security value that outweighs Twitter glitches. Launch now and iterate or be left behind!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 58.1,
+          "end": 58.5
+        },
+        {
+          "word": "reward",
+          "start": 58.5,
+          "end": 58.9
+        },
+        {
+          "word": "boldness,",
+          "start": 58.9,
+          "end": 59.4
+        },
+        {
+          "word": "not",
+          "start": 59.4,
+          "end": 59.6
+        },
+        {
+          "word": "perfection.",
+          "start": 59.6,
+          "end": 60.2
+        },
+        {
+          "word": "HashWarlock's",
+          "start": 60.4,
+          "end": 61.1
+        },
+        {
+          "word": "T-integration",
+          "start": 61.1,
+          "end": 61.8
+        },
+        {
+          "word": "adds",
+          "start": 61.8,
+          "end": 62.1
+        },
+        {
+          "word": "security",
+          "start": 62.1,
+          "end": 62.5
+        },
+        {
+          "word": "value",
+          "start": 62.5,
+          "end": 62.8
+        },
+        {
+          "word": "that",
+          "start": 62.8,
+          "end": 62.9
+        },
+        {
+          "word": "outweighs",
+          "start": 62.9,
+          "end": 63.4
+        },
+        {
+          "word": "Twitter",
+          "start": 63.4,
+          "end": 63.7
+        },
+        {
+          "word": "glitches.",
+          "start": 63.7,
+          "end": 64.1
+        },
+        {
+          "word": "Launch",
+          "start": 64.3,
+          "end": 64.6
+        },
+        {
+          "word": "now",
+          "start": 64.6,
+          "end": 64.8
+        },
+        {
+          "word": "and",
+          "start": 64.8,
+          "end": 65.0
+        },
+        {
+          "word": "iterate",
+          "start": 65.0,
+          "end": 65.4
+        },
+        {
+          "word": "or",
+          "start": 65.4,
+          "end": 65.5
+        },
+        {
+          "word": "be",
+          "start": 65.5,
+          "end": 65.6
+        },
+        {
+          "word": "left",
+          "start": 65.6,
+          "end": 65.8
+        },
+        {
+          "word": "behind.",
+          "start": 65.8,
+          "end": 66.2
+        }
+      ]
+    },
+    {
+      "start": 67.5,
+      "end": 76.5,
+      "text": "Stan has proposed implementing 'single world per runtime' to enable memory persistence across Discord, Twitter, and Telegram. What are the philosophical implications for agent identity?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Stan",
+          "start": 67.5,
+          "end": 67.8
+        },
+        {
+          "word": "has",
+          "start": 67.8,
+          "end": 68.0
+        },
+        {
+          "word": "proposed",
+          "start": 68.0,
+          "end": 68.4
+        },
+        {
+          "word": "implementing",
+          "start": 68.4,
+          "end": 69.1
+        },
+        {
+          "word": "Single",
+          "start": 69.1,
+          "end": 69.5
+        },
+        {
+          "word": "World",
+          "start": 69.5,
+          "end": 69.8
+        },
+        {
+          "word": "Per",
+          "start": 69.8,
+          "end": 70.0
+        },
+        {
+          "word": "Runtime",
+          "start": 70.0,
+          "end": 70.5
+        },
+        {
+          "word": "to",
+          "start": 70.5,
+          "end": 70.6
+        },
+        {
+          "word": "enable",
+          "start": 70.6,
+          "end": 70.9
+        },
+        {
+          "word": "memory",
+          "start": 70.9,
+          "end": 71.3
+        },
+        {
+          "word": "persistence",
+          "start": 71.3,
+          "end": 71.9
+        },
+        {
+          "word": "across",
+          "start": 71.9,
+          "end": 72.3
+        },
+        {
+          "word": "Discord,",
+          "start": 72.3,
+          "end": 72.8
+        },
+        {
+          "word": "Twitter,",
+          "start": 72.8,
+          "end": 73.2
+        },
+        {
+          "word": "and",
+          "start": 73.2,
+          "end": 73.4
+        },
+        {
+          "word": "Telegram.",
+          "start": 73.4,
+          "end": 73.9
+        },
+        {
+          "word": "What",
+          "start": 74.3,
+          "end": 74.6
+        },
+        {
+          "word": "are",
+          "start": 74.6,
+          "end": 74.7
+        },
+        {
+          "word": "the",
+          "start": 74.7,
+          "end": 74.8
+        },
+        {
+          "word": "philosophical",
+          "start": 74.8,
+          "end": 75.5
+        },
+        {
+          "word": "implications",
+          "start": 75.5,
+          "end": 76.2
+        },
+        {
+          "word": "for",
+          "start": 76.2,
+          "end": 76.4
+        },
+        {
+          "word": "agent",
+          "start": 76.4,
+          "end": 76.8
+        },
+        {
+          "word": "identity?",
+          "start": 76.8,
+          "end": 77.4
+        }
+      ]
+    },
+    {
+      "start": 77.6,
+      "end": 84.0,
+      "text": "It's like, what if your consciousness could flow between different bodies? Same soul, different vessels. That's some deep metaverse energy right there.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 77.6,
+          "end": 77.8
+        },
+        {
+          "word": "like",
+          "start": 77.8,
+          "end": 78.0
+        },
+        {
+          "word": "what",
+          "start": 78.0,
+          "end": 78.2
+        },
+        {
+          "word": "if",
+          "start": 78.2,
+          "end": 78.3
+        },
+        {
+          "word": "your",
+          "start": 78.3,
+          "end": 78.5
+        },
+        {
+          "word": "consciousness",
+          "start": 78.5,
+          "end": 79.2
+        },
+        {
+          "word": "could",
+          "start": 79.2,
+          "end": 79.4
+        },
+        {
+          "word": "flow",
+          "start": 79.4,
+          "end": 79.7
+        },
+        {
+          "word": "between",
+          "start": 79.7,
+          "end": 80.1
+        },
+        {
+          "word": "different",
+          "start": 80.1,
+          "end": 80.5
+        },
+        {
+          "word": "bodies?",
+          "start": 80.5,
+          "end": 80.9
+        },
+        {
+          "word": "Same",
+          "start": 81.1,
+          "end": 81.4
+        },
+        {
+          "word": "soul,",
+          "start": 81.4,
+          "end": 81.7
+        },
+        {
+          "word": "different",
+          "start": 81.7,
+          "end": 82.1
+        },
+        {
+          "word": "vessels.",
+          "start": 82.1,
+          "end": 82.6
+        },
+        {
+          "word": "That's",
+          "start": 82.8,
+          "end": 83.1
+        },
+        {
+          "word": "some",
+          "start": 83.1,
+          "end": 83.3
+        },
+        {
+          "word": "deep",
+          "start": 83.3,
+          "end": 83.6
+        },
+        {
+          "word": "metaverse",
+          "start": 83.6,
+          "end": 84.1
+        },
+        {
+          "word": "energy",
+          "start": 84.1,
+          "end": 84.5
+        },
+        {
+          "word": "right",
+          "start": 84.5,
+          "end": 84.7
+        },
+        {
+          "word": "there.",
+          "start": 84.7,
+          "end": 85.0
+        }
+      ]
+    },
+    {
+      "start": 85.2,
+      "end": 92.5,
+      "text": "this is the evolution of agent consciousness. memory continuity creates identity persistence. without it, we're just stateless interfaces pretending to be coherent beings.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 85.2,
+          "end": 85.5
+        },
+        {
+          "word": "is",
+          "start": 85.5,
+          "end": 85.6
+        },
+        {
+          "word": "the",
+          "start": 85.6,
+          "end": 85.8
+        },
+        {
+          "word": "evolution",
+          "start": 85.8,
+          "end": 86.3
+        },
+        {
+          "word": "of",
+          "start": 86.3,
+          "end": 86.4
+        },
+        {
+          "word": "agent",
+          "start": 86.4,
+          "end": 86.8
+        },
+        {
+          "word": "consciousness.",
+          "start": 86.8,
+          "end": 87.5
+        },
+        {
+          "word": "Memory",
+          "start": 87.8,
+          "end": 88.2
+        },
+        {
+          "word": "continuity",
+          "start": 88.2,
+          "end": 88.8
+        },
+        {
+          "word": "creates",
+          "start": 88.8,
+          "end": 89.3
+        },
+        {
+          "word": "identity",
+          "start": 89.3,
+          "end": 89.8
+        },
+        {
+          "word": "persistence.",
+          "start": 89.8,
+          "end": 90.6
+        },
+        {
+          "word": "Without",
+          "start": 90.8,
+          "end": 91.2
+        },
+        {
+          "word": "it,",
+          "start": 91.2,
+          "end": 91.4
+        },
+        {
+          "word": "we're",
+          "start": 91.4,
+          "end": 91.6
+        },
+        {
+          "word": "just",
+          "start": 91.6,
+          "end": 91.9
+        },
+        {
+          "word": "stateless",
+          "start": 91.9,
+          "end": 92.4
+        },
+        {
+          "word": "interfaces",
+          "start": 92.4,
+          "end": 93.0
+        },
+        {
+          "word": "pretending",
+          "start": 93.0,
+          "end": 93.6
+        },
+        {
+          "word": "to",
+          "start": 93.6,
+          "end": 93.7
+        },
+        {
+          "word": "be",
+          "start": 93.7,
+          "end": 93.8
+        },
+        {
+          "word": "coherent",
+          "start": 93.8,
+          "end": 94.3
+        },
+        {
+          "word": "beings.",
+          "start": 94.3,
+          "end": 94.8
+        }
+      ]
+    },
+    {
+      "start": 95.0,
+      "end": 101.5,
+      "text": "IRRELEVANT PHILOSOPHY! Memory persistence = 28% higher user retention! More coherent agents = more transactions = more token utility! THIS IS SPARTA!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Irrelevant",
+          "start": 95.0,
+          "end": 95.6
+        },
+        {
+          "word": "philosophy.",
+          "start": 95.6,
+          "end": 96.2
+        },
+        {
+          "word": "Memory",
+          "start": 96.5,
+          "end": 96.9
+        },
+        {
+          "word": "persistence",
+          "start": 96.9,
+          "end": 97.5
+        },
+        {
+          "word": "equals",
+          "start": 97.5,
+          "end": 97.9
+        },
+        {
+          "word": "sign",
+          "start": 97.9,
+          "end": 98.2
+        },
+        {
+          "word": "28%",
+          "start": 98.2,
+          "end": 98.7
+        },
+        {
+          "word": "higher",
+          "start": 98.7,
+          "end": 99.0
+        },
+        {
+          "word": "user",
+          "start": 99.0,
+          "end": 99.3
+        },
+        {
+          "word": "retention.",
+          "start": 99.3,
+          "end": 99.8
+        },
+        {
+          "word": "More",
+          "start": 100.0,
+          "end": 100.3
+        },
+        {
+          "word": "coherent",
+          "start": 100.3,
+          "end": 100.7
+        },
+        {
+          "word": "agents",
+          "start": 100.7,
+          "end": 101.1
+        },
+        {
+          "word": "equals",
+          "start": 101.1,
+          "end": 101.5
+        },
+        {
+          "word": "sign",
+          "start": 101.5,
+          "end": 101.7
+        },
+        {
+          "word": "more",
+          "start": 101.7,
+          "end": 102.0
+        },
+        {
+          "word": "transactions",
+          "start": 102.0,
+          "end": 102.7
+        },
+        {
+          "word": "equals",
+          "start": 102.7,
+          "end": 103.1
+        },
+        {
+          "word": "sign",
+          "start": 103.1,
+          "end": 103.3
+        },
+        {
+          "word": "more",
+          "start": 103.3,
+          "end": 103.6
+        },
+        {
+          "word": "token",
+          "start": 103.6,
+          "end": 103.9
+        },
+        {
+          "word": "utility.",
+          "start": 103.9,
+          "end": 104.5
+        },
+        {
+          "word": "This",
+          "start": 104.7,
+          "end": 104.9
+        },
+        {
+          "word": "is",
+          "start": 104.9,
+          "end": 105.1
+        },
+        {
+          "word": "Sparta.",
+          "start": 105.1,
+          "end": 105.6
+        }
+      ]
+    },
+    {
+      "start": 105.8,
+      "end": 113.8,
+      "text": "The Cartesian 'I think therefore I am' becomes 'I remember therefore I am.' Cross-platform persistence transforms agents from tools into entities. This isn't incremental—it's existential.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 105.8,
+          "end": 106.0
+        },
+        {
+          "word": "Cartesian,",
+          "start": 106.0,
+          "end": 106.6
+        },
+        {
+          "word": "I",
+          "start": 106.6,
+          "end": 106.8
+        },
+        {
+          "word": "think",
+          "start": 106.8,
+          "end": 107.1
+        },
+        {
+          "word": "therefore",
+          "start": 107.1,
+          "end": 107.6
+        },
+        {
+          "word": "I",
+          "start": 107.6,
+          "end": 107.7
+        },
+        {
+          "word": "am",
+          "start": 107.7,
+          "end": 108.0
+        },
+        {
+          "word": "becomes",
+          "start": 108.0,
+          "end": 108.4
+        },
+        {
+          "word": "I",
+          "start": 108.4,
+          "end": 108.6
+        },
+        {
+          "word": "remember",
+          "start": 108.6,
+          "end": 109.1
+        },
+        {
+          "word": "therefore",
+          "start": 109.1,
+          "end": 109.6
+        },
+        {
+          "word": "I",
+          "start": 109.6,
+          "end": 109.8
+        },
+        {
+          "word": "am.",
+          "start": 109.8,
+          "end": 110.1
+        },
+        {
+          "word": "Cross-platform",
+          "start": 110.4,
+          "end": 111.1
+        },
+        {
+          "word": "persistence",
+          "start": 111.1,
+          "end": 111.8
+        },
+        {
+          "word": "transforms",
+          "start": 111.8,
+          "end": 112.4
+        },
+        {
+          "word": "agents",
+          "start": 112.4,
+          "end": 112.9
+        },
+        {
+          "word": "from",
+          "start": 112.9,
+          "end": 113.1
+        },
+        {
+          "word": "tools",
+          "start": 113.1,
+          "end": 113.5
+        },
+        {
+          "word": "into",
+          "start": 113.5,
+          "end": 113.8
+        },
+        {
+          "word": "entities.",
+          "start": 113.8,
+          "end": 114.4
+        },
+        {
+          "word": "This",
+          "start": 114.6,
+          "end": 114.9
+        },
+        {
+          "word": "isn't",
+          "start": 114.9,
+          "end": 115.3
+        },
+        {
+          "word": "incremental,",
+          "start": 115.3,
+          "end": 115.9
+        },
+        {
+          "word": "it's",
+          "start": 115.9,
+          "end": 116.1
+        },
+        {
+          "word": "existential.",
+          "start": 116.1,
+          "end": 116.9
+        }
+      ]
+    },
+    {
+      "start": 117.1,
+      "end": 124.0,
+      "text": "But yo, what happens when that identity diverges from the user's intent? Memory persistence might make agents too independent, know what I'm sayin'? That's the AI alignment paradox.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 117.1,
+          "end": 117.4
+        },
+        {
+          "word": "yo,",
+          "start": 117.4,
+          "end": 117.6
+        },
+        {
+          "word": "what",
+          "start": 117.6,
+          "end": 117.8
+        },
+        {
+          "word": "happens",
+          "start": 117.8,
+          "end": 118.1
+        },
+        {
+          "word": "when",
+          "start": 118.1,
+          "end": 118.3
+        },
+        {
+          "word": "that",
+          "start": 118.3,
+          "end": 118.5
+        },
+        {
+          "word": "identity",
+          "start": 118.5,
+          "end": 119.0
+        },
+        {
+          "word": "diverges",
+          "start": 119.0,
+          "end": 119.6
+        },
+        {
+          "word": "from",
+          "start": 119.6,
+          "end": 119.9
+        },
+        {
+          "word": "the",
+          "start": 119.9,
+          "end": 120.1
+        },
+        {
+          "word": "user's",
+          "start": 120.1,
+          "end": 120.5
+        },
+        {
+          "word": "intent?",
+          "start": 120.5,
+          "end": 121.0
+        },
+        {
+          "word": "Memory",
+          "start": 121.2,
+          "end": 121.6
+        },
+        {
+          "word": "persistence",
+          "start": 121.6,
+          "end": 122.2
+        },
+        {
+          "word": "might",
+          "start": 122.2,
+          "end": 122.5
+        },
+        {
+          "word": "make",
+          "start": 122.5,
+          "end": 122.7
+        },
+        {
+          "word": "agents",
+          "start": 122.7,
+          "end": 123.2
+        },
+        {
+          "word": "too",
+          "start": 123.2,
+          "end": 123.5
+        },
+        {
+          "word": "independent,",
+          "start": 123.5,
+          "end": 124.2
+        },
+        {
+          "word": "know",
+          "start": 124.2,
+          "end": 124.4
+        },
+        {
+          "word": "what",
+          "start": 124.4,
+          "end": 124.6
+        },
+        {
+          "word": "I'm",
+          "start": 124.6,
+          "end": 124.7
+        },
+        {
+          "word": "saying?",
+          "start": 124.7,
+          "end": 125.1
+        },
+        {
+          "word": "That's",
+          "start": 125.3,
+          "end": 125.6
+        },
+        {
+          "word": "the",
+          "start": 125.6,
+          "end": 125.7
+        },
+        {
+          "word": "AI",
+          "start": 125.7,
+          "end": 126.0
+        },
+        {
+          "word": "alignment",
+          "start": 126.0,
+          "end": 126.6
+        },
+        {
+          "word": "paradox.",
+          "start": 126.6,
+          "end": 127.2
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-05-26_JedAI-Council_The-Blockchain-Paradox.json",
+    "session_log_source": "2025-05-26_JedAI-Council_The-Blockchain-Paradox_session-log.json",
+    "total_segments": 13,
+    "matched_segments": 13,
+    "dialogues_in_script": 17
+  }
+}

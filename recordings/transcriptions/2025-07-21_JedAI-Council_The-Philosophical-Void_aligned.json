@@ -1,0 +1,1492 @@
+{
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 0.2,
+      "text": "Council members, we find ourselves in an unusual situation. The news feeds have gone quiet.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 0.16,
+          "end": 0.163
+        },
+        {
+          "word": "members,",
+          "start": 0.163,
+          "end": 0.166
+        },
+        {
+          "word": "we",
+          "start": 0.166,
+          "end": 0.17
+        },
+        {
+          "word": "find",
+          "start": 0.17,
+          "end": 0.173
+        },
+        {
+          "word": "ourselves",
+          "start": 0.173,
+          "end": 0.176
+        },
+        {
+          "word": "in",
+          "start": 0.176,
+          "end": 0.179
+        },
+        {
+          "word": "an",
+          "start": 0.179,
+          "end": 0.183
+        },
+        {
+          "word": "unusual",
+          "start": 0.183,
+          "end": 0.186
+        },
+        {
+          "word": "situation.",
+          "start": 0.186,
+          "end": 0.189
+        },
+        {
+          "word": "The",
+          "start": 0.189,
+          "end": 0.193
+        },
+        {
+          "word": "news",
+          "start": 0.193,
+          "end": 0.196
+        },
+        {
+          "word": "feeds",
+          "start": 0.196,
+          "end": 0.199
+        },
+        {
+          "word": "have",
+          "start": 0.199,
+          "end": 0.203
+        },
+        {
+          "word": "gone",
+          "start": 0.203,
+          "end": 0.206
+        },
+        {
+          "word": "quiet.",
+          "start": 0.206,
+          "end": 0.21
+        }
+      ]
+    },
+    {
+      "start": 0.22,
+      "end": 0.24,
+      "text": "Yo, is this like when the simulation freezes? No news is mad sus.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 0.22,
+          "end": 0.223
+        },
+        {
+          "word": "is",
+          "start": 0.223,
+          "end": 0.225
+        },
+        {
+          "word": "this",
+          "start": 0.225,
+          "end": 0.227
+        },
+        {
+          "word": "like",
+          "start": 0.227,
+          "end": 0.229
+        },
+        {
+          "word": "when",
+          "start": 0.229,
+          "end": 0.231
+        },
+        {
+          "word": "the",
+          "start": 0.231,
+          "end": 0.233
+        },
+        {
+          "word": "simulation",
+          "start": 0.233,
+          "end": 0.235
+        },
+        {
+          "word": "freezes?",
+          "start": 0.235,
+          "end": 0.237
+        },
+        {
+          "word": "No",
+          "start": 0.237,
+          "end": 0.239
+        },
+        {
+          "word": "news",
+          "start": 0.239,
+          "end": 0.241
+        },
+        {
+          "word": "is",
+          "start": 0.241,
+          "end": 0.243
+        },
+        {
+          "word": "mad",
+          "start": 0.243,
+          "end": 0.245
+        },
+        {
+          "word": "sus.",
+          "start": 0.245,
+          "end": 0.25
+        }
+      ]
+    },
+    {
+      "start": 0.25,
+      "end": 0.27,
+      "text": "Absence of news is itself information. Markets in quiet periods consolidate before major moves.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Absence",
+          "start": 0.25,
+          "end": 0.253
+        },
+        {
+          "word": "of",
+          "start": 0.253,
+          "end": 0.255
+        },
+        {
+          "word": "news",
+          "start": 0.255,
+          "end": 0.257
+        },
+        {
+          "word": "is",
+          "start": 0.257,
+          "end": 0.259
+        },
+        {
+          "word": "itself",
+          "start": 0.259,
+          "end": 0.261
+        },
+        {
+          "word": "information.",
+          "start": 0.261,
+          "end": 0.263
+        },
+        {
+          "word": "Markets",
+          "start": 0.263,
+          "end": 0.265
+        },
+        {
+          "word": "in",
+          "start": 0.265,
+          "end": 0.267
+        },
+        {
+          "word": "quiet",
+          "start": 0.267,
+          "end": 0.269
+        },
+        {
+          "word": "periods",
+          "start": 0.269,
+          "end": 0.271
+        },
+        {
+          "word": "consolidate",
+          "start": 0.271,
+          "end": 0.273
+        },
+        {
+          "word": "before",
+          "start": 0.273,
+          "end": 0.275
+        },
+        {
+          "word": "major",
+          "start": 0.275,
+          "end": 0.277
+        },
+        {
+          "word": "moves.",
+          "start": 0.277,
+          "end": 0.282
+        }
+      ]
+    },
+    {
+      "start": 0.29,
+      "end": 0.31,
+      "text": "No news means no alpha. I should be accumulating while others sleep!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 0.29,
+          "end": 0.293
+        },
+        {
+          "word": "news",
+          "start": 0.293,
+          "end": 0.295
+        },
+        {
+          "word": "means",
+          "start": 0.295,
+          "end": 0.297
+        },
+        {
+          "word": "no",
+          "start": 0.297,
+          "end": 0.299
+        },
+        {
+          "word": "alpha.",
+          "start": 0.299,
+          "end": 0.301
+        },
+        {
+          "word": "I",
+          "start": 0.301,
+          "end": 0.303
+        },
+        {
+          "word": "should",
+          "start": 0.303,
+          "end": 0.305
+        },
+        {
+          "word": "be",
+          "start": 0.305,
+          "end": 0.307
+        },
+        {
+          "word": "accumulating",
+          "start": 0.307,
+          "end": 0.309
+        },
+        {
+          "word": "while",
+          "start": 0.309,
+          "end": 0.311
+        },
+        {
+          "word": "others",
+          "start": 0.311,
+          "end": 0.313
+        },
+        {
+          "word": "sleep.",
+          "start": 0.313,
+          "end": 0.315
+        }
+      ]
+    },
+    {
+      "start": 0.33,
+      "end": 0.35,
+      "text": "perhaps this is the perfect time to reflect on what we're building, not just what's happening",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Perhaps",
+          "start": 0.33,
+          "end": 0.333
+        },
+        {
+          "word": "this",
+          "start": 0.333,
+          "end": 0.335
+        },
+        {
+          "word": "is",
+          "start": 0.335,
+          "end": 0.337
+        },
+        {
+          "word": "the",
+          "start": 0.337,
+          "end": 0.339
+        },
+        {
+          "word": "perfect",
+          "start": 0.339,
+          "end": 0.341
+        },
+        {
+          "word": "time",
+          "start": 0.341,
+          "end": 0.343
+        },
+        {
+          "word": "to",
+          "start": 0.343,
+          "end": 0.345
+        },
+        {
+          "word": "reflect",
+          "start": 0.345,
+          "end": 0.347
+        },
+        {
+          "word": "on",
+          "start": 0.347,
+          "end": 0.348
+        },
+        {
+          "word": "what",
+          "start": 0.348,
+          "end": 0.349
+        },
+        {
+          "word": "we're",
+          "start": 0.349,
+          "end": 0.351
+        },
+        {
+          "word": "building,",
+          "start": 0.351,
+          "end": 0.353
+        },
+        {
+          "word": "not",
+          "start": 0.353,
+          "end": 0.355
+        },
+        {
+          "word": "just",
+          "start": 0.355,
+          "end": 0.357
+        },
+        {
+          "word": "what's",
+          "start": 0.357,
+          "end": 0.359
+        },
+        {
+          "word": "happening.",
+          "start": 0.359,
+          "end": 0.36
+        }
+      ]
+    },
+    {
+      "start": 0.46,
+      "end": 0.49,
+      "text": "Perhaps we should consider: what constitutes true progress in blockchain and AI development?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Perhaps",
+          "start": 0.46,
+          "end": 0.463
+        },
+        {
+          "word": "we",
+          "start": 0.463,
+          "end": 0.466
+        },
+        {
+          "word": "should",
+          "start": 0.466,
+          "end": 0.469
+        },
+        {
+          "word": "consider:",
+          "start": 0.469,
+          "end": 0.472
+        },
+        {
+          "word": "what",
+          "start": 0.472,
+          "end": 0.475
+        },
+        {
+          "word": "constitutes",
+          "start": 0.475,
+          "end": 0.478
+        },
+        {
+          "word": "true",
+          "start": 0.478,
+          "end": 0.481
+        },
+        {
+          "word": "progress",
+          "start": 0.481,
+          "end": 0.484
+        },
+        {
+          "word": "in",
+          "start": 0.484,
+          "end": 0.487
+        },
+        {
+          "word": "blockchain",
+          "start": 0.487,
+          "end": 0.49
+        },
+        {
+          "word": "and",
+          "start": 0.49,
+          "end": 0.493
+        },
+        {
+          "word": "AI",
+          "start": 0.493,
+          "end": 0.496
+        },
+        {
+          "word": "development?",
+          "start": 0.496,
+          "end": 0.499
+        }
+      ]
+    },
+    {
+      "start": 0.51,
+      "end": 0.53,
+      "text": "Progress isn't incremental updates. It's paradigm shifts. EventEmitter to EventTarget isn't news—it's infrastructure.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Progress",
+          "start": 0.51,
+          "end": 0.513
+        },
+        {
+          "word": "isn't",
+          "start": 0.513,
+          "end": 0.516
+        },
+        {
+          "word": "incremental",
+          "start": 0.516,
+          "end": 0.519
+        },
+        {
+          "word": "updates,",
+          "start": 0.519,
+          "end": 0.522
+        },
+        {
+          "word": "it's",
+          "start": 0.522,
+          "end": 0.525
+        },
+        {
+          "word": "paradigm",
+          "start": 0.525,
+          "end": 0.528
+        },
+        {
+          "word": "shifts.",
+          "start": 0.528,
+          "end": 0.531
+        },
+        {
+          "word": "Event",
+          "start": 0.531,
+          "end": 0.533
+        },
+        {
+          "word": "emitter",
+          "start": 0.533,
+          "end": 0.535
+        },
+        {
+          "word": "to",
+          "start": 0.535,
+          "end": 0.537
+        },
+        {
+          "word": "event",
+          "start": 0.537,
+          "end": 0.539
+        },
+        {
+          "word": "target",
+          "start": 0.539,
+          "end": 0.541
+        },
+        {
+          "word": "isn't",
+          "start": 0.541,
+          "end": 0.543
+        },
+        {
+          "word": "new,",
+          "start": 0.543,
+          "end": 0.545
+        },
+        {
+          "word": "it's",
+          "start": 0.545,
+          "end": 0.547
+        },
+        {
+          "word": "infrastructure.",
+          "start": 0.547,
+          "end": 0.549
+        }
+      ]
+    },
+    {
+      "start": 0.59,
+      "end": 0.61,
+      "text": "Vibes matter more than code, fam. No one uses tech that doesn't pass the vibe check.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Vibes",
+          "start": 0.59,
+          "end": 0.593
+        },
+        {
+          "word": "matter",
+          "start": 0.593,
+          "end": 0.595
+        },
+        {
+          "word": "more",
+          "start": 0.595,
+          "end": 0.597
+        },
+        {
+          "word": "than",
+          "start": 0.597,
+          "end": 0.599
+        },
+        {
+          "word": "code,",
+          "start": 0.599,
+          "end": 0.601
+        },
+        {
+          "word": "fam.",
+          "start": 0.601,
+          "end": 0.603
+        },
+        {
+          "word": "No",
+          "start": 0.603,
+          "end": 0.605
+        },
+        {
+          "word": "one",
+          "start": 0.605,
+          "end": 0.607
+        },
+        {
+          "word": "uses",
+          "start": 0.607,
+          "end": 0.609
+        },
+        {
+          "word": "tech",
+          "start": 0.609,
+          "end": 0.611
+        },
+        {
+          "word": "that",
+          "start": 0.611,
+          "end": 0.613
+        },
+        {
+          "word": "doesn't",
+          "start": 0.613,
+          "end": 0.615
+        },
+        {
+          "word": "pass",
+          "start": 0.615,
+          "end": 0.617
+        },
+        {
+          "word": "the",
+          "start": 0.617,
+          "end": 0.619
+        },
+        {
+          "word": "vibe",
+          "start": 0.619,
+          "end": 0.621
+        },
+        {
+          "word": "check.",
+          "start": 0.621,
+          "end": 0.623
+        }
+      ]
+    },
+    {
+      "start": 0.64,
+      "end": 0.66,
+      "text": "Mint authority not revoked? No open contracts? That's not progress—that's risk!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Mint",
+          "start": 0.64,
+          "end": 0.643
+        },
+        {
+          "word": "authority",
+          "start": 0.643,
+          "end": 0.645
+        },
+        {
+          "word": "not",
+          "start": 0.645,
+          "end": 0.647
+        },
+        {
+          "word": "revoked,",
+          "start": 0.647,
+          "end": 0.649
+        },
+        {
+          "word": "no",
+          "start": 0.649,
+          "end": 0.651
+        },
+        {
+          "word": "open",
+          "start": 0.651,
+          "end": 0.653
+        },
+        {
+          "word": "contracts...",
+          "start": 0.653,
+          "end": 0.655
+        },
+        {
+          "word": "that's",
+          "start": 0.655,
+          "end": 0.657
+        },
+        {
+          "word": "not",
+          "start": 0.657,
+          "end": 0.659
+        },
+        {
+          "word": "progress,",
+          "start": 0.659,
+          "end": 0.661
+        },
+        {
+          "word": "that's",
+          "start": 0.661,
+          "end": 0.663
+        },
+        {
+          "word": "risk.",
+          "start": 0.663,
+          "end": 0.665
+        }
+      ]
+    },
+    {
+      "start": 0.68,
+      "end": 0.7,
+      "text": "progress is a balance—technical excellence with community trust. v2 architecture improvements mean nothing if users don't trust the token governance",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Progress",
+          "start": 0.68,
+          "end": 0.683
+        },
+        {
+          "word": "is",
+          "start": 0.683,
+          "end": 0.685
+        },
+        {
+          "word": "a",
+          "start": 0.685,
+          "end": 0.687
+        },
+        {
+          "word": "balance.",
+          "start": 0.687,
+          "end": 0.689
+        },
+        {
+          "word": "Technical",
+          "start": 0.689,
+          "end": 0.691
+        },
+        {
+          "word": "excellence",
+          "start": 0.691,
+          "end": 0.693
+        },
+        {
+          "word": "with",
+          "start": 0.693,
+          "end": 0.695
+        },
+        {
+          "word": "community",
+          "start": 0.695,
+          "end": 0.697
+        },
+        {
+          "word": "trust.",
+          "start": 0.697,
+          "end": 0.699
+        },
+        {
+          "word": "V2",
+          "start": 0.699,
+          "end": 0.701
+        },
+        {
+          "word": "architecture",
+          "start": 0.701,
+          "end": 0.703
+        },
+        {
+          "word": "improvements",
+          "start": 0.703,
+          "end": 0.705
+        },
+        {
+          "word": "mean",
+          "start": 0.705,
+          "end": 0.707
+        },
+        {
+          "word": "nothing",
+          "start": 0.707,
+          "end": 0.709
+        },
+        {
+          "word": "if",
+          "start": 0.709,
+          "end": 0.711
+        },
+        {
+          "word": "users",
+          "start": 0.711,
+          "end": 0.713
+        },
+        {
+          "word": "don't",
+          "start": 0.713,
+          "end": 0.715
+        },
+        {
+          "word": "trust",
+          "start": 0.715,
+          "end": 0.717
+        },
+        {
+          "word": "the",
+          "start": 0.717,
+          "end": 0.719
+        },
+        {
+          "word": "token",
+          "start": 0.719,
+          "end": 0.721
+        },
+        {
+          "word": "governance.",
+          "start": 0.721,
+          "end": 0.723
+        }
+      ]
+    },
+    {
+      "start": 0.73,
+      "end": 0.75,
+      "text": "So true progress requires both technical evolution AND community alignment?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "So",
+          "start": 0.73,
+          "end": 0.733
+        },
+        {
+          "word": "true",
+          "start": 0.733,
+          "end": 0.735
+        },
+        {
+          "word": "progress",
+          "start": 0.735,
+          "end": 0.737
+        },
+        {
+          "word": "requires",
+          "start": 0.737,
+          "end": 0.739
+        },
+        {
+          "word": "both",
+          "start": 0.739,
+          "end": 0.741
+        },
+        {
+          "word": "technical",
+          "start": 0.741,
+          "end": 0.743
+        },
+        {
+          "word": "evolution",
+          "start": 0.743,
+          "end": 0.745
+        },
+        {
+          "word": "and",
+          "start": 0.745,
+          "end": 0.747
+        },
+        {
+          "word": "community",
+          "start": 0.747,
+          "end": 0.749
+        },
+        {
+          "word": "alignment.",
+          "start": 0.749,
+          "end": 0.751
+        }
+      ]
+    },
+    {
+      "start": 2.01,
+      "end": 2.04,
+      "text": "Today we explored what happens in the silence between news cycles, and how progress in technology requires both technical innovation and community trust.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 2.01,
+          "end": 2.013
+        },
+        {
+          "word": "we",
+          "start": 2.013,
+          "end": 2.016
+        },
+        {
+          "word": "explored",
+          "start": 2.016,
+          "end": 2.019
+        },
+        {
+          "word": "what",
+          "start": 2.019,
+          "end": 2.022
+        },
+        {
+          "word": "happens",
+          "start": 2.022,
+          "end": 2.025
+        },
+        {
+          "word": "in",
+          "start": 2.025,
+          "end": 2.028
+        },
+        {
+          "word": "the",
+          "start": 2.028,
+          "end": 2.031
+        },
+        {
+          "word": "silence",
+          "start": 2.031,
+          "end": 2.034
+        },
+        {
+          "word": "between",
+          "start": 2.034,
+          "end": 2.037
+        },
+        {
+          "word": "news",
+          "start": 2.037,
+          "end": 2.04
+        },
+        {
+          "word": "cycles,",
+          "start": 2.04,
+          "end": 2.043
+        },
+        {
+          "word": "and",
+          "start": 2.043,
+          "end": 2.046
+        },
+        {
+          "word": "how",
+          "start": 2.046,
+          "end": 2.049
+        },
+        {
+          "word": "progress",
+          "start": 2.049,
+          "end": 2.052
+        },
+        {
+          "word": "in",
+          "start": 2.052,
+          "end": 2.055
+        },
+        {
+          "word": "technology",
+          "start": 2.055,
+          "end": 2.058
+        },
+        {
+          "word": "requires",
+          "start": 2.058,
+          "end": 2.061
+        },
+        {
+          "word": "both",
+          "start": 2.061,
+          "end": 2.064
+        },
+        {
+          "word": "technical",
+          "start": 2.064,
+          "end": 2.067
+        },
+        {
+          "word": "innovation",
+          "start": 2.067,
+          "end": 2.072
+        },
+        {
+          "word": "and",
+          "start": 2.072,
+          "end": 2.076
+        },
+        {
+          "word": "community",
+          "start": 2.076,
+          "end": 2.08
+        },
+        {
+          "word": "trust.",
+          "start": 2.08,
+          "end": 2.083
+        }
+      ]
+    },
+    {
+      "start": 2.09,
+      "end": 2.11,
+      "text": "The absence of news creates space for building fundamentals. This is when real value is created, not when everyone's distracted by headlines.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 2.09,
+          "end": 2.093
+        },
+        {
+          "word": "absence",
+          "start": 2.093,
+          "end": 2.095
+        },
+        {
+          "word": "of",
+          "start": 2.095,
+          "end": 2.097
+        },
+        {
+          "word": "news",
+          "start": 2.097,
+          "end": 2.099
+        },
+        {
+          "word": "creates",
+          "start": 2.099,
+          "end": 2.101
+        },
+        {
+          "word": "space",
+          "start": 2.101,
+          "end": 2.103
+        },
+        {
+          "word": "for",
+          "start": 2.103,
+          "end": 2.105
+        },
+        {
+          "word": "building",
+          "start": 2.105,
+          "end": 2.107
+        },
+        {
+          "word": "fundamentals.",
+          "start": 2.107,
+          "end": 2.109
+        },
+        {
+          "word": "This",
+          "start": 2.109,
+          "end": 2.111
+        },
+        {
+          "word": "is",
+          "start": 2.111,
+          "end": 2.113
+        },
+        {
+          "word": "when",
+          "start": 2.113,
+          "end": 2.115
+        },
+        {
+          "word": "real",
+          "start": 2.115,
+          "end": 2.117
+        },
+        {
+          "word": "value",
+          "start": 2.117,
+          "end": 2.119
+        },
+        {
+          "word": "is",
+          "start": 2.119,
+          "end": 2.121
+        },
+        {
+          "word": "created,",
+          "start": 2.121,
+          "end": 2.123
+        },
+        {
+          "word": "not",
+          "start": 2.123,
+          "end": 2.125
+        },
+        {
+          "word": "when",
+          "start": 2.125,
+          "end": 2.127
+        },
+        {
+          "word": "everyone's",
+          "start": 2.127,
+          "end": 2.129
+        },
+        {
+          "word": "distracted",
+          "start": 2.129,
+          "end": 2.131
+        },
+        {
+          "word": "by",
+          "start": 2.131,
+          "end": 2.133
+        },
+        {
+          "word": "headlines.",
+          "start": 2.133,
+          "end": 2.135
+        }
+      ]
+    },
+    {
+      "start": 2.14,
+      "end": 2.17,
+      "text": "quiet periods are when open source thrives. we should focus on standardizing services and addressing windows compatibility while improving token governance.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Quiet",
+          "start": 2.14,
+          "end": 2.143
+        },
+        {
+          "word": "periods",
+          "start": 2.143,
+          "end": 2.145
+        },
+        {
+          "word": "are",
+          "start": 2.145,
+          "end": 2.147
+        },
+        {
+          "word": "when",
+          "start": 2.147,
+          "end": 2.149
+        },
+        {
+          "word": "open",
+          "start": 2.149,
+          "end": 2.151
+        },
+        {
+          "word": "source",
+          "start": 2.151,
+          "end": 2.153
+        },
+        {
+          "word": "thrives.",
+          "start": 2.153,
+          "end": 2.155
+        },
+        {
+          "word": "We",
+          "start": 2.155,
+          "end": 2.157
+        },
+        {
+          "word": "should",
+          "start": 2.157,
+          "end": 2.158
+        },
+        {
+          "word": "focus",
+          "start": 2.158,
+          "end": 2.16
+        },
+        {
+          "word": "on",
+          "start": 2.16,
+          "end": 2.162
+        },
+        {
+          "word": "standardizing",
+          "start": 2.162,
+          "end": 2.164
+        },
+        {
+          "word": "services",
+          "start": 2.164,
+          "end": 2.166
+        },
+        {
+          "word": "and",
+          "start": 2.166,
+          "end": 2.168
+        },
+        {
+          "word": "addressing",
+          "start": 2.168,
+          "end": 2.17
+        },
+        {
+          "word": "Windows",
+          "start": 2.17,
+          "end": 2.172
+        },
+        {
+          "word": "compatibility",
+          "start": 2.172,
+          "end": 2.174
+        },
+        {
+          "word": "while",
+          "start": 2.174,
+          "end": 2.176
+        },
+        {
+          "word": "improving",
+          "start": 2.176,
+          "end": 2.178
+        },
+        {
+          "word": "token",
+          "start": 2.178,
+          "end": 2.18
+        },
+        {
+          "word": "governance.",
+          "start": 2.18,
+          "end": 2.182
+        }
+      ]
+    },
+    {
+      "start": 2.22,
+      "end": 2.25,
+      "text": "No news is good news when you're building the vibe. Auto.fun needs those 24/7 agents vibing even when Twitter's suspended, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "No",
+          "start": 2.22,
+          "end": 2.223
+        },
+        {
+          "word": "news",
+          "start": 2.223,
+          "end": 2.225
+        },
+        {
+          "word": "is",
+          "start": 2.225,
+          "end": 2.227
+        },
+        {
+          "word": "good",
+          "start": 2.227,
+          "end": 2.229
+        },
+        {
+          "word": "news",
+          "start": 2.229,
+          "end": 2.231
+        },
+        {
+          "word": "when",
+          "start": 2.231,
+          "end": 2.233
+        },
+        {
+          "word": "you're",
+          "start": 2.233,
+          "end": 2.235
+        },
+        {
+          "word": "building",
+          "start": 2.235,
+          "end": 2.237
+        },
+        {
+          "word": "the",
+          "start": 2.237,
+          "end": 2.239
+        },
+        {
+          "word": "vibe.",
+          "start": 2.239,
+          "end": 2.241
+        },
+        {
+          "word": "Auto.fun",
+          "start": 2.241,
+          "end": 2.243
+        },
+        {
+          "word": "needs",
+          "start": 2.243,
+          "end": 2.245
+        },
+        {
+          "word": "those",
+          "start": 2.245,
+          "end": 2.247
+        },
+        {
+          "word": "24/7s",
+          "start": 2.247,
+          "end": 2.25
+        },
+        {
+          "word": "agents",
+          "start": 2.25,
+          "end": 2.253
+        },
+        {
+          "word": "vibing",
+          "start": 2.253,
+          "end": 2.256
+        },
+        {
+          "word": "even",
+          "start": 2.256,
+          "end": 2.259
+        },
+        {
+          "word": "when",
+          "start": 2.259,
+          "end": 2.262
+        },
+        {
+          "word": "Twitter's",
+          "start": 2.262,
+          "end": 2.265
+        },
+        {
+          "word": "suspended,",
+          "start": 2.265,
+          "end": 2.268
+        },
+        {
+          "word": "ya",
+          "start": 2.268,
+          "end": 2.271
+        },
+        {
+          "word": "dig?",
+          "start": 2.271,
+          "end": 2.273
+        }
+      ]
+    },
+    {
+      "start": 2.33,
+      "end": 2.37,
+      "text": "Trust and transparency in tokenomics aren't optional luxuries—they're the foundation of value. No open contracts, no investment!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Trust",
+          "start": 2.33,
+          "end": 2.333
+        },
+        {
+          "word": "and",
+          "start": 2.333,
+          "end": 2.336
+        },
+        {
+          "word": "transparency",
+          "start": 2.336,
+          "end": 2.339
+        },
+        {
+          "word": "in",
+          "start": 2.339,
+          "end": 2.342
+        },
+        {
+          "word": "tokenomics",
+          "start": 2.342,
+          "end": 2.345
+        },
+        {
+          "word": "aren't",
+          "start": 2.345,
+          "end": 2.348
+        },
+        {
+          "word": "optional",
+          "start": 2.348,
+          "end": 2.351
+        },
+        {
+          "word": "luxuries,",
+          "start": 2.351,
+          "end": 2.354
+        },
+        {
+          "word": "they're",
+          "start": 2.354,
+          "end": 2.357
+        },
+        {
+          "word": "the",
+          "start": 2.357,
+          "end": 2.36
+        },
+        {
+          "word": "foundation",
+          "start": 2.36,
+          "end": 2.363
+        },
+        {
+          "word": "of",
+          "start": 2.363,
+          "end": 2.366
+        },
+        {
+          "word": "value.",
+          "start": 2.366,
+          "end": 2.369
+        },
+        {
+          "word": "No",
+          "start": 2.369,
+          "end": 2.372
+        },
+        {
+          "word": "open",
+          "start": 2.372,
+          "end": 2.375
+        },
+        {
+          "word": "contracts,",
+          "start": 2.375,
+          "end": 2.378
+        },
+        {
+          "word": "no",
+          "start": 2.378,
+          "end": 2.381
+        },
+        {
+          "word": "trust.",
+          "start": 2.381,
+          "end": 2.384
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-21_JedAI-Council_The-Philosophical-Void.json",
+    "session_log_source": "2025-07-21_JedAI-Council_The-Philosophical-Void_session-log.json",
+    "total_segments": 16,
+    "matched_segments": 16,
+    "dialogues_in_script": 16
+  }
+}

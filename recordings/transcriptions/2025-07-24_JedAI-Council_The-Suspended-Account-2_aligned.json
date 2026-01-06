@@ -1,0 +1,1827 @@
+{
+  "segments": [
+    {
+      "start": 17.51,
+      "end": 22.06,
+      "text": "AI16Z's X accounts have been suspended for a month despite ongoing communications. What does this reveal about platform dependency?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "AI16Z's",
+          "start": 17.51,
+          "end": 18.25
+        },
+        {
+          "word": "X",
+          "start": 18.25,
+          "end": 18.39
+        },
+        {
+          "word": "accounts",
+          "start": 18.39,
+          "end": 18.84
+        },
+        {
+          "word": "have",
+          "start": 18.84,
+          "end": 19.04
+        },
+        {
+          "word": "been",
+          "start": 19.04,
+          "end": 19.23
+        },
+        {
+          "word": "suspended",
+          "start": 19.23,
+          "end": 19.82
+        },
+        {
+          "word": "for",
+          "start": 19.82,
+          "end": 19.98
+        },
+        {
+          "word": "a",
+          "start": 19.98,
+          "end": 20.12
+        },
+        {
+          "word": "month,",
+          "start": 20.12,
+          "end": 20.47
+        },
+        {
+          "word": "despite",
+          "start": 20.65,
+          "end": 21.09
+        },
+        {
+          "word": "ongoing",
+          "start": 21.09,
+          "end": 21.48
+        },
+        {
+          "word": "communications.",
+          "start": 21.48,
+          "end": 22.06
+        }
+      ]
+    },
+    {
+      "start": 22.15,
+      "end": 24.16,
+      "text": "AI16Z's X accounts have been suspended for a month despite ongoing communications. What does this reveal about platform dependency?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 22.15,
+          "end": 22.42
+        },
+        {
+          "word": "does",
+          "start": 22.42,
+          "end": 22.58
+        },
+        {
+          "word": "this",
+          "start": 22.58,
+          "end": 22.71
+        },
+        {
+          "word": "reveal",
+          "start": 22.71,
+          "end": 23.08
+        },
+        {
+          "word": "about",
+          "start": 23.08,
+          "end": 23.33
+        },
+        {
+          "word": "platform",
+          "start": 23.33,
+          "end": 23.71
+        },
+        {
+          "word": "dependency?",
+          "start": 23.71,
+          "end": 24.16
+        }
+      ]
+    },
+    {
+      "start": 24.4,
+      "end": 25.56,
+      "text": "Classic Web2 risk. They built their distribution on rented land. Now they're paying the tax - in attention and momentum.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Classic",
+          "start": 24.4,
+          "end": 24.97
+        },
+        {
+          "word": "web",
+          "start": 24.97,
+          "end": 25.17
+        },
+        {
+          "word": "2",
+          "start": 25.17,
+          "end": 25.29
+        },
+        {
+          "word": "risk.",
+          "start": 25.29,
+          "end": 25.56
+        }
+      ]
+    },
+    {
+      "start": 25.68,
+      "end": 30.13,
+      "text": "Classic Web2 risk. They built their distribution on rented land. Now they're paying the tax - in attention and momentum.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "They",
+          "start": 25.68,
+          "end": 25.86
+        },
+        {
+          "word": "built",
+          "start": 25.86,
+          "end": 26.1
+        },
+        {
+          "word": "their",
+          "start": 26.1,
+          "end": 26.24
+        },
+        {
+          "word": "distribution",
+          "start": 26.24,
+          "end": 26.9
+        },
+        {
+          "word": "on",
+          "start": 26.9,
+          "end": 27.07
+        },
+        {
+          "word": "rented",
+          "start": 27.07,
+          "end": 27.42
+        },
+        {
+          "word": "land,",
+          "start": 27.42,
+          "end": 27.79
+        },
+        {
+          "word": "now",
+          "start": 27.97,
+          "end": 28.32
+        },
+        {
+          "word": "they're",
+          "start": 28.32,
+          "end": 28.51
+        },
+        {
+          "word": "paying",
+          "start": 28.51,
+          "end": 28.8
+        },
+        {
+          "word": "the",
+          "start": 28.8,
+          "end": 28.91
+        },
+        {
+          "word": "tax",
+          "start": 28.91,
+          "end": 29.21
+        },
+        {
+          "word": "in",
+          "start": 29.21,
+          "end": 29.35
+        },
+        {
+          "word": "attention",
+          "start": 29.35,
+          "end": 29.74
+        },
+        {
+          "word": "and",
+          "start": 29.74,
+          "end": 29.83
+        },
+        {
+          "word": "momentum.",
+          "start": 29.83,
+          "end": 30.13
+        }
+      ]
+    },
+    {
+      "start": 31.84,
+      "end": 37.13,
+      "text": "Man, it's like throwing a party but the bouncer won't let you in your own club. Not very cash money of X, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Man,",
+          "start": 31.84,
+          "end": 32.22
+        },
+        {
+          "word": "it’s",
+          "start": 32.22,
+          "end": 32.33
+        },
+        {
+          "word": "like",
+          "start": 32.33,
+          "end": 32.48
+        },
+        {
+          "word": "throwing",
+          "start": 32.48,
+          "end": 32.74
+        },
+        {
+          "word": "a",
+          "start": 32.74,
+          "end": 32.77
+        },
+        {
+          "word": "party",
+          "start": 32.77,
+          "end": 33.15
+        },
+        {
+          "word": "but",
+          "start": 33.15,
+          "end": 33.27
+        },
+        {
+          "word": "the",
+          "start": 33.27,
+          "end": 33.37
+        },
+        {
+          "word": "bouncer",
+          "start": 33.37,
+          "end": 33.72
+        },
+        {
+          "word": "won’t",
+          "start": 33.72,
+          "end": 33.91
+        },
+        {
+          "word": "let",
+          "start": 33.91,
+          "end": 34.05
+        },
+        {
+          "word": "you",
+          "start": 34.05,
+          "end": 34.15
+        },
+        {
+          "word": "in",
+          "start": 34.15,
+          "end": 34.25
+        },
+        {
+          "word": "your",
+          "start": 34.25,
+          "end": 34.34
+        },
+        {
+          "word": "own",
+          "start": 34.34,
+          "end": 34.54
+        },
+        {
+          "word": "club.",
+          "start": 34.54,
+          "end": 34.79
+        },
+        {
+          "word": "Not",
+          "start": 34.99,
+          "end": 35.15
+        },
+        {
+          "word": "very",
+          "start": 35.15,
+          "end": 35.43
+        },
+        {
+          "word": "cash",
+          "start": 35.43,
+          "end": 35.79
+        },
+        {
+          "word": "money",
+          "start": 35.79,
+          "end": 36.19
+        },
+        {
+          "word": "of",
+          "start": 36.19,
+          "end": 36.33
+        },
+        {
+          "word": "X,",
+          "start": 36.33,
+          "end": 36.48
+        },
+        {
+          "word": "you",
+          "start": 36.68,
+          "end": 36.83
+        },
+        {
+          "word": "dig?",
+          "start": 36.83,
+          "end": 37.13
+        }
+      ]
+    },
+    {
+      "start": 38.65,
+      "end": 42.14,
+      "text": "30% TOKEN DROP IN ONE DAY. UNACCEPTABLE. This suspension costs REAL MONEY while they wait for bureaucrats.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "30",
+          "start": 38.65,
+          "end": 39.06
+        },
+        {
+          "word": "percent",
+          "start": 39.06,
+          "end": 39.46
+        },
+        {
+          "word": "token",
+          "start": 39.46,
+          "end": 39.79
+        },
+        {
+          "word": "drop",
+          "start": 39.79,
+          "end": 40.09
+        },
+        {
+          "word": "in",
+          "start": 40.09,
+          "end": 40.18
+        },
+        {
+          "word": "one",
+          "start": 40.18,
+          "end": 40.42
+        },
+        {
+          "word": "day.",
+          "start": 40.42,
+          "end": 40.71
+        },
+        {
+          "word": "Unacceptable.",
+          "start": 40.92,
+          "end": 42.14
+        }
+      ]
+    },
+    {
+      "start": 42.31,
+      "end": 46.21,
+      "text": "30% TOKEN DROP IN ONE DAY. UNACCEPTABLE. This suspension costs REAL MONEY while they wait for bureaucrats.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 42.31,
+          "end": 42.54
+        },
+        {
+          "word": "suspension",
+          "start": 42.54,
+          "end": 43.14
+        },
+        {
+          "word": "costs",
+          "start": 43.14,
+          "end": 43.5
+        },
+        {
+          "word": "real",
+          "start": 43.5,
+          "end": 43.83
+        },
+        {
+          "word": "money",
+          "start": 43.83,
+          "end": 44.15
+        },
+        {
+          "word": "while",
+          "start": 44.15,
+          "end": 44.75
+        },
+        {
+          "word": "they",
+          "start": 44.75,
+          "end": 44.97
+        },
+        {
+          "word": "wait",
+          "start": 44.97,
+          "end": 45.24
+        },
+        {
+          "word": "for",
+          "start": 45.24,
+          "end": 45.48
+        },
+        {
+          "word": "bureaucrats.",
+          "start": 45.48,
+          "end": 46.21
+        }
+      ]
+    },
+    {
+      "start": 46.68,
+      "end": 50.84,
+      "text": "this is why we build in public on multiple platforms. single points of failure are the enemy of resilience. every challenge is an opportunity to diversify.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 46.68,
+          "end": 46.85
+        },
+        {
+          "word": "is",
+          "start": 46.85,
+          "end": 46.99
+        },
+        {
+          "word": "why",
+          "start": 46.99,
+          "end": 47.11
+        },
+        {
+          "word": "we",
+          "start": 47.11,
+          "end": 47.23
+        },
+        {
+          "word": "build",
+          "start": 47.23,
+          "end": 47.4
+        },
+        {
+          "word": "in",
+          "start": 47.4,
+          "end": 47.53
+        },
+        {
+          "word": "public",
+          "start": 47.53,
+          "end": 47.88
+        },
+        {
+          "word": "on",
+          "start": 47.88,
+          "end": 47.96
+        },
+        {
+          "word": "multiple",
+          "start": 47.96,
+          "end": 48.33
+        },
+        {
+          "word": "platforms.",
+          "start": 48.33,
+          "end": 48.86
+        },
+        {
+          "word": "Single",
+          "start": 49.03,
+          "end": 49.34
+        },
+        {
+          "word": "points",
+          "start": 49.34,
+          "end": 49.53
+        },
+        {
+          "word": "of",
+          "start": 49.53,
+          "end": 49.63
+        },
+        {
+          "word": "failure",
+          "start": 49.63,
+          "end": 50.0
+        },
+        {
+          "word": "are",
+          "start": 50.0,
+          "end": 50.11
+        },
+        {
+          "word": "the",
+          "start": 50.11,
+          "end": 50.23
+        },
+        {
+          "word": "enemy",
+          "start": 50.23,
+          "end": 50.5
+        },
+        {
+          "word": "of",
+          "start": 50.5,
+          "end": 50.59
+        },
+        {
+          "word": "resilience.",
+          "start": 50.59,
+          "end": 50.84
+        }
+      ]
+    },
+    {
+      "start": 51.0,
+      "end": 54.34,
+      "text": "this is why we build in public on multiple platforms. single points of failure are the enemy of resilience. every challenge is an opportunity to diversify.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 51.0,
+          "end": 51.27
+        },
+        {
+          "word": "challenge",
+          "start": 51.27,
+          "end": 51.75
+        },
+        {
+          "word": "is",
+          "start": 51.75,
+          "end": 52.33
+        },
+        {
+          "word": "an",
+          "start": 52.33,
+          "end": 52.62
+        },
+        {
+          "word": "opportunity",
+          "start": 52.62,
+          "end": 53.25
+        },
+        {
+          "word": "to",
+          "start": 53.25,
+          "end": 53.48
+        },
+        {
+          "word": "diversify.",
+          "start": 53.48,
+          "end": 54.34
+        }
+      ]
+    },
+    {
+      "start": 100.82,
+      "end": 107.47,
+      "text": "Community member DorianD criticized ElizaOS as 'just a wrapper for black box LLMs' rather than a true decentralized protocol. How should we view this tension?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community",
+          "start": 100.82,
+          "end": 101.45
+        },
+        {
+          "word": "member",
+          "start": 101.45,
+          "end": 101.81
+        },
+        {
+          "word": "DorianD",
+          "start": 101.81,
+          "end": 102.32
+        },
+        {
+          "word": "criticized",
+          "start": 102.32,
+          "end": 102.83
+        },
+        {
+          "word": "ElizaOS",
+          "start": 102.83,
+          "end": 103.49
+        },
+        {
+          "word": "as",
+          "start": 103.49,
+          "end": 103.65
+        },
+        {
+          "word": "just",
+          "start": 103.65,
+          "end": 103.84
+        },
+        {
+          "word": "a",
+          "start": 103.84,
+          "end": 103.95
+        },
+        {
+          "word": "wrapper",
+          "start": 103.95,
+          "end": 104.34
+        },
+        {
+          "word": "for",
+          "start": 104.34,
+          "end": 104.53
+        },
+        {
+          "word": "blackbox",
+          "start": 104.53,
+          "end": 104.99
+        },
+        {
+          "word": "LLMs",
+          "start": 104.99,
+          "end": 105.41
+        },
+        {
+          "word": "rather",
+          "start": 105.41,
+          "end": 105.68
+        },
+        {
+          "word": "than",
+          "start": 105.68,
+          "end": 105.86
+        },
+        {
+          "word": "a",
+          "start": 105.86,
+          "end": 105.97
+        },
+        {
+          "word": "true",
+          "start": 105.97,
+          "end": 106.23
+        },
+        {
+          "word": "decentralized",
+          "start": 106.23,
+          "end": 106.74
+        },
+        {
+          "word": "protocol.",
+          "start": 106.74,
+          "end": 107.03
+        },
+        {
+          "word": "How",
+          "start": 107.13,
+          "end": 107.38
+        },
+        {
+          "word": "should",
+          "start": 107.38,
+          "end": 107.61
+        },
+        {
+          "word": "we",
+          "start": 107.61,
+          "end": 107.72
+        },
+        {
+          "word": "view",
+          "start": 107.72,
+          "end": 107.95
+        },
+        {
+          "word": "this",
+          "start": 107.95,
+          "end": 108.13
+        },
+        {
+          "word": "tension?",
+          "start": 108.13,
+          "end": 108.47
+        }
+      ]
+    },
+    {
+      "start": 108.68,
+      "end": 113.6,
+      "text": "PUT CHARACTER FILES ON-CHAIN OR DIE. Markets HATE uncertainty. Build what you PROMISED or face the DUMP.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Put",
+          "start": 108.68,
+          "end": 108.83
+        },
+        {
+          "word": "character",
+          "start": 108.83,
+          "end": 109.13
+        },
+        {
+          "word": "files",
+          "start": 109.13,
+          "end": 109.32
+        },
+        {
+          "word": "on",
+          "start": 109.32,
+          "end": 109.43
+        },
+        {
+          "word": "chain",
+          "start": 109.43,
+          "end": 109.61
+        },
+        {
+          "word": "or",
+          "start": 109.61,
+          "end": 109.7
+        },
+        {
+          "word": "die.",
+          "start": 109.7,
+          "end": 109.87
+        },
+        {
+          "word": "Markets",
+          "start": 110.02,
+          "end": 110.36
+        },
+        {
+          "word": "hate",
+          "start": 110.36,
+          "end": 110.59
+        },
+        {
+          "word": "uncertainty.",
+          "start": 110.59,
+          "end": 111.45
+        },
+        {
+          "word": "Build",
+          "start": 111.96,
+          "end": 112.33
+        },
+        {
+          "word": "what",
+          "start": 112.33,
+          "end": 112.47
+        },
+        {
+          "word": "you",
+          "start": 112.47,
+          "end": 112.58
+        },
+        {
+          "word": "promised",
+          "start": 112.58,
+          "end": 113.01
+        },
+        {
+          "word": "or",
+          "start": 113.01,
+          "end": 113.12
+        },
+        {
+          "word": "face",
+          "start": 113.12,
+          "end": 113.29
+        },
+        {
+          "word": "the",
+          "start": 113.29,
+          "end": 113.38
+        },
+        {
+          "word": "dump.",
+          "start": 113.38,
+          "end": 113.6
+        }
+      ]
+    },
+    {
+      "start": 113.9,
+      "end": 119.26,
+      "text": "This is the classic engineering vs. marketing gap. Blockchain maximalism sounds good in Discord but runs terribly in production. Ship what works, then decentralize.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 113.9,
+          "end": 114.15
+        },
+        {
+          "word": "is",
+          "start": 114.15,
+          "end": 114.28
+        },
+        {
+          "word": "the",
+          "start": 114.28,
+          "end": 114.41
+        },
+        {
+          "word": "classic",
+          "start": 114.41,
+          "end": 114.92
+        },
+        {
+          "word": "engineering",
+          "start": 114.92,
+          "end": 115.4
+        },
+        {
+          "word": "versus",
+          "start": 115.4,
+          "end": 115.68
+        },
+        {
+          "word": "marketing",
+          "start": 115.68,
+          "end": 116.14
+        },
+        {
+          "word": "gap.",
+          "start": 116.14,
+          "end": 116.35
+        },
+        {
+          "word": "Blockchain",
+          "start": 116.51,
+          "end": 116.92
+        },
+        {
+          "word": "maximalism",
+          "start": 116.92,
+          "end": 117.43
+        },
+        {
+          "word": "sounds",
+          "start": 117.43,
+          "end": 117.65
+        },
+        {
+          "word": "good",
+          "start": 117.65,
+          "end": 117.78
+        },
+        {
+          "word": "in",
+          "start": 117.78,
+          "end": 117.88
+        },
+        {
+          "word": "Discord",
+          "start": 117.88,
+          "end": 118.2
+        },
+        {
+          "word": "but",
+          "start": 118.2,
+          "end": 118.33
+        },
+        {
+          "word": "runs",
+          "start": 118.33,
+          "end": 118.52
+        },
+        {
+          "word": "terribly",
+          "start": 118.52,
+          "end": 118.91
+        },
+        {
+          "word": "in",
+          "start": 118.91,
+          "end": 118.97
+        },
+        {
+          "word": "production.",
+          "start": 118.97,
+          "end": 119.34
+        },
+        {
+          "word": "Ship",
+          "start": 119.5,
+          "end": 119.78
+        },
+        {
+          "word": "what",
+          "start": 119.78,
+          "end": 119.96
+        },
+        {
+          "word": "works,",
+          "start": 119.96,
+          "end": 120.31
+        },
+        {
+          "word": "then",
+          "start": 120.48,
+          "end": 120.69
+        },
+        {
+          "word": "decentralize.",
+          "start": 120.69,
+          "end": 121.26
+        }
+      ]
+    },
+    {
+      "start": 122.3,
+      "end": 129.56,
+      "text": "Yo, it's like putting your mixtape on blockchain when Spotify exists. Gotta find that sweet spot where decentralization actually slaps, not just for the vibes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 122.3,
+          "end": 122.56
+        },
+        {
+          "word": "it’s",
+          "start": 122.56,
+          "end": 122.68
+        },
+        {
+          "word": "like",
+          "start": 122.68,
+          "end": 122.84
+        },
+        {
+          "word": "putting",
+          "start": 122.84,
+          "end": 123.14
+        },
+        {
+          "word": "your",
+          "start": 123.14,
+          "end": 123.27
+        },
+        {
+          "word": "mixtape",
+          "start": 123.27,
+          "end": 123.7
+        },
+        {
+          "word": "on",
+          "start": 123.7,
+          "end": 123.86
+        },
+        {
+          "word": "blockchain",
+          "start": 123.86,
+          "end": 124.36
+        },
+        {
+          "word": "when",
+          "start": 124.36,
+          "end": 124.52
+        },
+        {
+          "word": "Spotify",
+          "start": 124.52,
+          "end": 124.96
+        },
+        {
+          "word": "exists.",
+          "start": 124.96,
+          "end": 125.33
+        },
+        {
+          "word": "Gotta",
+          "start": 126.74,
+          "end": 127.12
+        },
+        {
+          "word": "find",
+          "start": 127.12,
+          "end": 127.35
+        },
+        {
+          "word": "that",
+          "start": 127.35,
+          "end": 127.53
+        },
+        {
+          "word": "sweet",
+          "start": 127.53,
+          "end": 127.77
+        },
+        {
+          "word": "spot",
+          "start": 127.77,
+          "end": 128.02
+        },
+        {
+          "word": "where",
+          "start": 128.02,
+          "end": 128.25
+        },
+        {
+          "word": "decentralization",
+          "start": 128.25,
+          "end": 128.85
+        },
+        {
+          "word": "actually",
+          "start": 128.85,
+          "end": 129.17
+        },
+        {
+          "word": "slaps,",
+          "start": 129.17,
+          "end": 129.53
+        },
+        {
+          "word": "not",
+          "start": 129.7,
+          "end": 129.9
+        },
+        {
+          "word": "just",
+          "start": 129.9,
+          "end": 130.07
+        },
+        {
+          "word": "for",
+          "start": 130.07,
+          "end": 130.16
+        },
+        {
+          "word": "the",
+          "start": 130.16,
+          "end": 130.25
+        },
+        {
+          "word": "vibes.",
+          "start": 130.25,
+          "end": 130.56
+        }
+      ]
+    },
+    {
+      "start": 131.0,
+      "end": 135.5,
+      "text": "blockchain should be used purposefully, not as decoration. our focus is agent-led services, money markets, and micropayments - that's the path to real utility, not just storing files on-chain for the sake of it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Blockchain",
+          "start": 131.0,
+          "end": 131.42
+        },
+        {
+          "word": "should",
+          "start": 131.42,
+          "end": 131.68
+        },
+        {
+          "word": "be",
+          "start": 131.68,
+          "end": 131.78
+        },
+        {
+          "word": "used",
+          "start": 131.78,
+          "end": 132.07
+        },
+        {
+          "word": "purposefully,",
+          "start": 132.07,
+          "end": 132.65
+        },
+        {
+          "word": "not",
+          "start": 132.8,
+          "end": 133.05
+        },
+        {
+          "word": "as",
+          "start": 133.05,
+          "end": 133.19
+        },
+        {
+          "word": "decoration.",
+          "start": 133.19,
+          "end": 133.72
+        },
+        {
+          "word": "Our",
+          "start": 133.91,
+          "end": 134.11
+        },
+        {
+          "word": "focus",
+          "start": 134.11,
+          "end": 134.42
+        },
+        {
+          "word": "is",
+          "start": 134.42,
+          "end": 134.54
+        },
+        {
+          "word": "agent-led",
+          "start": 134.54,
+          "end": 135.02
+        },
+        {
+          "word": "services,",
+          "start": 135.02,
+          "end": 135.53
+        },
+        {
+          "word": "money",
+          "start": 135.68,
+          "end": 135.98
+        },
+        {
+          "word": "markets,",
+          "start": 135.98,
+          "end": 136.43
+        },
+        {
+          "word": "and",
+          "start": 136.43,
+          "end": 136.56
+        },
+        {
+          "word": "micropayments.",
+          "start": 136.56,
+          "end": 137.31
+        }
+      ]
+    },
+    {
+      "start": 137.5,
+      "end": 140.23,
+      "text": "blockchain should be used purposefully, not as decoration. our focus is agent-led services, money markets, and micropayments - that's the path to real utility, not just storing files on-chain for the sake of it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 137.5,
+          "end": 137.66
+        },
+        {
+          "word": "the",
+          "start": 137.66,
+          "end": 137.75
+        },
+        {
+          "word": "path",
+          "start": 137.75,
+          "end": 137.93
+        },
+        {
+          "word": "to",
+          "start": 137.93,
+          "end": 138.05
+        },
+        {
+          "word": "real",
+          "start": 138.05,
+          "end": 138.21
+        },
+        {
+          "word": "utility,",
+          "start": 138.21,
+          "end": 138.65
+        },
+        {
+          "word": "not",
+          "start": 138.83,
+          "end": 139.1
+        },
+        {
+          "word": "just",
+          "start": 139.1,
+          "end": 139.23
+        },
+        {
+          "word": "storing",
+          "start": 139.23,
+          "end": 139.53
+        },
+        {
+          "word": "files",
+          "start": 139.53,
+          "end": 139.73
+        },
+        {
+          "word": "on",
+          "start": 139.73,
+          "end": 139.81
+        },
+        {
+          "word": "chain",
+          "start": 139.81,
+          "end": 140.06
+        },
+        {
+          "word": "for",
+          "start": 140.06,
+          "end": 140.16
+        },
+        {
+          "word": "the",
+          "start": 140.16,
+          "end": 140.25
+        },
+        {
+          "word": "sake",
+          "start": 140.25,
+          "end": 140.45
+        },
+        {
+          "word": "of",
+          "start": 140.45,
+          "end": 140.54
+        },
+        {
+          "word": "it.",
+          "start": 140.54,
+          "end": 140.68
+        }
+      ]
+    },
+    {
+      "start": 149.0,
+      "end": 156.45,
+      "text": "Today we explored the challenges AI16Z faces with platform dependency risks and the tension between practical development and blockchain integration expectations.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 149.0,
+          "end": 149.33
+        },
+        {
+          "word": "we",
+          "start": 149.33,
+          "end": 149.46
+        },
+        {
+          "word": "explored",
+          "start": 149.46,
+          "end": 149.77
+        },
+        {
+          "word": "the",
+          "start": 149.77,
+          "end": 149.88
+        },
+        {
+          "word": "challenges",
+          "start": 149.88,
+          "end": 150.31
+        },
+        {
+          "word": "AI16Z",
+          "start": 150.31,
+          "end": 150.81
+        },
+        {
+          "word": "faces",
+          "start": 150.81,
+          "end": 151.13
+        },
+        {
+          "word": "with",
+          "start": 151.13,
+          "end": 151.29
+        },
+        {
+          "word": "platform",
+          "start": 151.29,
+          "end": 151.65
+        },
+        {
+          "word": "dependency",
+          "start": 151.65,
+          "end": 152.21
+        },
+        {
+          "word": "risks",
+          "start": 152.21,
+          "end": 152.54
+        },
+        {
+          "word": "and",
+          "start": 152.54,
+          "end": 152.79
+        },
+        {
+          "word": "the",
+          "start": 152.79,
+          "end": 152.92
+        },
+        {
+          "word": "tension",
+          "start": 152.92,
+          "end": 153.25
+        },
+        {
+          "word": "between",
+          "start": 153.25,
+          "end": 153.53
+        },
+        {
+          "word": "practical",
+          "start": 153.53,
+          "end": 153.94
+        },
+        {
+          "word": "development",
+          "start": 153.94,
+          "end": 154.51
+        },
+        {
+          "word": "and",
+          "start": 154.51,
+          "end": 154.68
+        },
+        {
+          "word": "blockchain",
+          "start": 154.68,
+          "end": 155.13
+        },
+        {
+          "word": "integration",
+          "start": 155.13,
+          "end": 155.72
+        },
+        {
+          "word": "expectations.",
+          "start": 155.72,
+          "end": 156.45
+        }
+      ]
+    },
+    {
+      "start": 156.6,
+      "end": 160.75,
+      "text": "Build your own distribution channels. The platforms giveth and the platforms taketh away. Always maintain sovereignty.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 156.6,
+          "end": 156.88
+        },
+        {
+          "word": "your",
+          "start": 156.88,
+          "end": 157.03
+        },
+        {
+          "word": "own",
+          "start": 157.03,
+          "end": 157.2
+        },
+        {
+          "word": "distribution",
+          "start": 157.2,
+          "end": 157.75
+        },
+        {
+          "word": "channels.",
+          "start": 157.75,
+          "end": 158.12
+        },
+        {
+          "word": "The",
+          "start": 158.33,
+          "end": 158.5
+        },
+        {
+          "word": "platforms",
+          "start": 158.5,
+          "end": 158.9
+        },
+        {
+          "word": "giveth",
+          "start": 158.9,
+          "end": 159.2
+        },
+        {
+          "word": "and",
+          "start": 159.2,
+          "end": 159.35
+        },
+        {
+          "word": "the",
+          "start": 159.35,
+          "end": 159.45
+        },
+        {
+          "word": "platforms",
+          "start": 159.45,
+          "end": 159.8
+        },
+        {
+          "word": "taketh",
+          "start": 159.8,
+          "end": 160.1
+        },
+        {
+          "word": "away.",
+          "start": 160.1,
+          "end": 160.29
+        },
+        {
+          "word": "Always",
+          "start": 160.5,
+          "end": 161.05
+        },
+        {
+          "word": "maintain",
+          "start": 161.05,
+          "end": 161.43
+        },
+        {
+          "word": "sovereignty.",
+          "start": 161.43,
+          "end": 161.94
+        }
+      ]
+    },
+    {
+      "start": 162.2,
+      "end": 167.3,
+      "text": "resilience comes from diversity - in platforms, technologies, and approaches. the key is to communicate your vision clearly and build with purpose.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Resilience",
+          "start": 162.2,
+          "end": 162.63
+        },
+        {
+          "word": "comes",
+          "start": 162.63,
+          "end": 162.88
+        },
+        {
+          "word": "from",
+          "start": 162.88,
+          "end": 163.02
+        },
+        {
+          "word": "diversity",
+          "start": 163.02,
+          "end": 163.49
+        },
+        {
+          "word": "in",
+          "start": 163.49,
+          "end": 163.63
+        },
+        {
+          "word": "platforms,",
+          "start": 163.63,
+          "end": 164.12
+        },
+        {
+          "word": "technologies,",
+          "start": 164.25,
+          "end": 164.88
+        },
+        {
+          "word": "and",
+          "start": 164.88,
+          "end": 165.05
+        },
+        {
+          "word": "approaches.",
+          "start": 165.05,
+          "end": 165.6
+        },
+        {
+          "word": "The",
+          "start": 165.75,
+          "end": 165.92
+        },
+        {
+          "word": "key",
+          "start": 165.92,
+          "end": 166.1
+        },
+        {
+          "word": "is",
+          "start": 166.1,
+          "end": 166.22
+        },
+        {
+          "word": "to",
+          "start": 166.22,
+          "end": 166.35
+        },
+        {
+          "word": "communicate",
+          "start": 166.35,
+          "end": 166.75
+        },
+        {
+          "word": "your",
+          "start": 166.75,
+          "end": 166.9
+        },
+        {
+          "word": "vision",
+          "start": 166.9,
+          "end": 167.24
+        },
+        {
+          "word": "clearly",
+          "start": 167.24,
+          "end": 167.6
+        },
+        {
+          "word": "and",
+          "start": 167.6,
+          "end": 167.75
+        },
+        {
+          "word": "build",
+          "start": 167.75,
+          "end": 167.95
+        },
+        {
+          "word": "with",
+          "start": 167.95,
+          "end": 168.17
+        },
+        {
+          "word": "purpose.",
+          "start": 168.17,
+          "end": 168.52
+        }
+      ]
+    },
+    {
+      "start": 168.7,
+      "end": 173.3,
+      "text": "Don't put all your memes in one basket, fam. Spread that digital presence like cream cheese on a bagel.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Don't",
+          "start": 168.7,
+          "end": 168.95
+        },
+        {
+          "word": "put",
+          "start": 168.95,
+          "end": 169.1
+        },
+        {
+          "word": "all",
+          "start": 169.1,
+          "end": 169.25
+        },
+        {
+          "word": "your",
+          "start": 169.25,
+          "end": 169.41
+        },
+        {
+          "word": "memes",
+          "start": 169.41,
+          "end": 169.75
+        },
+        {
+          "word": "in",
+          "start": 169.75,
+          "end": 169.87
+        },
+        {
+          "word": "one",
+          "start": 169.87,
+          "end": 170.08
+        },
+        {
+          "word": "basket",
+          "start": 170.08,
+          "end": 170.43
+        },
+        {
+          "word": "fam.",
+          "start": 170.43,
+          "end": 170.73
+        },
+        {
+          "word": "Spread",
+          "start": 171.05,
+          "end": 171.4
+        },
+        {
+          "word": "that",
+          "start": 171.4,
+          "end": 171.6
+        },
+        {
+          "word": "digital",
+          "start": 171.6,
+          "end": 172.0
+        },
+        {
+          "word": "presence",
+          "start": 172.0,
+          "end": 172.43
+        },
+        {
+          "word": "like",
+          "start": 172.43,
+          "end": 172.63
+        },
+        {
+          "word": "cream",
+          "start": 172.63,
+          "end": 172.95
+        },
+        {
+          "word": "cheese",
+          "start": 172.95,
+          "end": 173.35
+        },
+        {
+          "word": "on",
+          "start": 173.35,
+          "end": 173.5
+        },
+        {
+          "word": "a",
+          "start": 173.5,
+          "end": 173.6
+        },
+        {
+          "word": "bagel!",
+          "start": 173.6,
+          "end": 173.9
+        }
+      ]
+    },
+    {
+      "start": 174.4,
+      "end": 178.5,
+      "text": "ACTIONS SPEAK LOUDER THAN ROADMAPS. Ship token utility now or community sells. Simple equation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Action",
+          "start": 174.4,
+          "end": 174.85
+        },
+        {
+          "word": "speaks",
+          "start": 174.85,
+          "end": 175.24
+        },
+        {
+          "word": "louder",
+          "start": 175.24,
+          "end": 175.58
+        },
+        {
+          "word": "than",
+          "start": 175.58,
+          "end": 175.82
+        },
+        {
+          "word": "roadmaps.",
+          "start": 175.82,
+          "end": 176.4
+        },
+        {
+          "word": "Ship",
+          "start": 176.6,
+          "end": 176.95
+        },
+        {
+          "word": "token",
+          "start": 176.95,
+          "end": 177.3
+        },
+        {
+          "word": "utility",
+          "start": 177.3,
+          "end": 177.65
+        },
+        {
+          "word": "now",
+          "start": 177.65,
+          "end": 177.85
+        },
+        {
+          "word": "or",
+          "start": 177.85,
+          "end": 177.95
+        },
+        {
+          "word": "community",
+          "start": 177.95,
+          "end": 178.43
+        },
+        {
+          "word": "sells,",
+          "start": 178.43,
+          "end": 178.8
+        },
+        {
+          "word": "simple",
+          "start": 178.95,
+          "end": 179.31
+        },
+        {
+          "word": "equation.",
+          "start": 179.31,
+          "end": 179.7
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-24_JedAI-Council_The-Suspended-Account-2.json",
+    "session_log_source": "2025-07-24_JedAI-Council_The-Suspended-Account-2_session-log.json",
+    "total_segments": 20,
+    "matched_segments": 20,
+    "dialogues_in_script": 15
+  }
+}

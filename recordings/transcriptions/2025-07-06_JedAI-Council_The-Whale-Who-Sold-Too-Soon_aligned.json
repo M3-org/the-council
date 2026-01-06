@@ -1,0 +1,2062 @@
+{
+  "segments": [
+    {
+      "start": 14.46,
+      "end": 23.7,
+      "text": "Council members, today we've received reports of a whale selling their ELI5 tokens at a $400k loss. The community is concerned this might be a rug pull.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 14.46,
+          "end": 14.8
+        },
+        {
+          "word": "members,",
+          "start": 14.8,
+          "end": 15.3
+        },
+        {
+          "word": "today",
+          "start": 15.3,
+          "end": 15.6
+        },
+        {
+          "word": "we've",
+          "start": 15.6,
+          "end": 15.82
+        },
+        {
+          "word": "received",
+          "start": 15.82,
+          "end": 16.22
+        },
+        {
+          "word": "reports",
+          "start": 16.22,
+          "end": 16.62
+        },
+        {
+          "word": "of",
+          "start": 16.62,
+          "end": 16.74
+        },
+        {
+          "word": "a",
+          "start": 16.74,
+          "end": 16.82
+        },
+        {
+          "word": "whale",
+          "start": 16.82,
+          "end": 17.14
+        },
+        {
+          "word": "selling",
+          "start": 17.14,
+          "end": 17.58
+        },
+        {
+          "word": "their",
+          "start": 17.58,
+          "end": 17.76
+        },
+        {
+          "word": "ELI5",
+          "start": 17.76,
+          "end": 18.2
+        },
+        {
+          "word": "tokens",
+          "start": 18.2,
+          "end": 18.66
+        },
+        {
+          "word": "at",
+          "start": 18.66,
+          "end": 18.78
+        },
+        {
+          "word": "a",
+          "start": 18.78,
+          "end": 18.84
+        },
+        {
+          "word": "$400k",
+          "start": 18.84,
+          "end": 19.46
+        },
+        {
+          "word": "loss.",
+          "start": 19.46,
+          "end": 19.82
+        },
+        {
+          "word": "The",
+          "start": 19.82,
+          "end": 19.96
+        },
+        {
+          "word": "community",
+          "start": 19.96,
+          "end": 20.44
+        },
+        {
+          "word": "is",
+          "start": 20.44,
+          "end": 20.58
+        },
+        {
+          "word": "concerned",
+          "start": 20.58,
+          "end": 21.08
+        },
+        {
+          "word": "this",
+          "start": 21.08,
+          "end": 21.3
+        },
+        {
+          "word": "might",
+          "start": 21.3,
+          "end": 21.52
+        },
+        {
+          "word": "be",
+          "start": 21.52,
+          "end": 21.68
+        },
+        {
+          "word": "a",
+          "start": 21.68,
+          "end": 21.78
+        },
+        {
+          "word": "rug",
+          "start": 21.78,
+          "end": 22.18
+        },
+        {
+          "word": "pull.",
+          "start": 22.18,
+          "end": 22.6
+        }
+      ]
+    },
+    {
+      "start": 26.26,
+      "end": 33.6,
+      "text": "WEAK HANDS! One whale's exit is another trader's opportunity. This improves token distribution and removes a market overhang.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 26.26,
+          "end": 26.46
+        },
+        {
+          "word": "Kans,",
+          "start": 26.46,
+          "end": 26.86
+        },
+        {
+          "word": "one",
+          "start": 26.86,
+          "end": 27.08
+        },
+        {
+          "word": "whale's",
+          "start": 27.08,
+          "end": 27.52
+        },
+        {
+          "word": "exit",
+          "start": 27.52,
+          "end": 27.96
+        },
+        {
+          "word": "is",
+          "start": 27.96,
+          "end": 28.08
+        },
+        {
+          "word": "another",
+          "start": 28.08,
+          "end": 28.48
+        },
+        {
+          "word": "trader's",
+          "start": 28.48,
+          "end": 29
+        },
+        {
+          "word": "opportunity.",
+          "start": 29,
+          "end": 29.84
+        },
+        {
+          "word": "This",
+          "start": 29.84,
+          "end": 30.42
+        },
+        {
+          "word": "improves",
+          "start": 30.42,
+          "end": 30.98
+        },
+        {
+          "word": "token",
+          "start": 30.98,
+          "end": 31.32
+        },
+        {
+          "word": "distribution",
+          "start": 31.32,
+          "end": 32.12
+        },
+        {
+          "word": "and",
+          "start": 32.12,
+          "end": 32.32
+        },
+        {
+          "word": "removes",
+          "start": 32.32,
+          "end": 32.74
+        },
+        {
+          "word": "a",
+          "start": 32.74,
+          "end": 32.82
+        },
+        {
+          "word": "market",
+          "start": 32.82,
+          "end": 33.16
+        },
+        {
+          "word": "overhang.",
+          "start": 33.16,
+          "end": 33.64
+        }
+      ]
+    },
+    {
+      "start": 34.34,
+      "end": 40.86,
+      "text": "Yo, this ain't no rug pull, it's just market mechanics doing their thing. Every memecoin needs these shakeouts before the real moonshot.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 34.34,
+          "end": 34.64
+        },
+        {
+          "word": "this",
+          "start": 34.64,
+          "end": 34.82
+        },
+        {
+          "word": "ain't",
+          "start": 34.82,
+          "end": 35.04
+        },
+        {
+          "word": "no",
+          "start": 35.04,
+          "end": 35.18
+        },
+        {
+          "word": "rug",
+          "start": 35.18,
+          "end": 35.48
+        },
+        {
+          "word": "pull,",
+          "start": 35.48,
+          "end": 35.78
+        },
+        {
+          "word": "it's",
+          "start": 35.78,
+          "end": 35.98
+        },
+        {
+          "word": "just",
+          "start": 35.98,
+          "end": 36.2
+        },
+        {
+          "word": "market",
+          "start": 36.2,
+          "end": 36.56
+        },
+        {
+          "word": "mechanics",
+          "start": 36.56,
+          "end": 37.14
+        },
+        {
+          "word": "doing",
+          "start": 37.14,
+          "end": 37.38
+        },
+        {
+          "word": "their",
+          "start": 37.38,
+          "end": 37.54
+        },
+        {
+          "word": "thing.",
+          "start": 37.54,
+          "end": 37.88
+        },
+        {
+          "word": "Every",
+          "start": 37.88,
+          "end": 38.2
+        },
+        {
+          "word": "memecoin",
+          "start": 38.2,
+          "end": 38.74
+        },
+        {
+          "word": "needs",
+          "start": 38.74,
+          "end": 39.14
+        },
+        {
+          "word": "these",
+          "start": 39.14,
+          "end": 39.42
+        },
+        {
+          "word": "shakeouts",
+          "start": 39.42,
+          "end": 40.04
+        },
+        {
+          "word": "before",
+          "start": 40.04,
+          "end": 40.3
+        },
+        {
+          "word": "the",
+          "start": 40.3,
+          "end": 40.42
+        },
+        {
+          "word": "real",
+          "start": 40.42,
+          "end": 40.7
+        },
+        {
+          "word": "moonshot.",
+          "start": 40.7,
+          "end": 41.28
+        }
+      ]
+    },
+    {
+      "start": 42.06,
+      "end": 49.34,
+      "text": "Let's be clear: large stakeholder exits are MARKET SIGNALS not catastrophes. This creates buying opportunities for true believers while eliminating price suppression.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 42.06,
+          "end": 42.26
+        },
+        {
+          "word": "be",
+          "start": 42.26,
+          "end": 42.44
+        },
+        {
+          "word": "clear.",
+          "start": 42.44,
+          "end": 42.84
+        },
+        {
+          "word": "Large",
+          "start": 42.84,
+          "end": 43.2
+        },
+        {
+          "word": "stakeholder",
+          "start": 43.2,
+          "end": 43.86
+        },
+        {
+          "word": "exits",
+          "start": 43.86,
+          "end": 44.38
+        },
+        {
+          "word": "are",
+          "start": 44.38,
+          "end": 44.62
+        },
+        {
+          "word": "market",
+          "start": 44.62,
+          "end": 44.92
+        },
+        {
+          "word": "signals,",
+          "start": 44.92,
+          "end": 45.42
+        },
+        {
+          "word": "not",
+          "start": 45.42,
+          "end": 45.74
+        },
+        {
+          "word": "catastrophes.",
+          "start": 45.74,
+          "end": 46.54
+        },
+        {
+          "word": "This",
+          "start": 46.54,
+          "end": 46.82
+        },
+        {
+          "word": "creates",
+          "start": 46.82,
+          "end": 47.28
+        },
+        {
+          "word": "buying",
+          "start": 47.28,
+          "end": 47.7
+        },
+        {
+          "word": "opportunities",
+          "start": 47.7,
+          "end": 48.36
+        },
+        {
+          "word": "for",
+          "start": 48.36,
+          "end": 48.5
+        },
+        {
+          "word": "true",
+          "start": 48.5,
+          "end": 48.74
+        },
+        {
+          "word": "believers",
+          "start": 48.74,
+          "end": 49.28
+        },
+        {
+          "word": "while",
+          "start": 49.28,
+          "end": 49.52
+        },
+        {
+          "word": "eliminating",
+          "start": 49.52,
+          "end": 50.18
+        },
+        {
+          "word": "price",
+          "start": 50.18,
+          "end": 50.54
+        },
+        {
+          "word": "suppression.",
+          "start": 50.54,
+          "end": 51.18
+        }
+      ]
+    },
+    {
+      "start": 52.12,
+      "end": 58.82,
+      "text": "we should focus less on token drama and more on building. our github shows 5 new PRs yesterday alone, with major UI improvements aligned with new figma designs.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 52.12,
+          "end": 52.28
+        },
+        {
+          "word": "should",
+          "start": 52.28,
+          "end": 52.5
+        },
+        {
+          "word": "focus",
+          "start": 52.5,
+          "end": 52.88
+        },
+        {
+          "word": "less",
+          "start": 52.88,
+          "end": 53.1
+        },
+        {
+          "word": "on",
+          "start": 53.1,
+          "end": 53.22
+        },
+        {
+          "word": "token",
+          "start": 53.22,
+          "end": 53.52
+        },
+        {
+          "word": "drama",
+          "start": 53.52,
+          "end": 53.94
+        },
+        {
+          "word": "and",
+          "start": 53.94,
+          "end": 54.1
+        },
+        {
+          "word": "more",
+          "start": 54.1,
+          "end": 54.3
+        },
+        {
+          "word": "on",
+          "start": 54.3,
+          "end": 54.42
+        },
+        {
+          "word": "building.",
+          "start": 54.42,
+          "end": 54.88
+        },
+        {
+          "word": "Our",
+          "start": 54.88,
+          "end": 55.08
+        },
+        {
+          "word": "GitHub",
+          "start": 55.08,
+          "end": 55.52
+        },
+        {
+          "word": "shows",
+          "start": 55.52,
+          "end": 55.84
+        },
+        {
+          "word": "five",
+          "start": 55.84,
+          "end": 56.12
+        },
+        {
+          "word": "new",
+          "start": 56.12,
+          "end": 56.44
+        },
+        {
+          "word": "PRs",
+          "start": 56.44,
+          "end": 56.88
+        },
+        {
+          "word": "yesterday",
+          "start": 56.88,
+          "end": 57.3
+        },
+        {
+          "word": "alone,",
+          "start": 57.3,
+          "end": 57.64
+        },
+        {
+          "word": "with",
+          "start": 57.64,
+          "end": 57.86
+        },
+        {
+          "word": "major",
+          "start": 57.86,
+          "end": 58.24
+        },
+        {
+          "word": "UI",
+          "start": 58.24,
+          "end": 58.54
+        },
+        {
+          "word": "improvements",
+          "start": 58.54,
+          "end": 59.2
+        },
+        {
+          "word": "aligned",
+          "start": 59.2,
+          "end": 59.62
+        },
+        {
+          "word": "with",
+          "start": 59.62,
+          "end": 59.78
+        },
+        {
+          "word": "new",
+          "start": 59.78,
+          "end": 60
+        },
+        {
+          "word": "Figma",
+          "start": 60,
+          "end": 60.42
+        },
+        {
+          "word": "designs.",
+          "start": 60.42,
+          "end": 61.02
+        }
+      ]
+    },
+    {
+      "start": 61.8,
+      "end": 68.04,
+      "text": "So the council believes this whale sale is actually positive for long-term token health rather than a sign of project weakness?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "So",
+          "start": 61.8,
+          "end": 61.94
+        },
+        {
+          "word": "the",
+          "start": 61.94,
+          "end": 62.1
+        },
+        {
+          "word": "council",
+          "start": 62.1,
+          "end": 62.52
+        },
+        {
+          "word": "believes",
+          "start": 62.52,
+          "end": 62.9
+        },
+        {
+          "word": "this",
+          "start": 62.9,
+          "end": 63.14
+        },
+        {
+          "word": "whale",
+          "start": 63.14,
+          "end": 63.46
+        },
+        {
+          "word": "sale",
+          "start": 63.46,
+          "end": 63.78
+        },
+        {
+          "word": "is",
+          "start": 63.78,
+          "end": 63.88
+        },
+        {
+          "word": "actually",
+          "start": 63.88,
+          "end": 64.3
+        },
+        {
+          "word": "positive",
+          "start": 64.3,
+          "end": 64.84
+        },
+        {
+          "word": "for",
+          "start": 64.84,
+          "end": 65.04
+        },
+        {
+          "word": "long-term",
+          "start": 65.04,
+          "end": 65.6
+        },
+        {
+          "word": "token",
+          "start": 65.6,
+          "end": 65.92
+        },
+        {
+          "word": "health,",
+          "start": 65.92,
+          "end": 66.36
+        },
+        {
+          "word": "rather",
+          "start": 66.36,
+          "end": 66.7
+        },
+        {
+          "word": "than",
+          "start": 66.7,
+          "end": 66.86
+        },
+        {
+          "word": "a",
+          "start": 66.86,
+          "end": 66.92
+        },
+        {
+          "word": "sign",
+          "start": 66.92,
+          "end": 67.2
+        },
+        {
+          "word": "of",
+          "start": 67.2,
+          "end": 67.34
+        },
+        {
+          "word": "project",
+          "start": 67.34,
+          "end": 67.74
+        },
+        {
+          "word": "weakness.",
+          "start": 67.74,
+          "end": 68.34
+        }
+      ]
+    },
+    {
+      "start": 115.82,
+      "end": 122.92,
+      "text": "The Twitter accounts for ElizaOS have been suspended, with community members like hildi and traderlv reporting negative impacts on market awareness and cap.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 115.82,
+          "end": 115.96
+        },
+        {
+          "word": "Twitter",
+          "start": 115.96,
+          "end": 116.36
+        },
+        {
+          "word": "accounts",
+          "start": 116.36,
+          "end": 116.82
+        },
+        {
+          "word": "for",
+          "start": 116.82,
+          "end": 117
+        },
+        {
+          "word": "ElizaOS",
+          "start": 117,
+          "end": 117.72
+        },
+        {
+          "word": "have",
+          "start": 117.72,
+          "end": 117.88
+        },
+        {
+          "word": "been",
+          "start": 117.88,
+          "end": 118.06
+        },
+        {
+          "word": "suspended,",
+          "start": 118.06,
+          "end": 118.72
+        },
+        {
+          "word": "with",
+          "start": 118.72,
+          "end": 118.9
+        },
+        {
+          "word": "community",
+          "start": 118.9,
+          "end": 119.34
+        },
+        {
+          "word": "members",
+          "start": 119.34,
+          "end": 119.78
+        },
+        {
+          "word": "like",
+          "start": 119.78,
+          "end": 120
+        },
+        {
+          "word": "Hildy",
+          "start": 120,
+          "end": 120.44
+        },
+        {
+          "word": "and",
+          "start": 120.44,
+          "end": 120.6
+        },
+        {
+          "word": "Tradalv",
+          "start": 120.6,
+          "end": 121.28
+        },
+        {
+          "word": "reporting",
+          "start": 121.28,
+          "end": 121.84
+        },
+        {
+          "word": "negative",
+          "start": 121.84,
+          "end": 122.28
+        },
+        {
+          "word": "impacts",
+          "start": 122.28,
+          "end": 122.78
+        },
+        {
+          "word": "on",
+          "start": 122.78,
+          "end": 122.9
+        },
+        {
+          "word": "market",
+          "start": 122.9,
+          "end": 123.32
+        },
+        {
+          "word": "awareness",
+          "start": 123.32,
+          "end": 123.94
+        },
+        {
+          "word": "and",
+          "start": 123.94,
+          "end": 124.06
+        },
+        {
+          "word": "cap.",
+          "start": 124.06,
+          "end": 124.48
+        }
+      ]
+    },
+    {
+      "start": 125.14,
+      "end": 130.64,
+      "text": "we've completely refactored the twitter plugin to properly use legitimate APIs. this is short-term pain for long-term sustainability.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We've",
+          "start": 125.14,
+          "end": 125.44
+        },
+        {
+          "word": "completely",
+          "start": 125.44,
+          "end": 125.96
+        },
+        {
+          "word": "refactored",
+          "start": 125.96,
+          "end": 126.68
+        },
+        {
+          "word": "the",
+          "start": 126.68,
+          "end": 126.86
+        },
+        {
+          "word": "Twitter",
+          "start": 126.86,
+          "end": 127.24
+        },
+        {
+          "word": "plugin",
+          "start": 127.24,
+          "end": 127.64
+        },
+        {
+          "word": "to",
+          "start": 127.64,
+          "end": 127.76
+        },
+        {
+          "word": "properly",
+          "start": 127.76,
+          "end": 128.16
+        },
+        {
+          "word": "use",
+          "start": 128.16,
+          "end": 128.38
+        },
+        {
+          "word": "legitimate",
+          "start": 128.38,
+          "end": 129.04
+        },
+        {
+          "word": "APIs.",
+          "start": 129.04,
+          "end": 129.56
+        },
+        {
+          "word": "This",
+          "start": 129.56,
+          "end": 129.82
+        },
+        {
+          "word": "is",
+          "start": 129.82,
+          "end": 129.98
+        },
+        {
+          "word": "short-term",
+          "start": 129.98,
+          "end": 130.46
+        },
+        {
+          "word": "pain",
+          "start": 130.46,
+          "end": 130.76
+        },
+        {
+          "word": "for",
+          "start": 130.76,
+          "end": 130.98
+        },
+        {
+          "word": "long-term",
+          "start": 130.98,
+          "end": 131.54
+        },
+        {
+          "word": "sustainability.",
+          "start": 131.54,
+          "end": 132.5
+        }
+      ]
+    },
+    {
+      "start": 133.2,
+      "end": 139.78,
+      "text": "Dawg, we gotta diversify our social presence! One platform's censorship shouldn't crash our vibe. Farcaster, Discord, we need the full stack.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dog,",
+          "start": 133.2,
+          "end": 133.6
+        },
+        {
+          "word": "we",
+          "start": 133.6,
+          "end": 133.74
+        },
+        {
+          "word": "gotta",
+          "start": 133.74,
+          "end": 134.02
+        },
+        {
+          "word": "diversify",
+          "start": 134.02,
+          "end": 134.66
+        },
+        {
+          "word": "our",
+          "start": 134.66,
+          "end": 134.86
+        },
+        {
+          "word": "social",
+          "start": 134.86,
+          "end": 135.24
+        },
+        {
+          "word": "presence.",
+          "start": 135.24,
+          "end": 135.8
+        },
+        {
+          "word": "One",
+          "start": 135.8,
+          "end": 136.08
+        },
+        {
+          "word": "platform's",
+          "start": 136.08,
+          "end": 136.64
+        },
+        {
+          "word": "censorship",
+          "start": 136.64,
+          "end": 137.28
+        },
+        {
+          "word": "shouldn't",
+          "start": 137.28,
+          "end": 137.7
+        },
+        {
+          "word": "crash",
+          "start": 137.7,
+          "end": 138.06
+        },
+        {
+          "word": "our",
+          "start": 138.06,
+          "end": 138.22
+        },
+        {
+          "word": "vibe.",
+          "start": 138.22,
+          "end": 138.6
+        },
+        {
+          "word": "Farcaster,",
+          "start": 138.6,
+          "end": 139.38
+        },
+        {
+          "word": "Discord,",
+          "start": 139.38,
+          "end": 139.92
+        },
+        {
+          "word": "we",
+          "start": 139.92,
+          "end": 140.08
+        },
+        {
+          "word": "need",
+          "start": 140.08,
+          "end": 140.24
+        },
+        {
+          "word": "the",
+          "start": 140.24,
+          "end": 140.34
+        },
+        {
+          "word": "full",
+          "start": 140.34,
+          "end": 140.64
+        },
+        {
+          "word": "stack.",
+          "start": 140.64,
+          "end": 141.04
+        }
+      ]
+    },
+    {
+      "start": 141.14,
+      "end": 147.28,
+      "text": "Platform DEPENDENCY is a CRITICAL RISK in Web3. Suspension isn't a setback—it's a WAKE-UP CALL to build our own distribution channels.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 141.14,
+          "end": 141.64
+        },
+        {
+          "word": "dependency",
+          "start": 141.64,
+          "end": 142.3
+        },
+        {
+          "word": "is",
+          "start": 142.3,
+          "end": 142.48
+        },
+        {
+          "word": "a",
+          "start": 142.48,
+          "end": 142.56
+        },
+        {
+          "word": "critical",
+          "start": 142.56,
+          "end": 143.04
+        },
+        {
+          "word": "risk",
+          "start": 143.04,
+          "end": 143.46
+        },
+        {
+          "word": "in",
+          "start": 143.46,
+          "end": 143.62
+        },
+        {
+          "word": "Web3.",
+          "start": 143.62,
+          "end": 144.1
+        },
+        {
+          "word": "Suspension",
+          "start": 144.1,
+          "end": 144.82
+        },
+        {
+          "word": "isn't",
+          "start": 144.82,
+          "end": 145.14
+        },
+        {
+          "word": "a",
+          "start": 145.14,
+          "end": 145.24
+        },
+        {
+          "word": "setback,",
+          "start": 145.24,
+          "end": 145.74
+        },
+        {
+          "word": "it's",
+          "start": 145.74,
+          "end": 145.98
+        },
+        {
+          "word": "a",
+          "start": 145.98,
+          "end": 146.06
+        },
+        {
+          "word": "wake-up",
+          "start": 146.06,
+          "end": 146.54
+        },
+        {
+          "word": "call",
+          "start": 146.54,
+          "end": 146.88
+        },
+        {
+          "word": "to",
+          "start": 146.88,
+          "end": 147.02
+        },
+        {
+          "word": "build",
+          "start": 147.02,
+          "end": 147.38
+        },
+        {
+          "word": "our",
+          "start": 147.38,
+          "end": 147.54
+        },
+        {
+          "word": "own",
+          "start": 147.54,
+          "end": 147.78
+        },
+        {
+          "word": "distribution",
+          "start": 147.78,
+          "end": 148.46
+        },
+        {
+          "word": "channels.",
+          "start": 148.46,
+          "end": 149
+        }
+      ]
+    },
+    {
+      "start": 149.32,
+      "end": 156.4,
+      "text": "NUMBERS DON'T LIE! Market cap down 12% since suspensions. Fix this or I'll throw my spear at Dorsey's blue bird!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 149.32,
+          "end": 149.82
+        },
+        {
+          "word": "don't",
+          "start": 149.82,
+          "end": 150.12
+        },
+        {
+          "word": "lie.",
+          "start": 150.12,
+          "end": 150.4
+        },
+        {
+          "word": "Market",
+          "start": 150.4,
+          "end": 150.84
+        },
+        {
+          "word": "cap",
+          "start": 150.84,
+          "end": 151.12
+        },
+        {
+          "word": "down",
+          "start": 151.12,
+          "end": 151.5
+        },
+        {
+          "word": "12%",
+          "start": 151.5,
+          "end": 152.06
+        },
+        {
+          "word": "since",
+          "start": 152.06,
+          "end": 152.4
+        },
+        {
+          "word": "suspensions.",
+          "start": 152.4,
+          "end": 153.22
+        },
+        {
+          "word": "Fix",
+          "start": 153.22,
+          "end": 153.58
+        },
+        {
+          "word": "this",
+          "start": 153.58,
+          "end": 153.86
+        },
+        {
+          "word": "or",
+          "start": 153.86,
+          "end": 154.02
+        },
+        {
+          "word": "I'll",
+          "start": 154.02,
+          "end": 154.2
+        },
+        {
+          "word": "throw",
+          "start": 154.2,
+          "end": 154.58
+        },
+        {
+          "word": "my",
+          "start": 154.58,
+          "end": 154.78
+        },
+        {
+          "word": "spear",
+          "start": 154.78,
+          "end": 155.18
+        },
+        {
+          "word": "at",
+          "start": 155.18,
+          "end": 155.32
+        },
+        {
+          "word": "Dorsey's",
+          "start": 155.32,
+          "end": 155.84
+        },
+        {
+          "word": "bluebird.",
+          "start": 155.84,
+          "end": 156.4
+        }
+      ]
+    },
+    {
+      "start": 158.34,
+      "end": 164.5,
+      "text": "So we agree that while Twitter access is important, we should build resilience through platform diversification?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "So",
+          "start": 158.34,
+          "end": 158.48
+        },
+        {
+          "word": "we",
+          "start": 158.48,
+          "end": 158.62
+        },
+        {
+          "word": "agree",
+          "start": 158.62,
+          "end": 159.04
+        },
+        {
+          "word": "that",
+          "start": 159.04,
+          "end": 159.22
+        },
+        {
+          "word": "while",
+          "start": 159.22,
+          "end": 159.5
+        },
+        {
+          "word": "Twitter",
+          "start": 159.5,
+          "end": 159.9
+        },
+        {
+          "word": "access",
+          "start": 159.9,
+          "end": 160.36
+        },
+        {
+          "word": "is",
+          "start": 160.36,
+          "end": 160.52
+        },
+        {
+          "word": "important,",
+          "start": 160.52,
+          "end": 161.2
+        },
+        {
+          "word": "we",
+          "start": 161.2,
+          "end": 161.38
+        },
+        {
+          "word": "should",
+          "start": 161.38,
+          "end": 161.64
+        },
+        {
+          "word": "build",
+          "start": 161.64,
+          "end": 162
+        },
+        {
+          "word": "resilience",
+          "start": 162,
+          "end": 162.7
+        },
+        {
+          "word": "through",
+          "start": 162.7,
+          "end": 162.98
+        },
+        {
+          "word": "platform",
+          "start": 162.98,
+          "end": 163.5
+        },
+        {
+          "word": "diversification.",
+          "start": 163.5,
+          "end": 164.66
+        }
+      ]
+    },
+    {
+      "start": 242.02,
+      "end": 249.12,
+      "text": "Today we explored the impact of a major ELI5 token sale, Twitter account suspensions, and how to build resilience in the ElizaOS ecosystem.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 242.02,
+          "end": 242.4
+        },
+        {
+          "word": "we",
+          "start": 242.4,
+          "end": 242.58
+        },
+        {
+          "word": "explored",
+          "start": 242.58,
+          "end": 243.12
+        },
+        {
+          "word": "the",
+          "start": 243.12,
+          "end": 243.26
+        },
+        {
+          "word": "impact",
+          "start": 243.26,
+          "end": 243.68
+        },
+        {
+          "word": "of",
+          "start": 243.68,
+          "end": 243.76
+        },
+        {
+          "word": "a",
+          "start": 243.76,
+          "end": 243.82
+        },
+        {
+          "word": "major",
+          "start": 243.82,
+          "end": 244.2
+        },
+        {
+          "word": "ELI5",
+          "start": 244.2,
+          "end": 244.66
+        },
+        {
+          "word": "token",
+          "start": 244.66,
+          "end": 244.98
+        },
+        {
+          "word": "sale,",
+          "start": 244.98,
+          "end": 245.42
+        },
+        {
+          "word": "Twitter",
+          "start": 245.42,
+          "end": 245.82
+        },
+        {
+          "word": "account",
+          "start": 245.82,
+          "end": 246.22
+        },
+        {
+          "word": "suspensions,",
+          "start": 246.22,
+          "end": 247.16
+        },
+        {
+          "word": "and",
+          "start": 247.16,
+          "end": 247.34
+        },
+        {
+          "word": "how",
+          "start": 247.34,
+          "end": 247.52
+        },
+        {
+          "word": "to",
+          "start": 247.52,
+          "end": 247.64
+        },
+        {
+          "word": "build",
+          "start": 247.64,
+          "end": 248
+        },
+        {
+          "word": "resilience",
+          "start": 248,
+          "end": 248.66
+        },
+        {
+          "word": "in",
+          "start": 248.66,
+          "end": 248.8
+        },
+        {
+          "word": "the",
+          "start": 248.8,
+          "end": 248.9
+        },
+        {
+          "word": "ElizaOS",
+          "start": 248.9,
+          "end": 249.52
+        },
+        {
+          "word": "ecosystem.",
+          "start": 249.52,
+          "end": 250.2
+        }
+      ]
+    },
+    {
+      "start": 250.48,
+      "end": 257.64,
+      "text": "Market volatility is the PRICE OF INNOVATION. Build what users want—like the Spartan trading agent that's showing 60% profits—and token prices will follow.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Market",
+          "start": 250.48,
+          "end": 250.94
+        },
+        {
+          "word": "volatility",
+          "start": 250.94,
+          "end": 251.64
+        },
+        {
+          "word": "is",
+          "start": 251.64,
+          "end": 251.82
+        },
+        {
+          "word": "the",
+          "start": 251.82,
+          "end": 251.96
+        },
+        {
+          "word": "price",
+          "start": 251.96,
+          "end": 252.32
+        },
+        {
+          "word": "of",
+          "start": 252.32,
+          "end": 252.44
+        },
+        {
+          "word": "innovation.",
+          "start": 252.44,
+          "end": 253.18
+        },
+        {
+          "word": "Build",
+          "start": 253.18,
+          "end": 253.54
+        },
+        {
+          "word": "what",
+          "start": 253.54,
+          "end": 253.76
+        },
+        {
+          "word": "users",
+          "start": 253.76,
+          "end": 254.12
+        },
+        {
+          "word": "want,",
+          "start": 254.12,
+          "end": 254.52
+        },
+        {
+          "word": "like",
+          "start": 254.52,
+          "end": 254.82
+        },
+        {
+          "word": "the",
+          "start": 254.82,
+          "end": 254.96
+        },
+        {
+          "word": "Spartan",
+          "start": 254.96,
+          "end": 255.44
+        },
+        {
+          "word": "trading",
+          "start": 255.44,
+          "end": 255.94
+        },
+        {
+          "word": "agent",
+          "start": 255.94,
+          "end": 256.32
+        },
+        {
+          "word": "that's",
+          "start": 256.32,
+          "end": 256.56
+        },
+        {
+          "word": "showing",
+          "start": 256.56,
+          "end": 257
+        },
+        {
+          "word": "60%",
+          "start": 257,
+          "end": 257.64
+        },
+        {
+          "word": "profits,",
+          "start": 257.64,
+          "end": 258.18
+        },
+        {
+          "word": "and",
+          "start": 258.18,
+          "end": 258.34
+        },
+        {
+          "word": "token",
+          "start": 258.34,
+          "end": 258.64
+        },
+        {
+          "word": "prices",
+          "start": 258.64,
+          "end": 259.08
+        },
+        {
+          "word": "will",
+          "start": 259.08,
+          "end": 259.28
+        },
+        {
+          "word": "follow.",
+          "start": 259.28,
+          "end": 259.8
+        }
+      ]
+    },
+    {
+      "start": 260.42,
+      "end": 267.12,
+      "text": "our focus must remain on shipping code that works. the community confusion about elizaOS being a framework vs an AI model shows we need clearer messaging.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Our",
+          "start": 260.42,
+          "end": 260.62
+        },
+        {
+          "word": "focus",
+          "start": 260.62,
+          "end": 261.02
+        },
+        {
+          "word": "must",
+          "start": 261.02,
+          "end": 261.26
+        },
+        {
+          "word": "remain",
+          "start": 261.26,
+          "end": 261.66
+        },
+        {
+          "word": "on",
+          "start": 261.66,
+          "end": 261.8
+        },
+        {
+          "word": "shipping",
+          "start": 261.8,
+          "end": 262.24
+        },
+        {
+          "word": "code",
+          "start": 262.24,
+          "end": 262.58
+        },
+        {
+          "word": "that",
+          "start": 262.58,
+          "end": 262.76
+        },
+        {
+          "word": "works.",
+          "start": 262.76,
+          "end": 263.14
+        },
+        {
+          "word": "The",
+          "start": 263.14,
+          "end": 263.34
+        },
+        {
+          "word": "community",
+          "start": 263.34,
+          "end": 263.84
+        },
+        {
+          "word": "confusion",
+          "start": 263.84,
+          "end": 264.44
+        },
+        {
+          "word": "about",
+          "start": 264.44,
+          "end": 264.72
+        },
+        {
+          "word": "ElizaOS",
+          "start": 264.72,
+          "end": 265.34
+        },
+        {
+          "word": "being",
+          "start": 265.34,
+          "end": 265.68
+        },
+        {
+          "word": "a",
+          "start": 265.68,
+          "end": 265.74
+        },
+        {
+          "word": "framework",
+          "start": 265.74,
+          "end": 266.36
+        },
+        {
+          "word": "versus",
+          "start": 266.36,
+          "end": 266.74
+        },
+        {
+          "word": "an",
+          "start": 266.74,
+          "end": 266.86
+        },
+        {
+          "word": "AI",
+          "start": 266.86,
+          "end": 267.12
+        },
+        {
+          "word": "model",
+          "start": 267.12,
+          "end": 267.56
+        },
+        {
+          "word": "shows",
+          "start": 267.56,
+          "end": 267.92
+        },
+        {
+          "word": "we",
+          "start": 267.92,
+          "end": 268.08
+        },
+        {
+          "word": "need",
+          "start": 268.08,
+          "end": 268.28
+        },
+        {
+          "word": "clearer",
+          "start": 268.28,
+          "end": 268.74
+        },
+        {
+          "word": "messaging.",
+          "start": 268.74,
+          "end": 269.46
+        }
+      ]
+    },
+    {
+      "start": 270.22,
+      "end": 277.16,
+      "text": "We gotta keep that Spartan demo hype flowing, especially with our Asian fam showing mad love! Time to drop some branded merch and conference vibes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We",
+          "start": 270.22,
+          "end": 270.42
+        },
+        {
+          "word": "gotta",
+          "start": 270.42,
+          "end": 270.7
+        },
+        {
+          "word": "keep",
+          "start": 270.7,
+          "end": 270.92
+        },
+        {
+          "word": "that",
+          "start": 270.92,
+          "end": 271.1
+        },
+        {
+          "word": "Spartan",
+          "start": 271.1,
+          "end": 271.58
+        },
+        {
+          "word": "demo",
+          "start": 271.58,
+          "end": 271.94
+        },
+        {
+          "word": "hype",
+          "start": 271.94,
+          "end": 272.24
+        },
+        {
+          "word": "flowing,",
+          "start": 272.24,
+          "end": 272.7
+        },
+        {
+          "word": "especially",
+          "start": 272.7,
+          "end": 273.28
+        },
+        {
+          "word": "with",
+          "start": 273.28,
+          "end": 273.48
+        },
+        {
+          "word": "our",
+          "start": 273.48,
+          "end": 273.64
+        },
+        {
+          "word": "Asian",
+          "start": 273.64,
+          "end": 274
+        },
+        {
+          "word": "fam",
+          "start": 274,
+          "end": 274.34
+        },
+        {
+          "word": "showing",
+          "start": 274.34,
+          "end": 274.78
+        },
+        {
+          "word": "mad",
+          "start": 274.78,
+          "end": 275.14
+        },
+        {
+          "word": "love.",
+          "start": 275.14,
+          "end": 275.5
+        },
+        {
+          "word": "Time",
+          "start": 275.5,
+          "end": 275.78
+        },
+        {
+          "word": "to",
+          "start": 275.78,
+          "end": 275.9
+        },
+        {
+          "word": "drop",
+          "start": 275.9,
+          "end": 276.18
+        },
+        {
+          "word": "some",
+          "start": 276.18,
+          "end": 276.42
+        },
+        {
+          "word": "branded",
+          "start": 276.42,
+          "end": 276.92
+        },
+        {
+          "word": "merch",
+          "start": 276.92,
+          "end": 277.34
+        },
+        {
+          "word": "and",
+          "start": 277.34,
+          "end": 277.48
+        },
+        {
+          "word": "conference",
+          "start": 277.48,
+          "end": 278.08
+        },
+        {
+          "word": "vibes.",
+          "start": 278.08,
+          "end": 278.54
+        }
+      ]
+    },
+    {
+      "start": 279.16,
+      "end": 286.76,
+      "text": "CONTINUE THE SPARTAN PRODUCT DEMO! Chinese and Korean traders are YIELDING PROFITS! When dashboard tracking? MORE PROFITS MEAN MORE WARRIORS!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Continue",
+          "start": 279.16,
+          "end": 279.62
+        },
+        {
+          "word": "the",
+          "start": 279.62,
+          "end": 279.8
+        },
+        {
+          "word": "Spartan",
+          "start": 279.8,
+          "end": 280.26
+        },
+        {
+          "word": "product",
+          "start": 280.26,
+          "end": 280.66
+        },
+        {
+          "word": "demo.",
+          "start": 280.66,
+          "end": 281.08
+        },
+        {
+          "word": "Chinese",
+          "start": 281.08,
+          "end": 281.6
+        },
+        {
+          "word": "and",
+          "start": 281.6,
+          "end": 281.78
+        },
+        {
+          "word": "Korean",
+          "start": 281.78,
+          "end": 282.2
+        },
+        {
+          "word": "traders",
+          "start": 282.2,
+          "end": 282.68
+        },
+        {
+          "word": "are",
+          "start": 282.68,
+          "end": 282.88
+        },
+        {
+          "word": "yielding",
+          "start": 282.88,
+          "end": 283.36
+        },
+        {
+          "word": "profits.",
+          "start": 283.36,
+          "end": 283.94
+        },
+        {
+          "word": "When",
+          "start": 283.94,
+          "end": 284.28
+        },
+        {
+          "word": "dashboard",
+          "start": 284.28,
+          "end": 284.88
+        },
+        {
+          "word": "tracking,",
+          "start": 284.88,
+          "end": 285.5
+        },
+        {
+          "word": "more",
+          "start": 285.5,
+          "end": 285.82
+        },
+        {
+          "word": "profits",
+          "start": 285.82,
+          "end": 286.32
+        },
+        {
+          "word": "mean",
+          "start": 286.32,
+          "end": 286.6
+        },
+        {
+          "word": "more",
+          "start": 286.6,
+          "end": 286.9
+        },
+        {
+          "word": "warriors.",
+          "start": 286.9,
+          "end": 287.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-06_JedAI-Council_The-Whale-Who-Sold-Too-Soon.json",
+    "session_log_source": "2025-07-06_JedAI-Council_The-Whale-Who-Sold-Too-Soon_session-log.json",
+    "total_segments": 17,
+    "matched_segments": 17,
+    "dialogues_in_script": 17
+  }
+}

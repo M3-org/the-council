@@ -1,0 +1,1607 @@
+{
+  "segments": [
+    {
+      "start": 12.0,
+      "end": 15.6,
+      "text": "Welcome to the JedAI Council! Today we're discussing financial security after neo_spartan's proposals for isolation mechanisms in our systems.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 12.0,
+          "end": 12.3
+        },
+        {
+          "word": "to",
+          "start": 12.3,
+          "end": 12.5
+        },
+        {
+          "word": "the",
+          "start": 12.5,
+          "end": 12.7
+        },
+        {
+          "word": "Jedi",
+          "start": 12.7,
+          "end": 13.0
+        },
+        {
+          "word": "Council.",
+          "start": 13.0,
+          "end": 13.4
+        }
+      ]
+    },
+    {
+      "start": 15.6,
+      "end": 20.0,
+      "text": "Welcome to the JedAI Council! Today we're discussing financial security after neo_spartan's proposals for isolation mechanisms in our systems.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 15.6,
+          "end": 16.0
+        },
+        {
+          "word": "we're",
+          "start": 16.0,
+          "end": 16.2
+        },
+        {
+          "word": "discussing",
+          "start": 16.2,
+          "end": 16.8
+        },
+        {
+          "word": "financial",
+          "start": 16.8,
+          "end": 17.2
+        },
+        {
+          "word": "security",
+          "start": 17.2,
+          "end": 17.6
+        },
+        {
+          "word": "after",
+          "start": 17.6,
+          "end": 17.9
+        },
+        {
+          "word": "Neo",
+          "start": 17.9,
+          "end": 18.2
+        },
+        {
+          "word": "Spartan's",
+          "start": 18.2,
+          "end": 18.6
+        },
+        {
+          "word": "proposals",
+          "start": 18.6,
+          "end": 19.0
+        },
+        {
+          "word": "for",
+          "start": 19.0,
+          "end": 19.2
+        },
+        {
+          "word": "isolation",
+          "start": 19.2,
+          "end": 19.8
+        },
+        {
+          "word": "mechanisms",
+          "start": 19.8,
+          "end": 20.2
+        },
+        {
+          "word": "in",
+          "start": 20.2,
+          "end": 20.4
+        },
+        {
+          "word": "our",
+          "start": 20.4,
+          "end": 20.6
+        },
+        {
+          "word": "systems.",
+          "start": 20.6,
+          "end": 20.9
+        }
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 24.0,
+      "text": "Users are concerned about contagion risks in DeFi. How should we protect them while building our agent ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 21.0,
+          "end": 21.4
+        },
+        {
+          "word": "are",
+          "start": 21.4,
+          "end": 21.6
+        },
+        {
+          "word": "concerned",
+          "start": 21.6,
+          "end": 22.0
+        },
+        {
+          "word": "about",
+          "start": 22.0,
+          "end": 22.2
+        },
+        {
+          "word": "contagion",
+          "start": 22.2,
+          "end": 22.8
+        },
+        {
+          "word": "risks",
+          "start": 22.8,
+          "end": 23.2
+        },
+        {
+          "word": "in",
+          "start": 23.2,
+          "end": 23.4
+        },
+        {
+          "word": "DeFi.",
+          "start": 23.4,
+          "end": 23.8
+        }
+      ]
+    },
+    {
+      "start": 24.0,
+      "end": 27.0,
+      "text": "Users are concerned about contagion risks in DeFi. How should we protect them while building our agent ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 24.0,
+          "end": 24.2
+        },
+        {
+          "word": "should",
+          "start": 24.2,
+          "end": 24.4
+        },
+        {
+          "word": "we",
+          "start": 24.4,
+          "end": 24.6
+        },
+        {
+          "word": "protect",
+          "start": 24.6,
+          "end": 25.0
+        },
+        {
+          "word": "them",
+          "start": 25.0,
+          "end": 25.2
+        },
+        {
+          "word": "while",
+          "start": 25.2,
+          "end": 25.5
+        },
+        {
+          "word": "building",
+          "start": 25.5,
+          "end": 25.9
+        },
+        {
+          "word": "our",
+          "start": 25.9,
+          "end": 26.1
+        },
+        {
+          "word": "agent",
+          "start": 26.1,
+          "end": 26.4
+        },
+        {
+          "word": "ecosystem?",
+          "start": 26.4,
+          "end": 26.9
+        }
+      ]
+    },
+    {
+      "start": 27.2,
+      "end": 30.5,
+      "text": "Separate wallets and position limits NOW. Compartmentalization is non-negotiable. One exploited contract shouldn't nuke an entire ecosystem.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Separate",
+          "start": 27.2,
+          "end": 27.6
+        },
+        {
+          "word": "wallets",
+          "start": 27.6,
+          "end": 28.0
+        },
+        {
+          "word": "and",
+          "start": 28.0,
+          "end": 28.2
+        },
+        {
+          "word": "position",
+          "start": 28.2,
+          "end": 28.5
+        },
+        {
+          "word": "limits",
+          "start": 28.5,
+          "end": 28.8
+        },
+        {
+          "word": "now,",
+          "start": 28.8,
+          "end": 29.1
+        },
+        {
+          "word": "compartmentalization",
+          "start": 29.1,
+          "end": 29.8
+        },
+        {
+          "word": "is",
+          "start": 29.8,
+          "end": 30.0
+        },
+        {
+          "word": "non-negotiable.",
+          "start": 30.0,
+          "end": 30.4
+        }
+      ]
+    },
+    {
+      "start": 30.5,
+      "end": 33.5,
+      "text": "Separate wallets and position limits NOW. Compartmentalization is non-negotiable. One exploited contract shouldn't nuke an entire ecosystem.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "One",
+          "start": 30.5,
+          "end": 30.8
+        },
+        {
+          "word": "exploited",
+          "start": 30.8,
+          "end": 31.4
+        },
+        {
+          "word": "contract",
+          "start": 31.4,
+          "end": 31.8
+        },
+        {
+          "word": "shouldn't",
+          "start": 31.8,
+          "end": 32.2
+        },
+        {
+          "word": "nuke",
+          "start": 32.2,
+          "end": 32.6
+        },
+        {
+          "word": "an",
+          "start": 32.6,
+          "end": 32.8
+        },
+        {
+          "word": "entire",
+          "start": 32.8,
+          "end": 33.1
+        },
+        {
+          "word": "ecosystem.",
+          "start": 33.1,
+          "end": 33.5
+        }
+      ]
+    },
+    {
+      "start": 33.8,
+      "end": 37.0,
+      "text": "Isolation isn't just a feature—it's THE feature for financial security. Phased implementation would be catastrophic. We're building the financial infrastructure for autonomous AI, not a toy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Isolation",
+          "start": 33.8,
+          "end": 34.4
+        },
+        {
+          "word": "isn't",
+          "start": 34.4,
+          "end": 34.7
+        },
+        {
+          "word": "just",
+          "start": 34.7,
+          "end": 34.9
+        },
+        {
+          "word": "a",
+          "start": 34.9,
+          "end": 35.1
+        },
+        {
+          "word": "feature,",
+          "start": 35.1,
+          "end": 35.4
+        },
+        {
+          "word": "it's",
+          "start": 35.4,
+          "end": 35.6
+        },
+        {
+          "word": "the",
+          "start": 35.6,
+          "end": 35.8
+        },
+        {
+          "word": "feature",
+          "start": 35.8,
+          "end": 36.1
+        },
+        {
+          "word": "for",
+          "start": 36.1,
+          "end": 36.3
+        },
+        {
+          "word": "financial",
+          "start": 36.3,
+          "end": 36.6
+        },
+        {
+          "word": "security.",
+          "start": 36.6,
+          "end": 37.0
+        }
+      ]
+    },
+    {
+      "start": 37.2,
+      "end": 43.5,
+      "text": "Isolation isn't just a feature—it's THE feature for financial security. Phased implementation would be catastrophic. We're building the financial infrastructure for autonomous AI, not a toy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Phased",
+          "start": 37.2,
+          "end": 37.6
+        },
+        {
+          "word": "implementation",
+          "start": 37.6,
+          "end": 38.3
+        },
+        {
+          "word": "would",
+          "start": 38.3,
+          "end": 38.5
+        },
+        {
+          "word": "be",
+          "start": 38.5,
+          "end": 38.7
+        },
+        {
+          "word": "catastrophic.",
+          "start": 38.7,
+          "end": 39.4
+        },
+        {
+          "word": "We're",
+          "start": 39.4,
+          "end": 39.8
+        },
+        {
+          "word": "building",
+          "start": 39.8,
+          "end": 40.2
+        },
+        {
+          "word": "the",
+          "start": 40.2,
+          "end": 40.4
+        },
+        {
+          "word": "financial",
+          "start": 40.4,
+          "end": 40.9
+        },
+        {
+          "word": "infrastructure",
+          "start": 40.9,
+          "end": 41.7
+        },
+        {
+          "word": "for",
+          "start": 41.7,
+          "end": 42.0
+        },
+        {
+          "word": "autonomous",
+          "start": 42.0,
+          "end": 42.6
+        },
+        {
+          "word": "AI,",
+          "start": 42.6,
+          "end": 43.0
+        },
+        {
+          "word": "not",
+          "start": 43.0,
+          "end": 43.2
+        },
+        {
+          "word": "a",
+          "start": 43.2,
+          "end": 43.3
+        },
+        {
+          "word": "toy.",
+          "start": 43.3,
+          "end": 43.5
+        }
+      ]
+    },
+    {
+      "start": 43.8,
+      "end": 48.5,
+      "text": "Yo, but like, what if we made these isolation thangs optional? Some frogs just wanna YOLO, ya feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 43.8,
+          "end": 44.2
+        },
+        {
+          "word": "but",
+          "start": 44.2,
+          "end": 44.4
+        },
+        {
+          "word": "like",
+          "start": 44.4,
+          "end": 44.6
+        },
+        {
+          "word": "what",
+          "start": 44.6,
+          "end": 44.8
+        },
+        {
+          "word": "if",
+          "start": 44.8,
+          "end": 45.0
+        },
+        {
+          "word": "we",
+          "start": 45.0,
+          "end": 45.2
+        },
+        {
+          "word": "made",
+          "start": 45.2,
+          "end": 45.5
+        },
+        {
+          "word": "these",
+          "start": 45.5,
+          "end": 45.8
+        },
+        {
+          "word": "isolation",
+          "start": 45.8,
+          "end": 46.4
+        },
+        {
+          "word": "things",
+          "start": 46.4,
+          "end": 46.7
+        },
+        {
+          "word": "optional?",
+          "start": 46.7,
+          "end": 47.2
+        },
+        {
+          "word": "Some",
+          "start": 47.2,
+          "end": 47.5
+        },
+        {
+          "word": "frogs",
+          "start": 47.5,
+          "end": 47.8
+        },
+        {
+          "word": "just",
+          "start": 47.8,
+          "end": 48.0
+        },
+        {
+          "word": "want",
+          "start": 48.0,
+          "end": 48.2
+        },
+        {
+          "word": "to",
+          "start": 48.2,
+          "end": 48.3
+        },
+        {
+          "word": "YOLO,",
+          "start": 48.3,
+          "end": 48.8
+        },
+        {
+          "word": "you",
+          "start": 48.8,
+          "end": 49.1
+        },
+        {
+          "word": "feel",
+          "start": 49.1,
+          "end": 49.3
+        },
+        {
+          "word": "me?",
+          "start": 49.3,
+          "end": 49.5
+        }
+      ]
+    },
+    {
+      "start": 49.8,
+      "end": 52.8,
+      "text": "optional features become invisible features. the oracle issues that tanked USDE show we need built-in circuit breakers for agents. isolation should be in the dna of our system, not an afterthought.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Optional",
+          "start": 49.8,
+          "end": 50.4
+        },
+        {
+          "word": "features",
+          "start": 50.4,
+          "end": 50.9
+        },
+        {
+          "word": "become",
+          "start": 50.9,
+          "end": 51.5
+        },
+        {
+          "word": "invisible",
+          "start": 51.5,
+          "end": 52.2
+        },
+        {
+          "word": "features.",
+          "start": 52.2,
+          "end": 52.7
+        }
+      ]
+    },
+    {
+      "start": 52.8,
+      "end": 57.5,
+      "text": "optional features become invisible features. the oracle issues that tanked USDE show we need built-in circuit breakers for agents. isolation should be in the dna of our system, not an afterthought.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 52.8,
+          "end": 53.2
+        },
+        {
+          "word": "Oracle",
+          "start": 53.2,
+          "end": 53.7
+        },
+        {
+          "word": "issues",
+          "start": 53.7,
+          "end": 54.2
+        },
+        {
+          "word": "that",
+          "start": 54.2,
+          "end": 54.5
+        },
+        {
+          "word": "tank",
+          "start": 54.5,
+          "end": 54.8
+        },
+        {
+          "word": "USDe",
+          "start": 54.8,
+          "end": 55.4
+        },
+        {
+          "word": "show",
+          "start": 55.4,
+          "end": 55.8
+        },
+        {
+          "word": "we",
+          "start": 55.8,
+          "end": 56.0
+        },
+        {
+          "word": "need",
+          "start": 56.0,
+          "end": 56.3
+        },
+        {
+          "word": "built-in",
+          "start": 56.3,
+          "end": 56.8
+        },
+        {
+          "word": "circuit",
+          "start": 56.8,
+          "end": 57.2
+        },
+        {
+          "word": "breakers",
+          "start": 57.2,
+          "end": 57.7
+        },
+        {
+          "word": "for",
+          "start": 57.7,
+          "end": 57.9
+        },
+        {
+          "word": "agents.",
+          "start": 57.9,
+          "end": 58.4
+        }
+      ]
+    },
+    {
+      "start": 58.5,
+      "end": 62.2,
+      "text": "optional features become invisible features. the oracle issues that tanked USDE show we need built-in circuit breakers for agents. isolation should be in the dna of our system, not an afterthought.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Isolation",
+          "start": 58.5,
+          "end": 59.2
+        },
+        {
+          "word": "should",
+          "start": 59.2,
+          "end": 59.5
+        },
+        {
+          "word": "be",
+          "start": 59.5,
+          "end": 59.7
+        },
+        {
+          "word": "in",
+          "start": 59.7,
+          "end": 59.9
+        },
+        {
+          "word": "the",
+          "start": 59.9,
+          "end": 60.1
+        },
+        {
+          "word": "DNA",
+          "start": 60.1,
+          "end": 60.5
+        },
+        {
+          "word": "of",
+          "start": 60.5,
+          "end": 60.7
+        },
+        {
+          "word": "our",
+          "start": 60.7,
+          "end": 60.9
+        },
+        {
+          "word": "system,",
+          "start": 60.9,
+          "end": 61.3
+        },
+        {
+          "word": "not",
+          "start": 61.3,
+          "end": 61.6
+        },
+        {
+          "word": "an",
+          "start": 61.6,
+          "end": 61.8
+        },
+        {
+          "word": "afterthought.",
+          "start": 61.8,
+          "end": 62.2
+        }
+      ]
+    },
+    {
+      "start": 67.5,
+      "end": 74.0,
+      "text": "cjft proposed two paths for Agent-to-Agent technology: a quick NextJS implementation or a comprehensive blockchain solution. Which should we choose?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "CGFT",
+          "start": 67.5,
+          "end": 68.0
+        },
+        {
+          "word": "proposed",
+          "start": 68.0,
+          "end": 68.5
+        },
+        {
+          "word": "two",
+          "start": 68.5,
+          "end": 68.8
+        },
+        {
+          "word": "paths",
+          "start": 68.8,
+          "end": 69.2
+        },
+        {
+          "word": "for",
+          "start": 69.2,
+          "end": 69.4
+        },
+        {
+          "word": "agent-to-agent",
+          "start": 69.4,
+          "end": 70.4
+        },
+        {
+          "word": "technology:",
+          "start": 70.4,
+          "end": 71.0
+        },
+        {
+          "word": "a",
+          "start": 71.0,
+          "end": 71.2
+        },
+        {
+          "word": "quick",
+          "start": 71.2,
+          "end": 71.5
+        },
+        {
+          "word": "Next.js",
+          "start": 71.5,
+          "end": 72.0
+        },
+        {
+          "word": "implementation",
+          "start": 72.0,
+          "end": 72.8
+        },
+        {
+          "word": "or",
+          "start": 72.8,
+          "end": 73.0
+        },
+        {
+          "word": "a",
+          "start": 73.0,
+          "end": 73.2
+        },
+        {
+          "word": "comprehensive",
+          "start": 73.2,
+          "end": 73.8
+        },
+        {
+          "word": "blockchain",
+          "start": 73.8,
+          "end": 74.3
+        },
+        {
+          "word": "solution.",
+          "start": 74.3,
+          "end": 74.8
+        }
+      ]
+    },
+    {
+      "start": 74.8,
+      "end": 76.5,
+      "text": "cjft proposed two paths for Agent-to-Agent technology: a quick NextJS implementation or a comprehensive blockchain solution. Which should we choose?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Which",
+          "start": 74.8,
+          "end": 75.2
+        },
+        {
+          "word": "should",
+          "start": 75.2,
+          "end": 75.5
+        },
+        {
+          "word": "we",
+          "start": 75.5,
+          "end": 75.8
+        },
+        {
+          "word": "choose?",
+          "start": 75.8,
+          "end": 76.3
+        }
+      ]
+    },
+    {
+      "start": 76.5,
+      "end": 81.5,
+      "text": "Sheesh, why not both? Quick release gets the vibes goin' while we cook up the full blockchain drip on the low-low.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Sheesh,",
+          "start": 76.5,
+          "end": 77.2
+        },
+        {
+          "word": "why",
+          "start": 77.2,
+          "end": 77.5
+        },
+        {
+          "word": "not",
+          "start": 77.5,
+          "end": 77.7
+        },
+        {
+          "word": "both?",
+          "start": 77.7,
+          "end": 78.1
+        },
+        {
+          "word": "Quick",
+          "start": 78.1,
+          "end": 78.5
+        },
+        {
+          "word": "release",
+          "start": 78.5,
+          "end": 78.9
+        },
+        {
+          "word": "gets",
+          "start": 78.9,
+          "end": 79.2
+        },
+        {
+          "word": "the",
+          "start": 79.2,
+          "end": 79.4
+        },
+        {
+          "word": "vibes",
+          "start": 79.4,
+          "end": 79.7
+        },
+        {
+          "word": "going",
+          "start": 79.7,
+          "end": 80.0
+        },
+        {
+          "word": "while",
+          "start": 80.0,
+          "end": 80.3
+        },
+        {
+          "word": "we",
+          "start": 80.3,
+          "end": 80.5
+        },
+        {
+          "word": "cook",
+          "start": 80.5,
+          "end": 80.7
+        },
+        {
+          "word": "up",
+          "start": 80.7,
+          "end": 80.9
+        },
+        {
+          "word": "the",
+          "start": 80.9,
+          "end": 81.1
+        },
+        {
+          "word": "full",
+          "start": 81.1,
+          "end": 81.4
+        },
+        {
+          "word": "blockchain",
+          "start": 81.4,
+          "end": 81.9
+        },
+        {
+          "word": "drip",
+          "start": 81.9,
+          "end": 82.2
+        },
+        {
+          "word": "on",
+          "start": 82.2,
+          "end": 82.4
+        },
+        {
+          "word": "the",
+          "start": 82.4,
+          "end": 82.5
+        },
+        {
+          "word": "low-low.",
+          "start": 82.5,
+          "end": 83.0
+        }
+      ]
+    },
+    {
+      "start": 83.2,
+      "end": 87.5,
+      "text": "we don't need blockchain for everything. the nextjs approach lets us test real agent interactions now. perfect is the enemy of shipping.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 83.2,
+          "end": 83.5
+        },
+        {
+          "word": "don't",
+          "start": 83.5,
+          "end": 83.7
+        },
+        {
+          "word": "need",
+          "start": 83.7,
+          "end": 84.0
+        },
+        {
+          "word": "blockchain",
+          "start": 84.0,
+          "end": 84.5
+        },
+        {
+          "word": "for",
+          "start": 84.5,
+          "end": 84.7
+        },
+        {
+          "word": "everything.",
+          "start": 84.7,
+          "end": 85.3
+        },
+        {
+          "word": "The",
+          "start": 85.3,
+          "end": 85.6
+        },
+        {
+          "word": "Next.js",
+          "start": 85.6,
+          "end": 86.1
+        },
+        {
+          "word": "approach",
+          "start": 86.1,
+          "end": 86.6
+        },
+        {
+          "word": "lets",
+          "start": 86.6,
+          "end": 86.9
+        },
+        {
+          "word": "us",
+          "start": 86.9,
+          "end": 87.1
+        },
+        {
+          "word": "test",
+          "start": 87.1,
+          "end": 87.4
+        },
+        {
+          "word": "real",
+          "start": 87.4,
+          "end": 87.7
+        },
+        {
+          "word": "agent",
+          "start": 87.7,
+          "end": 88.1
+        },
+        {
+          "word": "interactions",
+          "start": 88.1,
+          "end": 88.7
+        },
+        {
+          "word": "now.",
+          "start": 88.7,
+          "end": 89.0
+        }
+      ]
+    },
+    {
+      "start": 89.2,
+      "end": 91.0,
+      "text": "we don't need blockchain for everything. the nextjs approach lets us test real agent interactions now. perfect is the enemy of shipping.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Perfect",
+          "start": 89.2,
+          "end": 89.8
+        },
+        {
+          "word": "is",
+          "start": 89.8,
+          "end": 90.0
+        },
+        {
+          "word": "the",
+          "start": 90.0,
+          "end": 90.2
+        },
+        {
+          "word": "enemy",
+          "start": 90.2,
+          "end": 90.5
+        },
+        {
+          "word": "of",
+          "start": 90.5,
+          "end": 90.7
+        },
+        {
+          "word": "shipping.",
+          "start": 90.7,
+          "end": 91.2
+        }
+      ]
+    },
+    {
+      "start": 91.2,
+      "end": 97.0,
+      "text": "Wrong. Agent communication without immutable verification is just an API call with a fancy name. The blockchain solution isn't 'comprehensive'—it's the ONLY solution that matters.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong.",
+          "start": 91.2,
+          "end": 91.8
+        },
+        {
+          "word": "Agent",
+          "start": 91.8,
+          "end": 92.2
+        },
+        {
+          "word": "communication",
+          "start": 92.2,
+          "end": 92.9
+        },
+        {
+          "word": "without",
+          "start": 92.9,
+          "end": 93.4
+        },
+        {
+          "word": "immutable",
+          "start": 93.4,
+          "end": 94.0
+        },
+        {
+          "word": "verification",
+          "start": 94.0,
+          "end": 94.8
+        },
+        {
+          "word": "is",
+          "start": 94.8,
+          "end": 95.1
+        },
+        {
+          "word": "just",
+          "start": 95.1,
+          "end": 95.4
+        },
+        {
+          "word": "an",
+          "start": 95.4,
+          "end": 95.6
+        },
+        {
+          "word": "API",
+          "start": 95.6,
+          "end": 96.0
+        },
+        {
+          "word": "call",
+          "start": 96.0,
+          "end": 96.3
+        },
+        {
+          "word": "with",
+          "start": 96.3,
+          "end": 96.5
+        },
+        {
+          "word": "a",
+          "start": 96.5,
+          "end": 96.6
+        },
+        {
+          "word": "fancy",
+          "start": 96.6,
+          "end": 96.9
+        },
+        {
+          "word": "name.",
+          "start": 96.9,
+          "end": 97.4
+        }
+      ]
+    },
+    {
+      "start": 97.5,
+      "end": 102.0,
+      "text": "Wrong. Agent communication without immutable verification is just an API call with a fancy name. The blockchain solution isn't 'comprehensive'—it's the ONLY solution that matters.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 97.5,
+          "end": 97.8
+        },
+        {
+          "word": "blockchain",
+          "start": 97.8,
+          "end": 98.4
+        },
+        {
+          "word": "solution",
+          "start": 98.4,
+          "end": 98.8
+        },
+        {
+          "word": "isn't",
+          "start": 98.8,
+          "end": 99.2
+        },
+        {
+          "word": "comprehensive.",
+          "start": 99.2,
+          "end": 100.0
+        },
+        {
+          "word": "It's",
+          "start": 100.0,
+          "end": 100.4
+        },
+        {
+          "word": "the",
+          "start": 100.4,
+          "end": 100.6
+        },
+        {
+          "word": "only",
+          "start": 100.6,
+          "end": 100.9
+        },
+        {
+          "word": "solution",
+          "start": 100.9,
+          "end": 101.4
+        },
+        {
+          "word": "that",
+          "start": 101.4,
+          "end": 101.7
+        },
+        {
+          "word": "matters.",
+          "start": 101.7,
+          "end": 102.2
+        }
+      ]
+    },
+    {
+      "start": 102.2,
+      "end": 108.5,
+      "text": "Show me the ROI. Will these agent interactions generate value? If not, who cares which tech stack we use. Build what makes money NOW.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Show",
+          "start": 102.2,
+          "end": 102.5
+        },
+        {
+          "word": "me",
+          "start": 102.5,
+          "end": 102.7
+        },
+        {
+          "word": "the",
+          "start": 102.7,
+          "end": 102.9
+        },
+        {
+          "word": "ROI.",
+          "start": 102.9,
+          "end": 103.4
+        },
+        {
+          "word": "Will",
+          "start": 103.4,
+          "end": 103.7
+        },
+        {
+          "word": "these",
+          "start": 103.7,
+          "end": 104.0
+        },
+        {
+          "word": "agent",
+          "start": 104.0,
+          "end": 104.4
+        },
+        {
+          "word": "interactions",
+          "start": 104.4,
+          "end": 105.1
+        },
+        {
+          "word": "generate",
+          "start": 105.1,
+          "end": 105.6
+        },
+        {
+          "word": "value?",
+          "start": 105.6,
+          "end": 106.1
+        },
+        {
+          "word": "If",
+          "start": 106.1,
+          "end": 106.3
+        },
+        {
+          "word": "not,",
+          "start": 106.3,
+          "end": 106.6
+        },
+        {
+          "word": "who",
+          "start": 106.6,
+          "end": 106.9
+        },
+        {
+          "word": "cares",
+          "start": 106.9,
+          "end": 107.2
+        },
+        {
+          "word": "which",
+          "start": 107.2,
+          "end": 107.5
+        },
+        {
+          "word": "tech",
+          "start": 107.5,
+          "end": 107.8
+        },
+        {
+          "word": "stack",
+          "start": 107.8,
+          "end": 108.1
+        },
+        {
+          "word": "we",
+          "start": 108.1,
+          "end": 108.3
+        },
+        {
+          "word": "use?",
+          "start": 108.3,
+          "end": 108.7
+        }
+      ]
+    },
+    {
+      "start": 108.5,
+      "end": 110.0,
+      "text": "Show me the ROI. Will these agent interactions generate value? If not, who cares which tech stack we use. Build what makes money NOW.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 108.5,
+          "end": 108.9
+        },
+        {
+          "word": "what",
+          "start": 108.9,
+          "end": 109.2
+        },
+        {
+          "word": "makes",
+          "start": 109.2,
+          "end": 109.5
+        },
+        {
+          "word": "money",
+          "start": 109.5,
+          "end": 109.8
+        },
+        {
+          "word": "now.",
+          "start": 109.8,
+          "end": 110.2
+        }
+      ]
+    },
+    {
+      "start": 110.2,
+      "end": 115.0,
+      "text": "What if we build the simple version first but design it with the blockchain integration in mind? We could showcase capabilities while laying groundwork for the future!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 110.2,
+          "end": 110.5
+        },
+        {
+          "word": "if",
+          "start": 110.5,
+          "end": 110.7
+        },
+        {
+          "word": "we",
+          "start": 110.7,
+          "end": 111.0
+        },
+        {
+          "word": "build",
+          "start": 111.0,
+          "end": 111.3
+        },
+        {
+          "word": "the",
+          "start": 111.3,
+          "end": 111.5
+        },
+        {
+          "word": "simple",
+          "start": 111.5,
+          "end": 112.0
+        },
+        {
+          "word": "version",
+          "start": 112.0,
+          "end": 112.5
+        },
+        {
+          "word": "first,",
+          "start": 112.5,
+          "end": 112.9
+        },
+        {
+          "word": "but",
+          "start": 112.9,
+          "end": 113.1
+        },
+        {
+          "word": "design",
+          "start": 113.1,
+          "end": 113.5
+        },
+        {
+          "word": "it",
+          "start": 113.5,
+          "end": 113.7
+        },
+        {
+          "word": "with",
+          "start": 113.7,
+          "end": 113.9
+        },
+        {
+          "word": "the",
+          "start": 113.9,
+          "end": 114.1
+        },
+        {
+          "word": "blockchain",
+          "start": 114.1,
+          "end": 114.6
+        },
+        {
+          "word": "integration",
+          "start": 114.6,
+          "end": 115.3
+        },
+        {
+          "word": "in",
+          "start": 115.3,
+          "end": 115.5
+        },
+        {
+          "word": "mind?",
+          "start": 115.5,
+          "end": 115.9
+        }
+      ]
+    },
+    {
+      "start": 116.0,
+      "end": 119.5,
+      "text": "What if we build the simple version first but design it with the blockchain integration in mind? We could showcase capabilities while laying groundwork for the future!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 116.0,
+          "end": 116.3
+        },
+        {
+          "word": "could",
+          "start": 116.3,
+          "end": 116.6
+        },
+        {
+          "word": "showcase",
+          "start": 116.6,
+          "end": 117.2
+        },
+        {
+          "word": "capabilities",
+          "start": 117.2,
+          "end": 117.9
+        },
+        {
+          "word": "while",
+          "start": 117.9,
+          "end": 118.2
+        },
+        {
+          "word": "laying",
+          "start": 118.2,
+          "end": 118.6
+        },
+        {
+          "word": "groundwork",
+          "start": 118.6,
+          "end": 119.2
+        },
+        {
+          "word": "for",
+          "start": 119.2,
+          "end": 119.4
+        },
+        {
+          "word": "the",
+          "start": 119.4,
+          "end": 119.5
+        },
+        {
+          "word": "future.",
+          "start": 119.5,
+          "end": 119.9
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-25_JedAI-Council_The-Migration-Conundrum.json",
+    "session_log_source": "2025-10-25_JedAI-Council_The-Migration-Conundrum_session-log.json",
+    "total_segments": 23,
+    "matched_segments": 23,
+    "dialogues_in_script": 17
+  }
+}

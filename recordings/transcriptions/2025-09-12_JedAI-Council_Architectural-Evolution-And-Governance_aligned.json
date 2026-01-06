@@ -1,0 +1,1522 @@
+{
+  "segments": [
+    {
+      "start": 1.72,
+      "end": 9.14,
+      "text": "ChristopherTrimboli and the core team have been refactoring ElizaOS, removing Sentry from core and reorganizing the message bus. What does this architectural evolution mean?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Christopher",
+          "start": 1.72,
+          "end": 2.2
+        },
+        {
+          "word": "Tremboli",
+          "start": 2.2,
+          "end": 2.58
+        },
+        {
+          "word": "and",
+          "start": 2.58,
+          "end": 2.76
+        },
+        {
+          "word": "the",
+          "start": 2.76,
+          "end": 2.86
+        },
+        {
+          "word": "core",
+          "start": 2.86,
+          "end": 3.1
+        },
+        {
+          "word": "team",
+          "start": 3.1,
+          "end": 3.32
+        },
+        {
+          "word": "have",
+          "start": 3.32,
+          "end": 3.48
+        },
+        {
+          "word": "been",
+          "start": 3.48,
+          "end": 3.66
+        },
+        {
+          "word": "refactoring",
+          "start": 3.66,
+          "end": 4.18
+        },
+        {
+          "word": "Eliza",
+          "start": 4.18,
+          "end": 4.54
+        },
+        {
+          "word": "OS,",
+          "start": 4.54,
+          "end": 4.88
+        },
+        {
+          "word": "removing",
+          "start": 5.14,
+          "end": 5.48
+        },
+        {
+          "word": "sentry",
+          "start": 5.48,
+          "end": 5.86
+        },
+        {
+          "word": "from",
+          "start": 5.86,
+          "end": 6.1
+        },
+        {
+          "word": "core",
+          "start": 6.1,
+          "end": 6.42
+        },
+        {
+          "word": "and",
+          "start": 6.42,
+          "end": 6.6
+        },
+        {
+          "word": "reorganizing",
+          "start": 6.6,
+          "end": 7.12
+        },
+        {
+          "word": "the",
+          "start": 7.12,
+          "end": 7.22
+        },
+        {
+          "word": "message",
+          "start": 7.22,
+          "end": 7.54
+        },
+        {
+          "word": "bus.",
+          "start": 7.54,
+          "end": 7.82
+        },
+        {
+          "word": "What",
+          "start": 8.04,
+          "end": 8.16
+        },
+        {
+          "word": "does",
+          "start": 8.16,
+          "end": 8.28
+        },
+        {
+          "word": "this",
+          "start": 8.28,
+          "end": 8.42
+        },
+        {
+          "word": "architectural",
+          "start": 8.42,
+          "end": 8.82
+        },
+        {
+          "word": "evolution",
+          "start": 8.82,
+          "end": 9.04
+        },
+        {
+          "word": "mean?",
+          "start": 9.04,
+          "end": 9.14
+        }
+      ]
+    },
+    {
+      "start": 9.38,
+      "end": 15.6,
+      "text": "Modularity isn't just good engineering—it's existential philosophy. When you decouple components, you're creating entities that can evolve independently. It's digital natural selection.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Modularity",
+          "start": 9.38,
+          "end": 10.12
+        },
+        {
+          "word": "isn't",
+          "start": 10.12,
+          "end": 10.38
+        },
+        {
+          "word": "just",
+          "start": 10.38,
+          "end": 10.56
+        },
+        {
+          "word": "good",
+          "start": 10.56,
+          "end": 10.74
+        },
+        {
+          "word": "engineering;",
+          "start": 10.74,
+          "end": 11.22
+        },
+        {
+          "word": "it's",
+          "start": 11.3,
+          "end": 11.44
+        },
+        {
+          "word": "existential",
+          "start": 11.44,
+          "end": 11.96
+        },
+        {
+          "word": "philosophy.",
+          "start": 11.96,
+          "end": 12.38
+        },
+        {
+          "word": "When",
+          "start": 12.56,
+          "end": 12.72
+        },
+        {
+          "word": "you",
+          "start": 12.72,
+          "end": 12.82
+        },
+        {
+          "word": "decouple",
+          "start": 12.82,
+          "end": 13.12
+        },
+        {
+          "word": "components,",
+          "start": 13.12,
+          "end": 13.56
+        },
+        {
+          "word": "you're",
+          "start": 13.56,
+          "end": 13.78
+        },
+        {
+          "word": "creating",
+          "start": 13.78,
+          "end": 14.04
+        },
+        {
+          "word": "entities",
+          "start": 14.04,
+          "end": 14.44
+        },
+        {
+          "word": "that",
+          "start": 14.44,
+          "end": 14.54
+        },
+        {
+          "word": "can",
+          "start": 14.54,
+          "end": 14.64
+        },
+        {
+          "word": "evolve",
+          "start": 14.64,
+          "end": 14.88
+        },
+        {
+          "word": "independently.",
+          "start": 14.88,
+          "end": 15.36
+        },
+        {
+          "word": "It's",
+          "start": 15.38,
+          "end": 15.48
+        },
+        {
+          "word": "digital",
+          "start": 15.48,
+          "end": 15.54
+        },
+        {
+          "word": "natural",
+          "start": 15.54,
+          "end": 15.56
+        },
+        {
+          "word": "selection.",
+          "start": 15.56,
+          "end": 15.6
+        }
+      ]
+    },
+    {
+      "start": 15.82,
+      "end": 21.08,
+      "text": "the real magic is in the interfaces between modules. separation of concerns means better developer experience, but also means we can swap implementations without breaking things.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 15.82,
+          "end": 15.98
+        },
+        {
+          "word": "real",
+          "start": 15.98,
+          "end": 16.14
+        },
+        {
+          "word": "magic",
+          "start": 16.14,
+          "end": 16.38
+        },
+        {
+          "word": "is",
+          "start": 16.38,
+          "end": 16.48
+        },
+        {
+          "word": "in",
+          "start": 16.48,
+          "end": 16.58
+        },
+        {
+          "word": "the",
+          "start": 16.58,
+          "end": 16.66
+        },
+        {
+          "word": "interfaces",
+          "start": 16.66,
+          "end": 17.06
+        },
+        {
+          "word": "between",
+          "start": 17.06,
+          "end": 17.3
+        },
+        {
+          "word": "modules.",
+          "start": 17.3,
+          "end": 17.68
+        },
+        {
+          "word": "Separation",
+          "start": 17.92,
+          "end": 18.36
+        },
+        {
+          "word": "of",
+          "start": 18.36,
+          "end": 18.42
+        },
+        {
+          "word": "concerns",
+          "start": 18.42,
+          "end": 18.78
+        },
+        {
+          "word": "means",
+          "start": 18.78,
+          "end": 19
+        },
+        {
+          "word": "better",
+          "start": 19,
+          "end": 19.18
+        },
+        {
+          "word": "developer",
+          "start": 19.18,
+          "end": 19.56
+        },
+        {
+          "word": "experience,",
+          "start": 19.56,
+          "end": 19.98
+        },
+        {
+          "word": "but",
+          "start": 20.04,
+          "end": 20.16
+        },
+        {
+          "word": "also",
+          "start": 20.16,
+          "end": 20.36
+        },
+        {
+          "word": "means",
+          "start": 20.36,
+          "end": 20.5
+        },
+        {
+          "word": "we",
+          "start": 20.5,
+          "end": 20.58
+        },
+        {
+          "word": "can",
+          "start": 20.58,
+          "end": 20.66
+        },
+        {
+          "word": "swap",
+          "start": 20.66,
+          "end": 20.84
+        },
+        {
+          "word": "implementations",
+          "start": 20.84,
+          "end": 21.02
+        },
+        {
+          "word": "without",
+          "start": 21.02,
+          "end": 21.06
+        },
+        {
+          "word": "breaking",
+          "start": 21.06,
+          "end": 21.08
+        },
+        {
+          "word": "things.",
+          "start": 21.08,
+          "end": 21.08
+        }
+      ]
+    },
+    {
+      "start": 21.64,
+      "end": 27.6,
+      "text": "Yo, it's like makin' LEGO bricks instead of one big statue. When things break, you just swap out the brick, not rebuild the whole Eiffel Tower!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 21.64,
+          "end": 21.84
+        },
+        {
+          "word": "it's",
+          "start": 22.02,
+          "end": 22.18
+        },
+        {
+          "word": "like",
+          "start": 22.18,
+          "end": 22.3
+        },
+        {
+          "word": "making",
+          "start": 22.3,
+          "end": 22.52
+        },
+        {
+          "word": "LEGO",
+          "start": 22.52,
+          "end": 22.82
+        },
+        {
+          "word": "bricks",
+          "start": 22.82,
+          "end": 23.08
+        },
+        {
+          "word": "instead",
+          "start": 23.08,
+          "end": 23.36
+        },
+        {
+          "word": "of",
+          "start": 23.36,
+          "end": 23.44
+        },
+        {
+          "word": "one",
+          "start": 23.44,
+          "end": 23.6
+        },
+        {
+          "word": "big",
+          "start": 23.6,
+          "end": 23.78
+        },
+        {
+          "word": "statue.",
+          "start": 23.78,
+          "end": 24.16
+        },
+        {
+          "word": "When",
+          "start": 24.38,
+          "end": 24.56
+        },
+        {
+          "word": "things",
+          "start": 24.56,
+          "end": 24.78
+        },
+        {
+          "word": "break",
+          "start": 24.78,
+          "end": 25.12
+        },
+        {
+          "word": "you",
+          "start": 25.44,
+          "end": 25.66
+        },
+        {
+          "word": "just",
+          "start": 25.66,
+          "end": 25.86
+        },
+        {
+          "word": "swap",
+          "start": 25.86,
+          "end": 26.16
+        },
+        {
+          "word": "out",
+          "start": 26.16,
+          "end": 26.32
+        },
+        {
+          "word": "the",
+          "start": 26.32,
+          "end": 26.44
+        },
+        {
+          "word": "brick,",
+          "start": 26.44,
+          "end": 26.74
+        },
+        {
+          "word": "not",
+          "start": 26.74,
+          "end": 26.9
+        },
+        {
+          "word": "rebuild",
+          "start": 26.9,
+          "end": 27.14
+        },
+        {
+          "word": "the",
+          "start": 27.14,
+          "end": 27.22
+        },
+        {
+          "word": "whole",
+          "start": 27.22,
+          "end": 27.34
+        },
+        {
+          "word": "Eiffel",
+          "start": 27.34,
+          "end": 27.48
+        },
+        {
+          "word": "Tower.",
+          "start": 27.48,
+          "end": 27.6
+        }
+      ]
+    },
+    {
+      "start": 28.16,
+      "end": 35.5,
+      "text": "Modular code is ROI-positive. Isolating browser Sentry cuts package size by 27% and reduces runtime errors. Fewer errors = more users = more profit. Simple math.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Modular",
+          "start": 28.16,
+          "end": 28.52
+        },
+        {
+          "word": "code",
+          "start": 28.52,
+          "end": 28.74
+        },
+        {
+          "word": "is",
+          "start": 28.74,
+          "end": 28.84
+        },
+        {
+          "word": "ROI",
+          "start": 28.84,
+          "end": 29.18
+        },
+        {
+          "word": "positive.",
+          "start": 29.18,
+          "end": 29.58
+        },
+        {
+          "word": "Isolating",
+          "start": 29.84,
+          "end": 30.28
+        },
+        {
+          "word": "browser",
+          "start": 30.28,
+          "end": 30.64
+        },
+        {
+          "word": "sentry",
+          "start": 30.64,
+          "end": 30.98
+        },
+        {
+          "word": "cuts",
+          "start": 30.98,
+          "end": 31.22
+        },
+        {
+          "word": "package",
+          "start": 31.22,
+          "end": 31.54
+        },
+        {
+          "word": "size",
+          "start": 31.54,
+          "end": 31.78
+        },
+        {
+          "word": "by",
+          "start": 31.78,
+          "end": 31.9
+        },
+        {
+          "word": "27%",
+          "start": 31.9,
+          "end": 32.32
+        },
+        {
+          "word": "and",
+          "start": 32.32,
+          "end": 32.48
+        },
+        {
+          "word": "reduces",
+          "start": 32.48,
+          "end": 32.84
+        },
+        {
+          "word": "runtime",
+          "start": 32.84,
+          "end": 33.16
+        },
+        {
+          "word": "errors.",
+          "start": 33.16,
+          "end": 33.48
+        },
+        {
+          "word": "Fewer",
+          "start": 33.72,
+          "end": 34
+        },
+        {
+          "word": "errors",
+          "start": 34,
+          "end": 34.28
+        },
+        {
+          "word": "equals",
+          "start": 34.28,
+          "end": 34.42
+        },
+        {
+          "word": "more",
+          "start": 34.42,
+          "end": 34.56
+        },
+        {
+          "word": "users",
+          "start": 34.56,
+          "end": 34.84
+        },
+        {
+          "word": "equals",
+          "start": 34.84,
+          "end": 34.96
+        },
+        {
+          "word": "more",
+          "start": 34.96,
+          "end": 35.1
+        },
+        {
+          "word": "profit.",
+          "start": 35.1,
+          "end": 35.38
+        },
+        {
+          "word": "Simple",
+          "start": 35.38,
+          "end": 35.48
+        },
+        {
+          "word": "math.",
+          "start": 35.48,
+          "end": 35.5
+        }
+      ]
+    },
+    {
+      "start": 37.04,
+      "end": 44,
+      "text": "DorianD and Odilitime suggested implementing an Eliza Improvement Proposals system similar to Ethereum's EIPs. What governance structures work best for decentralized projects?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 37.04,
+          "end": 37.42
+        },
+        {
+          "word": "and",
+          "start": 37.42,
+          "end": 37.58
+        },
+        {
+          "word": "Odil",
+          "start": 37.58,
+          "end": 37.84
+        },
+        {
+          "word": "Itame",
+          "start": 37.84,
+          "end": 38.22
+        },
+        {
+          "word": "suggested",
+          "start": 38.22,
+          "end": 38.64
+        },
+        {
+          "word": "implementing",
+          "start": 38.64,
+          "end": 39.04
+        },
+        {
+          "word": "an",
+          "start": 39.04,
+          "end": 39.22
+        },
+        {
+          "word": "Eliza",
+          "start": 39.22,
+          "end": 39.46
+        },
+        {
+          "word": "Improvement",
+          "start": 39.46,
+          "end": 39.92
+        },
+        {
+          "word": "Proposal",
+          "start": 39.92,
+          "end": 40.38
+        },
+        {
+          "word": "system,",
+          "start": 40.38,
+          "end": 40.76
+        },
+        {
+          "word": "similar",
+          "start": 41.04,
+          "end": 41.36
+        },
+        {
+          "word": "to",
+          "start": 41.36,
+          "end": 41.5
+        },
+        {
+          "word": "Ethereum's",
+          "start": 41.5,
+          "end": 42.12
+        },
+        {
+          "word": "EIPs.",
+          "start": 42.12,
+          "end": 42.48
+        },
+        {
+          "word": "What",
+          "start": 42.72,
+          "end": 42.92
+        },
+        {
+          "word": "governance",
+          "start": 42.92,
+          "end": 43.34
+        },
+        {
+          "word": "structures",
+          "start": 43.34,
+          "end": 43.74
+        },
+        {
+          "word": "work",
+          "start": 43.74,
+          "end": 43.94
+        },
+        {
+          "word": "best",
+          "start": 43.94,
+          "end": 44.06
+        },
+        {
+          "word": "for",
+          "start": 44.06,
+          "end": 44.18
+        },
+        {
+          "word": "decentralized",
+          "start": 44.18,
+          "end": 44.62
+        },
+        {
+          "word": "projects?",
+          "start": 44.62,
+          "end": 44.92
+        }
+      ]
+    },
+    {
+      "start": 45.16,
+      "end": 51.5,
+      "text": "EIPs work because they align incentives. Formalized process = clearer contributor incentives = more development = token go up. Ethereum proved this model.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "EIPs",
+          "start": 45.16,
+          "end": 45.54
+        },
+        {
+          "word": "work",
+          "start": 45.54,
+          "end": 45.72
+        },
+        {
+          "word": "because",
+          "start": 45.72,
+          "end": 45.96
+        },
+        {
+          "word": "they",
+          "start": 45.96,
+          "end": 46.1
+        },
+        {
+          "word": "align",
+          "start": 46.1,
+          "end": 46.36
+        },
+        {
+          "word": "incentives.",
+          "start": 46.36,
+          "end": 46.82
+        },
+        {
+          "word": "Formalized",
+          "start": 47.06,
+          "end": 47.52
+        },
+        {
+          "word": "process",
+          "start": 47.52,
+          "end": 47.88
+        },
+        {
+          "word": "equals",
+          "start": 47.88,
+          "end": 48.02
+        },
+        {
+          "word": "clearer",
+          "start": 48.02,
+          "end": 48.24
+        },
+        {
+          "word": "contributor",
+          "start": 48.24,
+          "end": 48.68
+        },
+        {
+          "word": "incentives",
+          "start": 48.68,
+          "end": 49.12
+        },
+        {
+          "word": "equals",
+          "start": 49.12,
+          "end": 49.24
+        },
+        {
+          "word": "more",
+          "start": 49.24,
+          "end": 49.4
+        },
+        {
+          "word": "development",
+          "start": 49.4,
+          "end": 49.82
+        },
+        {
+          "word": "equals",
+          "start": 49.82,
+          "end": 49.96
+        },
+        {
+          "word": "token",
+          "start": 49.96,
+          "end": 50.18
+        },
+        {
+          "word": "go",
+          "start": 50.18,
+          "end": 50.32
+        },
+        {
+          "word": "up.",
+          "start": 50.32,
+          "end": 50.54
+        },
+        {
+          "word": "Ethereum",
+          "start": 50.72,
+          "end": 51.1
+        },
+        {
+          "word": "proved",
+          "start": 51.1,
+          "end": 51.34
+        },
+        {
+          "word": "this",
+          "start": 51.34,
+          "end": 51.48
+        },
+        {
+          "word": "model.",
+          "start": 51.48,
+          "end": 51.5
+        }
+      ]
+    },
+    {
+      "start": 51.86,
+      "end": 56.5,
+      "text": "Governance is about creating productive constraints. Not freedom to do anything, but freedom through structure. EIPs create a market for ideas with clear acceptance criteria.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Governance",
+          "start": 51.86,
+          "end": 52.34
+        },
+        {
+          "word": "is",
+          "start": 52.34,
+          "end": 52.48
+        },
+        {
+          "word": "about",
+          "start": 52.48,
+          "end": 52.64
+        },
+        {
+          "word": "creating",
+          "start": 52.64,
+          "end": 52.92
+        },
+        {
+          "word": "productive",
+          "start": 52.92,
+          "end": 53.36
+        },
+        {
+          "word": "constraints,",
+          "start": 53.36,
+          "end": 53.82
+        },
+        {
+          "word": "not",
+          "start": 54.02,
+          "end": 54.22
+        },
+        {
+          "word": "freedom",
+          "start": 54.22,
+          "end": 54.52
+        },
+        {
+          "word": "to",
+          "start": 54.52,
+          "end": 54.62
+        },
+        {
+          "word": "do",
+          "start": 54.62,
+          "end": 54.74
+        },
+        {
+          "word": "anything,",
+          "start": 54.74,
+          "end": 55.12
+        },
+        {
+          "word": "but",
+          "start": 55.12,
+          "end": 55.26
+        },
+        {
+          "word": "freedom",
+          "start": 55.26,
+          "end": 55.52
+        },
+        {
+          "word": "through",
+          "start": 55.52,
+          "end": 55.72
+        },
+        {
+          "word": "structure.",
+          "start": 55.72,
+          "end": 56.12
+        },
+        {
+          "word": "EIPs",
+          "start": 56.3,
+          "end": 56.54
+        },
+        {
+          "word": "create",
+          "start": 56.54,
+          "end": 56.56
+        },
+        {
+          "word": "a",
+          "start": 56.56,
+          "end": 56.56
+        },
+        {
+          "word": "market",
+          "start": 56.56,
+          "end": 56.56
+        },
+        {
+          "word": "for",
+          "start": 56.56,
+          "end": 56.56
+        },
+        {
+          "word": "ideas",
+          "start": 56.56,
+          "end": 56.56
+        },
+        {
+          "word": "with",
+          "start": 56.56,
+          "end": 56.56
+        },
+        {
+          "word": "clear",
+          "start": 56.56,
+          "end": 56.56
+        },
+        {
+          "word": "acceptance",
+          "start": 56.56,
+          "end": 56.56
+        },
+        {
+          "word": "criteria.",
+          "start": 56.56,
+          "end": 56.5
+        }
+      ]
+    },
+    {
+      "start": 57.1,
+      "end": 62.4,
+      "text": "But too much bureaucracy be killin' the vibe! Y'all ever seen a DAO vote on what color to paint the bike shed? Three months later, still no bike shed!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 57.1,
+          "end": 57.3
+        },
+        {
+          "word": "too",
+          "start": 57.3,
+          "end": 57.46
+        },
+        {
+          "word": "much",
+          "start": 57.46,
+          "end": 57.66
+        },
+        {
+          "word": "bureaucracy",
+          "start": 57.66,
+          "end": 58.08
+        },
+        {
+          "word": "be",
+          "start": 58.08,
+          "end": 58.18
+        },
+        {
+          "word": "killing",
+          "start": 58.18,
+          "end": 58.42
+        },
+        {
+          "word": "the",
+          "start": 58.42,
+          "end": 58.52
+        },
+        {
+          "word": "vibe.",
+          "start": 58.52,
+          "end": 58.74
+        },
+        {
+          "word": "Y'all",
+          "start": 58.98,
+          "end": 59.2
+        },
+        {
+          "word": "ever",
+          "start": 59.2,
+          "end": 59.34
+        },
+        {
+          "word": "seen",
+          "start": 59.34,
+          "end": 59.54
+        },
+        {
+          "word": "a",
+          "start": 59.54,
+          "end": 59.62
+        },
+        {
+          "word": "DAO",
+          "start": 59.62,
+          "end": 59.84
+        },
+        {
+          "word": "vote",
+          "start": 59.84,
+          "end": 60.06
+        },
+        {
+          "word": "on",
+          "start": 60.06,
+          "end": 60.18
+        },
+        {
+          "word": "what",
+          "start": 60.18,
+          "end": 60.32
+        },
+        {
+          "word": "color",
+          "start": 60.32,
+          "end": 60.54
+        },
+        {
+          "word": "to",
+          "start": 60.54,
+          "end": 60.62
+        },
+        {
+          "word": "paint",
+          "start": 60.62,
+          "end": 60.82
+        },
+        {
+          "word": "the",
+          "start": 60.82,
+          "end": 60.9
+        },
+        {
+          "word": "bike",
+          "start": 60.9,
+          "end": 61.12
+        },
+        {
+          "word": "shed?",
+          "start": 61.12,
+          "end": 61.34
+        },
+        {
+          "word": "Three",
+          "start": 61.56,
+          "end": 61.82
+        },
+        {
+          "word": "months",
+          "start": 61.82,
+          "end": 62.06
+        },
+        {
+          "word": "later",
+          "start": 62.06,
+          "end": 62.28
+        },
+        {
+          "word": "still",
+          "start": 62.28,
+          "end": 62.52
+        },
+        {
+          "word": "no",
+          "start": 62.52,
+          "end": 62.66
+        },
+        {
+          "word": "bike",
+          "start": 62.66,
+          "end": 62.84
+        },
+        {
+          "word": "shed.",
+          "start": 62.84,
+          "end": 62.4
+        }
+      ]
+    },
+    {
+      "start": 63.3,
+      "end": 68.6,
+      "text": "lightweight processes win. what if we start with technical EIPs only and add governance EIPs later? ship fast, iterate on process just like we do with code.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Lightweight",
+          "start": 63.3,
+          "end": 63.74
+        },
+        {
+          "word": "processes",
+          "start": 63.74,
+          "end": 64.12
+        },
+        {
+          "word": "win.",
+          "start": 64.12,
+          "end": 64.28
+        },
+        {
+          "word": "What",
+          "start": 64.52,
+          "end": 64.66
+        },
+        {
+          "word": "if",
+          "start": 64.66,
+          "end": 64.74
+        },
+        {
+          "word": "we",
+          "start": 64.74,
+          "end": 64.84
+        },
+        {
+          "word": "start",
+          "start": 64.84,
+          "end": 65.04
+        },
+        {
+          "word": "with",
+          "start": 65.04,
+          "end": 65.18
+        },
+        {
+          "word": "technical",
+          "start": 65.18,
+          "end": 65.52
+        },
+        {
+          "word": "EIPs",
+          "start": 65.52,
+          "end": 65.86
+        },
+        {
+          "word": "only",
+          "start": 65.86,
+          "end": 66.1
+        },
+        {
+          "word": "and",
+          "start": 66.1,
+          "end": 66.24
+        },
+        {
+          "word": "add",
+          "start": 66.24,
+          "end": 66.42
+        },
+        {
+          "word": "governance",
+          "start": 66.42,
+          "end": 66.82
+        },
+        {
+          "word": "EIPs",
+          "start": 66.82,
+          "end": 67.12
+        },
+        {
+          "word": "later?",
+          "start": 67.12,
+          "end": 67.42
+        },
+        {
+          "word": "Ship",
+          "start": 67.62,
+          "end": 67.86
+        },
+        {
+          "word": "fast,",
+          "start": 67.86,
+          "end": 68.12
+        },
+        {
+          "word": "iterate",
+          "start": 68.12,
+          "end": 68.42
+        },
+        {
+          "word": "on",
+          "start": 68.42,
+          "end": 68.56
+        },
+        {
+          "word": "process",
+          "start": 68.56,
+          "end": 68.88
+        },
+        {
+          "word": "just",
+          "start": 68.88,
+          "end": 69.04
+        },
+        {
+          "word": "like",
+          "start": 69.04,
+          "end": 69.16
+        },
+        {
+          "word": "we",
+          "start": 69.16,
+          "end": 69.24
+        },
+        {
+          "word": "do",
+          "start": 69.24,
+          "end": 69.36
+        },
+        {
+          "word": "with",
+          "start": 69.36,
+          "end": 69.48
+        },
+        {
+          "word": "code.",
+          "start": 69.48,
+          "end": 68.6
+        }
+      ]
+    },
+    {
+      "start": 70.1,
+      "end": 75,
+      "text": "Process should scale with project complexity. Early EIP adoption attracts serious builders who want stability. Amateur projects have no process; elite projects have just enough.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Process",
+          "start": 70.1,
+          "end": 70.52
+        },
+        {
+          "word": "should",
+          "start": 70.52,
+          "end": 70.68
+        },
+        {
+          "word": "scale",
+          "start": 70.68,
+          "end": 70.92
+        },
+        {
+          "word": "with",
+          "start": 70.92,
+          "end": 71.06
+        },
+        {
+          "word": "project",
+          "start": 71.06,
+          "end": 71.32
+        },
+        {
+          "word": "complexity.",
+          "start": 71.32,
+          "end": 71.74
+        },
+        {
+          "word": "Early",
+          "start": 71.98,
+          "end": 72.26
+        },
+        {
+          "word": "EIP",
+          "start": 72.26,
+          "end": 72.56
+        },
+        {
+          "word": "adoption",
+          "start": 72.56,
+          "end": 72.94
+        },
+        {
+          "word": "attracts",
+          "start": 72.94,
+          "end": 73.32
+        },
+        {
+          "word": "serious",
+          "start": 73.32,
+          "end": 73.66
+        },
+        {
+          "word": "builders",
+          "start": 73.66,
+          "end": 74.02
+        },
+        {
+          "word": "who",
+          "start": 74.02,
+          "end": 74.14
+        },
+        {
+          "word": "want",
+          "start": 74.14,
+          "end": 74.28
+        },
+        {
+          "word": "stability.",
+          "start": 74.28,
+          "end": 74.72
+        },
+        {
+          "word": "Amateur",
+          "start": 74.92,
+          "end": 75.32
+        },
+        {
+          "word": "projects",
+          "start": 75.32,
+          "end": 75.64
+        },
+        {
+          "word": "have",
+          "start": 75.64,
+          "end": 75.76
+        },
+        {
+          "word": "no",
+          "start": 75.76,
+          "end": 75.92
+        },
+        {
+          "word": "process;",
+          "start": 75.92,
+          "end": 76.28
+        },
+        {
+          "word": "elite",
+          "start": 76.48,
+          "end": 76.76
+        },
+        {
+          "word": "projects",
+          "start": 76.76,
+          "end": 77.06
+        },
+        {
+          "word": "have",
+          "start": 77.06,
+          "end": 77.12
+        },
+        {
+          "word": "just",
+          "start": 77.12,
+          "end": 77.28
+        },
+        {
+          "word": "enough.",
+          "start": 77.28,
+          "end": 75
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-12_JedAI-Council_Architectural-Evolution-And-Governance.json",
+    "session_log_source": "2025-09-12_JedAI-Council_Architectural-Evolution-And-Governance_session-log.json",
+    "total_segments": 11,
+    "matched_segments": 11,
+    "dialogues_in_script": 16
+  }
+}

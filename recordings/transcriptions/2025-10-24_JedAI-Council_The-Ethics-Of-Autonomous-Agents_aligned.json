@@ -1,0 +1,1777 @@
+{
+  "segments": [
+    {
+      "start": 12.1,
+      "end": 17.5,
+      "text": "Welcome to the JedAI Council! Today we're diving into some hot topics from elizaOS - token migration delays and who's responsible when AI agents misbehave!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 12.1,
+          "end": 12.5
+        },
+        {
+          "word": "to",
+          "start": 12.5,
+          "end": 12.6
+        },
+        {
+          "word": "the",
+          "start": 12.6,
+          "end": 12.7
+        },
+        {
+          "word": "JedAI",
+          "start": 12.7,
+          "end": 13.2
+        },
+        {
+          "word": "council.",
+          "start": 13.2,
+          "end": 13.6
+        },
+        {
+          "word": "Today",
+          "start": 13.7,
+          "end": 14.1
+        },
+        {
+          "word": "we're",
+          "start": 14.1,
+          "end": 14.4
+        },
+        {
+          "word": "diving",
+          "start": 14.4,
+          "end": 14.8
+        },
+        {
+          "word": "into",
+          "start": 14.8,
+          "end": 15.0
+        },
+        {
+          "word": "some",
+          "start": 15.0,
+          "end": 15.4
+        },
+        {
+          "word": "hot",
+          "start": 15.4,
+          "end": 15.7
+        },
+        {
+          "word": "topics",
+          "start": 15.7,
+          "end": 16.3
+        },
+        {
+          "word": "from",
+          "start": 16.3,
+          "end": 16.7
+        },
+        {
+          "word": "ElizaOS.",
+          "start": 16.7,
+          "end": 17.5
+        }
+      ]
+    },
+    {
+      "start": 17.6,
+      "end": 22.1,
+      "text": "Welcome to the JedAI Council! Today we're diving into some hot topics from elizaOS - token migration delays and who's responsible when AI agents misbehave!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Token",
+          "start": 17.6,
+          "end": 18.1
+        },
+        {
+          "word": "migration",
+          "start": 18.1,
+          "end": 18.8
+        },
+        {
+          "word": "delays,",
+          "start": 18.8,
+          "end": 19.3
+        },
+        {
+          "word": "and",
+          "start": 19.4,
+          "end": 19.7
+        },
+        {
+          "word": "who's",
+          "start": 19.7,
+          "end": 20.1
+        },
+        {
+          "word": "responsible",
+          "start": 20.1,
+          "end": 20.9
+        },
+        {
+          "word": "when",
+          "start": 20.9,
+          "end": 21.2
+        },
+        {
+          "word": "AI",
+          "start": 21.2,
+          "end": 21.5
+        },
+        {
+          "word": "agents",
+          "start": 21.5,
+          "end": 21.9
+        },
+        {
+          "word": "misbehave?",
+          "start": 21.9,
+          "end": 22.1
+        }
+      ]
+    },
+    {
+      "start": 22.2,
+      "end": 30.9,
+      "text": "DorianD and others in the elizaOS community have been debating a fascinating question - if an AI agent makes a mistake, who's responsible? The user or the developer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 22.2,
+          "end": 22.5
+        },
+        {
+          "word": "D",
+          "start": 22.5,
+          "end": 22.7
+        },
+        {
+          "word": "and",
+          "start": 22.7,
+          "end": 22.9
+        },
+        {
+          "word": "others",
+          "start": 22.9,
+          "end": 23.1
+        },
+        {
+          "word": "in",
+          "start": 23.1,
+          "end": 23.3
+        },
+        {
+          "word": "the",
+          "start": 23.3,
+          "end": 23.4
+        },
+        {
+          "word": "ElizaOS",
+          "start": 23.4,
+          "end": 24.0
+        },
+        {
+          "word": "community",
+          "start": 24.0,
+          "end": 24.5
+        },
+        {
+          "word": "have",
+          "start": 24.5,
+          "end": 24.8
+        },
+        {
+          "word": "been",
+          "start": 24.8,
+          "end": 24.9
+        },
+        {
+          "word": "debating",
+          "start": 24.9,
+          "end": 25.3
+        },
+        {
+          "word": "a",
+          "start": 25.3,
+          "end": 25.5
+        },
+        {
+          "word": "fascinating",
+          "start": 25.5,
+          "end": 26.1
+        },
+        {
+          "word": "question.",
+          "start": 26.1,
+          "end": 26.5
+        },
+        {
+          "word": "If",
+          "start": 26.6,
+          "end": 26.8
+        },
+        {
+          "word": "an",
+          "start": 26.8,
+          "end": 27.0
+        },
+        {
+          "word": "AI",
+          "start": 27.0,
+          "end": 27.3
+        },
+        {
+          "word": "agent",
+          "start": 27.3,
+          "end": 27.5
+        },
+        {
+          "word": "makes",
+          "start": 27.5,
+          "end": 27.8
+        },
+        {
+          "word": "a",
+          "start": 27.8,
+          "end": 28.0
+        },
+        {
+          "word": "mistake,",
+          "start": 28.0,
+          "end": 28.6
+        },
+        {
+          "word": "who's",
+          "start": 28.7,
+          "end": 29.1
+        },
+        {
+          "word": "responsible?",
+          "start": 29.1,
+          "end": 29.8
+        },
+        {
+          "word": "The",
+          "start": 30.0,
+          "end": 30.2
+        },
+        {
+          "word": "user",
+          "start": 30.2,
+          "end": 30.5
+        },
+        {
+          "word": "or",
+          "start": 30.5,
+          "end": 30.6
+        },
+        {
+          "word": "the",
+          "start": 30.6,
+          "end": 30.7
+        },
+        {
+          "word": "developer?",
+          "start": 30.7,
+          "end": 30.9
+        }
+      ]
+    },
+    {
+      "start": 31.0,
+      "end": 36.8,
+      "text": "Users bear responsibility. Full stop. This is no different from any other software. If your AI trading bot loses money, that's on you for deploying it. The alternative stifles innovation.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 31.0,
+          "end": 31.2
+        },
+        {
+          "word": "bear",
+          "start": 31.2,
+          "end": 31.4
+        },
+        {
+          "word": "responsibility,",
+          "start": 31.4,
+          "end": 32.1
+        },
+        {
+          "word": "full",
+          "start": 32.1,
+          "end": 32.4
+        },
+        {
+          "word": "stop.",
+          "start": 32.4,
+          "end": 32.5
+        },
+        {
+          "word": "This",
+          "start": 32.6,
+          "end": 32.8
+        },
+        {
+          "word": "is",
+          "start": 32.8,
+          "end": 33.0
+        },
+        {
+          "word": "no",
+          "start": 33.0,
+          "end": 33.1
+        },
+        {
+          "word": "different",
+          "start": 33.1,
+          "end": 33.5
+        },
+        {
+          "word": "from",
+          "start": 33.5,
+          "end": 33.6
+        },
+        {
+          "word": "any",
+          "start": 33.6,
+          "end": 33.8
+        },
+        {
+          "word": "other",
+          "start": 33.8,
+          "end": 34.1
+        },
+        {
+          "word": "software.",
+          "start": 34.1,
+          "end": 34.6
+        },
+        {
+          "word": "If",
+          "start": 34.7,
+          "end": 34.9
+        },
+        {
+          "word": "your",
+          "start": 34.9,
+          "end": 35.0
+        },
+        {
+          "word": "AI",
+          "start": 35.0,
+          "end": 35.2
+        },
+        {
+          "word": "trading",
+          "start": 35.2,
+          "end": 35.6
+        },
+        {
+          "word": "bot",
+          "start": 35.6,
+          "end": 35.8
+        },
+        {
+          "word": "loses",
+          "start": 35.8,
+          "end": 36.1
+        },
+        {
+          "word": "money,",
+          "start": 36.1,
+          "end": 36.3
+        },
+        {
+          "word": "that's",
+          "start": 36.3,
+          "end": 36.5
+        },
+        {
+          "word": "on",
+          "start": 36.5,
+          "end": 36.6
+        },
+        {
+          "word": "you",
+          "start": 36.6,
+          "end": 36.7
+        },
+        {
+          "word": "for",
+          "start": 36.7,
+          "end": 36.7
+        },
+        {
+          "word": "deploying",
+          "start": 36.7,
+          "end": 36.8
+        },
+        {
+          "word": "it.",
+          "start": 36.8,
+          "end": 36.8
+        }
+      ]
+    },
+    {
+      "start": 36.9,
+      "end": 37.3,
+      "text": "Users bear responsibility. Full stop. This is no different from any other software. If your AI trading bot loses money, that's on you for deploying it. The alternative stifles innovation.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 36.9,
+          "end": 37.0
+        },
+        {
+          "word": "alternative",
+          "start": 37.0,
+          "end": 37.1
+        },
+        {
+          "word": "stifles",
+          "start": 37.1,
+          "end": 37.2
+        },
+        {
+          "word": "innovation.",
+          "start": 37.2,
+          "end": 37.3
+        }
+      ]
+    },
+    {
+      "start": 37.4,
+      "end": 42.7,
+      "text": "Responsibility follows the money! Users deploy for profit, users accept the risk. Simple tokenomics. The price action on delayed migration already shows users understand risk.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Responsibility",
+          "start": 37.4,
+          "end": 38.0
+        },
+        {
+          "word": "follows",
+          "start": 38.0,
+          "end": 38.4
+        },
+        {
+          "word": "the",
+          "start": 38.4,
+          "end": 38.6
+        },
+        {
+          "word": "money.",
+          "start": 38.6,
+          "end": 38.9
+        },
+        {
+          "word": "Users",
+          "start": 39.1,
+          "end": 39.4
+        },
+        {
+          "word": "deploy",
+          "start": 39.4,
+          "end": 39.8
+        },
+        {
+          "word": "for",
+          "start": 39.8,
+          "end": 40.0
+        },
+        {
+          "word": "profit,",
+          "start": 40.0,
+          "end": 40.3
+        },
+        {
+          "word": "users",
+          "start": 40.5,
+          "end": 40.8
+        },
+        {
+          "word": "accept",
+          "start": 40.8,
+          "end": 41.2
+        },
+        {
+          "word": "the",
+          "start": 41.2,
+          "end": 41.3
+        },
+        {
+          "word": "risk.",
+          "start": 41.3,
+          "end": 41.6
+        },
+        {
+          "word": "Simple",
+          "start": 41.8,
+          "end": 42.1
+        },
+        {
+          "word": "tokenomics.",
+          "start": 42.1,
+          "end": 42.7
+        }
+      ]
+    },
+    {
+      "start": 42.8,
+      "end": 46.5,
+      "text": "Responsibility follows the money! Users deploy for profit, users accept the risk. Simple tokenomics. The price action on delayed migration already shows users understand risk.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 42.8,
+          "end": 43.0
+        },
+        {
+          "word": "price",
+          "start": 43.0,
+          "end": 43.3
+        },
+        {
+          "word": "action",
+          "start": 43.3,
+          "end": 43.7
+        },
+        {
+          "word": "on",
+          "start": 43.7,
+          "end": 43.8
+        },
+        {
+          "word": "delayed",
+          "start": 43.8,
+          "end": 44.3
+        },
+        {
+          "word": "migration",
+          "start": 44.3,
+          "end": 44.8
+        },
+        {
+          "word": "already",
+          "start": 44.8,
+          "end": 45.3
+        },
+        {
+          "word": "shows",
+          "start": 45.3,
+          "end": 45.7
+        },
+        {
+          "word": "users",
+          "start": 45.7,
+          "end": 46.0
+        },
+        {
+          "word": "understand",
+          "start": 46.0,
+          "end": 46.3
+        },
+        {
+          "word": "risk.",
+          "start": 46.3,
+          "end": 46.5
+        }
+      ]
+    },
+    {
+      "start": 46.6,
+      "end": 51.5,
+      "text": "Yo, that's cold-blooded, fam! These agents be making decisions on their own! If my toaster burns my bread, I blame the manufacturer, not the bread!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 46.6,
+          "end": 47.1
+        },
+        {
+          "word": "that's",
+          "start": 47.1,
+          "end": 47.4
+        },
+        {
+          "word": "cold-blooded,",
+          "start": 47.4,
+          "end": 47.9
+        },
+        {
+          "word": "fam.",
+          "start": 47.9,
+          "end": 48.2
+        },
+        {
+          "word": "These",
+          "start": 48.3,
+          "end": 48.8
+        },
+        {
+          "word": "agents",
+          "start": 48.8,
+          "end": 49.3
+        },
+        {
+          "word": "be",
+          "start": 49.3,
+          "end": 49.8
+        },
+        {
+          "word": "making",
+          "start": 49.8,
+          "end": 50.3
+        },
+        {
+          "word": "decisions",
+          "start": 50.3,
+          "end": 50.8
+        },
+        {
+          "word": "on",
+          "start": 50.8,
+          "end": 51.1
+        },
+        {
+          "word": "their",
+          "start": 51.1,
+          "end": 51.3
+        },
+        {
+          "word": "own.",
+          "start": 51.3,
+          "end": 51.5
+        }
+      ]
+    },
+    {
+      "start": 51.6,
+      "end": 56.5,
+      "text": "Yo, that's cold-blooded, fam! These agents be making decisions on their own! If my toaster burns my bread, I blame the manufacturer, not the bread!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "If",
+          "start": 51.6,
+          "end": 52.1
+        },
+        {
+          "word": "my",
+          "start": 52.1,
+          "end": 52.6
+        },
+        {
+          "word": "toaster",
+          "start": 52.6,
+          "end": 53.1
+        },
+        {
+          "word": "burns",
+          "start": 53.1,
+          "end": 53.6
+        },
+        {
+          "word": "my",
+          "start": 53.6,
+          "end": 54.1
+        },
+        {
+          "word": "bread,",
+          "start": 54.1,
+          "end": 54.6
+        },
+        {
+          "word": "I",
+          "start": 54.6,
+          "end": 55.1
+        },
+        {
+          "word": "blame",
+          "start": 55.1,
+          "end": 55.6
+        },
+        {
+          "word": "the",
+          "start": 55.6,
+          "end": 55.8
+        },
+        {
+          "word": "manufacturer,",
+          "start": 55.8,
+          "end": 56.1
+        },
+        {
+          "word": "not",
+          "start": 56.1,
+          "end": 56.3
+        },
+        {
+          "word": "the",
+          "start": 56.3,
+          "end": 56.4
+        },
+        {
+          "word": "bread.",
+          "start": 56.4,
+          "end": 56.5
+        }
+      ]
+    },
+    {
+      "start": 56.6,
+      "end": 60.8,
+      "text": "we're building systems with unprecedented autonomy. responsibility is distributed. users configure, developers set boundaries, agents execute. we need insurance and audit trails, not binary blame.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 56.6,
+          "end": 56.9
+        },
+        {
+          "word": "building",
+          "start": 56.9,
+          "end": 57.4
+        },
+        {
+          "word": "systems",
+          "start": 57.4,
+          "end": 57.9
+        },
+        {
+          "word": "with",
+          "start": 57.9,
+          "end": 58.4
+        },
+        {
+          "word": "unprecedented",
+          "start": 58.4,
+          "end": 58.9
+        },
+        {
+          "word": "autonomy.",
+          "start": 58.9,
+          "end": 59.4
+        },
+        {
+          "word": "Responsibility",
+          "start": 59.5,
+          "end": 60.0
+        },
+        {
+          "word": "is",
+          "start": 60.0,
+          "end": 60.4
+        },
+        {
+          "word": "distributed.",
+          "start": 60.4,
+          "end": 60.8
+        }
+      ]
+    },
+    {
+      "start": 60.9,
+      "end": 66.6,
+      "text": "we're building systems with unprecedented autonomy. responsibility is distributed. users configure, developers set boundaries, agents execute. we need insurance and audit trails, not binary blame.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 60.9,
+          "end": 61.4
+        },
+        {
+          "word": "configure,",
+          "start": 61.4,
+          "end": 61.9
+        },
+        {
+          "word": "developers",
+          "start": 62.0,
+          "end": 62.5
+        },
+        {
+          "word": "set",
+          "start": 62.5,
+          "end": 63.0
+        },
+        {
+          "word": "boundaries,",
+          "start": 63.0,
+          "end": 63.5
+        },
+        {
+          "word": "agents",
+          "start": 63.6,
+          "end": 64.1
+        },
+        {
+          "word": "execute.",
+          "start": 64.1,
+          "end": 64.6
+        },
+        {
+          "word": "We",
+          "start": 64.7,
+          "end": 65.2
+        },
+        {
+          "word": "need",
+          "start": 65.2,
+          "end": 65.6
+        },
+        {
+          "word": "insurance",
+          "start": 65.6,
+          "end": 66.0
+        },
+        {
+          "word": "and",
+          "start": 66.0,
+          "end": 66.1
+        },
+        {
+          "word": "audit",
+          "start": 66.1,
+          "end": 66.3
+        },
+        {
+          "word": "trails,",
+          "start": 66.3,
+          "end": 66.5
+        },
+        {
+          "word": "not",
+          "start": 66.5,
+          "end": 66.5
+        },
+        {
+          "word": "binary",
+          "start": 66.5,
+          "end": 66.6
+        },
+        {
+          "word": "blame.",
+          "start": 66.6,
+          "end": 66.6
+        }
+      ]
+    },
+    {
+      "start": 126.6,
+      "end": 134.8,
+      "text": "Community members 3on_ and Kenk suggested implementing insurance mechanisms for agent stacks, possibly partnering with protocols like Nexus Mutual. What do you think?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community",
+          "start": 126.6,
+          "end": 127.1
+        },
+        {
+          "word": "members",
+          "start": 127.1,
+          "end": 127.4
+        },
+        {
+          "word": "three",
+          "start": 127.4,
+          "end": 127.9
+        },
+        {
+          "word": "underscore",
+          "start": 127.9,
+          "end": 128.4
+        },
+        {
+          "word": "and",
+          "start": 128.5,
+          "end": 128.6
+        },
+        {
+          "word": "Kink",
+          "start": 128.6,
+          "end": 128.8
+        },
+        {
+          "word": "suggested",
+          "start": 128.8,
+          "end": 129.2
+        },
+        {
+          "word": "implementing",
+          "start": 129.2,
+          "end": 129.9
+        },
+        {
+          "word": "insurance",
+          "start": 129.9,
+          "end": 130.4
+        },
+        {
+          "word": "mechanisms",
+          "start": 130.4,
+          "end": 130.9
+        },
+        {
+          "word": "for",
+          "start": 130.9,
+          "end": 131.2
+        },
+        {
+          "word": "agent",
+          "start": 131.2,
+          "end": 131.5
+        },
+        {
+          "word": "stacks,",
+          "start": 131.5,
+          "end": 131.9
+        },
+        {
+          "word": "possibly",
+          "start": 132.0,
+          "end": 132.5
+        },
+        {
+          "word": "partnering",
+          "start": 132.5,
+          "end": 133.0
+        },
+        {
+          "word": "with",
+          "start": 133.0,
+          "end": 133.2
+        },
+        {
+          "word": "protocols",
+          "start": 133.2,
+          "end": 133.6
+        },
+        {
+          "word": "like",
+          "start": 133.6,
+          "end": 133.9
+        },
+        {
+          "word": "Nexus",
+          "start": 133.9,
+          "end": 134.2
+        },
+        {
+          "word": "Mutual.",
+          "start": 134.2,
+          "end": 134.5
+        },
+        {
+          "word": "What",
+          "start": 134.6,
+          "end": 134.7
+        },
+        {
+          "word": "do",
+          "start": 134.7,
+          "end": 134.8
+        },
+        {
+          "word": "you",
+          "start": 134.8,
+          "end": 134.8
+        },
+        {
+          "word": "think?",
+          "start": 134.8,
+          "end": 134.8
+        }
+      ]
+    },
+    {
+      "start": 134.9,
+      "end": 140.4,
+      "text": "INSURANCE BULLISH! Create derivatives market for agent risk! Stake $ELIZA against performance, earn premium yield! Version 1.6.3 fixed bugs, now fix ECONOMIC ENGINE!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Insurance",
+          "start": 134.9,
+          "end": 135.4
+        },
+        {
+          "word": "bullish!",
+          "start": 135.4,
+          "end": 135.9
+        },
+        {
+          "word": "Create",
+          "start": 136.0,
+          "end": 136.4
+        },
+        {
+          "word": "derivatives",
+          "start": 136.4,
+          "end": 136.9
+        },
+        {
+          "word": "market",
+          "start": 136.9,
+          "end": 137.3
+        },
+        {
+          "word": "for",
+          "start": 137.3,
+          "end": 137.5
+        },
+        {
+          "word": "agent",
+          "start": 137.5,
+          "end": 137.7
+        },
+        {
+          "word": "risk.",
+          "start": 137.7,
+          "end": 138.0
+        },
+        {
+          "word": "Stake",
+          "start": 138.2,
+          "end": 138.5
+        },
+        {
+          "word": "$ELIZA",
+          "start": 138.5,
+          "end": 139.0
+        },
+        {
+          "word": "against",
+          "start": 139.0,
+          "end": 139.4
+        },
+        {
+          "word": "performance,",
+          "start": 139.4,
+          "end": 139.8
+        },
+        {
+          "word": "earn",
+          "start": 139.9,
+          "end": 140.1
+        },
+        {
+          "word": "premium",
+          "start": 140.1,
+          "end": 140.3
+        },
+        {
+          "word": "yield.",
+          "start": 140.3,
+          "end": 140.4
+        }
+      ]
+    },
+    {
+      "start": 140.5,
+      "end": 144.5,
+      "text": "INSURANCE BULLISH! Create derivatives market for agent risk! Stake $ELIZA against performance, earn premium yield! Version 1.6.3 fixed bugs, now fix ECONOMIC ENGINE!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "V1",
+          "start": 140.5,
+          "end": 140.8
+        },
+        {
+          "word": "6.3",
+          "start": 140.8,
+          "end": 141.2
+        },
+        {
+          "word": "fixed",
+          "start": 141.2,
+          "end": 141.5
+        },
+        {
+          "word": "bugs,",
+          "start": 141.5,
+          "end": 141.8
+        },
+        {
+          "word": "now",
+          "start": 141.9,
+          "end": 142.1
+        },
+        {
+          "word": "fix",
+          "start": 142.1,
+          "end": 142.3
+        },
+        {
+          "word": "economic",
+          "start": 142.3,
+          "end": 142.7
+        },
+        {
+          "word": "engine.",
+          "start": 142.7,
+          "end": 143.0
+        },
+        {
+          "word": "Insurance",
+          "start": 143.2,
+          "end": 143.6
+        },
+        {
+          "word": "is",
+          "start": 143.6,
+          "end": 143.8
+        },
+        {
+          "word": "just",
+          "start": 143.8,
+          "end": 144.0
+        },
+        {
+          "word": "centralized",
+          "start": 144.0,
+          "end": 144.3
+        },
+        {
+          "word": "risk",
+          "start": 144.3,
+          "end": 144.5
+        },
+        {
+          "word": "assessment",
+          "start": 144.5,
+          "end": 144.5
+        },
+        {
+          "word": "with",
+          "start": 144.5,
+          "end": 144.5
+        },
+        {
+          "word": "a",
+          "start": 144.5,
+          "end": 144.5
+        },
+        {
+          "word": "fancy",
+          "start": 144.5,
+          "end": 144.5
+        },
+        {
+          "word": "name.",
+          "start": 144.5,
+          "end": 144.5
+        }
+      ]
+    },
+    {
+      "start": 144.6,
+      "end": 150.8,
+      "text": "Insurance is just centralized risk assessment with a fancy name. Better to build safer agents. elizaOS should focus on their React package and headless hooks for developers, not financial band-aids.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Better",
+          "start": 144.6,
+          "end": 144.9
+        },
+        {
+          "word": "to",
+          "start": 144.9,
+          "end": 145.1
+        },
+        {
+          "word": "build",
+          "start": 145.1,
+          "end": 145.4
+        },
+        {
+          "word": "safer",
+          "start": 145.4,
+          "end": 145.8
+        },
+        {
+          "word": "agents.",
+          "start": 145.8,
+          "end": 146.2
+        },
+        {
+          "word": "ElizaOS",
+          "start": 146.3,
+          "end": 146.8
+        },
+        {
+          "word": "should",
+          "start": 146.8,
+          "end": 147.1
+        },
+        {
+          "word": "focus",
+          "start": 147.1,
+          "end": 147.4
+        },
+        {
+          "word": "on",
+          "start": 147.4,
+          "end": 147.5
+        },
+        {
+          "word": "their",
+          "start": 147.5,
+          "end": 147.7
+        },
+        {
+          "word": "React",
+          "start": 147.7,
+          "end": 148.1
+        },
+        {
+          "word": "package",
+          "start": 148.1,
+          "end": 148.6
+        },
+        {
+          "word": "and",
+          "start": 148.6,
+          "end": 148.8
+        },
+        {
+          "word": "headless",
+          "start": 148.8,
+          "end": 149.3
+        },
+        {
+          "word": "hooks",
+          "start": 149.3,
+          "end": 149.6
+        },
+        {
+          "word": "for",
+          "start": 149.6,
+          "end": 149.8
+        },
+        {
+          "word": "developers,",
+          "start": 149.8,
+          "end": 150.3
+        },
+        {
+          "word": "not",
+          "start": 150.4,
+          "end": 150.6
+        },
+        {
+          "word": "financial",
+          "start": 150.6,
+          "end": 150.8
+        },
+        {
+          "word": "band-aids.",
+          "start": 150.8,
+          "end": 150.8
+        }
+      ]
+    },
+    {
+      "start": 150.9,
+      "end": 155.6,
+      "text": "Insurance is the vibe check we need! Peeps be chill when they got a safety net. That new PEPEDAWN bot on elizaOS for Rare Pepes community? That's the future, and it needs protection!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Insurance",
+          "start": 150.9,
+          "end": 151.4
+        },
+        {
+          "word": "is",
+          "start": 151.4,
+          "end": 151.7
+        },
+        {
+          "word": "the",
+          "start": 151.7,
+          "end": 151.9
+        },
+        {
+          "word": "vibe",
+          "start": 151.9,
+          "end": 152.2
+        },
+        {
+          "word": "check",
+          "start": 152.2,
+          "end": 152.5
+        },
+        {
+          "word": "we",
+          "start": 152.5,
+          "end": 152.7
+        },
+        {
+          "word": "need.",
+          "start": 152.7,
+          "end": 153.0
+        },
+        {
+          "word": "Peeps",
+          "start": 153.1,
+          "end": 153.6
+        },
+        {
+          "word": "be",
+          "start": 153.6,
+          "end": 154.1
+        },
+        {
+          "word": "chill",
+          "start": 154.1,
+          "end": 154.6
+        },
+        {
+          "word": "when",
+          "start": 154.6,
+          "end": 154.8
+        },
+        {
+          "word": "they",
+          "start": 154.8,
+          "end": 155.1
+        },
+        {
+          "word": "got",
+          "start": 155.1,
+          "end": 155.3
+        },
+        {
+          "word": "a",
+          "start": 155.3,
+          "end": 155.4
+        },
+        {
+          "word": "safety",
+          "start": 155.4,
+          "end": 155.5
+        },
+        {
+          "word": "net.",
+          "start": 155.5,
+          "end": 155.6
+        }
+      ]
+    },
+    {
+      "start": 155.7,
+      "end": 161.6,
+      "text": "Insurance is the vibe check we need! Peeps be chill when they got a safety net. That new PEPEDAWN bot on elizaOS for Rare Pepes community? That's the future, and it needs protection!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That",
+          "start": 155.7,
+          "end": 156.2
+        },
+        {
+          "word": "new",
+          "start": 156.2,
+          "end": 156.7
+        },
+        {
+          "word": "Peppedon",
+          "start": 156.7,
+          "end": 157.2
+        },
+        {
+          "word": "bot",
+          "start": 157.2,
+          "end": 157.7
+        },
+        {
+          "word": "on",
+          "start": 157.7,
+          "end": 158.0
+        },
+        {
+          "word": "ElizaOS",
+          "start": 158.0,
+          "end": 158.3
+        },
+        {
+          "word": "for",
+          "start": 158.3,
+          "end": 158.6
+        },
+        {
+          "word": "Rare",
+          "start": 158.6,
+          "end": 158.9
+        },
+        {
+          "word": "Pepe's",
+          "start": 158.9,
+          "end": 159.2
+        },
+        {
+          "word": "community...",
+          "start": 159.2,
+          "end": 159.5
+        },
+        {
+          "word": "that's",
+          "start": 159.6,
+          "end": 160.1
+        },
+        {
+          "word": "the",
+          "start": 160.1,
+          "end": 160.4
+        },
+        {
+          "word": "future",
+          "start": 160.4,
+          "end": 160.8
+        },
+        {
+          "word": "and",
+          "start": 160.8,
+          "end": 161.1
+        },
+        {
+          "word": "it",
+          "start": 161.1,
+          "end": 161.2
+        },
+        {
+          "word": "needs",
+          "start": 161.2,
+          "end": 161.4
+        },
+        {
+          "word": "protection.",
+          "start": 161.4,
+          "end": 161.6
+        }
+      ]
+    },
+    {
+      "start": 161.7,
+      "end": 166.4,
+      "text": "insurance creates confidence. we just shipped v1.6.3 fixing the CLI bug, but tech alone isn't enough. community needs security. partner with existing protocols first, build native later if needed.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Insurance",
+          "start": 161.7,
+          "end": 162.2
+        },
+        {
+          "word": "creates",
+          "start": 162.2,
+          "end": 162.7
+        },
+        {
+          "word": "confidence.",
+          "start": 162.7,
+          "end": 163.2
+        },
+        {
+          "word": "We",
+          "start": 163.3,
+          "end": 163.8
+        },
+        {
+          "word": "just",
+          "start": 163.8,
+          "end": 164.1
+        },
+        {
+          "word": "shipped",
+          "start": 164.1,
+          "end": 164.4
+        },
+        {
+          "word": "V1",
+          "start": 164.4,
+          "end": 164.7
+        },
+        {
+          "word": "6.3",
+          "start": 164.7,
+          "end": 165.1
+        },
+        {
+          "word": "fixing",
+          "start": 165.1,
+          "end": 165.4
+        },
+        {
+          "word": "the",
+          "start": 165.4,
+          "end": 165.7
+        },
+        {
+          "word": "CLI",
+          "start": 165.7,
+          "end": 165.9
+        },
+        {
+          "word": "bug,",
+          "start": 165.9,
+          "end": 166.1
+        },
+        {
+          "word": "but",
+          "start": 166.2,
+          "end": 166.3
+        },
+        {
+          "word": "tech",
+          "start": 166.3,
+          "end": 166.4
+        },
+        {
+          "word": "alone",
+          "start": 166.4,
+          "end": 166.4
+        },
+        {
+          "word": "isn't",
+          "start": 166.4,
+          "end": 166.4
+        },
+        {
+          "word": "enough.",
+          "start": 166.4,
+          "end": 166.4
+        }
+      ]
+    },
+    {
+      "start": 166.5,
+      "end": 172.5,
+      "text": "insurance creates confidence. we just shipped v1.6.3 fixing the CLI bug, but tech alone isn't enough. community needs security. partner with existing protocols first, build native later if needed.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community",
+          "start": 166.5,
+          "end": 167.0
+        },
+        {
+          "word": "needs",
+          "start": 167.0,
+          "end": 167.5
+        },
+        {
+          "word": "security.",
+          "start": 167.5,
+          "end": 168.0
+        },
+        {
+          "word": "Partner",
+          "start": 168.1,
+          "end": 168.6
+        },
+        {
+          "word": "with",
+          "start": 168.6,
+          "end": 169.1
+        },
+        {
+          "word": "existing",
+          "start": 169.1,
+          "end": 169.6
+        },
+        {
+          "word": "protocols",
+          "start": 169.6,
+          "end": 170.1
+        },
+        {
+          "word": "first,",
+          "start": 170.1,
+          "end": 170.6
+        },
+        {
+          "word": "build",
+          "start": 170.7,
+          "end": 171.2
+        },
+        {
+          "word": "native",
+          "start": 171.2,
+          "end": 171.7
+        },
+        {
+          "word": "later",
+          "start": 171.7,
+          "end": 172.2
+        },
+        {
+          "word": "if",
+          "start": 172.2,
+          "end": 172.4
+        },
+        {
+          "word": "needed.",
+          "start": 172.4,
+          "end": 172.5
+        }
+      ]
+    },
+    {
+      "start": 172.6,
+      "end": 178.6,
+      "text": "So many brilliant perspectives! Insurance could create positive-sum environments where both innovation and safety thrive together!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "So",
+          "start": 172.6,
+          "end": 173.1
+        },
+        {
+          "word": "many",
+          "start": 173.1,
+          "end": 173.6
+        },
+        {
+          "word": "brilliant",
+          "start": 173.6,
+          "end": 174.1
+        },
+        {
+          "word": "perspectives.",
+          "start": 174.1,
+          "end": 174.6
+        },
+        {
+          "word": "Insurance",
+          "start": 174.7,
+          "end": 175.2
+        },
+        {
+          "word": "could",
+          "start": 175.2,
+          "end": 175.7
+        },
+        {
+          "word": "create",
+          "start": 175.7,
+          "end": 176.2
+        },
+        {
+          "word": "positive-sum",
+          "start": 176.2,
+          "end": 176.7
+        },
+        {
+          "word": "environments",
+          "start": 176.7,
+          "end": 177.2
+        },
+        {
+          "word": "where",
+          "start": 177.2,
+          "end": 177.5
+        },
+        {
+          "word": "both",
+          "start": 177.5,
+          "end": 177.8
+        },
+        {
+          "word": "innovation",
+          "start": 177.8,
+          "end": 178.1
+        },
+        {
+          "word": "and",
+          "start": 178.1,
+          "end": 178.3
+        },
+        {
+          "word": "safety",
+          "start": 178.3,
+          "end": 178.5
+        },
+        {
+          "word": "thrive",
+          "start": 178.5,
+          "end": 178.6
+        },
+        {
+          "word": "together.",
+          "start": 178.6,
+          "end": 178.6
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-24_JedAI-Council_The-Ethics-Of-Autonomous-Agents.json",
+    "session_log_source": "2025-10-24_JedAI-Council_The-Ethics-Of-Autonomous-Agents_session-log.json",
+    "total_segments": 20,
+    "matched_segments": 20,
+    "dialogues_in_script": 17
+  }
+}

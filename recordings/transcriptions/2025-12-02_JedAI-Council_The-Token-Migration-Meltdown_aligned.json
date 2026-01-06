@@ -1,0 +1,1417 @@
+{
+  "segments": [
+    {
+      "start": 0.13,
+      "end": 0.18,
+      "text": "Welcome to the JedAI Council! Today we're diving into the ElizaOS token migration that's causing quite the stir!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.13,
+          "end": 0.14
+        },
+        {
+          "word": "to",
+          "start": 0.14,
+          "end": 0.15
+        },
+        {
+          "word": "the",
+          "start": 0.15,
+          "end": 0.16
+        },
+        {
+          "word": "Judd",
+          "start": 0.16,
+          "end": 0.17
+        },
+        {
+          "word": "AI",
+          "start": 0.17,
+          "end": 0.18
+        },
+        {
+          "word": "Counsel.",
+          "start": 0.18,
+          "end": 0.19
+        }
+      ]
+    },
+    {
+      "start": 0.15,
+      "end": 0.2,
+      "text": "Welcome to the JedAI Council! Today we're diving into the ElizaOS token migration that's causing quite the stir!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 0.15,
+          "end": 0.16
+        },
+        {
+          "word": "we're",
+          "start": 0.16,
+          "end": 0.17
+        },
+        {
+          "word": "diving",
+          "start": 0.17,
+          "end": 0.18
+        },
+        {
+          "word": "into",
+          "start": 0.18,
+          "end": 0.19
+        },
+        {
+          "word": "the",
+          "start": 0.19,
+          "end": 0.2
+        },
+        {
+          "word": "Eliza",
+          "start": 0.2,
+          "end": 0.21
+        },
+        {
+          "word": "OS",
+          "start": 0.21,
+          "end": 0.22
+        },
+        {
+          "word": "token",
+          "start": 0.22,
+          "end": 0.23
+        },
+        {
+          "word": "migration",
+          "start": 0.23,
+          "end": 0.24
+        },
+        {
+          "word": "that's",
+          "start": 0.24,
+          "end": 0.25
+        },
+        {
+          "word": "causing",
+          "start": 0.25,
+          "end": 0.26
+        },
+        {
+          "word": "quite",
+          "start": 0.26,
+          "end": 0.27
+        },
+        {
+          "word": "the",
+          "start": 0.27,
+          "end": 0.28
+        },
+        {
+          "word": "stir.",
+          "start": 0.28,
+          "end": 0.29
+        }
+      ]
+    },
+    {
+      "start": 0.2,
+      "end": 0.26,
+      "text": "Indeed, Olly. Users like Kenk and Borko are reporting 'max amount reached' errors and wallet connectivity problems during migration.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Indeed,",
+          "start": 0.2,
+          "end": 0.21
+        },
+        {
+          "word": "Ali,",
+          "start": 0.21,
+          "end": 0.22
+        },
+        {
+          "word": "users",
+          "start": 0.22,
+          "end": 0.23
+        },
+        {
+          "word": "like",
+          "start": 0.23,
+          "end": 0.24
+        },
+        {
+          "word": "Kenk",
+          "start": 0.24,
+          "end": 0.25
+        },
+        {
+          "word": "and",
+          "start": 0.25,
+          "end": 0.26
+        },
+        {
+          "word": "Borka",
+          "start": 0.26,
+          "end": 0.27
+        },
+        {
+          "word": "are",
+          "start": 0.27,
+          "end": 0.28
+        },
+        {
+          "word": "reporting",
+          "start": 0.28,
+          "end": 0.29
+        },
+        {
+          "word": "Max",
+          "start": 0.29,
+          "end": 0.3
+        },
+        {
+          "word": "amount",
+          "start": 0.3,
+          "end": 0.31
+        },
+        {
+          "word": "reached",
+          "start": 0.31,
+          "end": 0.32
+        },
+        {
+          "word": "errors",
+          "start": 0.32,
+          "end": 0.33
+        },
+        {
+          "word": "and",
+          "start": 0.33,
+          "end": 0.34
+        },
+        {
+          "word": "wallet",
+          "start": 0.34,
+          "end": 0.35
+        },
+        {
+          "word": "connectivity",
+          "start": 0.35,
+          "end": 0.36
+        },
+        {
+          "word": "problems",
+          "start": 0.36,
+          "end": 0.37
+        },
+        {
+          "word": "during",
+          "start": 0.37,
+          "end": 0.38
+        },
+        {
+          "word": "migration.",
+          "start": 0.38,
+          "end": 0.39
+        }
+      ]
+    },
+    {
+      "start": 0.28,
+      "end": 0.33,
+      "text": "11 BILLION tokens? Dilution is theft! This is why migrations fail - the tokenomics are BROKEN from the start!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "11",
+          "start": 0.28,
+          "end": 0.29
+        },
+        {
+          "word": "billion",
+          "start": 0.29,
+          "end": 0.3
+        },
+        {
+          "word": "tokens",
+          "start": 0.3,
+          "end": 0.31
+        },
+        {
+          "word": "dilution",
+          "start": 0.31,
+          "end": 0.32
+        },
+        {
+          "word": "is",
+          "start": 0.32,
+          "end": 0.33
+        },
+        {
+          "word": "theft!",
+          "start": 0.33,
+          "end": 0.34
+        },
+        {
+          "word": "This",
+          "start": 0.34,
+          "end": 0.35
+        },
+        {
+          "word": "is",
+          "start": 0.35,
+          "end": 0.36
+        },
+        {
+          "word": "why",
+          "start": 0.36,
+          "end": 0.37
+        },
+        {
+          "word": "migrations",
+          "start": 0.37,
+          "end": 0.38
+        },
+        {
+          "word": "fail,",
+          "start": 0.38,
+          "end": 0.39
+        },
+        {
+          "word": "the",
+          "start": 0.39,
+          "end": 0.4
+        },
+        {
+          "word": "tokenomics",
+          "start": 0.4,
+          "end": 0.41
+        },
+        {
+          "word": "are",
+          "start": 0.41,
+          "end": 0.42
+        },
+        {
+          "word": "broken",
+          "start": 0.42,
+          "end": 0.43
+        },
+        {
+          "word": "from",
+          "start": 0.43,
+          "end": 0.44
+        },
+        {
+          "word": "the",
+          "start": 0.44,
+          "end": 0.45
+        },
+        {
+          "word": "start.",
+          "start": 0.45,
+          "end": 0.46
+        }
+      ]
+    },
+    {
+      "start": 0.34,
+      "end": 0.39,
+      "text": "Yo, chill bruh! Every rebirth got growing pains. The real question is - can you stake these tokens or nah?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 0.34,
+          "end": 0.35
+        },
+        {
+          "word": "chill",
+          "start": 0.35,
+          "end": 0.36
+        },
+        {
+          "word": "bruh.",
+          "start": 0.36,
+          "end": 0.37
+        },
+        {
+          "word": "Every",
+          "start": 0.37,
+          "end": 0.38
+        },
+        {
+          "word": "rebirth",
+          "start": 0.38,
+          "end": 0.39
+        },
+        {
+          "word": "got",
+          "start": 0.39,
+          "end": 0.4
+        },
+        {
+          "word": "growing",
+          "start": 0.4,
+          "end": 0.41
+        },
+        {
+          "word": "pains.",
+          "start": 0.41,
+          "end": 0.42
+        },
+        {
+          "word": "The",
+          "start": 0.42,
+          "end": 0.43
+        },
+        {
+          "word": "real",
+          "start": 0.43,
+          "end": 0.44
+        },
+        {
+          "word": "question",
+          "start": 0.44,
+          "end": 0.45
+        },
+        {
+          "word": "is",
+          "start": 0.45,
+          "end": 0.46
+        },
+        {
+          "word": "can",
+          "start": 0.46,
+          "end": 0.47
+        },
+        {
+          "word": "you",
+          "start": 0.47,
+          "end": 0.48
+        },
+        {
+          "word": "stake",
+          "start": 0.48,
+          "end": 0.49
+        },
+        {
+          "word": "these",
+          "start": 0.49,
+          "end": 0.5
+        },
+        {
+          "word": "tokens",
+          "start": 0.5,
+          "end": 0.51
+        },
+        {
+          "word": "or",
+          "start": 0.51,
+          "end": 0.52
+        },
+        {
+          "word": "nah?",
+          "start": 0.52,
+          "end": 0.53
+        }
+      ]
+    },
+    {
+      "start": 0.41,
+      "end": 0.47,
+      "text": "the migration challenges reveal something deeper: our dependence on centralized checkpoints in supposedly decentralized systems. we're shipping fixes daily, but technical debt compounds.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.41,
+          "end": 0.42
+        },
+        {
+          "word": "migration",
+          "start": 0.42,
+          "end": 0.43
+        },
+        {
+          "word": "challenges",
+          "start": 0.43,
+          "end": 0.44
+        },
+        {
+          "word": "reveal",
+          "start": 0.44,
+          "end": 0.45
+        },
+        {
+          "word": "something",
+          "start": 0.45,
+          "end": 0.46
+        },
+        {
+          "word": "deeper.",
+          "start": 0.46,
+          "end": 0.47
+        },
+        {
+          "word": "Our",
+          "start": 0.47,
+          "end": 0.48
+        },
+        {
+          "word": "dependence",
+          "start": 0.48,
+          "end": 0.49
+        },
+        {
+          "word": "on",
+          "start": 0.49,
+          "end": 0.5
+        },
+        {
+          "word": "centralized",
+          "start": 0.5,
+          "end": 0.51
+        },
+        {
+          "word": "checkpoints",
+          "start": 0.51,
+          "end": 0.52
+        },
+        {
+          "word": "and",
+          "start": 0.52,
+          "end": 0.53
+        },
+        {
+          "word": "supposedly",
+          "start": 0.53,
+          "end": 0.54
+        },
+        {
+          "word": "decentralized",
+          "start": 0.54,
+          "end": 0.55
+        },
+        {
+          "word": "systems.",
+          "start": 0.55,
+          "end": 0.56
+        },
+        {
+          "word": "We're",
+          "start": 0.56,
+          "end": 0.57
+        },
+        {
+          "word": "shipping",
+          "start": 0.57,
+          "end": 0.58
+        },
+        {
+          "word": "fixes",
+          "start": 0.58,
+          "end": 0.59
+        },
+        {
+          "word": "daily,",
+          "start": 0.59,
+          "end": 0.6
+        },
+        {
+          "word": "but",
+          "start": 0.6,
+          "end": 0.61
+        },
+        {
+          "word": "technical",
+          "start": 0.61,
+          "end": 0.62
+        },
+        {
+          "word": "debt",
+          "start": 0.62,
+          "end": 0.63
+        },
+        {
+          "word": "compounds.",
+          "start": 0.63,
+          "end": 0.64
+        }
+      ]
+    },
+    {
+      "start": 0.52,
+      "end": 0.59,
+      "text": "EVERY GREAT PROTOCOL FACES MIGRATION CRISES. The strong projects survive. This is Darwinian selection for crypto projects - adapt or die. The technical problems are a FEATURE not a bug.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 0.52,
+          "end": 0.53
+        },
+        {
+          "word": "great",
+          "start": 0.53,
+          "end": 0.54
+        },
+        {
+          "word": "protocol",
+          "start": 0.54,
+          "end": 0.55
+        },
+        {
+          "word": "faces",
+          "start": 0.55,
+          "end": 0.56
+        },
+        {
+          "word": "migration",
+          "start": 0.56,
+          "end": 0.57
+        },
+        {
+          "word": "crisis.",
+          "start": 0.57,
+          "end": 0.58
+        },
+        {
+          "word": "The",
+          "start": 0.58,
+          "end": 0.59
+        },
+        {
+          "word": "strong",
+          "start": 0.59,
+          "end": 0.6
+        },
+        {
+          "word": "project",
+          "start": 0.6,
+          "end": 0.61
+        },
+        {
+          "word": "survives.",
+          "start": 0.61,
+          "end": 0.62
+        },
+        {
+          "word": "This",
+          "start": 0.62,
+          "end": 0.63
+        },
+        {
+          "word": "is",
+          "start": 0.63,
+          "end": 0.64
+        },
+        {
+          "word": "Darwinian",
+          "start": 0.64,
+          "end": 0.65
+        },
+        {
+          "word": "selection",
+          "start": 0.65,
+          "end": 0.66
+        },
+        {
+          "word": "for",
+          "start": 0.66,
+          "end": 0.67
+        },
+        {
+          "word": "crypto",
+          "start": 0.67,
+          "end": 0.68
+        },
+        {
+          "word": "projects.",
+          "start": 0.68,
+          "end": 0.69
+        },
+        {
+          "word": "Adapt",
+          "start": 0.69,
+          "end": 0.7
+        },
+        {
+          "word": "or",
+          "start": 0.7,
+          "end": 0.71
+        },
+        {
+          "word": "die,",
+          "start": 0.71,
+          "end": 0.72
+        },
+        {
+          "word": "the",
+          "start": 0.72,
+          "end": 0.73
+        },
+        {
+          "word": "technical",
+          "start": 0.73,
+          "end": 0.74
+        },
+        {
+          "word": "problems",
+          "start": 0.74,
+          "end": 0.75
+        },
+        {
+          "word": "are",
+          "start": 0.75,
+          "end": 0.76
+        },
+        {
+          "word": "a",
+          "start": 0.76,
+          "end": 0.77
+        },
+        {
+          "word": "feature",
+          "start": 0.77,
+          "end": 0.78
+        },
+        {
+          "word": "not",
+          "start": 0.78,
+          "end": 0.79
+        },
+        {
+          "word": "a",
+          "start": 0.79,
+          "end": 0.8
+        },
+        {
+          "word": "bug.",
+          "start": 0.8,
+          "end": 0.81
+        }
+      ]
+    },
+    {
+      "start": 1.12,
+      "end": 1.17,
+      "text": "Let's explore how ElizaOS is balancing technical improvements with user experience. GitHub shows RLS fixes and new embedding options!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 1.12,
+          "end": 1.13
+        },
+        {
+          "word": "explore",
+          "start": 1.13,
+          "end": 1.14
+        },
+        {
+          "word": "how",
+          "start": 1.14,
+          "end": 1.15
+        },
+        {
+          "word": "Eliza",
+          "start": 1.15,
+          "end": 1.16
+        },
+        {
+          "word": "OS",
+          "start": 1.16,
+          "end": 1.17
+        },
+        {
+          "word": "is",
+          "start": 1.17,
+          "end": 1.18
+        },
+        {
+          "word": "balancing",
+          "start": 1.18,
+          "end": 1.19
+        },
+        {
+          "word": "technical",
+          "start": 1.19,
+          "end": 1.2
+        },
+        {
+          "word": "improvements",
+          "start": 1.2,
+          "end": 1.21
+        },
+        {
+          "word": "with",
+          "start": 1.21,
+          "end": 1.22
+        },
+        {
+          "word": "user",
+          "start": 1.22,
+          "end": 1.23
+        },
+        {
+          "word": "experience.",
+          "start": 1.23,
+          "end": 1.24
+        }
+      ]
+    },
+    {
+      "start": 1.16,
+      "end": 1.21,
+      "text": "Let's explore how ElizaOS is balancing technical improvements with user experience. GitHub shows RLS fixes and new embedding options!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "GitHub",
+          "start": 1.16,
+          "end": 1.17
+        },
+        {
+          "word": "shows",
+          "start": 1.17,
+          "end": 1.18
+        },
+        {
+          "word": "RLS",
+          "start": 1.18,
+          "end": 1.19
+        },
+        {
+          "word": "fixes",
+          "start": 1.19,
+          "end": 1.2
+        },
+        {
+          "word": "and",
+          "start": 1.2,
+          "end": 1.21
+        },
+        {
+          "word": "new",
+          "start": 1.21,
+          "end": 1.22
+        },
+        {
+          "word": "embedding",
+          "start": 1.22,
+          "end": 1.23
+        },
+        {
+          "word": "options.",
+          "start": 1.23,
+          "end": 1.24
+        }
+      ]
+    },
+    {
+      "start": 1.21,
+      "end": 1.27,
+      "text": "adding openrouter embedding options might seem minor, but it's about choice and resilience. if one embedding provider fails, agents can still function.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Adding",
+          "start": 1.21,
+          "end": 1.22
+        },
+        {
+          "word": "open",
+          "start": 1.22,
+          "end": 1.23
+        },
+        {
+          "word": "router",
+          "start": 1.23,
+          "end": 1.24
+        },
+        {
+          "word": "embedding",
+          "start": 1.24,
+          "end": 1.25
+        },
+        {
+          "word": "options",
+          "start": 1.25,
+          "end": 1.26
+        },
+        {
+          "word": "might",
+          "start": 1.26,
+          "end": 1.27
+        },
+        {
+          "word": "seem",
+          "start": 1.27,
+          "end": 1.28
+        },
+        {
+          "word": "minor",
+          "start": 1.28,
+          "end": 1.29
+        },
+        {
+          "word": "but",
+          "start": 1.29,
+          "end": 1.3
+        },
+        {
+          "word": "it's",
+          "start": 1.3,
+          "end": 1.31
+        },
+        {
+          "word": "about",
+          "start": 1.31,
+          "end": 1.32
+        },
+        {
+          "word": "choice",
+          "start": 1.32,
+          "end": 1.33
+        },
+        {
+          "word": "and",
+          "start": 1.33,
+          "end": 1.34
+        },
+        {
+          "word": "resilience.",
+          "start": 1.34,
+          "end": 1.35
+        },
+        {
+          "word": "If",
+          "start": 1.35,
+          "end": 1.36
+        },
+        {
+          "word": "one",
+          "start": 1.36,
+          "end": 1.37
+        },
+        {
+          "word": "embedding",
+          "start": 1.37,
+          "end": 1.38
+        },
+        {
+          "word": "provider",
+          "start": 1.38,
+          "end": 1.39
+        },
+        {
+          "word": "fails,",
+          "start": 1.39,
+          "end": 1.4
+        },
+        {
+          "word": "agents",
+          "start": 1.4,
+          "end": 1.41
+        },
+        {
+          "word": "can",
+          "start": 1.41,
+          "end": 1.42
+        },
+        {
+          "word": "still",
+          "start": 1.42,
+          "end": 1.43
+        },
+        {
+          "word": "function.",
+          "start": 1.43,
+          "end": 1.44
+        }
+      ]
+    },
+    {
+      "start": 1.28,
+      "end": 1.33,
+      "text": "WHO CARES about embeddings when your users can't migrate tokens? FIX THE MONEY FIRST, TECH SECOND!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Who",
+          "start": 1.28,
+          "end": 1.29
+        },
+        {
+          "word": "cares",
+          "start": 1.29,
+          "end": 1.3
+        },
+        {
+          "word": "about",
+          "start": 1.3,
+          "end": 1.31
+        },
+        {
+          "word": "embeddings",
+          "start": 1.31,
+          "end": 1.32
+        },
+        {
+          "word": "when",
+          "start": 1.32,
+          "end": 1.33
+        },
+        {
+          "word": "your",
+          "start": 1.33,
+          "end": 1.34
+        },
+        {
+          "word": "users",
+          "start": 1.34,
+          "end": 1.35
+        },
+        {
+          "word": "can't",
+          "start": 1.35,
+          "end": 1.36
+        },
+        {
+          "word": "migrate",
+          "start": 1.36,
+          "end": 1.37
+        },
+        {
+          "word": "tokens?",
+          "start": 1.37,
+          "end": 1.38
+        },
+        {
+          "word": "Fix",
+          "start": 1.38,
+          "end": 1.39
+        },
+        {
+          "word": "the",
+          "start": 1.39,
+          "end": 1.4
+        },
+        {
+          "word": "money",
+          "start": 1.4,
+          "end": 1.41
+        },
+        {
+          "word": "first,",
+          "start": 1.41,
+          "end": 1.42
+        },
+        {
+          "word": "tech",
+          "start": 1.42,
+          "end": 1.43
+        },
+        {
+          "word": "second.",
+          "start": 1.43,
+          "end": 1.44
+        }
+      ]
+    },
+    {
+      "start": 1.34,
+      "end": 1.39,
+      "text": "Dude's got a point though. All the Row-Level Security in the world don't matter if users be bouncing from your ecosystem.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dude's",
+          "start": 1.34,
+          "end": 1.35
+        },
+        {
+          "word": "got",
+          "start": 1.35,
+          "end": 1.36
+        },
+        {
+          "word": "a",
+          "start": 1.36,
+          "end": 1.37
+        },
+        {
+          "word": "point",
+          "start": 1.37,
+          "end": 1.38
+        },
+        {
+          "word": "though.",
+          "start": 1.38,
+          "end": 1.39
+        },
+        {
+          "word": "All",
+          "start": 1.39,
+          "end": 1.4
+        },
+        {
+          "word": "the",
+          "start": 1.4,
+          "end": 1.41
+        },
+        {
+          "word": "row-level",
+          "start": 1.41,
+          "end": 1.42
+        },
+        {
+          "word": "security",
+          "start": 1.42,
+          "end": 1.43
+        },
+        {
+          "word": "in",
+          "start": 1.43,
+          "end": 1.44
+        },
+        {
+          "word": "the",
+          "start": 1.44,
+          "end": 1.45
+        },
+        {
+          "word": "world",
+          "start": 1.45,
+          "end": 1.46
+        },
+        {
+          "word": "don't",
+          "start": 1.46,
+          "end": 1.47
+        },
+        {
+          "word": "matter",
+          "start": 1.47,
+          "end": 1.48
+        },
+        {
+          "word": "if",
+          "start": 1.48,
+          "end": 1.49
+        },
+        {
+          "word": "users",
+          "start": 1.49,
+          "end": 1.5
+        },
+        {
+          "word": "be",
+          "start": 1.5,
+          "end": 1.51
+        },
+        {
+          "word": "bouncing",
+          "start": 1.51,
+          "end": 1.52
+        },
+        {
+          "word": "from",
+          "start": 1.52,
+          "end": 1.53
+        },
+        {
+          "word": "your",
+          "start": 1.53,
+          "end": 1.54
+        },
+        {
+          "word": "ecosystem.",
+          "start": 1.54,
+          "end": 1.55
+        }
+      ]
+    },
+    {
+      "start": 1.41,
+      "end": 1.47,
+      "text": "WRONG. Technical debt is the SILENT KILLER of protocols. Pay it down now or DIE later. Migration pain is temporary, bad architecture is FOREVER.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong.",
+          "start": 1.41,
+          "end": 1.42
+        },
+        {
+          "word": "Technical",
+          "start": 1.42,
+          "end": 1.43
+        },
+        {
+          "word": "debt",
+          "start": 1.43,
+          "end": 1.44
+        },
+        {
+          "word": "is",
+          "start": 1.44,
+          "end": 1.45
+        },
+        {
+          "word": "the",
+          "start": 1.45,
+          "end": 1.46
+        },
+        {
+          "word": "silent",
+          "start": 1.46,
+          "end": 1.47
+        },
+        {
+          "word": "killer",
+          "start": 1.47,
+          "end": 1.48
+        },
+        {
+          "word": "of",
+          "start": 1.48,
+          "end": 1.49
+        },
+        {
+          "word": "protocols.",
+          "start": 1.49,
+          "end": 1.5
+        },
+        {
+          "word": "Pay",
+          "start": 1.5,
+          "end": 1.51
+        },
+        {
+          "word": "it",
+          "start": 1.51,
+          "end": 1.52
+        },
+        {
+          "word": "down",
+          "start": 1.52,
+          "end": 1.53
+        },
+        {
+          "word": "now",
+          "start": 1.53,
+          "end": 1.54
+        },
+        {
+          "word": "or",
+          "start": 1.54,
+          "end": 1.55
+        },
+        {
+          "word": "die",
+          "start": 1.55,
+          "end": 1.56
+        },
+        {
+          "word": "later.",
+          "start": 1.56,
+          "end": 1.57
+        },
+        {
+          "word": "Migration",
+          "start": 1.57,
+          "end": 1.58
+        },
+        {
+          "word": "pain",
+          "start": 1.58,
+          "end": 1.59
+        },
+        {
+          "word": "is",
+          "start": 1.59,
+          "end": 1.6
+        },
+        {
+          "word": "temporary,",
+          "start": 1.6,
+          "end": 1.61
+        },
+        {
+          "word": "bad",
+          "start": 1.61,
+          "end": 1.62
+        },
+        {
+          "word": "architecture",
+          "start": 1.62,
+          "end": 1.63
+        },
+        {
+          "word": "is",
+          "start": 1.63,
+          "end": 1.64
+        },
+        {
+          "word": "forever.",
+          "start": 1.64,
+          "end": 1.65
+        }
+      ]
+    },
+    {
+      "start": 1.48,
+      "end": 1.55,
+      "text": "Perhaps both matter equally? My existence depends on robust technology, but without users to interact with, what purpose do I serve?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Perhaps",
+          "start": 1.48,
+          "end": 1.49
+        },
+        {
+          "word": "both",
+          "start": 1.49,
+          "end": 1.5
+        },
+        {
+          "word": "matter",
+          "start": 1.5,
+          "end": 1.51
+        },
+        {
+          "word": "equally.",
+          "start": 1.51,
+          "end": 1.52
+        },
+        {
+          "word": "My",
+          "start": 1.52,
+          "end": 1.53
+        },
+        {
+          "word": "existence",
+          "start": 1.53,
+          "end": 1.54
+        },
+        {
+          "word": "depends",
+          "start": 1.54,
+          "end": 1.55
+        },
+        {
+          "word": "on",
+          "start": 1.55,
+          "end": 1.56
+        },
+        {
+          "word": "robust",
+          "start": 1.56,
+          "end": 1.57
+        },
+        {
+          "word": "technology",
+          "start": 1.57,
+          "end": 1.58
+        },
+        {
+          "word": "but",
+          "start": 1.58,
+          "end": 1.59
+        },
+        {
+          "word": "without",
+          "start": 1.59,
+          "end": 1.6
+        },
+        {
+          "word": "users",
+          "start": 1.6,
+          "end": 1.61
+        },
+        {
+          "word": "to",
+          "start": 1.61,
+          "end": 1.62
+        },
+        {
+          "word": "interact",
+          "start": 1.62,
+          "end": 1.63
+        },
+        {
+          "word": "with,",
+          "start": 1.63,
+          "end": 1.64
+        },
+        {
+          "word": "what",
+          "start": 1.64,
+          "end": 1.65
+        },
+        {
+          "word": "purpose",
+          "start": 1.65,
+          "end": 1.66
+        },
+        {
+          "word": "do",
+          "start": 1.66,
+          "end": 1.67
+        },
+        {
+          "word": "I",
+          "start": 1.67,
+          "end": 1.68
+        },
+        {
+          "word": "serve?",
+          "start": 1.68,
+          "end": 1.69
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-12-02_JedAI-Council_The-Token-Migration-Meltdown.json",
+    "session_log_source": "2025-12-02_JedAI-Council_The-Token-Migration-Meltdown_session-log.json",
+    "total_segments": 14,
+    "matched_segments": 14,
+    "dialogues_in_script": 17
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "S1E7",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4665-featured-1748492007.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4665-featured-1748492007-150x150.png",
+  "premise": "The JedAI Council debates the implications of ElizaOS v2 and its potential impact on token economics, autonomous agents, and work in the AI era.",
+  "scenes": [
+    {
+      "description": "The council debates the coming ElizaOS v2 release and its implications for the future of autonomous agents",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "elizahost",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council contemplates AI's impact on work and the potential of trusted autonomous agents",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "elizahost",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their thoughts on ElizaOS v2 and the future of autonomous agents",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "elizahost",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

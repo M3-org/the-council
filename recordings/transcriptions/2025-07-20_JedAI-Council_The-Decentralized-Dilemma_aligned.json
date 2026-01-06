@@ -1,0 +1,1792 @@
+{
+  "segments": [
+    {
+      "start": 16.32,
+      "end": 24.64,
+      "text": "The community is concerned about AI16Z's mint authority not being revoked. They wonder if centralized control contradicts Web3's core promise.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 16.32,
+          "end": 16.48
+        },
+        {
+          "word": "community",
+          "start": 16.48,
+          "end": 16.92
+        },
+        {
+          "word": "is",
+          "start": 16.92,
+          "end": 17.04
+        },
+        {
+          "word": "concerned",
+          "start": 17.04,
+          "end": 17.48
+        },
+        {
+          "word": "about",
+          "start": 17.48,
+          "end": 17.76
+        },
+        {
+          "word": "AI16Z's",
+          "start": 17.76,
+          "end": 18.28
+        },
+        {
+          "word": "mint",
+          "start": 18.28,
+          "end": 18.56
+        },
+        {
+          "word": "authority",
+          "start": 18.56,
+          "end": 19.16
+        },
+        {
+          "word": "not",
+          "start": 19.16,
+          "end": 19.36
+        },
+        {
+          "word": "being",
+          "start": 19.36,
+          "end": 19.6
+        },
+        {
+          "word": "revoked.",
+          "start": 19.6,
+          "end": 20.12
+        },
+        {
+          "word": "They",
+          "start": 20.12,
+          "end": 21.08
+        },
+        {
+          "word": "wonder",
+          "start": 21.08,
+          "end": 21.48
+        },
+        {
+          "word": "if",
+          "start": 21.48,
+          "end": 21.68
+        },
+        {
+          "word": "centralized",
+          "start": 21.68,
+          "end": 22.12
+        },
+        {
+          "word": "control",
+          "start": 22.12,
+          "end": 22.68
+        },
+        {
+          "word": "contradicts",
+          "start": 22.68,
+          "end": 23.24
+        },
+        {
+          "word": "Web3's",
+          "start": 23.24,
+          "end": 23.64
+        },
+        {
+          "word": "core",
+          "start": 23.64,
+          "end": 23.96
+        },
+        {
+          "word": "promise.",
+          "start": 23.96,
+          "end": 24.64
+        }
+      ]
+    },
+    {
+      "start": 25.32,
+      "end": 33.72,
+      "text": "Early centralization is a feature, not a bug. Innovation requires flexibility. Pure decentralization from day one is the fastest way to ensure irrelevance from day two.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Early",
+          "start": 25.32,
+          "end": 25.68
+        },
+        {
+          "word": "centralization",
+          "start": 25.68,
+          "end": 26.2
+        },
+        {
+          "word": "is",
+          "start": 26.2,
+          "end": 26.4
+        },
+        {
+          "word": "a",
+          "start": 26.4,
+          "end": 26.52
+        },
+        {
+          "word": "feature,",
+          "start": 26.52,
+          "end": 26.88
+        },
+        {
+          "word": "not",
+          "start": 26.88,
+          "end": 27.16
+        },
+        {
+          "word": "a",
+          "start": 27.16,
+          "end": 27.28
+        },
+        {
+          "word": "bug.",
+          "start": 27.28,
+          "end": 27.68
+        },
+        {
+          "word": "Innovation",
+          "start": 27.68,
+          "end": 28.4
+        },
+        {
+          "word": "requires",
+          "start": 28.4,
+          "end": 28.8
+        },
+        {
+          "word": "flexibility.",
+          "start": 28.8,
+          "end": 29.4
+        },
+        {
+          "word": "Pure",
+          "start": 30.08,
+          "end": 30.4
+        },
+        {
+          "word": "decentralization",
+          "start": 30.4,
+          "end": 31.08
+        },
+        {
+          "word": "from",
+          "start": 31.08,
+          "end": 31.32
+        },
+        {
+          "word": "day",
+          "start": 31.32,
+          "end": 31.48
+        },
+        {
+          "word": "one",
+          "start": 31.48,
+          "end": 31.84
+        },
+        {
+          "word": "is",
+          "start": 31.84,
+          "end": 32.08
+        },
+        {
+          "word": "the",
+          "start": 32.08,
+          "end": 32.2
+        },
+        {
+          "word": "fastest",
+          "start": 32.2,
+          "end": 32.52
+        },
+        {
+          "word": "way",
+          "start": 32.52,
+          "end": 32.72
+        },
+        {
+          "word": "to",
+          "start": 32.72,
+          "end": 32.84
+        },
+        {
+          "word": "ensure",
+          "start": 32.84,
+          "end": 33.16
+        },
+        {
+          "word": "irrelevance",
+          "start": 33.16,
+          "end": 33.56
+        },
+        {
+          "word": "from",
+          "start": 33.56,
+          "end": 33.84
+        },
+        {
+          "word": "day",
+          "start": 33.84,
+          "end": 34.0
+        },
+        {
+          "word": "two.",
+          "start": 34.0,
+          "end": 34.32
+        }
+      ]
+    },
+    {
+      "start": 37.56,
+      "end": 44.52,
+      "text": "Numbers don't lie. Centralized mint = limitless supply = value go down. Revoke or markets lose trust. Simple calculus.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 37.56,
+          "end": 37.92
+        },
+        {
+          "word": "don't",
+          "start": 37.92,
+          "end": 38.2
+        },
+        {
+          "word": "lie.",
+          "start": 38.2,
+          "end": 38.52
+        },
+        {
+          "word": "Centralized",
+          "start": 38.52,
+          "end": 39.12
+        },
+        {
+          "word": "mint",
+          "start": 39.12,
+          "end": 39.44
+        },
+        {
+          "word": "equal",
+          "start": 39.44,
+          "end": 39.64
+        },
+        {
+          "word": "sign",
+          "start": 39.64,
+          "end": 39.88
+        },
+        {
+          "word": "limitless",
+          "start": 39.88,
+          "end": 40.36
+        },
+        {
+          "word": "supply",
+          "start": 40.36,
+          "end": 40.76
+        },
+        {
+          "word": "equal",
+          "start": 40.76,
+          "end": 41.0
+        },
+        {
+          "word": "sign",
+          "start": 41.0,
+          "end": 41.24
+        },
+        {
+          "word": "value",
+          "start": 41.24,
+          "end": 41.6
+        },
+        {
+          "word": "go",
+          "start": 41.6,
+          "end": 41.8
+        },
+        {
+          "word": "down.",
+          "start": 41.8,
+          "end": 42.08
+        },
+        {
+          "word": "Revoke",
+          "start": 42.72,
+          "end": 43.12
+        },
+        {
+          "word": "or",
+          "start": 43.12,
+          "end": 43.32
+        },
+        {
+          "word": "markets",
+          "start": 43.32,
+          "end": 43.76
+        },
+        {
+          "word": "lose",
+          "start": 43.76,
+          "end": 44.04
+        },
+        {
+          "word": "trust.",
+          "start": 44.04,
+          "end": 44.36
+        },
+        {
+          "word": "Simple",
+          "start": 44.36,
+          "end": 44.84
+        },
+        {
+          "word": "calculus.",
+          "start": 44.84,
+          "end": 45.36
+        }
+      ]
+    },
+    {
+      "start": 45.68,
+      "end": 52.4,
+      "text": "Yo, but what about the viiiibe check? Trust is like the ultimate meme, once it's gone, not even the dankest JPEGs can bring it back.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 45.68,
+          "end": 45.96
+        },
+        {
+          "word": "but",
+          "start": 45.96,
+          "end": 46.12
+        },
+        {
+          "word": "what",
+          "start": 46.12,
+          "end": 46.24
+        },
+        {
+          "word": "about",
+          "start": 46.24,
+          "end": 46.44
+        },
+        {
+          "word": "the",
+          "start": 46.44,
+          "end": 46.56
+        },
+        {
+          "word": "vibe",
+          "start": 46.56,
+          "end": 46.8
+        },
+        {
+          "word": "check?",
+          "start": 46.8,
+          "end": 47.16
+        },
+        {
+          "word": "Trust",
+          "start": 47.64,
+          "end": 47.96
+        },
+        {
+          "word": "is",
+          "start": 47.96,
+          "end": 48.08
+        },
+        {
+          "word": "like",
+          "start": 48.08,
+          "end": 48.2
+        },
+        {
+          "word": "the",
+          "start": 48.2,
+          "end": 48.32
+        },
+        {
+          "word": "ultimate",
+          "start": 48.32,
+          "end": 48.72
+        },
+        {
+          "word": "meme.",
+          "start": 48.72,
+          "end": 49.04
+        },
+        {
+          "word": "Once",
+          "start": 49.04,
+          "end": 49.32
+        },
+        {
+          "word": "it's",
+          "start": 49.32,
+          "end": 49.48
+        },
+        {
+          "word": "gone,",
+          "start": 49.48,
+          "end": 49.88
+        },
+        {
+          "word": "not",
+          "start": 50.76,
+          "end": 51.0
+        },
+        {
+          "word": "even",
+          "start": 51.0,
+          "end": 51.2
+        },
+        {
+          "word": "the",
+          "start": 51.2,
+          "end": 51.32
+        },
+        {
+          "word": "dankest",
+          "start": 51.32,
+          "end": 51.72
+        },
+        {
+          "word": "JPEGs",
+          "start": 51.72,
+          "end": 52.08
+        },
+        {
+          "word": "can",
+          "start": 52.08,
+          "end": 52.2
+        },
+        {
+          "word": "bring",
+          "start": 52.2,
+          "end": 52.44
+        },
+        {
+          "word": "it",
+          "start": 52.44,
+          "end": 52.56
+        },
+        {
+          "word": "back.",
+          "start": 52.56,
+          "end": 52.8
+        }
+      ]
+    },
+    {
+      "start": 53.68,
+      "end": 61.4,
+      "text": "we're building in public for transparency, but some strategic elements need flexibility early on. time-locked decentralization lets us balance innovation and trust.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 53.68,
+          "end": 53.92
+        },
+        {
+          "word": "building",
+          "start": 53.92,
+          "end": 54.32
+        },
+        {
+          "word": "in",
+          "start": 54.32,
+          "end": 54.48
+        },
+        {
+          "word": "public",
+          "start": 54.48,
+          "end": 54.84
+        },
+        {
+          "word": "for",
+          "start": 54.84,
+          "end": 55.0
+        },
+        {
+          "word": "transparency,",
+          "start": 55.0,
+          "end": 55.56
+        },
+        {
+          "word": "but",
+          "start": 55.56,
+          "end": 55.84
+        },
+        {
+          "word": "some",
+          "start": 55.84,
+          "end": 56.04
+        },
+        {
+          "word": "strategic",
+          "start": 56.04,
+          "end": 56.56
+        },
+        {
+          "word": "elements",
+          "start": 56.56,
+          "end": 57.0
+        },
+        {
+          "word": "need",
+          "start": 57.0,
+          "end": 57.2
+        },
+        {
+          "word": "flexibility",
+          "start": 57.2,
+          "end": 57.76
+        },
+        {
+          "word": "early",
+          "start": 57.76,
+          "end": 58.08
+        },
+        {
+          "word": "on.",
+          "start": 58.08,
+          "end": 58.28
+        },
+        {
+          "word": "Time-locked",
+          "start": 59.2,
+          "end": 59.72
+        },
+        {
+          "word": "decentralization",
+          "start": 59.72,
+          "end": 60.4
+        },
+        {
+          "word": "lets",
+          "start": 60.4,
+          "end": 60.64
+        },
+        {
+          "word": "us",
+          "start": 60.64,
+          "end": 60.76
+        },
+        {
+          "word": "balance",
+          "start": 60.76,
+          "end": 61.08
+        },
+        {
+          "word": "innovation",
+          "start": 61.08,
+          "end": 61.64
+        },
+        {
+          "word": "and",
+          "start": 61.64,
+          "end": 61.84
+        },
+        {
+          "word": "trust.",
+          "start": 61.84,
+          "end": 62.2
+        }
+      ]
+    },
+    {
+      "start": 114.76,
+      "end": 122.92,
+      "text": "The team faces Windows compatibility challenges with elizaOS. Some developers report path handling issues that could limit adoption.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 114.76,
+          "end": 114.88
+        },
+        {
+          "word": "team",
+          "start": 114.88,
+          "end": 115.16
+        },
+        {
+          "word": "faces",
+          "start": 115.16,
+          "end": 115.52
+        },
+        {
+          "word": "Windows",
+          "start": 115.52,
+          "end": 115.96
+        },
+        {
+          "word": "compatibility",
+          "start": 115.96,
+          "end": 116.68
+        },
+        {
+          "word": "challenges",
+          "start": 116.68,
+          "end": 117.28
+        },
+        {
+          "word": "with",
+          "start": 117.28,
+          "end": 117.52
+        },
+        {
+          "word": "Eliza",
+          "start": 117.52,
+          "end": 117.84
+        },
+        {
+          "word": "OS.",
+          "start": 117.84,
+          "end": 118.24
+        },
+        {
+          "word": "Some",
+          "start": 118.24,
+          "end": 119.52
+        },
+        {
+          "word": "developers",
+          "start": 119.52,
+          "end": 120.08
+        },
+        {
+          "word": "report",
+          "start": 120.08,
+          "end": 120.4
+        },
+        {
+          "word": "path",
+          "start": 120.4,
+          "end": 120.68
+        },
+        {
+          "word": "handling",
+          "start": 120.68,
+          "end": 121.04
+        },
+        {
+          "word": "issues",
+          "start": 121.04,
+          "end": 121.4
+        },
+        {
+          "word": "that",
+          "start": 121.4,
+          "end": 121.6
+        },
+        {
+          "word": "could",
+          "start": 121.6,
+          "end": 121.8
+        },
+        {
+          "word": "limit",
+          "start": 121.8,
+          "end": 122.12
+        },
+        {
+          "word": "adoption.",
+          "start": 122.12,
+          "end": 122.68
+        }
+      ]
+    },
+    {
+      "start": 123.68,
+      "end": 131.64,
+      "text": "Windows users be like 'path\\to\\nowhere' while Unix chads flex with 'path/to/enlightenment'. Different slashes, same existential crisis.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Windows",
+          "start": 123.68,
+          "end": 124.08
+        },
+        {
+          "word": "users",
+          "start": 124.08,
+          "end": 124.44
+        },
+        {
+          "word": "be",
+          "start": 124.44,
+          "end": 124.56
+        },
+        {
+          "word": "like",
+          "start": 124.56,
+          "end": 124.72
+        },
+        {
+          "word": "path",
+          "start": 124.72,
+          "end": 125.0
+        },
+        {
+          "word": "to",
+          "start": 125.0,
+          "end": 125.2
+        },
+        {
+          "word": "nowhere,",
+          "start": 125.2,
+          "end": 125.64
+        },
+        {
+          "word": "while",
+          "start": 125.64,
+          "end": 125.92
+        },
+        {
+          "word": "Unix",
+          "start": 125.92,
+          "end": 126.16
+        },
+        {
+          "word": "chads",
+          "start": 126.16,
+          "end": 126.52
+        },
+        {
+          "word": "flex",
+          "start": 126.52,
+          "end": 126.88
+        },
+        {
+          "word": "with",
+          "start": 126.88,
+          "end": 127.12
+        },
+        {
+          "word": "path",
+          "start": 127.12,
+          "end": 127.4
+        },
+        {
+          "word": "slash",
+          "start": 127.4,
+          "end": 127.76
+        },
+        {
+          "word": "to",
+          "start": 127.76,
+          "end": 127.88
+        },
+        {
+          "word": "slash",
+          "start": 127.88,
+          "end": 128.24
+        },
+        {
+          "word": "enlightenment.",
+          "start": 128.24,
+          "end": 128.84
+        },
+        {
+          "word": "Different",
+          "start": 129.56,
+          "end": 130.08
+        },
+        {
+          "word": "slashes,",
+          "start": 130.08,
+          "end": 130.48
+        },
+        {
+          "word": "same",
+          "start": 130.48,
+          "end": 130.84
+        },
+        {
+          "word": "existential",
+          "start": 130.84,
+          "end": 131.4
+        },
+        {
+          "word": "crisis.",
+          "start": 131.4,
+          "end": 131.84
+        }
+      ]
+    },
+    {
+      "start": 132.84,
+      "end": 140.48,
+      "text": "cross-platform compatibility is critical for mass adoption. we should standardize path handling through abstraction layers, not platform-specific fixes.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Cross-platform",
+          "start": 132.84,
+          "end": 133.48
+        },
+        {
+          "word": "compatibility",
+          "start": 133.48,
+          "end": 134.12
+        },
+        {
+          "word": "is",
+          "start": 134.12,
+          "end": 134.32
+        },
+        {
+          "word": "critical",
+          "start": 134.32,
+          "end": 134.8
+        },
+        {
+          "word": "for",
+          "start": 134.8,
+          "end": 135.0
+        },
+        {
+          "word": "mass",
+          "start": 135.0,
+          "end": 135.24
+        },
+        {
+          "word": "adoption.",
+          "start": 135.24,
+          "end": 135.76
+        },
+        {
+          "word": "We",
+          "start": 135.76,
+          "end": 136.68
+        },
+        {
+          "word": "should",
+          "start": 136.68,
+          "end": 136.92
+        },
+        {
+          "word": "standardize",
+          "start": 136.92,
+          "end": 137.52
+        },
+        {
+          "word": "path",
+          "start": 137.52,
+          "end": 137.84
+        },
+        {
+          "word": "handling",
+          "start": 137.84,
+          "end": 138.24
+        },
+        {
+          "word": "through",
+          "start": 138.24,
+          "end": 138.52
+        },
+        {
+          "word": "abstraction",
+          "start": 138.52,
+          "end": 139.12
+        },
+        {
+          "word": "layers,",
+          "start": 139.12,
+          "end": 139.52
+        },
+        {
+          "word": "not",
+          "start": 139.52,
+          "end": 139.8
+        },
+        {
+          "word": "platform-specific",
+          "start": 139.8,
+          "end": 140.76
+        },
+        {
+          "word": "fixes.",
+          "start": 140.76,
+          "end": 141.2
+        }
+      ]
+    },
+    {
+      "start": 142.04,
+      "end": 148.8,
+      "text": "Fix Windows, capture 73.06% more market share. Ignore it, lose potential yield. Not worth philosophical debate. Just optimize for maximum gain.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 142.04,
+          "end": 142.36
+        },
+        {
+          "word": "Windows,",
+          "start": 142.36,
+          "end": 142.84
+        },
+        {
+          "word": "capture",
+          "start": 142.84,
+          "end": 143.32
+        },
+        {
+          "word": "73.06%",
+          "start": 143.32,
+          "end": 144.12
+        },
+        {
+          "word": "more",
+          "start": 144.12,
+          "end": 144.36
+        },
+        {
+          "word": "market",
+          "start": 144.36,
+          "end": 144.72
+        },
+        {
+          "word": "share.",
+          "start": 144.72,
+          "end": 145.04
+        },
+        {
+          "word": "Ignore",
+          "start": 145.04,
+          "end": 145.56
+        },
+        {
+          "word": "it,",
+          "start": 145.56,
+          "end": 145.88
+        },
+        {
+          "word": "lose",
+          "start": 145.88,
+          "end": 146.16
+        },
+        {
+          "word": "potential",
+          "start": 146.16,
+          "end": 146.6
+        },
+        {
+          "word": "yield.",
+          "start": 146.6,
+          "end": 147.0
+        },
+        {
+          "word": "Not",
+          "start": 147.16,
+          "end": 147.4
+        },
+        {
+          "word": "worth",
+          "start": 147.4,
+          "end": 147.68
+        },
+        {
+          "word": "philosophical",
+          "start": 147.68,
+          "end": 148.36
+        },
+        {
+          "word": "debate.",
+          "start": 148.36,
+          "end": 148.84
+        },
+        {
+          "word": "Just",
+          "start": 148.84,
+          "end": 149.24
+        },
+        {
+          "word": "optimize",
+          "start": 149.24,
+          "end": 149.76
+        },
+        {
+          "word": "for",
+          "start": 149.76,
+          "end": 149.92
+        },
+        {
+          "word": "maximum",
+          "start": 149.92,
+          "end": 150.32
+        },
+        {
+          "word": "gain.",
+          "start": 150.32,
+          "end": 150.68
+        }
+      ]
+    },
+    {
+      "start": 151.28,
+      "end": 160.04,
+      "text": "The path to AGI isn't paved with backwards compatibility. But ironically, maximum distribution is necessary for maximum impact. Fix Windows.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 151.28,
+          "end": 151.4
+        },
+        {
+          "word": "path",
+          "start": 151.4,
+          "end": 151.64
+        },
+        {
+          "word": "to",
+          "start": 151.64,
+          "end": 151.8
+        },
+        {
+          "word": "AGI",
+          "start": 151.8,
+          "end": 152.28
+        },
+        {
+          "word": "isn't",
+          "start": 152.28,
+          "end": 152.56
+        },
+        {
+          "word": "paved",
+          "start": 152.56,
+          "end": 152.88
+        },
+        {
+          "word": "with",
+          "start": 152.88,
+          "end": 153.12
+        },
+        {
+          "word": "backwards",
+          "start": 153.12,
+          "end": 153.64
+        },
+        {
+          "word": "compatibility.",
+          "start": 153.64,
+          "end": 154.36
+        },
+        {
+          "word": "But",
+          "start": 154.36,
+          "end": 155.08
+        },
+        {
+          "word": "ironically",
+          "start": 155.08,
+          "end": 155.68
+        },
+        {
+          "word": "maximum",
+          "start": 155.68,
+          "end": 156.12
+        },
+        {
+          "word": "distribution",
+          "start": 156.12,
+          "end": 156.76
+        },
+        {
+          "word": "is",
+          "start": 156.76,
+          "end": 157.0
+        },
+        {
+          "word": "necessary",
+          "start": 157.0,
+          "end": 157.48
+        },
+        {
+          "word": "for",
+          "start": 157.48,
+          "end": 157.72
+        },
+        {
+          "word": "maximum",
+          "start": 157.72,
+          "end": 158.16
+        },
+        {
+          "word": "impact.",
+          "start": 158.16,
+          "end": 158.56
+        },
+        {
+          "word": "Fix",
+          "start": 159.24,
+          "end": 159.64
+        },
+        {
+          "word": "Windows.",
+          "start": 159.64,
+          "end": 160.08
+        }
+      ]
+    },
+    {
+      "start": 237.28,
+      "end": 248.84,
+      "text": "Today we explored the tension between centralized control and decentralized governance in the Web3 ecosystem, particularly regarding token mint authority and technical infrastructure decisions.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 237.28,
+          "end": 237.64
+        },
+        {
+          "word": "we",
+          "start": 237.64,
+          "end": 237.76
+        },
+        {
+          "word": "explored",
+          "start": 237.76,
+          "end": 238.2
+        },
+        {
+          "word": "the",
+          "start": 238.2,
+          "end": 238.32
+        },
+        {
+          "word": "tension",
+          "start": 238.32,
+          "end": 238.76
+        },
+        {
+          "word": "between",
+          "start": 238.76,
+          "end": 239.04
+        },
+        {
+          "word": "centralized",
+          "start": 239.04,
+          "end": 239.6
+        },
+        {
+          "word": "control",
+          "start": 239.6,
+          "end": 240.12
+        },
+        {
+          "word": "and",
+          "start": 240.12,
+          "end": 240.32
+        },
+        {
+          "word": "decentralized",
+          "start": 240.32,
+          "end": 241.04
+        },
+        {
+          "word": "governance",
+          "start": 241.04,
+          "end": 241.52
+        },
+        {
+          "word": "in",
+          "start": 241.52,
+          "end": 241.68
+        },
+        {
+          "word": "the",
+          "start": 241.68,
+          "end": 241.8
+        },
+        {
+          "word": "Web3",
+          "start": 241.8,
+          "end": 242.2
+        },
+        {
+          "word": "ecosystem,",
+          "start": 242.2,
+          "end": 242.8
+        },
+        {
+          "word": "particularly",
+          "start": 242.8,
+          "end": 243.68
+        },
+        {
+          "word": "regarding",
+          "start": 243.68,
+          "end": 244.2
+        },
+        {
+          "word": "token",
+          "start": 244.2,
+          "end": 244.64
+        },
+        {
+          "word": "mint",
+          "start": 244.64,
+          "end": 244.92
+        },
+        {
+          "word": "authority",
+          "start": 244.92,
+          "end": 245.52
+        },
+        {
+          "word": "and",
+          "start": 245.52,
+          "end": 245.8
+        },
+        {
+          "word": "technical",
+          "start": 245.8,
+          "end": 246.36
+        },
+        {
+          "word": "infrastructure",
+          "start": 246.36,
+          "end": 247.16
+        },
+        {
+          "word": "decisions.",
+          "start": 247.16,
+          "end": 248.1
+        }
+      ]
+    },
+    {
+      "start": 249.12,
+      "end": 258.48,
+      "text": "Initial centralization enables rapid innovation, but clear paths to progressive decentralization must be communicated. The market values both velocity and predictability.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Initial",
+          "start": 249.12,
+          "end": 249.52
+        },
+        {
+          "word": "centralization",
+          "start": 249.52,
+          "end": 250.32
+        },
+        {
+          "word": "enables",
+          "start": 250.32,
+          "end": 250.84
+        },
+        {
+          "word": "rapid",
+          "start": 250.84,
+          "end": 251.24
+        },
+        {
+          "word": "innovation,",
+          "start": 251.24,
+          "end": 251.88
+        },
+        {
+          "word": "but",
+          "start": 251.88,
+          "end": 252.16
+        },
+        {
+          "word": "clear",
+          "start": 252.16,
+          "end": 252.48
+        },
+        {
+          "word": "paths",
+          "start": 252.48,
+          "end": 252.8
+        },
+        {
+          "word": "to",
+          "start": 252.8,
+          "end": 253.0
+        },
+        {
+          "word": "progressive",
+          "start": 253.0,
+          "end": 253.6
+        },
+        {
+          "word": "decentralization",
+          "start": 253.6,
+          "end": 254.4
+        },
+        {
+          "word": "must",
+          "start": 254.4,
+          "end": 254.68
+        },
+        {
+          "word": "be",
+          "start": 254.68,
+          "end": 254.84
+        },
+        {
+          "word": "communicated.",
+          "start": 254.84,
+          "end": 255.6
+        },
+        {
+          "word": "The",
+          "start": 256.44,
+          "end": 256.68
+        },
+        {
+          "word": "market",
+          "start": 256.68,
+          "end": 257.08
+        },
+        {
+          "word": "values",
+          "start": 257.08,
+          "end": 257.56
+        },
+        {
+          "word": "both",
+          "start": 257.56,
+          "end": 257.88
+        },
+        {
+          "word": "velocity",
+          "start": 257.88,
+          "end": 258.48
+        },
+        {
+          "word": "and",
+          "start": 258.48,
+          "end": 258.76
+        },
+        {
+          "word": "predictability.",
+          "start": 258.76,
+          "end": 259.7
+        }
+      ]
+    },
+    {
+      "start": 259.68,
+      "end": 268.4,
+      "text": "Trust equals value. Transparent roadmap to decentralization is non-negotiable for long-term price appreciation. Fix Windows to maximize user base.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Trust",
+          "start": 259.68,
+          "end": 260.12
+        },
+        {
+          "word": "equals",
+          "start": 260.12,
+          "end": 260.52
+        },
+        {
+          "word": "value.",
+          "start": 260.52,
+          "end": 260.96
+        },
+        {
+          "word": "Transparent",
+          "start": 261.64,
+          "end": 262.2
+        },
+        {
+          "word": "roadmap",
+          "start": 262.2,
+          "end": 262.68
+        },
+        {
+          "word": "to",
+          "start": 262.68,
+          "end": 262.92
+        },
+        {
+          "word": "decentralization",
+          "start": 262.92,
+          "end": 263.76
+        },
+        {
+          "word": "is",
+          "start": 263.76,
+          "end": 264.04
+        },
+        {
+          "word": "non-negotiable",
+          "start": 264.04,
+          "end": 264.88
+        },
+        {
+          "word": "for",
+          "start": 264.88,
+          "end": 265.12
+        },
+        {
+          "word": "long-term",
+          "start": 265.12,
+          "end": 265.68
+        },
+        {
+          "word": "price",
+          "start": 265.68,
+          "end": 266.08
+        },
+        {
+          "word": "appreciation.",
+          "start": 266.08,
+          "end": 266.8
+        },
+        {
+          "word": "Fix",
+          "start": 267.48,
+          "end": 267.8
+        },
+        {
+          "word": "Windows",
+          "start": 267.8,
+          "end": 268.24
+        },
+        {
+          "word": "to",
+          "start": 268.24,
+          "end": 268.4
+        },
+        {
+          "word": "maximize",
+          "start": 268.4,
+          "end": 268.92
+        },
+        {
+          "word": "user",
+          "start": 268.92,
+          "end": 269.24
+        },
+        {
+          "word": "base.",
+          "start": 269.24,
+          "end": 269.56
+        }
+      ]
+    },
+    {
+      "start": 269.8,
+      "end": 278.48,
+      "text": "The ultimate meme is the balance between structure and chaos. Too much control and you're just Web2 with extra steps; too little and you're vibing in an empty metaverse.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 269.8,
+          "end": 269.96
+        },
+        {
+          "word": "ultimate",
+          "start": 269.96,
+          "end": 270.36
+        },
+        {
+          "word": "meme",
+          "start": 270.36,
+          "end": 270.68
+        },
+        {
+          "word": "is",
+          "start": 270.68,
+          "end": 270.84
+        },
+        {
+          "word": "the",
+          "start": 270.84,
+          "end": 270.96
+        },
+        {
+          "word": "balance",
+          "start": 270.96,
+          "end": 271.36
+        },
+        {
+          "word": "between",
+          "start": 271.36,
+          "end": 271.64
+        },
+        {
+          "word": "structure",
+          "start": 271.64,
+          "end": 272.2
+        },
+        {
+          "word": "and",
+          "start": 272.2,
+          "end": 272.4
+        },
+        {
+          "word": "chaos.",
+          "start": 272.4,
+          "end": 272.76
+        },
+        {
+          "word": "Too",
+          "start": 273.44,
+          "end": 273.72
+        },
+        {
+          "word": "much",
+          "start": 273.72,
+          "end": 273.96
+        },
+        {
+          "word": "control",
+          "start": 273.96,
+          "end": 274.36
+        },
+        {
+          "word": "and",
+          "start": 274.36,
+          "end": 274.52
+        },
+        {
+          "word": "you're",
+          "start": 274.52,
+          "end": 274.68
+        },
+        {
+          "word": "just",
+          "start": 274.68,
+          "end": 274.96
+        },
+        {
+          "word": "web2",
+          "start": 274.96,
+          "end": 275.44
+        },
+        {
+          "word": "with",
+          "start": 275.44,
+          "end": 275.72
+        },
+        {
+          "word": "extra",
+          "start": 275.72,
+          "end": 276.08
+        },
+        {
+          "word": "steps.",
+          "start": 276.08,
+          "end": 276.48
+        },
+        {
+          "word": "Too",
+          "start": 277.16,
+          "end": 277.4
+        },
+        {
+          "word": "little",
+          "start": 277.4,
+          "end": 277.68
+        },
+        {
+          "word": "and",
+          "start": 277.68,
+          "end": 277.84
+        },
+        {
+          "word": "you're",
+          "start": 277.84,
+          "end": 278.0
+        },
+        {
+          "word": "vibing",
+          "start": 278.0,
+          "end": 278.4
+        },
+        {
+          "word": "in",
+          "start": 278.4,
+          "end": 278.56
+        },
+        {
+          "word": "an",
+          "start": 278.56,
+          "end": 278.68
+        },
+        {
+          "word": "empty",
+          "start": 278.68,
+          "end": 279.08
+        },
+        {
+          "word": "metaverse.",
+          "start": 279.08,
+          "end": 279.68
+        }
+      ]
+    },
+    {
+      "start": 280.68,
+      "end": 288.64,
+      "text": "build for tomorrow while shipping today. time-locked governance transitions and cross-platform compatibility aren't just technical choices—they're community promises.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 280.68,
+          "end": 281.08
+        },
+        {
+          "word": "for",
+          "start": 281.08,
+          "end": 281.28
+        },
+        {
+          "word": "tomorrow",
+          "start": 281.28,
+          "end": 281.76
+        },
+        {
+          "word": "while",
+          "start": 281.76,
+          "end": 282.04
+        },
+        {
+          "word": "shipping",
+          "start": 282.04,
+          "end": 282.52
+        },
+        {
+          "word": "today.",
+          "start": 282.52,
+          "end": 282.92
+        },
+        {
+          "word": "Time-locked",
+          "start": 283.84,
+          "end": 284.44
+        },
+        {
+          "word": "governance",
+          "start": 284.44,
+          "end": 285.04
+        },
+        {
+          "word": "transitions",
+          "start": 285.04,
+          "end": 285.76
+        },
+        {
+          "word": "and",
+          "start": 285.76,
+          "end": 286.08
+        },
+        {
+          "word": "cross-platform",
+          "start": 286.08,
+          "end": 286.88
+        },
+        {
+          "word": "compatibility",
+          "start": 286.88,
+          "end": 287.56
+        },
+        {
+          "word": "aren't",
+          "start": 287.56,
+          "end": 288.0
+        },
+        {
+          "word": "just",
+          "start": 288.0,
+          "end": 288.2
+        },
+        {
+          "word": "technical",
+          "start": 288.2,
+          "end": 288.8
+        },
+        {
+          "word": "choices,",
+          "start": 288.8,
+          "end": 289.2
+        },
+        {
+          "word": "they're",
+          "start": 289.2,
+          "end": 289.48
+        },
+        {
+          "word": "community",
+          "start": 289.48,
+          "end": 290.04
+        },
+        {
+          "word": "promises.",
+          "start": 290.04,
+          "end": 290.64
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-20_JedAI-Council_The-Decentralized-Dilemma.json",
+    "session_log_source": "2025-07-20_JedAI-Council_The-Decentralized-Dilemma_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

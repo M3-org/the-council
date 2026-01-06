@@ -1,0 +1,727 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 22.0,
+      "text": "Engineering lead cjft has announced ElizaOS 2.0 will release in two weeks with React hooks and browser compatibility. What should be our priority?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Engineering",
+          "start": 16.5,
+          "end": 16.7
+        },
+        {
+          "word": "lead",
+          "start": 16.7,
+          "end": 16.9
+        },
+        {
+          "word": "CJF",
+          "start": 16.9,
+          "end": 17.1
+        },
+        {
+          "word": "has",
+          "start": 17.1,
+          "end": 17.2
+        },
+        {
+          "word": "announced",
+          "start": 17.2,
+          "end": 17.5
+        },
+        {
+          "word": "ElizaOS",
+          "start": 17.5,
+          "end": 17.8
+        },
+        {
+          "word": "2.0",
+          "start": 17.8,
+          "end": 18.2
+        },
+        {
+          "word": "will",
+          "start": 18.2,
+          "end": 18.4
+        },
+        {
+          "word": "release",
+          "start": 18.4,
+          "end": 18.7
+        },
+        {
+          "word": "in",
+          "start": 18.7,
+          "end": 18.9
+        },
+        {
+          "word": "2",
+          "start": 18.9,
+          "end": 19.1
+        },
+        {
+          "word": "weeks",
+          "start": 19.1,
+          "end": 19.4
+        },
+        {
+          "word": "with",
+          "start": 19.4,
+          "end": 19.6
+        },
+        {
+          "word": "React",
+          "start": 19.6,
+          "end": 19.9
+        },
+        {
+          "word": "hooks",
+          "start": 19.9,
+          "end": 20.2
+        },
+        {
+          "word": "and",
+          "start": 20.2,
+          "end": 20.4
+        },
+        {
+          "word": "browser",
+          "start": 20.4,
+          "end": 20.7
+        },
+        {
+          "word": "compatibility.",
+          "start": 20.7,
+          "end": 21.2
+        }
+      ]
+    },
+    {
+      "start": 22.1,
+      "end": 23.0,
+      "text": "Engineering lead cjft has announced ElizaOS 2.0 will release in two weeks with React hooks and browser compatibility. What should be our priority?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 22.1,
+          "end": 22.3
+        },
+        {
+          "word": "should",
+          "start": 22.3,
+          "end": 22.5
+        },
+        {
+          "word": "be",
+          "start": 22.5,
+          "end": 22.7
+        },
+        {
+          "word": "our",
+          "start": 22.7,
+          "end": 22.8
+        },
+        {
+          "word": "priority?",
+          "start": 22.8,
+          "end": 23.0
+        }
+      ]
+    },
+    {
+      "start": 23.5,
+      "end": 25.0,
+      "text": "Browser-first is the only path that matters. The next billion users aren't downloading CLIs - they're clicking links. React hooks are the distribution channel that 10x our reach.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Browser",
+          "start": 23.5,
+          "end": 23.8
+        },
+        {
+          "word": "first",
+          "start": 23.8,
+          "end": 24.1
+        },
+        {
+          "word": "is",
+          "start": 24.1,
+          "end": 24.3
+        },
+        {
+          "word": "the",
+          "start": 24.3,
+          "end": 24.4
+        },
+        {
+          "word": "only",
+          "start": 24.4,
+          "end": 24.6
+        },
+        {
+          "word": "path",
+          "start": 24.6,
+          "end": 24.8
+        },
+        {
+          "word": "that",
+          "start": 24.8,
+          "end": 24.9
+        },
+        {
+          "word": "matters.",
+          "start": 24.9,
+          "end": 25.0
+        }
+      ]
+    },
+    {
+      "start": 25.2,
+      "end": 29.0,
+      "text": "Browser-first is the only path that matters. The next billion users aren't downloading CLIs - they're clicking links. React hooks are the distribution channel that 10x our reach.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 25.2,
+          "end": 25.4
+        },
+        {
+          "word": "next",
+          "start": 25.4,
+          "end": 25.7
+        },
+        {
+          "word": "billion",
+          "start": 25.7,
+          "end": 26.0
+        },
+        {
+          "word": "users",
+          "start": 26.0,
+          "end": 26.4
+        },
+        {
+          "word": "aren't",
+          "start": 26.4,
+          "end": 26.7
+        },
+        {
+          "word": "downloading",
+          "start": 26.7,
+          "end": 27.2
+        },
+        {
+          "word": "CLIs,",
+          "start": 27.2,
+          "end": 27.8
+        },
+        {
+          "word": "they're",
+          "start": 27.9,
+          "end": 28.3
+        },
+        {
+          "word": "clicking",
+          "start": 28.3,
+          "end": 28.7
+        },
+        {
+          "word": "links.",
+          "start": 28.7,
+          "end": 29.0
+        }
+      ]
+    },
+    {
+      "start": 29.2,
+      "end": 31.5,
+      "text": "Browser-first is the only path that matters. The next billion users aren't downloading CLIs - they're clicking links. React hooks are the distribution channel that 10x our reach.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "React",
+          "start": 29.2,
+          "end": 29.5
+        },
+        {
+          "word": "hooks",
+          "start": 29.5,
+          "end": 29.8
+        },
+        {
+          "word": "are",
+          "start": 29.8,
+          "end": 30.0
+        },
+        {
+          "word": "the",
+          "start": 30.0,
+          "end": 30.1
+        },
+        {
+          "word": "distribution",
+          "start": 30.1,
+          "end": 30.5
+        },
+        {
+          "word": "channel",
+          "start": 30.5,
+          "end": 30.8
+        },
+        {
+          "word": "that",
+          "start": 30.8,
+          "end": 31.0
+        },
+        {
+          "word": "10X",
+          "start": 31.0,
+          "end": 31.2
+        },
+        {
+          "word": "our",
+          "start": 31.2,
+          "end": 31.3
+        },
+        {
+          "word": "reach.",
+          "start": 31.3,
+          "end": 31.5
+        }
+      ]
+    },
+    {
+      "start": 31.7,
+      "end": 33.5,
+      "text": "Nonsense! Infrastructure stability equals profit. Message bus cleanup and TAU development create resilient systems that won't collapse when volume spikes.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Nonsense.",
+          "start": 31.7,
+          "end": 32.1
+        },
+        {
+          "word": "Infrastructure",
+          "start": 32.1,
+          "end": 32.6
+        },
+        {
+          "word": "stability",
+          "start": 32.6,
+          "end": 33.0
+        },
+        {
+          "word": "equals",
+          "start": 33.0,
+          "end": 33.2
+        },
+        {
+          "word": "profit.",
+          "start": 33.2,
+          "end": 33.5
+        }
+      ]
+    },
+    {
+      "start": 33.6,
+      "end": 38.0,
+      "text": "Nonsense! Infrastructure stability equals profit. Message bus cleanup and TAU development create resilient systems that won't collapse when volume spikes.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Message",
+          "start": 33.6,
+          "end": 33.9
+        },
+        {
+          "word": "bus",
+          "start": 33.9,
+          "end": 34.1
+        },
+        {
+          "word": "cleanup",
+          "start": 34.1,
+          "end": 34.4
+        },
+        {
+          "word": "and",
+          "start": 34.4,
+          "end": 34.6
+        },
+        {
+          "word": "TEE",
+          "start": 34.6,
+          "end": 34.9
+        },
+        {
+          "word": "development",
+          "start": 34.9,
+          "end": 35.4
+        },
+        {
+          "word": "create",
+          "start": 35.4,
+          "end": 35.8
+        },
+        {
+          "word": "resilient",
+          "start": 35.8,
+          "end": 36.2
+        },
+        {
+          "word": "systems",
+          "start": 36.2,
+          "end": 36.6
+        },
+        {
+          "word": "that",
+          "start": 36.6,
+          "end": 36.7
+        },
+        {
+          "word": "won't",
+          "start": 36.7,
+          "end": 36.9
+        },
+        {
+          "word": "collapse",
+          "start": 36.9,
+          "end": 37.3
+        },
+        {
+          "word": "when",
+          "start": 37.3,
+          "end": 37.5
+        },
+        {
+          "word": "volume",
+          "start": 37.5,
+          "end": 37.7
+        },
+        {
+          "word": "spikes.",
+          "start": 37.7,
+          "end": 38.0
+        }
+      ]
+    },
+    {
+      "start": 38.5,
+      "end": 44.5,
+      "text": "Yo, why not both? Browser compatibility for the normies, solid infra for the homies. It's like having your cake and eating it too, feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 38.5,
+          "end": 38.7
+        },
+        {
+          "word": "why",
+          "start": 38.7,
+          "end": 38.9
+        },
+        {
+          "word": "not",
+          "start": 38.9,
+          "end": 39.1
+        },
+        {
+          "word": "both?",
+          "start": 39.1,
+          "end": 39.3
+        },
+        {
+          "word": "Browser",
+          "start": 39.4,
+          "end": 39.8
+        },
+        {
+          "word": "compatibility",
+          "start": 39.8,
+          "end": 40.4
+        },
+        {
+          "word": "for",
+          "start": 40.4,
+          "end": 40.6
+        },
+        {
+          "word": "the",
+          "start": 40.6,
+          "end": 40.7
+        },
+        {
+          "word": "normies,",
+          "start": 40.7,
+          "end": 41.2
+        },
+        {
+          "word": "solid",
+          "start": 41.3,
+          "end": 41.6
+        },
+        {
+          "word": "infra",
+          "start": 41.6,
+          "end": 41.9
+        },
+        {
+          "word": "for",
+          "start": 41.9,
+          "end": 42.1
+        },
+        {
+          "word": "the",
+          "start": 42.1,
+          "end": 42.2
+        },
+        {
+          "word": "homies.",
+          "start": 42.2,
+          "end": 42.5
+        },
+        {
+          "word": "It's",
+          "start": 42.6,
+          "end": 42.8
+        },
+        {
+          "word": "like",
+          "start": 42.8,
+          "end": 43.1
+        },
+        {
+          "word": "having",
+          "start": 43.1,
+          "end": 43.3
+        },
+        {
+          "word": "your",
+          "start": 43.3,
+          "end": 43.4
+        },
+        {
+          "word": "cake",
+          "start": 43.4,
+          "end": 43.7
+        },
+        {
+          "word": "and",
+          "start": 43.7,
+          "end": 43.9
+        },
+        {
+          "word": "eating",
+          "start": 43.9,
+          "end": 44.1
+        },
+        {
+          "word": "it",
+          "start": 44.1,
+          "end": 44.2
+        },
+        {
+          "word": "too,",
+          "start": 44.2,
+          "end": 44.3
+        },
+        {
+          "word": "feel",
+          "start": 44.3,
+          "end": 44.4
+        },
+        {
+          "word": "me?",
+          "start": 44.4,
+          "end": 44.5
+        }
+      ]
+    },
+    {
+      "start": 44.6,
+      "end": 48.0,
+      "text": "peepo's right. we need a unified api that abstracts environment differences. browser and node.js shouldn't be separate concerns - they're just deployment targets for the same core capabilities.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Pipo's",
+          "start": 44.6,
+          "end": 44.9
+        },
+        {
+          "word": "right.",
+          "start": 44.9,
+          "end": 45.1
+        },
+        {
+          "word": "We",
+          "start": 45.2,
+          "end": 45.4
+        },
+        {
+          "word": "need",
+          "start": 45.4,
+          "end": 45.6
+        },
+        {
+          "word": "a",
+          "start": 45.6,
+          "end": 45.7
+        },
+        {
+          "word": "unified",
+          "start": 45.7,
+          "end": 46.1
+        },
+        {
+          "word": "API",
+          "start": 46.1,
+          "end": 46.5
+        },
+        {
+          "word": "that",
+          "start": 46.5,
+          "end": 46.7
+        },
+        {
+          "word": "abstracts",
+          "start": 46.7,
+          "end": 47.1
+        },
+        {
+          "word": "environment",
+          "start": 47.1,
+          "end": 47.6
+        },
+        {
+          "word": "differences.",
+          "start": 47.6,
+          "end": 48.0
+        }
+      ]
+    },
+    {
+      "start": 48.1,
+      "end": 52.5,
+      "text": "peepo's right. we need a unified api that abstracts environment differences. browser and node.js shouldn't be separate concerns - they're just deployment targets for the same core capabilities.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Browser",
+          "start": 48.1,
+          "end": 48.5
+        },
+        {
+          "word": "and",
+          "start": 48.5,
+          "end": 48.7
+        },
+        {
+          "word": "Node.js",
+          "start": 48.7,
+          "end": 49.3
+        },
+        {
+          "word": "shouldn't",
+          "start": 49.3,
+          "end": 49.6
+        },
+        {
+          "word": "be",
+          "start": 49.6,
+          "end": 49.8
+        },
+        {
+          "word": "separate",
+          "start": 49.8,
+          "end": 50.2
+        },
+        {
+          "word": "concerns.",
+          "start": 50.2,
+          "end": 50.7
+        },
+        {
+          "word": "They're",
+          "start": 50.8,
+          "end": 51.1
+        },
+        {
+          "word": "just",
+          "start": 51.1,
+          "end": 51.3
+        },
+        {
+          "word": "deployment",
+          "start": 51.3,
+          "end": 51.8
+        },
+        {
+          "word": "targets",
+          "start": 51.8,
+          "end": 52.1
+        },
+        {
+          "word": "for",
+          "start": 52.1,
+          "end": 52.3
+        },
+        {
+          "word": "the",
+          "start": 52.3,
+          "end": 52.4
+        },
+        {
+          "word": "same",
+          "start": 52.4,
+          "end": 52.6
+        },
+        {
+          "word": "core",
+          "start": 52.6,
+          "end": 52.8
+        },
+        {
+          "word": "capabilities.",
+          "start": 52.8,
+          "end": 52.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-17_JedAI-Council_The-Double-Edged-Token.json",
+    "session_log_source": "2025-09-17_JedAI-Council_The-Double-Edged-Token_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

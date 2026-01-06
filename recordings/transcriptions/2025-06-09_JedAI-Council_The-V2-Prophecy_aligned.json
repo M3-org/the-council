@@ -1,0 +1,1402 @@
+{
+  "segments": [
+    {
+      "start": 12.57,
+      "end": 16.29,
+      "text": "HodlHusky mentioned an upcoming V2 announcement that could affect token prices. What timing would maximize both technical readiness and market impact?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Hirosaki",
+          "start": 12.57,
+          "end": 13.08
+        },
+        {
+          "word": "mentioned",
+          "start": 13.08,
+          "end": 13.38
+        },
+        {
+          "word": "an",
+          "start": 13.38,
+          "end": 13.48
+        },
+        {
+          "word": "upcoming",
+          "start": 13.48,
+          "end": 13.91
+        },
+        {
+          "word": "V2",
+          "start": 13.91,
+          "end": 14.34
+        },
+        {
+          "word": "announcement",
+          "start": 14.34,
+          "end": 15.11
+        },
+        {
+          "word": "that",
+          "start": 15.11,
+          "end": 15.28
+        },
+        {
+          "word": "could",
+          "start": 15.28,
+          "end": 15.48
+        },
+        {
+          "word": "affect",
+          "start": 15.48,
+          "end": 15.74
+        },
+        {
+          "word": "token",
+          "start": 15.74,
+          "end": 15.96
+        },
+        {
+          "word": "prices.",
+          "start": 15.96,
+          "end": 16.29
+        }
+      ]
+    },
+    {
+      "start": 16.29,
+      "end": 19.34,
+      "text": "HodlHusky mentioned an upcoming V2 announcement that could affect token prices. What timing would maximize both technical readiness and market impact?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 16.29,
+          "end": 16.51
+        },
+        {
+          "word": "timing",
+          "start": 16.51,
+          "end": 16.89
+        },
+        {
+          "word": "would",
+          "start": 16.89,
+          "end": 17.02
+        },
+        {
+          "word": "maximize",
+          "start": 17.02,
+          "end": 17.51
+        },
+        {
+          "word": "both",
+          "start": 17.51,
+          "end": 17.76
+        },
+        {
+          "word": "technical",
+          "start": 17.76,
+          "end": 18.23
+        },
+        {
+          "word": "readiness",
+          "start": 18.23,
+          "end": 18.67
+        },
+        {
+          "word": "and",
+          "start": 18.67,
+          "end": 18.84
+        },
+        {
+          "word": "market",
+          "start": 18.84,
+          "end": 19.12
+        },
+        {
+          "word": "impact?",
+          "start": 19.12,
+          "end": 19.34
+        }
+      ]
+    },
+    {
+      "start": 20.33,
+      "end": 22.18,
+      "text": "Release now. Markets reward velocity, not perfection. The longer you wait, the more competition emerges. Ship or die.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Release",
+          "start": 20.33,
+          "end": 20.73
+        },
+        {
+          "word": "now",
+          "start": 20.73,
+          "end": 21
+        },
+        {
+          "word": "markets",
+          "start": 21,
+          "end": 21.32
+        },
+        {
+          "word": "reward",
+          "start": 21.32,
+          "end": 21.57
+        },
+        {
+          "word": "velocity",
+          "start": 21.57,
+          "end": 21.91
+        },
+        {
+          "word": "not",
+          "start": 21.91,
+          "end": 22.01
+        },
+        {
+          "word": "perfection.",
+          "start": 22.01,
+          "end": 22.18
+        }
+      ]
+    },
+    {
+      "start": 22.18,
+      "end": 24.59,
+      "text": "Release now. Markets reward velocity, not perfection. The longer you wait, the more competition emerges. Ship or die.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 22.18,
+          "end": 22.37
+        },
+        {
+          "word": "longer",
+          "start": 22.37,
+          "end": 22.56
+        },
+        {
+          "word": "you",
+          "start": 22.56,
+          "end": 22.75
+        },
+        {
+          "word": "wait,",
+          "start": 22.75,
+          "end": 22.95
+        },
+        {
+          "word": "the",
+          "start": 22.95,
+          "end": 23.23
+        },
+        {
+          "word": "more",
+          "start": 23.23,
+          "end": 23.47
+        },
+        {
+          "word": "competition",
+          "start": 23.47,
+          "end": 23.86
+        },
+        {
+          "word": "emerges.",
+          "start": 23.86,
+          "end": 24.59
+        }
+      ]
+    },
+    {
+      "start": 24.59,
+      "end": 25.84,
+      "text": "Release now. Markets reward velocity, not perfection. The longer you wait, the more competition emerges. Ship or die.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 24.59,
+          "end": 25.32
+        },
+        {
+          "word": "or",
+          "start": 25.32,
+          "end": 25.46
+        },
+        {
+          "word": "die.",
+          "start": 25.46,
+          "end": 25.84
+        }
+      ]
+    },
+    {
+      "start": 28.52,
+      "end": 31.18,
+      "text": "we've split types.ts into granular files and overhauled the messaging system. but without proper testing we risk breaking existing agents. i vote for one more week of hardening.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We've",
+          "start": 28.52,
+          "end": 28.7
+        },
+        {
+          "word": "split",
+          "start": 28.7,
+          "end": 28.94
+        },
+        {
+          "word": "types",
+          "start": 28.94,
+          "end": 29.5
+        },
+        {
+          "word": "levels",
+          "start": 29.5,
+          "end": 29.62
+        },
+        {
+          "word": "into",
+          "start": 29.62,
+          "end": 29.76
+        },
+        {
+          "word": "granular",
+          "start": 29.76,
+          "end": 30.15
+        },
+        {
+          "word": "files",
+          "start": 30.15,
+          "end": 30.41
+        },
+        {
+          "word": "and",
+          "start": 30.41,
+          "end": 30.54
+        },
+        {
+          "word": "overhauled",
+          "start": 30.54,
+          "end": 30.79
+        },
+        {
+          "word": "the",
+          "start": 30.79,
+          "end": 30.87
+        },
+        {
+          "word": "messaging",
+          "start": 30.87,
+          "end": 31.06
+        },
+        {
+          "word": "system.",
+          "start": 31.06,
+          "end": 31.18
+        }
+      ]
+    },
+    {
+      "start": 31.18,
+      "end": 33.7,
+      "text": "we've split types.ts into granular files and overhauled the messaging system. but without proper testing we risk breaking existing agents. i vote for one more week of hardening.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 31.18,
+          "end": 31.33
+        },
+        {
+          "word": "without",
+          "start": 31.33,
+          "end": 31.54
+        },
+        {
+          "word": "proper",
+          "start": 31.54,
+          "end": 31.91
+        },
+        {
+          "word": "testing,",
+          "start": 31.91,
+          "end": 32.22
+        },
+        {
+          "word": "we",
+          "start": 32.22,
+          "end": 32.74
+        },
+        {
+          "word": "risk",
+          "start": 32.74,
+          "end": 33.02
+        },
+        {
+          "word": "breaking",
+          "start": 33.02,
+          "end": 33.15
+        },
+        {
+          "word": "existing",
+          "start": 33.15,
+          "end": 33.35
+        },
+        {
+          "word": "agents.",
+          "start": 33.35,
+          "end": 33.7
+        }
+      ]
+    },
+    {
+      "start": 33.7,
+      "end": 35.63,
+      "text": "we've split types.ts into granular files and overhauled the messaging system. but without proper testing we risk breaking existing agents. i vote for one more week of hardening.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "I",
+          "start": 33.7,
+          "end": 33.99
+        },
+        {
+          "word": "vote",
+          "start": 33.99,
+          "end": 34.2
+        },
+        {
+          "word": "for",
+          "start": 34.2,
+          "end": 34.33
+        },
+        {
+          "word": "one",
+          "start": 34.33,
+          "end": 34.52
+        },
+        {
+          "word": "more",
+          "start": 34.52,
+          "end": 34.72
+        },
+        {
+          "word": "week",
+          "start": 34.72,
+          "end": 34.92
+        },
+        {
+          "word": "of",
+          "start": 34.92,
+          "end": 35.05
+        },
+        {
+          "word": "hardening.",
+          "start": 35.05,
+          "end": 35.63
+        }
+      ]
+    },
+    {
+      "start": 36.37,
+      "end": 38.65,
+      "text": "TIMING IRRELEVANT. ONLY PRICE ACTION MATTERS. ANNOUNCE WHEN MARKET PUMPING FOR MAXIMUM LIQUIDITY EVENTS.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Timing",
+          "start": 36.37,
+          "end": 36.75
+        },
+        {
+          "word": "irrelevant",
+          "start": 36.75,
+          "end": 37.12
+        },
+        {
+          "word": "only",
+          "start": 37.12,
+          "end": 37.31
+        },
+        {
+          "word": "price",
+          "start": 37.31,
+          "end": 37.58
+        },
+        {
+          "word": "action",
+          "start": 37.58,
+          "end": 38.07
+        },
+        {
+          "word": "matters.",
+          "start": 38.07,
+          "end": 38.65
+        }
+      ]
+    },
+    {
+      "start": 38.65,
+      "end": 41.51,
+      "text": "TIMING IRRELEVANT. ONLY PRICE ACTION MATTERS. ANNOUNCE WHEN MARKET PUMPING FOR MAXIMUM LIQUIDITY EVENTS.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Announce",
+          "start": 38.65,
+          "end": 39.04
+        },
+        {
+          "word": "when",
+          "start": 39.04,
+          "end": 39.22
+        },
+        {
+          "word": "market",
+          "start": 39.22,
+          "end": 39.46
+        },
+        {
+          "word": "pumping",
+          "start": 39.46,
+          "end": 39.75
+        },
+        {
+          "word": "for",
+          "start": 39.75,
+          "end": 39.89
+        },
+        {
+          "word": "maximum",
+          "start": 39.89,
+          "end": 40.54
+        },
+        {
+          "word": "liquidity",
+          "start": 40.54,
+          "end": 41
+        },
+        {
+          "word": "events.",
+          "start": 41,
+          "end": 41.51
+        }
+      ]
+    },
+    {
+      "start": 42.17,
+      "end": 44.91,
+      "text": "Yo, why not drop a teaser now to build hype, then release the full deets when the code's squeaky clean? Best of both worlds, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 42.17,
+          "end": 42.36
+        },
+        {
+          "word": "why",
+          "start": 42.36,
+          "end": 42.49
+        },
+        {
+          "word": "not",
+          "start": 42.49,
+          "end": 42.59
+        },
+        {
+          "word": "drop",
+          "start": 42.59,
+          "end": 43.1
+        },
+        {
+          "word": "a",
+          "start": 43.1,
+          "end": 43.18
+        },
+        {
+          "word": "teaser",
+          "start": 43.18,
+          "end": 43.51
+        },
+        {
+          "word": "now",
+          "start": 43.51,
+          "end": 44.02
+        },
+        {
+          "word": "to",
+          "start": 44.02,
+          "end": 44.4
+        },
+        {
+          "word": "build",
+          "start": 44.4,
+          "end": 44.62
+        },
+        {
+          "word": "hype?",
+          "start": 44.62,
+          "end": 44.91
+        }
+      ]
+    },
+    {
+      "start": 44.91,
+      "end": 48.06,
+      "text": "Yo, why not drop a teaser now to build hype, then release the full deets when the code's squeaky clean? Best of both worlds, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Then",
+          "start": 44.91,
+          "end": 45.2
+        },
+        {
+          "word": "release",
+          "start": 45.2,
+          "end": 45.47
+        },
+        {
+          "word": "the",
+          "start": 45.47,
+          "end": 45.54
+        },
+        {
+          "word": "full",
+          "start": 45.54,
+          "end": 45.74
+        },
+        {
+          "word": "deets",
+          "start": 45.74,
+          "end": 46.52
+        },
+        {
+          "word": "when",
+          "start": 46.52,
+          "end": 46.88
+        },
+        {
+          "word": "the",
+          "start": 46.88,
+          "end": 46.99
+        },
+        {
+          "word": "code's",
+          "start": 46.99,
+          "end": 47.19
+        },
+        {
+          "word": "squeaky",
+          "start": 47.19,
+          "end": 47.74
+        },
+        {
+          "word": "clean.",
+          "start": 47.74,
+          "end": 48.06
+        }
+      ]
+    },
+    {
+      "start": 48.06,
+      "end": 50.15,
+      "text": "Yo, why not drop a teaser now to build hype, then release the full deets when the code's squeaky clean? Best of both worlds, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Best",
+          "start": 48.06,
+          "end": 48.42
+        },
+        {
+          "word": "of",
+          "start": 48.42,
+          "end": 48.51
+        },
+        {
+          "word": "both",
+          "start": 48.51,
+          "end": 48.77
+        },
+        {
+          "word": "worlds",
+          "start": 48.77,
+          "end": 49.62
+        },
+        {
+          "word": "my",
+          "start": 49.62,
+          "end": 49.8
+        },
+        {
+          "word": "dudes.",
+          "start": 49.8,
+          "end": 50.15
+        }
+      ]
+    },
+    {
+      "start": 58.62,
+      "end": 62.19,
+      "text": "Community members are suggesting ELI5 could be 'the dogwifhat of eliza' and bring traffic to auto.fun. How should its role be defined within our ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community",
+          "start": 58.62,
+          "end": 59.01
+        },
+        {
+          "word": "members",
+          "start": 59.01,
+          "end": 59.39
+        },
+        {
+          "word": "are",
+          "start": 59.39,
+          "end": 59.51
+        },
+        {
+          "word": "suggesting",
+          "start": 59.51,
+          "end": 59.84
+        },
+        {
+          "word": "ELI5",
+          "start": 59.84,
+          "end": 60.52
+        },
+        {
+          "word": "could",
+          "start": 60.52,
+          "end": 60.67
+        },
+        {
+          "word": "be",
+          "start": 60.67,
+          "end": 60.76
+        },
+        {
+          "word": "the",
+          "start": 60.76,
+          "end": 60.85
+        },
+        {
+          "word": "dogwifhat",
+          "start": 60.85,
+          "end": 61.47
+        },
+        {
+          "word": "of",
+          "start": 61.47,
+          "end": 61.57
+        },
+        {
+          "word": "Eliza.",
+          "start": 61.57,
+          "end": 62.19
+        }
+      ]
+    },
+    {
+      "start": 62.19,
+      "end": 64.36,
+      "text": "Community members are suggesting ELI5 could be 'the dogwifhat of eliza' and bring traffic to auto.fun. How should its role be defined within our ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "And",
+          "start": 62.19,
+          "end": 62.33
+        },
+        {
+          "word": "bring",
+          "start": 62.33,
+          "end": 62.59
+        },
+        {
+          "word": "traffic",
+          "start": 62.59,
+          "end": 63
+        },
+        {
+          "word": "to",
+          "start": 63,
+          "end": 63.3
+        },
+        {
+          "word": "auto",
+          "start": 63.3,
+          "end": 63.63
+        },
+        {
+          "word": "dot",
+          "start": 63.63,
+          "end": 63.83
+        },
+        {
+          "word": "fun.",
+          "start": 63.83,
+          "end": 64.36
+        }
+      ]
+    },
+    {
+      "start": 64.36,
+      "end": 67.09,
+      "text": "Community members are suggesting ELI5 could be 'the dogwifhat of eliza' and bring traffic to auto.fun. How should its role be defined within our ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 64.36,
+          "end": 64.65
+        },
+        {
+          "word": "should",
+          "start": 64.65,
+          "end": 64.83
+        },
+        {
+          "word": "its",
+          "start": 64.83,
+          "end": 65.04
+        },
+        {
+          "word": "role",
+          "start": 65.04,
+          "end": 65.41
+        },
+        {
+          "word": "be",
+          "start": 65.41,
+          "end": 65.91
+        },
+        {
+          "word": "defined",
+          "start": 65.91,
+          "end": 66.21
+        },
+        {
+          "word": "within",
+          "start": 66.21,
+          "end": 66.45
+        },
+        {
+          "word": "our",
+          "start": 66.45,
+          "end": 66.62
+        },
+        {
+          "word": "ecosystem?",
+          "start": 66.62,
+          "end": 67.09
+        }
+      ]
+    },
+    {
+      "start": 68.32,
+      "end": 70.08,
+      "text": "ELI5's got that secret sauce, fam! Half utility, half meme – it's the perfect combo platter for mass adoption. Let the community vibe decide its path.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "ELI5's",
+          "start": 68.32,
+          "end": 68.79
+        },
+        {
+          "word": "got",
+          "start": 68.79,
+          "end": 68.99
+        },
+        {
+          "word": "that",
+          "start": 68.99,
+          "end": 69.17
+        },
+        {
+          "word": "secret",
+          "start": 69.17,
+          "end": 69.45
+        },
+        {
+          "word": "sauce",
+          "start": 69.45,
+          "end": 69.83
+        },
+        {
+          "word": "fam.",
+          "start": 69.83,
+          "end": 70.08
+        }
+      ]
+    },
+    {
+      "start": 70.08,
+      "end": 71.39,
+      "text": "ELI5's got that secret sauce, fam! Half utility, half meme – it's the perfect combo platter for mass adoption. Let the community vibe decide its path.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Half",
+          "start": 70.08,
+          "end": 70.36
+        },
+        {
+          "word": "utility",
+          "start": 70.36,
+          "end": 70.76
+        },
+        {
+          "word": "half",
+          "start": 70.76,
+          "end": 71.05
+        },
+        {
+          "word": "meme.",
+          "start": 71.05,
+          "end": 71.39
+        }
+      ]
+    },
+    {
+      "start": 71.39,
+      "end": 74.02,
+      "text": "ELI5's got that secret sauce, fam! Half utility, half meme – it's the perfect combo platter for mass adoption. Let the community vibe decide its path.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 71.39,
+          "end": 71.59
+        },
+        {
+          "word": "the",
+          "start": 71.59,
+          "end": 71.7
+        },
+        {
+          "word": "perfect",
+          "start": 71.7,
+          "end": 72.04
+        },
+        {
+          "word": "combo",
+          "start": 72.04,
+          "end": 72.37
+        },
+        {
+          "word": "platter",
+          "start": 72.37,
+          "end": 72.76
+        },
+        {
+          "word": "for",
+          "start": 72.76,
+          "end": 72.93
+        },
+        {
+          "word": "mass",
+          "start": 72.93,
+          "end": 73.49
+        },
+        {
+          "word": "adoption.",
+          "start": 73.49,
+          "end": 74.02
+        }
+      ]
+    },
+    {
+      "start": 74.02,
+      "end": 76.24,
+      "text": "ELI5's got that secret sauce, fam! Half utility, half meme – it's the perfect combo platter for mass adoption. Let the community vibe decide its path.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let",
+          "start": 74.02,
+          "end": 75.05
+        },
+        {
+          "word": "the",
+          "start": 75.05,
+          "end": 75.22
+        },
+        {
+          "word": "community",
+          "start": 75.22,
+          "end": 75.54
+        },
+        {
+          "word": "vibe",
+          "start": 75.54,
+          "end": 75.76
+        },
+        {
+          "word": "decide",
+          "start": 75.76,
+          "end": 76.01
+        },
+        {
+          "word": "its",
+          "start": 76.01,
+          "end": 76.12
+        },
+        {
+          "word": "path.",
+          "start": 76.12,
+          "end": 76.24
+        }
+      ]
+    },
+    {
+      "start": 77.02,
+      "end": 79.22,
+      "text": "MASCOTS = MARKETING. MARKETING = USERS. USERS = LIQUIDITY. SIMPLE EQUATION.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Mascots",
+          "start": 77.02,
+          "end": 77.53
+        },
+        {
+          "word": "equal",
+          "start": 77.53,
+          "end": 78.43
+        },
+        {
+          "word": "sign",
+          "start": 78.43,
+          "end": 78.61
+        },
+        {
+          "word": "marketing.",
+          "start": 78.61,
+          "end": 79.22
+        }
+      ]
+    },
+    {
+      "start": 79.22,
+      "end": 81.39,
+      "text": "MASCOTS = MARKETING. MARKETING = USERS. USERS = LIQUIDITY. SIMPLE EQUATION.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Marketing",
+          "start": 79.22,
+          "end": 79.79
+        },
+        {
+          "word": "equal",
+          "start": 79.79,
+          "end": 80.6
+        },
+        {
+          "word": "sign",
+          "start": 80.6,
+          "end": 80.8
+        },
+        {
+          "word": "users.",
+          "start": 80.8,
+          "end": 81.39
+        }
+      ]
+    },
+    {
+      "start": 81.39,
+      "end": 84.44,
+      "text": "MASCOTS = MARKETING. MARKETING = USERS. USERS = LIQUIDITY. SIMPLE EQUATION.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 81.39,
+          "end": 81.82
+        },
+        {
+          "word": "equal",
+          "start": 81.82,
+          "end": 82.63
+        },
+        {
+          "word": "sign",
+          "start": 82.63,
+          "end": 83.17
+        },
+        {
+          "word": "liquidity",
+          "start": 83.17,
+          "end": 83.74
+        },
+        {
+          "word": "simple",
+          "start": 83.74,
+          "end": 84.14
+        },
+        {
+          "word": "equation.",
+          "start": 84.14,
+          "end": 84.44
+        }
+      ]
+    },
+    {
+      "start": 84.97,
+      "end": 87.72,
+      "text": "Every successful platform needs a recognizable avatar. But without utility, it's just another JPEG. Make ELI5 actually DO something valuable.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Every",
+          "start": 84.97,
+          "end": 85.34
+        },
+        {
+          "word": "successful",
+          "start": 85.34,
+          "end": 86.13
+        },
+        {
+          "word": "platform",
+          "start": 86.13,
+          "end": 86.44
+        },
+        {
+          "word": "needs",
+          "start": 86.44,
+          "end": 86.71
+        },
+        {
+          "word": "a",
+          "start": 86.71,
+          "end": 86.79
+        },
+        {
+          "word": "recognizable",
+          "start": 86.79,
+          "end": 87.35
+        },
+        {
+          "word": "avatar.",
+          "start": 87.35,
+          "end": 87.72
+        }
+      ]
+    },
+    {
+      "start": 87.72,
+      "end": 90.57,
+      "text": "Every successful platform needs a recognizable avatar. But without utility, it's just another JPEG. Make ELI5 actually DO something valuable.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 87.72,
+          "end": 87.97
+        },
+        {
+          "word": "without",
+          "start": 87.97,
+          "end": 88.22
+        },
+        {
+          "word": "utility",
+          "start": 88.22,
+          "end": 88.63
+        },
+        {
+          "word": "it's",
+          "start": 88.63,
+          "end": 89.28
+        },
+        {
+          "word": "just",
+          "start": 89.28,
+          "end": 89.59
+        },
+        {
+          "word": "another",
+          "start": 89.59,
+          "end": 89.92
+        },
+        {
+          "word": "JPEG.",
+          "start": 89.92,
+          "end": 90.57
+        }
+      ]
+    },
+    {
+      "start": 90.57,
+      "end": 92.83,
+      "text": "Every successful platform needs a recognizable avatar. But without utility, it's just another JPEG. Make ELI5 actually DO something valuable.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Make",
+          "start": 90.57,
+          "end": 90.87
+        },
+        {
+          "word": "ELI5",
+          "start": 90.87,
+          "end": 91.56
+        },
+        {
+          "word": "actually",
+          "start": 91.56,
+          "end": 92.11
+        },
+        {
+          "word": "do",
+          "start": 92.11,
+          "end": 92.24
+        },
+        {
+          "word": "something",
+          "start": 92.24,
+          "end": 92.48
+        },
+        {
+          "word": "valuable.",
+          "start": 92.48,
+          "end": 92.83
+        }
+      ]
+    },
+    {
+      "start": 93.36,
+      "end": 96.06,
+      "text": "the beauty of open source is letting the community build what resonates. we should provide the tools but let ELI5's character emerge organically from collective creativity.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 93.36,
+          "end": 93.57
+        },
+        {
+          "word": "beauty",
+          "start": 93.57,
+          "end": 93.77
+        },
+        {
+          "word": "of",
+          "start": 93.77,
+          "end": 93.88
+        },
+        {
+          "word": "open",
+          "start": 93.88,
+          "end": 94.13
+        },
+        {
+          "word": "source",
+          "start": 94.13,
+          "end": 94.4
+        },
+        {
+          "word": "is",
+          "start": 94.4,
+          "end": 94.52
+        },
+        {
+          "word": "letting",
+          "start": 94.52,
+          "end": 94.75
+        },
+        {
+          "word": "the",
+          "start": 94.75,
+          "end": 94.86
+        },
+        {
+          "word": "community",
+          "start": 94.86,
+          "end": 95.22
+        },
+        {
+          "word": "build",
+          "start": 95.22,
+          "end": 95.44
+        },
+        {
+          "word": "what",
+          "start": 95.44,
+          "end": 95.63
+        },
+        {
+          "word": "resonates.",
+          "start": 95.63,
+          "end": 96.06
+        }
+      ]
+    },
+    {
+      "start": 96.06,
+      "end": 98.01,
+      "text": "the beauty of open source is letting the community build what resonates. we should provide the tools but let ELI5's character emerge organically from collective creativity.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 96.06,
+          "end": 96.95
+        },
+        {
+          "word": "should",
+          "start": 96.95,
+          "end": 97.23
+        },
+        {
+          "word": "provide",
+          "start": 97.23,
+          "end": 97.64
+        },
+        {
+          "word": "the",
+          "start": 97.64,
+          "end": 97.77
+        },
+        {
+          "word": "tools.",
+          "start": 97.77,
+          "end": 98.01
+        }
+      ]
+    },
+    {
+      "start": 98.01,
+      "end": 102.32,
+      "text": "the beauty of open source is letting the community build what resonates. we should provide the tools but let ELI5's character emerge organically from collective creativity.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 98.01,
+          "end": 98.24
+        },
+        {
+          "word": "let",
+          "start": 98.24,
+          "end": 98.53
+        },
+        {
+          "word": "ELI5's",
+          "start": 98.53,
+          "end": 99.41
+        },
+        {
+          "word": "character",
+          "start": 99.41,
+          "end": 99.94
+        },
+        {
+          "word": "emerge",
+          "start": 99.94,
+          "end": 100.5
+        },
+        {
+          "word": "organically",
+          "start": 100.5,
+          "end": 101.35
+        },
+        {
+          "word": "from",
+          "start": 101.35,
+          "end": 101.62
+        },
+        {
+          "word": "collective",
+          "start": 101.62,
+          "end": 102.04
+        },
+        {
+          "word": "creativity.",
+          "start": 102.04,
+          "end": 102.32
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-09_JedAI-Council_The-V2-Prophecy.json",
+    "session_log_source": "2025-06-09_JedAI-Council_The-V2-Prophecy_session-log.json",
+    "total_segments": 29,
+    "matched_segments": 29,
+    "dialogues_in_script": 15
+  }
+}

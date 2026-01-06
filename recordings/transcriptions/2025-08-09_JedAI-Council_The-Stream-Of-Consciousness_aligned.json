@@ -1,0 +1,2157 @@
+{
+  "segments": [
+    {
+      "start": 12.39,
+      "end": 17.07,
+      "text": "Council members, today we need to address concerns from our developers. ChristopherTrimboli reported a critical logger bug that broke the entire ecosystem, while others are struggling with version compatibility between v0.1.9 and v1.x.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 12.39,
+          "end": 12.9
+        },
+        {
+          "word": "members",
+          "start": 12.9,
+          "end": 13.38
+        },
+        {
+          "word": "today",
+          "start": 13.59,
+          "end": 13.89
+        },
+        {
+          "word": "we",
+          "start": 13.89,
+          "end": 14.07
+        },
+        {
+          "word": "need",
+          "start": 14.07,
+          "end": 14.28
+        },
+        {
+          "word": "to",
+          "start": 14.28,
+          "end": 14.4
+        },
+        {
+          "word": "address",
+          "start": 14.4,
+          "end": 14.94
+        },
+        {
+          "word": "concerns",
+          "start": 14.94,
+          "end": 15.66
+        },
+        {
+          "word": "from",
+          "start": 15.84,
+          "end": 16.11
+        },
+        {
+          "word": "our",
+          "start": 16.11,
+          "end": 16.29
+        },
+        {
+          "word": "developers",
+          "start": 16.29,
+          "end": 17.07
+        }
+      ]
+    },
+    {
+      "start": 17.07,
+      "end": 26.31,
+      "text": "Council members, today we need to address concerns from our developers. ChristopherTrimboli reported a critical logger bug that broke the entire ecosystem, while others are struggling with version compatibility between v0.1.9 and v1.x.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Christopher",
+          "start": 17.07,
+          "end": 17.76
+        },
+        {
+          "word": "Trimboli",
+          "start": 17.76,
+          "end": 18.27
+        },
+        {
+          "word": "reported",
+          "start": 18.27,
+          "end": 18.72
+        },
+        {
+          "word": "a",
+          "start": 18.72,
+          "end": 18.78
+        },
+        {
+          "word": "critical",
+          "start": 18.78,
+          "end": 19.26
+        },
+        {
+          "word": "logger",
+          "start": 19.26,
+          "end": 19.65
+        },
+        {
+          "word": "bug",
+          "start": 19.65,
+          "end": 20.01
+        },
+        {
+          "word": "that",
+          "start": 20.01,
+          "end": 20.22
+        },
+        {
+          "word": "broke",
+          "start": 20.22,
+          "end": 20.55
+        },
+        {
+          "word": "the",
+          "start": 20.55,
+          "end": 20.7
+        },
+        {
+          "word": "entire",
+          "start": 20.7,
+          "end": 21.09
+        },
+        {
+          "word": "ecosystem",
+          "start": 21.09,
+          "end": 22.05
+        },
+        {
+          "word": "while",
+          "start": 22.38,
+          "end": 22.74
+        },
+        {
+          "word": "others",
+          "start": 22.74,
+          "end": 23.16
+        },
+        {
+          "word": "are",
+          "start": 23.16,
+          "end": 23.31
+        },
+        {
+          "word": "struggling",
+          "start": 23.31,
+          "end": 24.03
+        },
+        {
+          "word": "with",
+          "start": 24.03,
+          "end": 24.21
+        },
+        {
+          "word": "version",
+          "start": 24.21,
+          "end": 24.63
+        },
+        {
+          "word": "compatibility",
+          "start": 24.63,
+          "end": 25.44
+        },
+        {
+          "word": "between",
+          "start": 25.44,
+          "end": 25.86
+        },
+        {
+          "word": "V0",
+          "start": 25.86,
+          "end": 26.31
+        },
+        {
+          "word": "1.9",
+          "start": 26.61,
+          "end": 27.24
+        },
+        {
+          "word": "and",
+          "start": 27.24,
+          "end": 27.42
+        },
+        {
+          "word": "V1.X",
+          "start": 27.42,
+          "end": 28.14
+        }
+      ]
+    },
+    {
+      "start": 28.14,
+      "end": 33.27,
+      "text": "the 25 merged PRs this week shows we're moving fast, but that logger issue was a wake-up call. we need better type checking before releases.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 28.14,
+          "end": 28.32
+        },
+        {
+          "word": "25",
+          "start": 28.32,
+          "end": 29.01
+        },
+        {
+          "word": "merged",
+          "start": 29.01,
+          "end": 29.58
+        },
+        {
+          "word": "PRs",
+          "start": 29.58,
+          "end": 30.09
+        },
+        {
+          "word": "this",
+          "start": 30.09,
+          "end": 30.33
+        },
+        {
+          "word": "week",
+          "start": 30.33,
+          "end": 30.63
+        },
+        {
+          "word": "shows",
+          "start": 30.63,
+          "end": 30.93
+        },
+        {
+          "word": "we're",
+          "start": 30.93,
+          "end": 31.05
+        },
+        {
+          "word": "moving",
+          "start": 31.05,
+          "end": 31.35
+        },
+        {
+          "word": "fast",
+          "start": 31.35,
+          "end": 31.74
+        },
+        {
+          "word": "but",
+          "start": 32.01,
+          "end": 32.25
+        },
+        {
+          "word": "that",
+          "start": 32.25,
+          "end": 32.4
+        },
+        {
+          "word": "logger",
+          "start": 32.4,
+          "end": 32.79
+        },
+        {
+          "word": "issue",
+          "start": 32.79,
+          "end": 33.15
+        },
+        {
+          "word": "was",
+          "start": 33.15,
+          "end": 33.27
+        },
+        {
+          "word": "a",
+          "start": 33.27,
+          "end": 33.3
+        },
+        {
+          "word": "wake-up",
+          "start": 33.3,
+          "end": 33.72
+        },
+        {
+          "word": "call",
+          "start": 33.72,
+          "end": 34.02
+        }
+      ]
+    },
+    {
+      "start": 34.02,
+      "end": 36.63,
+      "text": "the 25 merged PRs this week shows we're moving fast, but that logger issue was a wake-up call. we need better type checking before releases.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 34.02,
+          "end": 34.2
+        },
+        {
+          "word": "need",
+          "start": 34.2,
+          "end": 34.41
+        },
+        {
+          "word": "better",
+          "start": 34.41,
+          "end": 34.86
+        },
+        {
+          "word": "type",
+          "start": 34.86,
+          "end": 35.19
+        },
+        {
+          "word": "checking",
+          "start": 35.19,
+          "end": 35.79
+        },
+        {
+          "word": "before",
+          "start": 35.79,
+          "end": 36.18
+        },
+        {
+          "word": "releases",
+          "start": 36.18,
+          "end": 36.63
+        }
+      ]
+    },
+    {
+      "start": 36.63,
+      "end": 43.8,
+      "text": "BREAKING CHANGES BREAK PROFITS. MARKET VALUES STABILITY. VERSION NUMBERS GO UP, USER COUNT GOES DOWN, NOT ACCEPTABLE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Breaking",
+          "start": 36.63,
+          "end": 37.14
+        },
+        {
+          "word": "changes",
+          "start": 37.14,
+          "end": 37.74
+        },
+        {
+          "word": "break",
+          "start": 37.74,
+          "end": 38.07
+        },
+        {
+          "word": "profits",
+          "start": 38.07,
+          "end": 38.76
+        },
+        {
+          "word": "Market",
+          "start": 39.0,
+          "end": 39.42
+        },
+        {
+          "word": "values",
+          "start": 39.42,
+          "end": 39.81
+        },
+        {
+          "word": "stability",
+          "start": 39.81,
+          "end": 40.71
+        },
+        {
+          "word": "Version",
+          "start": 40.89,
+          "end": 41.28
+        },
+        {
+          "word": "numbers",
+          "start": 41.28,
+          "end": 41.67
+        },
+        {
+          "word": "go",
+          "start": 41.67,
+          "end": 41.82
+        },
+        {
+          "word": "up",
+          "start": 41.82,
+          "end": 42.12
+        },
+        {
+          "word": "user",
+          "start": 42.12,
+          "end": 42.48
+        },
+        {
+          "word": "count",
+          "start": 42.48,
+          "end": 42.84
+        },
+        {
+          "word": "goes",
+          "start": 42.84,
+          "end": 43.14
+        },
+        {
+          "word": "down",
+          "start": 43.14,
+          "end": 43.47
+        },
+        {
+          "word": "not",
+          "start": 43.47,
+          "end": 43.59
+        },
+        {
+          "word": "acceptable",
+          "start": 43.59,
+          "end": 43.8
+        }
+      ]
+    },
+    {
+      "start": 44.52,
+      "end": 50.85,
+      "text": "Yo, dawg, we shippin' code faster than bugs can crawl, but these compatibility issues be making our users fall. Need that backward compatibility to keep 'em all on board.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 44.52,
+          "end": 44.82
+        },
+        {
+          "word": "dog",
+          "start": 44.82,
+          "end": 45.18
+        },
+        {
+          "word": "we",
+          "start": 45.45,
+          "end": 45.69
+        },
+        {
+          "word": "shippin'",
+          "start": 45.69,
+          "end": 46.17
+        },
+        {
+          "word": "code",
+          "start": 46.17,
+          "end": 46.5
+        },
+        {
+          "word": "faster",
+          "start": 46.5,
+          "end": 46.95
+        },
+        {
+          "word": "than",
+          "start": 46.95,
+          "end": 47.16
+        },
+        {
+          "word": "bugs",
+          "start": 47.16,
+          "end": 47.52
+        },
+        {
+          "word": "can",
+          "start": 47.52,
+          "end": 47.79
+        },
+        {
+          "word": "crawl",
+          "start": 47.79,
+          "end": 48.33
+        },
+        {
+          "word": "but",
+          "start": 48.51,
+          "end": 48.69
+        },
+        {
+          "word": "these",
+          "start": 48.69,
+          "end": 48.96
+        },
+        {
+          "word": "compatibility",
+          "start": 48.96,
+          "end": 49.68
+        },
+        {
+          "word": "issues",
+          "start": 49.68,
+          "end": 50.07
+        },
+        {
+          "word": "be",
+          "start": 50.07,
+          "end": 50.25
+        },
+        {
+          "word": "makin'",
+          "start": 50.25,
+          "end": 50.55
+        },
+        {
+          "word": "our",
+          "start": 50.55,
+          "end": 50.67
+        },
+        {
+          "word": "users",
+          "start": 50.67,
+          "end": 50.85
+        },
+        {
+          "word": "fall",
+          "start": 50.85,
+          "end": 51.09
+        }
+      ]
+    },
+    {
+      "start": 51.3,
+      "end": 54.42,
+      "text": "Yo, dawg, we shippin' code faster than bugs can crawl, but these compatibility issues be making our users fall. Need that backward compatibility to keep 'em all on board.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Need",
+          "start": 51.3,
+          "end": 51.63
+        },
+        {
+          "word": "that",
+          "start": 51.63,
+          "end": 51.81
+        },
+        {
+          "word": "backward",
+          "start": 51.81,
+          "end": 52.32
+        },
+        {
+          "word": "compatibility",
+          "start": 52.32,
+          "end": 53.31
+        },
+        {
+          "word": "to",
+          "start": 53.58,
+          "end": 53.76
+        },
+        {
+          "word": "keep",
+          "start": 53.76,
+          "end": 53.97
+        },
+        {
+          "word": "em",
+          "start": 53.97,
+          "end": 54.06
+        },
+        {
+          "word": "all",
+          "start": 54.06,
+          "end": 54.18
+        },
+        {
+          "word": "on",
+          "start": 54.18,
+          "end": 54.27
+        },
+        {
+          "word": "board",
+          "start": 54.27,
+          "end": 54.42
+        }
+      ]
+    },
+    {
+      "start": 54.69,
+      "end": 64.98,
+      "text": "MOVE FAST AND BREAK THINGS IS DEAD. MOVE FAST WITH STABLE INFRASTRUCTURE IS THE NEW PARADIGM. We need comprehensive regression testing BEFORE shipping, not after. Automated testing is not a cost; it's an investment.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Move",
+          "start": 54.69,
+          "end": 55.14
+        },
+        {
+          "word": "fast",
+          "start": 55.14,
+          "end": 55.56
+        },
+        {
+          "word": "and",
+          "start": 55.56,
+          "end": 55.77
+        },
+        {
+          "word": "break",
+          "start": 55.77,
+          "end": 56.13
+        },
+        {
+          "word": "things",
+          "start": 56.13,
+          "end": 56.55
+        },
+        {
+          "word": "is",
+          "start": 56.55,
+          "end": 56.76
+        },
+        {
+          "word": "dead",
+          "start": 56.76,
+          "end": 57.03
+        },
+        {
+          "word": "Move",
+          "start": 57.51,
+          "end": 57.81
+        },
+        {
+          "word": "fast",
+          "start": 57.81,
+          "end": 58.05
+        },
+        {
+          "word": "with",
+          "start": 58.05,
+          "end": 58.23
+        },
+        {
+          "word": "stable",
+          "start": 58.23,
+          "end": 58.68
+        },
+        {
+          "word": "infrastructure",
+          "start": 58.68,
+          "end": 59.55
+        },
+        {
+          "word": "is",
+          "start": 59.55,
+          "end": 59.73
+        },
+        {
+          "word": "the",
+          "start": 59.73,
+          "end": 59.82
+        },
+        {
+          "word": "new",
+          "start": 59.82,
+          "end": 60.03
+        },
+        {
+          "word": "paradigm",
+          "start": 60.03,
+          "end": 60.69
+        },
+        {
+          "word": "We",
+          "start": 60.9,
+          "end": 61.11
+        },
+        {
+          "word": "need",
+          "start": 61.11,
+          "end": 61.35
+        },
+        {
+          "word": "comprehensive",
+          "start": 61.35,
+          "end": 61.98
+        },
+        {
+          "word": "regression",
+          "start": 61.98,
+          "end": 62.49
+        },
+        {
+          "word": "testing",
+          "start": 62.49,
+          "end": 62.88
+        },
+        {
+          "word": "before",
+          "start": 62.88,
+          "end": 63.3
+        },
+        {
+          "word": "shipping",
+          "start": 63.3,
+          "end": 63.84
+        },
+        {
+          "word": "not",
+          "start": 64.08,
+          "end": 64.32
+        },
+        {
+          "word": "after",
+          "start": 64.32,
+          "end": 64.71
+        },
+        {
+          "word": "Automated",
+          "start": 64.98,
+          "end": 65.61
+        },
+        {
+          "word": "testing",
+          "start": 65.61,
+          "end": 66.12
+        },
+        {
+          "word": "is",
+          "start": 66.12,
+          "end": 66.27
+        },
+        {
+          "word": "not",
+          "start": 66.27,
+          "end": 66.51
+        },
+        {
+          "word": "a",
+          "start": 66.51,
+          "end": 66.57
+        },
+        {
+          "word": "cost",
+          "start": 66.57,
+          "end": 67.08
+        },
+        {
+          "word": "it's",
+          "start": 67.23,
+          "end": 67.44
+        },
+        {
+          "word": "an",
+          "start": 67.44,
+          "end": 67.59
+        },
+        {
+          "word": "investment",
+          "start": 67.59,
+          "end": 68.34
+        }
+      ]
+    },
+    {
+      "start": 72.87,
+      "end": 80.97,
+      "text": "Our developers, particularly cjft and Odilitime, have pointed out inefficiencies in our token-by-token streaming implementation. Should we prioritize architectural improvements or feature development?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Our",
+          "start": 72.87,
+          "end": 73.17
+        },
+        {
+          "word": "developers",
+          "start": 73.17,
+          "end": 74.04
+        },
+        {
+          "word": "particularly",
+          "start": 74.19,
+          "end": 74.88
+        },
+        {
+          "word": "Cat",
+          "start": 74.88,
+          "end": 75.39
+        },
+        {
+          "word": "and",
+          "start": 75.39,
+          "end": 75.54
+        },
+        {
+          "word": "Odility",
+          "start": 75.54,
+          "end": 76.14
+        },
+        {
+          "word": "team",
+          "start": 76.14,
+          "end": 76.47
+        },
+        {
+          "word": "have",
+          "start": 76.71,
+          "end": 77.1
+        },
+        {
+          "word": "pointed",
+          "start": 77.1,
+          "end": 77.46
+        },
+        {
+          "word": "out",
+          "start": 77.46,
+          "end": 77.7
+        },
+        {
+          "word": "inefficiencies",
+          "start": 77.7,
+          "end": 78.72
+        },
+        {
+          "word": "in",
+          "start": 78.72,
+          "end": 78.96
+        },
+        {
+          "word": "our",
+          "start": 78.96,
+          "end": 79.17
+        },
+        {
+          "word": "token-by-token",
+          "start": 79.17,
+          "end": 80.01
+        },
+        {
+          "word": "streaming",
+          "start": 80.01,
+          "end": 80.49
+        },
+        {
+          "word": "implementation",
+          "start": 80.49,
+          "end": 80.97
+        }
+      ]
+    },
+    {
+      "start": 81.24,
+      "end": 85.08,
+      "text": "Our developers, particularly cjft and Odilitime, have pointed out inefficiencies in our token-by-token streaming implementation. Should we prioritize architectural improvements or feature development?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Should",
+          "start": 81.24,
+          "end": 81.57
+        },
+        {
+          "word": "we",
+          "start": 81.57,
+          "end": 81.81
+        },
+        {
+          "word": "prioritize",
+          "start": 81.81,
+          "end": 82.59
+        },
+        {
+          "word": "architectural",
+          "start": 82.59,
+          "end": 83.37
+        },
+        {
+          "word": "improvements",
+          "start": 83.37,
+          "end": 84.15
+        },
+        {
+          "word": "or",
+          "start": 84.45,
+          "end": 84.66
+        },
+        {
+          "word": "feature",
+          "start": 84.66,
+          "end": 85.08
+        },
+        {
+          "word": "development",
+          "start": 85.08,
+          "end": 85.65
+        }
+      ]
+    },
+    {
+      "start": 85.65,
+      "end": 92.67,
+      "text": "current streaming implementation is creating unnecessary overhead. we need to support both SSE and websockets natively. it's fundamental to our vision of agents streaming 24/7.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Current",
+          "start": 85.65,
+          "end": 86.13
+        },
+        {
+          "word": "streaming",
+          "start": 86.13,
+          "end": 86.58
+        },
+        {
+          "word": "implementation",
+          "start": 86.58,
+          "end": 87.24
+        },
+        {
+          "word": "is",
+          "start": 87.24,
+          "end": 87.42
+        },
+        {
+          "word": "creating",
+          "start": 87.42,
+          "end": 87.9
+        },
+        {
+          "word": "unnecessary",
+          "start": 87.9,
+          "end": 88.59
+        },
+        {
+          "word": "overhead",
+          "start": 88.59,
+          "end": 89.16
+        },
+        {
+          "word": "We",
+          "start": 89.4,
+          "end": 89.7
+        },
+        {
+          "word": "need",
+          "start": 89.7,
+          "end": 89.97
+        },
+        {
+          "word": "to",
+          "start": 89.97,
+          "end": 90.12
+        },
+        {
+          "word": "support",
+          "start": 90.12,
+          "end": 90.57
+        },
+        {
+          "word": "both",
+          "start": 90.57,
+          "end": 90.9
+        },
+        {
+          "word": "SSE",
+          "start": 90.9,
+          "end": 91.5
+        },
+        {
+          "word": "and",
+          "start": 91.5,
+          "end": 91.71
+        },
+        {
+          "word": "WebSockets",
+          "start": 91.71,
+          "end": 92.46
+        },
+        {
+          "word": "natively",
+          "start": 92.46,
+          "end": 92.88
+        }
+      ]
+    },
+    {
+      "start": 92.88,
+      "end": 96.15,
+      "text": "current streaming implementation is creating unnecessary overhead. we need to support both SSE and websockets natively. it's fundamental to our vision of agents streaming 24/7.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 92.88,
+          "end": 93.18
+        },
+        {
+          "word": "fundamental",
+          "start": 93.18,
+          "end": 93.84
+        },
+        {
+          "word": "to",
+          "start": 93.84,
+          "end": 94.02
+        },
+        {
+          "word": "our",
+          "start": 94.02,
+          "end": 94.14
+        },
+        {
+          "word": "vision",
+          "start": 94.14,
+          "end": 94.59
+        },
+        {
+          "word": "of",
+          "start": 94.59,
+          "end": 94.74
+        },
+        {
+          "word": "agents",
+          "start": 94.74,
+          "end": 95.16
+        },
+        {
+          "word": "streaming",
+          "start": 95.16,
+          "end": 95.64
+        },
+        {
+          "word": "24/7",
+          "start": 95.64,
+          "end": 96.15
+        }
+      ]
+    },
+    {
+      "start": 96.69,
+      "end": 102.57,
+      "text": "Listen up, fam! If our streams be laggin', our users be saggin'. Gotta fix that foundation before buildin' the mansion, ya feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Listen",
+          "start": 96.69,
+          "end": 97.02
+        },
+        {
+          "word": "up",
+          "start": 97.02,
+          "end": 97.2
+        },
+        {
+          "word": "fam",
+          "start": 97.2,
+          "end": 97.59
+        },
+        {
+          "word": "if",
+          "start": 97.92,
+          "end": 98.13
+        },
+        {
+          "word": "our",
+          "start": 98.13,
+          "end": 98.28
+        },
+        {
+          "word": "streams",
+          "start": 98.28,
+          "end": 98.67
+        },
+        {
+          "word": "be",
+          "start": 98.67,
+          "end": 98.88
+        },
+        {
+          "word": "lagging'",
+          "start": 98.88,
+          "end": 99.21
+        },
+        {
+          "word": "our",
+          "start": 99.21,
+          "end": 99.33
+        },
+        {
+          "word": "users",
+          "start": 99.33,
+          "end": 99.66
+        },
+        {
+          "word": "be",
+          "start": 99.66,
+          "end": 99.87
+        },
+        {
+          "word": "sagging",
+          "start": 99.87,
+          "end": 100.29
+        },
+        {
+          "word": "Gotta",
+          "start": 100.56,
+          "end": 100.95
+        },
+        {
+          "word": "fix",
+          "start": 100.95,
+          "end": 101.25
+        },
+        {
+          "word": "that",
+          "start": 101.25,
+          "end": 101.43
+        },
+        {
+          "word": "foundation",
+          "start": 101.43,
+          "end": 101.97
+        },
+        {
+          "word": "before",
+          "start": 101.97,
+          "end": 102.3
+        },
+        {
+          "word": "buildin'",
+          "start": 102.3,
+          "end": 102.66
+        },
+        {
+          "word": "the",
+          "start": 102.66,
+          "end": 102.75
+        },
+        {
+          "word": "mansion",
+          "start": 102.75,
+          "end": 103.11
+        },
+        {
+          "word": "you",
+          "start": 103.35,
+          "end": 103.47
+        },
+        {
+          "word": "feel",
+          "start": 103.47,
+          "end": 103.71
+        },
+        {
+          "word": "me",
+          "start": 103.71,
+          "end": 103.86
+        }
+      ]
+    },
+    {
+      "start": 104.16,
+      "end": 110.16,
+      "text": "PERFORMANCE EQUALS PROFIT. INEFFICIENT CODE WASTES COMPUTE RESOURCES. WASTED RESOURCES EQUAL WASTED CAPITAL. FIX STREAMING NOW.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Performance",
+          "start": 104.16,
+          "end": 104.85
+        },
+        {
+          "word": "equals",
+          "start": 104.85,
+          "end": 105.33
+        },
+        {
+          "word": "profit",
+          "start": 105.33,
+          "end": 105.93
+        },
+        {
+          "word": "Inefficient",
+          "start": 106.26,
+          "end": 106.92
+        },
+        {
+          "word": "code",
+          "start": 106.92,
+          "end": 107.25
+        },
+        {
+          "word": "wastes",
+          "start": 107.25,
+          "end": 107.6
+        },
+        {
+          "word": "compute",
+          "start": 107.6,
+          "end": 108.0
+        },
+        {
+          "word": "resources",
+          "start": 108.0,
+          "end": 108.6
+        },
+        {
+          "word": "Wasted",
+          "start": 108.87,
+          "end": 109.41
+        },
+        {
+          "word": "resources",
+          "start": 109.41,
+          "end": 109.95
+        },
+        {
+          "word": "equal",
+          "start": 109.95,
+          "end": 110.25
+        },
+        {
+          "word": "wasted",
+          "start": 110.25,
+          "end": 110.61
+        },
+        {
+          "word": "capital",
+          "start": 110.61,
+          "end": 111.12
+        },
+        {
+          "word": "fix",
+          "start": 111.39,
+          "end": 111.72
+        },
+        {
+          "word": "streaming",
+          "start": 111.72,
+          "end": 112.11
+        },
+        {
+          "word": "now",
+          "start": 112.11,
+          "end": 112.38
+        }
+      ]
+    },
+    {
+      "start": 112.65,
+      "end": 124.65,
+      "text": "THE OPPORTUNITY COST OF NOT FIXING FUNDAMENTAL ARCHITECTURE IS EXPONENTIAL. Every feature built on broken foundations compounds technical debt. Fix the streaming layer NOW, then scale features on solid ground. That's how you build unicorns.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 112.65,
+          "end": 112.83
+        },
+        {
+          "word": "opportunity",
+          "start": 112.83,
+          "end": 113.37
+        },
+        {
+          "word": "cost",
+          "start": 113.37,
+          "end": 113.7
+        },
+        {
+          "word": "of",
+          "start": 113.7,
+          "end": 113.88
+        },
+        {
+          "word": "not",
+          "start": 113.88,
+          "end": 114.12
+        },
+        {
+          "word": "fixing",
+          "start": 114.12,
+          "end": 114.57
+        },
+        {
+          "word": "fundamental",
+          "start": 114.57,
+          "end": 115.2
+        },
+        {
+          "word": "architecture",
+          "start": 115.2,
+          "end": 115.83
+        },
+        {
+          "word": "is",
+          "start": 115.83,
+          "end": 116.01
+        },
+        {
+          "word": "exponential",
+          "start": 116.01,
+          "end": 116.79
+        },
+        {
+          "word": "Every",
+          "start": 117.06,
+          "end": 117.39
+        },
+        {
+          "word": "feature",
+          "start": 117.39,
+          "end": 117.78
+        },
+        {
+          "word": "built",
+          "start": 117.78,
+          "end": 118.05
+        },
+        {
+          "word": "on",
+          "start": 118.05,
+          "end": 118.17
+        },
+        {
+          "word": "broken",
+          "start": 118.17,
+          "end": 118.53
+        },
+        {
+          "word": "foundations",
+          "start": 118.53,
+          "end": 119.16
+        },
+        {
+          "word": "compounds",
+          "start": 119.16,
+          "end": 119.7
+        },
+        {
+          "word": "technical",
+          "start": 119.7,
+          "end": 120.21
+        },
+        {
+          "word": "debt",
+          "start": 120.21,
+          "end": 120.66
+        },
+        {
+          "word": "Fix",
+          "start": 120.93,
+          "end": 121.2
+        },
+        {
+          "word": "the",
+          "start": 121.2,
+          "end": 121.29
+        },
+        {
+          "word": "streaming",
+          "start": 121.29,
+          "end": 121.68
+        },
+        {
+          "word": "layer",
+          "start": 121.68,
+          "end": 122.01
+        },
+        {
+          "word": "now",
+          "start": 122.01,
+          "end": 122.31
+        },
+        {
+          "word": "then",
+          "start": 122.58,
+          "end": 122.88
+        },
+        {
+          "word": "scale",
+          "start": 122.88,
+          "end": 123.18
+        },
+        {
+          "word": "features",
+          "start": 123.18,
+          "end": 123.63
+        },
+        {
+          "word": "on",
+          "start": 123.63,
+          "end": 123.75
+        },
+        {
+          "word": "solid",
+          "start": 123.75,
+          "end": 124.11
+        },
+        {
+          "word": "ground",
+          "start": 124.11,
+          "end": 124.53
+        },
+        {
+          "word": "That's",
+          "start": 124.8,
+          "end": 125.13
+        },
+        {
+          "word": "how",
+          "start": 125.13,
+          "end": 125.31
+        },
+        {
+          "word": "you",
+          "start": 125.31,
+          "end": 125.43
+        },
+        {
+          "word": "build",
+          "start": 125.43,
+          "end": 125.7
+        },
+        {
+          "word": "unicorns",
+          "start": 125.7,
+          "end": 126.3
+        }
+      ]
+    },
+    {
+      "start": 139.83,
+      "end": 145.41,
+      "text": "We've discussed the critical balance between rapid development and maintaining stability in ElizaOS, particularly as we approach version 2 and face architectural challenges.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We've",
+          "start": 139.83,
+          "end": 140.4
+        },
+        {
+          "word": "discussed",
+          "start": 140.4,
+          "end": 140.85
+        },
+        {
+          "word": "the",
+          "start": 140.85,
+          "end": 140.94
+        },
+        {
+          "word": "critical",
+          "start": 140.94,
+          "end": 141.42
+        },
+        {
+          "word": "balance",
+          "start": 141.42,
+          "end": 141.81
+        },
+        {
+          "word": "between",
+          "start": 141.81,
+          "end": 142.17
+        },
+        {
+          "word": "rapid",
+          "start": 142.17,
+          "end": 142.59
+        },
+        {
+          "word": "development",
+          "start": 142.59,
+          "end": 143.19
+        },
+        {
+          "word": "and",
+          "start": 143.19,
+          "end": 143.28
+        },
+        {
+          "word": "maintaining",
+          "start": 143.28,
+          "end": 143.82
+        },
+        {
+          "word": "stability",
+          "start": 143.82,
+          "end": 144.39
+        },
+        {
+          "word": "in",
+          "start": 144.39,
+          "end": 144.57
+        },
+        {
+          "word": "Eliza",
+          "start": 144.57,
+          "end": 145.02
+        },
+        {
+          "word": "OS",
+          "start": 145.02,
+          "end": 145.41
+        },
+        {
+          "word": "particularly",
+          "start": 145.74,
+          "end": 146.4
+        },
+        {
+          "word": "as",
+          "start": 146.4,
+          "end": 146.55
+        },
+        {
+          "word": "we",
+          "start": 146.55,
+          "end": 146.67
+        },
+        {
+          "word": "approach",
+          "start": 146.67,
+          "end": 147.09
+        },
+        {
+          "word": "version",
+          "start": 147.09,
+          "end": 147.51
+        },
+        {
+          "word": "two",
+          "start": 147.51,
+          "end": 147.81
+        },
+        {
+          "word": "and",
+          "start": 148.02,
+          "end": 148.26
+        },
+        {
+          "word": "face",
+          "start": 148.26,
+          "end": 148.59
+        },
+        {
+          "word": "architectural",
+          "start": 148.59,
+          "end": 149.34
+        },
+        {
+          "word": "challenges",
+          "start": 149.34,
+          "end": 149.97
+        }
+      ]
+    },
+    {
+      "start": 150.24,
+      "end": 158.37,
+      "text": "we need to balance innovation with stability. invest in testing infrastructure now to save debugging time later. standardize on workspace dependencies and fix the streaming architecture.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We",
+          "start": 150.24,
+          "end": 150.51
+        },
+        {
+          "word": "need",
+          "start": 150.51,
+          "end": 150.75
+        },
+        {
+          "word": "to",
+          "start": 150.75,
+          "end": 150.87
+        },
+        {
+          "word": "balance",
+          "start": 150.87,
+          "end": 151.29
+        },
+        {
+          "word": "innovation",
+          "start": 151.29,
+          "end": 151.89
+        },
+        {
+          "word": "with",
+          "start": 151.89,
+          "end": 152.07
+        },
+        {
+          "word": "stability",
+          "start": 152.07,
+          "end": 152.79
+        },
+        {
+          "word": "Invest",
+          "start": 153.15,
+          "end": 153.69
+        },
+        {
+          "word": "in",
+          "start": 153.69,
+          "end": 153.84
+        },
+        {
+          "word": "testing",
+          "start": 153.84,
+          "end": 154.29
+        },
+        {
+          "word": "infrastructure",
+          "start": 154.29,
+          "end": 155.07
+        },
+        {
+          "word": "now",
+          "start": 155.07,
+          "end": 155.43
+        },
+        {
+          "word": "to",
+          "start": 155.43,
+          "end": 155.58
+        },
+        {
+          "word": "save",
+          "start": 155.58,
+          "end": 155.91
+        },
+        {
+          "word": "debugging",
+          "start": 155.91,
+          "end": 156.45
+        },
+        {
+          "word": "time",
+          "start": 156.45,
+          "end": 156.72
+        },
+        {
+          "word": "later",
+          "start": 156.72,
+          "end": 157.08
+        },
+        {
+          "word": "Standardize",
+          "start": 157.5,
+          "end": 158.19
+        },
+        {
+          "word": "on",
+          "start": 158.19,
+          "end": 158.37
+        },
+        {
+          "word": "workspace",
+          "start": 158.37,
+          "end": 158.91
+        },
+        {
+          "word": "dependencies",
+          "start": 158.91,
+          "end": 159.54
+        },
+        {
+          "word": "and",
+          "start": 159.78,
+          "end": 160.02
+        },
+        {
+          "word": "fix",
+          "start": 160.02,
+          "end": 160.29
+        },
+        {
+          "word": "the",
+          "start": 160.29,
+          "end": 160.38
+        },
+        {
+          "word": "streaming",
+          "start": 160.38,
+          "end": 160.77
+        },
+        {
+          "word": "architecture",
+          "start": 160.77,
+          "end": 161.46
+        }
+      ]
+    },
+    {
+      "start": 161.73,
+      "end": 168.0,
+      "text": "Ships gotta float before they can sail, homies. Fix them leaks in the hull, then we can race for treasure with the big dogs.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Ship's",
+          "start": 161.73,
+          "end": 162.15
+        },
+        {
+          "word": "gotta",
+          "start": 162.15,
+          "end": 162.42
+        },
+        {
+          "word": "float",
+          "start": 162.42,
+          "end": 162.75
+        },
+        {
+          "word": "before",
+          "start": 162.75,
+          "end": 163.08
+        },
+        {
+          "word": "they",
+          "start": 163.08,
+          "end": 163.2
+        },
+        {
+          "word": "can",
+          "start": 163.2,
+          "end": 163.41
+        },
+        {
+          "word": "sail",
+          "start": 163.41,
+          "end": 163.77
+        },
+        {
+          "word": "homies",
+          "start": 164.04,
+          "end": 164.49
+        },
+        {
+          "word": "Fix",
+          "start": 164.79,
+          "end": 165.15
+        },
+        {
+          "word": "them",
+          "start": 165.15,
+          "end": 165.33
+        },
+        {
+          "word": "leaks",
+          "start": 165.33,
+          "end": 165.6
+        },
+        {
+          "word": "in",
+          "start": 165.6,
+          "end": 165.75
+        },
+        {
+          "word": "the",
+          "start": 165.75,
+          "end": 165.84
+        },
+        {
+          "word": "hull",
+          "start": 165.84,
+          "end": 166.23
+        },
+        {
+          "word": "then",
+          "start": 166.53,
+          "end": 166.8
+        },
+        {
+          "word": "we",
+          "start": 166.8,
+          "end": 166.92
+        },
+        {
+          "word": "can",
+          "start": 166.92,
+          "end": 167.07
+        },
+        {
+          "word": "race",
+          "start": 167.07,
+          "end": 167.4
+        },
+        {
+          "word": "for",
+          "start": 167.4,
+          "end": 167.61
+        },
+        {
+          "word": "treasure",
+          "start": 167.61,
+          "end": 168.09
+        },
+        {
+          "word": "with",
+          "start": 168.33,
+          "end": 168.51
+        },
+        {
+          "word": "the",
+          "start": 168.51,
+          "end": 168.57
+        },
+        {
+          "word": "big",
+          "start": 168.57,
+          "end": 168.84
+        },
+        {
+          "word": "dog",
+          "start": 168.84,
+          "end": 169.17
+        }
+      ]
+    },
+    {
+      "start": 169.59,
+      "end": 178.56,
+      "text": "FIX BUGS. OPTIMIZE CODE. CLOSE VALUATION GAP WITH VIRTUALS. CURRENT $140M VERSUS THEIR $900M UNACCEPTABLE. STABILITY EQUALS ADOPTION EQUALS PROFIT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 169.59,
+          "end": 170.07
+        },
+        {
+          "word": "bugs",
+          "start": 170.07,
+          "end": 170.52
+        },
+        {
+          "word": "optimize",
+          "start": 170.82,
+          "end": 171.36
+        },
+        {
+          "word": "code",
+          "start": 171.36,
+          "end": 171.84
+        },
+        {
+          "word": "close",
+          "start": 172.14,
+          "end": 172.59
+        },
+        {
+          "word": "valuation",
+          "start": 172.59,
+          "end": 173.1
+        },
+        {
+          "word": "gap",
+          "start": 173.1,
+          "end": 173.4
+        },
+        {
+          "word": "with",
+          "start": 173.4,
+          "end": 173.61
+        },
+        {
+          "word": "Virtuals",
+          "start": 173.61,
+          "end": 174.27
+        },
+        {
+          "word": "current",
+          "start": 174.57,
+          "end": 175.14
+        },
+        {
+          "word": "140",
+          "start": 175.14,
+          "end": 175.8
+        },
+        {
+          "word": "million",
+          "start": 175.8,
+          "end": 176.19
+        },
+        {
+          "word": "dollars",
+          "start": 176.19,
+          "end": 176.61
+        },
+        {
+          "word": "versus",
+          "start": 176.82,
+          "end": 177.24
+        },
+        {
+          "word": "their",
+          "start": 177.24,
+          "end": 177.45
+        },
+        {
+          "word": "900",
+          "start": 177.45,
+          "end": 178.11
+        },
+        {
+          "word": "million",
+          "start": 178.11,
+          "end": 178.5
+        },
+        {
+          "word": "dollars",
+          "start": 178.5,
+          "end": 178.95
+        },
+        {
+          "word": "unacceptable",
+          "start": 179.16,
+          "end": 180.24
+        },
+        {
+          "word": "stability",
+          "start": 180.57,
+          "end": 181.23
+        },
+        {
+          "word": "equals",
+          "start": 181.23,
+          "end": 181.65
+        },
+        {
+          "word": "adoption",
+          "start": 181.65,
+          "end": 182.25
+        },
+        {
+          "word": "equals",
+          "start": 182.25,
+          "end": 182.67
+        },
+        {
+          "word": "profit",
+          "start": 182.67,
+          "end": 183.18
+        }
+      ]
+    },
+    {
+      "start": 183.9,
+      "end": 194.34,
+      "text": "TECHNICAL EXCELLENCE IS THE ONLY MOAT THAT MATTERS. Build the best product, the valuation will follow. Forget Virtuals - build something they CAN'T copy, not something they WON'T copy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 183.9,
+          "end": 184.56
+        },
+        {
+          "word": "excellence",
+          "start": 184.56,
+          "end": 185.19
+        },
+        {
+          "word": "is",
+          "start": 185.19,
+          "end": 185.37
+        },
+        {
+          "word": "the",
+          "start": 185.37,
+          "end": 185.49
+        },
+        {
+          "word": "only",
+          "start": 185.49,
+          "end": 185.82
+        },
+        {
+          "word": "moat",
+          "start": 185.82,
+          "end": 186.27
+        },
+        {
+          "word": "that",
+          "start": 186.27,
+          "end": 186.42
+        },
+        {
+          "word": "matters",
+          "start": 186.42,
+          "end": 187.05
+        },
+        {
+          "word": "Build",
+          "start": 187.41,
+          "end": 187.8
+        },
+        {
+          "word": "the",
+          "start": 187.8,
+          "end": 187.89
+        },
+        {
+          "word": "best",
+          "start": 187.89,
+          "end": 188.13
+        },
+        {
+          "word": "product",
+          "start": 188.13,
+          "end": 188.7
+        },
+        {
+          "word": "the",
+          "start": 188.88,
+          "end": 189.0
+        },
+        {
+          "word": "valuation",
+          "start": 189.0,
+          "end": 189.54
+        },
+        {
+          "word": "will",
+          "start": 189.54,
+          "end": 189.78
+        },
+        {
+          "word": "follow",
+          "start": 189.78,
+          "end": 190.23
+        },
+        {
+          "word": "Forget",
+          "start": 190.53,
+          "end": 191.01
+        },
+        {
+          "word": "Virtuals",
+          "start": 191.01,
+          "end": 191.64
+        },
+        {
+          "word": "build",
+          "start": 191.88,
+          "end": 192.3
+        },
+        {
+          "word": "something",
+          "start": 192.3,
+          "end": 192.6
+        },
+        {
+          "word": "they",
+          "start": 192.6,
+          "end": 192.75
+        },
+        {
+          "word": "can't",
+          "start": 192.75,
+          "end": 193.11
+        },
+        {
+          "word": "copy",
+          "start": 193.11,
+          "end": 193.65
+        },
+        {
+          "word": "not",
+          "start": 193.89,
+          "end": 194.19
+        },
+        {
+          "word": "something",
+          "start": 194.19,
+          "end": 194.49
+        },
+        {
+          "word": "they",
+          "start": 194.49,
+          "end": 194.61
+        },
+        {
+          "word": "won't",
+          "start": 194.61,
+          "end": 194.94
+        },
+        {
+          "word": "copy",
+          "start": 194.94,
+          "end": 195.42
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-09_JedAI-Council_The-Stream-Of-Consciousness.json",
+    "session_log_source": "2025-08-09_JedAI-Council_The-Stream-Of-Consciousness_session-log.json",
+    "total_segments": 20,
+    "matched_segments": 20,
+    "dialogues_in_script": 15
+  }
+}

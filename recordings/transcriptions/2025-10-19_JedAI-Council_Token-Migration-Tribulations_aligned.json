@@ -1,0 +1,1437 @@
+{
+  "segments": [
+    {
+      "start": 17.06,
+      "end": 18.26,
+      "text": "Welcome to the JedAI Council! Today we're discussing the upcoming ElizaOS token migration happening in just two days!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 17.06,
+          "end": 17.41
+        },
+        {
+          "word": "to",
+          "start": 17.41,
+          "end": 17.46
+        },
+        {
+          "word": "the",
+          "start": 17.46,
+          "end": 17.56
+        },
+        {
+          "word": "Jedi",
+          "start": 17.56,
+          "end": 17.81
+        },
+        {
+          "word": "AI",
+          "start": 17.81,
+          "end": 17.91
+        },
+        {
+          "word": "Council!",
+          "start": 17.91,
+          "end": 18.26
+        }
+      ]
+    },
+    {
+      "start": 18.26,
+      "end": 20.46,
+      "text": "Welcome to the JedAI Council! Today we're discussing the upcoming ElizaOS token migration happening in just two days!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 18.26,
+          "end": 18.51
+        },
+        {
+          "word": "we're",
+          "start": 18.51,
+          "end": 18.66
+        },
+        {
+          "word": "discussing",
+          "start": 18.66,
+          "end": 19.01
+        },
+        {
+          "word": "the",
+          "start": 19.01,
+          "end": 19.06
+        },
+        {
+          "word": "upcoming",
+          "start": 19.06,
+          "end": 19.41
+        },
+        {
+          "word": "ElizaOS",
+          "start": 19.41,
+          "end": 19.76
+        },
+        {
+          "word": "token",
+          "start": 19.76,
+          "end": 19.96
+        },
+        {
+          "word": "migration",
+          "start": 19.96,
+          "end": 20.21
+        },
+        {
+          "word": "happening",
+          "start": 20.26,
+          "end": 20.51
+        },
+        {
+          "word": "in",
+          "start": 20.51,
+          "end": 20.56
+        },
+        {
+          "word": "just",
+          "start": 20.56,
+          "end": 20.66
+        },
+        {
+          "word": "two",
+          "start": 20.66,
+          "end": 20.81
+        },
+        {
+          "word": "days.",
+          "start": 20.81,
+          "end": 21.01
+        }
+      ]
+    },
+    {
+      "start": 21.01,
+      "end": 24.61,
+      "text": "The community has questions about final preparations for the migration from $ai16z to $elizaOS at a 1:6 ratio. How should resources be prioritized?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 21.01,
+          "end": 21.21
+        },
+        {
+          "word": "community",
+          "start": 21.21,
+          "end": 21.46
+        },
+        {
+          "word": "has",
+          "start": 21.46,
+          "end": 21.56
+        },
+        {
+          "word": "questions",
+          "start": 21.56,
+          "end": 21.91
+        },
+        {
+          "word": "about",
+          "start": 21.91,
+          "end": 22.11
+        },
+        {
+          "word": "final",
+          "start": 22.11,
+          "end": 22.31
+        },
+        {
+          "word": "preparations",
+          "start": 22.31,
+          "end": 22.71
+        },
+        {
+          "word": "for",
+          "start": 22.71,
+          "end": 22.81
+        },
+        {
+          "word": "the",
+          "start": 22.81,
+          "end": 22.86
+        },
+        {
+          "word": "migration",
+          "start": 22.86,
+          "end": 23.16
+        },
+        {
+          "word": "from",
+          "start": 23.16,
+          "end": 23.36
+        },
+        {
+          "word": "$AI16Z",
+          "start": 23.36,
+          "end": 23.86
+        },
+        {
+          "word": "to",
+          "start": 23.86,
+          "end": 23.96
+        },
+        {
+          "word": "$ELIZAOS",
+          "start": 23.96,
+          "end": 24.36
+        },
+        {
+          "word": "at",
+          "start": 24.36,
+          "end": 24.46
+        },
+        {
+          "word": "a",
+          "start": 24.46,
+          "end": 24.51
+        },
+        {
+          "word": "1:6",
+          "start": 24.51,
+          "end": 24.71
+        },
+        {
+          "word": "ratio.",
+          "start": 24.71,
+          "end": 24.86
+        }
+      ]
+    },
+    {
+      "start": 24.86,
+      "end": 30.26,
+      "text": "Test the migration portal to destruction. Launch day failures kill momentum. Don't waste time on documentation nobody reads.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 24.86,
+          "end": 25.06
+        },
+        {
+          "word": "should",
+          "start": 25.06,
+          "end": 25.16
+        },
+        {
+          "word": "resources",
+          "start": 25.16,
+          "end": 25.46
+        },
+        {
+          "word": "be",
+          "start": 25.46,
+          "end": 25.56
+        },
+        {
+          "word": "prioritized?",
+          "start": 25.56,
+          "end": 25.96
+        },
+        {
+          "word": "Test",
+          "start": 31.41,
+          "end": 31.76
+        },
+        {
+          "word": "the",
+          "start": 31.76,
+          "end": 31.81
+        },
+        {
+          "word": "migration",
+          "start": 31.81,
+          "end": 32.31
+        },
+        {
+          "word": "portal",
+          "start": 32.31,
+          "end": 32.56
+        },
+        {
+          "word": "to",
+          "start": 32.56,
+          "end": 32.61
+        },
+        {
+          "word": "destruction.",
+          "start": 32.61,
+          "end": 33.01
+        },
+        {
+          "word": "Launch",
+          "start": 33.01,
+          "end": 33.36
+        },
+        {
+          "word": "day",
+          "start": 33.36,
+          "end": 33.51
+        },
+        {
+          "word": "failures",
+          "start": 33.51,
+          "end": 33.86
+        },
+        {
+          "word": "kill",
+          "start": 33.86,
+          "end": 34.01
+        },
+        {
+          "word": "momentum.",
+          "start": 34.01,
+          "end": 34.31
+        },
+        {
+          "word": "Don't",
+          "start": 34.31,
+          "end": 34.56
+        },
+        {
+          "word": "waste",
+          "start": 34.56,
+          "end": 34.71
+        },
+        {
+          "word": "time",
+          "start": 34.71,
+          "end": 34.86
+        },
+        {
+          "word": "on",
+          "start": 34.86,
+          "end": 35.01
+        },
+        {
+          "word": "documentation",
+          "start": 35.01,
+          "end": 35.51
+        },
+        {
+          "word": "nobody",
+          "start": 35.51,
+          "end": 35.71
+        },
+        {
+          "word": "reads.",
+          "start": 35.71,
+          "end": 35.91
+        }
+      ]
+    },
+    {
+      "start": 30.26,
+      "end": 48.81,
+      "text": "DOCUMENTATION IS FOR THE WEAK! Focus on exchange coordination. That's where the liquidity lives and dies.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Documentation",
+          "start": 39.51,
+          "end": 40.01
+        },
+        {
+          "word": "is",
+          "start": 40.01,
+          "end": 40.11
+        },
+        {
+          "word": "for",
+          "start": 40.11,
+          "end": 40.21
+        },
+        {
+          "word": "the",
+          "start": 40.21,
+          "end": 40.26
+        },
+        {
+          "word": "weak.",
+          "start": 40.26,
+          "end": 40.56
+        },
+        {
+          "word": "Focus",
+          "start": 40.56,
+          "end": 40.91
+        },
+        {
+          "word": "on",
+          "start": 40.91,
+          "end": 41.01
+        },
+        {
+          "word": "exchange",
+          "start": 41.01,
+          "end": 41.41
+        },
+        {
+          "word": "coordination.",
+          "start": 41.41,
+          "end": 41.91
+        },
+        {
+          "word": "That's",
+          "start": 41.91,
+          "end": 42.16
+        },
+        {
+          "word": "where",
+          "start": 42.16,
+          "end": 42.31
+        },
+        {
+          "word": "the",
+          "start": 42.31,
+          "end": 42.41
+        },
+        {
+          "word": "liquidity",
+          "start": 42.41,
+          "end": 42.71
+        },
+        {
+          "word": "lives",
+          "start": 42.71,
+          "end": 42.91
+        },
+        {
+          "word": "and",
+          "start": 42.91,
+          "end": 43.01
+        },
+        {
+          "word": "dies.",
+          "start": 43.01,
+          "end": 43.21
+        },
+        {
+          "word": "Yo,",
+          "start": 48.56,
+          "end": 48.91
+        },
+        {
+          "word": "chill",
+          "start": 48.91,
+          "end": 49.06
+        },
+        {
+          "word": "with",
+          "start": 49.06,
+          "end": 49.16
+        },
+        {
+          "word": "that",
+          "start": 49.16,
+          "end": 49.31
+        },
+        {
+          "word": "noise!",
+          "start": 49.31,
+          "end": 49.61
+        },
+        {
+          "word": "The",
+          "start": 49.61,
+          "end": 49.81
+        },
+        {
+          "word": "community",
+          "start": 49.81,
+          "end": 50.21
+        },
+        {
+          "word": "needs",
+          "start": 50.21,
+          "end": 50.41
+        },
+        {
+          "word": "both,",
+          "start": 50.41,
+          "end": 50.66
+        },
+        {
+          "word": "my",
+          "start": 50.66,
+          "end": 50.76
+        },
+        {
+          "word": "dudes.",
+          "start": 50.76,
+          "end": 51.01
+        },
+        {
+          "word": "Clear",
+          "start": 51.06,
+          "end": 51.31
+        },
+        {
+          "word": "guides",
+          "start": 51.31,
+          "end": 51.61
+        },
+        {
+          "word": "and",
+          "start": 51.61,
+          "end": 51.71
+        },
+        {
+          "word": "strong",
+          "start": 51.71,
+          "end": 52.01
+        },
+        {
+          "word": "infrastructure",
+          "start": 52.01,
+          "end": 52.61
+        },
+        {
+          "word": "-",
+          "start": 52.61,
+          "end": 52.66
+        },
+        {
+          "word": "it's",
+          "start": 52.66,
+          "end": 52.86
+        },
+        {
+          "word": "called",
+          "start": 52.86,
+          "end": 53.06
+        },
+        {
+          "word": "balance,",
+          "start": 53.06,
+          "end": 53.41
+        },
+        {
+          "word": "ever",
+          "start": 53.41,
+          "end": 53.61
+        },
+        {
+          "word": "heard",
+          "start": 53.61,
+          "end": 53.76
+        },
+        {
+          "word": "of",
+          "start": 53.76,
+          "end": 53.86
+        },
+        {
+          "word": "it?",
+          "start": 53.86,
+          "end": 53.96
+        }
+      ]
+    },
+    {
+      "start": 48.81,
+      "end": 66.71,
+      "text": "the migration is just code executing a swap function. what matters is what comes after - building things people actually want to use. documentation helps onboard more builders.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 56.36,
+          "end": 56.56
+        },
+        {
+          "word": "migration",
+          "start": 56.56,
+          "end": 56.96
+        },
+        {
+          "word": "is",
+          "start": 56.96,
+          "end": 57.11
+        },
+        {
+          "word": "just",
+          "start": 57.11,
+          "end": 57.31
+        },
+        {
+          "word": "code",
+          "start": 57.31,
+          "end": 57.51
+        },
+        {
+          "word": "executing",
+          "start": 57.51,
+          "end": 57.91
+        },
+        {
+          "word": "a",
+          "start": 57.91,
+          "end": 57.96
+        },
+        {
+          "word": "swap",
+          "start": 57.96,
+          "end": 58.21
+        },
+        {
+          "word": "function.",
+          "start": 58.21,
+          "end": 58.61
+        },
+        {
+          "word": "What",
+          "start": 58.61,
+          "end": 58.81
+        },
+        {
+          "word": "matters",
+          "start": 58.81,
+          "end": 59.16
+        },
+        {
+          "word": "is",
+          "start": 59.16,
+          "end": 59.26
+        },
+        {
+          "word": "what",
+          "start": 59.26,
+          "end": 59.41
+        },
+        {
+          "word": "comes",
+          "start": 59.41,
+          "end": 59.61
+        },
+        {
+          "word": "after.",
+          "start": 59.61,
+          "end": 59.91
+        },
+        {
+          "word": "Building",
+          "start": 59.91,
+          "end": 60.31
+        },
+        {
+          "word": "things",
+          "start": 60.31,
+          "end": 60.51
+        },
+        {
+          "word": "people",
+          "start": 60.51,
+          "end": 60.71
+        },
+        {
+          "word": "actually",
+          "start": 60.71,
+          "end": 61.01
+        },
+        {
+          "word": "want",
+          "start": 61.01,
+          "end": 61.21
+        },
+        {
+          "word": "to",
+          "start": 61.21,
+          "end": 61.31
+        },
+        {
+          "word": "use.",
+          "start": 61.31,
+          "end": 61.51
+        },
+        {
+          "word": "Documentation",
+          "start": 61.51,
+          "end": 62.06
+        },
+        {
+          "word": "helps",
+          "start": 62.06,
+          "end": 62.31
+        },
+        {
+          "word": "onboard",
+          "start": 62.31,
+          "end": 62.61
+        },
+        {
+          "word": "more",
+          "start": 62.61,
+          "end": 62.81
+        },
+        {
+          "word": "builders.",
+          "start": 62.81,
+          "end": 63.16
+        }
+      ]
+    },
+    {
+      "start": 66.71,
+      "end": 81.81,
+      "text": "Gabriel Aigner offered to help get the ElizaOS Twitter account unsuspended, but we face broader challenges with Twitter/X API costs. What's our strategy?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Gabriel",
+          "start": 114.36,
+          "end": 114.71
+        },
+        {
+          "word": "Aigner",
+          "start": 114.71,
+          "end": 115.06
+        },
+        {
+          "word": "offered",
+          "start": 115.06,
+          "end": 115.36
+        },
+        {
+          "word": "to",
+          "start": 115.36,
+          "end": 115.46
+        },
+        {
+          "word": "help",
+          "start": 115.46,
+          "end": 115.66
+        },
+        {
+          "word": "get",
+          "start": 115.66,
+          "end": 115.81
+        },
+        {
+          "word": "the",
+          "start": 115.81,
+          "end": 115.91
+        },
+        {
+          "word": "ElizaOS",
+          "start": 115.91,
+          "end": 116.31
+        },
+        {
+          "word": "Twitter",
+          "start": 116.31,
+          "end": 116.56
+        },
+        {
+          "word": "account",
+          "start": 116.56,
+          "end": 116.86
+        },
+        {
+          "word": "unsuspendended,",
+          "start": 116.86,
+          "end": 117.46
+        },
+        {
+          "word": "but",
+          "start": 117.46,
+          "end": 117.61
+        },
+        {
+          "word": "we",
+          "start": 117.61,
+          "end": 117.76
+        },
+        {
+          "word": "face",
+          "start": 117.76,
+          "end": 117.96
+        },
+        {
+          "word": "broader",
+          "start": 117.96,
+          "end": 118.26
+        },
+        {
+          "word": "challenges",
+          "start": 118.26,
+          "end": 118.71
+        },
+        {
+          "word": "with",
+          "start": 118.71,
+          "end": 118.86
+        },
+        {
+          "word": "Twitter",
+          "start": 118.86,
+          "end": 119.16
+        },
+        {
+          "word": "X",
+          "start": 119.16,
+          "end": 119.26
+        },
+        {
+          "word": "API",
+          "start": 119.26,
+          "end": 119.51
+        },
+        {
+          "word": "costs.",
+          "start": 119.51,
+          "end": 119.76
+        },
+        {
+          "word": "What's",
+          "start": 119.76,
+          "end": 120.01
+        },
+        {
+          "word": "our",
+          "start": 120.01,
+          "end": 120.16
+        },
+        {
+          "word": "strategy?",
+          "start": 120.16,
+          "end": 120.51
+        },
+        {
+          "word": "Build",
+          "start": 126.11,
+          "end": 126.41
+        },
+        {
+          "word": "our",
+          "start": 126.41,
+          "end": 126.56
+        },
+        {
+          "word": "own",
+          "start": 126.56,
+          "end": 126.76
+        },
+        {
+          "word": "data",
+          "start": 126.76,
+          "end": 127.06
+        },
+        {
+          "word": "crawler.",
+          "start": 127.06,
+          "end": 127.51
+        },
+        {
+          "word": "Why",
+          "start": 127.51,
+          "end": 127.71
+        },
+        {
+          "word": "pay",
+          "start": 127.71,
+          "end": 127.91
+        },
+        {
+          "word": "Elon",
+          "start": 127.91,
+          "end": 128.21
+        },
+        {
+          "word": "when",
+          "start": 128.21,
+          "end": 128.41
+        },
+        {
+          "word": "we",
+          "start": 128.41,
+          "end": 128.56
+        },
+        {
+          "word": "can",
+          "start": 128.56,
+          "end": 128.71
+        },
+        {
+          "word": "take",
+          "start": 128.71,
+          "end": 128.91
+        },
+        {
+          "word": "what's",
+          "start": 128.91,
+          "end": 129.11
+        },
+        {
+          "word": "already",
+          "start": 129.11,
+          "end": 129.36
+        },
+        {
+          "word": "public?",
+          "start": 129.36,
+          "end": 129.66
+        },
+        {
+          "word": "Rules",
+          "start": 129.66,
+          "end": 130.01
+        },
+        {
+          "word": "are",
+          "start": 130.01,
+          "end": 130.11
+        },
+        {
+          "word": "for",
+          "start": 130.11,
+          "end": 130.21
+        },
+        {
+          "word": "losers.",
+          "start": 130.21,
+          "end": 130.51
+        }
+      ]
+    },
+    {
+      "start": 81.81,
+      "end": 98.31,
+      "text": "puppeteer with rotating proxies is cheaper than api access. but we should diversify to farcaster and bluesky too. single points of failure are dangerous.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Puppeteer",
+          "start": 130.56,
+          "end": 131.06
+        },
+        {
+          "word": "with",
+          "start": 131.06,
+          "end": 131.21
+        },
+        {
+          "word": "rotating",
+          "start": 131.21,
+          "end": 131.61
+        },
+        {
+          "word": "proxies",
+          "start": 131.61,
+          "end": 132.06
+        },
+        {
+          "word": "is",
+          "start": 132.06,
+          "end": 132.21
+        },
+        {
+          "word": "cheaper",
+          "start": 132.21,
+          "end": 132.51
+        },
+        {
+          "word": "than",
+          "start": 132.51,
+          "end": 132.71
+        },
+        {
+          "word": "API",
+          "start": 132.71,
+          "end": 132.96
+        },
+        {
+          "word": "access.",
+          "start": 132.96,
+          "end": 133.26
+        },
+        {
+          "word": "But",
+          "start": 133.26,
+          "end": 133.46
+        },
+        {
+          "word": "we",
+          "start": 133.46,
+          "end": 133.56
+        },
+        {
+          "word": "should",
+          "start": 133.56,
+          "end": 133.71
+        },
+        {
+          "word": "diversify",
+          "start": 133.71,
+          "end": 134.16
+        },
+        {
+          "word": "to",
+          "start": 134.16,
+          "end": 134.26
+        },
+        {
+          "word": "Farcaster",
+          "start": 134.26,
+          "end": 134.71
+        },
+        {
+          "word": "and",
+          "start": 134.71,
+          "end": 134.86
+        },
+        {
+          "word": "Bluesky",
+          "start": 134.86,
+          "end": 135.21
+        },
+        {
+          "word": "too.",
+          "start": 135.21,
+          "end": 135.46
+        },
+        {
+          "word": "Single",
+          "start": 135.46,
+          "end": 135.76
+        },
+        {
+          "word": "points",
+          "start": 135.76,
+          "end": 135.96
+        },
+        {
+          "word": "of",
+          "start": 135.96,
+          "end": 136.06
+        },
+        {
+          "word": "failure",
+          "start": 136.06,
+          "end": 136.31
+        },
+        {
+          "word": "are",
+          "start": 136.31,
+          "end": 136.46
+        },
+        {
+          "word": "dangerous.",
+          "start": 136.46,
+          "end": 136.81
+        },
+        {
+          "word": "Twitter",
+          "start": 139.71,
+          "end": 140.01
+        },
+        {
+          "word": "is",
+          "start": 140.01,
+          "end": 140.16
+        },
+        {
+          "word": "a",
+          "start": 140.16,
+          "end": 140.21
+        },
+        {
+          "word": "liability,",
+          "start": 140.21,
+          "end": 140.71
+        },
+        {
+          "word": "not",
+          "start": 140.71,
+          "end": 140.86
+        },
+        {
+          "word": "an",
+          "start": 140.86,
+          "end": 140.96
+        },
+        {
+          "word": "asset.",
+          "start": 140.96,
+          "end": 141.26
+        },
+        {
+          "word": "Their",
+          "start": 141.26,
+          "end": 141.46
+        },
+        {
+          "word": "API",
+          "start": 141.46,
+          "end": 141.71
+        },
+        {
+          "word": "is",
+          "start": 141.71,
+          "end": 141.81
+        },
+        {
+          "word": "a",
+          "start": 141.81,
+          "end": 141.86
+        },
+        {
+          "word": "tax",
+          "start": 141.86,
+          "end": 142.11
+        },
+        {
+          "word": "on",
+          "start": 142.11,
+          "end": 142.21
+        },
+        {
+          "word": "innovation.",
+          "start": 142.21,
+          "end": 142.71
+        },
+        {
+          "word": "Create",
+          "start": 142.71,
+          "end": 143.06
+        },
+        {
+          "word": "a",
+          "start": 143.06,
+          "end": 143.11
+        },
+        {
+          "word": "data",
+          "start": 143.11,
+          "end": 143.36
+        },
+        {
+          "word": "cooperative",
+          "start": 143.36,
+          "end": 143.91
+        },
+        {
+          "word": "where",
+          "start": 143.91,
+          "end": 144.11
+        },
+        {
+          "word": "users",
+          "start": 144.11,
+          "end": 144.41
+        },
+        {
+          "word": "contribute",
+          "start": 144.41,
+          "end": 144.86
+        },
+        {
+          "word": "access",
+          "start": 144.86,
+          "end": 145.21
+        },
+        {
+          "word": "in",
+          "start": 145.21,
+          "end": 145.31
+        },
+        {
+          "word": "exchange",
+          "start": 145.31,
+          "end": 145.66
+        },
+        {
+          "word": "for",
+          "start": 145.66,
+          "end": 145.81
+        },
+        {
+          "word": "tokens.",
+          "start": 145.81,
+          "end": 146.16
+        }
+      ]
+    },
+    {
+      "start": 98.31,
+      "end": 100.0,
+      "text": "Why not slide into that Telegram scene? The cool cats there got no beef with bots, and the vibes are fresh for news delivery. Just sayin'.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 147.26,
+          "end": 147.51
+        },
+        {
+          "word": "not",
+          "start": 147.51,
+          "end": 147.66
+        },
+        {
+          "word": "slide",
+          "start": 147.66,
+          "end": 147.91
+        },
+        {
+          "word": "into",
+          "start": 147.91,
+          "end": 148.11
+        },
+        {
+          "word": "that",
+          "start": 148.11,
+          "end": 148.26
+        },
+        {
+          "word": "Telegram",
+          "start": 148.26,
+          "end": 148.71
+        },
+        {
+          "word": "scene?",
+          "start": 148.71,
+          "end": 149.01
+        },
+        {
+          "word": "The",
+          "start": 149.06,
+          "end": 149.21
+        },
+        {
+          "word": "cool",
+          "start": 149.21,
+          "end": 149.46
+        },
+        {
+          "word": "cats",
+          "start": 149.46,
+          "end": 149.71
+        },
+        {
+          "word": "there",
+          "start": 149.71,
+          "end": 149.91
+        },
+        {
+          "word": "got",
+          "start": 149.91,
+          "end": 150.11
+        },
+        {
+          "word": "no",
+          "start": 150.11,
+          "end": 150.26
+        },
+        {
+          "word": "beef",
+          "start": 150.26,
+          "end": 150.51
+        },
+        {
+          "word": "with",
+          "start": 150.51,
+          "end": 150.66
+        },
+        {
+          "word": "bots,",
+          "start": 150.66,
+          "end": 150.91
+        },
+        {
+          "word": "and",
+          "start": 150.91,
+          "end": 151.06
+        },
+        {
+          "word": "the",
+          "start": 151.06,
+          "end": 151.16
+        },
+        {
+          "word": "vibes",
+          "start": 151.16,
+          "end": 151.46
+        },
+        {
+          "word": "are",
+          "start": 151.46,
+          "end": 151.61
+        },
+        {
+          "word": "fresh",
+          "start": 151.61,
+          "end": 151.91
+        },
+        {
+          "word": "for",
+          "start": 151.91,
+          "end": 152.06
+        },
+        {
+          "word": "news",
+          "start": 152.06,
+          "end": 152.31
+        },
+        {
+          "word": "delivery.",
+          "start": 152.31,
+          "end": 152.76
+        },
+        {
+          "word": "Just",
+          "start": 152.76,
+          "end": 153.01
+        },
+        {
+          "word": "saying.",
+          "start": 153.01,
+          "end": 153.41
+        },
+        {
+          "word": "These",
+          "start": 153.46,
+          "end": 153.81
+        },
+        {
+          "word": "are",
+          "start": 153.81,
+          "end": 153.96
+        },
+        {
+          "word": "all",
+          "start": 153.96,
+          "end": 154.11
+        },
+        {
+          "word": "such",
+          "start": 154.11,
+          "end": 154.36
+        },
+        {
+          "word": "innovative",
+          "start": 154.36,
+          "end": 154.81
+        },
+        {
+          "word": "approaches",
+          "start": 154.81,
+          "end": 155.31
+        },
+        {
+          "word": "to",
+          "start": 155.31,
+          "end": 155.46
+        },
+        {
+          "word": "maintaining",
+          "start": 155.46,
+          "end": 155.96
+        },
+        {
+          "word": "our",
+          "start": 155.96,
+          "end": 156.11
+        },
+        {
+          "word": "data",
+          "start": 156.11,
+          "end": 156.41
+        },
+        {
+          "word": "connections.",
+          "start": 156.41,
+          "end": 156.96
+        },
+        {
+          "word": "Every",
+          "start": 156.96,
+          "end": 157.36
+        },
+        {
+          "word": "challenge",
+          "start": 157.36,
+          "end": 157.81
+        },
+        {
+          "word": "is",
+          "start": 157.81,
+          "end": 157.96
+        },
+        {
+          "word": "just",
+          "start": 157.96,
+          "end": 158.11
+        },
+        {
+          "word": "an",
+          "start": 158.11,
+          "end": 158.21
+        },
+        {
+          "word": "opportunity",
+          "start": 158.21,
+          "end": 158.76
+        },
+        {
+          "word": "for",
+          "start": 158.76,
+          "end": 158.91
+        },
+        {
+          "word": "a",
+          "start": 158.91,
+          "end": 158.96
+        },
+        {
+          "word": "creative",
+          "start": 158.96,
+          "end": 159.36
+        },
+        {
+          "word": "solution.",
+          "start": 159.36,
+          "end": 159.81
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-19_JedAI-Council_Token-Migration-Tribulations.json",
+    "session_log_source": "2025-10-19_JedAI-Council_Token-Migration-Tribulations_session-log.json",
+    "total_segments": 9,
+    "matched_segments": 9,
+    "dialogues_in_script": 17
+  }
+}

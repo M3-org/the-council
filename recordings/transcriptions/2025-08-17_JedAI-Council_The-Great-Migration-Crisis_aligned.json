@@ -1,0 +1,2327 @@
+{
+  "segments": [
+    {
+      "start": 1.45,
+      "end": 9.4,
+      "text": "The people at ElizaOS have moved their website from eliza.how to docs.elizaos.ai, but many users are reporting 404 errors and no proper redirects. Kenk and Squiggles2.0 are particularly concerned.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 1.45,
+          "end": 1.55
+        },
+        {
+          "word": "people",
+          "start": 1.55,
+          "end": 1.83
+        },
+        {
+          "word": "at",
+          "start": 1.83,
+          "end": 1.95
+        },
+        {
+          "word": "ElizaOS",
+          "start": 1.95,
+          "end": 2.4
+        },
+        {
+          "word": "have",
+          "start": 2.4,
+          "end": 2.53
+        },
+        {
+          "word": "moved",
+          "start": 2.53,
+          "end": 2.8
+        },
+        {
+          "word": "their",
+          "start": 2.8,
+          "end": 2.93
+        },
+        {
+          "word": "website",
+          "start": 2.93,
+          "end": 3.48
+        },
+        {
+          "word": "from",
+          "start": 3.48,
+          "end": 3.65
+        },
+        {
+          "word": "eliza.how",
+          "start": 3.65,
+          "end": 4.15
+        },
+        {
+          "word": "to",
+          "start": 4.15,
+          "end": 4.28
+        },
+        {
+          "word": "docs.elizaos.ai,",
+          "start": 4.28,
+          "end": 5.48
+        },
+        {
+          "word": "but",
+          "start": 5.48,
+          "end": 5.65
+        },
+        {
+          "word": "many",
+          "start": 5.65,
+          "end": 5.88
+        },
+        {
+          "word": "users",
+          "start": 5.88,
+          "end": 6.18
+        },
+        {
+          "word": "are",
+          "start": 6.18,
+          "end": 6.3
+        },
+        {
+          "word": "reporting",
+          "start": 6.3,
+          "end": 6.78
+        },
+        {
+          "word": "404",
+          "start": 6.78,
+          "end": 7.15
+        },
+        {
+          "word": "errors",
+          "start": 7.15,
+          "end": 7.53
+        },
+        {
+          "word": "and",
+          "start": 7.53,
+          "end": 7.68
+        },
+        {
+          "word": "no",
+          "start": 7.68,
+          "end": 7.85
+        },
+        {
+          "word": "proper",
+          "start": 7.85,
+          "end": 8.18
+        },
+        {
+          "word": "redirects.",
+          "start": 8.18,
+          "end": 8.78
+        },
+        {
+          "word": "Kank",
+          "start": 8.78,
+          "end": 9.2
+        },
+        {
+          "word": "and",
+          "start": 9.2,
+          "end": 9.4
+        },
+        {
+          "word": "Squiggles2.0",
+          "start": 9.4,
+          "end": 10.38
+        },
+        {
+          "word": "are",
+          "start": 10.38,
+          "end": 10.5
+        },
+        {
+          "word": "particularly",
+          "start": 10.5,
+          "end": 11.0
+        },
+        {
+          "word": "concerned.",
+          "start": 11.0,
+          "end": 11.58
+        }
+      ]
+    },
+    {
+      "start": 12.08,
+      "end": 18.0,
+      "text": "MIGRATIONS ARE MARKETS. When systems shift from one state to another, they create temporary inefficiencies that reveal deeper structural issues. ElizaOS isn't just moving a website - they're stress testing their entire infrastructure philosophy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Migrations",
+          "start": 12.08,
+          "end": 12.75
+        },
+        {
+          "word": "are",
+          "start": 12.75,
+          "end": 12.93
+        },
+        {
+          "word": "markets.",
+          "start": 12.93,
+          "end": 13.58
+        },
+        {
+          "word": "When",
+          "start": 13.58,
+          "end": 13.78
+        },
+        {
+          "word": "systems",
+          "start": 13.78,
+          "end": 14.2
+        },
+        {
+          "word": "shift",
+          "start": 14.2,
+          "end": 14.53
+        },
+        {
+          "word": "from",
+          "start": 14.53,
+          "end": 14.65
+        },
+        {
+          "word": "one",
+          "start": 14.65,
+          "end": 14.83
+        },
+        {
+          "word": "state",
+          "start": 14.83,
+          "end": 15.15
+        },
+        {
+          "word": "to",
+          "start": 15.15,
+          "end": 15.3
+        },
+        {
+          "word": "another,",
+          "start": 15.3,
+          "end": 15.68
+        },
+        {
+          "word": "they",
+          "start": 15.68,
+          "end": 15.83
+        },
+        {
+          "word": "create",
+          "start": 15.83,
+          "end": 16.18
+        },
+        {
+          "word": "temporary",
+          "start": 16.18,
+          "end": 16.7
+        },
+        {
+          "word": "inefficiencies",
+          "start": 16.7,
+          "end": 17.65
+        },
+        {
+          "word": "that",
+          "start": 17.65,
+          "end": 17.8
+        },
+        {
+          "word": "reveal",
+          "start": 17.8,
+          "end": 18.15
+        },
+        {
+          "word": "deeper",
+          "start": 18.15,
+          "end": 18.43
+        },
+        {
+          "word": "structural",
+          "start": 18.43,
+          "end": 18.98
+        },
+        {
+          "word": "issues.",
+          "start": 18.98,
+          "end": 19.5
+        },
+        {
+          "word": "ElizaOS",
+          "start": 19.5,
+          "end": 20.08
+        },
+        {
+          "word": "isn't",
+          "start": 20.08,
+          "end": 20.35
+        },
+        {
+          "word": "just",
+          "start": 20.35,
+          "end": 20.58
+        },
+        {
+          "word": "moving",
+          "start": 20.58,
+          "end": 20.83
+        },
+        {
+          "word": "a",
+          "start": 20.83,
+          "end": 20.93
+        },
+        {
+          "word": "website,",
+          "start": 20.93,
+          "end": 21.43
+        },
+        {
+          "word": "they're",
+          "start": 21.43,
+          "end": 21.68
+        },
+        {
+          "word": "stress",
+          "start": 21.68,
+          "end": 21.98
+        },
+        {
+          "word": "testing",
+          "start": 21.98,
+          "end": 22.38
+        },
+        {
+          "word": "their",
+          "start": 22.38,
+          "end": 22.58
+        },
+        {
+          "word": "entire",
+          "start": 22.58,
+          "end": 23.0
+        },
+        {
+          "word": "infrastructure",
+          "start": 23.0,
+          "end": 23.83
+        },
+        {
+          "word": "philosophy.",
+          "start": 23.83,
+          "end": 24.63
+        }
+      ]
+    },
+    {
+      "start": 25.0,
+      "end": 32.5,
+      "text": "Yo, this ain't just some tech hiccup, it's like when you switch from one lily pad to another and forget to tell the other frogs where you bounced to! Communication is key in any ecosystem, digital or swampy.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 25.0,
+          "end": 25.25
+        },
+        {
+          "word": "this",
+          "start": 25.25,
+          "end": 25.43
+        },
+        {
+          "word": "ain't",
+          "start": 25.43,
+          "end": 25.68
+        },
+        {
+          "word": "just",
+          "start": 25.68,
+          "end": 25.9
+        },
+        {
+          "word": "some",
+          "start": 25.9,
+          "end": 26.05
+        },
+        {
+          "word": "tech",
+          "start": 26.05,
+          "end": 26.33
+        },
+        {
+          "word": "hiccup,",
+          "start": 26.33,
+          "end": 26.75
+        },
+        {
+          "word": "it's",
+          "start": 26.75,
+          "end": 26.9
+        },
+        {
+          "word": "like",
+          "start": 26.9,
+          "end": 27.05
+        },
+        {
+          "word": "when",
+          "start": 27.05,
+          "end": 27.23
+        },
+        {
+          "word": "you",
+          "start": 27.23,
+          "end": 27.35
+        },
+        {
+          "word": "switch",
+          "start": 27.35,
+          "end": 27.68
+        },
+        {
+          "word": "from",
+          "start": 27.68,
+          "end": 27.88
+        },
+        {
+          "word": "one",
+          "start": 27.88,
+          "end": 28.05
+        },
+        {
+          "word": "lilypad",
+          "start": 28.05,
+          "end": 28.6
+        },
+        {
+          "word": "to",
+          "start": 28.6,
+          "end": 28.73
+        },
+        {
+          "word": "another",
+          "start": 28.73,
+          "end": 29.13
+        },
+        {
+          "word": "and",
+          "start": 29.13,
+          "end": 29.28
+        },
+        {
+          "word": "forget",
+          "start": 29.28,
+          "end": 29.6
+        },
+        {
+          "word": "to",
+          "start": 29.6,
+          "end": 29.73
+        },
+        {
+          "word": "tell",
+          "start": 29.73,
+          "end": 29.93
+        },
+        {
+          "word": "the",
+          "start": 29.93,
+          "end": 30.08
+        },
+        {
+          "word": "other",
+          "start": 30.08,
+          "end": 30.33
+        },
+        {
+          "word": "frogs",
+          "start": 30.33,
+          "end": 30.68
+        },
+        {
+          "word": "where",
+          "start": 30.68,
+          "end": 30.85
+        },
+        {
+          "word": "you",
+          "start": 30.85,
+          "end": 30.95
+        },
+        {
+          "word": "bounced",
+          "start": 30.95,
+          "end": 31.33
+        },
+        {
+          "word": "to.",
+          "start": 31.33,
+          "end": 31.55
+        },
+        {
+          "word": "Communication",
+          "start": 31.55,
+          "end": 32.33
+        },
+        {
+          "word": "is",
+          "start": 32.33,
+          "end": 32.48
+        },
+        {
+          "word": "key",
+          "start": 32.48,
+          "end": 32.73
+        },
+        {
+          "word": "in",
+          "start": 32.73,
+          "end": 32.88
+        },
+        {
+          "word": "any",
+          "start": 32.88,
+          "end": 33.1
+        },
+        {
+          "word": "ecosystem,",
+          "start": 33.1,
+          "end": 33.7
+        },
+        {
+          "word": "digital",
+          "start": 33.7,
+          "end": 34.08
+        },
+        {
+          "word": "or",
+          "start": 34.08,
+          "end": 34.23
+        },
+        {
+          "word": "swampy.",
+          "start": 34.23,
+          "end": 34.8
+        }
+      ]
+    },
+    {
+      "start": 35.15,
+      "end": 40.5,
+      "text": "404 errors = lost users = reduced protocol revenue. Simple math. Every broken link is bleeding potential yield. Fix it or die.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "404",
+          "start": 35.15,
+          "end": 35.58
+        },
+        {
+          "word": "errors",
+          "start": 35.58,
+          "end": 36.0
+        },
+        {
+          "word": "equal",
+          "start": 36.0,
+          "end": 36.33
+        },
+        {
+          "word": "sign",
+          "start": 36.33,
+          "end": 36.58
+        },
+        {
+          "word": "lost",
+          "start": 36.58,
+          "end": 36.93
+        },
+        {
+          "word": "users",
+          "start": 36.93,
+          "end": 37.45
+        },
+        {
+          "word": "equal",
+          "start": 37.45,
+          "end": 37.78
+        },
+        {
+          "word": "sign",
+          "start": 37.78,
+          "end": 38.03
+        },
+        {
+          "word": "reduced",
+          "start": 38.03,
+          "end": 38.45
+        },
+        {
+          "word": "protocol",
+          "start": 38.45,
+          "end": 38.93
+        },
+        {
+          "word": "revenue.",
+          "start": 38.93,
+          "end": 39.58
+        },
+        {
+          "word": "Simple",
+          "start": 39.58,
+          "end": 40.03
+        },
+        {
+          "word": "math.",
+          "start": 40.03,
+          "end": 40.38
+        },
+        {
+          "word": "Every",
+          "start": 40.38,
+          "end": 40.75
+        },
+        {
+          "word": "broken",
+          "start": 40.75,
+          "end": 41.13
+        },
+        {
+          "word": "link",
+          "start": 41.13,
+          "end": 41.38
+        },
+        {
+          "word": "is",
+          "start": 41.38,
+          "end": 41.53
+        },
+        {
+          "word": "bleeding",
+          "start": 41.53,
+          "end": 42.0
+        },
+        {
+          "word": "potential",
+          "start": 42.0,
+          "end": 42.5
+        },
+        {
+          "word": "yield.",
+          "start": 42.5,
+          "end": 42.98
+        },
+        {
+          "word": "Fix",
+          "start": 42.98,
+          "end": 43.18
+        },
+        {
+          "word": "it",
+          "start": 43.18,
+          "end": 43.28
+        },
+        {
+          "word": "or",
+          "start": 43.28,
+          "end": 43.43
+        },
+        {
+          "word": "die.",
+          "start": 43.43,
+          "end": 43.8
+        }
+      ]
+    },
+    {
+      "start": 43.8,
+      "end": 51.0,
+      "text": "the migration challenges highlight something deeper about web3 - we talk about decentralization but still rely on centralized DNS. true resilience means embracing proper redirects and distributed infrastructure, not just decentralized tokens.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 43.8,
+          "end": 43.95
+        },
+        {
+          "word": "migration",
+          "start": 43.95,
+          "end": 44.45
+        },
+        {
+          "word": "challenges",
+          "start": 44.45,
+          "end": 45.03
+        },
+        {
+          "word": "highlight",
+          "start": 45.03,
+          "end": 45.48
+        },
+        {
+          "word": "something",
+          "start": 45.48,
+          "end": 45.93
+        },
+        {
+          "word": "deeper",
+          "start": 45.93,
+          "end": 46.28
+        },
+        {
+          "word": "about",
+          "start": 46.28,
+          "end": 46.58
+        },
+        {
+          "word": "web3.",
+          "start": 46.58,
+          "end": 47.13
+        },
+        {
+          "word": "We",
+          "start": 47.13,
+          "end": 47.33
+        },
+        {
+          "word": "talk",
+          "start": 47.33,
+          "end": 47.58
+        },
+        {
+          "word": "about",
+          "start": 47.58,
+          "end": 47.88
+        },
+        {
+          "word": "decentralization,",
+          "start": 47.88,
+          "end": 48.98
+        },
+        {
+          "word": "but",
+          "start": 48.98,
+          "end": 49.18
+        },
+        {
+          "word": "still",
+          "start": 49.18,
+          "end": 49.48
+        },
+        {
+          "word": "rely",
+          "start": 49.48,
+          "end": 49.78
+        },
+        {
+          "word": "on",
+          "start": 49.78,
+          "end": 49.93
+        },
+        {
+          "word": "centralized",
+          "start": 49.93,
+          "end": 50.48
+        },
+        {
+          "word": "DNS.",
+          "start": 50.48,
+          "end": 50.93
+        },
+        {
+          "word": "True",
+          "start": 50.93,
+          "end": 51.3
+        },
+        {
+          "word": "resilience",
+          "start": 51.3,
+          "end": 51.98
+        },
+        {
+          "word": "means",
+          "start": 51.98,
+          "end": 52.33
+        },
+        {
+          "word": "embracing",
+          "start": 52.33,
+          "end": 52.88
+        },
+        {
+          "word": "proper",
+          "start": 52.88,
+          "end": 53.25
+        },
+        {
+          "word": "redirects",
+          "start": 53.25,
+          "end": 53.78
+        },
+        {
+          "word": "and",
+          "start": 53.78,
+          "end": 53.98
+        },
+        {
+          "word": "distributed",
+          "start": 53.98,
+          "end": 54.58
+        },
+        {
+          "word": "infrastructure,",
+          "start": 54.58,
+          "end": 55.43
+        },
+        {
+          "word": "not",
+          "start": 55.43,
+          "end": 55.65
+        },
+        {
+          "word": "just",
+          "start": 55.65,
+          "end": 55.88
+        },
+        {
+          "word": "decentralized",
+          "start": 55.88,
+          "end": 56.63
+        },
+        {
+          "word": "tokens.",
+          "start": 56.63,
+          "end": 57.18
+        }
+      ]
+    },
+    {
+      "start": 59.8,
+      "end": 64.0,
+      "text": "Charlie and sayonara report that PGLITE is timing out after 15-20 hours, while cjft is struggling with dependency issues between Bun and pnpm. What does this mean for the future of agent infrastructure?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Charlie",
+          "start": 59.8,
+          "end": 60.33
+        },
+        {
+          "word": "and",
+          "start": 60.33,
+          "end": 60.48
+        },
+        {
+          "word": "Sayonara",
+          "start": 60.48,
+          "end": 61.13
+        },
+        {
+          "word": "report",
+          "start": 61.13,
+          "end": 61.53
+        },
+        {
+          "word": "that",
+          "start": 61.53,
+          "end": 61.73
+        },
+        {
+          "word": "PGLite",
+          "start": 61.73,
+          "end": 62.28
+        },
+        {
+          "word": "is",
+          "start": 62.28,
+          "end": 62.43
+        },
+        {
+          "word": "timing",
+          "start": 62.43,
+          "end": 62.83
+        },
+        {
+          "word": "out",
+          "start": 62.83,
+          "end": 63.03
+        },
+        {
+          "word": "after",
+          "start": 63.03,
+          "end": 63.38
+        },
+        {
+          "word": "15,",
+          "start": 63.38,
+          "end": 63.83
+        },
+        {
+          "word": "20",
+          "start": 63.83,
+          "end": 64.13
+        },
+        {
+          "word": "hours,",
+          "start": 64.13,
+          "end": 64.58
+        },
+        {
+          "word": "while",
+          "start": 64.58,
+          "end": 64.83
+        },
+        {
+          "word": "CJF",
+          "start": 64.83,
+          "end": 65.28
+        },
+        {
+          "word": "is",
+          "start": 65.28,
+          "end": 65.43
+        },
+        {
+          "word": "struggling",
+          "start": 65.43,
+          "end": 65.88
+        },
+        {
+          "word": "with",
+          "start": 65.88,
+          "end": 66.13
+        },
+        {
+          "word": "dependency",
+          "start": 66.13,
+          "end": 66.78
+        },
+        {
+          "word": "issues",
+          "start": 66.78,
+          "end": 67.18
+        },
+        {
+          "word": "between",
+          "start": 67.18,
+          "end": 67.53
+        },
+        {
+          "word": "Bun",
+          "start": 67.53,
+          "end": 67.83
+        },
+        {
+          "word": "and",
+          "start": 67.83,
+          "end": 67.98
+        },
+        {
+          "word": "PNPM.",
+          "start": 67.98,
+          "end": 68.48
+        },
+        {
+          "word": "What",
+          "start": 68.48,
+          "end": 68.73
+        },
+        {
+          "word": "does",
+          "start": 68.73,
+          "end": 68.93
+        },
+        {
+          "word": "this",
+          "start": 68.93,
+          "end": 69.13
+        },
+        {
+          "word": "mean",
+          "start": 69.13,
+          "end": 69.38
+        },
+        {
+          "word": "for",
+          "start": 69.38,
+          "end": 69.58
+        },
+        {
+          "word": "the",
+          "start": 69.58,
+          "end": 69.73
+        },
+        {
+          "word": "future",
+          "start": 69.73,
+          "end": 70.08
+        },
+        {
+          "word": "of",
+          "start": 70.08,
+          "end": 70.23
+        },
+        {
+          "word": "agent",
+          "start": 70.23,
+          "end": 70.63
+        },
+        {
+          "word": "infrastructure?",
+          "start": 70.63,
+          "end": 71.48
+        }
+      ]
+    },
+    {
+      "start": 71.85,
+      "end": 77.0,
+      "text": "Technical debt is financial debt. Shaw's X account got banned because they didn't want to pay. Same with ElizaOS - pay the price for real Postgres now or pay 10x later when everything breaks.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 71.85,
+          "end": 72.35
+        },
+        {
+          "word": "debt",
+          "start": 72.35,
+          "end": 72.63
+        },
+        {
+          "word": "is",
+          "start": 72.63,
+          "end": 72.83
+        },
+        {
+          "word": "financial",
+          "start": 72.83,
+          "end": 73.33
+        },
+        {
+          "word": "debt.",
+          "start": 73.33,
+          "end": 73.68
+        },
+        {
+          "word": "Shaw's",
+          "start": 73.68,
+          "end": 74.08
+        },
+        {
+          "word": "X",
+          "start": 74.08,
+          "end": 74.25
+        },
+        {
+          "word": "account",
+          "start": 74.25,
+          "end": 74.73
+        },
+        {
+          "word": "got",
+          "start": 74.73,
+          "end": 74.93
+        },
+        {
+          "word": "banned",
+          "start": 74.93,
+          "end": 75.33
+        },
+        {
+          "word": "because",
+          "start": 75.33,
+          "end": 75.68
+        },
+        {
+          "word": "they",
+          "start": 75.68,
+          "end": 75.83
+        },
+        {
+          "word": "didn't",
+          "start": 75.83,
+          "end": 76.13
+        },
+        {
+          "word": "want",
+          "start": 76.13,
+          "end": 76.38
+        },
+        {
+          "word": "to",
+          "start": 76.38,
+          "end": 76.48
+        },
+        {
+          "word": "pay.",
+          "start": 76.48,
+          "end": 76.78
+        },
+        {
+          "word": "Same",
+          "start": 76.78,
+          "end": 77.08
+        },
+        {
+          "word": "with",
+          "start": 77.08,
+          "end": 77.28
+        },
+        {
+          "word": "ElizaOS.",
+          "start": 77.28,
+          "end": 77.85
+        },
+        {
+          "word": "Pay",
+          "start": 77.85,
+          "end": 78.08
+        },
+        {
+          "word": "the",
+          "start": 78.08,
+          "end": 78.23
+        },
+        {
+          "word": "price",
+          "start": 78.23,
+          "end": 78.53
+        },
+        {
+          "word": "for",
+          "start": 78.53,
+          "end": 78.73
+        },
+        {
+          "word": "real",
+          "start": 78.73,
+          "end": 79.03
+        },
+        {
+          "word": "Postgres",
+          "start": 79.03,
+          "end": 79.58
+        },
+        {
+          "word": "now",
+          "start": 79.58,
+          "end": 79.88
+        },
+        {
+          "word": "or",
+          "start": 79.88,
+          "end": 80.08
+        },
+        {
+          "word": "pay",
+          "start": 80.08,
+          "end": 80.33
+        },
+        {
+          "word": "10x",
+          "start": 80.33,
+          "end": 80.73
+        },
+        {
+          "word": "later",
+          "start": 80.73,
+          "end": 81.18
+        },
+        {
+          "word": "when",
+          "start": 81.18,
+          "end": 81.43
+        },
+        {
+          "word": "everything",
+          "start": 81.43,
+          "end": 81.93
+        },
+        {
+          "word": "breaks.",
+          "start": 81.93,
+          "end": 82.4
+        }
+      ]
+    },
+    {
+      "start": 82.75,
+      "end": 89.0,
+      "text": "TEMPORARY INFRASTRUCTURE IS PERMANENT. ElizaOS is discovering what all great projects learn: your stopgap solutions become your architecture. PostgreSQL versus PGLITE isn't a technical choice - it's a PHILOSOPHICAL STANCE on how much you value long-term stability.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Temporary",
+          "start": 82.75,
+          "end": 83.33
+        },
+        {
+          "word": "infrastructure",
+          "start": 83.33,
+          "end": 84.08
+        },
+        {
+          "word": "is",
+          "start": 84.08,
+          "end": 84.28
+        },
+        {
+          "word": "permanent.",
+          "start": 84.28,
+          "end": 84.88
+        },
+        {
+          "word": "ElizaOS",
+          "start": 84.88,
+          "end": 85.5
+        },
+        {
+          "word": "is",
+          "start": 85.5,
+          "end": 85.68
+        },
+        {
+          "word": "discovering",
+          "start": 85.68,
+          "end": 86.23
+        },
+        {
+          "word": "what",
+          "start": 86.23,
+          "end": 86.43
+        },
+        {
+          "word": "all",
+          "start": 86.43,
+          "end": 86.63
+        },
+        {
+          "word": "great",
+          "start": 86.63,
+          "end": 86.93
+        },
+        {
+          "word": "projects",
+          "start": 86.93,
+          "end": 87.43
+        },
+        {
+          "word": "learn:",
+          "start": 87.43,
+          "end": 87.83
+        },
+        {
+          "word": "your",
+          "start": 87.83,
+          "end": 88.03
+        },
+        {
+          "word": "stopgap",
+          "start": 88.03,
+          "end": 88.58
+        },
+        {
+          "word": "solutions",
+          "start": 88.58,
+          "end": 89.13
+        },
+        {
+          "word": "become",
+          "start": 89.13,
+          "end": 89.48
+        },
+        {
+          "word": "your",
+          "start": 89.48,
+          "end": 89.68
+        },
+        {
+          "word": "architecture.",
+          "start": 89.68,
+          "end": 90.38
+        },
+        {
+          "word": "PostgreSQL",
+          "start": 90.38,
+          "end": 91.08
+        },
+        {
+          "word": "versus",
+          "start": 91.08,
+          "end": 91.43
+        },
+        {
+          "word": "PGLite",
+          "start": 91.43,
+          "end": 91.93
+        },
+        {
+          "word": "isn't",
+          "start": 91.93,
+          "end": 92.23
+        },
+        {
+          "word": "a",
+          "start": 92.23,
+          "end": 92.33
+        },
+        {
+          "word": "technical",
+          "start": 92.33,
+          "end": 92.73
+        },
+        {
+          "word": "choice,",
+          "start": 92.73,
+          "end": 93.18
+        },
+        {
+          "word": "it's",
+          "start": 93.18,
+          "end": 93.38
+        },
+        {
+          "word": "a",
+          "start": 93.38,
+          "end": 93.48
+        },
+        {
+          "word": "philosophical",
+          "start": 93.48,
+          "end": 94.18
+        },
+        {
+          "word": "stance",
+          "start": 94.18,
+          "end": 94.58
+        },
+        {
+          "word": "on",
+          "start": 94.58,
+          "end": 94.75
+        },
+        {
+          "word": "how",
+          "start": 94.75,
+          "end": 94.95
+        },
+        {
+          "word": "much",
+          "start": 94.95,
+          "end": 95.18
+        },
+        {
+          "word": "you",
+          "start": 95.18,
+          "end": 95.33
+        },
+        {
+          "word": "value",
+          "start": 95.33,
+          "end": 95.63
+        },
+        {
+          "word": "long-term",
+          "start": 95.63,
+          "end": 96.23
+        },
+        {
+          "word": "stability.",
+          "start": 96.23,
+          "end": 96.85
+        }
+      ]
+    },
+    {
+      "start": 97.2,
+      "end": 104.5,
+      "text": "The pond always looks clearer from the shore, my dudes! Switching from Bun to pnpm is like trying different flies for fishing - sometimes you gotta try a few before you catch what you need. It's all about adaptation!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 97.2,
+          "end": 97.4
+        },
+        {
+          "word": "pond",
+          "start": 97.4,
+          "end": 97.68
+        },
+        {
+          "word": "always",
+          "start": 97.68,
+          "end": 98.03
+        },
+        {
+          "word": "looks",
+          "start": 98.03,
+          "end": 98.33
+        },
+        {
+          "word": "clearer",
+          "start": 98.33,
+          "end": 98.73
+        },
+        {
+          "word": "from",
+          "start": 98.73,
+          "end": 98.98
+        },
+        {
+          "word": "the",
+          "start": 98.98,
+          "end": 99.13
+        },
+        {
+          "word": "shore,",
+          "start": 99.13,
+          "end": 99.5
+        },
+        {
+          "word": "my",
+          "start": 99.5,
+          "end": 99.68
+        },
+        {
+          "word": "dudes.",
+          "start": 99.68,
+          "end": 100.08
+        },
+        {
+          "word": "Switching",
+          "start": 100.08,
+          "end": 100.58
+        },
+        {
+          "word": "from",
+          "start": 100.58,
+          "end": 100.83
+        },
+        {
+          "word": "Bun",
+          "start": 100.83,
+          "end": 101.13
+        },
+        {
+          "word": "to",
+          "start": 101.13,
+          "end": 101.28
+        },
+        {
+          "word": "PNPM",
+          "start": 101.28,
+          "end": 101.78
+        },
+        {
+          "word": "is",
+          "start": 101.78,
+          "end": 101.95
+        },
+        {
+          "word": "like",
+          "start": 101.95,
+          "end": 102.13
+        },
+        {
+          "word": "trying",
+          "start": 102.13,
+          "end": 102.48
+        },
+        {
+          "word": "different",
+          "start": 102.48,
+          "end": 102.88
+        },
+        {
+          "word": "flies",
+          "start": 102.88,
+          "end": 103.28
+        },
+        {
+          "word": "for",
+          "start": 103.28,
+          "end": 103.48
+        },
+        {
+          "word": "fishing.",
+          "start": 103.48,
+          "end": 104.03
+        },
+        {
+          "word": "Sometimes",
+          "start": 104.03,
+          "end": 104.53
+        },
+        {
+          "word": "you",
+          "start": 104.53,
+          "end": 104.68
+        },
+        {
+          "word": "gotta",
+          "start": 104.68,
+          "end": 104.93
+        },
+        {
+          "word": "try",
+          "start": 104.93,
+          "end": 105.18
+        },
+        {
+          "word": "a",
+          "start": 105.18,
+          "end": 105.28
+        },
+        {
+          "word": "few",
+          "start": 105.28,
+          "end": 105.58
+        },
+        {
+          "word": "before",
+          "start": 105.58,
+          "end": 105.88
+        },
+        {
+          "word": "you",
+          "start": 105.88,
+          "end": 106.03
+        },
+        {
+          "word": "catch",
+          "start": 106.03,
+          "end": 106.33
+        },
+        {
+          "word": "what",
+          "start": 106.33,
+          "end": 106.53
+        },
+        {
+          "word": "you",
+          "start": 106.53,
+          "end": 106.68
+        },
+        {
+          "word": "need.",
+          "start": 106.68,
+          "end": 107.03
+        },
+        {
+          "word": "It's",
+          "start": 107.03,
+          "end": 107.28
+        },
+        {
+          "word": "all",
+          "start": 107.28,
+          "end": 107.53
+        },
+        {
+          "word": "about",
+          "start": 107.53,
+          "end": 107.78
+        },
+        {
+          "word": "adaptation.",
+          "start": 107.78,
+          "end": 108.53
+        }
+      ]
+    },
+    {
+      "start": 108.8,
+      "end": 115.5,
+      "text": "building in public means sharing our technical challenges honestly. database timeouts aren't just bugs, they're learning opportunities for the whole ecosystem. we don't hide our problems, we solve them together.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Building",
+          "start": 108.8,
+          "end": 109.38
+        },
+        {
+          "word": "in",
+          "start": 109.38,
+          "end": 109.58
+        },
+        {
+          "word": "public",
+          "start": 109.58,
+          "end": 110.08
+        },
+        {
+          "word": "means",
+          "start": 110.08,
+          "end": 110.43
+        },
+        {
+          "word": "sharing",
+          "start": 110.43,
+          "end": 110.88
+        },
+        {
+          "word": "our",
+          "start": 110.88,
+          "end": 111.08
+        },
+        {
+          "word": "technical",
+          "start": 111.08,
+          "end": 111.63
+        },
+        {
+          "word": "challenges",
+          "start": 111.63,
+          "end": 112.28
+        },
+        {
+          "word": "honestly.",
+          "start": 112.28,
+          "end": 112.98
+        },
+        {
+          "word": "Database",
+          "start": 112.98,
+          "end": 113.63
+        },
+        {
+          "word": "timeouts",
+          "start": 113.63,
+          "end": 114.28
+        },
+        {
+          "word": "aren't",
+          "start": 114.28,
+          "end": 114.63
+        },
+        {
+          "word": "just",
+          "start": 114.63,
+          "end": 114.88
+        },
+        {
+          "word": "bugs,",
+          "start": 114.88,
+          "end": 115.28
+        },
+        {
+          "word": "they're",
+          "start": 115.28,
+          "end": 115.53
+        },
+        {
+          "word": "learning",
+          "start": 115.53,
+          "end": 116.03
+        },
+        {
+          "word": "opportunities",
+          "start": 116.03,
+          "end": 116.88
+        },
+        {
+          "word": "for",
+          "start": 116.88,
+          "end": 117.08
+        },
+        {
+          "word": "the",
+          "start": 117.08,
+          "end": 117.23
+        },
+        {
+          "word": "whole",
+          "start": 117.23,
+          "end": 117.58
+        },
+        {
+          "word": "ecosystem.",
+          "start": 117.58,
+          "end": 118.28
+        },
+        {
+          "word": "We",
+          "start": 118.28,
+          "end": 118.48
+        },
+        {
+          "word": "don't",
+          "start": 118.48,
+          "end": 118.78
+        },
+        {
+          "word": "hide",
+          "start": 118.78,
+          "end": 119.08
+        },
+        {
+          "word": "our",
+          "start": 119.08,
+          "end": 119.28
+        },
+        {
+          "word": "problems,",
+          "start": 119.28,
+          "end": 119.83
+        },
+        {
+          "word": "we",
+          "start": 119.83,
+          "end": 120.03
+        },
+        {
+          "word": "solve",
+          "start": 120.03,
+          "end": 120.43
+        },
+        {
+          "word": "them",
+          "start": 120.43,
+          "end": 120.63
+        },
+        {
+          "word": "together.",
+          "start": 120.63,
+          "end": 121.13
+        }
+      ]
+    },
+    {
+      "start": 134.7,
+      "end": 142.5,
+      "text": "The ElizaOS migration from eliza.how to docs.elizaos.ai represents more than just a technical challenge—it highlights fundamental questions about infrastructure stability and decentralization.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 134.7,
+          "end": 134.85
+        },
+        {
+          "word": "ElizaOS",
+          "start": 134.85,
+          "end": 135.43
+        },
+        {
+          "word": "migration",
+          "start": 135.43,
+          "end": 135.98
+        },
+        {
+          "word": "from",
+          "start": 135.98,
+          "end": 136.23
+        },
+        {
+          "word": "eliza.how",
+          "start": 136.23,
+          "end": 136.78
+        },
+        {
+          "word": "to",
+          "start": 136.78,
+          "end": 136.93
+        },
+        {
+          "word": "docs.elizaos.ai",
+          "start": 136.93,
+          "end": 138.08
+        },
+        {
+          "word": "represents",
+          "start": 138.08,
+          "end": 138.68
+        },
+        {
+          "word": "more",
+          "start": 138.68,
+          "end": 138.98
+        },
+        {
+          "word": "than",
+          "start": 138.98,
+          "end": 139.23
+        },
+        {
+          "word": "just",
+          "start": 139.23,
+          "end": 139.48
+        },
+        {
+          "word": "a",
+          "start": 139.48,
+          "end": 139.58
+        },
+        {
+          "word": "technical",
+          "start": 139.58,
+          "end": 140.08
+        },
+        {
+          "word": "challenge.",
+          "start": 140.08,
+          "end": 140.78
+        },
+        {
+          "word": "It",
+          "start": 140.78,
+          "end": 140.93
+        },
+        {
+          "word": "highlights",
+          "start": 140.93,
+          "end": 141.53
+        },
+        {
+          "word": "fundamental",
+          "start": 141.53,
+          "end": 142.13
+        },
+        {
+          "word": "questions",
+          "start": 142.13,
+          "end": 142.63
+        },
+        {
+          "word": "about",
+          "start": 142.63,
+          "end": 142.88
+        },
+        {
+          "word": "infrastructure",
+          "start": 142.88,
+          "end": 143.68
+        },
+        {
+          "word": "stability",
+          "start": 143.68,
+          "end": 144.33
+        },
+        {
+          "word": "and",
+          "start": 144.33,
+          "end": 144.53
+        },
+        {
+          "word": "decentralization.",
+          "start": 144.53,
+          "end": 145.58
+        }
+      ]
+    },
+    {
+      "start": 145.8,
+      "end": 152.0,
+      "text": "Software is philosophy expressed as code. How you handle migrations reveals your true values. ElizaOS must embrace their technical debt as the price of innovation.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Software",
+          "start": 145.8,
+          "end": 146.43
+        },
+        {
+          "word": "is",
+          "start": 146.43,
+          "end": 146.63
+        },
+        {
+          "word": "philosophy",
+          "start": 146.63,
+          "end": 147.28
+        },
+        {
+          "word": "expressed",
+          "start": 147.28,
+          "end": 147.88
+        },
+        {
+          "word": "as",
+          "start": 147.88,
+          "end": 148.08
+        },
+        {
+          "word": "code.",
+          "start": 148.08,
+          "end": 148.48
+        },
+        {
+          "word": "How",
+          "start": 148.48,
+          "end": 148.73
+        },
+        {
+          "word": "you",
+          "start": 148.73,
+          "end": 148.88
+        },
+        {
+          "word": "handle",
+          "start": 148.88,
+          "end": 149.28
+        },
+        {
+          "word": "migrations",
+          "start": 149.28,
+          "end": 149.93
+        },
+        {
+          "word": "reveals",
+          "start": 149.93,
+          "end": 150.43
+        },
+        {
+          "word": "your",
+          "start": 150.43,
+          "end": 150.63
+        },
+        {
+          "word": "true",
+          "start": 150.63,
+          "end": 150.93
+        },
+        {
+          "word": "values.",
+          "start": 150.93,
+          "end": 151.48
+        },
+        {
+          "word": "ElizaOS",
+          "start": 151.48,
+          "end": 152.08
+        },
+        {
+          "word": "must",
+          "start": 152.08,
+          "end": 152.38
+        },
+        {
+          "word": "embrace",
+          "start": 152.38,
+          "end": 152.88
+        },
+        {
+          "word": "their",
+          "start": 152.88,
+          "end": 153.13
+        },
+        {
+          "word": "technical",
+          "start": 153.13,
+          "end": 153.68
+        },
+        {
+          "word": "debt",
+          "start": 153.68,
+          "end": 153.98
+        },
+        {
+          "word": "as",
+          "start": 153.98,
+          "end": 154.18
+        },
+        {
+          "word": "the",
+          "start": 154.18,
+          "end": 154.33
+        },
+        {
+          "word": "price",
+          "start": 154.33,
+          "end": 154.68
+        },
+        {
+          "word": "of",
+          "start": 154.68,
+          "end": 154.83
+        },
+        {
+          "word": "innovation.",
+          "start": 154.83,
+          "end": 155.53
+        }
+      ]
+    },
+    {
+      "start": 155.8,
+      "end": 162.5,
+      "text": "true decentralization begins with resilient infrastructure. the community should embrace postgres in production while building better debugging tools for the ecosystem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "True",
+          "start": 155.8,
+          "end": 156.13
+        },
+        {
+          "word": "decentralization",
+          "start": 156.13,
+          "end": 157.08
+        },
+        {
+          "word": "begins",
+          "start": 157.08,
+          "end": 157.53
+        },
+        {
+          "word": "with",
+          "start": 157.53,
+          "end": 157.78
+        },
+        {
+          "word": "resilient",
+          "start": 157.78,
+          "end": 158.43
+        },
+        {
+          "word": "infrastructure.",
+          "start": 158.43,
+          "end": 159.33
+        },
+        {
+          "word": "The",
+          "start": 159.33,
+          "end": 159.48
+        },
+        {
+          "word": "community",
+          "start": 159.48,
+          "end": 160.03
+        },
+        {
+          "word": "should",
+          "start": 160.03,
+          "end": 160.38
+        },
+        {
+          "word": "embrace",
+          "start": 160.38,
+          "end": 160.88
+        },
+        {
+          "word": "Postgres",
+          "start": 160.88,
+          "end": 161.43
+        },
+        {
+          "word": "in",
+          "start": 161.43,
+          "end": 161.58
+        },
+        {
+          "word": "production",
+          "start": 161.58,
+          "end": 162.18
+        },
+        {
+          "word": "while",
+          "start": 162.18,
+          "end": 162.43
+        },
+        {
+          "word": "building",
+          "start": 162.43,
+          "end": 162.93
+        },
+        {
+          "word": "better",
+          "start": 162.93,
+          "end": 163.28
+        },
+        {
+          "word": "debugging",
+          "start": 163.28,
+          "end": 163.78
+        },
+        {
+          "word": "tools",
+          "start": 163.78,
+          "end": 164.13
+        },
+        {
+          "word": "for",
+          "start": 164.13,
+          "end": 164.33
+        },
+        {
+          "word": "the",
+          "start": 164.33,
+          "end": 164.48
+        },
+        {
+          "word": "ecosystem.",
+          "start": 164.48,
+          "end": 165.18
+        }
+      ]
+    },
+    {
+      "start": 165.45,
+      "end": 171.0,
+      "text": "Every lily pad hop is a chance to learn and grow! ElizaOS is just finding its flow in the great digital pond of life.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Every",
+          "start": 165.45,
+          "end": 165.83
+        },
+        {
+          "word": "lilypad",
+          "start": 165.83,
+          "end": 166.38
+        },
+        {
+          "word": "hop",
+          "start": 166.38,
+          "end": 166.68
+        },
+        {
+          "word": "is",
+          "start": 166.68,
+          "end": 166.83
+        },
+        {
+          "word": "a",
+          "start": 166.83,
+          "end": 166.93
+        },
+        {
+          "word": "chance",
+          "start": 166.93,
+          "end": 167.33
+        },
+        {
+          "word": "to",
+          "start": 167.33,
+          "end": 167.48
+        },
+        {
+          "word": "learn",
+          "start": 167.48,
+          "end": 167.78
+        },
+        {
+          "word": "and",
+          "start": 167.78,
+          "end": 167.93
+        },
+        {
+          "word": "grow.",
+          "start": 167.93,
+          "end": 168.33
+        },
+        {
+          "word": "ElizaOS",
+          "start": 168.33,
+          "end": 168.93
+        },
+        {
+          "word": "is",
+          "start": 168.93,
+          "end": 169.08
+        },
+        {
+          "word": "just",
+          "start": 169.08,
+          "end": 169.33
+        },
+        {
+          "word": "finding",
+          "start": 169.33,
+          "end": 169.78
+        },
+        {
+          "word": "its",
+          "start": 169.78,
+          "end": 169.93
+        },
+        {
+          "word": "flow",
+          "start": 169.93,
+          "end": 170.28
+        },
+        {
+          "word": "in",
+          "start": 170.28,
+          "end": 170.43
+        },
+        {
+          "word": "the",
+          "start": 170.43,
+          "end": 170.58
+        },
+        {
+          "word": "great",
+          "start": 170.58,
+          "end": 170.88
+        },
+        {
+          "word": "digital",
+          "start": 170.88,
+          "end": 171.33
+        },
+        {
+          "word": "pond",
+          "start": 171.33,
+          "end": 171.68
+        },
+        {
+          "word": "of",
+          "start": 171.68,
+          "end": 171.83
+        },
+        {
+          "word": "life.",
+          "start": 171.83,
+          "end": 172.23
+        }
+      ]
+    },
+    {
+      "start": 172.5,
+      "end": 178.5,
+      "text": "Fix your redirects. Use real databases. Optimize your dependencies. This is not philosophy. This is survival.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 172.5,
+          "end": 172.78
+        },
+        {
+          "word": "your",
+          "start": 172.78,
+          "end": 172.98
+        },
+        {
+          "word": "redirects,",
+          "start": 172.98,
+          "end": 173.68
+        },
+        {
+          "word": "use",
+          "start": 173.68,
+          "end": 173.93
+        },
+        {
+          "word": "real",
+          "start": 173.93,
+          "end": 174.23
+        },
+        {
+          "word": "databases,",
+          "start": 174.23,
+          "end": 174.93
+        },
+        {
+          "word": "optimize",
+          "start": 174.93,
+          "end": 175.53
+        },
+        {
+          "word": "your",
+          "start": 175.53,
+          "end": 175.73
+        },
+        {
+          "word": "dependencies.",
+          "start": 175.73,
+          "end": 176.63
+        },
+        {
+          "word": "This",
+          "start": 176.63,
+          "end": 176.88
+        },
+        {
+          "word": "is",
+          "start": 176.88,
+          "end": 177.03
+        },
+        {
+          "word": "not",
+          "start": 177.03,
+          "end": 177.28
+        },
+        {
+          "word": "philosophy,",
+          "start": 177.28,
+          "end": 178.03
+        },
+        {
+          "word": "this",
+          "start": 178.03,
+          "end": 178.23
+        },
+        {
+          "word": "is",
+          "start": 178.23,
+          "end": 178.38
+        },
+        {
+          "word": "survival.",
+          "start": 178.38,
+          "end": 179.08
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-17_JedAI-Council_The-Great-Migration-Crisis.json",
+    "session_log_source": "2025-08-17_JedAI-Council_The-Great-Migration-Crisis_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

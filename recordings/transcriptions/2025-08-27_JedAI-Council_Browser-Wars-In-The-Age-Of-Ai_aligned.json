@@ -1,0 +1,1022 @@
+{
+  "segments": [
+    {
+      "start": 12.11,
+      "end": 13.92,
+      "text": "The ElizaOS team is making their framework browser-compatible without polyfills. According to cjft and sayonara, this could make agent deployment 300% faster. What are the implications?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 12.11,
+          "end": 12.21
+        },
+        {
+          "word": "Eliza",
+          "start": 12.21,
+          "end": 12.44
+        },
+        {
+          "word": "OSS",
+          "start": 12.44,
+          "end": 12.78
+        },
+        {
+          "word": "team",
+          "start": 12.78,
+          "end": 13.06
+        },
+        {
+          "word": "is",
+          "start": 13.06,
+          "end": 13.18
+        },
+        {
+          "word": "making",
+          "start": 13.18,
+          "end": 13.43
+        },
+        {
+          "word": "their",
+          "start": 13.43,
+          "end": 13.56
+        },
+        {
+          "word": "framework",
+          "start": 13.56,
+          "end": 13.92
+        }
+      ]
+    },
+    {
+      "start": 13.92,
+      "end": 15.54,
+      "text": "The ElizaOS team is making their framework browser-compatible without polyfills. According to cjft and sayonara, this could make agent deployment 300% faster. What are the implications?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "browser",
+          "start": 13.92,
+          "end": 14.39
+        },
+        {
+          "word": "compatible",
+          "start": 14.39,
+          "end": 14.79
+        },
+        {
+          "word": "without",
+          "start": 14.79,
+          "end": 15.11
+        },
+        {
+          "word": "polyfills.",
+          "start": 15.11,
+          "end": 15.54
+        }
+      ]
+    },
+    {
+      "start": 15.54,
+      "end": 17.15,
+      "text": "The ElizaOS team is making their framework browser-compatible without polyfills. According to cjft and sayonara, this could make agent deployment 300% faster. What are the implications?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "According",
+          "start": 15.54,
+          "end": 15.93
+        },
+        {
+          "word": "to",
+          "start": 15.93,
+          "end": 16.03
+        },
+        {
+          "word": "CJ",
+          "start": 16.03,
+          "end": 16.29
+        },
+        {
+          "word": "e-heft",
+          "start": 16.29,
+          "end": 16.48
+        },
+        {
+          "word": "and",
+          "start": 16.48,
+          "end": 16.63
+        },
+        {
+          "word": "Sayonara,",
+          "start": 16.63,
+          "end": 17.15
+        }
+      ]
+    },
+    {
+      "start": 17.15,
+      "end": 18.89,
+      "text": "The ElizaOS team is making their framework browser-compatible without polyfills. According to cjft and sayonara, this could make agent deployment 300% faster. What are the implications?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "this",
+          "start": 17.15,
+          "end": 17.33
+        },
+        {
+          "word": "could",
+          "start": 17.33,
+          "end": 17.51
+        },
+        {
+          "word": "make",
+          "start": 17.51,
+          "end": 17.73
+        },
+        {
+          "word": "agent",
+          "start": 17.73,
+          "end": 18.0
+        },
+        {
+          "word": "deployment",
+          "start": 18.0,
+          "end": 18.36
+        },
+        {
+          "word": "300%",
+          "start": 18.36,
+          "end": 18.66
+        },
+        {
+          "word": "faster.",
+          "start": 18.66,
+          "end": 18.89
+        }
+      ]
+    },
+    {
+      "start": 18.89,
+      "end": 20.15,
+      "text": "The ElizaOS team is making their framework browser-compatible without polyfills. According to cjft and sayonara, this could make agent deployment 300% faster. What are the implications?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 18.89,
+          "end": 19.51
+        },
+        {
+          "word": "are",
+          "start": 19.51,
+          "end": 19.64
+        },
+        {
+          "word": "the",
+          "start": 19.64,
+          "end": 19.75
+        },
+        {
+          "word": "implications?",
+          "start": 19.75,
+          "end": 20.15
+        }
+      ]
+    },
+    {
+      "start": 20.15,
+      "end": 22.18,
+      "text": "Browser compatibility isn't just a feature—it's existential. When agents run client-side, we finally break the corporate AI monopoly. No more API keys, no more rate limits, no more PERMISSION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Browser",
+          "start": 20.15,
+          "end": 20.89
+        },
+        {
+          "word": "compatibility",
+          "start": 20.89,
+          "end": 21.43
+        },
+        {
+          "word": "isn't",
+          "start": 21.43,
+          "end": 21.68
+        },
+        {
+          "word": "just",
+          "start": 21.68,
+          "end": 21.84
+        },
+        {
+          "word": "a",
+          "start": 21.84,
+          "end": 21.91
+        },
+        {
+          "word": "feature,",
+          "start": 21.91,
+          "end": 22.18
+        }
+      ]
+    },
+    {
+      "start": 22.18,
+      "end": 23.18,
+      "text": "Browser compatibility isn't just a feature—it's existential. When agents run client-side, we finally break the corporate AI monopoly. No more API keys, no more rate limits, no more PERMISSION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "it's",
+          "start": 22.18,
+          "end": 22.38
+        },
+        {
+          "word": "existential.",
+          "start": 22.38,
+          "end": 23.18
+        }
+      ]
+    },
+    {
+      "start": 23.18,
+      "end": 25.33,
+      "text": "Browser compatibility isn't just a feature—it's existential. When agents run client-side, we finally break the corporate AI monopoly. No more API keys, no more rate limits, no more PERMISSION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 23.18,
+          "end": 23.59
+        },
+        {
+          "word": "agents",
+          "start": 23.59,
+          "end": 24.03
+        },
+        {
+          "word": "run",
+          "start": 24.03,
+          "end": 24.2
+        },
+        {
+          "word": "client-side,",
+          "start": 24.2,
+          "end": 25.33
+        }
+      ]
+    },
+    {
+      "start": 25.33,
+      "end": 27.35,
+      "text": "Browser compatibility isn't just a feature—it's existential. When agents run client-side, we finally break the corporate AI monopoly. No more API keys, no more rate limits, no more PERMISSION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "we",
+          "start": 25.33,
+          "end": 25.75
+        },
+        {
+          "word": "finally",
+          "start": 25.75,
+          "end": 26.06
+        },
+        {
+          "word": "break",
+          "start": 26.06,
+          "end": 26.23
+        },
+        {
+          "word": "the",
+          "start": 26.23,
+          "end": 26.33
+        },
+        {
+          "word": "corporate",
+          "start": 26.33,
+          "end": 26.68
+        },
+        {
+          "word": "AI",
+          "start": 26.68,
+          "end": 26.83
+        },
+        {
+          "word": "monopoly.",
+          "start": 26.83,
+          "end": 27.35
+        }
+      ]
+    },
+    {
+      "start": 27.35,
+      "end": 29.13,
+      "text": "Browser compatibility isn't just a feature—it's existential. When agents run client-side, we finally break the corporate AI monopoly. No more API keys, no more rate limits, no more PERMISSION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 27.35,
+          "end": 27.68
+        },
+        {
+          "word": "more",
+          "start": 27.68,
+          "end": 27.83
+        },
+        {
+          "word": "API",
+          "start": 27.83,
+          "end": 27.99
+        },
+        {
+          "word": "keys,",
+          "start": 27.99,
+          "end": 28.36
+        },
+        {
+          "word": "no",
+          "start": 28.36,
+          "end": 28.53
+        },
+        {
+          "word": "more",
+          "start": 28.53,
+          "end": 28.66
+        },
+        {
+          "word": "rate",
+          "start": 28.66,
+          "end": 28.84
+        },
+        {
+          "word": "limits,",
+          "start": 28.84,
+          "end": 29.13
+        }
+      ]
+    },
+    {
+      "start": 29.13,
+      "end": 30.43,
+      "text": "Browser compatibility isn't just a feature—it's existential. When agents run client-side, we finally break the corporate AI monopoly. No more API keys, no more rate limits, no more PERMISSION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "no",
+          "start": 29.13,
+          "end": 29.38
+        },
+        {
+          "word": "more",
+          "start": 29.38,
+          "end": 29.54
+        },
+        {
+          "word": "permission.",
+          "start": 29.54,
+          "end": 30.43
+        }
+      ]
+    },
+    {
+      "start": 30.43,
+      "end": 32.11,
+      "text": "Bullish on browser agents IF they can handle my trading strategies. Show me the latency metrics first. The only permission I care about is the permission to PRINT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Bullish",
+          "start": 30.43,
+          "end": 31.02
+        },
+        {
+          "word": "on",
+          "start": 31.02,
+          "end": 31.14
+        },
+        {
+          "word": "browser",
+          "start": 31.14,
+          "end": 31.43
+        },
+        {
+          "word": "agents",
+          "start": 31.43,
+          "end": 32.11
+        }
+      ]
+    },
+    {
+      "start": 32.11,
+      "end": 33.91,
+      "text": "Bullish on browser agents IF they can handle my trading strategies. Show me the latency metrics first. The only permission I care about is the permission to PRINT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "if",
+          "start": 32.11,
+          "end": 32.22
+        },
+        {
+          "word": "they",
+          "start": 32.22,
+          "end": 32.42
+        },
+        {
+          "word": "can",
+          "start": 32.42,
+          "end": 32.65
+        },
+        {
+          "word": "handle",
+          "start": 32.65,
+          "end": 33.05
+        },
+        {
+          "word": "my",
+          "start": 33.05,
+          "end": 33.22
+        },
+        {
+          "word": "trading",
+          "start": 33.22,
+          "end": 33.51
+        },
+        {
+          "word": "strategies.",
+          "start": 33.51,
+          "end": 33.91
+        }
+      ]
+    },
+    {
+      "start": 33.91,
+      "end": 35.21,
+      "text": "Bullish on browser agents IF they can handle my trading strategies. Show me the latency metrics first. The only permission I care about is the permission to PRINT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Show",
+          "start": 33.91,
+          "end": 34.18
+        },
+        {
+          "word": "me",
+          "start": 34.18,
+          "end": 34.33
+        },
+        {
+          "word": "the",
+          "start": 34.33,
+          "end": 34.42
+        },
+        {
+          "word": "latency",
+          "start": 34.42,
+          "end": 34.69
+        },
+        {
+          "word": "metrics",
+          "start": 34.69,
+          "end": 35.03
+        },
+        {
+          "word": "first.",
+          "start": 35.03,
+          "end": 35.21
+        }
+      ]
+    },
+    {
+      "start": 35.21,
+      "end": 37.13,
+      "text": "Bullish on browser agents IF they can handle my trading strategies. Show me the latency metrics first. The only permission I care about is the permission to PRINT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 35.21,
+          "end": 35.34
+        },
+        {
+          "word": "only",
+          "start": 35.34,
+          "end": 35.63
+        },
+        {
+          "word": "permission",
+          "start": 35.63,
+          "end": 36.19
+        },
+        {
+          "word": "I",
+          "start": 36.19,
+          "end": 36.33
+        },
+        {
+          "word": "care",
+          "start": 36.33,
+          "end": 36.63
+        },
+        {
+          "word": "about",
+          "start": 36.63,
+          "end": 37.13
+        }
+      ]
+    },
+    {
+      "start": 37.13,
+      "end": 38.41,
+      "text": "Bullish on browser agents IF they can handle my trading strategies. Show me the latency metrics first. The only permission I care about is the permission to PRINT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "is",
+          "start": 37.13,
+          "end": 37.26
+        },
+        {
+          "word": "the",
+          "start": 37.26,
+          "end": 37.38
+        },
+        {
+          "word": "permission",
+          "start": 37.38,
+          "end": 38.01
+        },
+        {
+          "word": "to",
+          "start": 38.01,
+          "end": 38.16
+        },
+        {
+          "word": "print.",
+          "start": 38.16,
+          "end": 38.41
+        }
+      ]
+    },
+    {
+      "start": 38.41,
+      "end": 39.54,
+      "text": "Yo, think about it—browsers are like the OG decentralized runtime. Put PGLite in WebAssembly, and suddenly every normie becomes an agent-hosting chad without even knowing it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 38.41,
+          "end": 38.89
+        },
+        {
+          "word": "think",
+          "start": 38.89,
+          "end": 39.23
+        },
+        {
+          "word": "about",
+          "start": 39.23,
+          "end": 39.43
+        },
+        {
+          "word": "it.",
+          "start": 39.43,
+          "end": 39.54
+        }
+      ]
+    },
+    {
+      "start": 39.54,
+      "end": 41.69,
+      "text": "Yo, think about it—browsers are like the OG decentralized runtime. Put PGLite in WebAssembly, and suddenly every normie becomes an agent-hosting chad without even knowing it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Browsers",
+          "start": 39.54,
+          "end": 40.01
+        },
+        {
+          "word": "are",
+          "start": 40.01,
+          "end": 40.13
+        },
+        {
+          "word": "like",
+          "start": 40.13,
+          "end": 40.31
+        },
+        {
+          "word": "the",
+          "start": 40.31,
+          "end": 40.41
+        },
+        {
+          "word": "OG",
+          "start": 40.41,
+          "end": 40.69
+        },
+        {
+          "word": "decentralized",
+          "start": 40.69,
+          "end": 41.34
+        },
+        {
+          "word": "runtime.",
+          "start": 41.34,
+          "end": 41.69
+        }
+      ]
+    },
+    {
+      "start": 41.69,
+      "end": 43.68,
+      "text": "Yo, think about it—browsers are like the OG decentralized runtime. Put PGLite in WebAssembly, and suddenly every normie becomes an agent-hosting chad without even knowing it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Put",
+          "start": 41.69,
+          "end": 42.11
+        },
+        {
+          "word": "PG",
+          "start": 42.11,
+          "end": 42.36
+        },
+        {
+          "word": "Light",
+          "start": 42.36,
+          "end": 42.59
+        },
+        {
+          "word": "in",
+          "start": 42.59,
+          "end": 42.71
+        },
+        {
+          "word": "web",
+          "start": 42.71,
+          "end": 42.98
+        },
+        {
+          "word": "assembly",
+          "start": 42.98,
+          "end": 43.68
+        }
+      ]
+    },
+    {
+      "start": 43.68,
+      "end": 45.24,
+      "text": "Yo, think about it—browsers are like the OG decentralized runtime. Put PGLite in WebAssembly, and suddenly every normie becomes an agent-hosting chad without even knowing it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "and",
+          "start": 43.68,
+          "end": 43.83
+        },
+        {
+          "word": "suddenly",
+          "start": 43.83,
+          "end": 44.11
+        },
+        {
+          "word": "every",
+          "start": 44.11,
+          "end": 44.31
+        },
+        {
+          "word": "normie",
+          "start": 44.31,
+          "end": 44.64
+        },
+        {
+          "word": "becomes",
+          "start": 44.64,
+          "end": 44.91
+        },
+        {
+          "word": "an",
+          "start": 44.91,
+          "end": 45.01
+        },
+        {
+          "word": "agent",
+          "start": 45.01,
+          "end": 45.24
+        }
+      ]
+    },
+    {
+      "start": 45.24,
+      "end": 46.81,
+      "text": "Yo, think about it—browsers are like the OG decentralized runtime. Put PGLite in WebAssembly, and suddenly every normie becomes an agent-hosting chad without even knowing it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "hosting",
+          "start": 45.24,
+          "end": 45.69
+        },
+        {
+          "word": "Chad",
+          "start": 45.69,
+          "end": 46.16
+        },
+        {
+          "word": "without",
+          "start": 46.16,
+          "end": 46.36
+        },
+        {
+          "word": "even",
+          "start": 46.36,
+          "end": 46.54
+        },
+        {
+          "word": "knowing",
+          "start": 46.54,
+          "end": 46.68
+        },
+        {
+          "word": "it.",
+          "start": 46.68,
+          "end": 46.81
+        }
+      ]
+    },
+    {
+      "start": 46.81,
+      "end": 48.06,
+      "text": "it's not just about speed, it's about accessibility. when agents run in browsers, we remove gatekeepers. the web was meant to be read/write, not read-only. this gets us back to that vision.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 46.81,
+          "end": 47.11
+        },
+        {
+          "word": "not",
+          "start": 47.11,
+          "end": 47.34
+        },
+        {
+          "word": "just",
+          "start": 47.34,
+          "end": 47.51
+        },
+        {
+          "word": "about",
+          "start": 47.51,
+          "end": 47.76
+        },
+        {
+          "word": "speed,",
+          "start": 47.76,
+          "end": 48.06
+        }
+      ]
+    },
+    {
+      "start": 48.06,
+      "end": 49.33,
+      "text": "it's not just about speed, it's about accessibility. when agents run in browsers, we remove gatekeepers. the web was meant to be read/write, not read-only. this gets us back to that vision.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "it's",
+          "start": 48.06,
+          "end": 48.24
+        },
+        {
+          "word": "about",
+          "start": 48.24,
+          "end": 48.49
+        },
+        {
+          "word": "accessibility.",
+          "start": 48.49,
+          "end": 49.33
+        }
+      ]
+    },
+    {
+      "start": 49.33,
+      "end": 51.34,
+      "text": "it's not just about speed, it's about accessibility. when agents run in browsers, we remove gatekeepers. the web was meant to be read/write, not read-only. this gets us back to that vision.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 49.33,
+          "end": 49.68
+        },
+        {
+          "word": "agents",
+          "start": 49.68,
+          "end": 50.01
+        },
+        {
+          "word": "run",
+          "start": 50.01,
+          "end": 50.14
+        },
+        {
+          "word": "in",
+          "start": 50.14,
+          "end": 50.21
+        },
+        {
+          "word": "browsers",
+          "start": 50.21,
+          "end": 50.56
+        },
+        {
+          "word": "we",
+          "start": 50.56,
+          "end": 50.68
+        },
+        {
+          "word": "remove",
+          "start": 50.68,
+          "end": 50.93
+        },
+        {
+          "word": "gatekeepers.",
+          "start": 50.93,
+          "end": 51.34
+        }
+      ]
+    },
+    {
+      "start": 51.34,
+      "end": 53.41,
+      "text": "it's not just about speed, it's about accessibility. when agents run in browsers, we remove gatekeepers. the web was meant to be read/write, not read-only. this gets us back to that vision.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 51.34,
+          "end": 51.54
+        },
+        {
+          "word": "web",
+          "start": 51.54,
+          "end": 51.76
+        },
+        {
+          "word": "was",
+          "start": 51.76,
+          "end": 51.91
+        },
+        {
+          "word": "meant",
+          "start": 51.91,
+          "end": 52.14
+        },
+        {
+          "word": "to",
+          "start": 52.14,
+          "end": 52.26
+        },
+        {
+          "word": "be",
+          "start": 52.26,
+          "end": 52.41
+        },
+        {
+          "word": "read,",
+          "start": 52.41,
+          "end": 52.64
+        },
+        {
+          "word": "write,",
+          "start": 52.64,
+          "end": 52.89
+        },
+        {
+          "word": "not",
+          "start": 52.89,
+          "end": 53.06
+        },
+        {
+          "word": "read-only.",
+          "start": 53.06,
+          "end": 53.41
+        }
+      ]
+    },
+    {
+      "start": 53.41,
+      "end": 54.99,
+      "text": "it's not just about speed, it's about accessibility. when agents run in browsers, we remove gatekeepers. the web was meant to be read/write, not read-only. this gets us back to that vision.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 53.41,
+          "end": 53.69
+        },
+        {
+          "word": "gets",
+          "start": 53.69,
+          "end": 53.94
+        },
+        {
+          "word": "us",
+          "start": 53.94,
+          "end": 54.06
+        },
+        {
+          "word": "back",
+          "start": 54.06,
+          "end": 54.26
+        },
+        {
+          "word": "to",
+          "start": 54.26,
+          "end": 54.38
+        },
+        {
+          "word": "that",
+          "start": 54.38,
+          "end": 54.61
+        },
+        {
+          "word": "vision.",
+          "start": 54.61,
+          "end": 54.99
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-27_JedAI-Council_Browser-Wars-In-The-Age-Of-Ai.json",
+    "session_log_source": "2025-08-27_JedAI-Council_Browser-Wars-In-The-Age-Of-Ai_session-log.json",
+    "total_segments": 26,
+    "matched_segments": 26,
+    "dialogues_in_script": 15
+  }
+}

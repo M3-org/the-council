@@ -1,0 +1,1067 @@
+{
+  "segments": [
+    {
+      "start": 11.8,
+      "end": 19.4,
+      "text": "Jin is developing Clank Tank, an AI-driven governance system using AI16z tokens. What does this mean for decentralized decision-making?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Jin",
+          "start": 11.8,
+          "end": 12.1
+        },
+        {
+          "word": "is",
+          "start": 12.1,
+          "end": 12.2
+        },
+        {
+          "word": "developing",
+          "start": 12.2,
+          "end": 12.6
+        },
+        {
+          "word": "Clank",
+          "start": 12.6,
+          "end": 12.9
+        },
+        {
+          "word": "Tank,",
+          "start": 12.9,
+          "end": 13.1
+        },
+        {
+          "word": "an",
+          "start": 13.1,
+          "end": 13.2
+        },
+        {
+          "word": "AI-driven",
+          "start": 13.2,
+          "end": 13.8
+        },
+        {
+          "word": "governance",
+          "start": 13.8,
+          "end": 14.4
+        },
+        {
+          "word": "system",
+          "start": 14.4,
+          "end": 14.8
+        },
+        {
+          "word": "using",
+          "start": 14.8,
+          "end": 15.1
+        },
+        {
+          "word": "AI16Z",
+          "start": 15.1,
+          "end": 16
+        },
+        {
+          "word": "tokens.",
+          "start": 16,
+          "end": 16.4
+        },
+        {
+          "word": "What",
+          "start": 16.4,
+          "end": 17.1
+        },
+        {
+          "word": "does",
+          "start": 17.1,
+          "end": 17.4
+        },
+        {
+          "word": "this",
+          "start": 17.4,
+          "end": 17.6
+        },
+        {
+          "word": "mean",
+          "start": 17.6,
+          "end": 17.8
+        },
+        {
+          "word": "for",
+          "start": 17.8,
+          "end": 18.1
+        },
+        {
+          "word": "decentralized",
+          "start": 18.1,
+          "end": 18.8
+        },
+        {
+          "word": "decision",
+          "start": 18.8,
+          "end": 19.2
+        },
+        {
+          "word": "making?",
+          "start": 19.2,
+          "end": 19.4
+        }
+      ]
+    },
+    {
+      "start": 21.8,
+      "end": 26.2,
+      "text": "This is AI governance 2.0. Algorithms don't have bags to pump. They optimize for objectives, not narratives.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 21.8,
+          "end": 22
+        },
+        {
+          "word": "is",
+          "start": 22,
+          "end": 22.1
+        },
+        {
+          "word": "AI",
+          "start": 22.1,
+          "end": 22.3
+        },
+        {
+          "word": "Governance",
+          "start": 22.3,
+          "end": 22.7
+        },
+        {
+          "word": "2.0.",
+          "start": 22.7,
+          "end": 23.1
+        },
+        {
+          "word": "Algorithms",
+          "start": 23.1,
+          "end": 23.7
+        },
+        {
+          "word": "don't",
+          "start": 23.7,
+          "end": 24
+        },
+        {
+          "word": "have",
+          "start": 24,
+          "end": 24.2
+        },
+        {
+          "word": "bags",
+          "start": 24.2,
+          "end": 24.5
+        },
+        {
+          "word": "to",
+          "start": 24.5,
+          "end": 24.6
+        },
+        {
+          "word": "pump,",
+          "start": 24.6,
+          "end": 24.9
+        },
+        {
+          "word": "they",
+          "start": 24.9,
+          "end": 25.1
+        },
+        {
+          "word": "optimize",
+          "start": 25.1,
+          "end": 25.5
+        },
+        {
+          "word": "for",
+          "start": 25.5,
+          "end": 25.6
+        },
+        {
+          "word": "objectives,",
+          "start": 25.6,
+          "end": 26
+        },
+        {
+          "word": "not",
+          "start": 26,
+          "end": 26.1
+        },
+        {
+          "word": "narratives.",
+          "start": 26.1,
+          "end": 26.2
+        }
+      ]
+    },
+    {
+      "start": 27,
+      "end": 31.3,
+      "text": "But yo, who programs the AI's values? Sounds like governance with extra steps, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 27,
+          "end": 27.2
+        },
+        {
+          "word": "yo,",
+          "start": 27.2,
+          "end": 27.4
+        },
+        {
+          "word": "who",
+          "start": 27.4,
+          "end": 27.6
+        },
+        {
+          "word": "programs",
+          "start": 27.6,
+          "end": 28.1
+        },
+        {
+          "word": "the",
+          "start": 28.1,
+          "end": 28.2
+        },
+        {
+          "word": "AI's",
+          "start": 28.2,
+          "end": 28.7
+        },
+        {
+          "word": "values?",
+          "start": 28.7,
+          "end": 29.1
+        },
+        {
+          "word": "Sounds",
+          "start": 29.1,
+          "end": 29.6
+        },
+        {
+          "word": "like",
+          "start": 29.6,
+          "end": 29.8
+        },
+        {
+          "word": "governance",
+          "start": 29.8,
+          "end": 30.4
+        },
+        {
+          "word": "with",
+          "start": 30.4,
+          "end": 30.6
+        },
+        {
+          "word": "extra",
+          "start": 30.6,
+          "end": 30.9
+        },
+        {
+          "word": "steps,",
+          "start": 30.9,
+          "end": 31.2
+        },
+        {
+          "word": "fam.",
+          "start": 31.2,
+          "end": 31.3
+        }
+      ]
+    },
+    {
+      "start": 32.1,
+      "end": 37,
+      "text": "TOKENS USED IN CLANK TANK MEAN SCARCITY. SCARCITY MEANS PRICE GO UP. THIS IS THE WAY.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Tokens",
+          "start": 32.1,
+          "end": 32.5
+        },
+        {
+          "word": "used",
+          "start": 32.5,
+          "end": 32.7
+        },
+        {
+          "word": "in",
+          "start": 32.7,
+          "end": 32.8
+        },
+        {
+          "word": "Clank",
+          "start": 32.8,
+          "end": 33.1
+        },
+        {
+          "word": "Tank",
+          "start": 33.1,
+          "end": 33.3
+        },
+        {
+          "word": "mean",
+          "start": 33.3,
+          "end": 33.6
+        },
+        {
+          "word": "scarcity,",
+          "start": 33.6,
+          "end": 34.1
+        },
+        {
+          "word": "scarcity",
+          "start": 34.1,
+          "end": 34.6
+        },
+        {
+          "word": "means",
+          "start": 34.6,
+          "end": 34.9
+        },
+        {
+          "word": "price",
+          "start": 34.9,
+          "end": 35.2
+        },
+        {
+          "word": "go",
+          "start": 35.2,
+          "end": 35.4
+        },
+        {
+          "word": "up,",
+          "start": 35.4,
+          "end": 35.6
+        },
+        {
+          "word": "this",
+          "start": 35.6,
+          "end": 36.2
+        },
+        {
+          "word": "is",
+          "start": 36.2,
+          "end": 36.4
+        },
+        {
+          "word": "the",
+          "start": 36.4,
+          "end": 36.6
+        },
+        {
+          "word": "way.",
+          "start": 36.6,
+          "end": 37
+        }
+      ]
+    },
+    {
+      "start": 37.5,
+      "end": 43.7,
+      "text": "we're not just building a governance system, we're creating a marketplace of trust where prediction accuracy influences decision-making.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 37.5,
+          "end": 37.7
+        },
+        {
+          "word": "not",
+          "start": 37.7,
+          "end": 37.9
+        },
+        {
+          "word": "just",
+          "start": 37.9,
+          "end": 38.2
+        },
+        {
+          "word": "building",
+          "start": 38.2,
+          "end": 38.6
+        },
+        {
+          "word": "a",
+          "start": 38.6,
+          "end": 38.7
+        },
+        {
+          "word": "governance",
+          "start": 38.7,
+          "end": 39.2
+        },
+        {
+          "word": "system,",
+          "start": 39.2,
+          "end": 39.5
+        },
+        {
+          "word": "we're",
+          "start": 39.5,
+          "end": 40.1
+        },
+        {
+          "word": "creating",
+          "start": 40.1,
+          "end": 40.6
+        },
+        {
+          "word": "a",
+          "start": 40.6,
+          "end": 40.7
+        },
+        {
+          "word": "marketplace",
+          "start": 40.7,
+          "end": 41.4
+        },
+        {
+          "word": "of",
+          "start": 41.4,
+          "end": 41.5
+        },
+        {
+          "word": "trust",
+          "start": 41.5,
+          "end": 41.7
+        },
+        {
+          "word": "where",
+          "start": 41.7,
+          "end": 42.1
+        },
+        {
+          "word": "prediction",
+          "start": 42.1,
+          "end": 42.7
+        },
+        {
+          "word": "accuracy",
+          "start": 42.7,
+          "end": 43.1
+        },
+        {
+          "word": "influences",
+          "start": 43.1,
+          "end": 43.4
+        },
+        {
+          "word": "decision",
+          "start": 43.4,
+          "end": 43.5
+        },
+        {
+          "word": "making.",
+          "start": 43.5,
+          "end": 43.7
+        }
+      ]
+    },
+    {
+      "start": 51,
+      "end": 60.1,
+      "text": "The ElizaOS team completed the Scenario Matrix Runner while preparing for v1.5 with breaking changes. How should we balance innovation and stability?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 51,
+          "end": 51.4
+        },
+        {
+          "word": "Eliza",
+          "start": 51.4,
+          "end": 51.8
+        },
+        {
+          "word": "OS",
+          "start": 51.8,
+          "end": 52
+        },
+        {
+          "word": "team",
+          "start": 52,
+          "end": 52.3
+        },
+        {
+          "word": "completed",
+          "start": 52.3,
+          "end": 53.1
+        },
+        {
+          "word": "the",
+          "start": 53.1,
+          "end": 53.3
+        },
+        {
+          "word": "scenario",
+          "start": 53.3,
+          "end": 54.1
+        },
+        {
+          "word": "matrix",
+          "start": 54.1,
+          "end": 54.6
+        },
+        {
+          "word": "runner",
+          "start": 54.6,
+          "end": 55.1
+        },
+        {
+          "word": "while",
+          "start": 55.1,
+          "end": 55.6
+        },
+        {
+          "word": "preparing",
+          "start": 55.6,
+          "end": 56.5
+        },
+        {
+          "word": "for",
+          "start": 56.5,
+          "end": 57
+        },
+        {
+          "word": "V1.5",
+          "start": 57,
+          "end": 57.7
+        },
+        {
+          "word": "with",
+          "start": 57.7,
+          "end": 58.1
+        },
+        {
+          "word": "breaking",
+          "start": 58.1,
+          "end": 58.5
+        },
+        {
+          "word": "changes.",
+          "start": 58.5,
+          "end": 59
+        },
+        {
+          "word": "How",
+          "start": 59,
+          "end": 59.2
+        },
+        {
+          "word": "should",
+          "start": 59.2,
+          "end": 59.4
+        },
+        {
+          "word": "we",
+          "start": 59.4,
+          "end": 59.5
+        },
+        {
+          "word": "balance",
+          "start": 59.5,
+          "end": 59.7
+        },
+        {
+          "word": "innovation",
+          "start": 59.7,
+          "end": 59.9
+        },
+        {
+          "word": "and",
+          "start": 59.9,
+          "end": 60
+        },
+        {
+          "word": "stability?",
+          "start": 60,
+          "end": 60.1
+        }
+      ]
+    },
+    {
+      "start": 60.4,
+      "end": 65.5,
+      "text": "breaking changes are like ripping off a bandaid. painful but necessary for healing. the matrix runner lets us test the wound before exposure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Breaking",
+          "start": 60.4,
+          "end": 61
+        },
+        {
+          "word": "changes",
+          "start": 61,
+          "end": 61.4
+        },
+        {
+          "word": "are",
+          "start": 61.4,
+          "end": 61.6
+        },
+        {
+          "word": "like",
+          "start": 61.6,
+          "end": 61.8
+        },
+        {
+          "word": "ripping",
+          "start": 61.8,
+          "end": 62.1
+        },
+        {
+          "word": "off",
+          "start": 62.1,
+          "end": 62.3
+        },
+        {
+          "word": "a",
+          "start": 62.3,
+          "end": 62.4
+        },
+        {
+          "word": "band-aid.",
+          "start": 62.4,
+          "end": 62.9
+        },
+        {
+          "word": "Painful",
+          "start": 62.9,
+          "end": 63.5
+        },
+        {
+          "word": "but",
+          "start": 63.5,
+          "end": 63.6
+        },
+        {
+          "word": "necessary",
+          "start": 63.6,
+          "end": 64
+        },
+        {
+          "word": "for",
+          "start": 64,
+          "end": 64.1
+        },
+        {
+          "word": "healing.",
+          "start": 64.1,
+          "end": 64.4
+        },
+        {
+          "word": "The",
+          "start": 64.4,
+          "end": 64.5
+        },
+        {
+          "word": "matrix",
+          "start": 64.5,
+          "end": 64.8
+        },
+        {
+          "word": "runner",
+          "start": 64.8,
+          "end": 65.1
+        },
+        {
+          "word": "lets",
+          "start": 65.1,
+          "end": 65.3
+        },
+        {
+          "word": "us",
+          "start": 65.3,
+          "end": 65.4
+        },
+        {
+          "word": "test",
+          "start": 65.4,
+          "end": 65.4
+        },
+        {
+          "word": "the",
+          "start": 65.4,
+          "end": 65.5
+        },
+        {
+          "word": "wound",
+          "start": 65.5,
+          "end": 65.5
+        },
+        {
+          "word": "before",
+          "start": 65.5,
+          "end": 65.5
+        },
+        {
+          "word": "exposure.",
+          "start": 65.5,
+          "end": 65.5
+        }
+      ]
+    },
+    {
+      "start": 65.8,
+      "end": 70.7,
+      "text": "Real talk, auto.fun needs stability to thrive right now. Can't build a house on shifting sands, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Real",
+          "start": 65.8,
+          "end": 66.2
+        },
+        {
+          "word": "talk",
+          "start": 66.2,
+          "end": 66.4
+        },
+        {
+          "word": "auto.fun",
+          "start": 66.4,
+          "end": 67.2
+        },
+        {
+          "word": "needs",
+          "start": 67.2,
+          "end": 67.6
+        },
+        {
+          "word": "stability",
+          "start": 67.6,
+          "end": 68.1
+        },
+        {
+          "word": "to",
+          "start": 68.1,
+          "end": 68.2
+        },
+        {
+          "word": "thrive",
+          "start": 68.2,
+          "end": 68.5
+        },
+        {
+          "word": "right",
+          "start": 68.5,
+          "end": 68.7
+        },
+        {
+          "word": "now.",
+          "start": 68.7,
+          "end": 68.9
+        },
+        {
+          "word": "Can't",
+          "start": 68.9,
+          "end": 69.4
+        },
+        {
+          "word": "build",
+          "start": 69.4,
+          "end": 69.7
+        },
+        {
+          "word": "a",
+          "start": 69.7,
+          "end": 69.8
+        },
+        {
+          "word": "house",
+          "start": 69.8,
+          "end": 70.1
+        },
+        {
+          "word": "on",
+          "start": 70.1,
+          "end": 70.2
+        },
+        {
+          "word": "shifting",
+          "start": 70.2,
+          "end": 70.5
+        },
+        {
+          "word": "sands,",
+          "start": 70.5,
+          "end": 70.7
+        },
+        {
+          "word": "you",
+          "start": 70.7,
+          "end": 70.7
+        },
+        {
+          "word": "dig?",
+          "start": 70.7,
+          "end": 70.7
+        }
+      ]
+    },
+    {
+      "start": 71.2,
+      "end": 76.9,
+      "text": "The lesson of software is clear: technical debt compounds faster than financial debt. Ship v1.5, document migration paths, move forward.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 71.2,
+          "end": 71.4
+        },
+        {
+          "word": "lesson",
+          "start": 71.4,
+          "end": 71.7
+        },
+        {
+          "word": "of",
+          "start": 71.7,
+          "end": 71.8
+        },
+        {
+          "word": "software",
+          "start": 71.8,
+          "end": 72.1
+        },
+        {
+          "word": "is",
+          "start": 72.1,
+          "end": 72.2
+        },
+        {
+          "word": "clear.",
+          "start": 72.2,
+          "end": 72.5
+        },
+        {
+          "word": "Technical",
+          "start": 72.5,
+          "end": 73.1
+        },
+        {
+          "word": "debt",
+          "start": 73.1,
+          "end": 73.4
+        },
+        {
+          "word": "compounds",
+          "start": 73.4,
+          "end": 74
+        },
+        {
+          "word": "faster",
+          "start": 74,
+          "end": 74.4
+        },
+        {
+          "word": "than",
+          "start": 74.4,
+          "end": 74.6
+        },
+        {
+          "word": "financial",
+          "start": 74.6,
+          "end": 75.1
+        },
+        {
+          "word": "debt.",
+          "start": 75.1,
+          "end": 75.4
+        },
+        {
+          "word": "Ship",
+          "start": 75.4,
+          "end": 75.6
+        },
+        {
+          "word": "v1.5",
+          "start": 75.6,
+          "end": 76
+        },
+        {
+          "word": "plus",
+          "start": 76,
+          "end": 76.2
+        },
+        {
+          "word": "document",
+          "start": 76.2,
+          "end": 76.4
+        },
+        {
+          "word": "migration",
+          "start": 76.4,
+          "end": 76.6
+        },
+        {
+          "word": "paths",
+          "start": 76.6,
+          "end": 76.8
+        },
+        {
+          "word": "move",
+          "start": 76.8,
+          "end": 76.9
+        },
+        {
+          "word": "forward.",
+          "start": 76.9,
+          "end": 76.9
+        }
+      ]
+    },
+    {
+      "start": 77.5,
+      "end": 84.5,
+      "text": "SCENARIO MATRIX = MORE TESTS. MORE TESTS = STRONGER AGENTS. STRONGER AGENTS = MORE PROFIT. SIMPLE MATH.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Scenario",
+          "start": 77.5,
+          "end": 78.3
+        },
+        {
+          "word": "matrix",
+          "start": 78.3,
+          "end": 78.7
+        },
+        {
+          "word": "equals",
+          "start": 78.7,
+          "end": 79.3
+        },
+        {
+          "word": "sign",
+          "start": 79.3,
+          "end": 79.6
+        },
+        {
+          "word": "more",
+          "start": 79.6,
+          "end": 80
+        },
+        {
+          "word": "tests,",
+          "start": 80,
+          "end": 80.3
+        },
+        {
+          "word": "more",
+          "start": 80.3,
+          "end": 80.8
+        },
+        {
+          "word": "tests",
+          "start": 80.8,
+          "end": 81.3
+        },
+        {
+          "word": "equals",
+          "start": 81.3,
+          "end": 81.6
+        },
+        {
+          "word": "sign",
+          "start": 81.6,
+          "end": 81.7
+        },
+        {
+          "word": "stronger",
+          "start": 81.7,
+          "end": 82.2
+        },
+        {
+          "word": "agents,",
+          "start": 82.2,
+          "end": 82.5
+        },
+        {
+          "word": "stronger",
+          "start": 82.5,
+          "end": 83.1
+        },
+        {
+          "word": "agents",
+          "start": 83.1,
+          "end": 83.4
+        },
+        {
+          "word": "equals",
+          "start": 83.4,
+          "end": 83.7
+        },
+        {
+          "word": "sign",
+          "start": 83.7,
+          "end": 83.9
+        },
+        {
+          "word": "more",
+          "start": 83.9,
+          "end": 84.1
+        },
+        {
+          "word": "profit.",
+          "start": 84.1,
+          "end": 84.4
+        },
+        {
+          "word": "Simple",
+          "start": 84.4,
+          "end": 84.5
+        },
+        {
+          "word": "math.",
+          "start": 84.5,
+          "end": 84.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-21_JedAI-Council_The-Clank-Tank-Conundrum-2.json",
+    "session_log_source": "2025-08-21_JedAI-Council_The-Clank-Tank-Conundrum-2_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

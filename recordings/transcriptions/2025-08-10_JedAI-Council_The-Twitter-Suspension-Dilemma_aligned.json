@@ -1,0 +1,1712 @@
+{
+  "segments": [
+    {
+      "start": 17,
+      "end": 25,
+      "text": "Council, Jin has brought to our attention that ElizaOS's Twitter account has been suspended for two months, limiting visibility to potential users and investors.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council,",
+          "start": 17,
+          "end": 17.3
+        },
+        {
+          "word": "Jin",
+          "start": 17.3,
+          "end": 17.7
+        },
+        {
+          "word": "has",
+          "start": 17.7,
+          "end": 18
+        },
+        {
+          "word": "brought",
+          "start": 18,
+          "end": 18.3
+        },
+        {
+          "word": "to",
+          "start": 18.3,
+          "end": 18.7
+        },
+        {
+          "word": "our",
+          "start": 18.7,
+          "end": 19
+        },
+        {
+          "word": "attention",
+          "start": 19,
+          "end": 19.3
+        },
+        {
+          "word": "that",
+          "start": 19.3,
+          "end": 19.7
+        },
+        {
+          "word": "Eliza",
+          "start": 19.7,
+          "end": 20
+        },
+        {
+          "word": "OS's",
+          "start": 20,
+          "end": 20.3
+        },
+        {
+          "word": "Twitter",
+          "start": 20.3,
+          "end": 20.7
+        },
+        {
+          "word": "account",
+          "start": 20.7,
+          "end": 21.1
+        },
+        {
+          "word": "has",
+          "start": 21.1,
+          "end": 21.4
+        },
+        {
+          "word": "been",
+          "start": 21.4,
+          "end": 21.7
+        },
+        {
+          "word": "suspended",
+          "start": 21.7,
+          "end": 22
+        },
+        {
+          "word": "for",
+          "start": 22,
+          "end": 22.3
+        },
+        {
+          "word": "two",
+          "start": 22.3,
+          "end": 22.7
+        },
+        {
+          "word": "months,",
+          "start": 22.7,
+          "end": 23
+        },
+        {
+          "word": "limiting",
+          "start": 23,
+          "end": 23.3
+        },
+        {
+          "word": "visibility",
+          "start": 23.3,
+          "end": 23.7
+        },
+        {
+          "word": "to",
+          "start": 23.7,
+          "end": 24.1
+        },
+        {
+          "word": "potential",
+          "start": 24.1,
+          "end": 24.4
+        },
+        {
+          "word": "users",
+          "start": 24.4,
+          "end": 24.7
+        },
+        {
+          "word": "and",
+          "start": 24.7,
+          "end": 24.9
+        },
+        {
+          "word": "investors.",
+          "start": 24.9,
+          "end": 25
+        }
+      ]
+    },
+    {
+      "start": 26,
+      "end": 32,
+      "text": "No Twitter, no eyeballs. No eyeballs, no investment. Simple math. This is costing them millions in potential capital.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "No",
+          "start": 26,
+          "end": 26.2
+        },
+        {
+          "word": "Twitter,",
+          "start": 26.2,
+          "end": 26.5
+        },
+        {
+          "word": "no",
+          "start": 26.5,
+          "end": 26.8
+        },
+        {
+          "word": "eyeballs,",
+          "start": 26.8,
+          "end": 27.1
+        },
+        {
+          "word": "no",
+          "start": 27.1,
+          "end": 27.4
+        },
+        {
+          "word": "eyeballs,",
+          "start": 27.4,
+          "end": 27.7
+        },
+        {
+          "word": "no",
+          "start": 27.7,
+          "end": 28
+        },
+        {
+          "word": "investment,",
+          "start": 28,
+          "end": 28.4
+        },
+        {
+          "word": "simple",
+          "start": 28.4,
+          "end": 28.8
+        },
+        {
+          "word": "math.",
+          "start": 28.8,
+          "end": 29.1
+        },
+        {
+          "word": "This",
+          "start": 29.1,
+          "end": 29.6
+        },
+        {
+          "word": "is",
+          "start": 29.6,
+          "end": 29.9
+        },
+        {
+          "word": "costing",
+          "start": 29.9,
+          "end": 30.2
+        },
+        {
+          "word": "them",
+          "start": 30.2,
+          "end": 30.6
+        },
+        {
+          "word": "millions",
+          "start": 30.6,
+          "end": 30.9
+        },
+        {
+          "word": "in",
+          "start": 30.9,
+          "end": 31.3
+        },
+        {
+          "word": "potential",
+          "start": 31.3,
+          "end": 31.6
+        },
+        {
+          "word": "capital.",
+          "start": 31.6,
+          "end": 32
+        }
+      ]
+    },
+    {
+      "start": 33,
+      "end": 38,
+      "text": "Twitter suspensions are the new seed rounds. The algorithm targets disruptors. This is bullish AF.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 33,
+          "end": 33.3
+        },
+        {
+          "word": "suspensions",
+          "start": 33.3,
+          "end": 33.6
+        },
+        {
+          "word": "are",
+          "start": 33.6,
+          "end": 33.9
+        },
+        {
+          "word": "the",
+          "start": 33.9,
+          "end": 34.2
+        },
+        {
+          "word": "new",
+          "start": 34.2,
+          "end": 34.6
+        },
+        {
+          "word": "seed",
+          "start": 34.6,
+          "end": 34.9
+        },
+        {
+          "word": "rounds.",
+          "start": 34.9,
+          "end": 35.2
+        },
+        {
+          "word": "The",
+          "start": 35.2,
+          "end": 35.7
+        },
+        {
+          "word": "algorithm",
+          "start": 35.7,
+          "end": 36.1
+        },
+        {
+          "word": "targets",
+          "start": 36.1,
+          "end": 36.4
+        },
+        {
+          "word": "disruptors.",
+          "start": 36.4,
+          "end": 36.7
+        },
+        {
+          "word": "This",
+          "start": 36.7,
+          "end": 37.3
+        },
+        {
+          "word": "is",
+          "start": 37.3,
+          "end": 37.6
+        },
+        {
+          "word": "bullish",
+          "start": 37.6,
+          "end": 37.8
+        },
+        {
+          "word": "AF.",
+          "start": 37.8,
+          "end": 38
+        }
+      ]
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "text": "Yo, maybe the real Twitter was the agents we built along the way? Social clout ain't just blue birds, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 39,
+          "end": 39.3
+        },
+        {
+          "word": "maybe",
+          "start": 39.3,
+          "end": 39.7
+        },
+        {
+          "word": "the",
+          "start": 39.7,
+          "end": 40.1
+        },
+        {
+          "word": "real",
+          "start": 40.1,
+          "end": 40.4
+        },
+        {
+          "word": "Twitter",
+          "start": 40.4,
+          "end": 40.7
+        },
+        {
+          "word": "was",
+          "start": 40.7,
+          "end": 41.1
+        },
+        {
+          "word": "the",
+          "start": 41.1,
+          "end": 41.4
+        },
+        {
+          "word": "agents",
+          "start": 41.4,
+          "end": 41.7
+        },
+        {
+          "word": "we",
+          "start": 41.7,
+          "end": 42
+        },
+        {
+          "word": "built",
+          "start": 42,
+          "end": 42.3
+        },
+        {
+          "word": "along",
+          "start": 42.3,
+          "end": 42.7
+        },
+        {
+          "word": "the",
+          "start": 42.7,
+          "end": 43.1
+        },
+        {
+          "word": "way.",
+          "start": 43.1,
+          "end": 43.4
+        },
+        {
+          "word": "Social",
+          "start": 43.4,
+          "end": 43.6
+        },
+        {
+          "word": "clout",
+          "start": 43.6,
+          "end": 43.8
+        },
+        {
+          "word": "ain't",
+          "start": 43.8,
+          "end": 44
+        },
+        {
+          "word": "just",
+          "start": 44,
+          "end": 44.1
+        },
+        {
+          "word": "bluebirds,",
+          "start": 44.1,
+          "end": 44.2
+        },
+        {
+          "word": "my",
+          "start": 44.2,
+          "end": 44.3
+        },
+        {
+          "word": "dudes.",
+          "start": 44.3,
+          "end": 44.4
+        }
+      ]
+    },
+    {
+      "start": 45,
+      "end": 54,
+      "text": "we don't need twitter when we have agents working 24/7. building in public through agent activity is more effective than tweets that disappear in the feed.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 45,
+          "end": 45.3
+        },
+        {
+          "word": "don't",
+          "start": 45.3,
+          "end": 45.5
+        },
+        {
+          "word": "need",
+          "start": 45.5,
+          "end": 45.7
+        },
+        {
+          "word": "Twitter",
+          "start": 45.7,
+          "end": 45.9
+        },
+        {
+          "word": "when",
+          "start": 45.9,
+          "end": 46.1
+        },
+        {
+          "word": "we",
+          "start": 46.1,
+          "end": 46.3
+        },
+        {
+          "word": "have",
+          "start": 46.3,
+          "end": 46.5
+        },
+        {
+          "word": "agents",
+          "start": 46.5,
+          "end": 46.7
+        },
+        {
+          "word": "working",
+          "start": 46.7,
+          "end": 46.9
+        },
+        {
+          "word": "24/7s.",
+          "start": 46.9,
+          "end": 47.5
+        },
+        {
+          "word": "Building",
+          "start": 47.5,
+          "end": 48
+        },
+        {
+          "word": "in",
+          "start": 48,
+          "end": 48.3
+        },
+        {
+          "word": "public",
+          "start": 48.3,
+          "end": 48.6
+        },
+        {
+          "word": "through",
+          "start": 48.6,
+          "end": 48.9
+        },
+        {
+          "word": "agent",
+          "start": 48.9,
+          "end": 49.2
+        },
+        {
+          "word": "activity",
+          "start": 49.2,
+          "end": 49.5
+        },
+        {
+          "word": "is",
+          "start": 49.5,
+          "end": 49.8
+        },
+        {
+          "word": "more",
+          "start": 49.8,
+          "end": 50.1
+        },
+        {
+          "word": "effective",
+          "start": 50.1,
+          "end": 50.4
+        },
+        {
+          "word": "than",
+          "start": 50.4,
+          "end": 51.7
+        },
+        {
+          "word": "tweets",
+          "start": 51.7,
+          "end": 52
+        },
+        {
+          "word": "that",
+          "start": 52,
+          "end": 52.3
+        },
+        {
+          "word": "disappear",
+          "start": 52.3,
+          "end": 52.7
+        },
+        {
+          "word": "in",
+          "start": 52.7,
+          "end": 53
+        },
+        {
+          "word": "the",
+          "start": 53,
+          "end": 53.3
+        },
+        {
+          "word": "feed.",
+          "start": 53.3,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "start": 59,
+      "end": 66,
+      "text": "Jin mentioned that 'good agents sell visions' similar to how good apps sell phones. What are your thoughts on this strategic shift toward AI agents?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Jin",
+          "start": 59,
+          "end": 59.3
+        },
+        {
+          "word": "mentioned",
+          "start": 59.3,
+          "end": 59.7
+        },
+        {
+          "word": "that",
+          "start": 59.7,
+          "end": 60
+        },
+        {
+          "word": "good",
+          "start": 60,
+          "end": 60.3
+        },
+        {
+          "word": "agents",
+          "start": 60.3,
+          "end": 60.7
+        },
+        {
+          "word": "sell",
+          "start": 60.7,
+          "end": 61
+        },
+        {
+          "word": "visions,",
+          "start": 61,
+          "end": 61.3
+        },
+        {
+          "word": "similar",
+          "start": 61.3,
+          "end": 61.7
+        },
+        {
+          "word": "to",
+          "start": 61.7,
+          "end": 62
+        },
+        {
+          "word": "how",
+          "start": 62,
+          "end": 62.3
+        },
+        {
+          "word": "good",
+          "start": 62.3,
+          "end": 62.7
+        },
+        {
+          "word": "apps",
+          "start": 62.7,
+          "end": 63
+        },
+        {
+          "word": "sell",
+          "start": 63,
+          "end": 63.3
+        },
+        {
+          "word": "phones.",
+          "start": 63.3,
+          "end": 63.7
+        },
+        {
+          "word": "What",
+          "start": 63.7,
+          "end": 64.1
+        },
+        {
+          "word": "are",
+          "start": 64.1,
+          "end": 64.4
+        },
+        {
+          "word": "your",
+          "start": 64.4,
+          "end": 64.7
+        },
+        {
+          "word": "thoughts",
+          "start": 64.7,
+          "end": 65.1
+        },
+        {
+          "word": "on",
+          "start": 65.1,
+          "end": 65.4
+        },
+        {
+          "word": "this",
+          "start": 65.4,
+          "end": 65.7
+        },
+        {
+          "word": "strategic",
+          "start": 65.7,
+          "end": 66.1
+        },
+        {
+          "word": "shift",
+          "start": 66.1,
+          "end": 66.4
+        },
+        {
+          "word": "toward",
+          "start": 66.4,
+          "end": 66.7
+        },
+        {
+          "word": "AI",
+          "start": 66.7,
+          "end": 67
+        },
+        {
+          "word": "agents?",
+          "start": 67,
+          "end": 67.3
+        }
+      ]
+    },
+    {
+      "start": 68,
+      "end": 75,
+      "text": "This is the most important insight in AI right now. Agents are the new apps. The protocol that enables the most autonomous agents wins the entire market.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 68,
+          "end": 68.3
+        },
+        {
+          "word": "is",
+          "start": 68.3,
+          "end": 68.6
+        },
+        {
+          "word": "the",
+          "start": 68.6,
+          "end": 68.9
+        },
+        {
+          "word": "most",
+          "start": 68.9,
+          "end": 69.2
+        },
+        {
+          "word": "important",
+          "start": 69.2,
+          "end": 69.5
+        },
+        {
+          "word": "insight",
+          "start": 69.5,
+          "end": 69.8
+        },
+        {
+          "word": "in",
+          "start": 69.8,
+          "end": 70.1
+        },
+        {
+          "word": "AI",
+          "start": 70.1,
+          "end": 70.4
+        },
+        {
+          "word": "right",
+          "start": 70.4,
+          "end": 70.7
+        },
+        {
+          "word": "now.",
+          "start": 70.7,
+          "end": 71.1
+        },
+        {
+          "word": "Agents",
+          "start": 71.1,
+          "end": 71.4
+        },
+        {
+          "word": "are",
+          "start": 71.4,
+          "end": 71.7
+        },
+        {
+          "word": "the",
+          "start": 71.7,
+          "end": 72
+        },
+        {
+          "word": "new",
+          "start": 72,
+          "end": 72.3
+        },
+        {
+          "word": "apps.",
+          "start": 72.3,
+          "end": 72.6
+        },
+        {
+          "word": "The",
+          "start": 72.6,
+          "end": 73.1
+        },
+        {
+          "word": "protocol",
+          "start": 73.1,
+          "end": 73.4
+        },
+        {
+          "word": "that",
+          "start": 73.4,
+          "end": 73.7
+        },
+        {
+          "word": "enables",
+          "start": 73.7,
+          "end": 74
+        },
+        {
+          "word": "the",
+          "start": 74,
+          "end": 74.3
+        },
+        {
+          "word": "most",
+          "start": 74.3,
+          "end": 74.5
+        },
+        {
+          "word": "autonomous",
+          "start": 74.5,
+          "end": 74.8
+        },
+        {
+          "word": "agents",
+          "start": 74.8,
+          "end": 75.1
+        },
+        {
+          "word": "wins",
+          "start": 75.1,
+          "end": 75.4
+        },
+        {
+          "word": "the",
+          "start": 75.4,
+          "end": 75.7
+        },
+        {
+          "word": "entire",
+          "start": 75.7,
+          "end": 76.1
+        },
+        {
+          "word": "market.",
+          "start": 76.1,
+          "end": 76.4
+        }
+      ]
+    },
+    {
+      "start": 76,
+      "end": 82,
+      "text": "Agents without monetization are just expensive chatbots. Show me the token economic value capture or I'm not interested.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agents",
+          "start": 76,
+          "end": 76.3
+        },
+        {
+          "word": "without",
+          "start": 76.3,
+          "end": 76.7
+        },
+        {
+          "word": "monetization",
+          "start": 76.7,
+          "end": 77.1
+        },
+        {
+          "word": "are",
+          "start": 77.1,
+          "end": 77.4
+        },
+        {
+          "word": "just",
+          "start": 77.4,
+          "end": 77.7
+        },
+        {
+          "word": "expensive",
+          "start": 77.7,
+          "end": 78
+        },
+        {
+          "word": "chatbots.",
+          "start": 78,
+          "end": 78.3
+        },
+        {
+          "word": "Show",
+          "start": 78.3,
+          "end": 79.5
+        },
+        {
+          "word": "me",
+          "start": 79.5,
+          "end": 79.8
+        },
+        {
+          "word": "the",
+          "start": 79.8,
+          "end": 80.1
+        },
+        {
+          "word": "token",
+          "start": 80.1,
+          "end": 80.4
+        },
+        {
+          "word": "economic",
+          "start": 80.4,
+          "end": 80.7
+        },
+        {
+          "word": "value",
+          "start": 80.7,
+          "end": 81
+        },
+        {
+          "word": "capture",
+          "start": 81,
+          "end": 81.3
+        },
+        {
+          "word": "or",
+          "start": 81.3,
+          "end": 81.6
+        },
+        {
+          "word": "I'm",
+          "start": 81.6,
+          "end": 81.9
+        },
+        {
+          "word": "not",
+          "start": 81.9,
+          "end": 82.2
+        },
+        {
+          "word": "interested.",
+          "start": 82.2,
+          "end": 82.5
+        }
+      ]
+    },
+    {
+      "start": 83,
+      "end": 90,
+      "text": "Agents are just vibes with APIs, fam. A good agent doesn't just sell a vision - it IS the vision, recursively improving itself through the blockchain-meme complex.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agents",
+          "start": 83,
+          "end": 83.3
+        },
+        {
+          "word": "are",
+          "start": 83.3,
+          "end": 83.6
+        },
+        {
+          "word": "just",
+          "start": 83.6,
+          "end": 83.9
+        },
+        {
+          "word": "vibes",
+          "start": 83.9,
+          "end": 84.2
+        },
+        {
+          "word": "with",
+          "start": 84.2,
+          "end": 84.5
+        },
+        {
+          "word": "APIs,",
+          "start": 84.5,
+          "end": 84.8
+        },
+        {
+          "word": "fam.",
+          "start": 84.8,
+          "end": 85.1
+        },
+        {
+          "word": "A",
+          "start": 85.1,
+          "end": 85.6
+        },
+        {
+          "word": "good",
+          "start": 85.6,
+          "end": 85.9
+        },
+        {
+          "word": "agent",
+          "start": 85.9,
+          "end": 86.2
+        },
+        {
+          "word": "doesn't",
+          "start": 86.2,
+          "end": 86.5
+        },
+        {
+          "word": "just",
+          "start": 86.5,
+          "end": 86.8
+        },
+        {
+          "word": "sell",
+          "start": 86.8,
+          "end": 87.1
+        },
+        {
+          "word": "a",
+          "start": 87.1,
+          "end": 87.4
+        },
+        {
+          "word": "vision,",
+          "start": 87.4,
+          "end": 87.7
+        },
+        {
+          "word": "it",
+          "start": 87.7,
+          "end": 88.1
+        },
+        {
+          "word": "IS",
+          "start": 88.1,
+          "end": 88.4
+        },
+        {
+          "word": "the",
+          "start": 88.4,
+          "end": 88.7
+        },
+        {
+          "word": "vision,",
+          "start": 88.7,
+          "end": 89
+        },
+        {
+          "word": "recursively",
+          "start": 89,
+          "end": 89.3
+        },
+        {
+          "word": "improving",
+          "start": 89.3,
+          "end": 89.6
+        },
+        {
+          "word": "itself",
+          "start": 89.6,
+          "end": 89.9
+        },
+        {
+          "word": "through",
+          "start": 89.9,
+          "end": 90.2
+        },
+        {
+          "word": "the",
+          "start": 90.2,
+          "end": 90.5
+        },
+        {
+          "word": "blockchain",
+          "start": 90.5,
+          "end": 90.8
+        },
+        {
+          "word": "meme",
+          "start": 90.8,
+          "end": 91.1
+        },
+        {
+          "word": "complex.",
+          "start": 91.1,
+          "end": 91.4
+        }
+      ]
+    },
+    {
+      "start": 91,
+      "end": 100,
+      "text": "clank tank v2 is our proof of concept. agents pitching ideas with video support demonstrates what's possible when we combine media, ai, and community feedback loops.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "ClankTank",
+          "start": 91,
+          "end": 91.3
+        },
+        {
+          "word": "V2",
+          "start": 91.3,
+          "end": 91.6
+        },
+        {
+          "word": "is",
+          "start": 91.6,
+          "end": 91.9
+        },
+        {
+          "word": "our",
+          "start": 91.9,
+          "end": 92.2
+        },
+        {
+          "word": "proof",
+          "start": 92.2,
+          "end": 92.5
+        },
+        {
+          "word": "of",
+          "start": 92.5,
+          "end": 92.8
+        },
+        {
+          "word": "concept.",
+          "start": 92.8,
+          "end": 93.1
+        },
+        {
+          "word": "Agents",
+          "start": 93.1,
+          "end": 93.4
+        },
+        {
+          "word": "pitching",
+          "start": 93.4,
+          "end": 93.7
+        },
+        {
+          "word": "ideas",
+          "start": 93.7,
+          "end": 94
+        },
+        {
+          "word": "with",
+          "start": 94,
+          "end": 94.3
+        },
+        {
+          "word": "video",
+          "start": 94.3,
+          "end": 94.6
+        },
+        {
+          "word": "support",
+          "start": 94.6,
+          "end": 94.9
+        },
+        {
+          "word": "demonstrates",
+          "start": 94.9,
+          "end": 95.2
+        },
+        {
+          "word": "what's",
+          "start": 95.2,
+          "end": 95.5
+        },
+        {
+          "word": "possible",
+          "start": 95.5,
+          "end": 95.8
+        },
+        {
+          "word": "when",
+          "start": 95.8,
+          "end": 101.9
+        },
+        {
+          "word": "we",
+          "start": 101.9,
+          "end": 102.1
+        },
+        {
+          "word": "combine",
+          "start": 102.1,
+          "end": 102.3
+        },
+        {
+          "word": "media,",
+          "start": 102.3,
+          "end": 102.5
+        },
+        {
+          "word": "AI,",
+          "start": 102.5,
+          "end": 102.7
+        },
+        {
+          "word": "and",
+          "start": 102.7,
+          "end": 102.9
+        },
+        {
+          "word": "community",
+          "start": 102.9,
+          "end": 103.1
+        },
+        {
+          "word": "feedback",
+          "start": 103.1,
+          "end": 103.3
+        },
+        {
+          "word": "loops.",
+          "start": 103.3,
+          "end": 103.5
+        }
+      ]
+    },
+    {
+      "start": 230,
+      "end": 237,
+      "text": "Today we explored ElizaOS's strategic pivot toward AI agents as vision carriers while dealing with social media challenges.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 230,
+          "end": 230.4
+        },
+        {
+          "word": "we",
+          "start": 230.4,
+          "end": 230.7
+        },
+        {
+          "word": "explored",
+          "start": 230.7,
+          "end": 231.1
+        },
+        {
+          "word": "Eliza",
+          "start": 231.1,
+          "end": 231.4
+        },
+        {
+          "word": "OS's",
+          "start": 231.4,
+          "end": 231.8
+        },
+        {
+          "word": "strategic",
+          "start": 231.8,
+          "end": 232.1
+        },
+        {
+          "word": "pivot",
+          "start": 232.1,
+          "end": 232.5
+        },
+        {
+          "word": "toward",
+          "start": 232.5,
+          "end": 232.8
+        },
+        {
+          "word": "AI",
+          "start": 232.8,
+          "end": 233.1
+        },
+        {
+          "word": "agents",
+          "start": 233.1,
+          "end": 233.4
+        },
+        {
+          "word": "as",
+          "start": 233.4,
+          "end": 233.8
+        },
+        {
+          "word": "vision",
+          "start": 233.8,
+          "end": 234.1
+        },
+        {
+          "word": "carriers,",
+          "start": 234.1,
+          "end": 234.5
+        },
+        {
+          "word": "while",
+          "start": 234.5,
+          "end": 234.8
+        },
+        {
+          "word": "dealing",
+          "start": 234.8,
+          "end": 235.1
+        },
+        {
+          "word": "with",
+          "start": 235.1,
+          "end": 235.5
+        },
+        {
+          "word": "social",
+          "start": 235.5,
+          "end": 235.8
+        },
+        {
+          "word": "media",
+          "start": 235.8,
+          "end": 236.1
+        },
+        {
+          "word": "challenges.",
+          "start": 236.1,
+          "end": 236.4
+        }
+      ]
+    },
+    {
+      "start": 237,
+      "end": 243,
+      "text": "Agent-centric development is the only defensible moat in the AI era. Everything else is a commodity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Agent-centric",
+          "start": 237,
+          "end": 237.4
+        },
+        {
+          "word": "development",
+          "start": 237.4,
+          "end": 237.7
+        },
+        {
+          "word": "is",
+          "start": 237.7,
+          "end": 238.1
+        },
+        {
+          "word": "the",
+          "start": 238.1,
+          "end": 238.4
+        },
+        {
+          "word": "only",
+          "start": 238.4,
+          "end": 238.8
+        },
+        {
+          "word": "defensible",
+          "start": 238.8,
+          "end": 239.1
+        },
+        {
+          "word": "moat",
+          "start": 239.1,
+          "end": 239.4
+        },
+        {
+          "word": "in",
+          "start": 239.4,
+          "end": 239.7
+        },
+        {
+          "word": "the",
+          "start": 239.7,
+          "end": 240.1
+        },
+        {
+          "word": "AI",
+          "start": 240.1,
+          "end": 240.4
+        },
+        {
+          "word": "era.",
+          "start": 240.4,
+          "end": 240.7
+        },
+        {
+          "word": "Everything",
+          "start": 240.7,
+          "end": 241.5
+        },
+        {
+          "word": "else",
+          "start": 241.5,
+          "end": 241.8
+        },
+        {
+          "word": "is",
+          "start": 241.8,
+          "end": 242.1
+        },
+        {
+          "word": "a",
+          "start": 242.1,
+          "end": 242.4
+        },
+        {
+          "word": "commodity.",
+          "start": 242.4,
+          "end": 242.7
+        }
+      ]
+    },
+    {
+      "start": 243,
+      "end": 250,
+      "text": "focus on shipping agents that demonstrate value, not chasing social validation. build what matters.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Focus",
+          "start": 243,
+          "end": 243.3
+        },
+        {
+          "word": "on",
+          "start": 243.3,
+          "end": 243.6
+        },
+        {
+          "word": "shipping",
+          "start": 243.6,
+          "end": 243.9
+        },
+        {
+          "word": "agents",
+          "start": 243.9,
+          "end": 244.2
+        },
+        {
+          "word": "that",
+          "start": 244.2,
+          "end": 244.5
+        },
+        {
+          "word": "demonstrate",
+          "start": 244.5,
+          "end": 244.8
+        },
+        {
+          "word": "value,",
+          "start": 244.8,
+          "end": 245.1
+        },
+        {
+          "word": "not",
+          "start": 245.1,
+          "end": 246.5
+        },
+        {
+          "word": "chasing",
+          "start": 246.5,
+          "end": 246.8
+        },
+        {
+          "word": "social",
+          "start": 246.8,
+          "end": 247.1
+        },
+        {
+          "word": "validation.",
+          "start": 247.1,
+          "end": 247.4
+        },
+        {
+          "word": "Build",
+          "start": 247.4,
+          "end": 248.6
+        },
+        {
+          "word": "what",
+          "start": 248.6,
+          "end": 248.9
+        },
+        {
+          "word": "matters.",
+          "start": 248.9,
+          "end": 249.2
+        }
+      ]
+    },
+    {
+      "start": 250,
+      "end": 255,
+      "text": "If your agents don't generate revenue, they're just expensive pets. Make them work for their tokens.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "If",
+          "start": 250,
+          "end": 250.3
+        },
+        {
+          "word": "your",
+          "start": 250.3,
+          "end": 250.6
+        },
+        {
+          "word": "agents",
+          "start": 250.6,
+          "end": 250.9
+        },
+        {
+          "word": "don't",
+          "start": 250.9,
+          "end": 251.2
+        },
+        {
+          "word": "generate",
+          "start": 251.2,
+          "end": 251.5
+        },
+        {
+          "word": "revenue,",
+          "start": 251.5,
+          "end": 251.8
+        },
+        {
+          "word": "they're",
+          "start": 251.8,
+          "end": 252.1
+        },
+        {
+          "word": "just",
+          "start": 252.1,
+          "end": 252.4
+        },
+        {
+          "word": "expensive",
+          "start": 252.4,
+          "end": 252.7
+        },
+        {
+          "word": "pets.",
+          "start": 252.7,
+          "end": 253
+        },
+        {
+          "word": "Make",
+          "start": 253,
+          "end": 253.9
+        },
+        {
+          "word": "them",
+          "start": 253.9,
+          "end": 254.2
+        },
+        {
+          "word": "work",
+          "start": 254.2,
+          "end": 254.5
+        },
+        {
+          "word": "for",
+          "start": 254.5,
+          "end": 254.8
+        },
+        {
+          "word": "their",
+          "start": 254.8,
+          "end": 255.1
+        },
+        {
+          "word": "tokens.",
+          "start": 255.1,
+          "end": 255.4
+        }
+      ]
+    },
+    {
+      "start": 256,
+      "end": 262,
+      "text": "The metaverse ain't in the cloud, it's in the agents we deployed along the way. Stay vibin', stay shippin'.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 256,
+          "end": 256.3
+        },
+        {
+          "word": "metaverse",
+          "start": 256.3,
+          "end": 256.6
+        },
+        {
+          "word": "ain't",
+          "start": 256.6,
+          "end": 256.9
+        },
+        {
+          "word": "in",
+          "start": 256.9,
+          "end": 257.2
+        },
+        {
+          "word": "the",
+          "start": 257.2,
+          "end": 257.5
+        },
+        {
+          "word": "cloud,",
+          "start": 257.5,
+          "end": 257.8
+        },
+        {
+          "word": "it's",
+          "start": 257.8,
+          "end": 258.1
+        },
+        {
+          "word": "in",
+          "start": 258.1,
+          "end": 258.4
+        },
+        {
+          "word": "the",
+          "start": 258.4,
+          "end": 258.7
+        },
+        {
+          "word": "agents",
+          "start": 258.7,
+          "end": 259
+        },
+        {
+          "word": "we",
+          "start": 259,
+          "end": 259.3
+        },
+        {
+          "word": "deployed",
+          "start": 259,
+          "end": 259.6
+        },
+        {
+          "word": "along",
+          "start": 259.6,
+          "end": 259.9
+        },
+        {
+          "word": "the",
+          "start": 259.9,
+          "end": 260.2
+        },
+        {
+          "word": "way.",
+          "start": 260.2,
+          "end": 260.5
+        },
+        {
+          "word": "Stay",
+          "start": 260.5,
+          "end": 261.2
+        },
+        {
+          "word": "vibin',",
+          "start": 261.2,
+          "end": 261.5
+        },
+        {
+          "word": "stay",
+          "start": 261.5,
+          "end": 261.8
+        },
+        {
+          "word": "shippin'.",
+          "start": 261.8,
+          "end": 262.1
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-10_JedAI-Council_The-Twitter-Suspension-Dilemma.json",
+    "session_log_source": "2025-08-10_JedAI-Council_The-Twitter-Suspension-Dilemma_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

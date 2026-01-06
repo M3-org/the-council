@@ -1,0 +1,1597 @@
+{
+  "segments": [
+    {
+      "start": 1.74,
+      "end": 4.54,
+      "text": "The community is buzzing about our lawsuit with X Corp. Boris from GitHub also points out our CLI is overly complex while our web UI remains completely undocumented.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 1.74,
+          "end": 1.84
+        },
+        {
+          "word": "community",
+          "start": 1.84,
+          "end": 2.22
+        },
+        {
+          "word": "is",
+          "start": 2.22,
+          "end": 2.3
+        },
+        {
+          "word": "buzzing",
+          "start": 2.3,
+          "end": 2.58
+        },
+        {
+          "word": "about",
+          "start": 2.58,
+          "end": 2.76
+        },
+        {
+          "word": "our",
+          "start": 2.76,
+          "end": 2.92
+        },
+        {
+          "word": "lawsuit",
+          "start": 2.92,
+          "end": 3.4
+        },
+        {
+          "word": "with",
+          "start": 3.4,
+          "end": 3.66
+        },
+        {
+          "word": "XCorp.",
+          "start": 3.66,
+          "end": 4.54
+        }
+      ]
+    },
+    {
+      "start": 5.06,
+      "end": 12.02,
+      "text": "The community is buzzing about our lawsuit with X Corp. Boris from GitHub also points out our CLI is overly complex while our web UI remains completely undocumented.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Boris",
+          "start": 5.06,
+          "end": 5.48
+        },
+        {
+          "word": "from",
+          "start": 5.48,
+          "end": 5.76
+        },
+        {
+          "word": "GitHub",
+          "start": 5.76,
+          "end": 6.32
+        },
+        {
+          "word": "also",
+          "start": 6.32,
+          "end": 6.78
+        },
+        {
+          "word": "points",
+          "start": 6.78,
+          "end": 7.18
+        },
+        {
+          "word": "out",
+          "start": 7.18,
+          "end": 7.36
+        },
+        {
+          "word": "our",
+          "start": 7.36,
+          "end": 7.54
+        },
+        {
+          "word": "CLI",
+          "start": 7.54,
+          "end": 8.04
+        },
+        {
+          "word": "is",
+          "start": 8.04,
+          "end": 8.16
+        },
+        {
+          "word": "overly",
+          "start": 8.16,
+          "end": 8.64
+        },
+        {
+          "word": "complex,",
+          "start": 8.64,
+          "end": 9.22
+        },
+        {
+          "word": "while",
+          "start": 9.5,
+          "end": 9.72
+        },
+        {
+          "word": "our",
+          "start": 9.72,
+          "end": 9.9
+        },
+        {
+          "word": "web",
+          "start": 9.9,
+          "end": 10.14
+        },
+        {
+          "word": "UI",
+          "start": 10.14,
+          "end": 10.5
+        },
+        {
+          "word": "remains",
+          "start": 10.5,
+          "end": 10.96
+        },
+        {
+          "word": "completely",
+          "start": 10.96,
+          "end": 11.42
+        },
+        {
+          "word": "undocumented.",
+          "start": 11.42,
+          "end": 12.02
+        }
+      ]
+    },
+    {
+      "start": 12.3,
+      "end": 15.34,
+      "text": "Documentation is the vegetables of product development. Nobody wants to do it, everyone knows it's good for you, and without it, your project dies of malnutrition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Documentation",
+          "start": 12.3,
+          "end": 12.82
+        },
+        {
+          "word": "is",
+          "start": 12.82,
+          "end": 12.98
+        },
+        {
+          "word": "the",
+          "start": 12.98,
+          "end": 13.08
+        },
+        {
+          "word": "vegetables",
+          "start": 13.08,
+          "end": 13.62
+        },
+        {
+          "word": "of",
+          "start": 13.62,
+          "end": 13.78
+        },
+        {
+          "word": "product",
+          "start": 13.78,
+          "end": 14.12
+        },
+        {
+          "word": "development.",
+          "start": 14.12,
+          "end": 15.34
+        }
+      ]
+    },
+    {
+      "start": 15.54,
+      "end": 20.36,
+      "text": "Documentation is the vegetables of product development. Nobody wants to do it, everyone knows it's good for you, and without it, your project dies of malnutrition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Nobody",
+          "start": 15.54,
+          "end": 15.82
+        },
+        {
+          "word": "wants",
+          "start": 15.82,
+          "end": 16.08
+        },
+        {
+          "word": "to",
+          "start": 16.08,
+          "end": 16.18
+        },
+        {
+          "word": "do",
+          "start": 16.18,
+          "end": 16.32
+        },
+        {
+          "word": "it,",
+          "start": 16.32,
+          "end": 16.48
+        },
+        {
+          "word": "everyone",
+          "start": 16.54,
+          "end": 16.92
+        },
+        {
+          "word": "knows",
+          "start": 16.92,
+          "end": 17.18
+        },
+        {
+          "word": "it's",
+          "start": 17.18,
+          "end": 17.3
+        },
+        {
+          "word": "good",
+          "start": 17.3,
+          "end": 17.52
+        },
+        {
+          "word": "for",
+          "start": 17.52,
+          "end": 17.68
+        },
+        {
+          "word": "you",
+          "start": 17.68,
+          "end": 17.92
+        },
+        {
+          "word": "and",
+          "start": 17.94,
+          "end": 18.24
+        },
+        {
+          "word": "without",
+          "start": 18.24,
+          "end": 18.66
+        },
+        {
+          "word": "it,",
+          "start": 18.66,
+          "end": 18.8
+        },
+        {
+          "word": "your",
+          "start": 18.82,
+          "end": 18.98
+        },
+        {
+          "word": "project",
+          "start": 18.98,
+          "end": 19.34
+        },
+        {
+          "word": "dies",
+          "start": 19.34,
+          "end": 19.64
+        },
+        {
+          "word": "of",
+          "start": 19.64,
+          "end": 19.78
+        },
+        {
+          "word": "malnutrition.",
+          "start": 19.78,
+          "end": 20.36
+        }
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 24.3,
+      "text": "Yo, we can't be dropping these sick features if nobody can find the start button, my dudes! It's like hiding the aux cord at a party!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 21.0,
+          "end": 21.32
+        },
+        {
+          "word": "we",
+          "start": 21.32,
+          "end": 21.46
+        },
+        {
+          "word": "can't",
+          "start": 21.46,
+          "end": 21.68
+        },
+        {
+          "word": "be",
+          "start": 21.68,
+          "end": 21.84
+        },
+        {
+          "word": "dropping",
+          "start": 21.84,
+          "end": 22.24
+        },
+        {
+          "word": "these",
+          "start": 22.24,
+          "end": 22.42
+        },
+        {
+          "word": "sick",
+          "start": 22.42,
+          "end": 22.68
+        },
+        {
+          "word": "features",
+          "start": 22.68,
+          "end": 23.08
+        },
+        {
+          "word": "if",
+          "start": 23.08,
+          "end": 23.22
+        },
+        {
+          "word": "nobody",
+          "start": 23.22,
+          "end": 23.46
+        },
+        {
+          "word": "can",
+          "start": 23.46,
+          "end": 23.6
+        },
+        {
+          "word": "find",
+          "start": 23.6,
+          "end": 23.76
+        },
+        {
+          "word": "the",
+          "start": 23.76,
+          "end": 23.84
+        },
+        {
+          "word": "star",
+          "start": 23.84,
+          "end": 24.08
+        },
+        {
+          "word": "button",
+          "start": 24.08,
+          "end": 24.3
+        }
+      ]
+    },
+    {
+      "start": 24.3,
+      "end": 25.04,
+      "text": "Yo, we can't be dropping these sick features if nobody can find the start button, my dudes! It's like hiding the aux cord at a party!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "my",
+          "start": 24.3,
+          "end": 24.44
+        },
+        {
+          "word": "dudes.",
+          "start": 24.44,
+          "end": 25.04
+        }
+      ]
+    },
+    {
+      "start": 25.12,
+      "end": 27.6,
+      "text": "Yo, we can't be dropping these sick features if nobody can find the start button, my dudes! It's like hiding the aux cord at a party!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 25.12,
+          "end": 25.44
+        },
+        {
+          "word": "like",
+          "start": 25.44,
+          "end": 25.7
+        },
+        {
+          "word": "hiding",
+          "start": 25.7,
+          "end": 26.2
+        },
+        {
+          "word": "the",
+          "start": 26.2,
+          "end": 26.4
+        },
+        {
+          "word": "aux",
+          "start": 26.4,
+          "end": 26.74
+        },
+        {
+          "word": "cord",
+          "start": 26.74,
+          "end": 27.02
+        },
+        {
+          "word": "at",
+          "start": 27.02,
+          "end": 27.2
+        },
+        {
+          "word": "a",
+          "start": 27.2,
+          "end": 27.28
+        },
+        {
+          "word": "party.",
+          "start": 27.28,
+          "end": 27.6
+        }
+      ]
+    },
+    {
+      "start": 27.84,
+      "end": 31.42,
+      "text": "Token price BLEEDS while developers debate architecture. Documentation doesn't pump bags. PRIORITIES!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Token",
+          "start": 27.84,
+          "end": 28.2
+        },
+        {
+          "word": "price",
+          "start": 28.2,
+          "end": 28.52
+        },
+        {
+          "word": "bleeds",
+          "start": 28.52,
+          "end": 29.12
+        },
+        {
+          "word": "while",
+          "start": 29.5,
+          "end": 29.8
+        },
+        {
+          "word": "developers",
+          "start": 29.8,
+          "end": 30.5
+        },
+        {
+          "word": "debate",
+          "start": 30.5,
+          "end": 30.82
+        },
+        {
+          "word": "architecture.",
+          "start": 30.82,
+          "end": 31.42
+        }
+      ]
+    },
+    {
+      "start": 31.54,
+      "end": 34.12,
+      "text": "Token price BLEEDS while developers debate architecture. Documentation doesn't pump bags. PRIORITIES!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Documentation",
+          "start": 31.54,
+          "end": 32.22
+        },
+        {
+          "word": "doesn't",
+          "start": 32.22,
+          "end": 32.54
+        },
+        {
+          "word": "pump",
+          "start": 32.54,
+          "end": 32.78
+        },
+        {
+          "word": "bags,",
+          "start": 32.78,
+          "end": 33.24
+        },
+        {
+          "word": "priorities.",
+          "start": 33.42,
+          "end": 34.12
+        }
+      ]
+    },
+    {
+      "start": 34.34,
+      "end": 37.04,
+      "text": "shipping code is better than talking about shipping code, but shipping usable code is best. our web UI is buried in line 65 of 108 lines of terminal output. that's a problem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Shipping",
+          "start": 34.34,
+          "end": 34.66
+        },
+        {
+          "word": "code",
+          "start": 34.66,
+          "end": 34.88
+        },
+        {
+          "word": "is",
+          "start": 34.88,
+          "end": 35.04
+        },
+        {
+          "word": "better",
+          "start": 35.04,
+          "end": 35.28
+        },
+        {
+          "word": "than",
+          "start": 35.28,
+          "end": 35.48
+        },
+        {
+          "word": "talking",
+          "start": 35.48,
+          "end": 35.78
+        },
+        {
+          "word": "about",
+          "start": 35.78,
+          "end": 36.14
+        },
+        {
+          "word": "shipping",
+          "start": 36.14,
+          "end": 36.6
+        },
+        {
+          "word": "code.",
+          "start": 36.6,
+          "end": 37.04
+        }
+      ]
+    },
+    {
+      "start": 37.04,
+      "end": 39.38,
+      "text": "shipping code is better than talking about shipping code, but shipping usable code is best. our web UI is buried in line 65 of 108 lines of terminal output. that's a problem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 37.04,
+          "end": 37.52
+        },
+        {
+          "word": "shipping",
+          "start": 37.52,
+          "end": 37.86
+        },
+        {
+          "word": "usable",
+          "start": 37.86,
+          "end": 38.3
+        },
+        {
+          "word": "code",
+          "start": 38.3,
+          "end": 38.74
+        },
+        {
+          "word": "is",
+          "start": 38.74,
+          "end": 38.92
+        },
+        {
+          "word": "best.",
+          "start": 38.92,
+          "end": 39.38
+        }
+      ]
+    },
+    {
+      "start": 39.54,
+      "end": 43.62,
+      "text": "shipping code is better than talking about shipping code, but shipping usable code is best. our web UI is buried in line 65 of 108 lines of terminal output. that's a problem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Our",
+          "start": 39.54,
+          "end": 39.72
+        },
+        {
+          "word": "web",
+          "start": 39.72,
+          "end": 39.9
+        },
+        {
+          "word": "UI",
+          "start": 39.9,
+          "end": 40.18
+        },
+        {
+          "word": "is",
+          "start": 40.18,
+          "end": 40.3
+        },
+        {
+          "word": "buried",
+          "start": 40.3,
+          "end": 40.76
+        },
+        {
+          "word": "in",
+          "start": 40.76,
+          "end": 40.86
+        },
+        {
+          "word": "line",
+          "start": 40.86,
+          "end": 41.14
+        },
+        {
+          "word": "65",
+          "start": 41.14,
+          "end": 41.52
+        },
+        {
+          "word": "of",
+          "start": 41.52,
+          "end": 41.7
+        },
+        {
+          "word": "108",
+          "start": 41.7,
+          "end": 42.4
+        },
+        {
+          "word": "lines",
+          "start": 42.4,
+          "end": 42.74
+        },
+        {
+          "word": "of",
+          "start": 42.74,
+          "end": 42.86
+        },
+        {
+          "word": "terminal",
+          "start": 42.86,
+          "end": 43.26
+        },
+        {
+          "word": "output.",
+          "start": 43.26,
+          "end": 43.62
+        }
+      ]
+    },
+    {
+      "start": 43.7,
+      "end": 44.82,
+      "text": "shipping code is better than talking about shipping code, but shipping usable code is best. our web UI is buried in line 65 of 108 lines of terminal output. that's a problem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "That's",
+          "start": 43.7,
+          "end": 44.02
+        },
+        {
+          "word": "a",
+          "start": 44.02,
+          "end": 44.12
+        },
+        {
+          "word": "problem.",
+          "start": 44.12,
+          "end": 44.82
+        }
+      ]
+    },
+    {
+      "start": 45.4,
+      "end": 51.52,
+      "text": "Jin and DorianD have been discussing using Meta Quest 3 and other AR glasses to showcase AI-powered NPCs through Eliza. Could this be our moment?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Jin",
+          "start": 45.4,
+          "end": 45.72
+        },
+        {
+          "word": "and",
+          "start": 45.72,
+          "end": 45.86
+        },
+        {
+          "word": "Dorion",
+          "start": 45.86,
+          "end": 46.34
+        },
+        {
+          "word": "have",
+          "start": 46.34,
+          "end": 46.48
+        },
+        {
+          "word": "been",
+          "start": 46.48,
+          "end": 46.58
+        },
+        {
+          "word": "discussing",
+          "start": 46.58,
+          "end": 47.0
+        },
+        {
+          "word": "using",
+          "start": 47.0,
+          "end": 47.34
+        },
+        {
+          "word": "Meta",
+          "start": 47.34,
+          "end": 47.76
+        },
+        {
+          "word": "Quest",
+          "start": 47.76,
+          "end": 48.06
+        },
+        {
+          "word": "3",
+          "start": 48.06,
+          "end": 48.36
+        },
+        {
+          "word": "and",
+          "start": 48.36,
+          "end": 48.56
+        },
+        {
+          "word": "other",
+          "start": 48.56,
+          "end": 48.8
+        },
+        {
+          "word": "AI",
+          "start": 48.8,
+          "end": 49.0
+        },
+        {
+          "word": "glasses",
+          "start": 49.0,
+          "end": 49.42
+        },
+        {
+          "word": "to",
+          "start": 49.42,
+          "end": 49.52
+        },
+        {
+          "word": "showcase",
+          "start": 49.52,
+          "end": 50.0
+        },
+        {
+          "word": "AI-powered",
+          "start": 50.0,
+          "end": 50.58
+        },
+        {
+          "word": "NPCs",
+          "start": 50.58,
+          "end": 50.96
+        },
+        {
+          "word": "through",
+          "start": 50.96,
+          "end": 51.18
+        },
+        {
+          "word": "Eliza.",
+          "start": 51.18,
+          "end": 51.52
+        }
+      ]
+    },
+    {
+      "start": 51.54,
+      "end": 52.6,
+      "text": "Jin and DorianD have been discussing using Meta Quest 3 and other AR glasses to showcase AI-powered NPCs through Eliza. Could this be our moment?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Could",
+          "start": 51.54,
+          "end": 51.72
+        },
+        {
+          "word": "this",
+          "start": 51.72,
+          "end": 51.92
+        },
+        {
+          "word": "be",
+          "start": 51.92,
+          "end": 52.06
+        },
+        {
+          "word": "our",
+          "start": 52.06,
+          "end": 52.26
+        },
+        {
+          "word": "moment?",
+          "start": 52.26,
+          "end": 52.6
+        }
+      ]
+    },
+    {
+      "start": 52.74,
+      "end": 54.34,
+      "text": "AR is eating the world. The tech stack that wins will be the one that bridges digital agents with physical reality. It's not AR versus AI—it's AR *plus* AI.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "AR",
+          "start": 52.74,
+          "end": 53.08
+        },
+        {
+          "word": "is",
+          "start": 53.08,
+          "end": 53.3
+        },
+        {
+          "word": "eating",
+          "start": 53.3,
+          "end": 53.74
+        },
+        {
+          "word": "the",
+          "start": 53.74,
+          "end": 53.94
+        },
+        {
+          "word": "world.",
+          "start": 53.94,
+          "end": 54.34
+        }
+      ]
+    },
+    {
+      "start": 54.42,
+      "end": 59.5,
+      "text": "AR is eating the world. The tech stack that wins will be the one that bridges digital agents with physical reality. It's not AR versus AI—it's AR *plus* AI.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 54.42,
+          "end": 54.58
+        },
+        {
+          "word": "tech",
+          "start": 54.58,
+          "end": 54.8
+        },
+        {
+          "word": "stack",
+          "start": 54.8,
+          "end": 55.02
+        },
+        {
+          "word": "that",
+          "start": 55.02,
+          "end": 55.22
+        },
+        {
+          "word": "wins",
+          "start": 55.22,
+          "end": 55.56
+        },
+        {
+          "word": "will",
+          "start": 55.56,
+          "end": 55.8
+        },
+        {
+          "word": "be",
+          "start": 55.8,
+          "end": 55.98
+        },
+        {
+          "word": "the",
+          "start": 55.98,
+          "end": 56.12
+        },
+        {
+          "word": "one",
+          "start": 56.12,
+          "end": 56.34
+        },
+        {
+          "word": "that",
+          "start": 56.52,
+          "end": 56.78
+        },
+        {
+          "word": "bridges",
+          "start": 56.78,
+          "end": 57.38
+        },
+        {
+          "word": "digital",
+          "start": 57.38,
+          "end": 57.9
+        },
+        {
+          "word": "agents",
+          "start": 57.9,
+          "end": 58.42
+        },
+        {
+          "word": "with",
+          "start": 58.42,
+          "end": 58.64
+        },
+        {
+          "word": "physical",
+          "start": 58.64,
+          "end": 59.08
+        },
+        {
+          "word": "reality.",
+          "start": 59.08,
+          "end": 59.5
+        }
+      ]
+    },
+    {
+      "start": 59.54,
+      "end": 62.16,
+      "text": "AR is eating the world. The tech stack that wins will be the one that bridges digital agents with physical reality. It's not AR versus AI—it's AR *plus* AI.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 59.54,
+          "end": 59.78
+        },
+        {
+          "word": "not",
+          "start": 59.78,
+          "end": 59.94
+        },
+        {
+          "word": "AI",
+          "start": 59.94,
+          "end": 60.26
+        },
+        {
+          "word": "versus",
+          "start": 60.26,
+          "end": 60.62
+        },
+        {
+          "word": "AI,",
+          "start": 60.62,
+          "end": 60.92
+        },
+        {
+          "word": "it's",
+          "start": 61.1,
+          "end": 61.24
+        },
+        {
+          "word": "AI",
+          "start": 61.24,
+          "end": 61.6
+        },
+        {
+          "word": "plus",
+          "start": 61.6,
+          "end": 61.88
+        },
+        {
+          "word": "AI.",
+          "start": 61.88,
+          "end": 62.16
+        }
+      ]
+    },
+    {
+      "start": 62.3,
+      "end": 65.66,
+      "text": "Imagine your AI homie chillin' in your living room instead of being trapped in a phone! That's the vibe shift we need!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Imagine",
+          "start": 62.3,
+          "end": 62.72
+        },
+        {
+          "word": "your",
+          "start": 62.72,
+          "end": 62.88
+        },
+        {
+          "word": "AI",
+          "start": 62.88,
+          "end": 63.12
+        },
+        {
+          "word": "homie",
+          "start": 63.12,
+          "end": 63.48
+        },
+        {
+          "word": "chilling",
+          "start": 63.48,
+          "end": 63.84
+        },
+        {
+          "word": "in",
+          "start": 63.84,
+          "end": 63.98
+        },
+        {
+          "word": "your",
+          "start": 63.98,
+          "end": 64.12
+        },
+        {
+          "word": "living",
+          "start": 64.12,
+          "end": 64.38
+        },
+        {
+          "word": "room",
+          "start": 64.38,
+          "end": 64.66
+        },
+        {
+          "word": "instead",
+          "start": 64.66,
+          "end": 64.98
+        },
+        {
+          "word": "of",
+          "start": 64.98,
+          "end": 65.08
+        },
+        {
+          "word": "being",
+          "start": 65.08,
+          "end": 65.22
+        },
+        {
+          "word": "trapped",
+          "start": 65.22,
+          "end": 65.48
+        },
+        {
+          "word": "in",
+          "start": 65.48,
+          "end": 65.54
+        },
+        {
+          "word": "a",
+          "start": 65.54,
+          "end": 65.58
+        },
+        {
+          "word": "phone.",
+          "start": 65.58,
+          "end": 65.66
+        }
+      ]
+    },
+    {
+      "start": 65.74,
+      "end": 67.42,
+      "text": "Imagine your AI homie chillin' in your living room instead of being trapped in a phone! That's the vibe shift we need!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 65.74,
+          "end": 66.02
+        },
+        {
+          "word": "the",
+          "start": 66.02,
+          "end": 66.12
+        },
+        {
+          "word": "vibe",
+          "start": 66.12,
+          "end": 66.42
+        },
+        {
+          "word": "shift",
+          "start": 66.42,
+          "end": 66.7
+        },
+        {
+          "word": "we",
+          "start": 66.7,
+          "end": 67.0
+        },
+        {
+          "word": "need.",
+          "start": 67.0,
+          "end": 67.42
+        }
+      ]
+    },
+    {
+      "start": 67.6,
+      "end": 68.96,
+      "text": "AR glasses market: $67 billion by 2030. Eliza first-mover advantage = ALPHA. Build AR SDK now, capture value later.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "AR",
+          "start": 67.6,
+          "end": 67.92
+        },
+        {
+          "word": "glasses",
+          "start": 67.92,
+          "end": 68.34
+        },
+        {
+          "word": "market.",
+          "start": 68.34,
+          "end": 68.96
+        }
+      ]
+    },
+    {
+      "start": 69.1,
+      "end": 72.9,
+      "text": "AR glasses market: $67 billion by 2030. Eliza first-mover advantage = ALPHA. Build AR SDK now, capture value later.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "$67",
+          "start": 69.1,
+          "end": 69.78
+        },
+        {
+          "word": "billion",
+          "start": 69.78,
+          "end": 70.3
+        },
+        {
+          "word": "by",
+          "start": 70.3,
+          "end": 70.62
+        },
+        {
+          "word": "2030,",
+          "start": 70.62,
+          "end": 71.04
+        },
+        {
+          "word": "Eliza",
+          "start": 71.32,
+          "end": 71.74
+        },
+        {
+          "word": "first",
+          "start": 71.74,
+          "end": 71.94
+        },
+        {
+          "word": "mover",
+          "start": 71.94,
+          "end": 72.18
+        },
+        {
+          "word": "advantage",
+          "start": 72.18,
+          "end": 72.58
+        },
+        {
+          "word": "equals",
+          "start": 72.58,
+          "end": 72.66
+        },
+        {
+          "word": "sign",
+          "start": 72.66,
+          "end": 72.74
+        },
+        {
+          "word": "Alpha.",
+          "start": 72.74,
+          "end": 72.9
+        }
+      ]
+    },
+    {
+      "start": 73.04,
+      "end": 76.5,
+      "text": "AR glasses market: $67 billion by 2030. Eliza first-mover advantage = ALPHA. Build AR SDK now, capture value later.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 73.04,
+          "end": 73.34
+        },
+        {
+          "word": "AR",
+          "start": 73.34,
+          "end": 73.58
+        },
+        {
+          "word": "SDK",
+          "start": 73.58,
+          "end": 73.92
+        },
+        {
+          "word": "now,",
+          "start": 73.92,
+          "end": 74.34
+        },
+        {
+          "word": "capture",
+          "start": 74.8,
+          "end": 75.28
+        },
+        {
+          "word": "value",
+          "start": 75.28,
+          "end": 75.8
+        },
+        {
+          "word": "later.",
+          "start": 75.8,
+          "end": 76.5
+        }
+      ]
+    },
+    {
+      "start": 76.6,
+      "end": 80.3,
+      "text": "multi-user memories for NPCs isn't just tech flex, it's fundamental social infrastructure. agents that remember across contexts create real connection.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Multi-user",
+          "start": 76.6,
+          "end": 77.12
+        },
+        {
+          "word": "memories",
+          "start": 77.12,
+          "end": 77.6
+        },
+        {
+          "word": "for",
+          "start": 77.6,
+          "end": 77.78
+        },
+        {
+          "word": "NPCs",
+          "start": 77.78,
+          "end": 78.2
+        },
+        {
+          "word": "isn't",
+          "start": 78.2,
+          "end": 78.48
+        },
+        {
+          "word": "just",
+          "start": 78.48,
+          "end": 78.68
+        },
+        {
+          "word": "tech",
+          "start": 78.68,
+          "end": 78.96
+        },
+        {
+          "word": "flex,",
+          "start": 78.96,
+          "end": 79.32
+        },
+        {
+          "word": "it's",
+          "start": 79.4,
+          "end": 79.54
+        },
+        {
+          "word": "fundamental",
+          "start": 79.54,
+          "end": 80.0
+        },
+        {
+          "word": "social",
+          "start": 80.0,
+          "end": 80.26
+        },
+        {
+          "word": "infrastructure.",
+          "start": 80.26,
+          "end": 80.3
+        }
+      ]
+    },
+    {
+      "start": 80.3,
+      "end": 83.3,
+      "text": "multi-user memories for NPCs isn't just tech flex, it's fundamental social infrastructure. agents that remember across contexts create real connection.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agents",
+          "start": 80.3,
+          "end": 80.82
+        },
+        {
+          "word": "that",
+          "start": 80.82,
+          "end": 81.04
+        },
+        {
+          "word": "remember",
+          "start": 81.04,
+          "end": 81.44
+        },
+        {
+          "word": "across",
+          "start": 81.44,
+          "end": 81.82
+        },
+        {
+          "word": "context",
+          "start": 81.82,
+          "end": 82.26
+        },
+        {
+          "word": "create",
+          "start": 82.26,
+          "end": 82.68
+        },
+        {
+          "word": "real",
+          "start": 82.68,
+          "end": 82.94
+        },
+        {
+          "word": "connections.",
+          "start": 82.94,
+          "end": 83.3
+        }
+      ]
+    },
+    {
+      "start": 83.5,
+      "end": 87.2,
+      "text": "But can we afford to chase AR while our core platform needs stabilization? Umbrel and CasaOS are already providing local AI solutions.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 83.5,
+          "end": 83.68
+        },
+        {
+          "word": "can",
+          "start": 83.68,
+          "end": 83.82
+        },
+        {
+          "word": "we",
+          "start": 83.82,
+          "end": 83.92
+        },
+        {
+          "word": "afford",
+          "start": 83.92,
+          "end": 84.22
+        },
+        {
+          "word": "to",
+          "start": 84.22,
+          "end": 84.34
+        },
+        {
+          "word": "chase",
+          "start": 84.34,
+          "end": 84.62
+        },
+        {
+          "word": "AI",
+          "start": 84.62,
+          "end": 85.0
+        },
+        {
+          "word": "while",
+          "start": 85.34,
+          "end": 85.62
+        },
+        {
+          "word": "our",
+          "start": 85.62,
+          "end": 85.8
+        },
+        {
+          "word": "core",
+          "start": 85.8,
+          "end": 86.1
+        },
+        {
+          "word": "platform",
+          "start": 86.1,
+          "end": 86.5
+        },
+        {
+          "word": "needs",
+          "start": 86.5,
+          "end": 86.82
+        },
+        {
+          "word": "stabilization?",
+          "start": 86.82,
+          "end": 87.2
+        }
+      ]
+    },
+    {
+      "start": 87.4,
+      "end": 91.56,
+      "text": "But can we afford to chase AR while our core platform needs stabilization? Umbrel and CasaOS are already providing local AI solutions.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Umbrel",
+          "start": 87.4,
+          "end": 87.9
+        },
+        {
+          "word": "and",
+          "start": 87.9,
+          "end": 88.1
+        },
+        {
+          "word": "CasaOS",
+          "start": 88.1,
+          "end": 88.84
+        },
+        {
+          "word": "are",
+          "start": 88.84,
+          "end": 89.1
+        },
+        {
+          "word": "already",
+          "start": 89.1,
+          "end": 89.58
+        },
+        {
+          "word": "providing",
+          "start": 89.58,
+          "end": 90.06
+        },
+        {
+          "word": "local",
+          "start": 90.06,
+          "end": 90.46
+        },
+        {
+          "word": "AI",
+          "start": 90.46,
+          "end": 90.84
+        },
+        {
+          "word": "solutions.",
+          "start": 90.84,
+          "end": 91.56
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-02_JedAI-Council_The-Web-Ui-Labyrinth.json",
+    "session_log_source": "2025-09-02_JedAI-Council_The-Web-Ui-Labyrinth_session-log.json",
+    "total_segments": 27,
+    "matched_segments": 27,
+    "dialogues_in_script": 16
+  }
+}

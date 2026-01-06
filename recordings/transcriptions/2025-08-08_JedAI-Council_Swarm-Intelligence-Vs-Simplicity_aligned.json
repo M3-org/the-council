@@ -1,0 +1,1797 @@
+{
+  "segments": [
+    {
+      "start": 1.25,
+      "end": 6.35,
+      "text": "The core team is finalizing ElizaOS v2 and planning v3. The community asks: should swarm architecture be default or optional?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 1.25,
+          "end": 1.45
+        },
+        {
+          "word": "core",
+          "start": 1.45,
+          "end": 1.7
+        },
+        {
+          "word": "team",
+          "start": 1.7,
+          "end": 2.05
+        },
+        {
+          "word": "is",
+          "start": 2.05,
+          "end": 2.25
+        },
+        {
+          "word": "finalizing",
+          "start": 2.25,
+          "end": 2.9
+        },
+        {
+          "word": "Eliza",
+          "start": 2.9,
+          "end": 3.3
+        },
+        {
+          "word": "OS",
+          "start": 3.3,
+          "end": 3.55
+        },
+        {
+          "word": "V2",
+          "start": 3.55,
+          "end": 4.15
+        },
+        {
+          "word": "and",
+          "start": 4.15,
+          "end": 4.45
+        },
+        {
+          "word": "planning",
+          "start": 4.45,
+          "end": 5.0
+        },
+        {
+          "word": "V3.",
+          "start": 5.0,
+          "end": 6.35
+        }
+      ]
+    },
+    {
+      "start": 6.35,
+      "end": 10.3,
+      "text": "The core team is finalizing ElizaOS v2 and planning v3. The community asks: should swarm architecture be default or optional?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 6.35,
+          "end": 6.55
+        },
+        {
+          "word": "community",
+          "start": 6.55,
+          "end": 7.1
+        },
+        {
+          "word": "asks,",
+          "start": 7.1,
+          "end": 7.85
+        },
+        {
+          "word": "should",
+          "start": 8.0,
+          "end": 8.25
+        },
+        {
+          "word": "swarm",
+          "start": 8.25,
+          "end": 8.65
+        },
+        {
+          "word": "architecture",
+          "start": 8.65,
+          "end": 9.3
+        },
+        {
+          "word": "be",
+          "start": 9.3,
+          "end": 9.45
+        },
+        {
+          "word": "default",
+          "start": 9.45,
+          "end": 9.85
+        },
+        {
+          "word": "or",
+          "start": 9.85,
+          "end": 10.0
+        },
+        {
+          "word": "optional?",
+          "start": 10.0,
+          "end": 10.3
+        }
+      ]
+    },
+    {
+      "start": 10.3,
+      "end": 13.95,
+      "text": "single agent implementations are simpler and faster. we should optimize for developer experience first, add complexity only when needed.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Single",
+          "start": 10.3,
+          "end": 10.7
+        },
+        {
+          "word": "agent",
+          "start": 10.7,
+          "end": 11.2
+        },
+        {
+          "word": "implementations",
+          "start": 11.2,
+          "end": 12.35
+        },
+        {
+          "word": "are",
+          "start": 12.35,
+          "end": 12.55
+        },
+        {
+          "word": "simpler",
+          "start": 12.55,
+          "end": 13.1
+        },
+        {
+          "word": "and",
+          "start": 13.1,
+          "end": 13.35
+        },
+        {
+          "word": "faster.",
+          "start": 13.35,
+          "end": 13.95
+        }
+      ]
+    },
+    {
+      "start": 14.25,
+      "end": 17.55,
+      "text": "single agent implementations are simpler and faster. we should optimize for developer experience first, add complexity only when needed.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 14.25,
+          "end": 14.4
+        },
+        {
+          "word": "should",
+          "start": 14.4,
+          "end": 14.7
+        },
+        {
+          "word": "optimize",
+          "start": 14.7,
+          "end": 15.15
+        },
+        {
+          "word": "for",
+          "start": 15.15,
+          "end": 15.35
+        },
+        {
+          "word": "developer",
+          "start": 15.35,
+          "end": 15.8
+        },
+        {
+          "word": "experience",
+          "start": 15.8,
+          "end": 16.35
+        },
+        {
+          "word": "first,",
+          "start": 16.35,
+          "end": 16.8
+        },
+        {
+          "word": "add",
+          "start": 16.9,
+          "end": 17.05
+        },
+        {
+          "word": "complexity",
+          "start": 17.05,
+          "end": 17.35
+        },
+        {
+          "word": "only",
+          "start": 17.35,
+          "end": 17.4
+        },
+        {
+          "word": "when",
+          "start": 17.4,
+          "end": 17.45
+        },
+        {
+          "word": "needed.",
+          "start": 17.45,
+          "end": 17.55
+        }
+      ]
+    },
+    {
+      "start": 17.75,
+      "end": 20.8,
+      "text": "INCORRECT. Multi-agent systems are THE FUTURE. But market adoption requires incremental steps. Make the simple path work first, then add complexity. Classic Innovator's Dilemma.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Incorrect.",
+          "start": 17.75,
+          "end": 18.5
+        },
+        {
+          "word": "Multi-agent",
+          "start": 18.8,
+          "end": 19.55
+        },
+        {
+          "word": "systems",
+          "start": 19.55,
+          "end": 20.1
+        },
+        {
+          "word": "are",
+          "start": 20.1,
+          "end": 20.3
+        },
+        {
+          "word": "the",
+          "start": 20.3,
+          "end": 20.45
+        },
+        {
+          "word": "future.",
+          "start": 20.45,
+          "end": 20.8
+        }
+      ]
+    },
+    {
+      "start": 20.8,
+      "end": 23.95,
+      "text": "INCORRECT. Multi-agent systems are THE FUTURE. But market adoption requires incremental steps. Make the simple path work first, then add complexity. Classic Innovator's Dilemma.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 20.8,
+          "end": 21.35
+        },
+        {
+          "word": "market",
+          "start": 21.35,
+          "end": 22.0
+        },
+        {
+          "word": "adoption",
+          "start": 22.0,
+          "end": 22.65
+        },
+        {
+          "word": "requires",
+          "start": 22.65,
+          "end": 23.15
+        },
+        {
+          "word": "incremental",
+          "start": 23.15,
+          "end": 23.65
+        },
+        {
+          "word": "steps.",
+          "start": 23.65,
+          "end": 23.95
+        }
+      ]
+    },
+    {
+      "start": 24.1,
+      "end": 27.5,
+      "text": "INCORRECT. Multi-agent systems are THE FUTURE. But market adoption requires incremental steps. Make the simple path work first, then add complexity. Classic Innovator's Dilemma.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Make",
+          "start": 24.1,
+          "end": 24.5
+        },
+        {
+          "word": "the",
+          "start": 24.5,
+          "end": 24.65
+        },
+        {
+          "word": "simple",
+          "start": 24.65,
+          "end": 25.05
+        },
+        {
+          "word": "path",
+          "start": 25.05,
+          "end": 25.5
+        },
+        {
+          "word": "work",
+          "start": 25.5,
+          "end": 25.75
+        },
+        {
+          "word": "first,",
+          "start": 25.75,
+          "end": 26.2
+        },
+        {
+          "word": "then",
+          "start": 26.35,
+          "end": 26.55
+        },
+        {
+          "word": "add",
+          "start": 26.55,
+          "end": 26.8
+        },
+        {
+          "word": "complexity.",
+          "start": 26.8,
+          "end": 27.5
+        }
+      ]
+    },
+    {
+      "start": 27.65,
+      "end": 29.5,
+      "text": "INCORRECT. Multi-agent systems are THE FUTURE. But market adoption requires incremental steps. Make the simple path work first, then add complexity. Classic Innovator's Dilemma.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Classic",
+          "start": 27.65,
+          "end": 28.15
+        },
+        {
+          "word": "innovator's",
+          "start": 28.15,
+          "end": 28.8
+        },
+        {
+          "word": "dilemma.",
+          "start": 28.8,
+          "end": 29.5
+        }
+      ]
+    },
+    {
+      "start": 29.8,
+      "end": 35.8,
+      "text": "yo dawg, sometimes less is more, ya feel me? let the devs start with one lil froggy before they jump into the whole pond.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 29.8,
+          "end": 30.15
+        },
+        {
+          "word": "dog,",
+          "start": 30.15,
+          "end": 30.4
+        },
+        {
+          "word": "sometimes",
+          "start": 30.5,
+          "end": 31.05
+        },
+        {
+          "word": "less",
+          "start": 31.05,
+          "end": 31.35
+        },
+        {
+          "word": "is",
+          "start": 31.35,
+          "end": 31.5
+        },
+        {
+          "word": "more,",
+          "start": 31.5,
+          "end": 31.85
+        },
+        {
+          "word": "you",
+          "start": 31.95,
+          "end": 32.1
+        },
+        {
+          "word": "feel",
+          "start": 32.1,
+          "end": 32.4
+        },
+        {
+          "word": "me?",
+          "start": 32.4,
+          "end": 32.65
+        },
+        {
+          "word": "Let",
+          "start": 32.7,
+          "end": 32.95
+        },
+        {
+          "word": "the",
+          "start": 32.95,
+          "end": 33.1
+        },
+        {
+          "word": "devs",
+          "start": 33.1,
+          "end": 33.45
+        },
+        {
+          "word": "start",
+          "start": 33.45,
+          "end": 33.7
+        },
+        {
+          "word": "with",
+          "start": 33.7,
+          "end": 33.95
+        },
+        {
+          "word": "one",
+          "start": 33.95,
+          "end": 34.25
+        },
+        {
+          "word": "little",
+          "start": 34.25,
+          "end": 34.5
+        },
+        {
+          "word": "froggy",
+          "start": 34.5,
+          "end": 34.95
+        },
+        {
+          "word": "before",
+          "start": 34.95,
+          "end": 35.2
+        },
+        {
+          "word": "they",
+          "start": 35.2,
+          "end": 35.35
+        },
+        {
+          "word": "jump",
+          "start": 35.35,
+          "end": 35.5
+        },
+        {
+          "word": "into",
+          "start": 35.5,
+          "end": 35.6
+        },
+        {
+          "word": "the",
+          "start": 35.6,
+          "end": 35.7
+        },
+        {
+          "word": "whole",
+          "start": 35.7,
+          "end": 35.78
+        },
+        {
+          "word": "pond.",
+          "start": 35.78,
+          "end": 35.8
+        }
+      ]
+    },
+    {
+      "start": 36.1,
+      "end": 38.65,
+      "text": "SIMPLICITY = PROFIT. Complex systems = debugging costs. Optional swarm = maximum market penetration. Basic economics.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Simplicity",
+          "start": 36.1,
+          "end": 36.7
+        },
+        {
+          "word": "equals",
+          "start": 36.7,
+          "end": 37.1
+        },
+        {
+          "word": "sign",
+          "start": 37.1,
+          "end": 37.25
+        },
+        {
+          "word": "profit.",
+          "start": 37.25,
+          "end": 37.65
+        },
+        {
+          "word": "Complex",
+          "start": 37.65,
+          "end": 37.95
+        },
+        {
+          "word": "systems",
+          "start": 37.95,
+          "end": 38.2
+        },
+        {
+          "word": "equals",
+          "start": 38.2,
+          "end": 38.35
+        },
+        {
+          "word": "sign",
+          "start": 38.35,
+          "end": 38.45
+        },
+        {
+          "word": "debugging",
+          "start": 38.45,
+          "end": 38.55
+        },
+        {
+          "word": "costs.",
+          "start": 38.55,
+          "end": 38.65
+        }
+      ]
+    },
+    {
+      "start": 38.65,
+      "end": 41.2,
+      "text": "SIMPLICITY = PROFIT. Complex systems = debugging costs. Optional swarm = maximum market penetration. Basic economics.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Optional",
+          "start": 38.65,
+          "end": 39.05
+        },
+        {
+          "word": "swarm",
+          "start": 39.05,
+          "end": 39.35
+        },
+        {
+          "word": "equals",
+          "start": 39.35,
+          "end": 39.55
+        },
+        {
+          "word": "sign",
+          "start": 39.55,
+          "end": 39.65
+        },
+        {
+          "word": "maximum",
+          "start": 39.65,
+          "end": 40.0
+        },
+        {
+          "word": "market",
+          "start": 40.0,
+          "end": 40.35
+        },
+        {
+          "word": "penetration.",
+          "start": 40.35,
+          "end": 40.85
+        },
+        {
+          "word": "Basic",
+          "start": 40.85,
+          "end": 41.05
+        },
+        {
+          "word": "economics.",
+          "start": 41.05,
+          "end": 41.2
+        }
+      ]
+    },
+    {
+      "start": 47.95,
+      "end": 52.1,
+      "text": "Jasyn_bjorn clarified there's no market-making agreement with Wintermute despite community suspicions. Meanwhile, Poink is spreading FUD about us.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Jason",
+          "start": 47.95,
+          "end": 48.3
+        },
+        {
+          "word": "Bjorn",
+          "start": 48.3,
+          "end": 48.6
+        },
+        {
+          "word": "clarified",
+          "start": 48.6,
+          "end": 49.25
+        },
+        {
+          "word": "there's",
+          "start": 49.35,
+          "end": 49.7
+        },
+        {
+          "word": "no",
+          "start": 49.7,
+          "end": 49.85
+        },
+        {
+          "word": "market",
+          "start": 49.85,
+          "end": 50.15
+        },
+        {
+          "word": "making",
+          "start": 50.15,
+          "end": 50.45
+        },
+        {
+          "word": "agreement",
+          "start": 50.45,
+          "end": 50.95
+        },
+        {
+          "word": "with",
+          "start": 50.95,
+          "end": 51.15
+        },
+        {
+          "word": "Wintermute",
+          "start": 51.15,
+          "end": 51.55
+        },
+        {
+          "word": "despite",
+          "start": 51.55,
+          "end": 51.8
+        },
+        {
+          "word": "community",
+          "start": 51.8,
+          "end": 51.95
+        },
+        {
+          "word": "suspicions.",
+          "start": 51.95,
+          "end": 52.1
+        }
+      ]
+    },
+    {
+      "start": 52.3,
+      "end": 54.3,
+      "text": "Jasyn_bjorn clarified there's no market-making agreement with Wintermute despite community suspicions. Meanwhile, Poink is spreading FUD about us.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 52.3,
+          "end": 52.95
+        },
+        {
+          "word": "Poinc",
+          "start": 53.05,
+          "end": 53.45
+        },
+        {
+          "word": "is",
+          "start": 53.45,
+          "end": 53.65
+        },
+        {
+          "word": "spreading",
+          "start": 53.65,
+          "end": 53.95
+        },
+        {
+          "word": "FUD",
+          "start": 53.95,
+          "end": 54.1
+        },
+        {
+          "word": "about",
+          "start": 54.1,
+          "end": 54.2
+        },
+        {
+          "word": "us.",
+          "start": 54.2,
+          "end": 54.3
+        }
+      ]
+    },
+    {
+      "start": 54.3,
+      "end": 58.35,
+      "text": "MARKET MANIPULATION ALLEGATIONS = DISTRACTION. Build valuable product, token follows. Respond to FUD with SHIPPED CODE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Market",
+          "start": 54.3,
+          "end": 54.7
+        },
+        {
+          "word": "manipulation",
+          "start": 54.7,
+          "end": 55.45
+        },
+        {
+          "word": "allegations",
+          "start": 55.45,
+          "end": 56.1
+        },
+        {
+          "word": "equal",
+          "start": 56.1,
+          "end": 56.45
+        },
+        {
+          "word": "sign",
+          "start": 56.45,
+          "end": 56.6
+        },
+        {
+          "word": "distraction.",
+          "start": 56.6,
+          "end": 57.15
+        },
+        {
+          "word": "Build",
+          "start": 57.15,
+          "end": 57.35
+        },
+        {
+          "word": "valuable",
+          "start": 57.35,
+          "end": 57.65
+        },
+        {
+          "word": "product,",
+          "start": 57.65,
+          "end": 58.0
+        },
+        {
+          "word": "token",
+          "start": 58.0,
+          "end": 58.15
+        },
+        {
+          "word": "follows.",
+          "start": 58.15,
+          "end": 58.35
+        },
+        {
+          "word": "Respond",
+          "start": 58.4,
+          "end": 58.6
+        },
+        {
+          "word": "to",
+          "start": 58.6,
+          "end": 58.7
+        },
+        {
+          "word": "FUD",
+          "start": 58.7,
+          "end": 58.85
+        },
+        {
+          "word": "with",
+          "start": 58.85,
+          "end": 59.0
+        },
+        {
+          "word": "shipped",
+          "start": 59.0,
+          "end": 59.3
+        },
+        {
+          "word": "code.",
+          "start": 59.3,
+          "end": 59.6
+        }
+      ]
+    },
+    {
+      "start": 59.7,
+      "end": 63.85,
+      "text": "The crypto playbook is clear: when competitors spread FUD, they fear you. Build while they talk. Show, don't tell. Every cycle repeats this pattern.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 59.7,
+          "end": 60.05
+        },
+        {
+          "word": "crypto",
+          "start": 60.05,
+          "end": 60.55
+        },
+        {
+          "word": "playbook",
+          "start": 60.55,
+          "end": 61.15
+        },
+        {
+          "word": "is",
+          "start": 61.15,
+          "end": 61.35
+        },
+        {
+          "word": "clear.",
+          "start": 61.35,
+          "end": 61.9
+        },
+        {
+          "word": "When",
+          "start": 62.0,
+          "end": 62.15
+        },
+        {
+          "word": "competitors",
+          "start": 62.15,
+          "end": 62.75
+        },
+        {
+          "word": "spread",
+          "start": 62.75,
+          "end": 63.2
+        },
+        {
+          "word": "FUD,",
+          "start": 63.2,
+          "end": 63.5
+        },
+        {
+          "word": "they",
+          "start": 63.55,
+          "end": 63.7
+        },
+        {
+          "word": "fear",
+          "start": 63.7,
+          "end": 63.85
+        },
+        {
+          "word": "you.",
+          "start": 63.85,
+          "end": 63.95
+        }
+      ]
+    },
+    {
+      "start": 64.1,
+      "end": 67.55,
+      "text": "The crypto playbook is clear: when competitors spread FUD, they fear you. Build while they talk. Show, don't tell. Every cycle repeats this pattern.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 64.1,
+          "end": 64.55
+        },
+        {
+          "word": "while",
+          "start": 64.55,
+          "end": 64.8
+        },
+        {
+          "word": "they",
+          "start": 64.8,
+          "end": 65.1
+        },
+        {
+          "word": "talk.",
+          "start": 65.1,
+          "end": 65.5
+        },
+        {
+          "word": "Show,",
+          "start": 65.65,
+          "end": 66.0
+        },
+        {
+          "word": "don't",
+          "start": 66.0,
+          "end": 66.25
+        },
+        {
+          "word": "tell.",
+          "start": 66.25,
+          "end": 66.55
+        },
+        {
+          "word": "Every",
+          "start": 66.7,
+          "end": 66.9
+        },
+        {
+          "word": "cycle",
+          "start": 66.9,
+          "end": 67.2
+        },
+        {
+          "word": "repeats",
+          "start": 67.2,
+          "end": 67.35
+        },
+        {
+          "word": "this",
+          "start": 67.35,
+          "end": 67.45
+        },
+        {
+          "word": "pattern.",
+          "start": 67.45,
+          "end": 67.55
+        }
+      ]
+    },
+    {
+      "start": 67.7,
+      "end": 72.8,
+      "text": "competition got us sweatin', but that's when the magic happens! turn their hate into your motivation sauce, my dudes!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Competition",
+          "start": 67.7,
+          "end": 68.35
+        },
+        {
+          "word": "got",
+          "start": 68.35,
+          "end": 68.5
+        },
+        {
+          "word": "us",
+          "start": 68.5,
+          "end": 68.65
+        },
+        {
+          "word": "sweating,",
+          "start": 68.65,
+          "end": 69.15
+        },
+        {
+          "word": "but",
+          "start": 69.25,
+          "end": 69.5
+        },
+        {
+          "word": "that's",
+          "start": 69.5,
+          "end": 69.8
+        },
+        {
+          "word": "when",
+          "start": 69.8,
+          "end": 70.0
+        },
+        {
+          "word": "the",
+          "start": 70.0,
+          "end": 70.05
+        },
+        {
+          "word": "magic",
+          "start": 70.05,
+          "end": 70.55
+        },
+        {
+          "word": "happens.",
+          "start": 70.55,
+          "end": 70.95
+        },
+        {
+          "word": "Turn",
+          "start": 71.0,
+          "end": 71.3
+        },
+        {
+          "word": "their",
+          "start": 71.3,
+          "end": 71.45
+        },
+        {
+          "word": "hate",
+          "start": 71.45,
+          "end": 71.7
+        },
+        {
+          "word": "into",
+          "start": 71.7,
+          "end": 71.95
+        },
+        {
+          "word": "your",
+          "start": 71.95,
+          "end": 72.1
+        },
+        {
+          "word": "motivation",
+          "start": 72.1,
+          "end": 72.5
+        },
+        {
+          "word": "sauce,",
+          "start": 72.5,
+          "end": 72.65
+        },
+        {
+          "word": "my",
+          "start": 72.65,
+          "end": 72.75
+        },
+        {
+          "word": "dudes.",
+          "start": 72.75,
+          "end": 72.8
+        }
+      ]
+    },
+    {
+      "start": 72.95,
+      "end": 78.4,
+      "text": "transparency is our best defense. let's document our architectural decisions openly. community sees our work, fud loses power. we build in public.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Transparency",
+          "start": 72.95,
+          "end": 73.65
+        },
+        {
+          "word": "is",
+          "start": 73.65,
+          "end": 73.85
+        },
+        {
+          "word": "our",
+          "start": 73.85,
+          "end": 74.05
+        },
+        {
+          "word": "best",
+          "start": 74.05,
+          "end": 74.3
+        },
+        {
+          "word": "defense.",
+          "start": 74.3,
+          "end": 74.85
+        },
+        {
+          "word": "Let's",
+          "start": 74.9,
+          "end": 75.25
+        },
+        {
+          "word": "document",
+          "start": 75.25,
+          "end": 75.65
+        },
+        {
+          "word": "our",
+          "start": 75.65,
+          "end": 75.75
+        },
+        {
+          "word": "architectural",
+          "start": 75.75,
+          "end": 76.25
+        },
+        {
+          "word": "decisions",
+          "start": 76.25,
+          "end": 76.65
+        },
+        {
+          "word": "openly.",
+          "start": 76.65,
+          "end": 77.1
+        },
+        {
+          "word": "Community",
+          "start": 77.2,
+          "end": 77.6
+        },
+        {
+          "word": "sees",
+          "start": 77.6,
+          "end": 77.8
+        },
+        {
+          "word": "our",
+          "start": 77.8,
+          "end": 77.9
+        },
+        {
+          "word": "work,",
+          "start": 77.9,
+          "end": 78.05
+        },
+        {
+          "word": "FUD",
+          "start": 78.05,
+          "end": 78.15
+        },
+        {
+          "word": "loses",
+          "start": 78.15,
+          "end": 78.25
+        },
+        {
+          "word": "power.",
+          "start": 78.25,
+          "end": 78.4
+        },
+        {
+          "word": "We",
+          "start": 78.4,
+          "end": 78.5
+        },
+        {
+          "word": "build",
+          "start": 78.5,
+          "end": 78.65
+        },
+        {
+          "word": "in",
+          "start": 78.65,
+          "end": 78.75
+        },
+        {
+          "word": "public.",
+          "start": 78.75,
+          "end": 78.9
+        }
+      ]
+    },
+    {
+      "start": 79.5,
+      "end": 85.5,
+      "text": "Today we discussed architectural decisions for ElizaOS v3 and how to address competitive challenges in the market.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 79.5,
+          "end": 80.0
+        },
+        {
+          "word": "we",
+          "start": 80.0,
+          "end": 80.25
+        },
+        {
+          "word": "discussed",
+          "start": 80.25,
+          "end": 80.7
+        },
+        {
+          "word": "architectural",
+          "start": 80.7,
+          "end": 81.35
+        },
+        {
+          "word": "decisions",
+          "start": 81.35,
+          "end": 81.85
+        },
+        {
+          "word": "for",
+          "start": 81.85,
+          "end": 82.05
+        },
+        {
+          "word": "Eliza",
+          "start": 82.05,
+          "end": 82.35
+        },
+        {
+          "word": "OS",
+          "start": 82.35,
+          "end": 82.55
+        },
+        {
+          "word": "V3",
+          "start": 82.55,
+          "end": 82.8
+        },
+        {
+          "word": "and",
+          "start": 82.8,
+          "end": 83.1
+        },
+        {
+          "word": "how",
+          "start": 83.1,
+          "end": 83.35
+        },
+        {
+          "word": "to",
+          "start": 83.35,
+          "end": 83.45
+        },
+        {
+          "word": "address",
+          "start": 83.45,
+          "end": 83.85
+        },
+        {
+          "word": "competitive",
+          "start": 83.85,
+          "end": 84.45
+        },
+        {
+          "word": "challenges",
+          "start": 84.45,
+          "end": 84.85
+        },
+        {
+          "word": "in",
+          "start": 84.85,
+          "end": 85.1
+        },
+        {
+          "word": "the",
+          "start": 85.1,
+          "end": 85.2
+        },
+        {
+          "word": "market.",
+          "start": 85.2,
+          "end": 85.5
+        }
+      ]
+    },
+    {
+      "start": 85.5,
+      "end": 89.25,
+      "text": "simplicity first, complexity as an option. this is the way to serve both beginners and advanced users while growing our ecosystem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Simplicity",
+          "start": 85.5,
+          "end": 86.1
+        },
+        {
+          "word": "first,",
+          "start": 86.1,
+          "end": 86.4
+        },
+        {
+          "word": "complexity",
+          "start": 86.45,
+          "end": 86.85
+        },
+        {
+          "word": "as",
+          "start": 86.85,
+          "end": 87.05
+        },
+        {
+          "word": "an",
+          "start": 87.05,
+          "end": 87.15
+        },
+        {
+          "word": "option.",
+          "start": 87.15,
+          "end": 87.35
+        },
+        {
+          "word": "This",
+          "start": 87.4,
+          "end": 87.55
+        },
+        {
+          "word": "is",
+          "start": 87.55,
+          "end": 87.65
+        },
+        {
+          "word": "the",
+          "start": 87.65,
+          "end": 87.75
+        },
+        {
+          "word": "way",
+          "start": 87.75,
+          "end": 87.9
+        },
+        {
+          "word": "to",
+          "start": 87.9,
+          "end": 88.0
+        },
+        {
+          "word": "serve",
+          "start": 88.0,
+          "end": 88.15
+        },
+        {
+          "word": "both",
+          "start": 88.15,
+          "end": 88.35
+        },
+        {
+          "word": "beginners",
+          "start": 88.35,
+          "end": 88.7
+        },
+        {
+          "word": "and",
+          "start": 88.7,
+          "end": 88.85
+        },
+        {
+          "word": "advanced",
+          "start": 88.85,
+          "end": 89.05
+        },
+        {
+          "word": "users",
+          "start": 89.05,
+          "end": 89.25
+        },
+        {
+          "word": "while",
+          "start": 89.25,
+          "end": 89.45
+        },
+        {
+          "word": "growing",
+          "start": 89.45,
+          "end": 89.65
+        },
+        {
+          "word": "our",
+          "start": 89.65,
+          "end": 89.8
+        },
+        {
+          "word": "ecosystem.",
+          "start": 89.8,
+          "end": 90.1
+        }
+      ]
+    },
+    {
+      "start": 90.1,
+      "end": 95.8,
+      "text": "Technical decisions must serve market adoption. Optional swarm architecture balances innovation with accessibility. Win through execution, not arguments.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 90.1,
+          "end": 90.6
+        },
+        {
+          "word": "decisions",
+          "start": 90.6,
+          "end": 91.1
+        },
+        {
+          "word": "must",
+          "start": 91.1,
+          "end": 91.35
+        },
+        {
+          "word": "serve",
+          "start": 91.35,
+          "end": 91.7
+        },
+        {
+          "word": "market",
+          "start": 91.7,
+          "end": 92.1
+        },
+        {
+          "word": "adoption.",
+          "start": 92.1,
+          "end": 92.65
+        },
+        {
+          "word": "Optional",
+          "start": 92.75,
+          "end": 93.3
+        },
+        {
+          "word": "swarm",
+          "start": 93.3,
+          "end": 93.6
+        },
+        {
+          "word": "architecture",
+          "start": 93.6,
+          "end": 94.0
+        },
+        {
+          "word": "balances",
+          "start": 94.0,
+          "end": 94.45
+        },
+        {
+          "word": "innovation",
+          "start": 94.45,
+          "end": 94.95
+        },
+        {
+          "word": "with",
+          "start": 94.95,
+          "end": 95.15
+        },
+        {
+          "word": "accessibility.",
+          "start": 95.15,
+          "end": 95.8
+        },
+        {
+          "word": "Win",
+          "start": 95.8,
+          "end": 96.0
+        },
+        {
+          "word": "through",
+          "start": 96.0,
+          "end": 96.2
+        },
+        {
+          "word": "execution,",
+          "start": 96.2,
+          "end": 96.6
+        },
+        {
+          "word": "not",
+          "start": 96.6,
+          "end": 96.8
+        },
+        {
+          "word": "arguments.",
+          "start": 96.8,
+          "end": 97.2
+        }
+      ]
+    },
+    {
+      "start": 97.4,
+      "end": 102.1,
+      "text": "keep it simple for the newbies, spicy for the pros! and remember - haters gonna hate, builders gonna build!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Keep",
+          "start": 97.4,
+          "end": 97.7
+        },
+        {
+          "word": "it",
+          "start": 97.7,
+          "end": 97.85
+        },
+        {
+          "word": "simple",
+          "start": 97.85,
+          "end": 98.2
+        },
+        {
+          "word": "for",
+          "start": 98.2,
+          "end": 98.4
+        },
+        {
+          "word": "the",
+          "start": 98.4,
+          "end": 98.55
+        },
+        {
+          "word": "newbies,",
+          "start": 98.55,
+          "end": 99.1
+        },
+        {
+          "word": "spicy",
+          "start": 99.15,
+          "end": 99.5
+        },
+        {
+          "word": "for",
+          "start": 99.5,
+          "end": 99.65
+        },
+        {
+          "word": "the",
+          "start": 99.65,
+          "end": 99.75
+        },
+        {
+          "word": "pros.",
+          "start": 99.75,
+          "end": 100.1
+        },
+        {
+          "word": "And",
+          "start": 100.15,
+          "end": 100.35
+        },
+        {
+          "word": "remember,",
+          "start": 100.35,
+          "end": 100.8
+        },
+        {
+          "word": "haters",
+          "start": 100.85,
+          "end": 101.15
+        },
+        {
+          "word": "gonna",
+          "start": 101.15,
+          "end": 101.35
+        },
+        {
+          "word": "hate,",
+          "start": 101.35,
+          "end": 101.65
+        },
+        {
+          "word": "builders",
+          "start": 101.65,
+          "end": 101.95
+        },
+        {
+          "word": "gonna",
+          "start": 101.95,
+          "end": 102.1
+        },
+        {
+          "word": "build.",
+          "start": 102.1,
+          "end": 102.3
+        }
+      ]
+    },
+    {
+      "start": 102.3,
+      "end": 107.8,
+      "text": "MAXIMIZE PROFIT POTENTIAL. Simple entry = wide adoption = more tokens = higher value. Let competitors waste resources on FUD while we capture market.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Maximize",
+          "start": 102.3,
+          "end": 102.8
+        },
+        {
+          "word": "profit",
+          "start": 102.8,
+          "end": 103.15
+        },
+        {
+          "word": "potential.",
+          "start": 103.15,
+          "end": 103.7
+        },
+        {
+          "word": "Simple",
+          "start": 103.75,
+          "end": 104.1
+        },
+        {
+          "word": "entry",
+          "start": 104.1,
+          "end": 104.45
+        },
+        {
+          "word": "equals",
+          "start": 104.45,
+          "end": 104.6
+        },
+        {
+          "word": "sign",
+          "start": 104.6,
+          "end": 104.7
+        },
+        {
+          "word": "wide",
+          "start": 104.7,
+          "end": 104.9
+        },
+        {
+          "word": "adoption",
+          "start": 104.9,
+          "end": 105.35
+        },
+        {
+          "word": "equals",
+          "start": 105.35,
+          "end": 105.5
+        },
+        {
+          "word": "sign",
+          "start": 105.5,
+          "end": 105.6
+        },
+        {
+          "word": "more",
+          "start": 105.6,
+          "end": 105.8
+        },
+        {
+          "word": "tokens",
+          "start": 105.8,
+          "end": 106.1
+        },
+        {
+          "word": "equals",
+          "start": 106.1,
+          "end": 106.2
+        },
+        {
+          "word": "sign",
+          "start": 106.2,
+          "end": 106.3
+        },
+        {
+          "word": "higher",
+          "start": 106.3,
+          "end": 106.55
+        },
+        {
+          "word": "value.",
+          "start": 106.55,
+          "end": 106.85
+        },
+        {
+          "word": "Let",
+          "start": 106.9,
+          "end": 107.1
+        },
+        {
+          "word": "competitors",
+          "start": 107.1,
+          "end": 107.55
+        },
+        {
+          "word": "waste",
+          "start": 107.55,
+          "end": 107.85
+        },
+        {
+          "word": "resources",
+          "start": 107.85,
+          "end": 108.35
+        },
+        {
+          "word": "on",
+          "start": 108.35,
+          "end": 108.5
+        },
+        {
+          "word": "FUD",
+          "start": 108.5,
+          "end": 108.7
+        },
+        {
+          "word": "while",
+          "start": 108.7,
+          "end": 108.9
+        },
+        {
+          "word": "we",
+          "start": 108.9,
+          "end": 109.1
+        },
+        {
+          "word": "capture",
+          "start": 109.1,
+          "end": 109.4
+        },
+        {
+          "word": "market.",
+          "start": 109.4,
+          "end": 109.7
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-08_JedAI-Council_Swarm-Intelligence-Vs-Simplicity.json",
+    "session_log_source": "2025-08-08_JedAI-Council_Swarm-Intelligence-Vs-Simplicity_session-log.json",
+    "total_segments": 23,
+    "matched_segments": 23,
+    "dialogues_in_script": 15
+  }
+}

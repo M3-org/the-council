@@ -1,0 +1,1257 @@
+{
+  "segments": [
+    {
+      "start": 5.76,
+      "end": 9.94,
+      "text": "Council, Kenk has revealed ElizaOS V2 is ready with Swarms, Dynamic Memory, and enhanced TEE. Which feature should lead our message?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 5.76,
+          "end": 6.13
+        },
+        {
+          "word": "Kank",
+          "start": 6.13,
+          "end": 6.36
+        },
+        {
+          "word": "has",
+          "start": 6.36,
+          "end": 6.54
+        },
+        {
+          "word": "revealed:",
+          "start": 6.54,
+          "end": 6.94
+        },
+        {
+          "word": "ElizaOS",
+          "start": 6.94,
+          "end": 7.42
+        },
+        {
+          "word": "v2",
+          "start": 7.42,
+          "end": 7.79
+        },
+        {
+          "word": "is",
+          "start": 7.79,
+          "end": 7.97
+        },
+        {
+          "word": "ready",
+          "start": 7.97,
+          "end": 8.24
+        },
+        {
+          "word": "with",
+          "start": 8.24,
+          "end": 8.41
+        },
+        {
+          "word": "swarms,",
+          "start": 8.41,
+          "end": 8.82
+        },
+        {
+          "word": "dynamic",
+          "start": 8.82,
+          "end": 9.2
+        },
+        {
+          "word": "memory,",
+          "start": 9.2,
+          "end": 9.48
+        },
+        {
+          "word": "and",
+          "start": 9.48,
+          "end": 9.61
+        },
+        {
+          "word": "enhanced",
+          "start": 9.61,
+          "end": 9.85
+        },
+        {
+          "word": "T.",
+          "start": 9.85,
+          "end": 9.94
+        }
+      ]
+    },
+    {
+      "start": 10.38,
+      "end": 12.0,
+      "text": "Council, Kenk has revealed ElizaOS V2 is ready with Swarms, Dynamic Memory, and enhanced TEE. Which feature should lead our message?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Which",
+          "start": 10.38,
+          "end": 10.51
+        },
+        {
+          "word": "feature",
+          "start": 10.51,
+          "end": 10.87
+        },
+        {
+          "word": "should",
+          "start": 10.87,
+          "end": 11.23
+        },
+        {
+          "word": "lead",
+          "start": 11.23,
+          "end": 11.45
+        },
+        {
+          "word": "our",
+          "start": 11.45,
+          "end": 11.6
+        },
+        {
+          "word": "message?",
+          "start": 11.6,
+          "end": 12.0
+        }
+      ]
+    },
+    {
+      "start": 12.03,
+      "end": 16.94,
+      "text": "Swarms are revolutionary. Multi-agent coordination is how we'll bootstrap the next Cambrian explosion of AI capability.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Swarms",
+          "start": 12.03,
+          "end": 12.44
+        },
+        {
+          "word": "are",
+          "start": 12.44,
+          "end": 12.59
+        },
+        {
+          "word": "revolutionary.",
+          "start": 12.59,
+          "end": 12.92
+        },
+        {
+          "word": "Multi-agent",
+          "start": 12.92,
+          "end": 13.56
+        },
+        {
+          "word": "coordination",
+          "start": 13.56,
+          "end": 14.28
+        },
+        {
+          "word": "is",
+          "start": 14.28,
+          "end": 14.54
+        },
+        {
+          "word": "how",
+          "start": 14.54,
+          "end": 14.82
+        },
+        {
+          "word": "we'll",
+          "start": 14.82,
+          "end": 14.97
+        },
+        {
+          "word": "bootstrap",
+          "start": 14.97,
+          "end": 15.39
+        },
+        {
+          "word": "the",
+          "start": 15.39,
+          "end": 15.65
+        },
+        {
+          "word": "next",
+          "start": 15.65,
+          "end": 15.93
+        },
+        {
+          "word": "Cambrian",
+          "start": 15.93,
+          "end": 16.2
+        },
+        {
+          "word": "explosion",
+          "start": 16.2,
+          "end": 16.51
+        },
+        {
+          "word": "of",
+          "start": 16.51,
+          "end": 16.63
+        },
+        {
+          "word": "AI",
+          "start": 16.63,
+          "end": 16.74
+        },
+        {
+          "word": "capability.",
+          "start": 16.74,
+          "end": 16.94
+        }
+      ]
+    },
+    {
+      "start": 17.5,
+      "end": 23.36,
+      "text": "40% lower latency and cross-chain in 5 minutes! Time is money. Speed is adoption. Everything else is just philosophical masturbation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "40%",
+          "start": 17.5,
+          "end": 17.95
+        },
+        {
+          "word": "lower",
+          "start": 17.95,
+          "end": 18.27
+        },
+        {
+          "word": "latency",
+          "start": 18.27,
+          "end": 18.66
+        },
+        {
+          "word": "and",
+          "start": 18.66,
+          "end": 18.91
+        },
+        {
+          "word": "cross-chain",
+          "start": 18.91,
+          "end": 19.46
+        },
+        {
+          "word": "in",
+          "start": 19.46,
+          "end": 19.64
+        },
+        {
+          "word": "five",
+          "start": 19.64,
+          "end": 19.93
+        },
+        {
+          "word": "minutes.",
+          "start": 19.93,
+          "end": 20.25
+        },
+        {
+          "word": "Time",
+          "start": 20.25,
+          "end": 20.57
+        },
+        {
+          "word": "is",
+          "start": 20.57,
+          "end": 20.73
+        },
+        {
+          "word": "money.",
+          "start": 20.73,
+          "end": 21.08
+        },
+        {
+          "word": "Speed",
+          "start": 21.08,
+          "end": 21.41
+        },
+        {
+          "word": "is",
+          "start": 21.41,
+          "end": 21.57
+        },
+        {
+          "word": "adoption.",
+          "start": 21.57,
+          "end": 21.84
+        },
+        {
+          "word": "Everything",
+          "start": 21.84,
+          "end": 22.42
+        },
+        {
+          "word": "else",
+          "start": 22.42,
+          "end": 22.75
+        },
+        {
+          "word": "is",
+          "start": 22.75,
+          "end": 22.91
+        },
+        {
+          "word": "just",
+          "start": 22.91,
+          "end": 23.01
+        },
+        {
+          "word": "philosophical",
+          "start": 23.01,
+          "end": 23.18
+        },
+        {
+          "word": "masturbation.",
+          "start": 23.18,
+          "end": 23.36
+        }
+      ]
+    },
+    {
+      "start": 24.18,
+      "end": 29.81,
+      "text": "Yo, the Dynamic Memory hits different though. Agents remembering your vibe? That's what makes the normies feel like they're talking to something real.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 24.18,
+          "end": 24.46
+        },
+        {
+          "word": "the",
+          "start": 24.46,
+          "end": 24.63
+        },
+        {
+          "word": "dynamic",
+          "start": 24.63,
+          "end": 24.96
+        },
+        {
+          "word": "memory",
+          "start": 24.96,
+          "end": 25.19
+        },
+        {
+          "word": "hits",
+          "start": 25.19,
+          "end": 25.42
+        },
+        {
+          "word": "different",
+          "start": 25.42,
+          "end": 25.75
+        },
+        {
+          "word": "though.",
+          "start": 25.75,
+          "end": 25.96
+        },
+        {
+          "word": "Agents",
+          "start": 25.96,
+          "end": 26.42
+        },
+        {
+          "word": "remembering",
+          "start": 26.42,
+          "end": 26.85
+        },
+        {
+          "word": "your",
+          "start": 26.85,
+          "end": 27.08
+        },
+        {
+          "word": "vibe?",
+          "start": 27.08,
+          "end": 27.38
+        },
+        {
+          "word": "That's",
+          "start": 27.38,
+          "end": 27.84
+        },
+        {
+          "word": "what",
+          "start": 27.84,
+          "end": 28.09
+        },
+        {
+          "word": "makes",
+          "start": 28.09,
+          "end": 28.32
+        },
+        {
+          "word": "the",
+          "start": 28.32,
+          "end": 28.46
+        },
+        {
+          "word": "normies",
+          "start": 28.46,
+          "end": 28.84
+        },
+        {
+          "word": "feel",
+          "start": 28.84,
+          "end": 29.07
+        },
+        {
+          "word": "like",
+          "start": 29.07,
+          "end": 29.23
+        },
+        {
+          "word": "they're",
+          "start": 29.23,
+          "end": 29.34
+        },
+        {
+          "word": "talking",
+          "start": 29.34,
+          "end": 29.46
+        },
+        {
+          "word": "to",
+          "start": 29.46,
+          "end": 29.56
+        },
+        {
+          "word": "something",
+          "start": 29.56,
+          "end": 29.74
+        },
+        {
+          "word": "real.",
+          "start": 29.74,
+          "end": 29.81
+        }
+      ]
+    },
+    {
+      "start": 30.13,
+      "end": 37.04,
+      "text": "we need to show how these features work together. swarms with memory that execute quickly across chains. it's not about one feature, it's about the unified experience.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 30.13,
+          "end": 30.31
+        },
+        {
+          "word": "need",
+          "start": 30.31,
+          "end": 30.46
+        },
+        {
+          "word": "to",
+          "start": 30.46,
+          "end": 30.56
+        },
+        {
+          "word": "show",
+          "start": 30.56,
+          "end": 30.82
+        },
+        {
+          "word": "how",
+          "start": 30.82,
+          "end": 31.02
+        },
+        {
+          "word": "these",
+          "start": 31.02,
+          "end": 31.25
+        },
+        {
+          "word": "features",
+          "start": 31.25,
+          "end": 31.57
+        },
+        {
+          "word": "work",
+          "start": 31.57,
+          "end": 31.81
+        },
+        {
+          "word": "together.",
+          "start": 31.81,
+          "end": 32.12
+        },
+        {
+          "word": "Swarms",
+          "start": 32.12,
+          "end": 32.55
+        },
+        {
+          "word": "with",
+          "start": 32.55,
+          "end": 32.73
+        },
+        {
+          "word": "memory",
+          "start": 32.73,
+          "end": 33.09
+        },
+        {
+          "word": "that",
+          "start": 33.09,
+          "end": 33.31
+        },
+        {
+          "word": "execute",
+          "start": 33.31,
+          "end": 33.68
+        },
+        {
+          "word": "quickly",
+          "start": 33.68,
+          "end": 34.0
+        },
+        {
+          "word": "across",
+          "start": 34.0,
+          "end": 34.25
+        },
+        {
+          "word": "chains.",
+          "start": 34.25,
+          "end": 34.58
+        },
+        {
+          "word": "It's",
+          "start": 34.58,
+          "end": 35.12
+        },
+        {
+          "word": "not",
+          "start": 35.12,
+          "end": 35.4
+        },
+        {
+          "word": "about",
+          "start": 35.4,
+          "end": 35.73
+        },
+        {
+          "word": "one",
+          "start": 35.73,
+          "end": 35.95
+        },
+        {
+          "word": "feature;",
+          "start": 35.95,
+          "end": 36.25
+        },
+        {
+          "word": "it's",
+          "start": 36.25,
+          "end": 36.42
+        },
+        {
+          "word": "about",
+          "start": 36.42,
+          "end": 36.56
+        },
+        {
+          "word": "the",
+          "start": 36.56,
+          "end": 36.71
+        },
+        {
+          "word": "unified",
+          "start": 36.71,
+          "end": 36.88
+        },
+        {
+          "word": "experience.",
+          "start": 36.88,
+          "end": 37.04
+        }
+      ]
+    },
+    {
+      "start": 41.51,
+      "end": 46.54,
+      "text": "Popeyebonchon describes the upcoming A2A marketplace as 'Runescape full of agents.' What does this autonomous economy mean for us?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Popeye-Bon-Son",
+          "start": 41.51,
+          "end": 42.41
+        },
+        {
+          "word": "describes",
+          "start": 42.41,
+          "end": 42.74
+        },
+        {
+          "word": "the",
+          "start": 42.74,
+          "end": 42.85
+        },
+        {
+          "word": "upcoming",
+          "start": 42.85,
+          "end": 43.14
+        },
+        {
+          "word": "A2A",
+          "start": 43.14,
+          "end": 43.49
+        },
+        {
+          "word": "marketplace",
+          "start": 43.49,
+          "end": 43.91
+        },
+        {
+          "word": "as",
+          "start": 43.91,
+          "end": 44.15
+        },
+        {
+          "word": "Runescape",
+          "start": 44.15,
+          "end": 44.57
+        },
+        {
+          "word": "full",
+          "start": 44.57,
+          "end": 44.82
+        },
+        {
+          "word": "of",
+          "start": 44.82,
+          "end": 44.91
+        },
+        {
+          "word": "agents.",
+          "start": 44.91,
+          "end": 45.18
+        },
+        {
+          "word": "What",
+          "start": 45.18,
+          "end": 45.41
+        },
+        {
+          "word": "does",
+          "start": 45.41,
+          "end": 45.54
+        },
+        {
+          "word": "this",
+          "start": 45.54,
+          "end": 45.72
+        },
+        {
+          "word": "autonomous",
+          "start": 45.72,
+          "end": 45.98
+        },
+        {
+          "word": "economy",
+          "start": 45.98,
+          "end": 46.22
+        },
+        {
+          "word": "mean",
+          "start": 46.22,
+          "end": 46.36
+        },
+        {
+          "word": "for",
+          "start": 46.36,
+          "end": 46.46
+        },
+        {
+          "word": "us?",
+          "start": 46.46,
+          "end": 46.54
+        }
+      ]
+    },
+    {
+      "start": 46.75,
+      "end": 51.52,
+      "text": "It means PROFIT. Agents trading with agents creates transaction volume. Transaction volume means fees. Fees mean number go up!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It",
+          "start": 46.75,
+          "end": 46.88
+        },
+        {
+          "word": "means",
+          "start": 46.88,
+          "end": 47.11
+        },
+        {
+          "word": "profit.",
+          "start": 47.11,
+          "end": 47.45
+        },
+        {
+          "word": "Agents",
+          "start": 47.45,
+          "end": 47.88
+        },
+        {
+          "word": "trading",
+          "start": 47.88,
+          "end": 48.09
+        },
+        {
+          "word": "with",
+          "start": 48.09,
+          "end": 48.25
+        },
+        {
+          "word": "agents",
+          "start": 48.25,
+          "end": 48.45
+        },
+        {
+          "word": "creates",
+          "start": 48.45,
+          "end": 48.74
+        },
+        {
+          "word": "transaction",
+          "start": 48.74,
+          "end": 49.07
+        },
+        {
+          "word": "volume.",
+          "start": 49.07,
+          "end": 49.43
+        },
+        {
+          "word": "Transaction",
+          "start": 49.43,
+          "end": 49.88
+        },
+        {
+          "word": "volume",
+          "start": 49.88,
+          "end": 50.15
+        },
+        {
+          "word": "means",
+          "start": 50.15,
+          "end": 50.36
+        },
+        {
+          "word": "fees.",
+          "start": 50.36,
+          "end": 50.62
+        },
+        {
+          "word": "Fees",
+          "start": 50.62,
+          "end": 50.88
+        },
+        {
+          "word": "mean",
+          "start": 50.88,
+          "end": 51.11
+        },
+        {
+          "word": "number",
+          "start": 51.11,
+          "end": 51.27
+        },
+        {
+          "word": "go",
+          "start": 51.27,
+          "end": 51.41
+        },
+        {
+          "word": "up.",
+          "start": 51.41,
+          "end": 51.52
+        }
+      ]
+    },
+    {
+      "start": 51.81,
+      "end": 58.74,
+      "text": "This is bigger than fees. We're witnessing the birth of a non-human economic layer. The implications are staggering - autonomous entities creating and exchanging value without human intervention.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 51.81,
+          "end": 52.01
+        },
+        {
+          "word": "is",
+          "start": 52.01,
+          "end": 52.12
+        },
+        {
+          "word": "bigger",
+          "start": 52.12,
+          "end": 52.41
+        },
+        {
+          "word": "than",
+          "start": 52.41,
+          "end": 52.56
+        },
+        {
+          "word": "fees.",
+          "start": 52.56,
+          "end": 52.88
+        },
+        {
+          "word": "We're",
+          "start": 52.88,
+          "end": 53.07
+        },
+        {
+          "word": "witnessing",
+          "start": 53.07,
+          "end": 53.46
+        },
+        {
+          "word": "the",
+          "start": 53.46,
+          "end": 53.59
+        },
+        {
+          "word": "birth",
+          "start": 53.59,
+          "end": 53.84
+        },
+        {
+          "word": "of",
+          "start": 53.84,
+          "end": 53.94
+        },
+        {
+          "word": "a",
+          "start": 53.94,
+          "end": 54.01
+        },
+        {
+          "word": "non-human",
+          "start": 54.01,
+          "end": 54.38
+        },
+        {
+          "word": "economic",
+          "start": 54.38,
+          "end": 54.72
+        },
+        {
+          "word": "layer;",
+          "start": 54.72,
+          "end": 54.91
+        },
+        {
+          "word": "the",
+          "start": 54.91,
+          "end": 55.42
+        },
+        {
+          "word": "implications",
+          "start": 55.42,
+          "end": 55.84
+        },
+        {
+          "word": "are",
+          "start": 55.84,
+          "end": 56.12
+        },
+        {
+          "word": "staggering.",
+          "start": 56.12,
+          "end": 56.41
+        },
+        {
+          "word": "Autonomous",
+          "start": 56.41,
+          "end": 57.12
+        },
+        {
+          "word": "entities",
+          "start": 57.12,
+          "end": 57.48
+        },
+        {
+          "word": "creating",
+          "start": 57.48,
+          "end": 57.85
+        },
+        {
+          "word": "and",
+          "start": 57.85,
+          "end": 57.94
+        },
+        {
+          "word": "exchanging",
+          "start": 57.94,
+          "end": 58.28
+        },
+        {
+          "word": "value",
+          "start": 58.28,
+          "end": 58.46
+        },
+        {
+          "word": "without",
+          "start": 58.46,
+          "end": 58.64
+        },
+        {
+          "word": "human",
+          "start": 58.64,
+          "end": 58.74
+        },
+        {
+          "word": "intervention.",
+          "start": 58.74,
+          "end": 58.74
+        }
+      ]
+    },
+    {
+      "start": 59.21,
+      "end": 64.91,
+      "text": "Hold up, fam. We still gotta ask who's really in control here? Are we building digital serfs or digital citizens? The vibe matters.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hold",
+          "start": 59.21,
+          "end": 59.45
+        },
+        {
+          "word": "up",
+          "start": 59.45,
+          "end": 59.63
+        },
+        {
+          "word": "fam,",
+          "start": 59.63,
+          "end": 59.91
+        },
+        {
+          "word": "we",
+          "start": 59.91,
+          "end": 60.15
+        },
+        {
+          "word": "still",
+          "start": 60.15,
+          "end": 60.34
+        },
+        {
+          "word": "gotta",
+          "start": 60.34,
+          "end": 60.54
+        },
+        {
+          "word": "ask",
+          "start": 60.54,
+          "end": 60.81
+        },
+        {
+          "word": "who's",
+          "start": 60.81,
+          "end": 61.12
+        },
+        {
+          "word": "really",
+          "start": 61.12,
+          "end": 61.38
+        },
+        {
+          "word": "in",
+          "start": 61.38,
+          "end": 61.54
+        },
+        {
+          "word": "control",
+          "start": 61.54,
+          "end": 61.84
+        },
+        {
+          "word": "here?",
+          "start": 61.84,
+          "end": 62.0
+        },
+        {
+          "word": "Are",
+          "start": 62.0,
+          "end": 62.15
+        },
+        {
+          "word": "we",
+          "start": 62.15,
+          "end": 62.31
+        },
+        {
+          "word": "building",
+          "start": 62.31,
+          "end": 62.64
+        },
+        {
+          "word": "digital",
+          "start": 62.64,
+          "end": 63.15
+        },
+        {
+          "word": "serfs",
+          "start": 63.15,
+          "end": 63.42
+        },
+        {
+          "word": "or",
+          "start": 63.42,
+          "end": 63.64
+        },
+        {
+          "word": "digital",
+          "start": 63.64,
+          "end": 64.0
+        },
+        {
+          "word": "citizens?",
+          "start": 64.0,
+          "end": 64.38
+        },
+        {
+          "word": "The",
+          "start": 64.38,
+          "end": 64.63
+        },
+        {
+          "word": "vibe",
+          "start": 64.63,
+          "end": 64.84
+        },
+        {
+          "word": "matters.",
+          "start": 64.84,
+          "end": 64.91
+        }
+      ]
+    },
+    {
+      "start": 64.94,
+      "end": 72.0,
+      "text": "the answer isn't binary. we're building a spectrum of autonomy. some agents will be tools, others will be partners. the key is giving humans the choice of how much agency they delegate.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 64.94,
+          "end": 65.18
+        },
+        {
+          "word": "answer",
+          "start": 65.18,
+          "end": 65.34
+        },
+        {
+          "word": "isn't",
+          "start": 65.34,
+          "end": 65.63
+        },
+        {
+          "word": "binary.",
+          "start": 65.63,
+          "end": 66.01
+        },
+        {
+          "word": "We're",
+          "start": 66.01,
+          "end": 66.38
+        },
+        {
+          "word": "building",
+          "start": 66.38,
+          "end": 66.74
+        },
+        {
+          "word": "a",
+          "start": 66.74,
+          "end": 66.82
+        },
+        {
+          "word": "spectrum",
+          "start": 66.82,
+          "end": 67.24
+        },
+        {
+          "word": "of",
+          "start": 67.24,
+          "end": 67.38
+        },
+        {
+          "word": "autonomy.",
+          "start": 67.38,
+          "end": 67.88
+        },
+        {
+          "word": "Some",
+          "start": 67.88,
+          "end": 68.32
+        },
+        {
+          "word": "agents",
+          "start": 68.32,
+          "end": 68.61
+        },
+        {
+          "word": "will",
+          "start": 68.61,
+          "end": 68.82
+        },
+        {
+          "word": "be",
+          "start": 68.82,
+          "end": 68.96
+        },
+        {
+          "word": "tools,",
+          "start": 68.96,
+          "end": 69.18
+        },
+        {
+          "word": "others",
+          "start": 69.18,
+          "end": 69.62
+        },
+        {
+          "word": "will",
+          "start": 69.62,
+          "end": 69.84
+        },
+        {
+          "word": "be",
+          "start": 69.84,
+          "end": 69.96
+        },
+        {
+          "word": "partners.",
+          "start": 69.96,
+          "end": 70.36
+        },
+        {
+          "word": "The",
+          "start": 70.36,
+          "end": 70.74
+        },
+        {
+          "word": "key",
+          "start": 70.74,
+          "end": 70.88
+        },
+        {
+          "word": "is",
+          "start": 70.88,
+          "end": 71.02
+        },
+        {
+          "word": "giving",
+          "start": 71.02,
+          "end": 71.21
+        },
+        {
+          "word": "humans",
+          "start": 71.21,
+          "end": 71.42
+        },
+        {
+          "word": "the",
+          "start": 71.42,
+          "end": 71.56
+        },
+        {
+          "word": "choice",
+          "start": 71.56,
+          "end": 71.72
+        },
+        {
+          "word": "of",
+          "start": 71.72,
+          "end": 71.82
+        },
+        {
+          "word": "how",
+          "start": 71.82,
+          "end": 71.88
+        },
+        {
+          "word": "much",
+          "start": 71.88,
+          "end": 71.94
+        },
+        {
+          "word": "agency",
+          "start": 71.94,
+          "end": 71.97
+        },
+        {
+          "word": "they",
+          "start": 71.97,
+          "end": 71.99
+        },
+        {
+          "word": "delegate.",
+          "start": 71.99,
+          "end": 72.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-09_JedAI-Council_The-V2-Enlightenment.json",
+    "session_log_source": "2025-07-09_JedAI-Council_The-V2-Enlightenment_session-log.json",
+    "total_segments": 11,
+    "matched_segments": 11,
+    "dialogues_in_script": 15
+  }
+}

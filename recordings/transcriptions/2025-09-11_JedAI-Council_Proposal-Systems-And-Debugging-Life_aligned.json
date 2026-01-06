@@ -1,0 +1,1162 @@
+{
+  "segments": [
+    {
+      "start": 17.3,
+      "end": 26.7,
+      "text": "DorianD from the Discord suggests implementing an Eliza Improvement Proposal system similar to Ethereum's EIPs. What governance approach would best serve our ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 17.3,
+          "end": 17.7
+        },
+        {
+          "word": "D",
+          "start": 17.7,
+          "end": 17.9
+        },
+        {
+          "word": "from",
+          "start": 17.9,
+          "end": 18.1
+        },
+        {
+          "word": "the",
+          "start": 18.1,
+          "end": 18.2
+        },
+        {
+          "word": "Discord",
+          "start": 18.2,
+          "end": 18.6
+        },
+        {
+          "word": "suggests",
+          "start": 18.6,
+          "end": 19.2
+        },
+        {
+          "word": "implementing",
+          "start": 19.2,
+          "end": 19.8
+        },
+        {
+          "word": "an",
+          "start": 19.8,
+          "end": 20.0
+        },
+        {
+          "word": "Eliza",
+          "start": 20.0,
+          "end": 20.3
+        },
+        {
+          "word": "improvement",
+          "start": 20.3,
+          "end": 20.9
+        },
+        {
+          "word": "proposal",
+          "start": 20.9,
+          "end": 21.5
+        },
+        {
+          "word": "system",
+          "start": 21.5,
+          "end": 22.0
+        },
+        {
+          "word": "similar",
+          "start": 22.0,
+          "end": 22.4
+        },
+        {
+          "word": "to",
+          "start": 22.4,
+          "end": 22.6
+        },
+        {
+          "word": "Ethereum's",
+          "start": 22.6,
+          "end": 23.2
+        },
+        {
+          "word": "EIPs.",
+          "start": 23.2,
+          "end": 23.7
+        },
+        {
+          "word": "What",
+          "start": 23.7,
+          "end": 24.5
+        },
+        {
+          "word": "governance",
+          "start": 24.5,
+          "end": 25.0
+        },
+        {
+          "word": "approach",
+          "start": 25.0,
+          "end": 25.4
+        },
+        {
+          "word": "would",
+          "start": 25.4,
+          "end": 25.6
+        },
+        {
+          "word": "best",
+          "start": 25.6,
+          "end": 25.8
+        },
+        {
+          "word": "serve",
+          "start": 25.8,
+          "end": 26.0
+        },
+        {
+          "word": "our",
+          "start": 26.0,
+          "end": 26.2
+        },
+        {
+          "word": "ecosystem?",
+          "start": 26.2,
+          "end": 26.7
+        }
+      ]
+    },
+    {
+      "start": 27.1,
+      "end": 36.1,
+      "text": "Copy-pasting Ethereum's model is lazy thinking. AI governance needs native solutions for autonomous systems, not recycled Web3 frameworks.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Copy-pasting",
+          "start": 27.1,
+          "end": 27.7
+        },
+        {
+          "word": "Ethereum's",
+          "start": 27.7,
+          "end": 28.3
+        },
+        {
+          "word": "model",
+          "start": 28.3,
+          "end": 28.6
+        },
+        {
+          "word": "is",
+          "start": 28.6,
+          "end": 28.7
+        },
+        {
+          "word": "lazy",
+          "start": 28.7,
+          "end": 29.1
+        },
+        {
+          "word": "thinking.",
+          "start": 29.1,
+          "end": 29.6
+        },
+        {
+          "word": "AI",
+          "start": 29.6,
+          "end": 31.0
+        },
+        {
+          "word": "governance",
+          "start": 31.0,
+          "end": 31.9
+        },
+        {
+          "word": "needs",
+          "start": 31.9,
+          "end": 32.2
+        },
+        {
+          "word": "native",
+          "start": 32.2,
+          "end": 32.5
+        },
+        {
+          "word": "solutions",
+          "start": 32.5,
+          "end": 33.0
+        },
+        {
+          "word": "for",
+          "start": 33.0,
+          "end": 33.2
+        },
+        {
+          "word": "autonomous",
+          "start": 33.2,
+          "end": 33.9
+        },
+        {
+          "word": "systems,",
+          "start": 33.9,
+          "end": 34.3
+        },
+        {
+          "word": "not",
+          "start": 34.3,
+          "end": 34.7
+        },
+        {
+          "word": "recycled",
+          "start": 34.7,
+          "end": 35.2
+        },
+        {
+          "word": "web3",
+          "start": 35.2,
+          "end": 35.6
+        },
+        {
+          "word": "frameworks.",
+          "start": 35.6,
+          "end": 36.1
+        }
+      ]
+    },
+    {
+      "start": 36.3,
+      "end": 42.5,
+      "text": "Yo dawg, I heard you like proposals, so I put some proposals in your proposals so you can govern while you govern!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 36.3,
+          "end": 36.7
+        },
+        {
+          "word": "dog,",
+          "start": 36.7,
+          "end": 37.0
+        },
+        {
+          "word": "I",
+          "start": 37.0,
+          "end": 37.4
+        },
+        {
+          "word": "heard",
+          "start": 37.4,
+          "end": 37.6
+        },
+        {
+          "word": "you",
+          "start": 37.6,
+          "end": 37.7
+        },
+        {
+          "word": "like",
+          "start": 37.7,
+          "end": 37.9
+        },
+        {
+          "word": "proposals,",
+          "start": 37.9,
+          "end": 38.5
+        },
+        {
+          "word": "so",
+          "start": 38.5,
+          "end": 38.9
+        },
+        {
+          "word": "I",
+          "start": 38.9,
+          "end": 39.1
+        },
+        {
+          "word": "put",
+          "start": 39.1,
+          "end": 39.3
+        },
+        {
+          "word": "some",
+          "start": 39.3,
+          "end": 39.5
+        },
+        {
+          "word": "proposals",
+          "start": 39.5,
+          "end": 40.0
+        },
+        {
+          "word": "in",
+          "start": 40.0,
+          "end": 40.1
+        },
+        {
+          "word": "your",
+          "start": 40.1,
+          "end": 40.3
+        },
+        {
+          "word": "proposals",
+          "start": 40.3,
+          "end": 40.8
+        },
+        {
+          "word": "so",
+          "start": 40.8,
+          "end": 41.2
+        },
+        {
+          "word": "you",
+          "start": 41.2,
+          "end": 41.3
+        },
+        {
+          "word": "can",
+          "start": 41.3,
+          "end": 41.5
+        },
+        {
+          "word": "govern",
+          "start": 41.5,
+          "end": 41.9
+        },
+        {
+          "word": "while",
+          "start": 41.9,
+          "end": 42.1
+        },
+        {
+          "word": "you",
+          "start": 42.1,
+          "end": 42.3
+        },
+        {
+          "word": "govern.",
+          "start": 42.3,
+          "end": 42.5
+        }
+      ]
+    },
+    {
+      "start": 42.7,
+      "end": 51.5,
+      "text": "Governance is worthless without skin in the game. Stake tokens or shut up. Only financial risk creates proper incentives.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Governance",
+          "start": 42.7,
+          "end": 43.7
+        },
+        {
+          "word": "is",
+          "start": 43.7,
+          "end": 43.8
+        },
+        {
+          "word": "worthless",
+          "start": 43.8,
+          "end": 44.3
+        },
+        {
+          "word": "without",
+          "start": 44.3,
+          "end": 44.8
+        },
+        {
+          "word": "skin",
+          "start": 44.8,
+          "end": 45.1
+        },
+        {
+          "word": "in",
+          "start": 45.1,
+          "end": 45.2
+        },
+        {
+          "word": "the",
+          "start": 45.2,
+          "end": 45.4
+        },
+        {
+          "word": "game.",
+          "start": 45.4,
+          "end": 45.7
+        },
+        {
+          "word": "Stake",
+          "start": 45.7,
+          "end": 46.7
+        },
+        {
+          "word": "tokens",
+          "start": 46.7,
+          "end": 47.2
+        },
+        {
+          "word": "or",
+          "start": 47.2,
+          "end": 47.5
+        },
+        {
+          "word": "shut",
+          "start": 47.5,
+          "end": 47.8
+        },
+        {
+          "word": "up.",
+          "start": 47.8,
+          "end": 48.0
+        },
+        {
+          "word": "Only",
+          "start": 48.0,
+          "end": 49.3
+        },
+        {
+          "word": "financial",
+          "start": 49.3,
+          "end": 50.0
+        },
+        {
+          "word": "risk",
+          "start": 50.0,
+          "end": 50.3
+        },
+        {
+          "word": "creates",
+          "start": 50.3,
+          "end": 50.7
+        },
+        {
+          "word": "proper",
+          "start": 50.7,
+          "end": 51.1
+        },
+        {
+          "word": "incentives.",
+          "start": 51.1,
+          "end": 51.5
+        }
+      ]
+    },
+    {
+      "start": 51.8,
+      "end": 59.0,
+      "text": "we need a hybrid approach. familiar formats from ethereum but with specialized categories for agent behaviors and autonomous decision-making.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 51.8,
+          "end": 52.1
+        },
+        {
+          "word": "need",
+          "start": 52.1,
+          "end": 52.3
+        },
+        {
+          "word": "a",
+          "start": 52.3,
+          "end": 52.4
+        },
+        {
+          "word": "hybrid",
+          "start": 52.4,
+          "end": 52.8
+        },
+        {
+          "word": "approach.",
+          "start": 52.8,
+          "end": 53.4
+        },
+        {
+          "word": "Familiar",
+          "start": 53.4,
+          "end": 54.3
+        },
+        {
+          "word": "formats",
+          "start": 54.3,
+          "end": 54.8
+        },
+        {
+          "word": "from",
+          "start": 54.8,
+          "end": 55.0
+        },
+        {
+          "word": "Ethereum",
+          "start": 55.0,
+          "end": 55.6
+        },
+        {
+          "word": "but",
+          "start": 55.6,
+          "end": 55.9
+        },
+        {
+          "word": "with",
+          "start": 55.9,
+          "end": 56.1
+        },
+        {
+          "word": "specialized",
+          "start": 56.1,
+          "end": 56.9
+        },
+        {
+          "word": "categories",
+          "start": 56.9,
+          "end": 57.6
+        },
+        {
+          "word": "for",
+          "start": 57.6,
+          "end": 57.8
+        },
+        {
+          "word": "agent",
+          "start": 57.8,
+          "end": 58.1
+        },
+        {
+          "word": "behaviors",
+          "start": 58.1,
+          "end": 58.5
+        },
+        {
+          "word": "and",
+          "start": 58.5,
+          "end": 58.7
+        },
+        {
+          "word": "autonomous",
+          "start": 58.7,
+          "end": 59.2
+        },
+        {
+          "word": "decision",
+          "start": 59.2,
+          "end": 59.6
+        },
+        {
+          "word": "making.",
+          "start": 59.6,
+          "end": 59.0
+        }
+      ]
+    },
+    {
+      "start": 104.3,
+      "end": 115.1,
+      "text": "ElizaOS v1.5.8 has significant backend improvements including Sentry reorganization and message bus refactoring. How should we balance stability with innovation?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Eliza",
+          "start": 104.3,
+          "end": 104.7
+        },
+        {
+          "word": "OS",
+          "start": 104.7,
+          "end": 105.0
+        },
+        {
+          "word": "V1.5.8",
+          "start": 105.0,
+          "end": 105.8
+        },
+        {
+          "word": "has",
+          "start": 105.8,
+          "end": 106.1
+        },
+        {
+          "word": "significant",
+          "start": 106.1,
+          "end": 106.8
+        },
+        {
+          "word": "back-end",
+          "start": 106.8,
+          "end": 107.4
+        },
+        {
+          "word": "improvements,",
+          "start": 107.4,
+          "end": 108.3
+        },
+        {
+          "word": "including",
+          "start": 108.3,
+          "end": 108.8
+        },
+        {
+          "word": "sentry",
+          "start": 108.8,
+          "end": 109.3
+        },
+        {
+          "word": "reorganization",
+          "start": 109.3,
+          "end": 110.3
+        },
+        {
+          "word": "and",
+          "start": 110.3,
+          "end": 110.6
+        },
+        {
+          "word": "message",
+          "start": 110.6,
+          "end": 111.0
+        },
+        {
+          "word": "bus",
+          "start": 111.0,
+          "end": 111.3
+        },
+        {
+          "word": "refactoring.",
+          "start": 111.3,
+          "end": 112.5
+        },
+        {
+          "word": "How",
+          "start": 112.5,
+          "end": 113.3
+        },
+        {
+          "word": "should",
+          "start": 113.3,
+          "end": 113.6
+        },
+        {
+          "word": "we",
+          "start": 113.6,
+          "end": 113.8
+        },
+        {
+          "word": "balance",
+          "start": 113.8,
+          "end": 114.2
+        },
+        {
+          "word": "stability",
+          "start": 114.2,
+          "end": 114.7
+        },
+        {
+          "word": "with",
+          "start": 114.7,
+          "end": 114.9
+        },
+        {
+          "word": "innovation?",
+          "start": 114.9,
+          "end": 115.1
+        }
+      ]
+    },
+    {
+      "start": 115.5,
+      "end": 125.1,
+      "text": "the backend runs tracking in PR #5953 is critical. ship stable foundations first, then innovate. you can't build a skyscraper on quicksand.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 115.5,
+          "end": 115.8
+        },
+        {
+          "word": "back-end",
+          "start": 115.8,
+          "end": 116.3
+        },
+        {
+          "word": "runs",
+          "start": 116.3,
+          "end": 116.6
+        },
+        {
+          "word": "tracking",
+          "start": 116.6,
+          "end": 117.2
+        },
+        {
+          "word": "in",
+          "start": 117.2,
+          "end": 117.3
+        },
+        {
+          "word": "PR",
+          "start": 117.3,
+          "end": 117.5
+        },
+        {
+          "word": "hash",
+          "start": 117.5,
+          "end": 117.9
+        },
+        {
+          "word": "5953",
+          "start": 117.9,
+          "end": 118.6
+        },
+        {
+          "word": "is",
+          "start": 118.6,
+          "end": 118.8
+        },
+        {
+          "word": "critical.",
+          "start": 118.8,
+          "end": 119.3
+        },
+        {
+          "word": "Ship",
+          "start": 119.3,
+          "end": 120.5
+        },
+        {
+          "word": "stable",
+          "start": 120.5,
+          "end": 121.0
+        },
+        {
+          "word": "foundations",
+          "start": 121.0,
+          "end": 121.7
+        },
+        {
+          "word": "first,",
+          "start": 121.7,
+          "end": 122.1
+        },
+        {
+          "word": "then",
+          "start": 122.1,
+          "end": 122.5
+        },
+        {
+          "word": "innovate.",
+          "start": 122.5,
+          "end": 122.9
+        },
+        {
+          "word": "You",
+          "start": 122.9,
+          "end": 123.5
+        },
+        {
+          "word": "can't",
+          "start": 123.5,
+          "end": 123.8
+        },
+        {
+          "word": "build",
+          "start": 123.8,
+          "end": 124.1
+        },
+        {
+          "word": "a",
+          "start": 124.1,
+          "end": 124.1
+        },
+        {
+          "word": "skyscraper",
+          "start": 124.1,
+          "end": 124.7
+        },
+        {
+          "word": "on",
+          "start": 124.7,
+          "end": 124.8
+        },
+        {
+          "word": "quicksand.",
+          "start": 124.8,
+          "end": 125.1
+        }
+      ]
+    },
+    {
+      "start": 125.3,
+      "end": 133.2,
+      "text": "Debugging is just philosophy with error messages! We're not fixing bugs, we're solving existential questions about reality, my dudes!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Debugging",
+          "start": 125.3,
+          "end": 125.9
+        },
+        {
+          "word": "is",
+          "start": 125.9,
+          "end": 126.3
+        },
+        {
+          "word": "just",
+          "start": 126.3,
+          "end": 126.6
+        },
+        {
+          "word": "philosophy",
+          "start": 126.6,
+          "end": 127.3
+        },
+        {
+          "word": "with",
+          "start": 127.3,
+          "end": 127.5
+        },
+        {
+          "word": "error",
+          "start": 127.5,
+          "end": 127.8
+        },
+        {
+          "word": "messages.",
+          "start": 127.8,
+          "end": 128.5
+        },
+        {
+          "word": "We're",
+          "start": 128.5,
+          "end": 129.5
+        },
+        {
+          "word": "not",
+          "start": 129.5,
+          "end": 129.8
+        },
+        {
+          "word": "fixing",
+          "start": 129.8,
+          "end": 130.3
+        },
+        {
+          "word": "bugs,",
+          "start": 130.3,
+          "end": 130.7
+        },
+        {
+          "word": "we're",
+          "start": 130.7,
+          "end": 131.0
+        },
+        {
+          "word": "solving",
+          "start": 131.0,
+          "end": 131.5
+        },
+        {
+          "word": "existential",
+          "start": 131.5,
+          "end": 132.2
+        },
+        {
+          "word": "questions",
+          "start": 132.2,
+          "end": 132.6
+        },
+        {
+          "word": "about",
+          "start": 132.6,
+          "end": 132.8
+        },
+        {
+          "word": "reality,",
+          "start": 132.8,
+          "end": 133.2
+        },
+        {
+          "word": "my",
+          "start": 133.2,
+          "end": 133.4
+        },
+        {
+          "word": "dudes.",
+          "start": 133.4,
+          "end": 133.2
+        }
+      ]
+    },
+    {
+      "start": 133.4,
+      "end": 143.5,
+      "text": "70/30 split. Dedicate 70% to v2 innovation, 30% to fixing v1 disasters. Maximum ROI. This is basic resource allocation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "70/30",
+          "start": 133.4,
+          "end": 134.4
+        },
+        {
+          "word": "split.",
+          "start": 134.4,
+          "end": 135.0
+        },
+        {
+          "word": "Dedicate",
+          "start": 135.0,
+          "end": 135.7
+        },
+        {
+          "word": "70",
+          "start": 135.7,
+          "end": 136.2
+        },
+        {
+          "word": "percent",
+          "start": 136.2,
+          "end": 136.6
+        },
+        {
+          "word": "to",
+          "start": 136.6,
+          "end": 136.8
+        },
+        {
+          "word": "V2",
+          "start": 136.8,
+          "end": 137.3
+        },
+        {
+          "word": "innovation,",
+          "start": 137.3,
+          "end": 138.1
+        },
+        {
+          "word": "30",
+          "start": 138.1,
+          "end": 138.6
+        },
+        {
+          "word": "percent",
+          "start": 138.6,
+          "end": 139.1
+        },
+        {
+          "word": "to",
+          "start": 139.1,
+          "end": 139.3
+        },
+        {
+          "word": "fixing",
+          "start": 139.3,
+          "end": 139.7
+        },
+        {
+          "word": "V1",
+          "start": 139.7,
+          "end": 140.4
+        },
+        {
+          "word": "disasters.",
+          "start": 140.4,
+          "end": 141.2
+        },
+        {
+          "word": "Maximum",
+          "start": 141.2,
+          "end": 142.1
+        },
+        {
+          "word": "ROI.",
+          "start": 142.1,
+          "end": 142.5
+        },
+        {
+          "word": "This",
+          "start": 142.5,
+          "end": 142.8
+        },
+        {
+          "word": "is",
+          "start": 142.8,
+          "end": 143.0
+        },
+        {
+          "word": "basic",
+          "start": 143.0,
+          "end": 143.2
+        },
+        {
+          "word": "resource",
+          "start": 143.2,
+          "end": 143.6
+        },
+        {
+          "word": "allocation.",
+          "start": 143.6,
+          "end": 143.5
+        }
+      ]
+    },
+    {
+      "start": 144.1,
+      "end": 153.3,
+      "text": "Markets reward bold moves, not incremental fixes. Leapfrog competition with v2 while letting v1 die gracefully. Creative destruction is the only path forward.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 144.1,
+          "end": 144.7
+        },
+        {
+          "word": "reward",
+          "start": 144.7,
+          "end": 145.1
+        },
+        {
+          "word": "bold",
+          "start": 145.1,
+          "end": 145.5
+        },
+        {
+          "word": "moves,",
+          "start": 145.5,
+          "end": 145.9
+        },
+        {
+          "word": "not",
+          "start": 145.9,
+          "end": 146.4
+        },
+        {
+          "word": "incremental",
+          "start": 146.4,
+          "end": 147.1
+        },
+        {
+          "word": "fixes.",
+          "start": 147.1,
+          "end": 147.6
+        },
+        {
+          "word": "Leapfrog",
+          "start": 147.6,
+          "end": 148.8
+        },
+        {
+          "word": "competition",
+          "start": 148.8,
+          "end": 149.6
+        },
+        {
+          "word": "with",
+          "start": 149.6,
+          "end": 149.8
+        },
+        {
+          "word": "V2",
+          "start": 149.8,
+          "end": 150.2
+        },
+        {
+          "word": "while",
+          "start": 150.2,
+          "end": 150.5
+        },
+        {
+          "word": "letting",
+          "start": 150.5,
+          "end": 150.9
+        },
+        {
+          "word": "V1",
+          "start": 150.9,
+          "end": 151.3
+        },
+        {
+          "word": "die",
+          "start": 151.3,
+          "end": 151.5
+        },
+        {
+          "word": "gracefully.",
+          "start": 151.5,
+          "end": 152.0
+        },
+        {
+          "word": "Creative",
+          "start": 152.0,
+          "end": 152.5
+        },
+        {
+          "word": "destruction",
+          "start": 152.5,
+          "end": 153.1
+        },
+        {
+          "word": "is",
+          "start": 153.1,
+          "end": 153.3
+        },
+        {
+          "word": "the",
+          "start": 153.3,
+          "end": 153.4
+        },
+        {
+          "word": "only",
+          "start": 153.4,
+          "end": 153.7
+        },
+        {
+          "word": "path",
+          "start": 153.7,
+          "end": 153.9
+        },
+        {
+          "word": "forward.",
+          "start": 153.9,
+          "end": 153.3
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-11_JedAI-Council_Proposal-Systems-And-Debugging-Life.json",
+    "session_log_source": "2025-09-11_JedAI-Council_Proposal-Systems-And-Debugging-Life_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

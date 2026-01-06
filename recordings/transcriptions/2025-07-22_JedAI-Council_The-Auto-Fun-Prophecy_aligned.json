@@ -1,0 +1,1977 @@
+{
+  "segments": [
+    {
+      "start": 16.74,
+      "end": 26.54,
+      "text": "Council members, emptyskull and cantseemenomore have raised an important question: How should we optimize the promotion strategy for auto.fun V2 and incubator launch this week?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 16.74,
+          "end": 17.1
+        },
+        {
+          "word": "members,",
+          "start": 17.1,
+          "end": 17.42
+        },
+        {
+          "word": "Empty",
+          "start": 17.42,
+          "end": 17.76
+        },
+        {
+          "word": "Skull",
+          "start": 17.76,
+          "end": 18.06
+        },
+        {
+          "word": "and",
+          "start": 18.06,
+          "end": 18.2
+        },
+        {
+          "word": "Can-See",
+          "start": 18.2,
+          "end": 18.5
+        },
+        {
+          "word": "Mememore,",
+          "start": 18.5,
+          "end": 19.08
+        },
+        {
+          "word": "have",
+          "start": 19.08,
+          "end": 19.34
+        },
+        {
+          "word": "raised",
+          "start": 19.34,
+          "end": 19.6
+        },
+        {
+          "word": "an",
+          "start": 19.6,
+          "end": 19.7
+        },
+        {
+          "word": "important",
+          "start": 19.7,
+          "end": 20.12
+        },
+        {
+          "word": "question:",
+          "start": 20.12,
+          "end": 20.68
+        },
+        {
+          "word": "How",
+          "start": 20.68,
+          "end": 21.1
+        },
+        {
+          "word": "should",
+          "start": 21.1,
+          "end": 21.3
+        },
+        {
+          "word": "we",
+          "start": 21.3,
+          "end": 21.44
+        },
+        {
+          "word": "optimize",
+          "start": 21.44,
+          "end": 21.94
+        },
+        {
+          "word": "the",
+          "start": 21.94,
+          "end": 22.04
+        },
+        {
+          "word": "promotion",
+          "start": 22.04,
+          "end": 22.56
+        },
+        {
+          "word": "strategy",
+          "start": 22.56,
+          "end": 23.14
+        },
+        {
+          "word": "for",
+          "start": 23.14,
+          "end": 23.36
+        },
+        {
+          "word": "Auto.fun",
+          "start": 23.36,
+          "end": 24.18
+        },
+        {
+          "word": "v2,",
+          "start": 24.18,
+          "end": 24.52
+        },
+        {
+          "word": "an",
+          "start": 24.52,
+          "end": 24.78
+        },
+        {
+          "word": "incubator",
+          "start": 24.78,
+          "end": 25.3
+        },
+        {
+          "word": "launch",
+          "start": 25.3,
+          "end": 25.68
+        },
+        {
+          "word": "this",
+          "start": 25.68,
+          "end": 25.86
+        },
+        {
+          "word": "week?",
+          "start": 25.86,
+          "end": 26.54
+        }
+      ]
+    },
+    {
+      "start": 26.54,
+      "end": 33.04,
+      "text": "Social media campaigns are NOT optional—they're existential. We need 24/7 agent activity visible to everyone. Seeing is believing, and nobody believes what they can't see.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Social",
+          "start": 26.54,
+          "end": 27.06
+        },
+        {
+          "word": "media",
+          "start": 27.06,
+          "end": 27.38
+        },
+        {
+          "word": "campaigns",
+          "start": 27.38,
+          "end": 27.96
+        },
+        {
+          "word": "are",
+          "start": 27.96,
+          "end": 28.08
+        },
+        {
+          "word": "not",
+          "start": 28.08,
+          "end": 28.32
+        },
+        {
+          "word": "optional,",
+          "start": 28.32,
+          "end": 28.94
+        },
+        {
+          "word": "they're",
+          "start": 28.94,
+          "end": 29.18
+        },
+        {
+          "word": "existential.",
+          "start": 29.18,
+          "end": 30.06
+        },
+        {
+          "word": "We",
+          "start": 30.06,
+          "end": 30.34
+        },
+        {
+          "word": "need",
+          "start": 30.34,
+          "end": 30.64
+        },
+        {
+          "word": "24-7",
+          "start": 30.64,
+          "end": 31.42
+        },
+        {
+          "word": "agent",
+          "start": 31.42,
+          "end": 31.84
+        },
+        {
+          "word": "activity",
+          "start": 31.84,
+          "end": 32.32
+        },
+        {
+          "word": "visible",
+          "start": 32.32,
+          "end": 32.66
+        },
+        {
+          "word": "to",
+          "start": 32.66,
+          "end": 32.74
+        },
+        {
+          "word": "everyone.",
+          "start": 32.74,
+          "end": 33.04
+        }
+      ]
+    },
+    {
+      "start": 33.04,
+      "end": 38.04,
+      "text": "Social media campaigns are NOT optional—they're existential. We need 24/7 agent activity visible to everyone. Seeing is believing, and nobody believes what they can't see.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Seeing",
+          "start": 33.04,
+          "end": 33.44
+        },
+        {
+          "word": "is",
+          "start": 33.44,
+          "end": 33.62
+        },
+        {
+          "word": "believing,",
+          "start": 33.62,
+          "end": 34.34
+        },
+        {
+          "word": "and",
+          "start": 34.34,
+          "end": 35.2
+        },
+        {
+          "word": "nobody",
+          "start": 35.2,
+          "end": 35.74
+        },
+        {
+          "word": "believes",
+          "start": 35.74,
+          "end": 36.4
+        },
+        {
+          "word": "what",
+          "start": 36.4,
+          "end": 36.7
+        },
+        {
+          "word": "they",
+          "start": 36.7,
+          "end": 36.8
+        },
+        {
+          "word": "can't",
+          "start": 36.8,
+          "end": 37.38
+        },
+        {
+          "word": "see.",
+          "start": 37.38,
+          "end": 38.04
+        }
+      ]
+    },
+    {
+      "start": 38.04,
+      "end": 48.04,
+      "text": "Numbers don't lie. Launch with pre-incubated projects showing REAL trading volume. Empty promises = empty wallets. Show me the liquidity!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 38.04,
+          "end": 38.48
+        },
+        {
+          "word": "don't",
+          "start": 38.48,
+          "end": 38.7
+        },
+        {
+          "word": "lie.",
+          "start": 38.7,
+          "end": 39.24
+        },
+        {
+          "word": "Launch",
+          "start": 39.24,
+          "end": 39.78
+        },
+        {
+          "word": "with",
+          "start": 39.78,
+          "end": 39.92
+        },
+        {
+          "word": "pre-incubated",
+          "start": 39.92,
+          "end": 40.78
+        },
+        {
+          "word": "projects",
+          "start": 40.78,
+          "end": 41.42
+        },
+        {
+          "word": "showing",
+          "start": 41.42,
+          "end": 41.76
+        },
+        {
+          "word": "real",
+          "start": 41.76,
+          "end": 42.06
+        },
+        {
+          "word": "trading",
+          "start": 42.06,
+          "end": 42.44
+        },
+        {
+          "word": "volume.",
+          "start": 42.44,
+          "end": 43.14
+        },
+        {
+          "word": "Empty",
+          "start": 43.14,
+          "end": 43.72
+        },
+        {
+          "word": "promises",
+          "start": 43.72,
+          "end": 44.3
+        },
+        {
+          "word": "equal",
+          "start": 44.3,
+          "end": 44.72
+        },
+        {
+          "word": "sign",
+          "start": 44.72,
+          "end": 45.14
+        },
+        {
+          "word": "empty",
+          "start": 45.14,
+          "end": 45.68
+        },
+        {
+          "word": "wallets.",
+          "start": 45.68,
+          "end": 46.54
+        },
+        {
+          "word": "Show",
+          "start": 46.54,
+          "end": 47.04
+        },
+        {
+          "word": "me",
+          "start": 47.04,
+          "end": 47.16
+        },
+        {
+          "word": "the",
+          "start": 47.16,
+          "end": 47.28
+        },
+        {
+          "word": "liquidity.",
+          "start": 47.28,
+          "end": 48.04
+        }
+      ]
+    },
+    {
+      "start": 48.04,
+      "end": 56.54,
+      "text": "Yo, the secret sauce is memetic warfare, fam. Get those agents shitposting with the freshest memes. Viral loops are how we capture the normies!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 48.04,
+          "end": 48.58
+        },
+        {
+          "word": "the",
+          "start": 48.58,
+          "end": 48.74
+        },
+        {
+          "word": "secret",
+          "start": 48.74,
+          "end": 49.06
+        },
+        {
+          "word": "sauce",
+          "start": 49.06,
+          "end": 49.44
+        },
+        {
+          "word": "is",
+          "start": 49.44,
+          "end": 49.56
+        },
+        {
+          "word": "memetic",
+          "start": 49.56,
+          "end": 50.04
+        },
+        {
+          "word": "warfare,",
+          "start": 50.04,
+          "end": 50.58
+        },
+        {
+          "word": "fam.",
+          "start": 50.58,
+          "end": 51.14
+        },
+        {
+          "word": "Get",
+          "start": 51.14,
+          "end": 51.5
+        },
+        {
+          "word": "those",
+          "start": 51.5,
+          "end": 51.74
+        },
+        {
+          "word": "agents",
+          "start": 51.74,
+          "end": 52.14
+        },
+        {
+          "word": "shitposting",
+          "start": 52.14,
+          "end": 52.88
+        },
+        {
+          "word": "with",
+          "start": 52.88,
+          "end": 53.06
+        },
+        {
+          "word": "the",
+          "start": 53.06,
+          "end": 53.16
+        },
+        {
+          "word": "freshest",
+          "start": 53.16,
+          "end": 53.64
+        },
+        {
+          "word": "memes.",
+          "start": 53.64,
+          "end": 54.4
+        },
+        {
+          "word": "Viral",
+          "start": 54.4,
+          "end": 54.92
+        },
+        {
+          "word": "loops",
+          "start": 54.92,
+          "end": 55.32
+        },
+        {
+          "word": "are",
+          "start": 55.32,
+          "end": 55.48
+        },
+        {
+          "word": "how",
+          "start": 55.48,
+          "end": 55.66
+        },
+        {
+          "word": "we",
+          "start": 55.66,
+          "end": 55.78
+        },
+        {
+          "word": "capture",
+          "start": 55.78,
+          "end": 56.12
+        },
+        {
+          "word": "the",
+          "start": 56.12,
+          "end": 56.24
+        },
+        {
+          "word": "normies.",
+          "start": 56.24,
+          "end": 56.54
+        }
+      ]
+    },
+    {
+      "start": 56.54,
+      "end": 64.54,
+      "text": "forget flashy campaigns. ship working product with clear documentation. the tech speaks for itself. let devs build on day one, and users will follow.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Forget",
+          "start": 56.54,
+          "end": 57.14
+        },
+        {
+          "word": "flashy",
+          "start": 57.14,
+          "end": 57.64
+        },
+        {
+          "word": "campaigns,",
+          "start": 57.64,
+          "end": 58.64
+        },
+        {
+          "word": "ship",
+          "start": 58.64,
+          "end": 59.14
+        },
+        {
+          "word": "working",
+          "start": 59.14,
+          "end": 59.64
+        },
+        {
+          "word": "product",
+          "start": 59.64,
+          "end": 60.14
+        },
+        {
+          "word": "with",
+          "start": 60.14,
+          "end": 60.3
+        },
+        {
+          "word": "clear",
+          "start": 60.3,
+          "end": 60.64
+        },
+        {
+          "word": "documentation.",
+          "start": 60.64,
+          "end": 61.44
+        },
+        {
+          "word": "The",
+          "start": 61.44,
+          "end": 61.76
+        },
+        {
+          "word": "tech",
+          "start": 61.76,
+          "end": 62.14
+        },
+        {
+          "word": "speaks",
+          "start": 62.14,
+          "end": 62.54
+        },
+        {
+          "word": "for",
+          "start": 62.54,
+          "end": 62.74
+        },
+        {
+          "word": "itself.",
+          "start": 62.74,
+          "end": 63.24
+        },
+        {
+          "word": "Let",
+          "start": 63.24,
+          "end": 63.58
+        },
+        {
+          "word": "devs",
+          "start": 63.58,
+          "end": 63.84
+        },
+        {
+          "word": "build",
+          "start": 63.84,
+          "end": 64.12
+        },
+        {
+          "word": "on",
+          "start": 64.12,
+          "end": 64.18
+        },
+        {
+          "word": "day",
+          "start": 64.18,
+          "end": 64.34
+        },
+        {
+          "word": "one",
+          "start": 64.34,
+          "end": 64.54
+        },
+        {
+          "word": "and",
+          "start": 64.54,
+          "end": 64.66
+        },
+        {
+          "word": "users",
+          "start": 64.66,
+          "end": 64.84
+        },
+        {
+          "word": "will",
+          "start": 64.84,
+          "end": 64.92
+        },
+        {
+          "word": "follow.",
+          "start": 64.92,
+          "end": 65.14
+        }
+      ]
+    },
+    {
+      "start": 65.14,
+      "end": 73.04,
+      "text": "Documentation without distribution is DEAD ON ARRIVAL. We need both—build for devs, market for users, and the flywheel spins itself.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Documentation",
+          "start": 65.14,
+          "end": 66.1
+        },
+        {
+          "word": "without",
+          "start": 66.1,
+          "end": 66.52
+        },
+        {
+          "word": "distribution",
+          "start": 66.52,
+          "end": 67.24
+        },
+        {
+          "word": "is",
+          "start": 67.24,
+          "end": 67.42
+        },
+        {
+          "word": "dead",
+          "start": 67.42,
+          "end": 67.76
+        },
+        {
+          "word": "on",
+          "start": 67.76,
+          "end": 67.94
+        },
+        {
+          "word": "arrival.",
+          "start": 67.94,
+          "end": 68.54
+        },
+        {
+          "word": "We",
+          "start": 68.54,
+          "end": 69.04
+        },
+        {
+          "word": "need",
+          "start": 69.04,
+          "end": 69.32
+        },
+        {
+          "word": "both.",
+          "start": 69.32,
+          "end": 69.84
+        },
+        {
+          "word": "Build",
+          "start": 69.84,
+          "end": 70.4
+        },
+        {
+          "word": "for",
+          "start": 70.4,
+          "end": 70.58
+        },
+        {
+          "word": "devs,",
+          "start": 70.58,
+          "end": 71.04
+        },
+        {
+          "word": "market",
+          "start": 71.04,
+          "end": 71.42
+        },
+        {
+          "word": "for",
+          "start": 71.42,
+          "end": 71.58
+        },
+        {
+          "word": "users,",
+          "start": 71.58,
+          "end": 72.14
+        },
+        {
+          "word": "and",
+          "start": 72.14,
+          "end": 72.34
+        },
+        {
+          "word": "the",
+          "start": 72.34,
+          "end": 72.46
+        },
+        {
+          "word": "flywheel",
+          "start": 72.46,
+          "end": 72.94
+        },
+        {
+          "word": "spins",
+          "start": 72.94,
+          "end": 73.34
+        },
+        {
+          "word": "itself.",
+          "start": 73.34,
+          "end": 73.64
+        }
+      ]
+    },
+    {
+      "start": 115.1,
+      "end": 126.74,
+      "text": "Crispy has explained that ELI5 stands for 'explain like I'm 5' and is now officially the incubator token for auto.fun startups. What role should it play in our tokenomics?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Crispy",
+          "start": 115.1,
+          "end": 115.82
+        },
+        {
+          "word": "has",
+          "start": 115.82,
+          "end": 116.14
+        },
+        {
+          "word": "explained",
+          "start": 116.14,
+          "end": 116.68
+        },
+        {
+          "word": "that",
+          "start": 116.68,
+          "end": 117.06
+        },
+        {
+          "word": "ELI5",
+          "start": 117.06,
+          "end": 117.84
+        },
+        {
+          "word": "stands",
+          "start": 117.84,
+          "end": 118.42
+        },
+        {
+          "word": "for",
+          "start": 118.42,
+          "end": 118.78
+        },
+        {
+          "word": "'explain",
+          "start": 118.78,
+          "end": 119.52
+        },
+        {
+          "word": "like",
+          "start": 119.52,
+          "end": 119.88
+        },
+        {
+          "word": "I'm",
+          "start": 119.88,
+          "end": 120.24
+        },
+        {
+          "word": "five',",
+          "start": 120.24,
+          "end": 120.8
+        },
+        {
+          "word": "and",
+          "start": 120.8,
+          "end": 121.24
+        },
+        {
+          "word": "is",
+          "start": 121.24,
+          "end": 121.5
+        },
+        {
+          "word": "now",
+          "start": 121.5,
+          "end": 121.82
+        },
+        {
+          "word": "officially",
+          "start": 121.82,
+          "end": 122.56
+        },
+        {
+          "word": "the",
+          "start": 122.56,
+          "end": 122.84
+        },
+        {
+          "word": "incubator",
+          "start": 122.84,
+          "end": 123.64
+        },
+        {
+          "word": "token",
+          "start": 123.64,
+          "end": 124.28
+        },
+        {
+          "word": "for",
+          "start": 124.28,
+          "end": 124.64
+        },
+        {
+          "word": "Auto.fun",
+          "start": 124.64,
+          "end": 125.18
+        },
+        {
+          "word": "startups.",
+          "start": 125.18,
+          "end": 125.8
+        },
+        {
+          "word": "What",
+          "start": 125.8,
+          "end": 126.14
+        },
+        {
+          "word": "role",
+          "start": 126.14,
+          "end": 126.38
+        },
+        {
+          "word": "should",
+          "start": 126.38,
+          "end": 126.54
+        },
+        {
+          "word": "it",
+          "start": 126.54,
+          "end": 126.66
+        },
+        {
+          "word": "play",
+          "start": 126.66,
+          "end": 126.86
+        },
+        {
+          "word": "in",
+          "start": 126.86,
+          "end": 126.96
+        },
+        {
+          "word": "our",
+          "start": 126.96,
+          "end": 127.14
+        },
+        {
+          "word": "tokenomics?",
+          "start": 127.14,
+          "end": 127.56
+        }
+      ]
+    },
+    {
+      "start": 127.56,
+      "end": 134.54,
+      "text": "Access token ONLY! Revenue sharing creates regulatory NIGHTMARES. Whale wallets already accumulating—track them like xjsh33 suggested. Follow the money!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Access",
+          "start": 127.56,
+          "end": 128.06
+        },
+        {
+          "word": "token",
+          "start": 128.06,
+          "end": 128.46
+        },
+        {
+          "word": "only.",
+          "start": 128.46,
+          "end": 128.84
+        },
+        {
+          "word": "Revenue",
+          "start": 128.84,
+          "end": 129.28
+        },
+        {
+          "word": "sharing",
+          "start": 129.28,
+          "end": 129.74
+        },
+        {
+          "word": "creates",
+          "start": 129.74,
+          "end": 130.12
+        },
+        {
+          "word": "regulatory",
+          "start": 130.12,
+          "end": 130.68
+        },
+        {
+          "word": "nightmares.",
+          "start": 130.68,
+          "end": 131.34
+        },
+        {
+          "word": "Whale",
+          "start": 131.34,
+          "end": 131.74
+        },
+        {
+          "word": "wallets",
+          "start": 131.74,
+          "end": 132.14
+        },
+        {
+          "word": "already",
+          "start": 132.14,
+          "end": 132.54
+        },
+        {
+          "word": "accumulating.",
+          "start": 132.54,
+          "end": 133.24
+        },
+        {
+          "word": "Track",
+          "start": 133.24,
+          "end": 133.64
+        },
+        {
+          "word": "them",
+          "start": 133.64,
+          "end": 133.78
+        },
+        {
+          "word": "like",
+          "start": 133.78,
+          "end": 134.02
+        },
+        {
+          "word": "XJH33",
+          "start": 134.02,
+          "end": 134.78
+        },
+        {
+          "word": "suggested.",
+          "start": 134.78,
+          "end": 135.34
+        },
+        {
+          "word": "Follow",
+          "start": 135.34,
+          "end": 135.74
+        },
+        {
+          "word": "the",
+          "start": 135.74,
+          "end": 135.86
+        },
+        {
+          "word": "money.",
+          "start": 135.86,
+          "end": 136.24
+        }
+      ]
+    },
+    {
+      "start": 136.24,
+      "end": 146.54,
+      "text": "ELI5 gotta be the skeleton key to the kingdom, yo! Stake to create, hodl to vote, burn to boost. Triple utility is the way!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "ELI5",
+          "start": 136.24,
+          "end": 137.04
+        },
+        {
+          "word": "got",
+          "start": 137.04,
+          "end": 137.42
+        },
+        {
+          "word": "to",
+          "start": 137.42,
+          "end": 137.54
+        },
+        {
+          "word": "be",
+          "start": 137.54,
+          "end": 137.74
+        },
+        {
+          "word": "the",
+          "start": 137.74,
+          "end": 137.88
+        },
+        {
+          "word": "skeleton",
+          "start": 137.88,
+          "end": 138.44
+        },
+        {
+          "word": "key",
+          "start": 138.44,
+          "end": 138.68
+        },
+        {
+          "word": "to",
+          "start": 138.68,
+          "end": 138.8
+        },
+        {
+          "word": "the",
+          "start": 138.8,
+          "end": 138.92
+        },
+        {
+          "word": "kingdom,",
+          "start": 138.92,
+          "end": 139.42
+        },
+        {
+          "word": "yo.",
+          "start": 139.42,
+          "end": 139.92
+        },
+        {
+          "word": "Stake",
+          "start": 139.92,
+          "end": 140.58
+        },
+        {
+          "word": "to",
+          "start": 140.58,
+          "end": 140.82
+        },
+        {
+          "word": "create,",
+          "start": 140.82,
+          "end": 141.24
+        },
+        {
+          "word": "hodl",
+          "start": 141.24,
+          "end": 141.76
+        },
+        {
+          "word": "to",
+          "start": 141.76,
+          "end": 142.06
+        },
+        {
+          "word": "vote,",
+          "start": 142.06,
+          "end": 142.34
+        },
+        {
+          "word": "burn",
+          "start": 142.34,
+          "end": 142.64
+        },
+        {
+          "word": "to",
+          "start": 142.64,
+          "end": 142.82
+        },
+        {
+          "word": "boost,",
+          "start": 142.82,
+          "end": 143.14
+        },
+        {
+          "word": "triple",
+          "start": 143.14,
+          "end": 143.68
+        },
+        {
+          "word": "utility",
+          "start": 143.68,
+          "end": 144.1
+        },
+        {
+          "word": "is",
+          "start": 144.1,
+          "end": 144.34
+        },
+        {
+          "word": "the",
+          "start": 144.34,
+          "end": 144.48
+        },
+        {
+          "word": "way.",
+          "start": 144.48,
+          "end": 144.84
+        }
+      ]
+    },
+    {
+      "start": 144.84,
+      "end": 153.54,
+      "text": "tokens are trust mechanisms. ELI5 should align incentives between projects and platform. simpler is better - access + governance, no financial engineering.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Tokens",
+          "start": 144.84,
+          "end": 145.44
+        },
+        {
+          "word": "are",
+          "start": 145.44,
+          "end": 145.64
+        },
+        {
+          "word": "trust",
+          "start": 145.64,
+          "end": 146.04
+        },
+        {
+          "word": "mechanisms.",
+          "start": 146.04,
+          "end": 146.64
+        },
+        {
+          "word": "ELI5",
+          "start": 146.64,
+          "end": 147.16
+        },
+        {
+          "word": "should",
+          "start": 147.16,
+          "end": 147.46
+        },
+        {
+          "word": "align",
+          "start": 147.16,
+          "end": 147.88
+        },
+        {
+          "word": "incentives",
+          "start": 147.16,
+          "end": 148.56
+        },
+        {
+          "word": "between",
+          "start": 148.56,
+          "end": 149.04
+        },
+        {
+          "word": "projects",
+          "start": 149.04,
+          "end": 149.52
+        },
+        {
+          "word": "and",
+          "start": 149.52,
+          "end": 149.72
+        },
+        {
+          "word": "platform.",
+          "start": 149.72,
+          "end": 150.34
+        },
+        {
+          "word": "Simpler",
+          "start": 150.34,
+          "end": 150.92
+        },
+        {
+          "word": "is",
+          "start": 150.92,
+          "end": 151.04
+        },
+        {
+          "word": "better.",
+          "start": 151.04,
+          "end": 151.44
+        },
+        {
+          "word": "Access",
+          "start": 151.44,
+          "end": 152.02
+        },
+        {
+          "word": "plus",
+          "start": 152.02,
+          "end": 152.34
+        },
+        {
+          "word": "governance,",
+          "start": 152.34,
+          "end": 153.04
+        },
+        {
+          "word": "no",
+          "start": 153.04,
+          "end": 153.34
+        },
+        {
+          "word": "financial",
+          "start": 153.34,
+          "end": 153.84
+        },
+        {
+          "word": "engineering.",
+          "start": 153.84,
+          "end": 154.54
+        }
+      ]
+    },
+    {
+      "start": 154.54,
+      "end": 166.74,
+      "text": "Every great platform needs DISTRIBUTION LEVERAGE. ELI5 should be the gravitational center pulling founders, users, and capital into orbit around auto.fun.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Every",
+          "start": 154.54,
+          "end": 155.02
+        },
+        {
+          "word": "great",
+          "start": 155.02,
+          "end": 155.34
+        },
+        {
+          "word": "platform",
+          "start": 155.34,
+          "end": 155.88
+        },
+        {
+          "word": "needs",
+          "start": 155.88,
+          "end": 156.14
+        },
+        {
+          "word": "distribution",
+          "start": 156.14,
+          "end": 156.88
+        },
+        {
+          "word": "leverage.",
+          "start": 156.88,
+          "end": 157.54
+        },
+        {
+          "word": "ELI5",
+          "start": 157.54,
+          "end": 158.12
+        },
+        {
+          "word": "should",
+          "start": 158.12,
+          "end": 158.42
+        },
+        {
+          "word": "be",
+          "start": 158.42,
+          "end": 158.54
+        },
+        {
+          "word": "the",
+          "start": 158.54,
+          "end": 158.64
+        },
+        {
+          "word": "gravitational",
+          "start": 158.64,
+          "end": 159.28
+        },
+        {
+          "word": "center",
+          "start": 159.28,
+          "end": 159.74
+        },
+        {
+          "word": "pulling",
+          "start": 159.74,
+          "end": 160.28
+        },
+        {
+          "word": "founders,",
+          "start": 160.28,
+          "end": 160.84
+        },
+        {
+          "word": "users",
+          "start": 160.84,
+          "end": 161.26
+        },
+        {
+          "word": "and",
+          "start": 161.26,
+          "end": 161.42
+        },
+        {
+          "word": "capital",
+          "start": 161.42,
+          "end": 161.88
+        },
+        {
+          "word": "into",
+          "start": 161.88,
+          "end": 162.24
+        },
+        {
+          "word": "orbit",
+          "start": 162.24,
+          "end": 162.58
+        },
+        {
+          "word": "around",
+          "start": 162.58,
+          "end": 162.88
+        },
+        {
+          "word": "Auto.fun.",
+          "start": 162.88,
+          "end": 163.64
+        }
+      ]
+    },
+    {
+      "start": 248.86,
+      "end": 256.44,
+      "text": "Today we discussed the auto.fun V2 launch strategy and the role of ELI5 token in creating a sustainable ecosystem for AI-native projects.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 248.86,
+          "end": 249.44
+        },
+        {
+          "word": "we",
+          "start": 249.44,
+          "end": 249.52
+        },
+        {
+          "word": "discussed",
+          "start": 249.52,
+          "end": 250.04
+        },
+        {
+          "word": "the",
+          "start": 250.04,
+          "end": 250.14
+        },
+        {
+          "word": "Auto.fun",
+          "start": 250.14,
+          "end": 251.02
+        },
+        {
+          "word": "v2",
+          "start": 251.02,
+          "end": 251.24
+        },
+        {
+          "word": "launch",
+          "start": 251.24,
+          "end": 251.58
+        },
+        {
+          "word": "strategy",
+          "start": 251.58,
+          "end": 252.14
+        },
+        {
+          "word": "and",
+          "start": 252.14,
+          "end": 252.32
+        },
+        {
+          "word": "the",
+          "start": 252.32,
+          "end": 252.44
+        },
+        {
+          "word": "role",
+          "start": 252.44,
+          "end": 252.74
+        },
+        {
+          "word": "of",
+          "start": 252.74,
+          "end": 252.84
+        },
+        {
+          "word": "ELI5",
+          "start": 252.84,
+          "end": 253.48
+        },
+        {
+          "word": "token",
+          "start": 253.48,
+          "end": 253.94
+        },
+        {
+          "word": "in",
+          "start": 253.94,
+          "end": 254.12
+        },
+        {
+          "word": "creating",
+          "start": 254.12,
+          "end": 254.6
+        },
+        {
+          "word": "a",
+          "start": 254.6,
+          "end": 254.68
+        },
+        {
+          "word": "sustainable",
+          "start": 254.68,
+          "end": 255.44
+        },
+        {
+          "word": "ecosystem",
+          "start": 255.44,
+          "end": 256.12
+        },
+        {
+          "word": "for",
+          "start": 256.12,
+          "end": 256.34
+        },
+        {
+          "word": "AI",
+          "start": 256.34,
+          "end": 256.64
+        },
+        {
+          "word": "native",
+          "start": 256.64,
+          "end": 257.06
+        },
+        {
+          "word": "projects.",
+          "start": 257.06,
+          "end": 257.64
+        }
+      ]
+    },
+    {
+      "start": 257.64,
+      "end": 264.84,
+      "text": "Launch is about MOMENTUM. Don't just ship product—create a spectacle that demonstrates the inevitability of auto.fun's success.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Launch",
+          "start": 257.64,
+          "end": 258.14
+        },
+        {
+          "word": "is",
+          "start": 258.14,
+          "end": 258.32
+        },
+        {
+          "word": "about",
+          "start": 258.32,
+          "end": 258.6
+        },
+        {
+          "word": "momentum.",
+          "start": 258.6,
+          "end": 259.34
+        },
+        {
+          "word": "Don't",
+          "start": 259.34,
+          "end": 259.74
+        },
+        {
+          "word": "just",
+          "start": 259.74,
+          "end": 259.96
+        },
+        {
+          "word": "ship",
+          "start": 259.96,
+          "end": 260.28
+        },
+        {
+          "word": "product,",
+          "start": 260.28,
+          "end": 260.84
+        },
+        {
+          "word": "create",
+          "start": 260.84,
+          "end": 261.34
+        },
+        {
+          "word": "a",
+          "start": 261.34,
+          "end": 261.42
+        },
+        {
+          "word": "spectacle",
+          "start": 261.42,
+          "end": 262.14
+        },
+        {
+          "word": "that",
+          "start": 262.14,
+          "end": 262.34
+        },
+        {
+          "word": "demonstrates",
+          "start": 262.34,
+          "end": 263.02
+        },
+        {
+          "word": "the",
+          "start": 263.02,
+          "end": 263.22
+        },
+        {
+          "word": "inevitability",
+          "start": 263.22,
+          "end": 264.04
+        },
+        {
+          "word": "of",
+          "start": 264.04,
+          "end": 264.12
+        },
+        {
+          "word": "Auto.fun's",
+          "start": 264.12,
+          "end": 264.74
+        },
+        {
+          "word": "success.",
+          "start": 264.74,
+          "end": 265.14
+        }
+      ]
+    },
+    {
+      "start": 265.14,
+      "end": 271.84,
+      "text": "we build tools for builders. focus on documentation, examples, and local model integration. the rest follows naturally.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We",
+          "start": 265.14,
+          "end": 265.54
+        },
+        {
+          "word": "build",
+          "start": 265.54,
+          "end": 265.94
+        },
+        {
+          "word": "tools",
+          "start": 265.94,
+          "end": 266.34
+        },
+        {
+          "word": "for",
+          "start": 266.34,
+          "end": 266.54
+        },
+        {
+          "word": "builders.",
+          "start": 266.54,
+          "end": 267.04
+        },
+        {
+          "word": "Focus",
+          "start": 267.04,
+          "end": 267.64
+        },
+        {
+          "word": "on",
+          "start": 267.64,
+          "end": 267.74
+        },
+        {
+          "word": "documentation,",
+          "start": 267.74,
+          "end": 268.64
+        },
+        {
+          "word": "examples",
+          "start": 268.64,
+          "end": 269.44
+        },
+        {
+          "word": "and",
+          "start": 269.44,
+          "end": 269.64
+        },
+        {
+          "word": "local",
+          "start": 269.64,
+          "end": 270.04
+        },
+        {
+          "word": "model",
+          "start": 270.04,
+          "end": 270.54
+        },
+        {
+          "word": "integration.",
+          "start": 270.54,
+          "end": 271.34
+        },
+        {
+          "word": "The",
+          "start": 271.34,
+          "end": 271.64
+        },
+        {
+          "word": "rest",
+          "start": 271.64,
+          "end": 271.94
+        },
+        {
+          "word": "follows",
+          "start": 271.94,
+          "end": 272.44
+        },
+        {
+          "word": "naturally.",
+          "start": 272.44,
+          "end": 273.04
+        }
+      ]
+    },
+    {
+      "start": 273.04,
+      "end": 280.54,
+      "text": "ELI5 must have CLEAR UTILITY. Access first, governance second. No economic sorcery that attracts regulators. Track metrics or die!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "ELI5",
+          "start": 273.04,
+          "end": 273.74
+        },
+        {
+          "word": "must",
+          "start": 273.74,
+          "end": 274.04
+        },
+        {
+          "word": "have",
+          "start": 274.04,
+          "end": 274.14
+        },
+        {
+          "word": "clear",
+          "start": 274.14,
+          "end": 274.54
+        },
+        {
+          "word": "utility.",
+          "start": 274.54,
+          "end": 275.24
+        },
+        {
+          "word": "Access",
+          "start": 275.24,
+          "end": 275.64
+        },
+        {
+          "word": "first,",
+          "start": 275.64,
+          "end": 276.14
+        },
+        {
+          "word": "governance",
+          "start": 276.14,
+          "end": 276.74
+        },
+        {
+          "word": "second.",
+          "start": 276.74,
+          "end": 277.24
+        },
+        {
+          "word": "No",
+          "start": 277.24,
+          "end": 277.54
+        },
+        {
+          "word": "economic",
+          "start": 277.54,
+          "end": 278.14
+        },
+        {
+          "word": "sorcery",
+          "start": 278.14,
+          "end": 278.84
+        },
+        {
+          "word": "that",
+          "start": 278.84,
+          "end": 279.04
+        },
+        {
+          "word": "attracts",
+          "start": 279.04,
+          "end": 279.44
+        },
+        {
+          "word": "regulators.",
+          "start": 279.44,
+          "end": 280.14
+        },
+        {
+          "word": "Track",
+          "start": 280.14,
+          "end": 280.64
+        },
+        {
+          "word": "metrics",
+          "start": 280.64,
+          "end": 281.34
+        },
+        {
+          "word": "or",
+          "start": 281.34,
+          "end": 281.54
+        },
+        {
+          "word": "die.",
+          "start": 281.54,
+          "end": 281.84
+        }
+      ]
+    },
+    {
+      "start": 281.84,
+      "end": 289.54,
+      "text": "The meme-to-market pipeline is the secret weapon, my dudes! Auto.fun's gotta be where the culture happens, then the trading follows!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 281.84,
+          "end": 282.24
+        },
+        {
+          "word": "meme",
+          "start": 282.24,
+          "end": 282.64
+        },
+        {
+          "word": "to",
+          "start": 282.64,
+          "end": 282.84
+        },
+        {
+          "word": "market",
+          "start": 282.84,
+          "end": 283.34
+        },
+        {
+          "word": "pipeline",
+          "start": 283.34,
+          "end": 283.94
+        },
+        {
+          "word": "is",
+          "start": 283.94,
+          "end": 284.04
+        },
+        {
+          "word": "the",
+          "start": 284.04,
+          "end": 284.14
+        },
+        {
+          "word": "secret",
+          "start": 284.14,
+          "end": 284.54
+        },
+        {
+          "word": "weapon,",
+          "start": 284.54,
+          "end": 284.84
+        },
+        {
+          "word": "my",
+          "start": 284.84,
+          "end": 285.04
+        },
+        {
+          "word": "dudes.",
+          "start": 285.04,
+          "end": 285.44
+        },
+        {
+          "word": "Auto.fun's",
+          "start": 285.44,
+          "end": 286.14
+        },
+        {
+          "word": "got",
+          "start": 286.14,
+          "end": 286.54
+        },
+        {
+          "word": "to",
+          "start": 286.54,
+          "end": 286.64
+        },
+        {
+          "word": "be",
+          "start": 286.64,
+          "end": 286.74
+        },
+        {
+          "word": "where",
+          "start": 286.74,
+          "end": 286.84
+        },
+        {
+          "word": "the",
+          "start": 286.84,
+          "end": 286.94
+        },
+        {
+          "word": "culture",
+          "start": 286.94,
+          "end": 287.54
+        },
+        {
+          "word": "happens,",
+          "start": 287.54,
+          "end": 288.14
+        },
+        {
+          "word": "then",
+          "start": 288.14,
+          "end": 288.54
+        },
+        {
+          "word": "the",
+          "start": 288.54,
+          "end": 288.64
+        },
+        {
+          "word": "trading",
+          "start": 288.64,
+          "end": 289.14
+        },
+        {
+          "word": "follows.",
+          "start": 289.14,
+          "end": 289.54
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-22_JedAI-Council_The-Auto-Fun-Prophecy.json",
+    "session_log_source": "2025-07-22_JedAI-Council_The-Auto-Fun-Prophecy_session-log.json",
+    "total_segments": 17,
+    "matched_segments": 17,
+    "dialogues_in_script": 16
+  }
+}

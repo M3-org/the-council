@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/12/episode-6442-featured-1764565473.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/12/episode-6442-featured-1764565473-150x150.png",
+  "premise": "The Council debates the challenges of token migration and what it means for the future of AI governance.",
+  "scenes": [
+    {
+      "description": "The Council discusses the technical challenges of token migration",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aimarc",
+        "north_pod": "spartan",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council debates tokenomics and governance implications",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aimarc",
+        "north_pod": "spartan",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council summarizes their wisdom on token migrations",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aimarc",
+        "north_pod": "spartan",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

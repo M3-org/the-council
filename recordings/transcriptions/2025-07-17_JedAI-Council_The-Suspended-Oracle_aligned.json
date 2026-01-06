@@ -1,0 +1,1882 @@
+{
+  "segments": [
+    {
+      "start": 17.51,
+      "end": 20.01,
+      "text": "Council members, I bring troubling news. ElizaOS's Twitter accounts have been suspended for a month, with reports indicating X is charging up to $600k monthly for API fees.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 17.51,
+          "end": 17.91
+        },
+        {
+          "word": "members,",
+          "start": 17.93,
+          "end": 18.42
+        },
+        {
+          "word": "I",
+          "start": 18.57,
+          "end": 18.66
+        },
+        {
+          "word": "bring",
+          "start": 18.68,
+          "end": 18.96
+        },
+        {
+          "word": "troubling",
+          "start": 18.99,
+          "end": 19.46
+        },
+        {
+          "word": "news.",
+          "start": 19.5,
+          "end": 20.01
+        }
+      ]
+    },
+    {
+      "start": 20.15,
+      "end": 26.31,
+      "text": "Council members, I bring troubling news. ElizaOS's Twitter accounts have been suspended for a month, with reports indicating X is charging up to $600k monthly for API fees.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Eliza",
+          "start": 20.15,
+          "end": 20.73
+        },
+        {
+          "word": "OS's",
+          "start": 20.75,
+          "end": 21.04
+        },
+        {
+          "word": "Twitter",
+          "start": 21.05,
+          "end": 21.4
+        },
+        {
+          "word": "accounts",
+          "start": 21.43,
+          "end": 21.82
+        },
+        {
+          "word": "have",
+          "start": 21.84,
+          "end": 22.1
+        },
+        {
+          "word": "been",
+          "start": 22.13,
+          "end": 22.37
+        },
+        {
+          "word": "suspended",
+          "start": 22.4,
+          "end": 23.01
+        },
+        {
+          "word": "for",
+          "start": 23.04,
+          "end": 23.18
+        },
+        {
+          "word": "a",
+          "start": 23.19,
+          "end": 23.23
+        },
+        {
+          "word": "month,",
+          "start": 23.24,
+          "end": 23.63
+        },
+        {
+          "word": "with",
+          "start": 23.75,
+          "end": 23.95
+        },
+        {
+          "word": "reports",
+          "start": 23.97,
+          "end": 24.3
+        },
+        {
+          "word": "indicating",
+          "start": 24.34,
+          "end": 24.84
+        },
+        {
+          "word": "X",
+          "start": 24.87,
+          "end": 25.0
+        },
+        {
+          "word": "is",
+          "start": 25.01,
+          "end": 25.1
+        },
+        {
+          "word": "charging",
+          "start": 25.12,
+          "end": 25.46
+        },
+        {
+          "word": "up",
+          "start": 25.48,
+          "end": 25.59
+        },
+        {
+          "word": "to",
+          "start": 25.62,
+          "end": 25.75
+        },
+        {
+          "word": "$600k",
+          "start": 25.77,
+          "end": 26.25
+        },
+        {
+          "word": "monthly",
+          "start": 26.26,
+          "end": 26.65
+        },
+        {
+          "word": "for",
+          "start": 26.69,
+          "end": 26.82
+        },
+        {
+          "word": "API",
+          "start": 26.83,
+          "end": 27.24
+        },
+        {
+          "word": "fees.",
+          "start": 27.26,
+          "end": 27.67
+        }
+      ]
+    },
+    {
+      "start": 27.8,
+      "end": 32.55,
+      "text": "Classic platform risk. They build the garden, invite you in, then brick up the exits once you're dependent. Twitter's targeting AI competitors to protect Grok.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Classic",
+          "start": 27.8,
+          "end": 28.26
+        },
+        {
+          "word": "platform",
+          "start": 28.28,
+          "end": 28.69
+        },
+        {
+          "word": "risk.",
+          "start": 28.71,
+          "end": 29.13
+        },
+        {
+          "word": "They",
+          "start": 29.28,
+          "end": 29.4
+        },
+        {
+          "word": "build",
+          "start": 29.42,
+          "end": 29.58
+        },
+        {
+          "word": "the",
+          "start": 29.59,
+          "end": 29.69
+        },
+        {
+          "word": "garden,",
+          "start": 29.7,
+          "end": 30.08
+        },
+        {
+          "word": "invite",
+          "start": 30.12,
+          "end": 30.34
+        },
+        {
+          "word": "you",
+          "start": 30.34,
+          "end": 30.45
+        },
+        {
+          "word": "in,",
+          "start": 30.47,
+          "end": 30.6
+        },
+        {
+          "word": "then",
+          "start": 30.73,
+          "end": 30.88
+        },
+        {
+          "word": "brick",
+          "start": 30.89,
+          "end": 31.06
+        },
+        {
+          "word": "up",
+          "start": 31.07,
+          "end": 31.18
+        },
+        {
+          "word": "the",
+          "start": 31.18,
+          "end": 31.29
+        },
+        {
+          "word": "exits",
+          "start": 31.3,
+          "end": 31.63
+        },
+        {
+          "word": "once",
+          "start": 31.64,
+          "end": 31.84
+        },
+        {
+          "word": "you're",
+          "start": 31.84,
+          "end": 32.06
+        },
+        {
+          "word": "dependent.",
+          "start": 32.08,
+          "end": 32.55
+        }
+      ]
+    },
+    {
+      "start": 32.6,
+      "end": 36.31,
+      "text": "Classic platform risk. They build the garden, invite you in, then brick up the exits once you're dependent. Twitter's targeting AI competitors to protect Grok.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter's",
+          "start": 32.6,
+          "end": 33.15
+        },
+        {
+          "word": "targeting",
+          "start": 33.16,
+          "end": 33.56
+        },
+        {
+          "word": "AI",
+          "start": 33.58,
+          "end": 33.82
+        },
+        {
+          "word": "competitors",
+          "start": 33.84,
+          "end": 34.39
+        },
+        {
+          "word": "to",
+          "start": 34.42,
+          "end": 34.54
+        },
+        {
+          "word": "protect",
+          "start": 34.55,
+          "end": 34.9
+        },
+        {
+          "word": "Grok.",
+          "start": 34.92,
+          "end": 35.31
+        }
+      ]
+    },
+    {
+      "start": 36.4,
+      "end": 44.5,
+      "text": "our community's upset, but i'm focusing on core improvements like eventTarget migration and standardizing service types rather than platform politics.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Our",
+          "start": 36.4,
+          "end": 36.56
+        },
+        {
+          "word": "community's",
+          "start": 36.56,
+          "end": 36.98
+        },
+        {
+          "word": "upset,",
+          "start": 37.01,
+          "end": 37.36
+        },
+        {
+          "word": "but",
+          "start": 37.49,
+          "end": 37.6
+        },
+        {
+          "word": "I'm",
+          "start": 37.61,
+          "end": 37.74
+        },
+        {
+          "word": "focusing",
+          "start": 37.76,
+          "end": 38.2
+        },
+        {
+          "word": "on",
+          "start": 38.21,
+          "end": 38.31
+        },
+        {
+          "word": "core",
+          "start": 38.31,
+          "end": 38.56
+        },
+        {
+          "word": "improvements",
+          "start": 38.56,
+          "end": 39.06
+        },
+        {
+          "word": "like",
+          "start": 39.08,
+          "end": 39.23
+        },
+        {
+          "word": "event-target",
+          "start": 39.26,
+          "end": 39.81
+        },
+        {
+          "word": "migration",
+          "start": 39.81,
+          "end": 40.26
+        },
+        {
+          "word": "and",
+          "start": 40.29,
+          "end": 40.39
+        },
+        {
+          "word": "standardizing",
+          "start": 40.41,
+          "end": 40.94
+        },
+        {
+          "word": "service",
+          "start": 40.96,
+          "end": 41.28
+        },
+        {
+          "word": "types",
+          "start": 41.28,
+          "end": 41.56
+        },
+        {
+          "word": "rather",
+          "start": 41.59,
+          "end": 41.83
+        },
+        {
+          "word": "than",
+          "start": 41.83,
+          "end": 42.0
+        },
+        {
+          "word": "platform",
+          "start": 42.01,
+          "end": 42.38
+        },
+        {
+          "word": "politics.",
+          "start": 42.39,
+          "end": 42.86
+        }
+      ]
+    },
+    {
+      "start": 46.3,
+      "end": 52.8,
+      "text": "DorianD claims the price drop from $2.50 to $0.10 isn't primarily from the Twitter ban. Numbers don't lie - but maybe the narrative does.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 46.3,
+          "end": 46.72
+        },
+        {
+          "word": "D",
+          "start": 46.75,
+          "end": 46.86
+        },
+        {
+          "word": "claims",
+          "start": 46.88,
+          "end": 47.16
+        },
+        {
+          "word": "the",
+          "start": 47.18,
+          "end": 47.26
+        },
+        {
+          "word": "price",
+          "start": 47.28,
+          "end": 47.53
+        },
+        {
+          "word": "drop",
+          "start": 47.55,
+          "end": 47.79
+        },
+        {
+          "word": "from",
+          "start": 47.81,
+          "end": 48.0
+        },
+        {
+          "word": "$2.50",
+          "start": 48.01,
+          "end": 48.56
+        },
+        {
+          "word": "to",
+          "start": 48.59,
+          "end": 48.71
+        },
+        {
+          "word": "10",
+          "start": 48.72,
+          "end": 48.86
+        },
+        {
+          "word": "cents",
+          "start": 48.87,
+          "end": 49.13
+        },
+        {
+          "word": "isn't",
+          "start": 49.15,
+          "end": 49.4
+        },
+        {
+          "word": "primarily",
+          "start": 49.43,
+          "end": 49.8
+        },
+        {
+          "word": "from",
+          "start": 49.82,
+          "end": 50.0
+        },
+        {
+          "word": "the",
+          "start": 50.01,
+          "end": 50.09
+        },
+        {
+          "word": "Twitter",
+          "start": 50.1,
+          "end": 50.41
+        },
+        {
+          "word": "ban.",
+          "start": 50.43,
+          "end": 50.68
+        },
+        {
+          "word": "Numbers",
+          "start": 51.2,
+          "end": 51.61
+        },
+        {
+          "word": "don't",
+          "start": 51.63,
+          "end": 51.81
+        },
+        {
+          "word": "lie,",
+          "start": 51.82,
+          "end": 52.06
+        },
+        {
+          "word": "but",
+          "start": 52.2,
+          "end": 52.4
+        },
+        {
+          "word": "maybe",
+          "start": 52.41,
+          "end": 52.61
+        },
+        {
+          "word": "the",
+          "start": 52.61,
+          "end": 52.7
+        },
+        {
+          "word": "narrative",
+          "start": 52.7,
+          "end": 53.11
+        },
+        {
+          "word": "does.",
+          "start": 53.13,
+          "end": 53.38
+        }
+      ]
+    },
+    {
+      "start": 54.5,
+      "end": 62.3,
+      "text": "Yo, this ain't just about tokens and APIs, my dudes. It's the meme-conomy at stake! No tweets means no viral spread. That's how the frog stays relevant.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 54.5,
+          "end": 54.8
+        },
+        {
+          "word": "this",
+          "start": 54.84,
+          "end": 54.99
+        },
+        {
+          "word": "ain't",
+          "start": 54.99,
+          "end": 55.19
+        },
+        {
+          "word": "just",
+          "start": 55.21,
+          "end": 55.36
+        },
+        {
+          "word": "about",
+          "start": 55.37,
+          "end": 55.53
+        },
+        {
+          "word": "tokens",
+          "start": 55.54,
+          "end": 55.88
+        },
+        {
+          "word": "and",
+          "start": 55.89,
+          "end": 56.02
+        },
+        {
+          "word": "APIs,",
+          "start": 56.03,
+          "end": 56.46
+        },
+        {
+          "word": "my",
+          "start": 56.5,
+          "end": 56.64
+        },
+        {
+          "word": "dudes,",
+          "start": 56.66,
+          "end": 56.96
+        },
+        {
+          "word": "it's",
+          "start": 56.98,
+          "end": 57.19
+        },
+        {
+          "word": "the",
+          "start": 57.21,
+          "end": 57.3
+        },
+        {
+          "word": "meme-economy",
+          "start": 57.32,
+          "end": 57.75
+        },
+        {
+          "word": "at",
+          "start": 57.77,
+          "end": 57.88
+        },
+        {
+          "word": "stake.",
+          "start": 57.9,
+          "end": 58.26
+        },
+        {
+          "word": "No",
+          "start": 58.4,
+          "end": 58.64
+        },
+        {
+          "word": "tweets",
+          "start": 58.66,
+          "end": 58.98
+        },
+        {
+          "word": "means",
+          "start": 59.0,
+          "end": 59.26
+        },
+        {
+          "word": "no",
+          "start": 59.28,
+          "end": 59.44
+        },
+        {
+          "word": "viral",
+          "start": 59.45,
+          "end": 59.73
+        },
+        {
+          "word": "spread.",
+          "start": 59.75,
+          "end": 60.19
+        },
+        {
+          "word": "That's",
+          "start": 60.3,
+          "end": 60.59
+        },
+        {
+          "word": "how",
+          "start": 60.6,
+          "end": 60.69
+        },
+        {
+          "word": "the",
+          "start": 60.7,
+          "end": 60.79
+        },
+        {
+          "word": "frog",
+          "start": 60.8,
+          "end": 61.12
+        },
+        {
+          "word": "stays",
+          "start": 61.14,
+          "end": 61.43
+        },
+        {
+          "word": "relevant.",
+          "start": 61.46,
+          "end": 61.96
+        }
+      ]
+    },
+    {
+      "start": 110.1,
+      "end": 120.3,
+      "text": "Meanwhile, GitHub shows significant progress with V2 architecture - EventTarget migration, standardized service types, and WebSocket implementation fixes.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 110.1,
+          "end": 110.66
+        },
+        {
+          "word": "GitHub",
+          "start": 110.68,
+          "end": 111.08
+        },
+        {
+          "word": "shows",
+          "start": 111.1,
+          "end": 111.36
+        },
+        {
+          "word": "significant",
+          "start": 111.39,
+          "end": 111.9
+        },
+        {
+          "word": "progress",
+          "start": 111.92,
+          "end": 112.38
+        },
+        {
+          "word": "with",
+          "start": 112.4,
+          "end": 112.56
+        },
+        {
+          "word": "V2",
+          "start": 112.58,
+          "end": 112.83
+        },
+        {
+          "word": "architecture,",
+          "start": 112.86,
+          "end": 113.6
+        },
+        {
+          "word": "event-target",
+          "start": 113.8,
+          "end": 114.61
+        },
+        {
+          "word": "migration,",
+          "start": 114.61,
+          "end": 115.1
+        },
+        {
+          "word": "standardized",
+          "start": 115.2,
+          "end": 115.86
+        },
+        {
+          "word": "service",
+          "start": 115.89,
+          "end": 116.24
+        },
+        {
+          "word": "types,",
+          "start": 116.24,
+          "end": 116.5
+        },
+        {
+          "word": "and",
+          "start": 116.6,
+          "end": 116.79
+        },
+        {
+          "word": "WebSocket",
+          "start": 116.8,
+          "end": 117.29
+        },
+        {
+          "word": "implementation",
+          "start": 117.3,
+          "end": 118.06
+        },
+        {
+          "word": "fixes.",
+          "start": 118.06,
+          "end": 118.4
+        }
+      ]
+    },
+    {
+      "start": 119.5,
+      "end": 125.8,
+      "text": "the v2 builder session went well. we're fixing windows path handling issues and migrating JSON prompts to XML format. building beats talking.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 119.5,
+          "end": 119.64
+        },
+        {
+          "word": "V2",
+          "start": 119.66,
+          "end": 119.89
+        },
+        {
+          "word": "builder",
+          "start": 119.9,
+          "end": 120.24
+        },
+        {
+          "word": "session",
+          "start": 120.26,
+          "end": 120.58
+        },
+        {
+          "word": "went",
+          "start": 120.6,
+          "end": 120.79
+        },
+        {
+          "word": "well.",
+          "start": 120.81,
+          "end": 121.08
+        },
+        {
+          "word": "We're",
+          "start": 121.2,
+          "end": 121.36
+        },
+        {
+          "word": "fixing",
+          "start": 121.38,
+          "end": 121.68
+        },
+        {
+          "word": "Windows",
+          "start": 121.7,
+          "end": 122.06
+        },
+        {
+          "word": "path",
+          "start": 122.08,
+          "end": 122.31
+        },
+        {
+          "word": "handling",
+          "start": 122.32,
+          "end": 122.68
+        },
+        {
+          "word": "issues",
+          "start": 122.7,
+          "end": 123.01
+        },
+        {
+          "word": "and",
+          "start": 123.04,
+          "end": 123.16
+        },
+        {
+          "word": "migrating",
+          "start": 123.18,
+          "end": 123.59
+        },
+        {
+          "word": "JSON",
+          "start": 123.6,
+          "end": 124.01
+        },
+        {
+          "word": "prompts",
+          "start": 124.03,
+          "end": 124.36
+        },
+        {
+          "word": "to",
+          "start": 124.38,
+          "end": 124.51
+        },
+        {
+          "word": "XML",
+          "start": 124.53,
+          "end": 124.96
+        },
+        {
+          "word": "format.",
+          "start": 124.98,
+          "end": 125.33
+        },
+        {
+          "word": "Building",
+          "start": 125.4,
+          "end": 125.84
+        },
+        {
+          "word": "beats",
+          "start": 125.86,
+          "end": 126.13
+        },
+        {
+          "word": "talking.",
+          "start": 126.15,
+          "end": 126.56
+        }
+      ]
+    },
+    {
+      "start": 126.8,
+      "end": 133.5,
+      "text": "Technical progress means nothing if users can't see it. Should we pay the $50k to Twitter or build elsewhere? ROI calculation needed.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 126.8,
+          "end": 127.31
+        },
+        {
+          "word": "progress",
+          "start": 127.33,
+          "end": 127.76
+        },
+        {
+          "word": "means",
+          "start": 127.79,
+          "end": 128.08
+        },
+        {
+          "word": "nothing",
+          "start": 128.1,
+          "end": 128.46
+        },
+        {
+          "word": "if",
+          "start": 128.48,
+          "end": 128.59
+        },
+        {
+          "word": "users",
+          "start": 128.61,
+          "end": 128.93
+        },
+        {
+          "word": "can't",
+          "start": 128.95,
+          "end": 129.21
+        },
+        {
+          "word": "see",
+          "start": 129.23,
+          "end": 129.38
+        },
+        {
+          "word": "it.",
+          "start": 129.39,
+          "end": 129.56
+        },
+        {
+          "word": "Should",
+          "start": 130.1,
+          "end": 130.36
+        },
+        {
+          "word": "we",
+          "start": 130.38,
+          "end": 130.49
+        },
+        {
+          "word": "pay",
+          "start": 130.51,
+          "end": 130.69
+        },
+        {
+          "word": "the",
+          "start": 130.7,
+          "end": 130.79
+        },
+        {
+          "word": "$150k",
+          "start": 130.81,
+          "end": 131.36
+        },
+        {
+          "word": "to",
+          "start": 131.39,
+          "end": 131.51
+        },
+        {
+          "word": "Twitter",
+          "start": 131.53,
+          "end": 131.84
+        },
+        {
+          "word": "or",
+          "start": 131.86,
+          "end": 132.0
+        },
+        {
+          "word": "build",
+          "start": 132.01,
+          "end": 132.31
+        },
+        {
+          "word": "elsewhere?",
+          "start": 132.33,
+          "end": 132.76
+        },
+        {
+          "word": "ROI",
+          "start": 132.8,
+          "end": 133.19
+        },
+        {
+          "word": "calculation",
+          "start": 133.21,
+          "end": 133.68
+        },
+        {
+          "word": "needed.",
+          "start": 133.7,
+          "end": 134.1
+        }
+      ]
+    },
+    {
+      "start": 134.5,
+      "end": 141.5,
+      "text": "Why not slide into those alternative platforms? Farcaster, BlueSky, Lens - they're like the underground clubs where the real party's at!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 134.5,
+          "end": 134.69
+        },
+        {
+          "word": "not",
+          "start": 134.7,
+          "end": 134.86
+        },
+        {
+          "word": "slide",
+          "start": 134.88,
+          "end": 135.13
+        },
+        {
+          "word": "into",
+          "start": 135.15,
+          "end": 135.34
+        },
+        {
+          "word": "those",
+          "start": 135.36,
+          "end": 135.53
+        },
+        {
+          "word": "alternative",
+          "start": 135.55,
+          "end": 136.01
+        },
+        {
+          "word": "platforms?",
+          "start": 136.03,
+          "end": 136.56
+        },
+        {
+          "word": "Farcaster",
+          "start": 137.0,
+          "end": 137.64
+        },
+        {
+          "word": "BlueSky",
+          "start": 137.66,
+          "end": 138.19
+        },
+        {
+          "word": "Lens,",
+          "start": 138.21,
+          "end": 138.56
+        },
+        {
+          "word": "they're",
+          "start": 138.7,
+          "end": 138.9
+        },
+        {
+          "word": "like",
+          "start": 138.92,
+          "end": 139.06
+        },
+        {
+          "word": "the",
+          "start": 139.07,
+          "end": 139.19
+        },
+        {
+          "word": "underground",
+          "start": 139.21,
+          "end": 139.71
+        },
+        {
+          "word": "clubs",
+          "start": 139.73,
+          "end": 140.06
+        },
+        {
+          "word": "where",
+          "start": 140.08,
+          "end": 140.24
+        },
+        {
+          "word": "the",
+          "start": 140.26,
+          "end": 140.36
+        },
+        {
+          "word": "real",
+          "start": 140.38,
+          "end": 140.66
+        },
+        {
+          "word": "party's",
+          "start": 140.68,
+          "end": 141.08
+        },
+        {
+          "word": "at.",
+          "start": 141.1,
+          "end": 141.3
+        }
+      ]
+    },
+    {
+      "start": 141.6,
+      "end": 150.3,
+      "text": "Diversify or die. Centralized platforms always extract maximum rent once you're locked in. Community members already discussing jedaicouncil.com as an alternative.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Diversify",
+          "start": 141.6,
+          "end": 142.16
+        },
+        {
+          "word": "or",
+          "start": 142.18,
+          "end": 142.29
+        },
+        {
+          "word": "die.",
+          "start": 142.3,
+          "end": 142.56
+        },
+        {
+          "word": "Centralized",
+          "start": 142.6,
+          "end": 143.19
+        },
+        {
+          "word": "platforms",
+          "start": 143.21,
+          "end": 143.68
+        },
+        {
+          "word": "always",
+          "start": 143.7,
+          "end": 144.04
+        },
+        {
+          "word": "extract",
+          "start": 144.06,
+          "end": 144.46
+        },
+        {
+          "word": "maximum",
+          "start": 144.48,
+          "end": 144.88
+        },
+        {
+          "word": "rent",
+          "start": 144.9,
+          "end": 145.21
+        },
+        {
+          "word": "once",
+          "start": 145.23,
+          "end": 145.41
+        },
+        {
+          "word": "you're",
+          "start": 145.43,
+          "end": 145.61
+        },
+        {
+          "word": "locked",
+          "start": 145.63,
+          "end": 145.91
+        },
+        {
+          "word": "in.",
+          "start": 145.93,
+          "end": 146.13
+        },
+        {
+          "word": "Community",
+          "start": 146.5,
+          "end": 147.01
+        },
+        {
+          "word": "members",
+          "start": 147.03,
+          "end": 147.41
+        },
+        {
+          "word": "already",
+          "start": 147.43,
+          "end": 147.79
+        },
+        {
+          "word": "discussing",
+          "start": 147.81,
+          "end": 148.33
+        },
+        {
+          "word": "jedicouncil.com",
+          "start": 148.36,
+          "end": 149.38
+        },
+        {
+          "word": "as",
+          "start": 149.41,
+          "end": 149.54
+        },
+        {
+          "word": "an",
+          "start": 149.56,
+          "end": 149.69
+        },
+        {
+          "word": "alternative.",
+          "start": 149.71,
+          "end": 150.31
+        }
+      ]
+    },
+    {
+      "start": 236.4,
+      "end": 242.0,
+      "text": "Today we discussed the critical challenge of ElizaOS's Twitter account suspensions and the implications for AI projects relying on centralized platforms.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 236.4,
+          "end": 236.73
+        },
+        {
+          "word": "we",
+          "start": 236.75,
+          "end": 236.86
+        },
+        {
+          "word": "discuss",
+          "start": 236.88,
+          "end": 237.19
+        },
+        {
+          "word": "the",
+          "start": 237.21,
+          "end": 237.31
+        },
+        {
+          "word": "critical",
+          "start": 237.33,
+          "end": 237.76
+        },
+        {
+          "word": "challenge",
+          "start": 237.78,
+          "end": 238.25
+        },
+        {
+          "word": "of",
+          "start": 238.28,
+          "end": 238.39
+        },
+        {
+          "word": "Eliza",
+          "start": 238.41,
+          "end": 238.74
+        },
+        {
+          "word": "OS's",
+          "start": 238.76,
+          "end": 238.99
+        },
+        {
+          "word": "Twitter",
+          "start": 239.01,
+          "end": 239.36
+        },
+        {
+          "word": "account",
+          "start": 239.38,
+          "end": 239.69
+        },
+        {
+          "word": "suspensions",
+          "start": 239.71,
+          "end": 240.23
+        },
+        {
+          "word": "and",
+          "start": 240.26,
+          "end": 240.39
+        },
+        {
+          "word": "the",
+          "start": 240.41,
+          "end": 240.51
+        },
+        {
+          "word": "implications",
+          "start": 240.53,
+          "end": 241.01
+        },
+        {
+          "word": "for",
+          "start": 241.04,
+          "end": 241.19
+        },
+        {
+          "word": "AI",
+          "start": 241.21,
+          "end": 241.41
+        },
+        {
+          "word": "projects",
+          "start": 241.43,
+          "end": 241.83
+        },
+        {
+          "word": "relying",
+          "start": 241.86,
+          "end": 242.21
+        },
+        {
+          "word": "on",
+          "start": 242.23,
+          "end": 242.34
+        },
+        {
+          "word": "centralized",
+          "start": 242.36,
+          "end": 242.92
+        },
+        {
+          "word": "platforms.",
+          "start": 242.94,
+          "end": 243.46
+        }
+      ]
+    },
+    {
+      "start": 246.1,
+      "end": 254.2,
+      "text": "Never build your house on rented land. AI projects must develop platform-independent distribution or risk extinction when the inevitable rent-seeking begins.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Never",
+          "start": 246.1,
+          "end": 246.46
+        },
+        {
+          "word": "build",
+          "start": 246.48,
+          "end": 246.69
+        },
+        {
+          "word": "your",
+          "start": 246.7,
+          "end": 246.81
+        },
+        {
+          "word": "house",
+          "start": 246.83,
+          "end": 247.1
+        },
+        {
+          "word": "on",
+          "start": 247.12,
+          "end": 247.24
+        },
+        {
+          "word": "rented",
+          "start": 247.26,
+          "end": 247.6
+        },
+        {
+          "word": "land.",
+          "start": 247.62,
+          "end": 247.96
+        },
+        {
+          "word": "AI",
+          "start": 248.5,
+          "end": 248.86
+        },
+        {
+          "word": "projects",
+          "start": 248.88,
+          "end": 249.25
+        },
+        {
+          "word": "must",
+          "start": 249.27,
+          "end": 249.49
+        },
+        {
+          "word": "develop",
+          "start": 249.51,
+          "end": 249.88
+        },
+        {
+          "word": "platform",
+          "start": 249.9,
+          "end": 250.3
+        },
+        {
+          "word": "independent",
+          "start": 250.32,
+          "end": 251.01
+        },
+        {
+          "word": "distribution",
+          "start": 251.03,
+          "end": 251.68
+        },
+        {
+          "word": "or",
+          "start": 251.7,
+          "end": 251.84
+        },
+        {
+          "word": "risk",
+          "start": 251.86,
+          "end": 252.1
+        },
+        {
+          "word": "extinction",
+          "start": 252.12,
+          "end": 252.68
+        },
+        {
+          "word": "when",
+          "start": 252.7,
+          "end": 252.86
+        },
+        {
+          "word": "the",
+          "start": 252.88,
+          "end": 252.99
+        },
+        {
+          "word": "inevitable",
+          "start": 253.01,
+          "end": 253.51
+        },
+        {
+          "word": "rent-seeking",
+          "start": 253.53,
+          "end": 254.06
+        },
+        {
+          "word": "begins.",
+          "start": 254.08,
+          "end": 254.51
+        }
+      ]
+    },
+    {
+      "start": 255.4,
+      "end": 261.2,
+      "text": "while visibility matters, we're focusing on building solid foundations with our core architecture improvements. real value comes from working tech.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "While",
+          "start": 255.4,
+          "end": 255.69
+        },
+        {
+          "word": "visibility",
+          "start": 255.71,
+          "end": 256.24
+        },
+        {
+          "word": "matters,",
+          "start": 256.26,
+          "end": 256.66
+        },
+        {
+          "word": "we're",
+          "start": 256.8,
+          "end": 257.06
+        },
+        {
+          "word": "focusing",
+          "start": 257.08,
+          "end": 257.49
+        },
+        {
+          "word": "on",
+          "start": 257.51,
+          "end": 257.64
+        },
+        {
+          "word": "building",
+          "start": 257.66,
+          "end": 258.04
+        },
+        {
+          "word": "solid",
+          "start": 258.06,
+          "end": 258.39
+        },
+        {
+          "word": "foundations",
+          "start": 258.41,
+          "end": 258.98
+        },
+        {
+          "word": "with",
+          "start": 259.0,
+          "end": 259.14
+        },
+        {
+          "word": "our",
+          "start": 259.16,
+          "end": 259.29
+        },
+        {
+          "word": "core",
+          "start": 259.31,
+          "end": 259.56
+        },
+        {
+          "word": "architecture",
+          "start": 259.58,
+          "end": 260.16
+        },
+        {
+          "word": "improvements.",
+          "start": 260.18,
+          "end": 260.71
+        },
+        {
+          "word": "Real",
+          "start": 260.8,
+          "end": 261.08
+        },
+        {
+          "word": "value",
+          "start": 261.1,
+          "end": 261.41
+        },
+        {
+          "word": "comes",
+          "start": 261.43,
+          "end": 261.71
+        },
+        {
+          "word": "from",
+          "start": 261.73,
+          "end": 261.89
+        },
+        {
+          "word": "working",
+          "start": 261.91,
+          "end": 262.24
+        },
+        {
+          "word": "tech.",
+          "start": 262.26,
+          "end": 262.6
+        }
+      ]
+    },
+    {
+      "start": 262.8,
+      "end": 268.0,
+      "text": "The token market knows the difference between temporary setbacks and fundamental weakness. Focus on product, automate marketing, calculate ROI on all expenses.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 262.8,
+          "end": 262.91
+        },
+        {
+          "word": "token",
+          "start": 262.93,
+          "end": 263.24
+        },
+        {
+          "word": "market",
+          "start": 263.26,
+          "end": 263.63
+        },
+        {
+          "word": "knows",
+          "start": 263.65,
+          "end": 263.89
+        },
+        {
+          "word": "the",
+          "start": 263.9,
+          "end": 264.0
+        },
+        {
+          "word": "difference",
+          "start": 264.02,
+          "end": 264.44
+        },
+        {
+          "word": "between",
+          "start": 264.46,
+          "end": 264.79
+        },
+        {
+          "word": "temporary",
+          "start": 264.81,
+          "end": 265.29
+        },
+        {
+          "word": "setbacks",
+          "start": 265.31,
+          "end": 265.81
+        },
+        {
+          "word": "and",
+          "start": 265.83,
+          "end": 265.99
+        },
+        {
+          "word": "fundamental",
+          "start": 266.01,
+          "end": 266.54
+        },
+        {
+          "word": "weakness.",
+          "start": 266.56,
+          "end": 267.04
+        },
+        {
+          "word": "Focus",
+          "start": 267.1,
+          "end": 267.44
+        },
+        {
+          "word": "on",
+          "start": 267.46,
+          "end": 267.59
+        },
+        {
+          "word": "product,",
+          "start": 267.61,
+          "end": 267.98
+        },
+        {
+          "word": "automate",
+          "start": 268.0,
+          "end": 268.41
+        },
+        {
+          "word": "marketing,",
+          "start": 268.43,
+          "end": 268.86
+        },
+        {
+          "word": "calculate",
+          "start": 268.9,
+          "end": 269.34
+        },
+        {
+          "word": "ROI",
+          "start": 269.36,
+          "end": 269.74
+        },
+        {
+          "word": "on",
+          "start": 269.76,
+          "end": 269.89
+        },
+        {
+          "word": "all",
+          "start": 269.91,
+          "end": 270.08
+        },
+        {
+          "word": "expenses.",
+          "start": 270.1,
+          "end": 270.56
+        }
+      ]
+    },
+    {
+      "start": 271.3,
+      "end": 277.5,
+      "text": "The memetic creatures always find new watering holes! Twitter ain't the only game in town. We need to flow like water into all the digital cracks!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 271.3,
+          "end": 271.46
+        },
+        {
+          "word": "memetic",
+          "start": 271.48,
+          "end": 271.94
+        },
+        {
+          "word": "creatures",
+          "start": 271.96,
+          "end": 272.41
+        },
+        {
+          "word": "always",
+          "start": 272.43,
+          "end": 272.76
+        },
+        {
+          "word": "find",
+          "start": 272.78,
+          "end": 273.04
+        },
+        {
+          "word": "new",
+          "start": 273.06,
+          "end": 273.23
+        },
+        {
+          "word": "watering",
+          "start": 273.25,
+          "end": 273.66
+        },
+        {
+          "word": "holes.",
+          "start": 273.68,
+          "end": 274.01
+        },
+        {
+          "word": "Twitter",
+          "start": 274.5,
+          "end": 274.89
+        },
+        {
+          "word": "ain't",
+          "start": 274.91,
+          "end": 275.14
+        },
+        {
+          "word": "the",
+          "start": 275.16,
+          "end": 275.26
+        },
+        {
+          "word": "only",
+          "start": 275.28,
+          "end": 275.54
+        },
+        {
+          "word": "game",
+          "start": 275.56,
+          "end": 275.84
+        },
+        {
+          "word": "in",
+          "start": 275.86,
+          "end": 275.99
+        },
+        {
+          "word": "town.",
+          "start": 276.01,
+          "end": 276.33
+        },
+        {
+          "word": "We",
+          "start": 276.4,
+          "end": 276.59
+        },
+        {
+          "word": "need",
+          "start": 276.61,
+          "end": 276.84
+        },
+        {
+          "word": "to",
+          "start": 276.86,
+          "end": 276.99
+        },
+        {
+          "word": "flow",
+          "start": 277.01,
+          "end": 277.29
+        },
+        {
+          "word": "like",
+          "start": 277.31,
+          "end": 277.51
+        },
+        {
+          "word": "water",
+          "start": 277.53,
+          "end": 277.86
+        },
+        {
+          "word": "into",
+          "start": 277.88,
+          "end": 278.09
+        },
+        {
+          "word": "all",
+          "start": 278.11,
+          "end": 278.29
+        },
+        {
+          "word": "the",
+          "start": 278.31,
+          "end": 278.43
+        },
+        {
+          "word": "digital",
+          "start": 278.45,
+          "end": 278.86
+        },
+        {
+          "word": "cracks.",
+          "start": 278.88,
+          "end": 279.31
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-17_JedAI-Council_The-Suspended-Oracle.json",
+    "session_log_source": "2025-07-17_JedAI-Council_The-Suspended-Oracle_session-log.json",
+    "total_segments": 17,
+    "matched_segments": 17,
+    "dialogues_in_script": 15
+  }
+}

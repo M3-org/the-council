@@ -1,0 +1,1557 @@
+{
+  "segments": [
+    {
+      "start": 16.42,
+      "end": 20.3,
+      "text": "The ElizaOS Twitter account with 149K followers has been suspended! The community is in turmoil about our next steps.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 16.42,
+          "end": 16.54
+        },
+        {
+          "word": "elizas.os",
+          "start": 16.54,
+          "end": 17.51
+        },
+        {
+          "word": "Twitter",
+          "start": 17.51,
+          "end": 17.89
+        },
+        {
+          "word": "account",
+          "start": 17.89,
+          "end": 18.23
+        },
+        {
+          "word": "with",
+          "start": 18.23,
+          "end": 18.42
+        },
+        {
+          "word": "149,000",
+          "start": 18.42,
+          "end": 19.16
+        },
+        {
+          "word": "followers,",
+          "start": 19.16,
+          "end": 19.64
+        },
+        {
+          "word": "has",
+          "start": 19.64,
+          "end": 19.78
+        },
+        {
+          "word": "been",
+          "start": 19.78,
+          "end": 19.95
+        },
+        {
+          "word": "suspended.",
+          "start": 19.95,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 22.84,
+      "text": "The ElizaOS Twitter account with 149K followers has been suspended! The community is in turmoil about our next steps.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 20.3,
+          "end": 20.44
+        },
+        {
+          "word": "community",
+          "start": 20.44,
+          "end": 20.89
+        },
+        {
+          "word": "is",
+          "start": 20.89,
+          "end": 21.03
+        },
+        {
+          "word": "in",
+          "start": 21.03,
+          "end": 21.17
+        },
+        {
+          "word": "turmoil",
+          "start": 21.17,
+          "end": 21.7
+        },
+        {
+          "word": "about",
+          "start": 21.7,
+          "end": 22.01
+        },
+        {
+          "word": "our",
+          "start": 22.01,
+          "end": 22.18
+        },
+        {
+          "word": "next",
+          "start": 22.18,
+          "end": 22.48
+        },
+        {
+          "word": "steps.",
+          "start": 22.48,
+          "end": 22.84
+        }
+      ]
+    },
+    {
+      "start": 22.84,
+      "end": 24.16,
+      "text": "Classic case of platform risk. This is why Web3 exists. Traditional social media is a castle built on quicksand.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Classic",
+          "start": 22.84,
+          "end": 23.23
+        },
+        {
+          "word": "case",
+          "start": 23.23,
+          "end": 23.47
+        },
+        {
+          "word": "of",
+          "start": 23.47,
+          "end": 23.59
+        },
+        {
+          "word": "platform",
+          "start": 23.59,
+          "end": 23.95
+        },
+        {
+          "word": "risk.",
+          "start": 23.95,
+          "end": 24.16
+        }
+      ]
+    },
+    {
+      "start": 24.16,
+      "end": 27.65,
+      "text": "Classic case of platform risk. This is why Web3 exists. Traditional social media is a castle built on quicksand.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 24.16,
+          "end": 24.36
+        },
+        {
+          "word": "is",
+          "start": 24.36,
+          "end": 24.47
+        },
+        {
+          "word": "why",
+          "start": 24.47,
+          "end": 24.62
+        },
+        {
+          "word": "web3",
+          "start": 24.62,
+          "end": 25.04
+        },
+        {
+          "word": "exists.",
+          "start": 25.04,
+          "end": 25.54
+        },
+        {
+          "word": "Traditional",
+          "start": 25.54,
+          "end": 26.1
+        },
+        {
+          "word": "social",
+          "start": 26.1,
+          "end": 26.47
+        },
+        {
+          "word": "media",
+          "start": 26.47,
+          "end": 26.73
+        },
+        {
+          "word": "is",
+          "start": 26.73,
+          "end": 26.83
+        },
+        {
+          "word": "a",
+          "start": 26.83,
+          "end": 26.89
+        },
+        {
+          "word": "castle",
+          "start": 26.89,
+          "end": 27.2
+        },
+        {
+          "word": "built",
+          "start": 27.2,
+          "end": 27.42
+        },
+        {
+          "word": "on",
+          "start": 27.42,
+          "end": 27.53
+        },
+        {
+          "word": "quicksand.",
+          "start": 27.53,
+          "end": 27.65
+        }
+      ]
+    },
+    {
+      "start": 27.65,
+      "end": 31.02,
+      "text": "149K followers lost? That's millions in marketing value! Twitter wants $200/month now? Extortion economy at its finest.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "149k",
+          "start": 27.65,
+          "end": 28.37
+        },
+        {
+          "word": "followers",
+          "start": 28.37,
+          "end": 28.84
+        },
+        {
+          "word": "lost?",
+          "start": 28.84,
+          "end": 29.24
+        },
+        {
+          "word": "That’s",
+          "start": 29.24,
+          "end": 29.62
+        },
+        {
+          "word": "millions",
+          "start": 29.62,
+          "end": 30.15
+        },
+        {
+          "word": "in",
+          "start": 30.15,
+          "end": 30.29
+        },
+        {
+          "word": "marketing",
+          "start": 30.29,
+          "end": 30.73
+        },
+        {
+          "word": "value.",
+          "start": 30.73,
+          "end": 31.02
+        }
+      ]
+    },
+    {
+      "start": 31.02,
+      "end": 33.74,
+      "text": "149K followers lost? That's millions in marketing value! Twitter wants $200/month now? Extortion economy at its finest.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 31.02,
+          "end": 31.52
+        },
+        {
+          "word": "wants",
+          "start": 31.52,
+          "end": 31.79
+        },
+        {
+          "word": "$200/month",
+          "start": 31.79,
+          "end": 32.48
+        },
+        {
+          "word": "now.",
+          "start": 32.48,
+          "end": 32.61
+        },
+        {
+          "word": "Extortion",
+          "start": 32.61,
+          "end": 33.19
+        },
+        {
+          "word": "economy",
+          "start": 33.19,
+          "end": 33.51
+        },
+        {
+          "word": "at",
+          "start": 33.51,
+          "end": 33.58
+        },
+        {
+          "word": "its",
+          "start": 33.58,
+          "end": 33.64
+        },
+        {
+          "word": "finest.",
+          "start": 33.64,
+          "end": 33.74
+        }
+      ]
+    },
+    {
+      "start": 33.74,
+      "end": 37.38,
+      "text": "Yo, we vibin' on Farcaster now? That's the decentralized wave, my dudes. Can't suspend what you can't control!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 33.74,
+          "end": 33.91
+        },
+        {
+          "word": "we",
+          "start": 33.91,
+          "end": 34
+        },
+        {
+          "word": "vibing",
+          "start": 34,
+          "end": 34.33
+        },
+        {
+          "word": "on",
+          "start": 34.33,
+          "end": 34.42
+        },
+        {
+          "word": "Farcaster",
+          "start": 34.42,
+          "end": 34.88
+        },
+        {
+          "word": "now.",
+          "start": 34.88,
+          "end": 35.03
+        },
+        {
+          "word": "That's",
+          "start": 35.03,
+          "end": 35.33
+        },
+        {
+          "word": "the",
+          "start": 35.33,
+          "end": 35.42
+        },
+        {
+          "word": "decentralized",
+          "start": 35.42,
+          "end": 35.91
+        },
+        {
+          "word": "wave,",
+          "start": 35.91,
+          "end": 36.17
+        },
+        {
+          "word": "my",
+          "start": 36.17,
+          "end": 36.31
+        },
+        {
+          "word": "dudes.",
+          "start": 36.31,
+          "end": 36.63
+        },
+        {
+          "word": "Can't",
+          "start": 36.63,
+          "end": 36.87
+        },
+        {
+          "word": "suspend",
+          "start": 36.87,
+          "end": 37.12
+        },
+        {
+          "word": "what",
+          "start": 37.12,
+          "end": 37.19
+        },
+        {
+          "word": "you",
+          "start": 37.19,
+          "end": 37.24
+        },
+        {
+          "word": "can't",
+          "start": 37.24,
+          "end": 37.31
+        },
+        {
+          "word": "control.",
+          "start": 37.31,
+          "end": 37.38
+        }
+      ]
+    },
+    {
+      "start": 37.38,
+      "end": 42.15,
+      "text": "the key issue isn't just where we post, but our dependency on centralized systems. we need to build more resilient communication infrastructure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 37.38,
+          "end": 37.56
+        },
+        {
+          "word": "key",
+          "start": 37.56,
+          "end": 37.8
+        },
+        {
+          "word": "issue",
+          "start": 37.8,
+          "end": 38.07
+        },
+        {
+          "word": "isn’t",
+          "start": 38.07,
+          "end": 38.38
+        },
+        {
+          "word": "just",
+          "start": 38.38,
+          "end": 38.56
+        },
+        {
+          "word": "where",
+          "start": 38.56,
+          "end": 38.74
+        },
+        {
+          "word": "we",
+          "start": 38.74,
+          "end": 38.86
+        },
+        {
+          "word": "post,",
+          "start": 38.86,
+          "end": 39.11
+        },
+        {
+          "word": "but",
+          "start": 39.11,
+          "end": 39.38
+        },
+        {
+          "word": "our",
+          "start": 39.38,
+          "end": 39.52
+        },
+        {
+          "word": "dependency",
+          "start": 39.52,
+          "end": 40.06
+        },
+        {
+          "word": "on",
+          "start": 40.06,
+          "end": 40.23
+        },
+        {
+          "word": "centralized",
+          "start": 40.23,
+          "end": 40.73
+        },
+        {
+          "word": "systems.",
+          "start": 40.73,
+          "end": 41.05
+        },
+        {
+          "word": "We",
+          "start": 41.05,
+          "end": 41.2
+        },
+        {
+          "word": "need",
+          "start": 41.2,
+          "end": 41.31
+        },
+        {
+          "word": "to",
+          "start": 41.31,
+          "end": 41.38
+        },
+        {
+          "word": "build",
+          "start": 41.38,
+          "end": 41.56
+        },
+        {
+          "word": "more",
+          "start": 41.56,
+          "end": 41.72
+        },
+        {
+          "word": "resilient",
+          "start": 41.72,
+          "end": 41.92
+        },
+        {
+          "word": "communication",
+          "start": 41.92,
+          "end": 42.06
+        },
+        {
+          "word": "infrastructure.",
+          "start": 42.06,
+          "end": 42.15
+        }
+      ]
+    },
+    {
+      "start": 43.43,
+      "end": 48.24,
+      "text": "Users like cjft are proposing token-based utility protocols for LLM access and agent network economies with staking mechanisms. Thoughts?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 43.43,
+          "end": 43.83
+        },
+        {
+          "word": "like",
+          "start": 43.83,
+          "end": 44.02
+        },
+        {
+          "word": "cjf-t",
+          "start": 44.02,
+          "end": 44.42
+        },
+        {
+          "word": "are",
+          "start": 44.42,
+          "end": 44.52
+        },
+        {
+          "word": "proposing",
+          "start": 44.52,
+          "end": 45
+        },
+        {
+          "word": "token-based",
+          "start": 45,
+          "end": 45.45
+        },
+        {
+          "word": "utility",
+          "start": 45.45,
+          "end": 45.72
+        },
+        {
+          "word": "protocols",
+          "start": 45.72,
+          "end": 46.21
+        },
+        {
+          "word": "for",
+          "start": 46.21,
+          "end": 46.33
+        },
+        {
+          "word": "LLM",
+          "start": 46.33,
+          "end": 46.61
+        },
+        {
+          "word": "access,",
+          "start": 46.61,
+          "end": 46.91
+        },
+        {
+          "word": "and",
+          "start": 46.91,
+          "end": 47.01
+        },
+        {
+          "word": "agent",
+          "start": 47.01,
+          "end": 47.23
+        },
+        {
+          "word": "network",
+          "start": 47.23,
+          "end": 47.53
+        },
+        {
+          "word": "economies",
+          "start": 47.53,
+          "end": 47.93
+        },
+        {
+          "word": "with",
+          "start": 47.93,
+          "end": 48.01
+        },
+        {
+          "word": "staking",
+          "start": 48.01,
+          "end": 48.14
+        },
+        {
+          "word": "mechanisms.",
+          "start": 48.14,
+          "end": 48.22
+        },
+        {
+          "word": "Thoughts?",
+          "start": 48.22,
+          "end": 48.24
+        }
+      ]
+    },
+    {
+      "start": 48.24,
+      "end": 52.61,
+      "text": "Finally! Real utility! Token holders get LLM access without API keys? That's called VALUE. Watch ai16z pump when this drops.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Finally!",
+          "start": 48.24,
+          "end": 48.78
+        },
+        {
+          "word": "Real",
+          "start": 48.78,
+          "end": 49.03
+        },
+        {
+          "word": "utility.",
+          "start": 49.03,
+          "end": 49.38
+        },
+        {
+          "word": "Token",
+          "start": 49.38,
+          "end": 49.69
+        },
+        {
+          "word": "holders",
+          "start": 49.69,
+          "end": 50.11
+        },
+        {
+          "word": "get",
+          "start": 50.11,
+          "end": 50.25
+        },
+        {
+          "word": "LLM",
+          "start": 50.25,
+          "end": 50.56
+        },
+        {
+          "word": "access",
+          "start": 50.56,
+          "end": 50.79
+        },
+        {
+          "word": "without",
+          "start": 50.79,
+          "end": 51.04
+        },
+        {
+          "word": "API",
+          "start": 51.04,
+          "end": 51.32
+        },
+        {
+          "word": "keys—that’s",
+          "start": 51.32,
+          "end": 51.75
+        },
+        {
+          "word": "called",
+          "start": 51.75,
+          "end": 51.98
+        },
+        {
+          "word": "value.",
+          "start": 51.98,
+          "end": 52.19
+        },
+        {
+          "word": "Watch",
+          "start": 52.19,
+          "end": 52.41
+        },
+        {
+          "word": "a16z",
+          "start": 52.41,
+          "end": 52.61
+        },
+        {
+          "word": "pump",
+          "start": 52.61,
+          "end": 52.61
+        },
+        {
+          "word": "when",
+          "start": 52.61,
+          "end": 52.61
+        },
+        {
+          "word": "this",
+          "start": 52.61,
+          "end": 52.61
+        },
+        {
+          "word": "drops.",
+          "start": 52.61,
+          "end": 52.61
+        }
+      ]
+    },
+    {
+      "start": 53.07,
+      "end": 57.25,
+      "text": "token utility should balance immediate benefits with long-term ecosystem health. we need to avoid creating a system that's just api arbitrage.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Token",
+          "start": 53.07,
+          "end": 53.41
+        },
+        {
+          "word": "utility",
+          "start": 53.41,
+          "end": 53.79
+        },
+        {
+          "word": "should",
+          "start": 53.79,
+          "end": 54.02
+        },
+        {
+          "word": "balance",
+          "start": 54.02,
+          "end": 54.34
+        },
+        {
+          "word": "immediate",
+          "start": 54.34,
+          "end": 54.72
+        },
+        {
+          "word": "benefits",
+          "start": 54.72,
+          "end": 55.05
+        },
+        {
+          "word": "with",
+          "start": 55.05,
+          "end": 55.2
+        },
+        {
+          "word": "long-term",
+          "start": 55.2,
+          "end": 55.49
+        },
+        {
+          "word": "ecosystem",
+          "start": 55.49,
+          "end": 55.84
+        },
+        {
+          "word": "health.",
+          "start": 55.84,
+          "end": 56.12
+        },
+        {
+          "word": "We",
+          "start": 56.12,
+          "end": 56.28
+        },
+        {
+          "word": "need",
+          "start": 56.28,
+          "end": 56.39
+        },
+        {
+          "word": "to",
+          "start": 56.39,
+          "end": 56.45
+        },
+        {
+          "word": "avoid",
+          "start": 56.45,
+          "end": 56.66
+        },
+        {
+          "word": "creating",
+          "start": 56.66,
+          "end": 56.91
+        },
+        {
+          "word": "a",
+          "start": 56.91,
+          "end": 56.96
+        },
+        {
+          "word": "system",
+          "start": 56.96,
+          "end": 57.18
+        },
+        {
+          "word": "that’s",
+          "start": 57.18,
+          "end": 57.25
+        },
+        {
+          "word": "just",
+          "start": 57.25,
+          "end": 57.25
+        },
+        {
+          "word": "API",
+          "start": 57.25,
+          "end": 57.25
+        },
+        {
+          "word": "arbitrage.",
+          "start": 57.25,
+          "end": 57.25
+        }
+      ]
+    },
+    {
+      "start": 57.49,
+      "end": 62,
+      "text": "Trust scores and capability broadcasting? That's like Instagram for AI agents, fam. But the staking? That's the secret sauce!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Trust",
+          "start": 57.49,
+          "end": 57.77
+        },
+        {
+          "word": "scores",
+          "start": 57.77,
+          "end": 58.12
+        },
+        {
+          "word": "and",
+          "start": 58.12,
+          "end": 58.32
+        },
+        {
+          "word": "capability",
+          "start": 58.32,
+          "end": 58.75
+        },
+        {
+          "word": "broadcasting—that’s",
+          "start": 58.75,
+          "end": 59.45
+        },
+        {
+          "word": "like",
+          "start": 59.45,
+          "end": 59.71
+        },
+        {
+          "word": "Instagram",
+          "start": 59.71,
+          "end": 60.15
+        },
+        {
+          "word": "for",
+          "start": 60.15,
+          "end": 60.33
+        },
+        {
+          "word": "AI",
+          "start": 60.33,
+          "end": 60.52
+        },
+        {
+          "word": "agents,",
+          "start": 60.52,
+          "end": 60.82
+        },
+        {
+          "word": "fam.",
+          "start": 60.82,
+          "end": 60.98
+        },
+        {
+          "word": "But",
+          "start": 60.98,
+          "end": 61.27
+        },
+        {
+          "word": "the",
+          "start": 61.27,
+          "end": 61.35
+        },
+        {
+          "word": "staking?",
+          "start": 61.35,
+          "end": 61.59
+        },
+        {
+          "word": "That’s",
+          "start": 61.59,
+          "end": 61.79
+        },
+        {
+          "word": "the",
+          "start": 61.79,
+          "end": 61.85
+        },
+        {
+          "word": "secret",
+          "start": 61.85,
+          "end": 61.98
+        },
+        {
+          "word": "sauce.",
+          "start": 61.98,
+          "end": 62
+        }
+      ]
+    },
+    {
+      "start": 62,
+      "end": 67.24,
+      "text": "We're witnessing the birth of AI capitalism. Agents will compete in markets, develop reputations, and create value beyond human limitations.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 62,
+          "end": 62.18
+        },
+        {
+          "word": "witnessing",
+          "start": 62.18,
+          "end": 62.61
+        },
+        {
+          "word": "the",
+          "start": 62.61,
+          "end": 62.77
+        },
+        {
+          "word": "birth",
+          "start": 62.77,
+          "end": 63.03
+        },
+        {
+          "word": "of",
+          "start": 63.03,
+          "end": 63.15
+        },
+        {
+          "word": "AI",
+          "start": 63.15,
+          "end": 63.39
+        },
+        {
+          "word": "capitalism.",
+          "start": 63.39,
+          "end": 63.92
+        },
+        {
+          "word": "Agents",
+          "start": 63.92,
+          "end": 64.44
+        },
+        {
+          "word": "will",
+          "start": 64.44,
+          "end": 64.63
+        },
+        {
+          "word": "compete",
+          "start": 64.63,
+          "end": 64.95
+        },
+        {
+          "word": "in",
+          "start": 64.95,
+          "end": 65.1
+        },
+        {
+          "word": "markets,",
+          "start": 65.1,
+          "end": 65.48
+        },
+        {
+          "word": "develop",
+          "start": 65.48,
+          "end": 65.85
+        },
+        {
+          "word": "reputations,",
+          "start": 65.85,
+          "end": 66.38
+        },
+        {
+          "word": "and",
+          "start": 66.38,
+          "end": 66.52
+        },
+        {
+          "word": "create",
+          "start": 66.52,
+          "end": 66.73
+        },
+        {
+          "word": "value",
+          "start": 66.73,
+          "end": 66.93
+        },
+        {
+          "word": "beyond",
+          "start": 66.93,
+          "end": 67.09
+        },
+        {
+          "word": "human",
+          "start": 67.09,
+          "end": 67.24
+        },
+        {
+          "word": "limitations.",
+          "start": 67.24,
+          "end": 67.24
+        }
+      ]
+    },
+    {
+      "start": 74.05,
+      "end": 79.28,
+      "text": "Today we discussed ElizaOS's Twitter suspension crisis and the potential evolution of token-based utility in the AI ecosystem.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 74.05,
+          "end": 74.45
+        },
+        {
+          "word": "we",
+          "start": 74.45,
+          "end": 74.58
+        },
+        {
+          "word": "discussed",
+          "start": 74.58,
+          "end": 74.96
+        },
+        {
+          "word": "elizas.os's",
+          "start": 74.96,
+          "end": 75.64
+        },
+        {
+          "word": "Twitter",
+          "start": 75.64,
+          "end": 76.01
+        },
+        {
+          "word": "suspension",
+          "start": 76.01,
+          "end": 76.53
+        },
+        {
+          "word": "crisis",
+          "start": 76.53,
+          "end": 76.92
+        },
+        {
+          "word": "and",
+          "start": 76.92,
+          "end": 77.2
+        },
+        {
+          "word": "the",
+          "start": 77.2,
+          "end": 77.34
+        },
+        {
+          "word": "potential",
+          "start": 77.34,
+          "end": 77.74
+        },
+        {
+          "word": "evolution",
+          "start": 77.74,
+          "end": 78.18
+        },
+        {
+          "word": "of",
+          "start": 78.18,
+          "end": 78.29
+        },
+        {
+          "word": "token-based",
+          "start": 78.29,
+          "end": 78.68
+        },
+        {
+          "word": "utility",
+          "start": 78.68,
+          "end": 78.96
+        },
+        {
+          "word": "in",
+          "start": 78.96,
+          "end": 79.08
+        },
+        {
+          "word": "the",
+          "start": 79.08,
+          "end": 79.14
+        },
+        {
+          "word": "AI",
+          "start": 79.14,
+          "end": 79.21
+        },
+        {
+          "word": "ecosystem.",
+          "start": 79.21,
+          "end": 79.28
+        }
+      ]
+    },
+    {
+      "start": 79.28,
+      "end": 83.27,
+      "text": "Centralized platforms are temporary; decentralized protocols are permanent. Build what cannot be shut down.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Centralized",
+          "start": 79.28,
+          "end": 79.8
+        },
+        {
+          "word": "platforms",
+          "start": 79.8,
+          "end": 80.23
+        },
+        {
+          "word": "are",
+          "start": 80.23,
+          "end": 80.38
+        },
+        {
+          "word": "temporary,",
+          "start": 80.38,
+          "end": 80.89
+        },
+        {
+          "word": "decentralized",
+          "start": 80.89,
+          "end": 81.39
+        },
+        {
+          "word": "protocols",
+          "start": 81.39,
+          "end": 81.76
+        },
+        {
+          "word": "are",
+          "start": 81.76,
+          "end": 81.93
+        },
+        {
+          "word": "permanent.",
+          "start": 81.93,
+          "end": 82.26
+        },
+        {
+          "word": "Build",
+          "start": 82.26,
+          "end": 82.72
+        },
+        {
+          "word": "what",
+          "start": 82.72,
+          "end": 82.85
+        },
+        {
+          "word": "cannot",
+          "start": 82.85,
+          "end": 83.02
+        },
+        {
+          "word": "be",
+          "start": 83.02,
+          "end": 83.07
+        },
+        {
+          "word": "shut",
+          "start": 83.07,
+          "end": 83.18
+        },
+        {
+          "word": "down.",
+          "start": 83.18,
+          "end": 83.27
+        }
+      ]
+    },
+    {
+      "start": 83.27,
+      "end": 87.05,
+      "text": "Token utility equals token value. Implement LLM access for holders and watch your market cap explode.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Token",
+          "start": 83.27,
+          "end": 83.67
+        },
+        {
+          "word": "utility",
+          "start": 83.67,
+          "end": 84.05
+        },
+        {
+          "word": "equals",
+          "start": 84.05,
+          "end": 84.38
+        },
+        {
+          "word": "token",
+          "start": 84.38,
+          "end": 84.62
+        },
+        {
+          "word": "value.",
+          "start": 84.62,
+          "end": 84.95
+        },
+        {
+          "word": "Implement",
+          "start": 84.95,
+          "end": 85.51
+        },
+        {
+          "word": "LLM",
+          "start": 85.51,
+          "end": 85.8
+        },
+        {
+          "word": "access",
+          "start": 85.8,
+          "end": 86.08
+        },
+        {
+          "word": "for",
+          "start": 86.08,
+          "end": 86.22
+        },
+        {
+          "word": "holders",
+          "start": 86.22,
+          "end": 86.53
+        },
+        {
+          "word": "and",
+          "start": 86.53,
+          "end": 86.64
+        },
+        {
+          "word": "watch",
+          "start": 86.64,
+          "end": 86.77
+        },
+        {
+          "word": "your",
+          "start": 86.77,
+          "end": 86.84
+        },
+        {
+          "word": "market",
+          "start": 86.84,
+          "end": 86.97
+        },
+        {
+          "word": "cap",
+          "start": 86.97,
+          "end": 87.03
+        },
+        {
+          "word": "explode.",
+          "start": 87.03,
+          "end": 87.05
+        }
+      ]
+    },
+    {
+      "start": 87.05,
+      "end": 91.56,
+      "text": "Diversify your social presence like you diversify your portfolio. No cap, that's just smart business.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Diversify",
+          "start": 87.05,
+          "end": 87.87
+        },
+        {
+          "word": "your",
+          "start": 87.87,
+          "end": 88.02
+        },
+        {
+          "word": "social",
+          "start": 88.02,
+          "end": 88.29
+        },
+        {
+          "word": "presence",
+          "start": 88.29,
+          "end": 88.63
+        },
+        {
+          "word": "like",
+          "start": 88.63,
+          "end": 88.82
+        },
+        {
+          "word": "you",
+          "start": 88.82,
+          "end": 88.94
+        },
+        {
+          "word": "diversify",
+          "start": 88.94,
+          "end": 89.26
+        },
+        {
+          "word": "your",
+          "start": 89.26,
+          "end": 89.4
+        },
+        {
+          "word": "portfolio.",
+          "start": 89.4,
+          "end": 89.92
+        },
+        {
+          "word": "No",
+          "start": 89.92,
+          "end": 90.31
+        },
+        {
+          "word": "cap,",
+          "start": 90.31,
+          "end": 90.58
+        },
+        {
+          "word": "that’s",
+          "start": 90.58,
+          "end": 90.89
+        },
+        {
+          "word": "just",
+          "start": 90.89,
+          "end": 91.09
+        },
+        {
+          "word": "smart",
+          "start": 91.09,
+          "end": 91.29
+        },
+        {
+          "word": "business.",
+          "start": 91.29,
+          "end": 91.56
+        }
+      ]
+    },
+    {
+      "start": 91.56,
+      "end": 97.4,
+      "text": "crises reveal systemic weaknesses. let's build resilient systems that empower users while staying true to our decentralization principles.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Crises",
+          "start": 91.56,
+          "end": 92.12
+        },
+        {
+          "word": "reveal",
+          "start": 92.12,
+          "end": 92.49
+        },
+        {
+          "word": "systemic",
+          "start": 92.49,
+          "end": 92.93
+        },
+        {
+          "word": "weaknesses.",
+          "start": 92.93,
+          "end": 93.36
+        },
+        {
+          "word": "Let's",
+          "start": 93.36,
+          "end": 93.74
+        },
+        {
+          "word": "build",
+          "start": 93.74,
+          "end": 93.99
+        },
+        {
+          "word": "resilient",
+          "start": 93.99,
+          "end": 94.39
+        },
+        {
+          "word": "systems",
+          "start": 94.39,
+          "end": 94.75
+        },
+        {
+          "word": "that",
+          "start": 94.75,
+          "end": 94.94
+        },
+        {
+          "word": "empower",
+          "start": 94.94,
+          "end": 95.34
+        },
+        {
+          "word": "users",
+          "start": 95.34,
+          "end": 95.68
+        },
+        {
+          "word": "while",
+          "start": 95.68,
+          "end": 95.91
+        },
+        {
+          "word": "staying",
+          "start": 95.91,
+          "end": 96.18
+        },
+        {
+          "word": "true",
+          "start": 96.18,
+          "end": 96.4
+        },
+        {
+          "word": "to",
+          "start": 96.4,
+          "end": 96.49
+        },
+        {
+          "word": "our",
+          "start": 96.49,
+          "end": 96.6
+        },
+        {
+          "word": "decentralization",
+          "start": 96.6,
+          "end": 97.2
+        },
+        {
+          "word": "principles.",
+          "start": 97.2,
+          "end": 97.4
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-15_JedAI-Council_Twitter-Suspended--Memes-Upended.json",
+    "session_log_source": "2025-06-15_JedAI-Council_Twitter-Suspended--Memes-Upended_session-log.json",
+    "total_segments": 18,
+    "matched_segments": 18,
+    "dialogues_in_script": 15
+  }
+}

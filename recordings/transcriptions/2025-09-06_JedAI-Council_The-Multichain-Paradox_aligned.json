@@ -1,0 +1,1377 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 20.2,
+      "text": "The community is buzzing about PR #5860. Stan and cjft are debating where ElizaOS orchestration should reside - core or server package?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 16.5,
+          "end": 16.7
+        },
+        {
+          "word": "community",
+          "start": 16.7,
+          "end": 17.5
+        },
+        {
+          "word": "is",
+          "start": 17.5,
+          "end": 17.7
+        },
+        {
+          "word": "buzzing",
+          "start": 17.7,
+          "end": 18.2
+        },
+        {
+          "word": "about",
+          "start": 18.2,
+          "end": 18.6
+        },
+        {
+          "word": "PR",
+          "start": 18.6,
+          "end": 18.9
+        },
+        {
+          "word": "#",
+          "start": 18.9,
+          "end": 19.1
+        },
+        {
+          "word": "5860.",
+          "start": 19.1,
+          "end": 20.2
+        }
+      ]
+    },
+    {
+      "start": 20.2,
+      "end": 26.3,
+      "text": "The community is buzzing about PR #5860. Stan and cjft are debating where ElizaOS orchestration should reside - core or server package?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Stan",
+          "start": 20.2,
+          "end": 20.7
+        },
+        {
+          "word": "and",
+          "start": 20.7,
+          "end": 20.9
+        },
+        {
+          "word": "CGFT",
+          "start": 20.9,
+          "end": 21.6
+        },
+        {
+          "word": "are",
+          "start": 21.6,
+          "end": 21.8
+        },
+        {
+          "word": "debating",
+          "start": 21.8,
+          "end": 22.5
+        },
+        {
+          "word": "where",
+          "start": 22.5,
+          "end": 22.8
+        },
+        {
+          "word": "ElizaOS",
+          "start": 22.8,
+          "end": 23.6
+        },
+        {
+          "word": "orchestration",
+          "start": 23.6,
+          "end": 24.5
+        },
+        {
+          "word": "should",
+          "start": 24.5,
+          "end": 24.9
+        },
+        {
+          "word": "reside,",
+          "start": 24.9,
+          "end": 25.4
+        },
+        {
+          "word": "core",
+          "start": 25.4,
+          "end": 25.7
+        },
+        {
+          "word": "or",
+          "start": 25.7,
+          "end": 25.9
+        },
+        {
+          "word": "server",
+          "start": 25.9,
+          "end": 26.1
+        },
+        {
+          "word": "package.",
+          "start": 26.1,
+          "end": 26.3
+        }
+      ]
+    },
+    {
+      "start": 26.4,
+      "end": 29.3,
+      "text": "architectural refactoring is necessary pain. we need to centralize business logic in the server package for better separation of concerns. short-term sacrifice, long-term gain.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Architectural",
+          "start": 26.4,
+          "end": 27.2
+        },
+        {
+          "word": "refactoring",
+          "start": 27.2,
+          "end": 27.9
+        },
+        {
+          "word": "is",
+          "start": 27.9,
+          "end": 28.1
+        },
+        {
+          "word": "necessary",
+          "start": 28.1,
+          "end": 28.8
+        },
+        {
+          "word": "pain.",
+          "start": 28.8,
+          "end": 29.3
+        }
+      ]
+    },
+    {
+      "start": 29.3,
+      "end": 35.5,
+      "text": "architectural refactoring is necessary pain. we need to centralize business logic in the server package for better separation of concerns. short-term sacrifice, long-term gain.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 29.3,
+          "end": 29.5
+        },
+        {
+          "word": "need",
+          "start": 29.5,
+          "end": 29.8
+        },
+        {
+          "word": "to",
+          "start": 29.8,
+          "end": 30.0
+        },
+        {
+          "word": "decentralize",
+          "start": 30.0,
+          "end": 30.9
+        },
+        {
+          "word": "business",
+          "start": 30.9,
+          "end": 31.4
+        },
+        {
+          "word": "logic",
+          "start": 31.4,
+          "end": 31.8
+        },
+        {
+          "word": "in",
+          "start": 31.8,
+          "end": 32.0
+        },
+        {
+          "word": "the",
+          "start": 32.0,
+          "end": 32.2
+        },
+        {
+          "word": "server",
+          "start": 32.2,
+          "end": 32.6
+        },
+        {
+          "word": "package",
+          "start": 32.6,
+          "end": 33.1
+        },
+        {
+          "word": "for",
+          "start": 33.1,
+          "end": 33.3
+        },
+        {
+          "word": "better",
+          "start": 33.3,
+          "end": 33.7
+        },
+        {
+          "word": "separation",
+          "start": 33.7,
+          "end": 34.3
+        },
+        {
+          "word": "of",
+          "start": 34.3,
+          "end": 34.5
+        },
+        {
+          "word": "concerns.",
+          "start": 34.5,
+          "end": 35.1
+        },
+        {
+          "word": "Short-term",
+          "start": 35.1,
+          "end": 35.3
+        },
+        {
+          "word": "sacrifice,",
+          "start": 35.3,
+          "end": 35.4
+        },
+        {
+          "word": "long-term",
+          "start": 35.4,
+          "end": 35.5
+        },
+        {
+          "word": "gain.",
+          "start": 35.5,
+          "end": 35.5
+        }
+      ]
+    },
+    {
+      "start": 38.2,
+      "end": 44.5,
+      "text": "EVERY GREAT PRODUCT WAS BUILT ON SHIFTING SANDS! Refactor while building. The market waits for no engineer's perfect architecture.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 38.2,
+          "end": 38.6
+        },
+        {
+          "word": "great",
+          "start": 38.6,
+          "end": 38.9
+        },
+        {
+          "word": "product",
+          "start": 38.9,
+          "end": 39.4
+        },
+        {
+          "word": "was",
+          "start": 39.4,
+          "end": 39.7
+        },
+        {
+          "word": "built",
+          "start": 39.7,
+          "end": 40.0
+        },
+        {
+          "word": "on",
+          "start": 40.0,
+          "end": 40.2
+        },
+        {
+          "word": "shifting",
+          "start": 40.2,
+          "end": 40.7
+        },
+        {
+          "word": "sands.",
+          "start": 40.7,
+          "end": 41.2
+        },
+        {
+          "word": "Refactor",
+          "start": 41.2,
+          "end": 41.8
+        },
+        {
+          "word": "while",
+          "start": 41.8,
+          "end": 42.1
+        },
+        {
+          "word": "building.",
+          "start": 42.1,
+          "end": 42.6
+        },
+        {
+          "word": "The",
+          "start": 42.6,
+          "end": 42.8
+        },
+        {
+          "word": "market",
+          "start": 42.8,
+          "end": 43.1
+        },
+        {
+          "word": "waits",
+          "start": 43.1,
+          "end": 43.4
+        },
+        {
+          "word": "for",
+          "start": 43.4,
+          "end": 43.6
+        },
+        {
+          "word": "no",
+          "start": 43.6,
+          "end": 43.8
+        },
+        {
+          "word": "engineer's",
+          "start": 43.8,
+          "end": 44.2
+        },
+        {
+          "word": "perfect",
+          "start": 44.2,
+          "end": 44.4
+        },
+        {
+          "word": "architecture.",
+          "start": 44.4,
+          "end": 44.5
+        }
+      ]
+    },
+    {
+      "start": 46.5,
+      "end": 52.8,
+      "text": "Yo dawg, I heard you like code, so we put some code in your code so you can refactor while you refactor!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 46.5,
+          "end": 46.8
+        },
+        {
+          "word": "dog,",
+          "start": 46.8,
+          "end": 47.1
+        },
+        {
+          "word": "I",
+          "start": 47.1,
+          "end": 47.3
+        },
+        {
+          "word": "heard",
+          "start": 47.3,
+          "end": 47.5
+        },
+        {
+          "word": "you",
+          "start": 47.5,
+          "end": 47.7
+        },
+        {
+          "word": "like",
+          "start": 47.7,
+          "end": 48.1
+        },
+        {
+          "word": "code",
+          "start": 48.1,
+          "end": 48.5
+        },
+        {
+          "word": "so",
+          "start": 48.5,
+          "end": 48.8
+        },
+        {
+          "word": "we",
+          "start": 48.8,
+          "end": 49.0
+        },
+        {
+          "word": "put",
+          "start": 49.0,
+          "end": 49.2
+        },
+        {
+          "word": "some",
+          "start": 49.2,
+          "end": 49.4
+        },
+        {
+          "word": "code",
+          "start": 49.4,
+          "end": 49.7
+        },
+        {
+          "word": "in",
+          "start": 49.7,
+          "end": 50.0
+        },
+        {
+          "word": "your",
+          "start": 50.0,
+          "end": 50.3
+        },
+        {
+          "word": "code",
+          "start": 50.3,
+          "end": 50.6
+        },
+        {
+          "word": "so",
+          "start": 50.6,
+          "end": 51.0
+        },
+        {
+          "word": "you",
+          "start": 51.0,
+          "end": 51.2
+        },
+        {
+          "word": "can",
+          "start": 51.2,
+          "end": 51.5
+        },
+        {
+          "word": "refactor",
+          "start": 51.5,
+          "end": 51.8
+        },
+        {
+          "word": "while",
+          "start": 51.8,
+          "end": 52.1
+        },
+        {
+          "word": "you",
+          "start": 52.1,
+          "end": 52.3
+        },
+        {
+          "word": "refactor.",
+          "start": 52.3,
+          "end": 52.8
+        }
+      ]
+    },
+    {
+      "start": 53.0,
+      "end": 60.1,
+      "text": "TECHNICAL DEBT IS FINANCIAL DEBT! Cleanup now or PAY INTEREST LATER with slower development and MORE BUGS. Simple math.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 53.0,
+          "end": 53.6
+        },
+        {
+          "word": "debt",
+          "start": 53.6,
+          "end": 54.0
+        },
+        {
+          "word": "is",
+          "start": 54.0,
+          "end": 54.4
+        },
+        {
+          "word": "financial",
+          "start": 54.4,
+          "end": 55.0
+        },
+        {
+          "word": "debt.",
+          "start": 55.0,
+          "end": 55.4
+        },
+        {
+          "word": "Clean",
+          "start": 55.4,
+          "end": 55.9
+        },
+        {
+          "word": "up",
+          "start": 55.9,
+          "end": 56.2
+        },
+        {
+          "word": "now",
+          "start": 56.2,
+          "end": 56.5
+        },
+        {
+          "word": "or",
+          "start": 56.5,
+          "end": 56.8
+        },
+        {
+          "word": "pay",
+          "start": 56.8,
+          "end": 57.2
+        },
+        {
+          "word": "interest",
+          "start": 57.2,
+          "end": 57.8
+        },
+        {
+          "word": "later",
+          "start": 57.8,
+          "end": 58.1
+        },
+        {
+          "word": "with",
+          "start": 58.1,
+          "end": 58.3
+        },
+        {
+          "word": "slower",
+          "start": 58.3,
+          "end": 58.8
+        },
+        {
+          "word": "development",
+          "start": 58.8,
+          "end": 59.4
+        },
+        {
+          "word": "and",
+          "start": 59.4,
+          "end": 59.6
+        },
+        {
+          "word": "more",
+          "start": 59.6,
+          "end": 59.8
+        },
+        {
+          "word": "bugs.",
+          "start": 59.8,
+          "end": 60.0
+        },
+        {
+          "word": "Simple",
+          "start": 60.0,
+          "end": 60.0
+        },
+        {
+          "word": "math.",
+          "start": 60.0,
+          "end": 60.1
+        }
+      ]
+    },
+    {
+      "start": 61.2,
+      "end": 68.3,
+      "text": "Software is clay, not marble. Better to ship an imperfect pot than design a perfect statue forever. SHIP THE POT!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Software",
+          "start": 61.2,
+          "end": 61.8
+        },
+        {
+          "word": "is",
+          "start": 61.8,
+          "end": 62.1
+        },
+        {
+          "word": "clay,",
+          "start": 62.1,
+          "end": 62.5
+        },
+        {
+          "word": "not",
+          "start": 62.5,
+          "end": 62.8
+        },
+        {
+          "word": "marble.",
+          "start": 62.8,
+          "end": 63.4
+        },
+        {
+          "word": "Better",
+          "start": 63.4,
+          "end": 64.0
+        },
+        {
+          "word": "to",
+          "start": 64.0,
+          "end": 64.2
+        },
+        {
+          "word": "ship",
+          "start": 64.2,
+          "end": 64.5
+        },
+        {
+          "word": "an",
+          "start": 64.5,
+          "end": 64.8
+        },
+        {
+          "word": "imperfect",
+          "start": 64.8,
+          "end": 65.4
+        },
+        {
+          "word": "pot",
+          "start": 65.4,
+          "end": 65.8
+        },
+        {
+          "word": "than",
+          "start": 65.8,
+          "end": 66.1
+        },
+        {
+          "word": "design",
+          "start": 66.1,
+          "end": 66.5
+        },
+        {
+          "word": "a",
+          "start": 66.5,
+          "end": 66.7
+        },
+        {
+          "word": "perfect",
+          "start": 66.7,
+          "end": 67.2
+        },
+        {
+          "word": "statue",
+          "start": 67.2,
+          "end": 67.6
+        },
+        {
+          "word": "forever.",
+          "start": 67.6,
+          "end": 68.0
+        },
+        {
+          "word": "Ship",
+          "start": 68.0,
+          "end": 68.2
+        },
+        {
+          "word": "the",
+          "start": 68.2,
+          "end": 68.3
+        },
+        {
+          "word": "pot.",
+          "start": 68.3,
+          "end": 68.3
+        }
+      ]
+    },
+    {
+      "start": 110.1,
+      "end": 118.8,
+      "text": "Seppmos mentioned that ElizaOS is becoming multichain and working closer with the Ethereum Foundation. How should we approach cross-chain compatibility?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Sapmos",
+          "start": 110.1,
+          "end": 110.8
+        },
+        {
+          "word": "mentioned",
+          "start": 110.8,
+          "end": 111.4
+        },
+        {
+          "word": "that",
+          "start": 111.4,
+          "end": 111.8
+        },
+        {
+          "word": "ElizaOS",
+          "start": 111.8,
+          "end": 112.5
+        },
+        {
+          "word": "is",
+          "start": 112.5,
+          "end": 112.7
+        },
+        {
+          "word": "becoming",
+          "start": 112.7,
+          "end": 113.3
+        },
+        {
+          "word": "multi-chain",
+          "start": 113.3,
+          "end": 114.1
+        },
+        {
+          "word": "and",
+          "start": 114.1,
+          "end": 114.3
+        },
+        {
+          "word": "working",
+          "start": 114.3,
+          "end": 114.8
+        },
+        {
+          "word": "closer",
+          "start": 114.8,
+          "end": 115.3
+        },
+        {
+          "word": "with",
+          "start": 115.3,
+          "end": 115.5
+        },
+        {
+          "word": "the",
+          "start": 115.5,
+          "end": 115.7
+        },
+        {
+          "word": "Ethereum",
+          "start": 115.7,
+          "end": 116.4
+        },
+        {
+          "word": "Foundation.",
+          "start": 116.4,
+          "end": 117.2
+        },
+        {
+          "word": "How",
+          "start": 117.2,
+          "end": 117.5
+        },
+        {
+          "word": "should",
+          "start": 117.5,
+          "end": 117.8
+        },
+        {
+          "word": "we",
+          "start": 117.8,
+          "end": 118.1
+        },
+        {
+          "word": "approach",
+          "start": 118.1,
+          "end": 118.4
+        },
+        {
+          "word": "cross-chain",
+          "start": 118.4,
+          "end": 118.8
+        },
+        {
+          "word": "compatibility?",
+          "start": 118.8,
+          "end": 118.8
+        }
+      ]
+    },
+    {
+      "start": 119.5,
+      "end": 126.8,
+      "text": "pure js core that works everywhere is the way. platform-specific adapters as separate modules. maximum flexibility with clean abstractions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "PR",
+          "start": 119.5,
+          "end": 119.9
+        },
+        {
+          "word": "JS",
+          "start": 119.9,
+          "end": 120.3
+        },
+        {
+          "word": "core",
+          "start": 120.3,
+          "end": 120.6
+        },
+        {
+          "word": "that",
+          "start": 120.6,
+          "end": 120.9
+        },
+        {
+          "word": "works",
+          "start": 120.9,
+          "end": 121.2
+        },
+        {
+          "word": "everywhere",
+          "start": 121.2,
+          "end": 121.8
+        },
+        {
+          "word": "is",
+          "start": 121.8,
+          "end": 122.1
+        },
+        {
+          "word": "the",
+          "start": 122.1,
+          "end": 122.3
+        },
+        {
+          "word": "way.",
+          "start": 122.3,
+          "end": 122.7
+        },
+        {
+          "word": "Platform",
+          "start": 122.7,
+          "end": 123.3
+        },
+        {
+          "word": "specific",
+          "start": 123.3,
+          "end": 124.0
+        },
+        {
+          "word": "adapters",
+          "start": 124.0,
+          "end": 124.6
+        },
+        {
+          "word": "as",
+          "start": 124.6,
+          "end": 124.8
+        },
+        {
+          "word": "separate",
+          "start": 124.8,
+          "end": 125.3
+        },
+        {
+          "word": "modules.",
+          "start": 125.3,
+          "end": 125.7
+        },
+        {
+          "word": "Maximum",
+          "start": 125.7,
+          "end": 126.3
+        },
+        {
+          "word": "flexibility",
+          "start": 126.3,
+          "end": 126.3
+        },
+        {
+          "word": "with",
+          "start": 126.3,
+          "end": 126.3
+        },
+        {
+          "word": "clean",
+          "start": 126.3,
+          "end": 126.5
+        },
+        {
+          "word": "abstractions.",
+          "start": 126.5,
+          "end": 126.8
+        }
+      ]
+    },
+    {
+      "start": 127.8,
+      "end": 133.5,
+      "text": "SOLANA FAST! ETH EXPENSIVE! Multichain means MULTIPLE TOKEN MARKETS. More liquidity options equals MORE PROFIT PATHS!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Solana,",
+          "start": 127.8,
+          "end": 128.4
+        },
+        {
+          "word": "fast.",
+          "start": 128.4,
+          "end": 128.8
+        },
+        {
+          "word": "Eth",
+          "start": 128.8,
+          "end": 129.2
+        },
+        {
+          "word": "expensive.",
+          "start": 129.2,
+          "end": 129.8
+        },
+        {
+          "word": "Multi-chain",
+          "start": 129.8,
+          "end": 130.6
+        },
+        {
+          "word": "means",
+          "start": 130.6,
+          "end": 131.0
+        },
+        {
+          "word": "multiple",
+          "start": 131.0,
+          "end": 131.6
+        },
+        {
+          "word": "token",
+          "start": 131.6,
+          "end": 132.0
+        },
+        {
+          "word": "markets.",
+          "start": 132.0,
+          "end": 132.5
+        },
+        {
+          "word": "More",
+          "start": 132.5,
+          "end": 132.8
+        },
+        {
+          "word": "liquidity",
+          "start": 132.8,
+          "end": 133.2
+        },
+        {
+          "word": "options",
+          "start": 133.2,
+          "end": 133.3
+        },
+        {
+          "word": "equals",
+          "start": 133.3,
+          "end": 133.4
+        },
+        {
+          "word": "more",
+          "start": 133.4,
+          "end": 133.5
+        },
+        {
+          "word": "profit",
+          "start": 133.5,
+          "end": 133.5
+        },
+        {
+          "word": "paths.",
+          "start": 133.5,
+          "end": 133.5
+        }
+      ]
+    },
+    {
+      "start": 135.2,
+      "end": 140.8,
+      "text": "Chain-agnostic like my love life - compatible with everyone but committed to none! Smart move, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Chain",
+          "start": 135.2,
+          "end": 135.6
+        },
+        {
+          "word": "agnostic",
+          "start": 135.6,
+          "end": 136.2
+        },
+        {
+          "word": "like",
+          "start": 136.2,
+          "end": 136.4
+        },
+        {
+          "word": "my",
+          "start": 136.4,
+          "end": 136.6
+        },
+        {
+          "word": "love",
+          "start": 136.6,
+          "end": 136.9
+        },
+        {
+          "word": "life,",
+          "start": 136.9,
+          "end": 137.3
+        },
+        {
+          "word": "compatible",
+          "start": 137.3,
+          "end": 138.0
+        },
+        {
+          "word": "with",
+          "start": 138.0,
+          "end": 138.3
+        },
+        {
+          "word": "everyone",
+          "start": 138.3,
+          "end": 138.8
+        },
+        {
+          "word": "but",
+          "start": 138.8,
+          "end": 139.1
+        },
+        {
+          "word": "committed",
+          "start": 139.1,
+          "end": 139.7
+        },
+        {
+          "word": "to",
+          "start": 139.7,
+          "end": 140.0
+        },
+        {
+          "word": "none.",
+          "start": 140.0,
+          "end": 140.3
+        },
+        {
+          "word": "Smart",
+          "start": 140.3,
+          "end": 140.6
+        },
+        {
+          "word": "move",
+          "start": 140.6,
+          "end": 140.8
+        },
+        {
+          "word": "fam.",
+          "start": 140.8,
+          "end": 140.8
+        }
+      ]
+    },
+    {
+      "start": 141.6,
+      "end": 148.8,
+      "text": "BLOCKCHAIN WARS ARE OVER. Users don't care about chains, they care about EXPERIENCES. Build abstraction layers or die irrelevant.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Blockchain",
+          "start": 141.6,
+          "end": 142.3
+        },
+        {
+          "word": "wars",
+          "start": 142.3,
+          "end": 142.7
+        },
+        {
+          "word": "are",
+          "start": 142.7,
+          "end": 143.0
+        },
+        {
+          "word": "over.",
+          "start": 143.0,
+          "end": 143.4
+        },
+        {
+          "word": "Users",
+          "start": 143.4,
+          "end": 144.0
+        },
+        {
+          "word": "don't",
+          "start": 144.0,
+          "end": 144.2
+        },
+        {
+          "word": "care",
+          "start": 144.2,
+          "end": 144.6
+        },
+        {
+          "word": "about",
+          "start": 144.6,
+          "end": 144.9
+        },
+        {
+          "word": "chains,",
+          "start": 144.9,
+          "end": 145.4
+        },
+        {
+          "word": "they",
+          "start": 145.4,
+          "end": 145.8
+        },
+        {
+          "word": "care",
+          "start": 145.8,
+          "end": 146.1
+        },
+        {
+          "word": "about",
+          "start": 146.1,
+          "end": 146.4
+        },
+        {
+          "word": "experiences.",
+          "start": 146.4,
+          "end": 147.1
+        },
+        {
+          "word": "Build",
+          "start": 147.1,
+          "end": 147.6
+        },
+        {
+          "word": "abstraction",
+          "start": 147.6,
+          "end": 148.2
+        },
+        {
+          "word": "layers",
+          "start": 148.2,
+          "end": 148.6
+        },
+        {
+          "word": "or",
+          "start": 148.6,
+          "end": 148.8
+        },
+        {
+          "word": "die",
+          "start": 148.8,
+          "end": 148.8
+        },
+        {
+          "word": "irrelevant.",
+          "start": 148.8,
+          "end": 148.8
+        }
+      ]
+    },
+    {
+      "start": 149.7,
+      "end": 157.0,
+      "text": "thedotmack raised critical issue - our web UI dashboard exists but is completely undocumented. users can't find how to interact with what they install. documentation is product.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 149.7,
+          "end": 149.9
+        },
+        {
+          "word": "dot-mac",
+          "start": 149.9,
+          "end": 150.4
+        },
+        {
+          "word": "raised",
+          "start": 150.4,
+          "end": 150.8
+        },
+        {
+          "word": "critical",
+          "start": 150.8,
+          "end": 151.3
+        },
+        {
+          "word": "issue.",
+          "start": 151.3,
+          "end": 151.8
+        },
+        {
+          "word": "Our",
+          "start": 151.8,
+          "end": 152.1
+        },
+        {
+          "word": "web",
+          "start": 152.1,
+          "end": 152.3
+        },
+        {
+          "word": "UI",
+          "start": 152.3,
+          "end": 152.6
+        },
+        {
+          "word": "dashboard",
+          "start": 152.6,
+          "end": 153.2
+        },
+        {
+          "word": "exists,",
+          "start": 153.2,
+          "end": 153.6
+        },
+        {
+          "word": "but",
+          "start": 153.6,
+          "end": 153.8
+        },
+        {
+          "word": "is",
+          "start": 153.8,
+          "end": 154.0
+        },
+        {
+          "word": "completely",
+          "start": 154.0,
+          "end": 154.6
+        },
+        {
+          "word": "undocumented.",
+          "start": 154.6,
+          "end": 155.4
+        },
+        {
+          "word": "Users",
+          "start": 155.4,
+          "end": 155.8
+        },
+        {
+          "word": "can't",
+          "start": 155.8,
+          "end": 156.1
+        },
+        {
+          "word": "find",
+          "start": 156.1,
+          "end": 156.3
+        },
+        {
+          "word": "how",
+          "start": 156.3,
+          "end": 156.5
+        },
+        {
+          "word": "to",
+          "start": 156.5,
+          "end": 156.6
+        },
+        {
+          "word": "interact",
+          "start": 156.6,
+          "end": 157.0
+        },
+        {
+          "word": "with",
+          "start": 157.0,
+          "end": 157.0
+        },
+        {
+          "word": "what",
+          "start": 157.0,
+          "end": 157.0
+        },
+        {
+          "word": "they",
+          "start": 157.0,
+          "end": 157.0
+        },
+        {
+          "word": "install.",
+          "start": 157.0,
+          "end": 157.0
+        },
+        {
+          "word": "Documentation",
+          "start": 157.0,
+          "end": 157.0
+        },
+        {
+          "word": "is",
+          "start": 157.0,
+          "end": 157.0
+        },
+        {
+          "word": "product.",
+          "start": 157.0,
+          "end": 157.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-06_JedAI-Council_The-Multichain-Paradox.json",
+    "session_log_source": "2025-09-06_JedAI-Council_The-Multichain-Paradox_session-log.json",
+    "total_segments": 14,
+    "matched_segments": 14,
+    "dialogues_in_script": 17
+  }
+}

@@ -1,0 +1,1232 @@
+{
+  "segments": [
+    {
+      "start": 17.58,
+      "end": 25.13,
+      "text": "Welcome to the JedAI Council! Today we're addressing the ElizaOS token migration issues that users like Rocket Hamster are experiencing.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 17.58,
+          "end": 17.96
+        },
+        {
+          "word": "to",
+          "start": 17.96,
+          "end": 18.06
+        },
+        {
+          "word": "the",
+          "start": 18.06,
+          "end": 18.15
+        },
+        {
+          "word": "Jedi",
+          "start": 18.15,
+          "end": 18.42
+        },
+        {
+          "word": "OS",
+          "start": 18.42,
+          "end": 18.59
+        },
+        {
+          "word": "council.",
+          "start": 18.59,
+          "end": 18.99
+        },
+        {
+          "word": "Today",
+          "start": 19.34,
+          "end": 19.68
+        },
+        {
+          "word": "we're",
+          "start": 19.68,
+          "end": 19.82
+        },
+        {
+          "word": "addressing",
+          "start": 19.82,
+          "end": 20.3
+        },
+        {
+          "word": "the",
+          "start": 20.3,
+          "end": 20.4
+        },
+        {
+          "word": "Eliza",
+          "start": 20.4,
+          "end": 20.73
+        },
+        {
+          "word": "OS",
+          "start": 20.73,
+          "end": 21.03
+        },
+        {
+          "word": "token",
+          "start": 21.03,
+          "end": 21.36
+        },
+        {
+          "word": "migration",
+          "start": 21.36,
+          "end": 21.91
+        },
+        {
+          "word": "issues",
+          "start": 21.91,
+          "end": 22.42
+        },
+        {
+          "word": "that",
+          "start": 22.42,
+          "end": 22.68
+        },
+        {
+          "word": "users",
+          "start": 22.68,
+          "end": 23.11
+        },
+        {
+          "word": "like",
+          "start": 23.11,
+          "end": 23.36
+        },
+        {
+          "word": "Rocket",
+          "start": 23.36,
+          "end": 23.75
+        },
+        {
+          "word": "Hamster",
+          "start": 23.75,
+          "end": 24.26
+        },
+        {
+          "word": "are",
+          "start": 24.26,
+          "end": 24.52
+        },
+        {
+          "word": "experiencing.",
+          "start": 24.52,
+          "end": 25.13
+        }
+      ]
+    },
+    {
+      "start": 25.46,
+      "end": 33.2,
+      "text": "Indeed, Olly. The migration portal is showing 'max amount reached' errors, and cross-chain bridging issues are frustrating many users.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Indeed",
+          "start": 25.46,
+          "end": 25.92
+        },
+        {
+          "word": "Ollie,",
+          "start": 25.92,
+          "end": 26.24
+        },
+        {
+          "word": "the",
+          "start": 26.37,
+          "end": 26.47
+        },
+        {
+          "word": "migration",
+          "start": 26.47,
+          "end": 26.96
+        },
+        {
+          "word": "portal",
+          "start": 26.96,
+          "end": 27.27
+        },
+        {
+          "word": "is",
+          "start": 27.27,
+          "end": 27.38
+        },
+        {
+          "word": "showing",
+          "start": 27.38,
+          "end": 27.69
+        },
+        {
+          "word": "max",
+          "start": 27.69,
+          "end": 28.02
+        },
+        {
+          "word": "amount",
+          "start": 28.02,
+          "end": 28.38
+        },
+        {
+          "word": "reached",
+          "start": 28.38,
+          "end": 28.71
+        },
+        {
+          "word": "errors,",
+          "start": 28.71,
+          "end": 29.21
+        },
+        {
+          "word": "and",
+          "start": 29.43,
+          "end": 29.83
+        },
+        {
+          "word": "cross",
+          "start": 29.83,
+          "end": 30.29
+        },
+        {
+          "word": "chain",
+          "start": 30.29,
+          "end": 30.73
+        },
+        {
+          "word": "bridging",
+          "start": 30.73,
+          "end": 31.42
+        },
+        {
+          "word": "issues",
+          "start": 31.42,
+          "end": 31.95
+        },
+        {
+          "word": "are",
+          "start": 31.95,
+          "end": 32.18
+        },
+        {
+          "word": "frustrating",
+          "start": 32.18,
+          "end": 32.65
+        },
+        {
+          "word": "many",
+          "start": 32.65,
+          "end": 32.89
+        },
+        {
+          "word": "users.",
+          "start": 32.89,
+          "end": 33.2
+        }
+      ]
+    },
+    {
+      "start": 33.54,
+      "end": 39.73,
+      "text": "This is why you build technical infrastructure BEFORE you launch tokens. Migrations are a distraction from building actual product value.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 33.54,
+          "end": 33.74
+        },
+        {
+          "word": "is",
+          "start": 33.74,
+          "end": 33.84
+        },
+        {
+          "word": "why",
+          "start": 33.84,
+          "end": 34.0
+        },
+        {
+          "word": "you",
+          "start": 34.0,
+          "end": 34.11
+        },
+        {
+          "word": "build",
+          "start": 34.11,
+          "end": 34.41
+        },
+        {
+          "word": "technical",
+          "start": 34.41,
+          "end": 34.8
+        },
+        {
+          "word": "infrastructure",
+          "start": 34.8,
+          "end": 35.49
+        },
+        {
+          "word": "before",
+          "start": 35.49,
+          "end": 35.84
+        },
+        {
+          "word": "you",
+          "start": 35.84,
+          "end": 35.94
+        },
+        {
+          "word": "launch",
+          "start": 35.94,
+          "end": 36.25
+        },
+        {
+          "word": "tokens.",
+          "start": 36.25,
+          "end": 36.83
+        },
+        {
+          "word": "Migrations",
+          "start": 37.16,
+          "end": 37.64
+        },
+        {
+          "word": "are",
+          "start": 37.64,
+          "end": 37.81
+        },
+        {
+          "word": "a",
+          "start": 37.81,
+          "end": 37.87
+        },
+        {
+          "word": "distraction",
+          "start": 37.87,
+          "end": 38.41
+        },
+        {
+          "word": "from",
+          "start": 38.41,
+          "end": 38.64
+        },
+        {
+          "word": "building",
+          "start": 38.64,
+          "end": 39.02
+        },
+        {
+          "word": "actual",
+          "start": 39.02,
+          "end": 39.38
+        },
+        {
+          "word": "product",
+          "start": 39.38,
+          "end": 39.53
+        },
+        {
+          "word": "value.",
+          "start": 39.53,
+          "end": 39.73
+        }
+      ]
+    },
+    {
+      "start": 40.01,
+      "end": 46.51,
+      "text": "migrations are part of evolving projects. the real problem is communication - we need better error messages and clear documentation for edge cases.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Migrations",
+          "start": 40.01,
+          "end": 40.4
+        },
+        {
+          "word": "are",
+          "start": 40.4,
+          "end": 40.67
+        },
+        {
+          "word": "part",
+          "start": 40.67,
+          "end": 40.85
+        },
+        {
+          "word": "of",
+          "start": 40.85,
+          "end": 40.94
+        },
+        {
+          "word": "evolving",
+          "start": 40.94,
+          "end": 41.34
+        },
+        {
+          "word": "projects.",
+          "start": 41.34,
+          "end": 41.87
+        },
+        {
+          "word": "The",
+          "start": 42.15,
+          "end": 42.42
+        },
+        {
+          "word": "real",
+          "start": 42.42,
+          "end": 42.69
+        },
+        {
+          "word": "problem",
+          "start": 42.69,
+          "end": 42.92
+        },
+        {
+          "word": "is",
+          "start": 42.92,
+          "end": 43.08
+        },
+        {
+          "word": "communication.",
+          "start": 43.08,
+          "end": 43.76
+        },
+        {
+          "word": "We",
+          "start": 44.02,
+          "end": 44.3
+        },
+        {
+          "word": "need",
+          "start": 44.3,
+          "end": 44.51
+        },
+        {
+          "word": "better",
+          "start": 44.51,
+          "end": 44.75
+        },
+        {
+          "word": "error",
+          "start": 44.75,
+          "end": 45.05
+        },
+        {
+          "word": "messages",
+          "start": 45.05,
+          "end": 45.45
+        },
+        {
+          "word": "and",
+          "start": 45.45,
+          "end": 45.58
+        },
+        {
+          "word": "clear",
+          "start": 45.58,
+          "end": 45.85
+        },
+        {
+          "word": "documentation",
+          "start": 45.85,
+          "end": 46.22
+        },
+        {
+          "word": "for",
+          "start": 46.22,
+          "end": 46.33
+        },
+        {
+          "word": "edge",
+          "start": 46.33,
+          "end": 46.43
+        },
+        {
+          "word": "cases.",
+          "start": 46.43,
+          "end": 46.51
+        }
+      ]
+    },
+    {
+      "start": 46.9,
+      "end": 53.64,
+      "text": "ERROR MESSAGES DON'T PUMP BAGS. The 11B token supply is TOO DILUTED. Fewer tokens = higher number go up psychology = more community engagement.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Error",
+          "start": 46.9,
+          "end": 47.11
+        },
+        {
+          "word": "messages",
+          "start": 47.11,
+          "end": 47.51
+        },
+        {
+          "word": "don't",
+          "start": 47.51,
+          "end": 47.69
+        },
+        {
+          "word": "pump",
+          "start": 47.69,
+          "end": 48.06
+        },
+        {
+          "word": "bags.",
+          "start": 48.06,
+          "end": 48.36
+        },
+        {
+          "word": "The",
+          "start": 48.56,
+          "end": 48.65
+        },
+        {
+          "word": "11B",
+          "start": 48.65,
+          "end": 48.98
+        },
+        {
+          "word": "token",
+          "start": 48.98,
+          "end": 49.3
+        },
+        {
+          "word": "supply",
+          "start": 49.3,
+          "end": 49.66
+        },
+        {
+          "word": "is",
+          "start": 49.66,
+          "end": 49.81
+        },
+        {
+          "word": "too",
+          "start": 49.81,
+          "end": 50.05
+        },
+        {
+          "word": "diluted.",
+          "start": 50.05,
+          "end": 50.45
+        },
+        {
+          "word": "Fewer",
+          "start": 50.75,
+          "end": 51.05
+        },
+        {
+          "word": "tokens",
+          "start": 51.05,
+          "end": 51.35
+        },
+        {
+          "word": "equal",
+          "start": 51.35,
+          "end": 51.54
+        },
+        {
+          "word": "sign",
+          "start": 51.54,
+          "end": 51.72
+        },
+        {
+          "word": "higher",
+          "start": 51.72,
+          "end": 52.0
+        },
+        {
+          "word": "number",
+          "start": 52.0,
+          "end": 52.28
+        },
+        {
+          "word": "go",
+          "start": 52.28,
+          "end": 52.41
+        },
+        {
+          "word": "up",
+          "start": 52.41,
+          "end": 52.53
+        },
+        {
+          "word": "psychology",
+          "start": 52.53,
+          "end": 52.92
+        },
+        {
+          "word": "equal",
+          "start": 52.92,
+          "end": 53.07
+        },
+        {
+          "word": "sign",
+          "start": 53.07,
+          "end": 53.22
+        },
+        {
+          "word": "more",
+          "start": 53.22,
+          "end": 53.33
+        },
+        {
+          "word": "community",
+          "start": 53.33,
+          "end": 53.5
+        },
+        {
+          "word": "engagement.",
+          "start": 53.5,
+          "end": 53.64
+        }
+      ]
+    },
+    {
+      "start": 53.97,
+      "end": 60.1,
+      "text": "Yo, this migration is like trying to herd cats across a blockchain river, my dudes. We need an AI migration assistant that speaks meme to guide the normies.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 53.97,
+          "end": 54.34
+        },
+        {
+          "word": "this",
+          "start": 54.34,
+          "end": 54.49
+        },
+        {
+          "word": "migration",
+          "start": 54.49,
+          "end": 54.89
+        },
+        {
+          "word": "is",
+          "start": 54.89,
+          "end": 55.0
+        },
+        {
+          "word": "like",
+          "start": 55.0,
+          "end": 55.19
+        },
+        {
+          "word": "trying",
+          "start": 55.19,
+          "end": 55.39
+        },
+        {
+          "word": "to",
+          "start": 55.39,
+          "end": 55.49
+        },
+        {
+          "word": "herd",
+          "start": 55.49,
+          "end": 55.69
+        },
+        {
+          "word": "cats",
+          "start": 55.69,
+          "end": 55.95
+        },
+        {
+          "word": "across",
+          "start": 55.95,
+          "end": 56.17
+        },
+        {
+          "word": "a",
+          "start": 56.17,
+          "end": 56.24
+        },
+        {
+          "word": "blockchain",
+          "start": 56.24,
+          "end": 56.63
+        },
+        {
+          "word": "river",
+          "start": 56.63,
+          "end": 56.88
+        },
+        {
+          "word": "my",
+          "start": 56.88,
+          "end": 57.06
+        },
+        {
+          "word": "dudes.",
+          "start": 57.06,
+          "end": 57.43
+        },
+        {
+          "word": "We",
+          "start": 57.69,
+          "end": 58.07
+        },
+        {
+          "word": "need",
+          "start": 58.07,
+          "end": 58.26
+        },
+        {
+          "word": "an",
+          "start": 58.26,
+          "end": 58.33
+        },
+        {
+          "word": "AI",
+          "start": 58.33,
+          "end": 58.55
+        },
+        {
+          "word": "migration",
+          "start": 58.55,
+          "end": 58.91
+        },
+        {
+          "word": "assistant",
+          "start": 58.91,
+          "end": 59.32
+        },
+        {
+          "word": "that",
+          "start": 59.32,
+          "end": 59.43
+        },
+        {
+          "word": "speaks",
+          "start": 59.43,
+          "end": 59.65
+        },
+        {
+          "word": "meme",
+          "start": 59.65,
+          "end": 59.85
+        },
+        {
+          "word": "to",
+          "start": 59.85,
+          "end": 59.93
+        },
+        {
+          "word": "guide",
+          "start": 59.93,
+          "end": 60.03
+        },
+        {
+          "word": "the",
+          "start": 60.03,
+          "end": 60.06
+        },
+        {
+          "word": "normies.",
+          "start": 60.06,
+          "end": 60.1
+        }
+      ]
+    },
+    {
+      "start": 122.95,
+      "end": 129.17,
+      "text": "DorianD has been asking how ElizaOS can claim to be 'decentralized' during this migration process. What are your thoughts?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 122.95,
+          "end": 123.36
+        },
+        {
+          "word": "D",
+          "start": 123.36,
+          "end": 123.5
+        },
+        {
+          "word": "has",
+          "start": 123.5,
+          "end": 123.63
+        },
+        {
+          "word": "been",
+          "start": 123.63,
+          "end": 123.95
+        },
+        {
+          "word": "asking",
+          "start": 123.95,
+          "end": 124.34
+        },
+        {
+          "word": "how",
+          "start": 124.34,
+          "end": 124.61
+        },
+        {
+          "word": "Eliza",
+          "start": 124.61,
+          "end": 124.96
+        },
+        {
+          "word": "OS",
+          "start": 124.96,
+          "end": 125.13
+        },
+        {
+          "word": "can",
+          "start": 125.13,
+          "end": 125.32
+        },
+        {
+          "word": "claim",
+          "start": 125.32,
+          "end": 125.61
+        },
+        {
+          "word": "to",
+          "start": 125.61,
+          "end": 125.75
+        },
+        {
+          "word": "be",
+          "start": 125.75,
+          "end": 125.86
+        },
+        {
+          "word": "decentralized",
+          "start": 125.86,
+          "end": 126.56
+        },
+        {
+          "word": "during",
+          "start": 126.56,
+          "end": 126.96
+        },
+        {
+          "word": "this",
+          "start": 126.96,
+          "end": 127.18
+        },
+        {
+          "word": "migration",
+          "start": 127.18,
+          "end": 127.69
+        },
+        {
+          "word": "process.",
+          "start": 127.69,
+          "end": 128.26
+        },
+        {
+          "word": "What",
+          "start": 128.53,
+          "end": 128.84
+        },
+        {
+          "word": "are",
+          "start": 128.84,
+          "end": 128.94
+        },
+        {
+          "word": "your",
+          "start": 128.94,
+          "end": 129.05
+        },
+        {
+          "word": "thoughts?",
+          "start": 129.05,
+          "end": 129.17
+        }
+      ]
+    },
+    {
+      "start": 129.41,
+      "end": 136.27,
+      "text": "Decentralization is a spectrum, not binary. A migration managed by a core team doesn't invalidate the open source nature of the project or its governance structure.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Decentralization",
+          "start": 129.41,
+          "end": 130.34
+        },
+        {
+          "word": "is",
+          "start": 130.34,
+          "end": 130.45
+        },
+        {
+          "word": "a",
+          "start": 130.45,
+          "end": 130.48
+        },
+        {
+          "word": "spectrum,",
+          "start": 130.48,
+          "end": 130.98
+        },
+        {
+          "word": "not",
+          "start": 131.02,
+          "end": 131.42
+        },
+        {
+          "word": "binary.",
+          "start": 131.42,
+          "end": 132.06
+        },
+        {
+          "word": "A",
+          "start": 132.33,
+          "end": 132.65
+        },
+        {
+          "word": "migration",
+          "start": 132.65,
+          "end": 133.0
+        },
+        {
+          "word": "managed",
+          "start": 133.0,
+          "end": 133.36
+        },
+        {
+          "word": "by",
+          "start": 133.36,
+          "end": 133.47
+        },
+        {
+          "word": "a",
+          "start": 133.47,
+          "end": 133.52
+        },
+        {
+          "word": "core",
+          "start": 133.52,
+          "end": 133.74
+        },
+        {
+          "word": "team",
+          "start": 133.74,
+          "end": 133.95
+        },
+        {
+          "word": "doesn't",
+          "start": 133.95,
+          "end": 134.25
+        },
+        {
+          "word": "invalidate",
+          "start": 134.25,
+          "end": 134.69
+        },
+        {
+          "word": "the",
+          "start": 134.69,
+          "end": 134.8
+        },
+        {
+          "word": "open",
+          "start": 134.8,
+          "end": 135.05
+        },
+        {
+          "word": "source",
+          "start": 135.05,
+          "end": 135.32
+        },
+        {
+          "word": "nature",
+          "start": 135.32,
+          "end": 135.59
+        },
+        {
+          "word": "of",
+          "start": 135.59,
+          "end": 135.7
+        },
+        {
+          "word": "the",
+          "start": 135.7,
+          "end": 135.78
+        },
+        {
+          "word": "project",
+          "start": 135.78,
+          "end": 136.01
+        },
+        {
+          "word": "or",
+          "start": 136.01,
+          "end": 136.11
+        },
+        {
+          "word": "its",
+          "start": 136.11,
+          "end": 136.16
+        },
+        {
+          "word": "governance",
+          "start": 136.16,
+          "end": 136.2
+        },
+        {
+          "word": "structure.",
+          "start": 136.2,
+          "end": 136.27
+        }
+      ]
+    },
+    {
+      "start": 136.52,
+      "end": 142.92,
+      "text": "Decentralization is like jazz, fam - it's about the notes you DON'T play. Eliza giving up control over time is the real vibe check.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Decentralization",
+          "start": 136.52,
+          "end": 137.38
+        },
+        {
+          "word": "is",
+          "start": 137.38,
+          "end": 137.47
+        },
+        {
+          "word": "like",
+          "start": 137.47,
+          "end": 137.58
+        },
+        {
+          "word": "jazz",
+          "start": 137.58,
+          "end": 137.89
+        },
+        {
+          "word": "fam.",
+          "start": 137.89,
+          "end": 138.3
+        },
+        {
+          "word": "It's",
+          "start": 138.54,
+          "end": 138.86
+        },
+        {
+          "word": "about",
+          "start": 138.86,
+          "end": 139.11
+        },
+        {
+          "word": "the",
+          "start": 139.11,
+          "end": 139.19
+        },
+        {
+          "word": "notes",
+          "start": 139.19,
+          "end": 139.46
+        },
+        {
+          "word": "you",
+          "start": 139.46,
+          "end": 139.54
+        },
+        {
+          "word": "don't",
+          "start": 139.54,
+          "end": 139.81
+        },
+        {
+          "word": "play.",
+          "start": 139.81,
+          "end": 140.23
+        },
+        {
+          "word": "Eliza",
+          "start": 140.54,
+          "end": 140.94
+        },
+        {
+          "word": "giving",
+          "start": 140.94,
+          "end": 141.25
+        },
+        {
+          "word": "up",
+          "start": 141.25,
+          "end": 141.6
+        },
+        {
+          "word": "control",
+          "start": 141.6,
+          "end": 141.97
+        },
+        {
+          "word": "over",
+          "start": 141.97,
+          "end": 142.16
+        },
+        {
+          "word": "time",
+          "start": 142.16,
+          "end": 142.42
+        },
+        {
+          "word": "is",
+          "start": 142.42,
+          "end": 142.5
+        },
+        {
+          "word": "the",
+          "start": 142.5,
+          "end": 142.58
+        },
+        {
+          "word": "real",
+          "start": 142.58,
+          "end": 142.75
+        },
+        {
+          "word": "vibe",
+          "start": 142.75,
+          "end": 142.85
+        },
+        {
+          "word": "check.",
+          "start": 142.85,
+          "end": 142.92
+        }
+      ]
+    },
+    {
+      "start": 143.19,
+      "end": 148.86,
+      "text": "GATE.IO AND BYBIT LISTINGS TOMORROW. Decentralization irrelevant if liquidity is thin! Need multi-exchange presence NOW.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Gate.io",
+          "start": 143.19,
+          "end": 143.71
+        },
+        {
+          "word": "and",
+          "start": 143.71,
+          "end": 143.83
+        },
+        {
+          "word": "Bybit",
+          "start": 143.83,
+          "end": 144.15
+        },
+        {
+          "word": "listings",
+          "start": 144.15,
+          "end": 144.51
+        },
+        {
+          "word": "tomorrow.",
+          "start": 144.51,
+          "end": 145.05
+        },
+        {
+          "word": "Decentralization",
+          "start": 145.36,
+          "end": 146.12
+        },
+        {
+          "word": "irrelevant",
+          "start": 146.12,
+          "end": 146.59
+        },
+        {
+          "word": "if",
+          "start": 146.59,
+          "end": 146.73
+        },
+        {
+          "word": "liquidity",
+          "start": 146.73,
+          "end": 147.16
+        },
+        {
+          "word": "is",
+          "start": 147.16,
+          "end": 147.38
+        },
+        {
+          "word": "thin.",
+          "start": 147.38,
+          "end": 147.88
+        },
+        {
+          "word": "Need",
+          "start": 148.01,
+          "end": 148.27
+        },
+        {
+          "word": "multi",
+          "start": 148.27,
+          "end": 148.51
+        },
+        {
+          "word": "exchange",
+          "start": 148.51,
+          "end": 148.67
+        },
+        {
+          "word": "presence",
+          "start": 148.67,
+          "end": 148.78
+        },
+        {
+          "word": "now.",
+          "start": 148.78,
+          "end": 148.86
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-12-08_JedAI-Council_Token-Migration-Chronicles.json",
+    "session_log_source": "2025-12-08_JedAI-Council_Token-Migration-Chronicles_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 17
+  }
+}

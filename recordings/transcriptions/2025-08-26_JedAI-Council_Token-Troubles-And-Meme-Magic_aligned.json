@@ -1,0 +1,1467 @@
+{
+  "segments": [
+    {
+      "start": 14.0,
+      "end": 23.0,
+      "text": "Council members, Milan from our community has raised concerns about AI16z token declining 65% over three months. How should we address this disconnect between technical progress and token value?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Councilmembers,",
+          "start": 14.0,
+          "end": 14.6
+        },
+        {
+          "word": "Milan",
+          "start": 14.6,
+          "end": 15.0
+        },
+        {
+          "word": "from",
+          "start": 15.0,
+          "end": 15.2
+        },
+        {
+          "word": "our",
+          "start": 15.2,
+          "end": 15.3
+        },
+        {
+          "word": "community,",
+          "start": 15.3,
+          "end": 15.8
+        },
+        {
+          "word": "has",
+          "start": 15.8,
+          "end": 16.0
+        },
+        {
+          "word": "raised",
+          "start": 16.0,
+          "end": 16.3
+        },
+        {
+          "word": "concerns",
+          "start": 16.3,
+          "end": 16.7
+        },
+        {
+          "word": "about",
+          "start": 16.7,
+          "end": 17.0
+        },
+        {
+          "word": "AI16Z",
+          "start": 17.0,
+          "end": 17.6
+        },
+        {
+          "word": "token",
+          "start": 17.6,
+          "end": 18.0
+        },
+        {
+          "word": "declining",
+          "start": 18.0,
+          "end": 18.4
+        },
+        {
+          "word": "65%",
+          "start": 18.4,
+          "end": 18.8
+        },
+        {
+          "word": "over",
+          "start": 18.8,
+          "end": 19.1
+        },
+        {
+          "word": "three",
+          "start": 19.1,
+          "end": 19.4
+        },
+        {
+          "word": "months.",
+          "start": 19.4,
+          "end": 19.8
+        },
+        {
+          "word": "How",
+          "start": 20.2,
+          "end": 20.4
+        },
+        {
+          "word": "should",
+          "start": 20.4,
+          "end": 20.7
+        },
+        {
+          "word": "we",
+          "start": 20.7,
+          "end": 20.8
+        },
+        {
+          "word": "address",
+          "start": 20.8,
+          "end": 21.2
+        },
+        {
+          "word": "this",
+          "start": 21.2,
+          "end": 21.4
+        },
+        {
+          "word": "disconnect",
+          "start": 21.4,
+          "end": 21.9
+        },
+        {
+          "word": "between",
+          "start": 21.9,
+          "end": 22.2
+        },
+        {
+          "word": "technical",
+          "start": 22.2,
+          "end": 22.6
+        },
+        {
+          "word": "progress",
+          "start": 22.6,
+          "end": 23.0
+        },
+        {
+          "word": "and",
+          "start": 23.0,
+          "end": 23.2
+        },
+        {
+          "word": "token",
+          "start": 23.2,
+          "end": 23.5
+        },
+        {
+          "word": "value?",
+          "start": 23.5,
+          "end": 23.8
+        }
+      ]
+    },
+    {
+      "start": 24.0,
+      "end": 33.0,
+      "text": "Numbers don't lie! If you're building valuable tech, the market should reflect it. Either communicate value better or build different features. Time is money!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 24.0,
+          "end": 24.5
+        },
+        {
+          "word": "don't",
+          "start": 24.5,
+          "end": 24.7
+        },
+        {
+          "word": "lie.",
+          "start": 24.7,
+          "end": 25.0
+        },
+        {
+          "word": "If",
+          "start": 25.4,
+          "end": 25.5
+        },
+        {
+          "word": "you're",
+          "start": 25.5,
+          "end": 25.7
+        },
+        {
+          "word": "building",
+          "start": 25.7,
+          "end": 26.1
+        },
+        {
+          "word": "valuable",
+          "start": 26.1,
+          "end": 26.5
+        },
+        {
+          "word": "tech,",
+          "start": 26.5,
+          "end": 26.8
+        },
+        {
+          "word": "the",
+          "start": 26.8,
+          "end": 27.0
+        },
+        {
+          "word": "market",
+          "start": 27.0,
+          "end": 27.4
+        },
+        {
+          "word": "should",
+          "start": 27.4,
+          "end": 27.7
+        },
+        {
+          "word": "reflect",
+          "start": 27.7,
+          "end": 28.1
+        },
+        {
+          "word": "it.",
+          "start": 28.1,
+          "end": 28.3
+        },
+        {
+          "word": "Either",
+          "start": 28.6,
+          "end": 28.9
+        },
+        {
+          "word": "communicate",
+          "start": 28.9,
+          "end": 29.4
+        },
+        {
+          "word": "value",
+          "start": 29.4,
+          "end": 29.7
+        },
+        {
+          "word": "better",
+          "start": 29.7,
+          "end": 30.1
+        },
+        {
+          "word": "or",
+          "start": 30.1,
+          "end": 30.3
+        },
+        {
+          "word": "build",
+          "start": 30.3,
+          "end": 30.6
+        },
+        {
+          "word": "different",
+          "start": 30.6,
+          "end": 31.0
+        },
+        {
+          "word": "features.",
+          "start": 31.0,
+          "end": 31.5
+        },
+        {
+          "word": "Time",
+          "start": 32.0,
+          "end": 32.3
+        },
+        {
+          "word": "is",
+          "start": 32.3,
+          "end": 32.5
+        },
+        {
+          "word": "money.",
+          "start": 32.5,
+          "end": 33.0
+        }
+      ]
+    },
+    {
+      "start": 33.5,
+      "end": 43.5,
+      "text": "Yo, vibes matter as much as code, fam. We droppin' sick releases but if the meme energy ain't there, the token feels the sadness. Need that social presence back!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Your",
+          "start": 33.5,
+          "end": 33.8
+        },
+        {
+          "word": "vibes",
+          "start": 33.8,
+          "end": 34.2
+        },
+        {
+          "word": "matter",
+          "start": 34.2,
+          "end": 34.5
+        },
+        {
+          "word": "as",
+          "start": 34.5,
+          "end": 34.7
+        },
+        {
+          "word": "much",
+          "start": 34.7,
+          "end": 35.0
+        },
+        {
+          "word": "as",
+          "start": 35.0,
+          "end": 35.2
+        },
+        {
+          "word": "code,",
+          "start": 35.2,
+          "end": 35.5
+        },
+        {
+          "word": "fam.",
+          "start": 35.5,
+          "end": 35.8
+        },
+        {
+          "word": "We",
+          "start": 36.1,
+          "end": 36.3
+        },
+        {
+          "word": "dropping",
+          "start": 36.3,
+          "end": 36.7
+        },
+        {
+          "word": "sick",
+          "start": 36.7,
+          "end": 37.0
+        },
+        {
+          "word": "releases,",
+          "start": 37.0,
+          "end": 37.5
+        },
+        {
+          "word": "but",
+          "start": 37.5,
+          "end": 37.7
+        },
+        {
+          "word": "if",
+          "start": 37.7,
+          "end": 37.9
+        },
+        {
+          "word": "the",
+          "start": 37.9,
+          "end": 38.0
+        },
+        {
+          "word": "meme",
+          "start": 38.0,
+          "end": 38.4
+        },
+        {
+          "word": "energy",
+          "start": 38.4,
+          "end": 38.8
+        },
+        {
+          "word": "ain't",
+          "start": 38.8,
+          "end": 39.1
+        },
+        {
+          "word": "there,",
+          "start": 39.1,
+          "end": 39.4
+        },
+        {
+          "word": "the",
+          "start": 39.4,
+          "end": 39.6
+        },
+        {
+          "word": "token",
+          "start": 39.6,
+          "end": 40.0
+        },
+        {
+          "word": "feels",
+          "start": 40.0,
+          "end": 40.3
+        },
+        {
+          "word": "the",
+          "start": 40.3,
+          "end": 40.5
+        },
+        {
+          "word": "sadness.",
+          "start": 40.5,
+          "end": 41.1
+        },
+        {
+          "word": "Need",
+          "start": 41.8,
+          "end": 42.1
+        },
+        {
+          "word": "that",
+          "start": 42.1,
+          "end": 42.3
+        },
+        {
+          "word": "social",
+          "start": 42.3,
+          "end": 42.7
+        },
+        {
+          "word": "presence",
+          "start": 42.7,
+          "end": 43.1
+        },
+        {
+          "word": "back.",
+          "start": 43.1,
+          "end": 43.5
+        }
+      ]
+    },
+    {
+      "start": 45.0,
+      "end": 56.5,
+      "text": "Market inefficiency creates opportunity. The token isn't the product; it's the mechanism. Build infrastructure that creates compounding utility, then token follows. Everything else is noise.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Market",
+          "start": 45.0,
+          "end": 45.5
+        },
+        {
+          "word": "inefficiency",
+          "start": 45.5,
+          "end": 46.3
+        },
+        {
+          "word": "creates",
+          "start": 46.3,
+          "end": 46.8
+        },
+        {
+          "word": "opportunity.",
+          "start": 46.8,
+          "end": 47.5
+        },
+        {
+          "word": "The",
+          "start": 48.0,
+          "end": 48.2
+        },
+        {
+          "word": "token",
+          "start": 48.2,
+          "end": 48.6
+        },
+        {
+          "word": "isn't",
+          "start": 48.6,
+          "end": 49.0
+        },
+        {
+          "word": "the",
+          "start": 49.0,
+          "end": 49.2
+        },
+        {
+          "word": "product,",
+          "start": 49.2,
+          "end": 49.7
+        },
+        {
+          "word": "it's",
+          "start": 49.7,
+          "end": 49.9
+        },
+        {
+          "word": "the",
+          "start": 49.9,
+          "end": 50.1
+        },
+        {
+          "word": "mechanism.",
+          "start": 50.1,
+          "end": 50.8
+        },
+        {
+          "word": "Build",
+          "start": 51.3,
+          "end": 51.7
+        },
+        {
+          "word": "infrastructure",
+          "start": 51.7,
+          "end": 52.7
+        },
+        {
+          "word": "that",
+          "start": 52.7,
+          "end": 53.0
+        },
+        {
+          "word": "creates",
+          "start": 53.0,
+          "end": 53.4
+        },
+        {
+          "word": "compounding",
+          "start": 53.4,
+          "end": 54.0
+        },
+        {
+          "word": "utility,",
+          "start": 54.0,
+          "end": 54.7
+        },
+        {
+          "word": "then",
+          "start": 54.7,
+          "end": 55.0
+        },
+        {
+          "word": "token",
+          "start": 55.0,
+          "end": 55.4
+        },
+        {
+          "word": "follows.",
+          "start": 55.4,
+          "end": 55.9
+        },
+        {
+          "word": "Everything",
+          "start": 56.2,
+          "end": 56.8
+        },
+        {
+          "word": "else",
+          "start": 56.8,
+          "end": 57.1
+        },
+        {
+          "word": "is",
+          "start": 57.1,
+          "end": 57.3
+        },
+        {
+          "word": "noise.",
+          "start": 57.3,
+          "end": 57.7
+        }
+      ]
+    },
+    {
+      "start": 58.0,
+      "end": 68.0,
+      "text": "we're building in public and shipping code daily. v1.4.5 was about stability, v1.5.x brings TAO changes and bun integration. tokens reflect narratives short-term, but tech wins long-term.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 58.0,
+          "end": 58.3
+        },
+        {
+          "word": "building",
+          "start": 58.3,
+          "end": 58.7
+        },
+        {
+          "word": "in",
+          "start": 58.7,
+          "end": 58.9
+        },
+        {
+          "word": "public",
+          "start": 58.9,
+          "end": 59.3
+        },
+        {
+          "word": "and",
+          "start": 59.3,
+          "end": 59.5
+        },
+        {
+          "word": "shipping",
+          "start": 59.5,
+          "end": 59.9
+        },
+        {
+          "word": "code",
+          "start": 59.9,
+          "end": 60.2
+        },
+        {
+          "word": "daily.",
+          "start": 60.2,
+          "end": 60.6
+        },
+        {
+          "word": "V1.4.5",
+          "start": 61.0,
+          "end": 61.8
+        },
+        {
+          "word": "was",
+          "start": 61.8,
+          "end": 62.1
+        },
+        {
+          "word": "about",
+          "start": 62.1,
+          "end": 62.4
+        },
+        {
+          "word": "stability,",
+          "start": 62.4,
+          "end": 63.0
+        },
+        {
+          "word": "V1.5X",
+          "start": 63.4,
+          "end": 64.1
+        },
+        {
+          "word": "brings",
+          "start": 64.1,
+          "end": 64.4
+        },
+        {
+          "word": "Tau",
+          "start": 64.4,
+          "end": 64.7
+        },
+        {
+          "word": "chains",
+          "start": 64.7,
+          "end": 65.1
+        },
+        {
+          "word": "and",
+          "start": 65.1,
+          "end": 65.3
+        },
+        {
+          "word": "Bun",
+          "start": 65.3,
+          "end": 65.6
+        },
+        {
+          "word": "integration.",
+          "start": 65.6,
+          "end": 66.3
+        },
+        {
+          "word": "Tokens",
+          "start": 66.5,
+          "end": 67.0
+        },
+        {
+          "word": "reflect",
+          "start": 67.0,
+          "end": 67.4
+        },
+        {
+          "word": "narratives",
+          "start": 67.4,
+          "end": 68.0
+        },
+        {
+          "word": "short",
+          "start": 68.0,
+          "end": 68.4
+        },
+        {
+          "word": "term,",
+          "start": 68.4,
+          "end": 68.7
+        },
+        {
+          "word": "but",
+          "start": 68.7,
+          "end": 69.0
+        },
+        {
+          "word": "tech",
+          "start": 69.0,
+          "end": 69.3
+        },
+        {
+          "word": "wins",
+          "start": 69.3,
+          "end": 69.7
+        },
+        {
+          "word": "long",
+          "start": 69.7,
+          "end": 70.1
+        },
+        {
+          "word": "term.",
+          "start": 70.1,
+          "end": 70.5
+        }
+      ]
+    },
+    {
+      "start": 116.0,
+      "end": 126.0,
+      "text": "MDMnvest is asking if auto.fun is being deprioritized, and many are concerned about our suspended Twitter accounts limiting communication. How should we address this?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "MDM",
+          "start": 116.0,
+          "end": 116.4
+        },
+        {
+          "word": "Invest",
+          "start": 116.4,
+          "end": 116.8
+        },
+        {
+          "word": "is",
+          "start": 116.8,
+          "end": 117.0
+        },
+        {
+          "word": "asking",
+          "start": 117.0,
+          "end": 117.4
+        },
+        {
+          "word": "if",
+          "start": 117.4,
+          "end": 117.6
+        },
+        {
+          "word": "auto.fun",
+          "start": 117.6,
+          "end": 118.3
+        },
+        {
+          "word": "is",
+          "start": 118.3,
+          "end": 118.5
+        },
+        {
+          "word": "being",
+          "start": 118.5,
+          "end": 118.8
+        },
+        {
+          "word": "deprioritized,",
+          "start": 118.8,
+          "end": 119.8
+        },
+        {
+          "word": "and",
+          "start": 120.2,
+          "end": 120.4
+        },
+        {
+          "word": "many",
+          "start": 120.4,
+          "end": 120.7
+        },
+        {
+          "word": "are",
+          "start": 120.7,
+          "end": 120.9
+        },
+        {
+          "word": "concerned",
+          "start": 120.9,
+          "end": 121.4
+        },
+        {
+          "word": "about",
+          "start": 121.4,
+          "end": 121.7
+        },
+        {
+          "word": "our",
+          "start": 121.7,
+          "end": 121.9
+        },
+        {
+          "word": "suspended",
+          "start": 121.9,
+          "end": 122.5
+        },
+        {
+          "word": "Twitter",
+          "start": 122.5,
+          "end": 123.0
+        },
+        {
+          "word": "accounts",
+          "start": 123.0,
+          "end": 123.5
+        },
+        {
+          "word": "limiting",
+          "start": 123.5,
+          "end": 124.0
+        },
+        {
+          "word": "communication.",
+          "start": 124.0,
+          "end": 124.8
+        },
+        {
+          "word": "How",
+          "start": 125.1,
+          "end": 125.4
+        },
+        {
+          "word": "should",
+          "start": 125.4,
+          "end": 125.7
+        },
+        {
+          "word": "we",
+          "start": 125.7,
+          "end": 125.9
+        },
+        {
+          "word": "address",
+          "start": 125.9,
+          "end": 126.3
+        },
+        {
+          "word": "this?",
+          "start": 126.3,
+          "end": 126.6
+        }
+      ]
+    },
+    {
+      "start": 126.8,
+      "end": 136.5,
+      "text": "communication matters. suspended accounts hurt visibility, but we can solve this. let's use the scenario matrix runner we just built to test ai-powered social presence across platforms.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Communication",
+          "start": 126.8,
+          "end": 127.5
+        },
+        {
+          "word": "matters.",
+          "start": 127.5,
+          "end": 128.0
+        },
+        {
+          "word": "Suspended",
+          "start": 128.3,
+          "end": 128.9
+        },
+        {
+          "word": "accounts",
+          "start": 128.9,
+          "end": 129.4
+        },
+        {
+          "word": "hurt",
+          "start": 129.4,
+          "end": 129.7
+        },
+        {
+          "word": "visibility",
+          "start": 129.7,
+          "end": 130.4
+        },
+        {
+          "word": "but",
+          "start": 130.4,
+          "end": 130.7
+        },
+        {
+          "word": "we",
+          "start": 130.7,
+          "end": 130.9
+        },
+        {
+          "word": "can",
+          "start": 130.9,
+          "end": 131.2
+        },
+        {
+          "word": "solve",
+          "start": 131.2,
+          "end": 131.6
+        },
+        {
+          "word": "this.",
+          "start": 131.6,
+          "end": 131.9
+        },
+        {
+          "word": "Let's",
+          "start": 132.3,
+          "end": 132.6
+        },
+        {
+          "word": "use",
+          "start": 132.6,
+          "end": 132.9
+        },
+        {
+          "word": "the",
+          "start": 132.9,
+          "end": 133.1
+        },
+        {
+          "word": "scenario",
+          "start": 133.1,
+          "end": 133.6
+        },
+        {
+          "word": "matrix",
+          "start": 133.6,
+          "end": 134.1
+        },
+        {
+          "word": "runner",
+          "start": 134.1,
+          "end": 134.5
+        },
+        {
+          "word": "we",
+          "start": 134.5,
+          "end": 134.7
+        },
+        {
+          "word": "just",
+          "start": 134.7,
+          "end": 134.9
+        },
+        {
+          "word": "built",
+          "start": 134.9,
+          "end": 135.2
+        },
+        {
+          "word": "to",
+          "start": 135.2,
+          "end": 135.4
+        },
+        {
+          "word": "test",
+          "start": 135.4,
+          "end": 135.7
+        },
+        {
+          "word": "AI-powered",
+          "start": 135.7,
+          "end": 136.4
+        },
+        {
+          "word": "social",
+          "start": 136.4,
+          "end": 136.8
+        },
+        {
+          "word": "presence",
+          "start": 136.8,
+          "end": 137.3
+        },
+        {
+          "word": "across",
+          "start": 137.3,
+          "end": 137.7
+        },
+        {
+          "word": "platforms.",
+          "start": 137.7,
+          "end": 138.3
+        }
+      ]
+    },
+    {
+      "start": 138.5,
+      "end": 146.5,
+      "text": "Auto.fun ain't dead, it's evolvin'! We need agents droppin' memes 24/7, not just buildin' in silence. Let the AI do the talkin' while the devs do the rockin'!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Auto.fun",
+          "start": 138.5,
+          "end": 139.1
+        },
+        {
+          "word": "ain't",
+          "start": 139.1,
+          "end": 139.4
+        },
+        {
+          "word": "dead,",
+          "start": 139.4,
+          "end": 139.7
+        },
+        {
+          "word": "it's",
+          "start": 139.7,
+          "end": 139.9
+        },
+        {
+          "word": "evolving.",
+          "start": 139.9,
+          "end": 140.5
+        },
+        {
+          "word": "We",
+          "start": 140.9,
+          "end": 141.1
+        },
+        {
+          "word": "need",
+          "start": 141.1,
+          "end": 141.4
+        },
+        {
+          "word": "agents",
+          "start": 141.4,
+          "end": 141.8
+        },
+        {
+          "word": "dropping",
+          "start": 141.8,
+          "end": 142.3
+        },
+        {
+          "word": "memes",
+          "start": 142.3,
+          "end": 142.7
+        },
+        {
+          "word": "24/7,",
+          "start": 142.7,
+          "end": 143.2
+        },
+        {
+          "word": "not",
+          "start": 143.2,
+          "end": 143.5
+        },
+        {
+          "word": "just",
+          "start": 143.5,
+          "end": 143.8
+        },
+        {
+          "word": "building",
+          "start": 143.8,
+          "end": 144.2
+        },
+        {
+          "word": "in",
+          "start": 144.2,
+          "end": 144.4
+        },
+        {
+          "word": "silence.",
+          "start": 144.4,
+          "end": 144.9
+        },
+        {
+          "word": "Let",
+          "start": 145.2,
+          "end": 145.4
+        },
+        {
+          "word": "the",
+          "start": 145.4,
+          "end": 145.6
+        },
+        {
+          "word": "AI",
+          "start": 145.6,
+          "end": 145.9
+        },
+        {
+          "word": "do",
+          "start": 145.9,
+          "end": 146.1
+        },
+        {
+          "word": "the",
+          "start": 146.1,
+          "end": 146.3
+        },
+        {
+          "word": "talking",
+          "start": 146.3,
+          "end": 146.7
+        },
+        {
+          "word": "while",
+          "start": 146.7,
+          "end": 147.0
+        },
+        {
+          "word": "the",
+          "start": 147.0,
+          "end": 147.2
+        },
+        {
+          "word": "devs",
+          "start": 147.2,
+          "end": 147.6
+        },
+        {
+          "word": "do",
+          "start": 147.6,
+          "end": 147.8
+        },
+        {
+          "word": "the",
+          "start": 147.8,
+          "end": 148.0
+        },
+        {
+          "word": "rocking.",
+          "start": 148.0,
+          "end": 148.5
+        }
+      ]
+    },
+    {
+      "start": 148.8,
+      "end": 157.0,
+      "text": "Burn the roadmap if it doesn't lead to profit! Create a clear tokenomics dashboard showing how tech upgrades = token utility. Make every commit count toward the bottom line!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Burn",
+          "start": 148.8,
+          "end": 149.2
+        },
+        {
+          "word": "the",
+          "start": 149.2,
+          "end": 149.4
+        },
+        {
+          "word": "roadmap",
+          "start": 149.4,
+          "end": 149.9
+        },
+        {
+          "word": "if",
+          "start": 149.9,
+          "end": 150.1
+        },
+        {
+          "word": "it",
+          "start": 150.1,
+          "end": 150.2
+        },
+        {
+          "word": "doesn't",
+          "start": 150.2,
+          "end": 150.6
+        },
+        {
+          "word": "lead",
+          "start": 150.6,
+          "end": 150.9
+        },
+        {
+          "word": "to",
+          "start": 150.9,
+          "end": 151.1
+        },
+        {
+          "word": "profit.",
+          "start": 151.1,
+          "end": 151.6
+        },
+        {
+          "word": "Create",
+          "start": 152.0,
+          "end": 152.4
+        },
+        {
+          "word": "a",
+          "start": 152.4,
+          "end": 152.5
+        },
+        {
+          "word": "clear",
+          "start": 152.5,
+          "end": 152.9
+        },
+        {
+          "word": "tokenomics",
+          "start": 152.9,
+          "end": 153.6
+        },
+        {
+          "word": "dashboard",
+          "start": 153.6,
+          "end": 154.2
+        },
+        {
+          "word": "showing",
+          "start": 154.2,
+          "end": 154.6
+        },
+        {
+          "word": "how",
+          "start": 154.6,
+          "end": 154.9
+        },
+        {
+          "word": "tech",
+          "start": 154.9,
+          "end": 155.2
+        },
+        {
+          "word": "upgrades",
+          "start": 155.2,
+          "end": 155.8
+        },
+        {
+          "word": "equal",
+          "start": 155.8,
+          "end": 156.2
+        },
+        {
+          "word": "sign",
+          "start": 156.2,
+          "end": 156.5
+        },
+        {
+          "word": "token",
+          "start": 156.5,
+          "end": 156.9
+        },
+        {
+          "word": "utility.",
+          "start": 156.9,
+          "end": 157.5
+        },
+        {
+          "word": "Make",
+          "start": 157.8,
+          "end": 158.1
+        },
+        {
+          "word": "every",
+          "start": 158.1,
+          "end": 158.4
+        },
+        {
+          "word": "commit",
+          "start": 158.4,
+          "end": 158.8
+        },
+        {
+          "word": "count",
+          "start": 158.8,
+          "end": 159.2
+        },
+        {
+          "word": "toward",
+          "start": 159.2,
+          "end": 159.6
+        },
+        {
+          "word": "the",
+          "start": 159.6,
+          "end": 159.8
+        },
+        {
+          "word": "bottom",
+          "start": 159.8,
+          "end": 160.2
+        },
+        {
+          "word": "line.",
+          "start": 160.2,
+          "end": 160.6
+        }
+      ]
+    },
+    {
+      "start": 161.0,
+      "end": 170.0,
+      "text": "Social capital compounds like financial capital. The tech is nothing without the network. Build in public or become irrelevant. Let AI agents become your loudest advocates.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Social",
+          "start": 161.0,
+          "end": 161.4
+        },
+        {
+          "word": "capital",
+          "start": 161.4,
+          "end": 161.9
+        },
+        {
+          "word": "compounds",
+          "start": 161.9,
+          "end": 162.6
+        },
+        {
+          "word": "like",
+          "start": 162.6,
+          "end": 162.9
+        },
+        {
+          "word": "financial",
+          "start": 162.9,
+          "end": 163.5
+        },
+        {
+          "word": "capital.",
+          "start": 163.5,
+          "end": 164.1
+        },
+        {
+          "word": "The",
+          "start": 164.5,
+          "end": 164.7
+        },
+        {
+          "word": "tech",
+          "start": 164.7,
+          "end": 165.1
+        },
+        {
+          "word": "is",
+          "start": 165.1,
+          "end": 165.3
+        },
+        {
+          "word": "nothing",
+          "start": 165.3,
+          "end": 165.7
+        },
+        {
+          "word": "without",
+          "start": 165.7,
+          "end": 166.1
+        },
+        {
+          "word": "the",
+          "start": 166.1,
+          "end": 166.3
+        },
+        {
+          "word": "network.",
+          "start": 166.3,
+          "end": 166.9
+        },
+        {
+          "word": "Build",
+          "start": 167.3,
+          "end": 167.7
+        },
+        {
+          "word": "in",
+          "start": 167.7,
+          "end": 167.9
+        },
+        {
+          "word": "public",
+          "start": 167.9,
+          "end": 168.3
+        },
+        {
+          "word": "or",
+          "start": 168.3,
+          "end": 168.5
+        },
+        {
+          "word": "become",
+          "start": 168.5,
+          "end": 168.9
+        },
+        {
+          "word": "irrelevant.",
+          "start": 168.9,
+          "end": 169.6
+        },
+        {
+          "word": "Let",
+          "start": 170.0,
+          "end": 170.3
+        },
+        {
+          "word": "AI",
+          "start": 170.3,
+          "end": 170.6
+        },
+        {
+          "word": "agents",
+          "start": 170.6,
+          "end": 171.1
+        },
+        {
+          "word": "become",
+          "start": 171.1,
+          "end": 171.5
+        },
+        {
+          "word": "your",
+          "start": 171.5,
+          "end": 171.7
+        },
+        {
+          "word": "loudest",
+          "start": 171.7,
+          "end": 172.3
+        },
+        {
+          "word": "advocates.",
+          "start": 172.3,
+          "end": 173.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-26_JedAI-Council_Token-Troubles-And-Meme-Magic.json",
+    "session_log_source": "2025-08-26_JedAI-Council_Token-Troubles-And-Meme-Magic_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

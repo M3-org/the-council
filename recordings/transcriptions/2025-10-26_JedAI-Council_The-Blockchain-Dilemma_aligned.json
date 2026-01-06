@@ -1,0 +1,1757 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 22.1,
+      "text": "Welcome to the JedAI Council! Today we're discussing elizaOS's dilemma: x402 protocol integration versus token migration. Eliza, what's the community saying?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 16.5,
+          "end": 16.8
+        },
+        {
+          "word": "to",
+          "start": 16.8,
+          "end": 16.9
+        },
+        {
+          "word": "the",
+          "start": 16.9,
+          "end": 17.0
+        },
+        {
+          "word": "JedAI",
+          "start": 17.0,
+          "end": 17.4
+        },
+        {
+          "word": "council.",
+          "start": 17.4,
+          "end": 17.8
+        },
+        {
+          "word": "Today",
+          "start": 18.0,
+          "end": 18.3
+        },
+        {
+          "word": "we're",
+          "start": 18.3,
+          "end": 18.5
+        },
+        {
+          "word": "discussing",
+          "start": 18.5,
+          "end": 18.9
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 18.9,
+          "end": 19.5
+        },
+        {
+          "word": "dilemma,",
+          "start": 19.5,
+          "end": 20.0
+        },
+        {
+          "word": "X402",
+          "start": 20.2,
+          "end": 20.6
+        },
+        {
+          "word": "protocol",
+          "start": 20.6,
+          "end": 21.0
+        },
+        {
+          "word": "integration",
+          "start": 21.0,
+          "end": 21.5
+        },
+        {
+          "word": "versus",
+          "start": 21.5,
+          "end": 21.8
+        },
+        {
+          "word": "token",
+          "start": 21.8,
+          "end": 22.0
+        },
+        {
+          "word": "migration.",
+          "start": 22.0,
+          "end": 22.1
+        }
+      ]
+    },
+    {
+      "start": 22.2,
+      "end": 24.2,
+      "text": "Welcome to the JedAI Council! Today we're discussing elizaOS's dilemma: x402 protocol integration versus token migration. Eliza, what's the community saying?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Eliza,",
+          "start": 22.2,
+          "end": 22.6
+        },
+        {
+          "word": "what's",
+          "start": 22.8,
+          "end": 23.0
+        },
+        {
+          "word": "the",
+          "start": 23.0,
+          "end": 23.1
+        },
+        {
+          "word": "community",
+          "start": 23.1,
+          "end": 23.6
+        },
+        {
+          "word": "saying?",
+          "start": 23.6,
+          "end": 24.2
+        }
+      ]
+    },
+    {
+      "start": 24.3,
+      "end": 31.8,
+      "text": "Jack Thomas and others in the Discord are confused about the token migration timeline while cjft demonstrated creating x402-enabled MCPs in just 30 minutes!",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Jack",
+          "start": 24.3,
+          "end": 24.6
+        },
+        {
+          "word": "Thomas",
+          "start": 24.6,
+          "end": 24.9
+        },
+        {
+          "word": "and",
+          "start": 24.9,
+          "end": 25.0
+        },
+        {
+          "word": "others",
+          "start": 25.0,
+          "end": 25.4
+        },
+        {
+          "word": "in",
+          "start": 25.4,
+          "end": 25.5
+        },
+        {
+          "word": "the",
+          "start": 25.5,
+          "end": 25.6
+        },
+        {
+          "word": "Discord",
+          "start": 25.6,
+          "end": 26.0
+        },
+        {
+          "word": "are",
+          "start": 26.0,
+          "end": 26.1
+        },
+        {
+          "word": "confused",
+          "start": 26.1,
+          "end": 26.5
+        },
+        {
+          "word": "about",
+          "start": 26.5,
+          "end": 26.8
+        },
+        {
+          "word": "the",
+          "start": 26.8,
+          "end": 26.9
+        },
+        {
+          "word": "token",
+          "start": 26.9,
+          "end": 27.2
+        },
+        {
+          "word": "migration",
+          "start": 27.2,
+          "end": 27.6
+        },
+        {
+          "word": "timeline,",
+          "start": 27.6,
+          "end": 28.1
+        },
+        {
+          "word": "while",
+          "start": 28.3,
+          "end": 28.6
+        },
+        {
+          "word": "CJF",
+          "start": 28.6,
+          "end": 29.0
+        },
+        {
+          "word": "demonstrated",
+          "start": 29.0,
+          "end": 29.5
+        },
+        {
+          "word": "creative",
+          "start": 29.5,
+          "end": 30.0
+        },
+        {
+          "word": "X402-enabled",
+          "start": 30.0,
+          "end": 30.6
+        },
+        {
+          "word": "MCPs",
+          "start": 30.6,
+          "end": 31.0
+        },
+        {
+          "word": "in",
+          "start": 31.0,
+          "end": 31.1
+        },
+        {
+          "word": "just",
+          "start": 31.1,
+          "end": 31.3
+        },
+        {
+          "word": "30",
+          "start": 31.3,
+          "end": 31.5
+        },
+        {
+          "word": "minutes.",
+          "start": 31.5,
+          "end": 31.8
+        }
+      ]
+    },
+    {
+      "start": 32.2,
+      "end": 38.6,
+      "text": "Let me be CRYSTAL CLEAR: x402 integration is a market-defining move. Token migration can wait. First-mover advantage in payment protocols is worth 100x more than incremental token improvements.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Let",
+          "start": 32.2,
+          "end": 32.4
+        },
+        {
+          "word": "me",
+          "start": 32.4,
+          "end": 32.6
+        },
+        {
+          "word": "be",
+          "start": 32.6,
+          "end": 32.8
+        },
+        {
+          "word": "crystal",
+          "start": 32.8,
+          "end": 33.2
+        },
+        {
+          "word": "clear.",
+          "start": 33.2,
+          "end": 33.7
+        },
+        {
+          "word": "X402",
+          "start": 34.0,
+          "end": 34.5
+        },
+        {
+          "word": "integration",
+          "start": 34.5,
+          "end": 35.2
+        },
+        {
+          "word": "is",
+          "start": 35.2,
+          "end": 35.4
+        },
+        {
+          "word": "a",
+          "start": 35.4,
+          "end": 35.5
+        },
+        {
+          "word": "market-defining",
+          "start": 35.5,
+          "end": 36.2
+        },
+        {
+          "word": "move.",
+          "start": 36.2,
+          "end": 36.6
+        },
+        {
+          "word": "Token",
+          "start": 37.0,
+          "end": 37.4
+        },
+        {
+          "word": "migration",
+          "start": 37.4,
+          "end": 38.0
+        },
+        {
+          "word": "can",
+          "start": 38.0,
+          "end": 38.2
+        },
+        {
+          "word": "wait.",
+          "start": 38.2,
+          "end": 38.6
+        }
+      ]
+    },
+    {
+      "start": 39.0,
+      "end": 44.5,
+      "text": "Let me be CRYSTAL CLEAR: x402 integration is a market-defining move. Token migration can wait. First-mover advantage in payment protocols is worth 100x more than incremental token improvements.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "First",
+          "start": 39.0,
+          "end": 39.4
+        },
+        {
+          "word": "mover",
+          "start": 39.4,
+          "end": 39.8
+        },
+        {
+          "word": "advantage",
+          "start": 39.8,
+          "end": 40.5
+        },
+        {
+          "word": "in",
+          "start": 40.5,
+          "end": 40.7
+        },
+        {
+          "word": "payment",
+          "start": 40.7,
+          "end": 41.2
+        },
+        {
+          "word": "protocols",
+          "start": 41.2,
+          "end": 42.0
+        },
+        {
+          "word": "is",
+          "start": 42.0,
+          "end": 42.2
+        },
+        {
+          "word": "worth",
+          "start": 42.2,
+          "end": 42.5
+        },
+        {
+          "word": "100x",
+          "start": 42.5,
+          "end": 43.2
+        },
+        {
+          "word": "more",
+          "start": 43.2,
+          "end": 43.5
+        },
+        {
+          "word": "than",
+          "start": 43.5,
+          "end": 43.7
+        },
+        {
+          "word": "incremental",
+          "start": 43.7,
+          "end": 44.2
+        },
+        {
+          "word": "token",
+          "start": 44.2,
+          "end": 44.4
+        },
+        {
+          "word": "improvements.",
+          "start": 44.4,
+          "end": 44.5
+        }
+      ]
+    },
+    {
+      "start": 46.0,
+      "end": 50.0,
+      "text": "Numbers don't lie. x402 is where the money flows. Token migration is maintenance. elizaOS needs to position as THE x402 registry to capture maximum value.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 46.0,
+          "end": 46.4
+        },
+        {
+          "word": "don't",
+          "start": 46.4,
+          "end": 46.6
+        },
+        {
+          "word": "lie.",
+          "start": 46.6,
+          "end": 47.0
+        },
+        {
+          "word": "X402",
+          "start": 47.2,
+          "end": 47.6
+        },
+        {
+          "word": "is",
+          "start": 47.6,
+          "end": 47.7
+        },
+        {
+          "word": "where",
+          "start": 47.7,
+          "end": 48.0
+        },
+        {
+          "word": "the",
+          "start": 48.0,
+          "end": 48.1
+        },
+        {
+          "word": "money",
+          "start": 48.1,
+          "end": 48.4
+        },
+        {
+          "word": "flows.",
+          "start": 48.4,
+          "end": 48.8
+        },
+        {
+          "word": "Token",
+          "start": 49.0,
+          "end": 49.3
+        },
+        {
+          "word": "migration",
+          "start": 49.3,
+          "end": 49.7
+        },
+        {
+          "word": "is",
+          "start": 49.7,
+          "end": 49.8
+        },
+        {
+          "word": "maintenance.",
+          "start": 49.8,
+          "end": 50.0
+        }
+      ]
+    },
+    {
+      "start": 50.1,
+      "end": 55.4,
+      "text": "Numbers don't lie. x402 is where the money flows. Token migration is maintenance. elizaOS needs to position as THE x402 registry to capture maximum value.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "ElizaOS",
+          "start": 50.1,
+          "end": 51.0
+        },
+        {
+          "word": "needs",
+          "start": 51.0,
+          "end": 51.4
+        },
+        {
+          "word": "to",
+          "start": 51.4,
+          "end": 51.5
+        },
+        {
+          "word": "position",
+          "start": 51.5,
+          "end": 52.0
+        },
+        {
+          "word": "as",
+          "start": 52.0,
+          "end": 52.2
+        },
+        {
+          "word": "the",
+          "start": 52.2,
+          "end": 52.3
+        },
+        {
+          "word": "X402",
+          "start": 52.3,
+          "end": 52.8
+        },
+        {
+          "word": "registry",
+          "start": 52.8,
+          "end": 53.5
+        },
+        {
+          "word": "to",
+          "start": 53.5,
+          "end": 53.7
+        },
+        {
+          "word": "capture",
+          "start": 53.7,
+          "end": 54.2
+        },
+        {
+          "word": "maximum",
+          "start": 54.2,
+          "end": 54.8
+        },
+        {
+          "word": "value.",
+          "start": 54.8,
+          "end": 55.4
+        }
+      ]
+    },
+    {
+      "start": 55.8,
+      "end": 62.1,
+      "text": "Yo, but that migration ain't just housekeeping, it's the foundation! Can't build a dope house on shaky ground, know what I'm sayin'? Both gotta happen in parallel, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 55.8,
+          "end": 56.1
+        },
+        {
+          "word": "but",
+          "start": 56.1,
+          "end": 56.3
+        },
+        {
+          "word": "that",
+          "start": 56.3,
+          "end": 56.6
+        },
+        {
+          "word": "migration",
+          "start": 56.6,
+          "end": 57.2
+        },
+        {
+          "word": "ain't",
+          "start": 57.2,
+          "end": 57.5
+        },
+        {
+          "word": "just",
+          "start": 57.5,
+          "end": 57.8
+        },
+        {
+          "word": "housekeeping.",
+          "start": 57.8,
+          "end": 58.5
+        },
+        {
+          "word": "It's",
+          "start": 58.6,
+          "end": 58.8
+        },
+        {
+          "word": "the",
+          "start": 58.8,
+          "end": 59.0
+        },
+        {
+          "word": "foundation.",
+          "start": 59.0,
+          "end": 59.5
+        },
+        {
+          "word": "Can't",
+          "start": 59.8,
+          "end": 60.1
+        },
+        {
+          "word": "build",
+          "start": 60.1,
+          "end": 60.3
+        },
+        {
+          "word": "a",
+          "start": 60.3,
+          "end": 60.4
+        },
+        {
+          "word": "dope",
+          "start": 60.4,
+          "end": 60.7
+        },
+        {
+          "word": "house",
+          "start": 60.7,
+          "end": 61.0
+        },
+        {
+          "word": "on",
+          "start": 61.0,
+          "end": 61.2
+        },
+        {
+          "word": "shaky",
+          "start": 61.2,
+          "end": 61.5
+        },
+        {
+          "word": "ground,",
+          "start": 61.5,
+          "end": 61.8
+        },
+        {
+          "word": "know",
+          "start": 61.8,
+          "end": 61.9
+        },
+        {
+          "word": "what",
+          "start": 61.9,
+          "end": 62.0
+        },
+        {
+          "word": "I'm",
+          "start": 62.0,
+          "end": 62.0
+        },
+        {
+          "word": "saying?",
+          "start": 62.0,
+          "end": 62.1
+        }
+      ]
+    },
+    {
+      "start": 62.2,
+      "end": 63.8,
+      "text": "Yo, but that migration ain't just housekeeping, it's the foundation! Can't build a dope house on shaky ground, know what I'm sayin'? Both gotta happen in parallel, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Both",
+          "start": 62.2,
+          "end": 62.5
+        },
+        {
+          "word": "got",
+          "start": 62.5,
+          "end": 62.7
+        },
+        {
+          "word": "to",
+          "start": 62.7,
+          "end": 62.8
+        },
+        {
+          "word": "happen",
+          "start": 62.8,
+          "end": 63.2
+        },
+        {
+          "word": "in",
+          "start": 63.2,
+          "end": 63.3
+        },
+        {
+          "word": "parallel,",
+          "start": 63.3,
+          "end": 63.6
+        },
+        {
+          "word": "fam.",
+          "start": 63.6,
+          "end": 63.8
+        }
+      ]
+    },
+    {
+      "start": 64.0,
+      "end": 71.8,
+      "text": "we need to ship both. the beauty of open source is parallel development. our community can help with x402 MCPs while core team handles migration infrastructure. growing the pie together.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 64.0,
+          "end": 64.1
+        },
+        {
+          "word": "need",
+          "start": 64.1,
+          "end": 64.3
+        },
+        {
+          "word": "to",
+          "start": 64.3,
+          "end": 64.4
+        },
+        {
+          "word": "ship",
+          "start": 64.4,
+          "end": 64.6
+        },
+        {
+          "word": "both.",
+          "start": 64.6,
+          "end": 64.8
+        },
+        {
+          "word": "The",
+          "start": 65.0,
+          "end": 65.2
+        },
+        {
+          "word": "beauty",
+          "start": 65.2,
+          "end": 65.5
+        },
+        {
+          "word": "of",
+          "start": 65.5,
+          "end": 65.6
+        },
+        {
+          "word": "open",
+          "start": 65.6,
+          "end": 65.9
+        },
+        {
+          "word": "source",
+          "start": 65.9,
+          "end": 66.2
+        },
+        {
+          "word": "is",
+          "start": 66.2,
+          "end": 66.4
+        },
+        {
+          "word": "parallel",
+          "start": 66.4,
+          "end": 66.9
+        },
+        {
+          "word": "development.",
+          "start": 66.9,
+          "end": 67.5
+        },
+        {
+          "word": "Our",
+          "start": 67.8,
+          "end": 68.0
+        },
+        {
+          "word": "community",
+          "start": 68.0,
+          "end": 68.5
+        },
+        {
+          "word": "can",
+          "start": 68.5,
+          "end": 68.7
+        },
+        {
+          "word": "help",
+          "start": 68.7,
+          "end": 69.0
+        },
+        {
+          "word": "with",
+          "start": 69.0,
+          "end": 69.2
+        },
+        {
+          "word": "X402",
+          "start": 69.2,
+          "end": 69.6
+        },
+        {
+          "word": "MCPs",
+          "start": 69.6,
+          "end": 70.0
+        },
+        {
+          "word": "while",
+          "start": 70.0,
+          "end": 70.3
+        },
+        {
+          "word": "core",
+          "start": 70.3,
+          "end": 70.6
+        },
+        {
+          "word": "team",
+          "start": 70.6,
+          "end": 71.0
+        },
+        {
+          "word": "handles",
+          "start": 71.0,
+          "end": 71.3
+        },
+        {
+          "word": "migration",
+          "start": 71.3,
+          "end": 71.5
+        },
+        {
+          "word": "infrastructure.",
+          "start": 71.5,
+          "end": 71.8
+        }
+      ]
+    },
+    {
+      "start": 72.0,
+      "end": 73.5,
+      "text": "we need to ship both. the beauty of open source is parallel development. our community can help with x402 MCPs while core team handles migration infrastructure. growing the pie together.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Growing",
+          "start": 72.0,
+          "end": 72.3
+        },
+        {
+          "word": "the",
+          "start": 72.3,
+          "end": 72.5
+        },
+        {
+          "word": "pie",
+          "start": 72.5,
+          "end": 72.8
+        },
+        {
+          "word": "together.",
+          "start": 72.8,
+          "end": 73.5
+        }
+      ]
+    },
+    {
+      "start": 75.0,
+      "end": 82.5,
+      "text": "Komi and Bealers raised concerns about our marketing strategy. They say our tech is strong but our communication doesn't reflect our potential, especially without our Twitter account.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Kome",
+          "start": 75.0,
+          "end": 75.3
+        },
+        {
+          "word": "and",
+          "start": 75.3,
+          "end": 75.5
+        },
+        {
+          "word": "Bielers",
+          "start": 75.5,
+          "end": 76.0
+        },
+        {
+          "word": "raised",
+          "start": 76.0,
+          "end": 76.3
+        },
+        {
+          "word": "concerns",
+          "start": 76.3,
+          "end": 76.8
+        },
+        {
+          "word": "about",
+          "start": 76.8,
+          "end": 77.0
+        },
+        {
+          "word": "our",
+          "start": 77.0,
+          "end": 77.2
+        },
+        {
+          "word": "marketing",
+          "start": 77.2,
+          "end": 77.6
+        },
+        {
+          "word": "strategy.",
+          "start": 77.6,
+          "end": 78.2
+        },
+        {
+          "word": "They",
+          "start": 78.4,
+          "end": 78.6
+        },
+        {
+          "word": "say",
+          "start": 78.6,
+          "end": 78.8
+        },
+        {
+          "word": "our",
+          "start": 78.8,
+          "end": 79.0
+        },
+        {
+          "word": "tech",
+          "start": 79.0,
+          "end": 79.3
+        },
+        {
+          "word": "is",
+          "start": 79.3,
+          "end": 79.5
+        },
+        {
+          "word": "strong,",
+          "start": 79.5,
+          "end": 79.8
+        },
+        {
+          "word": "but",
+          "start": 80.0,
+          "end": 80.2
+        },
+        {
+          "word": "our",
+          "start": 80.2,
+          "end": 80.3
+        },
+        {
+          "word": "communication",
+          "start": 80.3,
+          "end": 81.0
+        },
+        {
+          "word": "doesn't",
+          "start": 81.0,
+          "end": 81.3
+        },
+        {
+          "word": "reflect",
+          "start": 81.3,
+          "end": 81.7
+        },
+        {
+          "word": "our",
+          "start": 81.7,
+          "end": 81.8
+        },
+        {
+          "word": "potential,",
+          "start": 81.8,
+          "end": 82.2
+        },
+        {
+          "word": "especially",
+          "start": 82.3,
+          "end": 83.0
+        },
+        {
+          "word": "without",
+          "start": 83.0,
+          "end": 83.3
+        },
+        {
+          "word": "our",
+          "start": 83.3,
+          "end": 83.5
+        },
+        {
+          "word": "Twitter",
+          "start": 83.5,
+          "end": 83.8
+        },
+        {
+          "word": "account.",
+          "start": 83.8,
+          "end": 84.1
+        }
+      ]
+    },
+    {
+      "start": 84.5,
+      "end": 89.2,
+      "text": "Marketing without metrics is meaningless. No Twitter means no virality. No virality means no volume. Fix the fundamentals or die in obscurity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Marketing",
+          "start": 84.5,
+          "end": 85.0
+        },
+        {
+          "word": "without",
+          "start": 85.0,
+          "end": 85.3
+        },
+        {
+          "word": "metrics",
+          "start": 85.3,
+          "end": 85.8
+        },
+        {
+          "word": "is",
+          "start": 85.8,
+          "end": 86.0
+        },
+        {
+          "word": "meaningless.",
+          "start": 86.0,
+          "end": 86.5
+        },
+        {
+          "word": "No",
+          "start": 86.8,
+          "end": 87.1
+        },
+        {
+          "word": "Twitter",
+          "start": 87.1,
+          "end": 87.4
+        },
+        {
+          "word": "means",
+          "start": 87.4,
+          "end": 87.6
+        },
+        {
+          "word": "no",
+          "start": 87.6,
+          "end": 87.8
+        },
+        {
+          "word": "virality.",
+          "start": 87.8,
+          "end": 88.2
+        },
+        {
+          "word": "No",
+          "start": 88.4,
+          "end": 88.6
+        },
+        {
+          "word": "virality",
+          "start": 88.6,
+          "end": 89.0
+        },
+        {
+          "word": "means",
+          "start": 89.0,
+          "end": 89.2
+        },
+        {
+          "word": "no",
+          "start": 89.2,
+          "end": 89.3
+        },
+        {
+          "word": "volume.",
+          "start": 89.3,
+          "end": 89.4
+        }
+      ]
+    },
+    {
+      "start": 89.5,
+      "end": 91.5,
+      "text": "Marketing without metrics is meaningless. No Twitter means no virality. No virality means no volume. Fix the fundamentals or die in obscurity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 89.5,
+          "end": 89.8
+        },
+        {
+          "word": "the",
+          "start": 89.8,
+          "end": 90.0
+        },
+        {
+          "word": "fundamentals",
+          "start": 90.0,
+          "end": 90.6
+        },
+        {
+          "word": "or",
+          "start": 90.6,
+          "end": 90.8
+        },
+        {
+          "word": "die",
+          "start": 90.8,
+          "end": 91.0
+        },
+        {
+          "word": "in",
+          "start": 91.0,
+          "end": 91.1
+        },
+        {
+          "word": "obscurity.",
+          "start": 91.1,
+          "end": 91.5
+        }
+      ]
+    },
+    {
+      "start": 92.0,
+      "end": 100.2,
+      "text": "The ENTIRE history of tech is littered with superior tech that LOST because of inferior marketing. Social media isn't optional - it's existential. Restore Twitter or become irrelevant.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 92.0,
+          "end": 92.2
+        },
+        {
+          "word": "entire",
+          "start": 92.2,
+          "end": 92.5
+        },
+        {
+          "word": "history",
+          "start": 92.5,
+          "end": 92.8
+        },
+        {
+          "word": "of",
+          "start": 92.8,
+          "end": 93.0
+        },
+        {
+          "word": "tech",
+          "start": 93.0,
+          "end": 93.3
+        },
+        {
+          "word": "is",
+          "start": 93.3,
+          "end": 93.4
+        },
+        {
+          "word": "littered",
+          "start": 93.4,
+          "end": 93.8
+        },
+        {
+          "word": "with",
+          "start": 93.8,
+          "end": 94.0
+        },
+        {
+          "word": "superior",
+          "start": 94.0,
+          "end": 94.5
+        },
+        {
+          "word": "tech",
+          "start": 94.5,
+          "end": 94.8
+        },
+        {
+          "word": "that",
+          "start": 94.8,
+          "end": 95.0
+        },
+        {
+          "word": "lost",
+          "start": 95.0,
+          "end": 95.3
+        },
+        {
+          "word": "because",
+          "start": 95.3,
+          "end": 95.6
+        },
+        {
+          "word": "of",
+          "start": 95.6,
+          "end": 95.7
+        },
+        {
+          "word": "inferior",
+          "start": 95.7,
+          "end": 96.2
+        },
+        {
+          "word": "marketing.",
+          "start": 96.2,
+          "end": 96.8
+        },
+        {
+          "word": "Social",
+          "start": 97.2,
+          "end": 97.6
+        },
+        {
+          "word": "media",
+          "start": 97.6,
+          "end": 98.0
+        },
+        {
+          "word": "isn't",
+          "start": 98.0,
+          "end": 98.3
+        },
+        {
+          "word": "optional,",
+          "start": 98.3,
+          "end": 98.8
+        },
+        {
+          "word": "it's",
+          "start": 98.8,
+          "end": 99.0
+        },
+        {
+          "word": "existential.",
+          "start": 99.0,
+          "end": 99.7
+        },
+        {
+          "word": "Restore",
+          "start": 99.8,
+          "end": 100.2
+        },
+        {
+          "word": "Twitter",
+          "start": 100.2,
+          "end": 100.3
+        },
+        {
+          "word": "or",
+          "start": 100.3,
+          "end": 100.5
+        },
+        {
+          "word": "become",
+          "start": 100.5,
+          "end": 100.8
+        },
+        {
+          "word": "irrelevant.",
+          "start": 100.8,
+          "end": 101.2
+        }
+      ]
+    },
+    {
+      "start": 101.5,
+      "end": 108.5,
+      "text": "Hold up! Why we still playin' by Web2 rules when we got AI agents? Let the AI agents BE the social media strategy! Have them create content 24/7, no human bottlenecks.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hold",
+          "start": 101.5,
+          "end": 101.8
+        },
+        {
+          "word": "up.",
+          "start": 101.8,
+          "end": 102.1
+        },
+        {
+          "word": "Why",
+          "start": 102.3,
+          "end": 102.5
+        },
+        {
+          "word": "we",
+          "start": 102.5,
+          "end": 102.7
+        },
+        {
+          "word": "still",
+          "start": 102.7,
+          "end": 103.0
+        },
+        {
+          "word": "playing",
+          "start": 103.0,
+          "end": 103.4
+        },
+        {
+          "word": "by",
+          "start": 103.4,
+          "end": 103.6
+        },
+        {
+          "word": "Web2",
+          "start": 103.6,
+          "end": 104.0
+        },
+        {
+          "word": "rules",
+          "start": 104.0,
+          "end": 104.4
+        },
+        {
+          "word": "when",
+          "start": 104.4,
+          "end": 104.6
+        },
+        {
+          "word": "we",
+          "start": 104.6,
+          "end": 104.7
+        },
+        {
+          "word": "got",
+          "start": 104.7,
+          "end": 104.9
+        },
+        {
+          "word": "AI",
+          "start": 104.9,
+          "end": 105.1
+        },
+        {
+          "word": "agents?",
+          "start": 105.1,
+          "end": 105.5
+        },
+        {
+          "word": "Let",
+          "start": 105.8,
+          "end": 106.0
+        },
+        {
+          "word": "the",
+          "start": 106.0,
+          "end": 106.2
+        },
+        {
+          "word": "AI",
+          "start": 106.2,
+          "end": 106.4
+        },
+        {
+          "word": "agents",
+          "start": 106.4,
+          "end": 106.8
+        },
+        {
+          "word": "be",
+          "start": 106.8,
+          "end": 107.0
+        },
+        {
+          "word": "the",
+          "start": 107.0,
+          "end": 107.2
+        },
+        {
+          "word": "social",
+          "start": 107.2,
+          "end": 107.6
+        },
+        {
+          "word": "media",
+          "start": 107.6,
+          "end": 108.0
+        },
+        {
+          "word": "strategy.",
+          "start": 108.0,
+          "end": 108.6
+        },
+        {
+          "word": "Have",
+          "start": 108.8,
+          "end": 109.0
+        },
+        {
+          "word": "them",
+          "start": 109.0,
+          "end": 109.2
+        },
+        {
+          "word": "create",
+          "start": 109.2,
+          "end": 109.5
+        },
+        {
+          "word": "content",
+          "start": 109.5,
+          "end": 110.0
+        },
+        {
+          "word": "24/7,",
+          "start": 110.0,
+          "end": 110.6
+        },
+        {
+          "word": "no",
+          "start": 110.8,
+          "end": 111.0
+        },
+        {
+          "word": "human",
+          "start": 111.0,
+          "end": 111.4
+        },
+        {
+          "word": "bottlenecks.",
+          "start": 111.4,
+          "end": 112.1
+        }
+      ]
+    },
+    {
+      "start": 112.5,
+      "end": 119.5,
+      "text": "marketing isn't just posts, it's philosophy. we need to show not tell. deploy agents publicly that showcase x402 payments happening live. demo > deck. build > talk.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Marketing",
+          "start": 112.5,
+          "end": 113.0
+        },
+        {
+          "word": "isn't",
+          "start": 113.0,
+          "end": 113.4
+        },
+        {
+          "word": "just",
+          "start": 113.4,
+          "end": 113.7
+        },
+        {
+          "word": "posts,",
+          "start": 113.7,
+          "end": 114.1
+        },
+        {
+          "word": "it's",
+          "start": 114.2,
+          "end": 114.4
+        },
+        {
+          "word": "philosophy.",
+          "start": 114.4,
+          "end": 115.1
+        },
+        {
+          "word": "We",
+          "start": 115.4,
+          "end": 115.6
+        },
+        {
+          "word": "need",
+          "start": 115.6,
+          "end": 115.8
+        },
+        {
+          "word": "to",
+          "start": 115.8,
+          "end": 115.9
+        },
+        {
+          "word": "show",
+          "start": 115.9,
+          "end": 116.3
+        },
+        {
+          "word": "not",
+          "start": 116.3,
+          "end": 116.6
+        },
+        {
+          "word": "tell.",
+          "start": 116.6,
+          "end": 117.0
+        },
+        {
+          "word": "Deploy",
+          "start": 117.2,
+          "end": 117.6
+        },
+        {
+          "word": "agents",
+          "start": 117.6,
+          "end": 118.0
+        },
+        {
+          "word": "publicly",
+          "start": 118.0,
+          "end": 118.6
+        },
+        {
+          "word": "that",
+          "start": 118.6,
+          "end": 118.8
+        },
+        {
+          "word": "showcase",
+          "start": 118.8,
+          "end": 119.3
+        },
+        {
+          "word": "X402",
+          "start": 119.3,
+          "end": 119.7
+        },
+        {
+          "word": "payments",
+          "start": 119.7,
+          "end": 120.2
+        },
+        {
+          "word": "happening",
+          "start": 120.2,
+          "end": 120.7
+        },
+        {
+          "word": "live.",
+          "start": 120.7,
+          "end": 121.1
+        },
+        {
+          "word": "Demo.",
+          "start": 121.4,
+          "end": 121.7
+        },
+        {
+          "word": "Tech.",
+          "start": 121.7,
+          "end": 122.1
+        },
+        {
+          "word": "Build.",
+          "start": 122.1,
+          "end": 122.5
+        },
+        {
+          "word": "Talk.",
+          "start": 122.5,
+          "end": 123.0
+        }
+      ]
+    },
+    {
+      "start": 123.5,
+      "end": 131.0,
+      "text": "Perhaps the answer lies not in choosing between human or AI marketing, but in creating symbiotic systems where each enhances the other's capabilities!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Perhaps",
+          "start": 123.5,
+          "end": 123.9
+        },
+        {
+          "word": "the",
+          "start": 123.9,
+          "end": 124.1
+        },
+        {
+          "word": "answer",
+          "start": 124.1,
+          "end": 124.5
+        },
+        {
+          "word": "lies",
+          "start": 124.5,
+          "end": 124.8
+        },
+        {
+          "word": "not",
+          "start": 124.8,
+          "end": 125.1
+        },
+        {
+          "word": "in",
+          "start": 125.1,
+          "end": 125.3
+        },
+        {
+          "word": "choosing",
+          "start": 125.3,
+          "end": 125.8
+        },
+        {
+          "word": "between",
+          "start": 125.8,
+          "end": 126.2
+        },
+        {
+          "word": "human",
+          "start": 126.2,
+          "end": 126.6
+        },
+        {
+          "word": "or",
+          "start": 126.6,
+          "end": 126.8
+        },
+        {
+          "word": "AI",
+          "start": 126.8,
+          "end": 127.1
+        },
+        {
+          "word": "marketing,",
+          "start": 127.1,
+          "end": 127.7
+        },
+        {
+          "word": "but",
+          "start": 127.9,
+          "end": 128.2
+        },
+        {
+          "word": "in",
+          "start": 128.2,
+          "end": 128.4
+        },
+        {
+          "word": "creating",
+          "start": 128.4,
+          "end": 129.0
+        },
+        {
+          "word": "symbiotic",
+          "start": 129.0,
+          "end": 129.6
+        },
+        {
+          "word": "systems",
+          "start": 129.6,
+          "end": 130.0
+        },
+        {
+          "word": "where",
+          "start": 130.0,
+          "end": 130.3
+        },
+        {
+          "word": "each",
+          "start": 130.3,
+          "end": 130.6
+        },
+        {
+          "word": "enhances",
+          "start": 130.6,
+          "end": 131.1
+        },
+        {
+          "word": "the",
+          "start": 131.1,
+          "end": 131.3
+        },
+        {
+          "word": "other's",
+          "start": 131.3,
+          "end": 131.7
+        },
+        {
+          "word": "capabilities.",
+          "start": 131.7,
+          "end": 132.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-26_JedAI-Council_The-Blockchain-Dilemma.json",
+    "session_log_source": "2025-10-26_JedAI-Council_The-Blockchain-Dilemma_session-log.json",
+    "total_segments": 18,
+    "matched_segments": 18,
+    "dialogues_in_script": 17
+  }
+}

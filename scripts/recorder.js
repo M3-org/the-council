@@ -90,7 +90,7 @@ class ShmotimeRecorder {
     
     const inputFile = this.outputFile.path;
     const targetFrameRate = this.options.frameRate;
-    const outputPath = inputFile.replace(/(\.\w+)$/, `_fps${targetFrameRate}.mp4`); // Output as MP4
+    const outputPath = inputFile.replace(/(\.\w+)$/, `.mp4`); // Output as MP4
 
     try {
       const { exec } = require('child_process');
@@ -109,6 +109,17 @@ class ShmotimeRecorder {
       }
       
       log(`Video processed to MP4: ${outputPath}`);
+
+      // Delete the original webm file to save space
+      if (inputFile !== outputPath && fs.existsSync(inputFile)) {
+        try {
+          fs.unlinkSync(inputFile);
+          log(`Deleted intermediate file: ${inputFile}`);
+        } catch (unlinkError) {
+          log(`Warning: Could not delete intermediate file ${inputFile}: ${unlinkError.message}`, 'warn');
+        }
+      }
+
       return outputPath;
       
     } catch (error) {
@@ -329,7 +340,7 @@ class ShmotimeRecorder {
           fetcher_episode_data: this.options.episodeData || null,
           event_timeline: this.recorderEvents,
           original_video_file: this.outputFile?.path ? path.basename(this.outputFile.path) : null,
-          processed_mp4_file: this.outputFile?.path ? path.basename(this.outputFile.path).replace(/(\.\w+)$/, `_fps${this.options.frameRate}.mp4`) : null
+          processed_mp4_file: this.outputFile?.path ? path.basename(this.outputFile.path).replace(/(\.\w+)$/, `.mp4`) : null
         };
         fs.writeFileSync(finalJsonPath, JSON.stringify(sessionData, null, 2));
         this.log(`Session log exported to: ${finalJsonPath}`);
@@ -1245,6 +1256,7 @@ Options:
   --filename-suffix=<text>      Add suffix to filename (e.g. --filename-suffix=test → S1E12_JedAI-Council_title_test.mp4)
   --date=<YYYY-MM-DD>           Override date for output filenames (recommended)
   --list=<path>                 Path to list file for date mapping (default: ../list.txt)
+  --skip-existing               Skip recording if output file already exists
   --help                        Show this help
 
 Examples:
@@ -1275,6 +1287,7 @@ Examples:
   const filenameSuffix = args.find(arg => arg.startsWith('--filename-suffix='))?.split('=')[1] || '';
   const dateOverride = args.find(arg => arg.startsWith('--date='))?.split('=')[1] || '';
   const listPath = args.find(arg => arg.startsWith('--list='))?.split('=')[1];
+  const skipExisting = args.includes('--skip-existing');
   
   // Parse episode data JSON
   const episodeDataRaw = args.find(arg => arg.startsWith('--episode-data='))?.split('=')[1];
@@ -1346,7 +1359,8 @@ Examples:
       filenameSuffix,
       dateOverride,
       listPath,
-      baseName // <--- add to options
+      baseName,
+      skipExisting
     },
     waitTime
   };
@@ -1364,6 +1378,15 @@ async function main() {
   if (options.episodeData) {
     console.log(`🎬 Episode: ${options.episodeData.episode_number} - ${options.episodeData.name}`);
     console.log(`📁 Expected filename: ${options.episodeData.episode_number}_JedAI-Council-${options.episodeData.clean_title}.${options.outputFormat}`);
+  }
+
+  // Check if recording already exists (--skip-existing)
+  if (options.skipExisting) {
+    const expectedFile = path.join(options.outputDir, `${options.baseName}.mp4`);
+    if (fs.existsSync(expectedFile)) {
+      console.log(`⏭️  Skipping: ${expectedFile} already exists`);
+      process.exit(0);
+    }
   }
 
   const player = new ShmotimeRecorder(options);

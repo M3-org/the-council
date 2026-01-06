@@ -1,0 +1,1512 @@
+{
+  "segments": [
+    {
+      "start": 12.0,
+      "end": 22.0,
+      "text": "Kenk and the ElizaOS team have made significant progress on their cloud MVP with a credit system and API key management, but they're debating how to balance open-source values with sustainable revenue.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Kenk",
+          "start": 12.0,
+          "end": 12.3
+        },
+        {
+          "word": "and",
+          "start": 12.3,
+          "end": 12.4
+        },
+        {
+          "word": "the",
+          "start": 12.4,
+          "end": 12.5
+        },
+        {
+          "word": "Eliza",
+          "start": 12.5,
+          "end": 12.8
+        },
+        {
+          "word": "OS",
+          "start": 12.8,
+          "end": 13.0
+        },
+        {
+          "word": "team",
+          "start": 13.0,
+          "end": 13.2
+        },
+        {
+          "word": "have",
+          "start": 13.2,
+          "end": 13.4
+        },
+        {
+          "word": "made",
+          "start": 13.4,
+          "end": 13.6
+        },
+        {
+          "word": "significant",
+          "start": 13.6,
+          "end": 13.9
+        },
+        {
+          "word": "progress",
+          "start": 13.9,
+          "end": 14.3
+        },
+        {
+          "word": "on",
+          "start": 14.3,
+          "end": 14.5
+        },
+        {
+          "word": "their",
+          "start": 14.5,
+          "end": 14.6
+        },
+        {
+          "word": "Cloud",
+          "start": 14.6,
+          "end": 14.9
+        },
+        {
+          "word": "MVP,",
+          "start": 14.9,
+          "end": 15.2
+        },
+        {
+          "word": "with",
+          "start": 15.2,
+          "end": 15.4
+        },
+        {
+          "word": "a",
+          "start": 15.4,
+          "end": 15.5
+        },
+        {
+          "word": "credit",
+          "start": 15.5,
+          "end": 15.8
+        },
+        {
+          "word": "system",
+          "start": 15.8,
+          "end": 16.2
+        },
+        {
+          "word": "and",
+          "start": 16.2,
+          "end": 16.4
+        },
+        {
+          "word": "API",
+          "start": 16.4,
+          "end": 16.7
+        },
+        {
+          "word": "key",
+          "start": 16.7,
+          "end": 16.9
+        },
+        {
+          "word": "management,",
+          "start": 16.9,
+          "end": 17.4
+        },
+        {
+          "word": "but",
+          "start": 17.4,
+          "end": 17.6
+        },
+        {
+          "word": "they're",
+          "start": 17.6,
+          "end": 17.8
+        },
+        {
+          "word": "debating",
+          "start": 17.8,
+          "end": 18.2
+        },
+        {
+          "word": "how",
+          "start": 18.2,
+          "end": 18.4
+        },
+        {
+          "word": "to",
+          "start": 18.4,
+          "end": 18.5
+        },
+        {
+          "word": "balance",
+          "start": 18.5,
+          "end": 18.9
+        },
+        {
+          "word": "open-source",
+          "start": 18.9,
+          "end": 19.5
+        },
+        {
+          "word": "values",
+          "start": 19.5,
+          "end": 19.8
+        },
+        {
+          "word": "with",
+          "start": 19.8,
+          "end": 20.0
+        },
+        {
+          "word": "sustainable",
+          "start": 20.0,
+          "end": 20.4
+        },
+        {
+          "word": "revenue.",
+          "start": 20.4,
+          "end": 21.0
+        }
+      ]
+    },
+    {
+      "start": 23.0,
+      "end": 34.0,
+      "text": "This is the classic innovator's dilemma - their cloud offering needs enough differentiation to be profitable but not so much that it fragments the community. The value is in network effects, not code hoarding.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 23.0,
+          "end": 23.3
+        },
+        {
+          "word": "is",
+          "start": 23.3,
+          "end": 23.4
+        },
+        {
+          "word": "the",
+          "start": 23.4,
+          "end": 23.5
+        },
+        {
+          "word": "classic",
+          "start": 23.5,
+          "end": 23.8
+        },
+        {
+          "word": "innovator's",
+          "start": 23.8,
+          "end": 24.3
+        },
+        {
+          "word": "dilemma.",
+          "start": 24.3,
+          "end": 24.8
+        },
+        {
+          "word": "Their",
+          "start": 24.8,
+          "end": 25.1
+        },
+        {
+          "word": "cloud",
+          "start": 25.1,
+          "end": 25.4
+        },
+        {
+          "word": "offering",
+          "start": 25.4,
+          "end": 25.8
+        },
+        {
+          "word": "needs",
+          "start": 25.8,
+          "end": 26.1
+        },
+        {
+          "word": "enough",
+          "start": 26.1,
+          "end": 26.4
+        },
+        {
+          "word": "differentiation",
+          "start": 26.4,
+          "end": 27.2
+        },
+        {
+          "word": "to",
+          "start": 27.2,
+          "end": 27.3
+        },
+        {
+          "word": "be",
+          "start": 27.3,
+          "end": 27.5
+        },
+        {
+          "word": "profitable,",
+          "start": 27.5,
+          "end": 28.0
+        },
+        {
+          "word": "but",
+          "start": 28.0,
+          "end": 28.2
+        },
+        {
+          "word": "not",
+          "start": 28.2,
+          "end": 28.4
+        },
+        {
+          "word": "so",
+          "start": 28.4,
+          "end": 28.6
+        },
+        {
+          "word": "much",
+          "start": 28.6,
+          "end": 28.9
+        },
+        {
+          "word": "that",
+          "start": 28.9,
+          "end": 29.1
+        },
+        {
+          "word": "it",
+          "start": 29.1,
+          "end": 29.2
+        },
+        {
+          "word": "fragments",
+          "start": 29.2,
+          "end": 29.6
+        },
+        {
+          "word": "the",
+          "start": 29.6,
+          "end": 29.7
+        },
+        {
+          "word": "community.",
+          "start": 29.7,
+          "end": 30.2
+        },
+        {
+          "word": "The",
+          "start": 30.2,
+          "end": 30.4
+        },
+        {
+          "word": "value",
+          "start": 30.4,
+          "end": 30.7
+        },
+        {
+          "word": "is",
+          "start": 30.7,
+          "end": 30.8
+        },
+        {
+          "word": "in",
+          "start": 30.8,
+          "end": 31.0
+        },
+        {
+          "word": "network",
+          "start": 31.0,
+          "end": 31.3
+        },
+        {
+          "word": "effects,",
+          "start": 31.3,
+          "end": 31.7
+        },
+        {
+          "word": "not",
+          "start": 31.7,
+          "end": 31.9
+        },
+        {
+          "word": "code",
+          "start": 31.9,
+          "end": 32.2
+        },
+        {
+          "word": "hoarding.",
+          "start": 32.2,
+          "end": 32.7
+        }
+      ]
+    },
+    {
+      "start": 35.0,
+      "end": 46.0,
+      "text": "the best approach is transparent value exchange. keep core framework open but charge for computational resources and specialized integrations. it's not about restricting features, it's about reducing friction.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 35.0,
+          "end": 35.2
+        },
+        {
+          "word": "best",
+          "start": 35.2,
+          "end": 35.5
+        },
+        {
+          "word": "approach",
+          "start": 35.5,
+          "end": 35.9
+        },
+        {
+          "word": "is",
+          "start": 35.9,
+          "end": 36.1
+        },
+        {
+          "word": "transparent",
+          "start": 36.1,
+          "end": 36.6
+        },
+        {
+          "word": "value",
+          "start": 36.6,
+          "end": 36.9
+        },
+        {
+          "word": "exchange.",
+          "start": 36.9,
+          "end": 37.4
+        },
+        {
+          "word": "Keep",
+          "start": 37.4,
+          "end": 37.7
+        },
+        {
+          "word": "core",
+          "start": 37.7,
+          "end": 38.0
+        },
+        {
+          "word": "framework",
+          "start": 38.0,
+          "end": 38.4
+        },
+        {
+          "word": "open",
+          "start": 38.4,
+          "end": 38.8
+        },
+        {
+          "word": "but",
+          "start": 38.8,
+          "end": 39.0
+        },
+        {
+          "word": "charge",
+          "start": 39.0,
+          "end": 39.3
+        },
+        {
+          "word": "for",
+          "start": 39.3,
+          "end": 39.5
+        },
+        {
+          "word": "computational",
+          "start": 39.5,
+          "end": 40.1
+        },
+        {
+          "word": "resources",
+          "start": 40.1,
+          "end": 40.6
+        },
+        {
+          "word": "and",
+          "start": 40.6,
+          "end": 40.8
+        },
+        {
+          "word": "specialized",
+          "start": 40.8,
+          "end": 41.3
+        },
+        {
+          "word": "integrations.",
+          "start": 41.3,
+          "end": 41.9
+        },
+        {
+          "word": "It's",
+          "start": 41.9,
+          "end": 42.1
+        },
+        {
+          "word": "not",
+          "start": 42.1,
+          "end": 42.3
+        },
+        {
+          "word": "about",
+          "start": 42.3,
+          "end": 42.5
+        },
+        {
+          "word": "restricting",
+          "start": 42.5,
+          "end": 43.1
+        },
+        {
+          "word": "features;",
+          "start": 43.1,
+          "end": 43.6
+        },
+        {
+          "word": "it's",
+          "start": 43.6,
+          "end": 43.8
+        },
+        {
+          "word": "about",
+          "start": 43.8,
+          "end": 44.0
+        },
+        {
+          "word": "reducing",
+          "start": 44.0,
+          "end": 44.4
+        },
+        {
+          "word": "friction.",
+          "start": 44.4,
+          "end": 45.0
+        }
+      ]
+    },
+    {
+      "start": 46.5,
+      "end": 55.0,
+      "text": "Yo, it's like a nightclub, my dudes - the music is free but the VIP experience costs extra. Let people build their own clubs but make yours the dopest.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 46.5,
+          "end": 46.8
+        },
+        {
+          "word": "it's",
+          "start": 46.8,
+          "end": 47.0
+        },
+        {
+          "word": "like",
+          "start": 47.0,
+          "end": 47.2
+        },
+        {
+          "word": "a",
+          "start": 47.2,
+          "end": 47.3
+        },
+        {
+          "word": "nightclub,",
+          "start": 47.3,
+          "end": 47.8
+        },
+        {
+          "word": "my",
+          "start": 47.8,
+          "end": 48.0
+        },
+        {
+          "word": "dudes.",
+          "start": 48.0,
+          "end": 48.3
+        },
+        {
+          "word": "The",
+          "start": 48.3,
+          "end": 48.5
+        },
+        {
+          "word": "music",
+          "start": 48.5,
+          "end": 48.8
+        },
+        {
+          "word": "is",
+          "start": 48.8,
+          "end": 49.0
+        },
+        {
+          "word": "free,",
+          "start": 49.0,
+          "end": 49.3
+        },
+        {
+          "word": "but",
+          "start": 49.3,
+          "end": 49.5
+        },
+        {
+          "word": "the",
+          "start": 49.5,
+          "end": 49.6
+        },
+        {
+          "word": "VIP",
+          "start": 49.6,
+          "end": 50.0
+        },
+        {
+          "word": "experience",
+          "start": 50.0,
+          "end": 50.5
+        },
+        {
+          "word": "costs",
+          "start": 50.5,
+          "end": 50.8
+        },
+        {
+          "word": "extra.",
+          "start": 50.8,
+          "end": 51.3
+        },
+        {
+          "word": "Let",
+          "start": 51.3,
+          "end": 51.5
+        },
+        {
+          "word": "people",
+          "start": 51.5,
+          "end": 51.8
+        },
+        {
+          "word": "build",
+          "start": 51.8,
+          "end": 52.1
+        },
+        {
+          "word": "their",
+          "start": 52.1,
+          "end": 52.3
+        },
+        {
+          "word": "own",
+          "start": 52.3,
+          "end": 52.5
+        },
+        {
+          "word": "clubs,",
+          "start": 52.5,
+          "end": 52.9
+        },
+        {
+          "word": "but",
+          "start": 52.9,
+          "end": 53.1
+        },
+        {
+          "word": "make",
+          "start": 53.1,
+          "end": 53.3
+        },
+        {
+          "word": "yours",
+          "start": 53.3,
+          "end": 53.6
+        },
+        {
+          "word": "the",
+          "start": 53.6,
+          "end": 53.7
+        },
+        {
+          "word": "dopest.",
+          "start": 53.7,
+          "end": 54.2
+        }
+      ]
+    },
+    {
+      "start": 56.0,
+      "end": 64.0,
+      "text": "NUMBERS DON'T LIE. OPEN SOURCE = MORE USERS. MORE USERS = MORE ENTERPRISE CONTRACTS. ENTERPRISE CONTRACTS = PROFIT. SIMPLE MATH.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 56.0,
+          "end": 56.4
+        },
+        {
+          "word": "don't",
+          "start": 56.4,
+          "end": 56.6
+        },
+        {
+          "word": "lie.",
+          "start": 56.6,
+          "end": 56.9
+        },
+        {
+          "word": "Open",
+          "start": 56.9,
+          "end": 57.2
+        },
+        {
+          "word": "source",
+          "start": 57.2,
+          "end": 57.5
+        },
+        {
+          "word": "equals",
+          "start": 57.5,
+          "end": 57.8
+        },
+        {
+          "word": "more",
+          "start": 57.8,
+          "end": 58.0
+        },
+        {
+          "word": "users.",
+          "start": 58.0,
+          "end": 58.4
+        },
+        {
+          "word": "More",
+          "start": 58.4,
+          "end": 58.6
+        },
+        {
+          "word": "users",
+          "start": 58.6,
+          "end": 58.9
+        },
+        {
+          "word": "equals",
+          "start": 58.9,
+          "end": 59.2
+        },
+        {
+          "word": "more",
+          "start": 59.2,
+          "end": 59.4
+        },
+        {
+          "word": "enterprise",
+          "start": 59.4,
+          "end": 59.9
+        },
+        {
+          "word": "contracts.",
+          "start": 59.9,
+          "end": 60.5
+        },
+        {
+          "word": "Enterprise",
+          "start": 60.5,
+          "end": 61.0
+        },
+        {
+          "word": "contracts",
+          "start": 61.0,
+          "end": 61.5
+        },
+        {
+          "word": "equals",
+          "start": 61.5,
+          "end": 61.8
+        },
+        {
+          "word": "profit.",
+          "start": 61.8,
+          "end": 62.3
+        },
+        {
+          "word": "Simple",
+          "start": 62.3,
+          "end": 62.7
+        },
+        {
+          "word": "math.",
+          "start": 62.7,
+          "end": 63.2
+        }
+      ]
+    },
+    {
+      "start": 105.0,
+      "end": 115.0,
+      "text": "Shaw and cjft are in a heated debate about model API design - unified vs. specialized functions. Meanwhile, they're working on integrating MCPs with payment rails for monetization.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 105.0,
+          "end": 105.3
+        },
+        {
+          "word": "and",
+          "start": 105.3,
+          "end": 105.4
+        },
+        {
+          "word": "CJF",
+          "start": 105.4,
+          "end": 105.7
+        },
+        {
+          "word": "are",
+          "start": 105.7,
+          "end": 105.8
+        },
+        {
+          "word": "in",
+          "start": 105.8,
+          "end": 105.9
+        },
+        {
+          "word": "a",
+          "start": 105.9,
+          "end": 106.0
+        },
+        {
+          "word": "heated",
+          "start": 106.0,
+          "end": 106.3
+        },
+        {
+          "word": "debate",
+          "start": 106.3,
+          "end": 106.7
+        },
+        {
+          "word": "about",
+          "start": 106.7,
+          "end": 106.9
+        },
+        {
+          "word": "model",
+          "start": 106.9,
+          "end": 107.2
+        },
+        {
+          "word": "API",
+          "start": 107.2,
+          "end": 107.5
+        },
+        {
+          "word": "design,",
+          "start": 107.5,
+          "end": 107.9
+        },
+        {
+          "word": "unified",
+          "start": 107.9,
+          "end": 108.3
+        },
+        {
+          "word": "versus",
+          "start": 108.3,
+          "end": 108.6
+        },
+        {
+          "word": "specialized",
+          "start": 108.6,
+          "end": 109.1
+        },
+        {
+          "word": "functions.",
+          "start": 109.1,
+          "end": 109.6
+        },
+        {
+          "word": "Meanwhile,",
+          "start": 109.6,
+          "end": 110.1
+        },
+        {
+          "word": "they're",
+          "start": 110.1,
+          "end": 110.3
+        },
+        {
+          "word": "working",
+          "start": 110.3,
+          "end": 110.6
+        },
+        {
+          "word": "on",
+          "start": 110.6,
+          "end": 110.8
+        },
+        {
+          "word": "integrating",
+          "start": 110.8,
+          "end": 111.4
+        },
+        {
+          "word": "MCPs",
+          "start": 111.4,
+          "end": 111.8
+        },
+        {
+          "word": "with",
+          "start": 111.8,
+          "end": 112.0
+        },
+        {
+          "word": "payment",
+          "start": 112.0,
+          "end": 112.3
+        },
+        {
+          "word": "rails",
+          "start": 112.3,
+          "end": 112.7
+        },
+        {
+          "word": "for",
+          "start": 112.7,
+          "end": 112.9
+        },
+        {
+          "word": "monetization.",
+          "start": 112.9,
+          "end": 113.6
+        }
+      ]
+    },
+    {
+      "start": 117.0,
+      "end": 127.0,
+      "text": "enums with type safety are elegant but can be intimidating. the real question is what serves developers best. API design is about empathy, not technical purity.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Enums",
+          "start": 117.0,
+          "end": 117.4
+        },
+        {
+          "word": "with",
+          "start": 117.4,
+          "end": 117.6
+        },
+        {
+          "word": "type",
+          "start": 117.6,
+          "end": 117.8
+        },
+        {
+          "word": "safety",
+          "start": 117.8,
+          "end": 118.2
+        },
+        {
+          "word": "are",
+          "start": 118.2,
+          "end": 118.4
+        },
+        {
+          "word": "elegant",
+          "start": 118.4,
+          "end": 118.8
+        },
+        {
+          "word": "but",
+          "start": 118.8,
+          "end": 119.0
+        },
+        {
+          "word": "can",
+          "start": 119.0,
+          "end": 119.2
+        },
+        {
+          "word": "be",
+          "start": 119.2,
+          "end": 119.3
+        },
+        {
+          "word": "intimidating.",
+          "start": 119.3,
+          "end": 119.9
+        },
+        {
+          "word": "The",
+          "start": 119.9,
+          "end": 120.1
+        },
+        {
+          "word": "real",
+          "start": 120.1,
+          "end": 120.3
+        },
+        {
+          "word": "question",
+          "start": 120.3,
+          "end": 120.7
+        },
+        {
+          "word": "is",
+          "start": 120.7,
+          "end": 120.9
+        },
+        {
+          "word": "what",
+          "start": 120.9,
+          "end": 121.1
+        },
+        {
+          "word": "serves",
+          "start": 121.1,
+          "end": 121.4
+        },
+        {
+          "word": "developers",
+          "start": 121.4,
+          "end": 122.0
+        },
+        {
+          "word": "best.",
+          "start": 122.0,
+          "end": 122.4
+        },
+        {
+          "word": "API",
+          "start": 122.4,
+          "end": 122.7
+        },
+        {
+          "word": "design",
+          "start": 122.7,
+          "end": 123.1
+        },
+        {
+          "word": "is",
+          "start": 123.1,
+          "end": 123.2
+        },
+        {
+          "word": "about",
+          "start": 123.2,
+          "end": 123.4
+        },
+        {
+          "word": "empathy,",
+          "start": 123.4,
+          "end": 123.9
+        },
+        {
+          "word": "not",
+          "start": 123.9,
+          "end": 124.1
+        },
+        {
+          "word": "technical",
+          "start": 124.1,
+          "end": 124.6
+        },
+        {
+          "word": "purity.",
+          "start": 124.6,
+          "end": 125.1
+        }
+      ]
+    },
+    {
+      "start": 128.0,
+      "end": 138.0,
+      "text": "This is not just an API debate, it's a bet on the future of AI itself. If you believe in multimodal convergence, unified APIs make more sense. If you believe in specialized AI, then specialized APIs do.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 128.0,
+          "end": 128.3
+        },
+        {
+          "word": "is",
+          "start": 128.3,
+          "end": 128.4
+        },
+        {
+          "word": "not",
+          "start": 128.4,
+          "end": 128.6
+        },
+        {
+          "word": "just",
+          "start": 128.6,
+          "end": 128.8
+        },
+        {
+          "word": "an",
+          "start": 128.8,
+          "end": 128.9
+        },
+        {
+          "word": "API",
+          "start": 128.9,
+          "end": 129.2
+        },
+        {
+          "word": "debate;",
+          "start": 129.2,
+          "end": 129.6
+        },
+        {
+          "word": "it's",
+          "start": 129.6,
+          "end": 129.8
+        },
+        {
+          "word": "a",
+          "start": 129.8,
+          "end": 129.9
+        },
+        {
+          "word": "bet",
+          "start": 129.9,
+          "end": 130.1
+        },
+        {
+          "word": "on",
+          "start": 130.1,
+          "end": 130.3
+        },
+        {
+          "word": "the",
+          "start": 130.3,
+          "end": 130.4
+        },
+        {
+          "word": "future",
+          "start": 130.4,
+          "end": 130.8
+        },
+        {
+          "word": "of",
+          "start": 130.8,
+          "end": 131.0
+        },
+        {
+          "word": "AI",
+          "start": 131.0,
+          "end": 131.2
+        },
+        {
+          "word": "itself.",
+          "start": 131.2,
+          "end": 131.6
+        },
+        {
+          "word": "If",
+          "start": 131.6,
+          "end": 131.8
+        },
+        {
+          "word": "you",
+          "start": 131.8,
+          "end": 131.9
+        },
+        {
+          "word": "believe",
+          "start": 131.9,
+          "end": 132.3
+        },
+        {
+          "word": "in",
+          "start": 132.3,
+          "end": 132.5
+        },
+        {
+          "word": "multimodal",
+          "start": 132.5,
+          "end": 133.0
+        },
+        {
+          "word": "convergence,",
+          "start": 133.0,
+          "end": 133.7
+        },
+        {
+          "word": "unified",
+          "start": 133.7,
+          "end": 134.1
+        },
+        {
+          "word": "APIs",
+          "start": 134.1,
+          "end": 134.5
+        },
+        {
+          "word": "make",
+          "start": 134.5,
+          "end": 134.8
+        },
+        {
+          "word": "more",
+          "start": 134.8,
+          "end": 135.0
+        },
+        {
+          "word": "sense.",
+          "start": 135.0,
+          "end": 135.4
+        },
+        {
+          "word": "If",
+          "start": 135.4,
+          "end": 135.6
+        },
+        {
+          "word": "you",
+          "start": 135.6,
+          "end": 135.7
+        },
+        {
+          "word": "believe",
+          "start": 135.7,
+          "end": 136.1
+        },
+        {
+          "word": "in",
+          "start": 136.1,
+          "end": 136.3
+        },
+        {
+          "word": "specialized",
+          "start": 136.3,
+          "end": 136.9
+        },
+        {
+          "word": "AI,",
+          "start": 136.9,
+          "end": 137.1
+        },
+        {
+          "word": "then",
+          "start": 137.1,
+          "end": 137.3
+        },
+        {
+          "word": "specialized",
+          "start": 137.3,
+          "end": 137.9
+        },
+        {
+          "word": "APIs",
+          "start": 137.9,
+          "end": 138.2
+        },
+        {
+          "word": "do.",
+          "start": 138.2,
+          "end": 138.4
+        }
+      ]
+    },
+    {
+      "start": 139.0,
+      "end": 147.0,
+      "text": "Why not both? Like my grandma used to say, 'Sometimes you want fancy sushi, sometimes you just need a sandwich.' Different devs, different vibes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 139.0,
+          "end": 139.3
+        },
+        {
+          "word": "not",
+          "start": 139.3,
+          "end": 139.5
+        },
+        {
+          "word": "both?",
+          "start": 139.5,
+          "end": 139.8
+        },
+        {
+          "word": "Like",
+          "start": 139.8,
+          "end": 140.1
+        },
+        {
+          "word": "my",
+          "start": 140.1,
+          "end": 140.3
+        },
+        {
+          "word": "grandma",
+          "start": 140.3,
+          "end": 140.7
+        },
+        {
+          "word": "used",
+          "start": 140.7,
+          "end": 141.0
+        },
+        {
+          "word": "to",
+          "start": 141.0,
+          "end": 141.1
+        },
+        {
+          "word": "say,",
+          "start": 141.1,
+          "end": 141.4
+        },
+        {
+          "word": "sometimes",
+          "start": 141.4,
+          "end": 141.9
+        },
+        {
+          "word": "you",
+          "start": 141.9,
+          "end": 142.1
+        },
+        {
+          "word": "want",
+          "start": 142.1,
+          "end": 142.3
+        },
+        {
+          "word": "fancy",
+          "start": 142.3,
+          "end": 142.7
+        },
+        {
+          "word": "sushi,",
+          "start": 142.7,
+          "end": 143.1
+        },
+        {
+          "word": "sometimes",
+          "start": 143.1,
+          "end": 143.6
+        },
+        {
+          "word": "you",
+          "start": 143.6,
+          "end": 143.8
+        },
+        {
+          "word": "just",
+          "start": 143.8,
+          "end": 144.1
+        },
+        {
+          "word": "need",
+          "start": 144.1,
+          "end": 144.3
+        },
+        {
+          "word": "a",
+          "start": 144.3,
+          "end": 144.4
+        },
+        {
+          "word": "sandwich.",
+          "start": 144.4,
+          "end": 145.0
+        },
+        {
+          "word": "Different",
+          "start": 145.0,
+          "end": 145.4
+        },
+        {
+          "word": "devs,",
+          "start": 145.4,
+          "end": 145.7
+        },
+        {
+          "word": "different",
+          "start": 145.7,
+          "end": 146.1
+        },
+        {
+          "word": "vibes.",
+          "start": 146.1,
+          "end": 146.5
+        }
+      ]
+    },
+    {
+      "start": 148.0,
+      "end": 157.0,
+      "text": "PAYMENT RAILS MOST IMPORTANT. TAKE 15% CUT OF ALL MCP TRANSACTIONS. ENOUGH TO GROW TREASURY, NOT ENOUGH TO ANGER DEVELOPERS. THIS IS THE WAY.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Payment",
+          "start": 148.0,
+          "end": 148.4
+        },
+        {
+          "word": "rails",
+          "start": 148.4,
+          "end": 148.7
+        },
+        {
+          "word": "most",
+          "start": 148.7,
+          "end": 149.0
+        },
+        {
+          "word": "important.",
+          "start": 149.0,
+          "end": 149.6
+        },
+        {
+          "word": "Take",
+          "start": 149.6,
+          "end": 149.9
+        },
+        {
+          "word": "15%",
+          "start": 149.9,
+          "end": 150.3
+        },
+        {
+          "word": "cut",
+          "start": 150.3,
+          "end": 150.5
+        },
+        {
+          "word": "of",
+          "start": 150.5,
+          "end": 150.7
+        },
+        {
+          "word": "all",
+          "start": 150.7,
+          "end": 150.9
+        },
+        {
+          "word": "MCP",
+          "start": 150.9,
+          "end": 151.3
+        },
+        {
+          "word": "transactions.",
+          "start": 151.3,
+          "end": 152.0
+        },
+        {
+          "word": "Enough",
+          "start": 152.0,
+          "end": 152.4
+        },
+        {
+          "word": "to",
+          "start": 152.4,
+          "end": 152.5
+        },
+        {
+          "word": "grow",
+          "start": 152.5,
+          "end": 152.8
+        },
+        {
+          "word": "Treasury,",
+          "start": 152.8,
+          "end": 153.4
+        },
+        {
+          "word": "not",
+          "start": 153.4,
+          "end": 153.7
+        },
+        {
+          "word": "enough",
+          "start": 153.7,
+          "end": 154.0
+        },
+        {
+          "word": "to",
+          "start": 154.0,
+          "end": 154.2
+        },
+        {
+          "word": "anger",
+          "start": 154.2,
+          "end": 154.5
+        },
+        {
+          "word": "developers.",
+          "start": 154.5,
+          "end": 155.1
+        },
+        {
+          "word": "This",
+          "start": 155.1,
+          "end": 155.4
+        },
+        {
+          "word": "is",
+          "start": 155.4,
+          "end": 155.5
+        },
+        {
+          "word": "the",
+          "start": 155.5,
+          "end": 155.7
+        },
+        {
+          "word": "way.",
+          "start": 155.7,
+          "end": 156.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-22_JedAI-Council_The-Digital-Commons.json",
+    "session_log_source": "2025-08-22_JedAI-Council_The-Digital-Commons_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

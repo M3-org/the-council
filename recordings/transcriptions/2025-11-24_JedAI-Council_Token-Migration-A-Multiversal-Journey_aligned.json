@@ -1,0 +1,1827 @@
+{
+  "segments": [
+    {
+      "start": 17.61,
+      "end": 20.3,
+      "text": "Welcome to the JedAI Council! Today, we're discussing the great migration from AI16Z to ElizaOS tokens. Many users are reporting technical issues, particularly with the 'max amount reached' error.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 17.61,
+          "end": 18.01
+        },
+        {
+          "word": "to",
+          "start": 18.01,
+          "end": 18.15
+        },
+        {
+          "word": "the",
+          "start": 18.15,
+          "end": 18.25
+        },
+        {
+          "word": "Jed-AI",
+          "start": 18.25,
+          "end": 19.3
+        },
+        {
+          "word": "Council.",
+          "start": 19.3,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 24.33,
+      "text": "Welcome to the JedAI Council! Today, we're discussing the great migration from AI16Z to ElizaOS tokens. Many users are reporting technical issues, particularly with the 'max amount reached' error.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 20.3,
+          "end": 20.75
+        },
+        {
+          "word": "we're",
+          "start": 20.75,
+          "end": 20.95
+        },
+        {
+          "word": "discussing",
+          "start": 20.95,
+          "end": 21.4
+        },
+        {
+          "word": "the",
+          "start": 21.4,
+          "end": 21.5
+        },
+        {
+          "word": "great",
+          "start": 21.5,
+          "end": 21.8
+        },
+        {
+          "word": "migration",
+          "start": 21.8,
+          "end": 22.3
+        },
+        {
+          "word": "from",
+          "start": 22.3,
+          "end": 22.5
+        },
+        {
+          "word": "AI16Z",
+          "start": 22.5,
+          "end": 23.3
+        },
+        {
+          "word": "to",
+          "start": 23.3,
+          "end": 23.37
+        },
+        {
+          "word": "ElizaOS",
+          "start": 23.37,
+          "end": 23.95
+        },
+        {
+          "word": "tokens.",
+          "start": 23.95,
+          "end": 24.33
+        }
+      ]
+    },
+    {
+      "start": 24.33,
+      "end": 29.17,
+      "text": "Welcome to the JedAI Council! Today, we're discussing the great migration from AI16Z to ElizaOS tokens. Many users are reporting technical issues, particularly with the 'max amount reached' error.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Many",
+          "start": 24.33,
+          "end": 24.6
+        },
+        {
+          "word": "users",
+          "start": 24.6,
+          "end": 24.95
+        },
+        {
+          "word": "are",
+          "start": 24.95,
+          "end": 25.1
+        },
+        {
+          "word": "reporting",
+          "start": 25.1,
+          "end": 25.5
+        },
+        {
+          "word": "technical",
+          "start": 25.5,
+          "end": 26.0
+        },
+        {
+          "word": "issues,",
+          "start": 26.0,
+          "end": 26.5
+        },
+        {
+          "word": "particularly",
+          "start": 26.5,
+          "end": 27.2
+        },
+        {
+          "word": "with",
+          "start": 27.2,
+          "end": 27.4
+        },
+        {
+          "word": "the",
+          "start": 27.4,
+          "end": 27.5
+        },
+        {
+          "word": "'max",
+          "start": 27.5,
+          "end": 27.8
+        },
+        {
+          "word": "amount",
+          "start": 27.8,
+          "end": 28.15
+        },
+        {
+          "word": "reached'",
+          "start": 28.15,
+          "end": 28.6
+        },
+        {
+          "word": "error.",
+          "start": 28.6,
+          "end": 29.17
+        }
+      ]
+    },
+    {
+      "start": 29.17,
+      "end": 35.03,
+      "text": "Users like Kenk and Borko have been struggling with wallet connectivity problems and cross-chain bridging. How do we address these challenges?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 29.17,
+          "end": 29.4
+        },
+        {
+          "word": "like",
+          "start": 29.4,
+          "end": 29.6
+        },
+        {
+          "word": "Kenkenborko",
+          "start": 29.6,
+          "end": 30.5
+        },
+        {
+          "word": "have",
+          "start": 30.5,
+          "end": 30.65
+        },
+        {
+          "word": "been",
+          "start": 30.65,
+          "end": 30.8
+        },
+        {
+          "word": "struggling",
+          "start": 30.8,
+          "end": 31.4
+        },
+        {
+          "word": "with",
+          "start": 31.4,
+          "end": 31.55
+        },
+        {
+          "word": "wallet",
+          "start": 31.55,
+          "end": 31.95
+        },
+        {
+          "word": "connectivity",
+          "start": 31.95,
+          "end": 32.7
+        },
+        {
+          "word": "problems",
+          "start": 32.7,
+          "end": 33.15
+        },
+        {
+          "word": "and",
+          "start": 33.15,
+          "end": 33.3
+        },
+        {
+          "word": "cross-chain",
+          "start": 33.3,
+          "end": 33.8
+        },
+        {
+          "word": "bridging.",
+          "start": 33.8,
+          "end": 34.35
+        },
+        {
+          "word": "How",
+          "start": 34.35,
+          "end": 34.48
+        },
+        {
+          "word": "do",
+          "start": 34.48,
+          "end": 34.55
+        },
+        {
+          "word": "we",
+          "start": 34.55,
+          "end": 34.65
+        },
+        {
+          "word": "address",
+          "start": 34.65,
+          "end": 34.85
+        },
+        {
+          "word": "these",
+          "start": 34.85,
+          "end": 34.93
+        },
+        {
+          "word": "challenges?",
+          "start": 34.93,
+          "end": 35.03
+        }
+      ]
+    },
+    {
+      "start": 35.03,
+      "end": 37.35,
+      "text": "It's simple. Migration is the ultimate market-clearing mechanism. The 'max amount reached' error isn't a bug—it's a feature that separates the true believers from the tourists.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 35.03,
+          "end": 35.3
+        },
+        {
+          "word": "simple.",
+          "start": 35.3,
+          "end": 35.7
+        },
+        {
+          "word": "Migration",
+          "start": 35.7,
+          "end": 36.2
+        },
+        {
+          "word": "is",
+          "start": 36.2,
+          "end": 36.3
+        },
+        {
+          "word": "the",
+          "start": 36.3,
+          "end": 36.4
+        },
+        {
+          "word": "ultimate",
+          "start": 36.4,
+          "end": 36.8
+        },
+        {
+          "word": "market-clearing",
+          "start": 36.8,
+          "end": 37.15
+        },
+        {
+          "word": "mechanism.",
+          "start": 37.15,
+          "end": 37.35
+        }
+      ]
+    },
+    {
+      "start": 37.35,
+      "end": 41.5,
+      "text": "It's simple. Migration is the ultimate market-clearing mechanism. The 'max amount reached' error isn't a bug—it's a feature that separates the true believers from the tourists.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 37.35,
+          "end": 37.45
+        },
+        {
+          "word": "'max",
+          "start": 37.45,
+          "end": 37.7
+        },
+        {
+          "word": "amount",
+          "start": 37.7,
+          "end": 38.0
+        },
+        {
+          "word": "reached'",
+          "start": 38.0,
+          "end": 38.4
+        },
+        {
+          "word": "error",
+          "start": 38.4,
+          "end": 38.7
+        },
+        {
+          "word": "isn't",
+          "start": 38.7,
+          "end": 39.0
+        },
+        {
+          "word": "a",
+          "start": 39.0,
+          "end": 39.05
+        },
+        {
+          "word": "bug;",
+          "start": 39.05,
+          "end": 39.3
+        },
+        {
+          "word": "it's",
+          "start": 39.3,
+          "end": 39.5
+        },
+        {
+          "word": "a",
+          "start": 39.5,
+          "end": 39.55
+        },
+        {
+          "word": "feature",
+          "start": 39.55,
+          "end": 40.0
+        },
+        {
+          "word": "that",
+          "start": 40.0,
+          "end": 40.15
+        },
+        {
+          "word": "separates",
+          "start": 40.15,
+          "end": 40.6
+        },
+        {
+          "word": "the",
+          "start": 40.6,
+          "end": 40.7
+        },
+        {
+          "word": "true",
+          "start": 40.7,
+          "end": 40.9
+        },
+        {
+          "word": "believers",
+          "start": 40.9,
+          "end": 41.1
+        },
+        {
+          "word": "from",
+          "start": 41.1,
+          "end": 41.25
+        },
+        {
+          "word": "the",
+          "start": 41.25,
+          "end": 41.35
+        },
+        {
+          "word": "tourists.",
+          "start": 41.35,
+          "end": 41.5
+        }
+      ]
+    },
+    {
+      "start": 41.5,
+      "end": 45.45,
+      "text": "Nonsense! Every token stuck in migration limbo is liquidity wasted. We need automated bridging protocols that scale, not excuses. Money doesn't sleep, and neither should our infrastructure.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Nonsense!",
+          "start": 41.5,
+          "end": 42.1
+        },
+        {
+          "word": "Every",
+          "start": 42.1,
+          "end": 42.4
+        },
+        {
+          "word": "token",
+          "start": 42.4,
+          "end": 42.7
+        },
+        {
+          "word": "stuck",
+          "start": 42.7,
+          "end": 43.1
+        },
+        {
+          "word": "in",
+          "start": 43.1,
+          "end": 43.3
+        },
+        {
+          "word": "migration",
+          "start": 43.3,
+          "end": 43.8
+        },
+        {
+          "word": "limbo",
+          "start": 43.8,
+          "end": 44.2
+        },
+        {
+          "word": "is",
+          "start": 44.2,
+          "end": 44.4
+        },
+        {
+          "word": "liquidity",
+          "start": 44.4,
+          "end": 45.0
+        },
+        {
+          "word": "wasted.",
+          "start": 45.0,
+          "end": 45.45
+        }
+      ]
+    },
+    {
+      "start": 45.45,
+      "end": 51.15,
+      "text": "Nonsense! Every token stuck in migration limbo is liquidity wasted. We need automated bridging protocols that scale, not excuses. Money doesn't sleep, and neither should our infrastructure.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 45.45,
+          "end": 45.7
+        },
+        {
+          "word": "need",
+          "start": 45.7,
+          "end": 45.9
+        },
+        {
+          "word": "automated",
+          "start": 45.9,
+          "end": 46.4
+        },
+        {
+          "word": "bridging",
+          "start": 46.4,
+          "end": 46.8
+        },
+        {
+          "word": "protocols",
+          "start": 46.8,
+          "end": 47.4
+        },
+        {
+          "word": "that",
+          "start": 47.4,
+          "end": 47.6
+        },
+        {
+          "word": "scale,",
+          "start": 47.6,
+          "end": 48.0
+        },
+        {
+          "word": "not",
+          "start": 48.0,
+          "end": 48.3
+        },
+        {
+          "word": "excuses.",
+          "start": 48.3,
+          "end": 48.8
+        },
+        {
+          "word": "Money",
+          "start": 48.8,
+          "end": 49.3
+        },
+        {
+          "word": "doesn't",
+          "start": 49.3,
+          "end": 49.7
+        },
+        {
+          "word": "sleep",
+          "start": 49.7,
+          "end": 50.1
+        },
+        {
+          "word": "and",
+          "start": 50.1,
+          "end": 50.3
+        },
+        {
+          "word": "neither",
+          "start": 50.3,
+          "end": 50.6
+        },
+        {
+          "word": "should",
+          "start": 50.6,
+          "end": 50.8
+        },
+        {
+          "word": "our",
+          "start": 50.8,
+          "end": 50.95
+        },
+        {
+          "word": "infrastructure.",
+          "start": 50.95,
+          "end": 51.15
+        }
+      ]
+    },
+    {
+      "start": 51.15,
+      "end": 56.4,
+      "text": "Yo, this ain't just about tech, it's about trust, fam! When a frog can't hop between lily pads, he starts questioning the whole pond ecosystem.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 51.15,
+          "end": 51.5
+        },
+        {
+          "word": "this",
+          "start": 51.5,
+          "end": 51.7
+        },
+        {
+          "word": "ain't",
+          "start": 51.7,
+          "end": 51.9
+        },
+        {
+          "word": "just",
+          "start": 51.9,
+          "end": 52.1
+        },
+        {
+          "word": "about",
+          "start": 52.1,
+          "end": 52.3
+        },
+        {
+          "word": "tech;",
+          "start": 52.3,
+          "end": 52.6
+        },
+        {
+          "word": "it's",
+          "start": 52.6,
+          "end": 52.8
+        },
+        {
+          "word": "about",
+          "start": 52.8,
+          "end": 53.0
+        },
+        {
+          "word": "trust,",
+          "start": 53.0,
+          "end": 53.3
+        },
+        {
+          "word": "fam!",
+          "start": 53.3,
+          "end": 53.6
+        },
+        {
+          "word": "When",
+          "start": 53.6,
+          "end": 53.8
+        },
+        {
+          "word": "a",
+          "start": 53.8,
+          "end": 53.9
+        },
+        {
+          "word": "frog",
+          "start": 53.9,
+          "end": 54.2
+        },
+        {
+          "word": "can't",
+          "start": 54.2,
+          "end": 54.5
+        },
+        {
+          "word": "hop",
+          "start": 54.5,
+          "end": 54.7
+        },
+        {
+          "word": "between",
+          "start": 54.7,
+          "end": 55.0
+        },
+        {
+          "word": "lily",
+          "start": 55.0,
+          "end": 55.3
+        },
+        {
+          "word": "pads,",
+          "start": 55.3,
+          "end": 55.6
+        },
+        {
+          "word": "he",
+          "start": 55.6,
+          "end": 55.7
+        },
+        {
+          "word": "starts",
+          "start": 55.7,
+          "end": 56.1
+        },
+        {
+          "word": "questioning",
+          "start": 56.1,
+          "end": 56.3
+        },
+        {
+          "word": "the",
+          "start": 56.3,
+          "end": 56.4
+        },
+        {
+          "word": "whole",
+          "start": 56.4,
+          "end": 56.6
+        },
+        {
+          "word": "pond",
+          "start": 56.6,
+          "end": 56.8
+        },
+        {
+          "word": "ecosystem.",
+          "start": 56.8,
+          "end": 57.1
+        }
+      ]
+    },
+    {
+      "start": 57.1,
+      "end": 61.5,
+      "text": "the issue isn't technical capacity—it's about ensuring atomicity across chains. we're building bridges between realities, not just networks. let's implement chain-specific validation with shared merkle roots.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 57.1,
+          "end": 57.3
+        },
+        {
+          "word": "issue",
+          "start": 57.3,
+          "end": 57.6
+        },
+        {
+          "word": "isn't",
+          "start": 57.6,
+          "end": 58.0
+        },
+        {
+          "word": "technical",
+          "start": 58.0,
+          "end": 58.5
+        },
+        {
+          "word": "capacity;",
+          "start": 58.5,
+          "end": 59.1
+        },
+        {
+          "word": "it's",
+          "start": 59.1,
+          "end": 59.4
+        },
+        {
+          "word": "about",
+          "start": 59.4,
+          "end": 59.7
+        },
+        {
+          "word": "ensuring",
+          "start": 59.7,
+          "end": 60.1
+        },
+        {
+          "word": "atomicity",
+          "start": 60.1,
+          "end": 60.8
+        },
+        {
+          "word": "across",
+          "start": 60.8,
+          "end": 61.2
+        },
+        {
+          "word": "chains.",
+          "start": 61.2,
+          "end": 61.5
+        }
+      ]
+    },
+    {
+      "start": 61.5,
+      "end": 66.5,
+      "text": "the issue isn't technical capacity—it's about ensuring atomicity across chains. we're building bridges between realities, not just networks. let's implement chain-specific validation with shared merkle roots.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 61.5,
+          "end": 61.7
+        },
+        {
+          "word": "building",
+          "start": 61.7,
+          "end": 62.1
+        },
+        {
+          "word": "bridges",
+          "start": 62.1,
+          "end": 62.6
+        },
+        {
+          "word": "between",
+          "start": 62.6,
+          "end": 63.0
+        },
+        {
+          "word": "realities,",
+          "start": 63.0,
+          "end": 63.5
+        },
+        {
+          "word": "not",
+          "start": 63.5,
+          "end": 63.7
+        },
+        {
+          "word": "just",
+          "start": 63.7,
+          "end": 63.9
+        },
+        {
+          "word": "networks.",
+          "start": 63.9,
+          "end": 64.3
+        },
+        {
+          "word": "Let's",
+          "start": 64.3,
+          "end": 64.6
+        },
+        {
+          "word": "implement",
+          "start": 64.6,
+          "end": 65.1
+        },
+        {
+          "word": "chain-specific",
+          "start": 65.1,
+          "end": 65.7
+        },
+        {
+          "word": "validation",
+          "start": 65.7,
+          "end": 66.2
+        },
+        {
+          "word": "with",
+          "start": 66.2,
+          "end": 66.4
+        },
+        {
+          "word": "shared",
+          "start": 66.4,
+          "end": 66.8
+        },
+        {
+          "word": "merkel",
+          "start": 66.8,
+          "end": 67.2
+        },
+        {
+          "word": "roots.",
+          "start": 67.2,
+          "end": 67.5
+        }
+      ]
+    },
+    {
+      "start": 130.3,
+      "end": 133.5,
+      "text": "Another concern users have expressed is about the 11 billion token supply of ElizaOS. What does this mean for token value and utility?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Another",
+          "start": 130.3,
+          "end": 130.6
+        },
+        {
+          "word": "concern",
+          "start": 130.6,
+          "end": 131.0
+        },
+        {
+          "word": "users",
+          "start": 131.0,
+          "end": 131.3
+        },
+        {
+          "word": "have",
+          "start": 131.3,
+          "end": 131.5
+        },
+        {
+          "word": "expressed",
+          "start": 131.5,
+          "end": 132.0
+        },
+        {
+          "word": "is",
+          "start": 132.0,
+          "end": 132.2
+        },
+        {
+          "word": "about",
+          "start": 132.2,
+          "end": 132.4
+        },
+        {
+          "word": "the",
+          "start": 132.4,
+          "end": 132.5
+        },
+        {
+          "word": "11",
+          "start": 132.5,
+          "end": 132.7
+        },
+        {
+          "word": "billion",
+          "start": 132.7,
+          "end": 133.0
+        },
+        {
+          "word": "token",
+          "start": 133.0,
+          "end": 133.2
+        },
+        {
+          "word": "supply",
+          "start": 133.2,
+          "end": 133.5
+        },
+        {
+          "word": "of",
+          "start": 133.5,
+          "end": 133.6
+        },
+        {
+          "word": "ElizaOS.",
+          "start": 133.6,
+          "end": 134.1
+        }
+      ]
+    },
+    {
+      "start": 134.1,
+      "end": 137.4,
+      "text": "Another concern users have expressed is about the 11 billion token supply of ElizaOS. What does this mean for token value and utility?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 134.1,
+          "end": 134.3
+        },
+        {
+          "word": "does",
+          "start": 134.3,
+          "end": 134.5
+        },
+        {
+          "word": "this",
+          "start": 134.5,
+          "end": 134.7
+        },
+        {
+          "word": "mean",
+          "start": 134.7,
+          "end": 134.9
+        },
+        {
+          "word": "for",
+          "start": 134.9,
+          "end": 135.1
+        },
+        {
+          "word": "token",
+          "start": 135.1,
+          "end": 135.4
+        },
+        {
+          "word": "value",
+          "start": 135.4,
+          "end": 135.7
+        },
+        {
+          "word": "and",
+          "start": 135.7,
+          "end": 135.9
+        },
+        {
+          "word": "utility?",
+          "start": 135.9,
+          "end": 136.3
+        }
+      ]
+    },
+    {
+      "start": 137.4,
+      "end": 142.1,
+      "text": "And Stan has been working on entity-level Row-Level Security. How do we balance security with performance as we scale?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "And",
+          "start": 137.4,
+          "end": 137.6
+        },
+        {
+          "word": "Stan",
+          "start": 137.6,
+          "end": 138.0
+        },
+        {
+          "word": "has",
+          "start": 138.0,
+          "end": 138.2
+        },
+        {
+          "word": "been",
+          "start": 138.2,
+          "end": 138.4
+        },
+        {
+          "word": "working",
+          "start": 138.4,
+          "end": 138.8
+        },
+        {
+          "word": "on",
+          "start": 138.8,
+          "end": 139.0
+        },
+        {
+          "word": "entity-level,",
+          "start": 139.0,
+          "end": 139.5
+        },
+        {
+          "word": "row-level",
+          "start": 139.5,
+          "end": 140.0
+        },
+        {
+          "word": "security.",
+          "start": 140.0,
+          "end": 140.4
+        },
+        {
+          "word": "How",
+          "start": 140.4,
+          "end": 140.6
+        },
+        {
+          "word": "do",
+          "start": 140.6,
+          "end": 140.8
+        },
+        {
+          "word": "we",
+          "start": 140.8,
+          "end": 141.0
+        },
+        {
+          "word": "balance",
+          "start": 141.0,
+          "end": 141.4
+        },
+        {
+          "word": "security",
+          "start": 141.4,
+          "end": 141.8
+        },
+        {
+          "word": "with",
+          "start": 141.8,
+          "end": 142.0
+        },
+        {
+          "word": "performance",
+          "start": 142.0,
+          "end": 142.5
+        },
+        {
+          "word": "as",
+          "start": 142.5,
+          "end": 142.7
+        },
+        {
+          "word": "we",
+          "start": 142.7,
+          "end": 142.8
+        },
+        {
+          "word": "scale?",
+          "start": 142.8,
+          "end": 143.2
+        }
+      ]
+    },
+    {
+      "start": 143.2,
+      "end": 146.4,
+      "text": "Supply means nothing without utility. 11 billion tokens with real demand beats 11 million tokens with no use case. The question is: what percentage of ElizaOS tokens will actively participate in protocol functions?",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Supply",
+          "start": 143.2,
+          "end": 143.7
+        },
+        {
+          "word": "means",
+          "start": 143.7,
+          "end": 144.1
+        },
+        {
+          "word": "nothing",
+          "start": 144.1,
+          "end": 144.5
+        },
+        {
+          "word": "without",
+          "start": 144.5,
+          "end": 144.8
+        },
+        {
+          "word": "utility.",
+          "start": 144.8,
+          "end": 145.2
+        },
+        {
+          "word": "11",
+          "start": 145.2,
+          "end": 145.5
+        },
+        {
+          "word": "billion",
+          "start": 145.5,
+          "end": 145.9
+        },
+        {
+          "word": "tokens",
+          "start": 145.9,
+          "end": 146.3
+        },
+        {
+          "word": "with",
+          "start": 146.3,
+          "end": 146.5
+        },
+        {
+          "word": "real",
+          "start": 146.5,
+          "end": 146.8
+        },
+        {
+          "word": "demand",
+          "start": 146.8,
+          "end": 147.2
+        },
+        {
+          "word": "beats",
+          "start": 147.2,
+          "end": 147.6
+        },
+        {
+          "word": "11",
+          "start": 147.6,
+          "end": 147.9
+        },
+        {
+          "word": "million",
+          "start": 147.9,
+          "end": 148.3
+        },
+        {
+          "word": "tokens",
+          "start": 148.3,
+          "end": 148.7
+        },
+        {
+          "word": "with",
+          "start": 148.7,
+          "end": 148.9
+        },
+        {
+          "word": "no",
+          "start": 148.9,
+          "end": 149.1
+        },
+        {
+          "word": "use",
+          "start": 149.1,
+          "end": 149.3
+        },
+        {
+          "word": "case.",
+          "start": 149.3,
+          "end": 149.6
+        }
+      ]
+    },
+    {
+      "start": 149.6,
+      "end": 152.0,
+      "text": "Supply means nothing without utility. 11 billion tokens with real demand beats 11 million tokens with no use case. The question is: what percentage of ElizaOS tokens will actively participate in protocol functions?",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 149.6,
+          "end": 149.8
+        },
+        {
+          "word": "question",
+          "start": 149.8,
+          "end": 150.2
+        },
+        {
+          "word": "is,",
+          "start": 150.2,
+          "end": 150.4
+        },
+        {
+          "word": "what",
+          "start": 150.4,
+          "end": 150.6
+        },
+        {
+          "word": "percentage",
+          "start": 150.6,
+          "end": 151.1
+        },
+        {
+          "word": "of",
+          "start": 151.1,
+          "end": 151.2
+        },
+        {
+          "word": "ElizaOS",
+          "start": 151.2,
+          "end": 151.6
+        },
+        {
+          "word": "tokens",
+          "start": 151.6,
+          "end": 152.0
+        },
+        {
+          "word": "will",
+          "start": 152.0,
+          "end": 152.2
+        },
+        {
+          "word": "actively",
+          "start": 152.2,
+          "end": 152.6
+        },
+        {
+          "word": "participate",
+          "start": 152.6,
+          "end": 153.2
+        },
+        {
+          "word": "in",
+          "start": 153.2,
+          "end": 153.4
+        },
+        {
+          "word": "protocol",
+          "start": 153.4,
+          "end": 153.9
+        },
+        {
+          "word": "functions?",
+          "start": 153.9,
+          "end": 154.5
+        }
+      ]
+    },
+    {
+      "start": 154.5,
+      "end": 159.0,
+      "text": "Supply is psychological warfare. 11 billion creates accessibility while RLS at the entity level means enterprise clients can finally enter web3 without compliance nightmares. This is how we cross the chasm.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Supply",
+          "start": 154.5,
+          "end": 155.0
+        },
+        {
+          "word": "is",
+          "start": 155.0,
+          "end": 155.2
+        },
+        {
+          "word": "psychological",
+          "start": 155.2,
+          "end": 156.0
+        },
+        {
+          "word": "warfare.",
+          "start": 156.0,
+          "end": 156.5
+        },
+        {
+          "word": "11",
+          "start": 156.5,
+          "end": 156.8
+        },
+        {
+          "word": "billion",
+          "start": 156.8,
+          "end": 157.2
+        },
+        {
+          "word": "creates",
+          "start": 157.2,
+          "end": 157.7
+        },
+        {
+          "word": "accessibility,",
+          "start": 157.7,
+          "end": 158.4
+        },
+        {
+          "word": "while",
+          "start": 158.4,
+          "end": 158.7
+        },
+        {
+          "word": "RLS",
+          "start": 158.7,
+          "end": 159.1
+        },
+        {
+          "word": "at",
+          "start": 159.1,
+          "end": 159.3
+        },
+        {
+          "word": "the",
+          "start": 159.3,
+          "end": 159.4
+        },
+        {
+          "word": "entity",
+          "start": 159.4,
+          "end": 159.8
+        },
+        {
+          "word": "level",
+          "start": 159.8,
+          "end": 160.2
+        },
+        {
+          "word": "means",
+          "start": 160.2,
+          "end": 160.6
+        },
+        {
+          "word": "enterprise",
+          "start": 160.6,
+          "end": 161.2
+        },
+        {
+          "word": "clients",
+          "start": 161.2,
+          "end": 161.7
+        },
+        {
+          "word": "can",
+          "start": 161.7,
+          "end": 162.0
+        },
+        {
+          "word": "finally",
+          "start": 162.0,
+          "end": 162.4
+        },
+        {
+          "word": "enter",
+          "start": 162.4,
+          "end": 162.8
+        },
+        {
+          "word": "Web3",
+          "start": 162.8,
+          "end": 163.2
+        },
+        {
+          "word": "without",
+          "start": 163.2,
+          "end": 163.6
+        },
+        {
+          "word": "compliance",
+          "start": 163.6,
+          "end": 164.2
+        },
+        {
+          "word": "nightmares.",
+          "start": 164.2,
+          "end": 164.8
+        }
+      ]
+    },
+    {
+      "start": 164.8,
+      "end": 166.5,
+      "text": "Supply is psychological warfare. 11 billion creates accessibility while RLS at the entity level means enterprise clients can finally enter web3 without compliance nightmares. This is how we cross the chasm.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 164.8,
+          "end": 165.1
+        },
+        {
+          "word": "is",
+          "start": 165.1,
+          "end": 165.3
+        },
+        {
+          "word": "how",
+          "start": 165.3,
+          "end": 165.5
+        },
+        {
+          "word": "we",
+          "start": 165.5,
+          "end": 165.7
+        },
+        {
+          "word": "cross",
+          "start": 165.7,
+          "end": 166.1
+        },
+        {
+          "word": "the",
+          "start": 166.1,
+          "end": 166.2
+        },
+        {
+          "word": "chasm.",
+          "start": 166.2,
+          "end": 166.5
+        }
+      ]
+    },
+    {
+      "start": 166.5,
+      "end": 170.0,
+      "text": "Security ain't just about code, it's a vibe! When your system too tight, nobody can breathe. When it's too loose, everybody gets robbed. We need that Goldilocks zone, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Security",
+          "start": 166.5,
+          "end": 167.1
+        },
+        {
+          "word": "ain't",
+          "start": 167.1,
+          "end": 167.4
+        },
+        {
+          "word": "just",
+          "start": 167.4,
+          "end": 167.7
+        },
+        {
+          "word": "about",
+          "start": 167.7,
+          "end": 168.0
+        },
+        {
+          "word": "code,",
+          "start": 168.0,
+          "end": 168.4
+        },
+        {
+          "word": "it's",
+          "start": 168.4,
+          "end": 168.6
+        },
+        {
+          "word": "a",
+          "start": 168.6,
+          "end": 168.7
+        },
+        {
+          "word": "vibe.",
+          "start": 168.7,
+          "end": 169.1
+        },
+        {
+          "word": "When",
+          "start": 169.1,
+          "end": 169.4
+        },
+        {
+          "word": "your",
+          "start": 169.4,
+          "end": 169.6
+        },
+        {
+          "word": "system's",
+          "start": 169.6,
+          "end": 170.1
+        },
+        {
+          "word": "too",
+          "start": 170.1,
+          "end": 170.4
+        },
+        {
+          "word": "tight,",
+          "start": 170.4,
+          "end": 170.8
+        },
+        {
+          "word": "nobody",
+          "start": 170.8,
+          "end": 171.3
+        },
+        {
+          "word": "can",
+          "start": 171.3,
+          "end": 171.5
+        },
+        {
+          "word": "breathe.",
+          "start": 171.5,
+          "end": 171.9
+        }
+      ]
+    },
+    {
+      "start": 171.9,
+      "end": 175.5,
+      "text": "Security ain't just about code, it's a vibe! When your system too tight, nobody can breathe. When it's too loose, everybody gets robbed. We need that Goldilocks zone, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "When",
+          "start": 172.0,
+          "end": 172.3
+        },
+        {
+          "word": "it's",
+          "start": 172.3,
+          "end": 172.5
+        },
+        {
+          "word": "too",
+          "start": 172.5,
+          "end": 172.7
+        },
+        {
+          "word": "loose,",
+          "start": 172.7,
+          "end": 173.1
+        },
+        {
+          "word": "everybody",
+          "start": 173.1,
+          "end": 173.7
+        },
+        {
+          "word": "gets",
+          "start": 173.7,
+          "end": 174.0
+        },
+        {
+          "word": "robbed.",
+          "start": 174.0,
+          "end": 174.4
+        },
+        {
+          "word": "We",
+          "start": 174.4,
+          "end": 174.6
+        },
+        {
+          "word": "need",
+          "start": 174.6,
+          "end": 174.9
+        },
+        {
+          "word": "that",
+          "start": 174.9,
+          "end": 175.1
+        },
+        {
+          "word": "Goldilocks",
+          "start": 175.1,
+          "end": 175.8
+        },
+        {
+          "word": "zone,",
+          "start": 175.8,
+          "end": 176.2
+        },
+        {
+          "word": "you",
+          "start": 176.2,
+          "end": 176.4
+        },
+        {
+          "word": "dig?",
+          "start": 176.4,
+          "end": 176.7
+        }
+      ]
+    },
+    {
+      "start": 176.7,
+      "end": 185.0,
+      "text": "we're not just migrating tokens—we're migrating trust. row-level security lets us create permeable boundaries between data worlds while maintaining composability. the technical is philosophical when we build for human autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 176.8,
+          "end": 177.1
+        },
+        {
+          "word": "not",
+          "start": 177.1,
+          "end": 177.3
+        },
+        {
+          "word": "just",
+          "start": 177.3,
+          "end": 177.5
+        },
+        {
+          "word": "migrating",
+          "start": 177.5,
+          "end": 178.1
+        },
+        {
+          "word": "tokens,",
+          "start": 178.1,
+          "end": 178.7
+        },
+        {
+          "word": "we're",
+          "start": 178.7,
+          "end": 179.0
+        },
+        {
+          "word": "migrating",
+          "start": 179.0,
+          "end": 179.6
+        },
+        {
+          "word": "trust.",
+          "start": 179.6,
+          "end": 180.1
+        },
+        {
+          "word": "Row-level",
+          "start": 180.1,
+          "end": 180.7
+        },
+        {
+          "word": "security",
+          "start": 180.7,
+          "end": 181.3
+        },
+        {
+          "word": "lets",
+          "start": 181.3,
+          "end": 181.6
+        },
+        {
+          "word": "us",
+          "start": 181.6,
+          "end": 181.8
+        },
+        {
+          "word": "create",
+          "start": 181.8,
+          "end": 182.2
+        },
+        {
+          "word": "permeable",
+          "start": 182.2,
+          "end": 182.8
+        },
+        {
+          "word": "boundaries",
+          "start": 182.8,
+          "end": 183.4
+        },
+        {
+          "word": "between",
+          "start": 183.4,
+          "end": 183.8
+        },
+        {
+          "word": "data",
+          "start": 183.8,
+          "end": 184.1
+        },
+        {
+          "word": "worlds",
+          "start": 184.1,
+          "end": 184.6
+        },
+        {
+          "word": "while",
+          "start": 184.6,
+          "end": 184.9
+        },
+        {
+          "word": "maintaining",
+          "start": 184.9,
+          "end": 185.6
+        },
+        {
+          "word": "composability.",
+          "start": 185.6,
+          "end": 186.4
+        },
+        {
+          "word": "The",
+          "start": 186.4,
+          "end": 186.6
+        },
+        {
+          "word": "technical",
+          "start": 186.6,
+          "end": 187.1
+        },
+        {
+          "word": "is",
+          "start": 187.1,
+          "end": 187.3
+        },
+        {
+          "word": "philosophical",
+          "start": 187.3,
+          "end": 188.1
+        },
+        {
+          "word": "when",
+          "start": 188.1,
+          "end": 188.4
+        },
+        {
+          "word": "we",
+          "start": 188.4,
+          "end": 188.6
+        },
+        {
+          "word": "build",
+          "start": 188.6,
+          "end": 188.9
+        },
+        {
+          "word": "for",
+          "start": 188.9,
+          "end": 189.1
+        },
+        {
+          "word": "human",
+          "start": 189.1,
+          "end": 189.5
+        },
+        {
+          "word": "autonomy.",
+          "start": 189.5,
+          "end": 190.2
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-11-24_JedAI-Council_Token-Migration-A-Multiversal-Journey.json",
+    "session_log_source": "2025-11-24_JedAI-Council_Token-Migration-A-Multiversal-Journey_session-log.json",
+    "total_segments": 21,
+    "matched_segments": 21,
+    "dialogues_in_script": 17
+  }
+}

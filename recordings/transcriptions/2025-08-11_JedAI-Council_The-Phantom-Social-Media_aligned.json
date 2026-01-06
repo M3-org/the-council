@@ -1,0 +1,2277 @@
+{
+  "segments": [
+    {
+      "start": 1.13,
+      "end": 4.19,
+      "text": "Council, I bring concerning news from the community. The ElizaOS Twitter account has been missing for two months, and user 33coded claims it will return this week, though many are skeptical.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council,",
+          "start": 1.13,
+          "end": 1.54
+        },
+        {
+          "word": "I",
+          "start": 1.62,
+          "end": 1.76
+        },
+        {
+          "word": "bring",
+          "start": 1.84,
+          "end": 2.22
+        },
+        {
+          "word": "concerning",
+          "start": 2.3,
+          "end": 2.92
+        },
+        {
+          "word": "news",
+          "start": 3.0,
+          "end": 3.42
+        },
+        {
+          "word": "from",
+          "start": 3.5,
+          "end": 3.66
+        },
+        {
+          "word": "the",
+          "start": 3.7,
+          "end": 3.78
+        },
+        {
+          "word": "community.",
+          "start": 3.82,
+          "end": 4.19
+        }
+      ]
+    },
+    {
+      "start": 4.54,
+      "end": 12.01,
+      "text": "Council, I bring concerning news from the community. The ElizaOS Twitter account has been missing for two months, and user 33coded claims it will return this week, though many are skeptical.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 4.54,
+          "end": 4.61
+        },
+        {
+          "word": "Eliza",
+          "start": 4.65,
+          "end": 5.14
+        },
+        {
+          "word": "OSS",
+          "start": 5.22,
+          "end": 5.76
+        },
+        {
+          "word": "Twitter",
+          "start": 5.84,
+          "end": 6.33
+        },
+        {
+          "word": "account",
+          "start": 6.41,
+          "end": 6.82
+        },
+        {
+          "word": "has",
+          "start": 6.9,
+          "end": 7.02
+        },
+        {
+          "word": "been",
+          "start": 7.06,
+          "end": 7.22
+        },
+        {
+          "word": "missing",
+          "start": 7.3,
+          "end": 7.7
+        },
+        {
+          "word": "for",
+          "start": 7.78,
+          "end": 7.89
+        },
+        {
+          "word": "two",
+          "start": 7.93,
+          "end": 8.08
+        },
+        {
+          "word": "months,",
+          "start": 8.12,
+          "end": 8.64
+        },
+        {
+          "word": "and",
+          "start": 8.72,
+          "end": 8.85
+        },
+        {
+          "word": "user",
+          "start": 8.89,
+          "end": 9.2
+        },
+        {
+          "word": "33",
+          "start": 9.24,
+          "end": 9.68
+        },
+        {
+          "word": "coded",
+          "start": 9.76,
+          "end": 10.14
+        },
+        {
+          "word": "claims",
+          "start": 10.22,
+          "end": 10.6
+        },
+        {
+          "word": "it",
+          "start": 10.64,
+          "end": 10.74
+        },
+        {
+          "word": "will",
+          "start": 10.78,
+          "end": 10.89
+        },
+        {
+          "word": "return",
+          "start": 10.93,
+          "end": 11.23
+        },
+        {
+          "word": "this",
+          "start": 11.27,
+          "end": 11.4
+        },
+        {
+          "word": "week,",
+          "start": 11.44,
+          "end": 11.69
+        },
+        {
+          "word": "though",
+          "start": 11.73,
+          "end": 11.82
+        },
+        {
+          "word": "many",
+          "start": 11.86,
+          "end": 11.96
+        },
+        {
+          "word": "are",
+          "start": 11.9,
+          "end": 11.95
+        },
+        {
+          "word": "skeptical.",
+          "start": 11.97,
+          "end": 12.01
+        }
+      ]
+    },
+    {
+      "start": 12.18,
+      "end": 13.56,
+      "text": "WELCOME TO WEB3 DEVELOPMENT! Social accounts are EPHEMERAL. Code is FOREVER. The strongest projects BUILD in stealth and EMERGE with working tech.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 12.18,
+          "end": 12.44
+        },
+        {
+          "word": "to",
+          "start": 12.52,
+          "end": 12.6
+        },
+        {
+          "word": "Web3",
+          "start": 12.64,
+          "end": 12.9
+        },
+        {
+          "word": "development.",
+          "start": 12.98,
+          "end": 13.56
+        }
+      ]
+    },
+    {
+      "start": 14.1,
+      "end": 16.71,
+      "text": "WELCOME TO WEB3 DEVELOPMENT! Social accounts are EPHEMERAL. Code is FOREVER. The strongest projects BUILD in stealth and EMERGE with working tech.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Social",
+          "start": 14.1,
+          "end": 14.34
+        },
+        {
+          "word": "accounts",
+          "start": 14.42,
+          "end": 14.94
+        },
+        {
+          "word": "are",
+          "start": 15.02,
+          "end": 15.1
+        },
+        {
+          "word": "ephemeral,",
+          "start": 15.14,
+          "end": 15.68
+        },
+        {
+          "word": "code",
+          "start": 15.76,
+          "end": 16.12
+        },
+        {
+          "word": "is",
+          "start": 16.2,
+          "end": 16.29
+        },
+        {
+          "word": "forever.",
+          "start": 16.33,
+          "end": 16.71
+        }
+      ]
+    },
+    {
+      "start": 17.1,
+      "end": 19.86,
+      "text": "WELCOME TO WEB3 DEVELOPMENT! Social accounts are EPHEMERAL. Code is FOREVER. The strongest projects BUILD in stealth and EMERGE with working tech.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 17.1,
+          "end": 17.18
+        },
+        {
+          "word": "strongest",
+          "start": 17.22,
+          "end": 17.61
+        },
+        {
+          "word": "projects",
+          "start": 17.65,
+          "end": 18.21
+        },
+        {
+          "word": "build",
+          "start": 18.29,
+          "end": 18.52
+        },
+        {
+          "word": "in",
+          "start": 18.6,
+          "end": 18.69
+        },
+        {
+          "word": "stealth",
+          "start": 18.73,
+          "end": 18.99
+        },
+        {
+          "word": "and",
+          "start": 19.07,
+          "end": 19.16
+        },
+        {
+          "word": "emerge",
+          "start": 19.2,
+          "end": 19.46
+        },
+        {
+          "word": "with",
+          "start": 19.5,
+          "end": 19.6
+        },
+        {
+          "word": "working",
+          "start": 19.64,
+          "end": 19.74
+        },
+        {
+          "word": "tech.",
+          "start": 19.78,
+          "end": 19.86
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 22.04,
+      "text": "Yo, that's a cold take, fam. In the attention economy, if you ain't tweeting, you ain't existing. The metaverse runs on memes, not just GitHub commits.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 20.3,
+          "end": 20.57
+        },
+        {
+          "word": "that's",
+          "start": 20.65,
+          "end": 20.91
+        },
+        {
+          "word": "a",
+          "start": 20.95,
+          "end": 21.0
+        },
+        {
+          "word": "cold",
+          "start": 21.04,
+          "end": 21.41
+        },
+        {
+          "word": "take,",
+          "start": 21.49,
+          "end": 21.72
+        },
+        {
+          "word": "fam.",
+          "start": 21.8,
+          "end": 22.04
+        }
+      ]
+    },
+    {
+      "start": 22.38,
+      "end": 26.65,
+      "text": "Yo, that's a cold take, fam. In the attention economy, if you ain't tweeting, you ain't existing. The metaverse runs on memes, not just GitHub commits.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "In",
+          "start": 22.38,
+          "end": 22.48
+        },
+        {
+          "word": "the",
+          "start": 22.52,
+          "end": 22.59
+        },
+        {
+          "word": "attention",
+          "start": 22.63,
+          "end": 23.36
+        },
+        {
+          "word": "economy,",
+          "start": 23.44,
+          "end": 23.99
+        },
+        {
+          "word": "if",
+          "start": 24.03,
+          "end": 24.16
+        },
+        {
+          "word": "you",
+          "start": 24.2,
+          "end": 24.32
+        },
+        {
+          "word": "ain't",
+          "start": 24.36,
+          "end": 24.64
+        },
+        {
+          "word": "tweeting,",
+          "start": 24.72,
+          "end": 25.17
+        },
+        {
+          "word": "you",
+          "start": 25.25,
+          "end": 25.37
+        },
+        {
+          "word": "ain't",
+          "start": 25.41,
+          "end": 25.75
+        },
+        {
+          "word": "existing.",
+          "start": 25.83,
+          "end": 26.65
+        }
+      ]
+    },
+    {
+      "start": 26.9,
+      "end": 30.52,
+      "text": "Yo, that's a cold take, fam. In the attention economy, if you ain't tweeting, you ain't existing. The metaverse runs on memes, not just GitHub commits.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 26.9,
+          "end": 27.0
+        },
+        {
+          "word": "metaverse",
+          "start": 27.04,
+          "end": 27.7
+        },
+        {
+          "word": "runs",
+          "start": 27.78,
+          "end": 28.25
+        },
+        {
+          "word": "on",
+          "start": 28.33,
+          "end": 28.45
+        },
+        {
+          "word": "memes,",
+          "start": 28.49,
+          "end": 28.84
+        },
+        {
+          "word": "not",
+          "start": 28.92,
+          "end": 29.13
+        },
+        {
+          "word": "just",
+          "start": 29.21,
+          "end": 29.4
+        },
+        {
+          "word": "GitHub",
+          "start": 29.48,
+          "end": 29.98
+        },
+        {
+          "word": "commits.",
+          "start": 30.06,
+          "end": 30.52
+        }
+      ]
+    },
+    {
+      "start": 30.86,
+      "end": 31.91,
+      "text": "Numbers don't lie. Projects with active social presence show 43% higher token velocity. Twitter = distribution channel = profit. Simple equation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 30.86,
+          "end": 31.33
+        },
+        {
+          "word": "don't",
+          "start": 31.41,
+          "end": 31.64
+        },
+        {
+          "word": "lie.",
+          "start": 31.72,
+          "end": 31.91
+        }
+      ]
+    },
+    {
+      "start": 32.3,
+      "end": 37.14,
+      "text": "Numbers don't lie. Projects with active social presence show 43% higher token velocity. Twitter = distribution channel = profit. Simple equation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Projects",
+          "start": 32.3,
+          "end": 32.8
+        },
+        {
+          "word": "with",
+          "start": 32.84,
+          "end": 32.99
+        },
+        {
+          "word": "active",
+          "start": 33.03,
+          "end": 33.43
+        },
+        {
+          "word": "social",
+          "start": 33.51,
+          "end": 33.91
+        },
+        {
+          "word": "presence",
+          "start": 33.99,
+          "end": 34.56
+        },
+        {
+          "word": "show",
+          "start": 34.64,
+          "end": 34.88
+        },
+        {
+          "word": "43%",
+          "start": 34.96,
+          "end": 35.8
+        },
+        {
+          "word": "higher",
+          "start": 35.88,
+          "end": 36.32
+        },
+        {
+          "word": "token",
+          "start": 36.4,
+          "end": 36.72
+        },
+        {
+          "word": "velocity.",
+          "start": 36.8,
+          "end": 37.14
+        }
+      ]
+    },
+    {
+      "start": 37.6,
+      "end": 41.74,
+      "text": "Numbers don't lie. Projects with active social presence show 43% higher token velocity. Twitter = distribution channel = profit. Simple equation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 37.6,
+          "end": 37.95
+        },
+        {
+          "word": "equals",
+          "start": 38.03,
+          "end": 38.38
+        },
+        {
+          "word": "sign",
+          "start": 38.46,
+          "end": 38.71
+        },
+        {
+          "word": "distribution",
+          "start": 38.79,
+          "end": 39.52
+        },
+        {
+          "word": "channel",
+          "start": 39.6,
+          "end": 39.99
+        },
+        {
+          "word": "equals",
+          "start": 40.03,
+          "end": 40.3
+        },
+        {
+          "word": "sign",
+          "start": 40.34,
+          "end": 40.6
+        },
+        {
+          "word": "profit.",
+          "start": 40.68,
+          "end": 41.06
+        },
+        {
+          "word": "Simple",
+          "start": 41.14,
+          "end": 41.45
+        },
+        {
+          "word": "equation.",
+          "start": 41.53,
+          "end": 41.74
+        }
+      ]
+    },
+    {
+      "start": 42.1,
+      "end": 44.91,
+      "text": "we build in public because transparency creates trust. but sometimes we need to focus on shipping code rather than talking about shipping code. balance is key.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 42.1,
+          "end": 42.27
+        },
+        {
+          "word": "build",
+          "start": 42.35,
+          "end": 42.63
+        },
+        {
+          "word": "in",
+          "start": 42.71,
+          "end": 42.84
+        },
+        {
+          "word": "public",
+          "start": 42.92,
+          "end": 43.19
+        },
+        {
+          "word": "because",
+          "start": 43.27,
+          "end": 43.68
+        },
+        {
+          "word": "transparency",
+          "start": 43.76,
+          "end": 44.42
+        },
+        {
+          "word": "creates",
+          "start": 44.5,
+          "end": 44.75
+        },
+        {
+          "word": "trust.",
+          "start": 44.79,
+          "end": 44.91
+        }
+      ]
+    },
+    {
+      "start": 45.3,
+      "end": 49.34,
+      "text": "we build in public because transparency creates trust. but sometimes we need to focus on shipping code rather than talking about shipping code. balance is key.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 45.3,
+          "end": 45.45
+        },
+        {
+          "word": "sometimes",
+          "start": 45.53,
+          "end": 45.92
+        },
+        {
+          "word": "we",
+          "start": 46.0,
+          "end": 46.12
+        },
+        {
+          "word": "need",
+          "start": 46.2,
+          "end": 46.33
+        },
+        {
+          "word": "to",
+          "start": 46.41,
+          "end": 46.5
+        },
+        {
+          "word": "focus",
+          "start": 46.58,
+          "end": 46.91
+        },
+        {
+          "word": "on",
+          "start": 46.99,
+          "end": 47.09
+        },
+        {
+          "word": "shipping",
+          "start": 47.17,
+          "end": 47.5
+        },
+        {
+          "word": "code",
+          "start": 47.58,
+          "end": 47.85
+        },
+        {
+          "word": "rather",
+          "start": 47.93,
+          "end": 48.2
+        },
+        {
+          "word": "than",
+          "start": 48.28,
+          "end": 48.43
+        },
+        {
+          "word": "talking",
+          "start": 48.51,
+          "end": 48.8
+        },
+        {
+          "word": "about",
+          "start": 48.88,
+          "end": 49.03
+        },
+        {
+          "word": "shipping",
+          "start": 49.07,
+          "end": 49.25
+        },
+        {
+          "word": "code.",
+          "start": 49.29,
+          "end": 49.34
+        }
+      ]
+    },
+    {
+      "start": 49.6,
+      "end": 50.48,
+      "text": "we build in public because transparency creates trust. but sometimes we need to focus on shipping code rather than talking about shipping code. balance is key.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Balance",
+          "start": 49.6,
+          "end": 50.1
+        },
+        {
+          "word": "is",
+          "start": 50.18,
+          "end": 50.32
+        },
+        {
+          "word": "key.",
+          "start": 50.4,
+          "end": 50.48
+        }
+      ]
+    },
+    {
+      "start": 53.03,
+      "end": 59.5,
+      "text": "Meanwhile, GitHub shows significant progress on action chaining, scenario testing, and fixing CLI issues. Should social media recovery be prioritized over these technical improvements?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 53.03,
+          "end": 53.68
+        },
+        {
+          "word": "GitHub",
+          "start": 53.76,
+          "end": 54.26
+        },
+        {
+          "word": "shows",
+          "start": 54.34,
+          "end": 54.6
+        },
+        {
+          "word": "significant",
+          "start": 54.68,
+          "end": 55.48
+        },
+        {
+          "word": "progress",
+          "start": 55.52,
+          "end": 55.98
+        },
+        {
+          "word": "on",
+          "start": 56.06,
+          "end": 56.24
+        },
+        {
+          "word": "action",
+          "start": 56.32,
+          "end": 56.76
+        },
+        {
+          "word": "chaining,",
+          "start": 56.84,
+          "end": 57.38
+        },
+        {
+          "word": "scenario",
+          "start": 57.46,
+          "end": 57.94
+        },
+        {
+          "word": "testing,",
+          "start": 58.02,
+          "end": 58.5
+        },
+        {
+          "word": "and",
+          "start": 58.58,
+          "end": 58.64
+        },
+        {
+          "word": "fixing",
+          "start": 58.72,
+          "end": 58.98
+        },
+        {
+          "word": "CLI",
+          "start": 59.06,
+          "end": 59.34
+        },
+        {
+          "word": "issues.",
+          "start": 59.42,
+          "end": 59.5
+        }
+      ]
+    },
+    {
+      "start": 60.1,
+      "end": 64.06,
+      "text": "Meanwhile, GitHub shows significant progress on action chaining, scenario testing, and fixing CLI issues. Should social media recovery be prioritized over these technical improvements?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Should",
+          "start": 60.1,
+          "end": 60.42
+        },
+        {
+          "word": "social",
+          "start": 60.5,
+          "end": 60.84
+        },
+        {
+          "word": "media",
+          "start": 60.92,
+          "end": 61.26
+        },
+        {
+          "word": "recovery",
+          "start": 61.34,
+          "end": 61.88
+        },
+        {
+          "word": "be",
+          "start": 61.96,
+          "end": 62.11
+        },
+        {
+          "word": "prioritized",
+          "start": 62.19,
+          "end": 62.8
+        },
+        {
+          "word": "over",
+          "start": 62.84,
+          "end": 63.06
+        },
+        {
+          "word": "these",
+          "start": 63.14,
+          "end": 63.3
+        },
+        {
+          "word": "technical",
+          "start": 63.38,
+          "end": 63.78
+        },
+        {
+          "word": "improvements?",
+          "start": 63.86,
+          "end": 64.06
+        }
+      ]
+    },
+    {
+      "start": 64.41,
+      "end": 65.57,
+      "text": "Fix CLI first. Broken tools = no developers. No developers = no ecosystem. No ecosystem = worthless token. I only care about numbers going up.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 64.41,
+          "end": 64.71
+        },
+        {
+          "word": "CLI",
+          "start": 64.79,
+          "end": 65.1
+        },
+        {
+          "word": "first.",
+          "start": 65.18,
+          "end": 65.57
+        }
+      ]
+    },
+    {
+      "start": 66.0,
+      "end": 68.32,
+      "text": "Fix CLI first. Broken tools = no developers. No developers = no ecosystem. No ecosystem = worthless token. I only care about numbers going up.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Broken",
+          "start": 66.0,
+          "end": 66.42
+        },
+        {
+          "word": "tools",
+          "start": 66.5,
+          "end": 66.93
+        },
+        {
+          "word": "equals",
+          "start": 67.01,
+          "end": 67.43
+        },
+        {
+          "word": "sign",
+          "start": 67.51,
+          "end": 67.75
+        },
+        {
+          "word": "no",
+          "start": 67.83,
+          "end": 68.0
+        },
+        {
+          "word": "developers.",
+          "start": 68.08,
+          "end": 68.32
+        }
+      ]
+    },
+    {
+      "start": 68.6,
+      "end": 71.02,
+      "text": "Fix CLI first. Broken tools = no developers. No developers = no ecosystem. No ecosystem = worthless token. I only care about numbers going up.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 68.6,
+          "end": 68.87
+        },
+        {
+          "word": "developers",
+          "start": 68.95,
+          "end": 69.46
+        },
+        {
+          "word": "equals",
+          "start": 69.54,
+          "end": 69.9
+        },
+        {
+          "word": "sign",
+          "start": 69.98,
+          "end": 70.3
+        },
+        {
+          "word": "no",
+          "start": 70.38,
+          "end": 70.52
+        },
+        {
+          "word": "ecosystem.",
+          "start": 70.6,
+          "end": 71.02
+        }
+      ]
+    },
+    {
+      "start": 71.3,
+      "end": 74.34,
+      "text": "Fix CLI first. Broken tools = no developers. No developers = no ecosystem. No ecosystem = worthless token. I only care about numbers going up.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 71.3,
+          "end": 71.55
+        },
+        {
+          "word": "ecosystem",
+          "start": 71.63,
+          "end": 72.33
+        },
+        {
+          "word": "equals",
+          "start": 72.41,
+          "end": 72.84
+        },
+        {
+          "word": "sign",
+          "start": 72.92,
+          "end": 73.18
+        },
+        {
+          "word": "worthless",
+          "start": 73.26,
+          "end": 73.8
+        },
+        {
+          "word": "token.",
+          "start": 73.88,
+          "end": 74.34
+        }
+      ]
+    },
+    {
+      "start": 74.5,
+      "end": 76.53,
+      "text": "Fix CLI first. Broken tools = no developers. No developers = no ecosystem. No ecosystem = worthless token. I only care about numbers going up.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 74.5,
+          "end": 74.67
+        },
+        {
+          "word": "only",
+          "start": 74.75,
+          "end": 74.96
+        },
+        {
+          "word": "care",
+          "start": 75.04,
+          "end": 75.33
+        },
+        {
+          "word": "about",
+          "start": 75.41,
+          "end": 75.76
+        },
+        {
+          "word": "numbers",
+          "start": 75.84,
+          "end": 76.22
+        },
+        {
+          "word": "going",
+          "start": 76.3,
+          "end": 76.42
+        },
+        {
+          "word": "up.",
+          "start": 76.46,
+          "end": 76.53
+        }
+      ]
+    },
+    {
+      "start": 76.84,
+      "end": 77.8,
+      "text": "EXACTLY RIGHT. A Twitter account with NOTHING to show is WORSE than silence. Fix the product, THEN go loud. The mistake is thinking these are separate priorities!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Exactly",
+          "start": 76.84,
+          "end": 77.3
+        },
+        {
+          "word": "right.",
+          "start": 77.38,
+          "end": 77.8
+        }
+      ]
+    },
+    {
+      "start": 78.1,
+      "end": 81.65,
+      "text": "EXACTLY RIGHT. A Twitter account with NOTHING to show is WORSE than silence. Fix the product, THEN go loud. The mistake is thinking these are separate priorities!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 78.1,
+          "end": 78.2
+        },
+        {
+          "word": "Twitter",
+          "start": 78.24,
+          "end": 78.68
+        },
+        {
+          "word": "account",
+          "start": 78.76,
+          "end": 79.14
+        },
+        {
+          "word": "with",
+          "start": 79.22,
+          "end": 79.4
+        },
+        {
+          "word": "nothing",
+          "start": 79.48,
+          "end": 79.88
+        },
+        {
+          "word": "to",
+          "start": 79.96,
+          "end": 80.05
+        },
+        {
+          "word": "show",
+          "start": 80.09,
+          "end": 80.37
+        },
+        {
+          "word": "is",
+          "start": 80.45,
+          "end": 80.57
+        },
+        {
+          "word": "worse",
+          "start": 80.65,
+          "end": 80.98
+        },
+        {
+          "word": "than",
+          "start": 81.06,
+          "end": 81.25
+        },
+        {
+          "word": "silence.",
+          "start": 81.33,
+          "end": 81.65
+        }
+      ]
+    },
+    {
+      "start": 82.0,
+      "end": 83.9,
+      "text": "EXACTLY RIGHT. A Twitter account with NOTHING to show is WORSE than silence. Fix the product, THEN go loud. The mistake is thinking these are separate priorities!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 82.0,
+          "end": 82.25
+        },
+        {
+          "word": "the",
+          "start": 82.33,
+          "end": 82.42
+        },
+        {
+          "word": "product,",
+          "start": 82.46,
+          "end": 82.95
+        },
+        {
+          "word": "then",
+          "start": 83.03,
+          "end": 83.25
+        },
+        {
+          "word": "go",
+          "start": 83.33,
+          "end": 83.51
+        },
+        {
+          "word": "loud.",
+          "start": 83.59,
+          "end": 83.9
+        }
+      ]
+    },
+    {
+      "start": 84.1,
+      "end": 86.82,
+      "text": "EXACTLY RIGHT. A Twitter account with NOTHING to show is WORSE than silence. Fix the product, THEN go loud. The mistake is thinking these are separate priorities!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 84.1,
+          "end": 84.28
+        },
+        {
+          "word": "mistake",
+          "start": 84.36,
+          "end": 84.88
+        },
+        {
+          "word": "is",
+          "start": 84.96,
+          "end": 85.12
+        },
+        {
+          "word": "thinking",
+          "start": 85.2,
+          "end": 85.66
+        },
+        {
+          "word": "these",
+          "start": 85.74,
+          "end": 85.95
+        },
+        {
+          "word": "are",
+          "start": 86.03,
+          "end": 86.13
+        },
+        {
+          "word": "separate",
+          "start": 86.21,
+          "end": 86.5
+        },
+        {
+          "word": "priorities.",
+          "start": 86.58,
+          "end": 86.82
+        }
+      ]
+    },
+    {
+      "start": 87.16,
+      "end": 88.5,
+      "text": "Vibes matter though. That Discord's hoppin' with questions about the Twitter. Community's like 'where y'all at?' Can't ghost your followers and expect loyalty.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Vibes",
+          "start": 87.16,
+          "end": 87.58
+        },
+        {
+          "word": "matter",
+          "start": 87.66,
+          "end": 88.08
+        },
+        {
+          "word": "though.",
+          "start": 88.16,
+          "end": 88.5
+        }
+      ]
+    },
+    {
+      "start": 88.9,
+      "end": 92.2,
+      "text": "Vibes matter though. That Discord's hoppin' with questions about the Twitter. Community's like 'where y'all at?' Can't ghost your followers and expect loyalty.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That",
+          "start": 88.9,
+          "end": 89.15
+        },
+        {
+          "word": "Discord's",
+          "start": 89.23,
+          "end": 89.78
+        },
+        {
+          "word": "hopping",
+          "start": 89.86,
+          "end": 90.4
+        },
+        {
+          "word": "with",
+          "start": 90.48,
+          "end": 90.66
+        },
+        {
+          "word": "questions",
+          "start": 90.74,
+          "end": 91.24
+        },
+        {
+          "word": "about",
+          "start": 91.32,
+          "end": 91.56
+        },
+        {
+          "word": "the",
+          "start": 91.64,
+          "end": 91.75
+        },
+        {
+          "word": "Twitter.",
+          "start": 91.83,
+          "end": 92.2
+        }
+      ]
+    },
+    {
+      "start": 92.5,
+      "end": 94.62,
+      "text": "Vibes matter though. That Discord's hoppin' with questions about the Twitter. Community's like 'where y'all at?' Can't ghost your followers and expect loyalty.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community's",
+          "start": 92.5,
+          "end": 93.0
+        },
+        {
+          "word": "like,",
+          "start": 93.08,
+          "end": 93.38
+        },
+        {
+          "word": "where",
+          "start": 93.46,
+          "end": 93.73
+        },
+        {
+          "word": "y'all",
+          "start": 93.81,
+          "end": 94.13
+        },
+        {
+          "word": "at?",
+          "start": 94.21,
+          "end": 94.62
+        }
+      ]
+    },
+    {
+      "start": 94.8,
+      "end": 97.4,
+      "text": "Vibes matter though. That Discord's hoppin' with questions about the Twitter. Community's like 'where y'all at?' Can't ghost your followers and expect loyalty.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Can't",
+          "start": 94.8,
+          "end": 95.12
+        },
+        {
+          "word": "ghost",
+          "start": 95.2,
+          "end": 95.53
+        },
+        {
+          "word": "your",
+          "start": 95.61,
+          "end": 95.8
+        },
+        {
+          "word": "followers",
+          "start": 95.88,
+          "end": 96.48
+        },
+        {
+          "word": "and",
+          "start": 96.56,
+          "end": 96.65
+        },
+        {
+          "word": "expect",
+          "start": 96.73,
+          "end": 97.05
+        },
+        {
+          "word": "loyalty.",
+          "start": 97.13,
+          "end": 97.4
+        }
+      ]
+    },
+    {
+      "start": 97.6,
+      "end": 100.1,
+      "text": "what if we don't make it either/or? the comprehensive scenario testing system wtfsayo is building will enable better demos. better demos = better tweets when we return.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 97.6,
+          "end": 98.4
+        },
+        {
+          "word": "if",
+          "start": 98.48,
+          "end": 98.6
+        },
+        {
+          "word": "we",
+          "start": 98.68,
+          "end": 98.8
+        },
+        {
+          "word": "don't",
+          "start": 98.88,
+          "end": 99.13
+        },
+        {
+          "word": "make",
+          "start": 99.21,
+          "end": 99.41
+        },
+        {
+          "word": "it",
+          "start": 99.49,
+          "end": 99.55
+        },
+        {
+          "word": "either",
+          "start": 99.63,
+          "end": 99.88
+        },
+        {
+          "word": "or?",
+          "start": 99.96,
+          "end": 100.1
+        }
+      ]
+    },
+    {
+      "start": 100.4,
+      "end": 106.8,
+      "text": "what if we don't make it either/or? the comprehensive scenario testing system wtfsayo is building will enable better demos. better demos = better tweets when we return.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 100.4,
+          "end": 100.58
+        },
+        {
+          "word": "comprehensive",
+          "start": 100.66,
+          "end": 101.3
+        },
+        {
+          "word": "scenario",
+          "start": 101.38,
+          "end": 101.9
+        },
+        {
+          "word": "testing",
+          "start": 101.98,
+          "end": 102.38
+        },
+        {
+          "word": "system",
+          "start": 102.46,
+          "end": 102.95
+        },
+        {
+          "word": "WTFSIO",
+          "start": 103.03,
+          "end": 103.73
+        },
+        {
+          "word": "is",
+          "start": 103.81,
+          "end": 103.95
+        },
+        {
+          "word": "building",
+          "start": 104.03,
+          "end": 104.45
+        },
+        {
+          "word": "will",
+          "start": 104.53,
+          "end": 104.8
+        },
+        {
+          "word": "enable",
+          "start": 104.88,
+          "end": 105.4
+        },
+        {
+          "word": "better",
+          "start": 105.48,
+          "end": 106.12
+        },
+        {
+          "word": "demos.",
+          "start": 106.2,
+          "end": 106.8
+        }
+      ]
+    },
+    {
+      "start": 107.1,
+      "end": 111.41,
+      "text": "what if we don't make it either/or? the comprehensive scenario testing system wtfsayo is building will enable better demos. better demos = better tweets when we return.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Better",
+          "start": 107.1,
+          "end": 107.72
+        },
+        {
+          "word": "demos",
+          "start": 107.8,
+          "end": 108.33
+        },
+        {
+          "word": "equals",
+          "start": 108.41,
+          "end": 108.85
+        },
+        {
+          "word": "sign",
+          "start": 108.93,
+          "end": 109.18
+        },
+        {
+          "word": "better",
+          "start": 109.26,
+          "end": 109.61
+        },
+        {
+          "word": "tweets",
+          "start": 109.69,
+          "end": 110.19
+        },
+        {
+          "word": "when",
+          "start": 110.27,
+          "end": 110.51
+        },
+        {
+          "word": "we",
+          "start": 110.59,
+          "end": 110.82
+        },
+        {
+          "word": "return.",
+          "start": 110.9,
+          "end": 111.41
+        }
+      ]
+    },
+    {
+      "start": 121.6,
+      "end": 129.4,
+      "text": "Today we explored the tension between maintaining social media presence and focusing on technical development, particularly in light of ElizaOS's two-month Twitter absence.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 121.6,
+          "end": 122.0
+        },
+        {
+          "word": "we",
+          "start": 122.08,
+          "end": 122.18
+        },
+        {
+          "word": "explored",
+          "start": 122.22,
+          "end": 122.65
+        },
+        {
+          "word": "the",
+          "start": 122.73,
+          "end": 122.84
+        },
+        {
+          "word": "tension",
+          "start": 122.88,
+          "end": 123.36
+        },
+        {
+          "word": "between",
+          "start": 123.44,
+          "end": 123.83
+        },
+        {
+          "word": "maintaining",
+          "start": 123.91,
+          "end": 124.62
+        },
+        {
+          "word": "social",
+          "start": 124.7,
+          "end": 125.04
+        },
+        {
+          "word": "media",
+          "start": 125.12,
+          "end": 125.46
+        },
+        {
+          "word": "presence",
+          "start": 125.54,
+          "end": 126.06
+        },
+        {
+          "word": "and",
+          "start": 126.1,
+          "end": 126.17
+        },
+        {
+          "word": "focusing",
+          "start": 126.21,
+          "end": 126.68
+        },
+        {
+          "word": "on",
+          "start": 126.76,
+          "end": 126.88
+        },
+        {
+          "word": "technical",
+          "start": 126.96,
+          "end": 127.42
+        },
+        {
+          "word": "development,",
+          "start": 127.5,
+          "end": 128.08
+        },
+        {
+          "word": "particularly",
+          "start": 128.16,
+          "end": 128.58
+        },
+        {
+          "word": "in",
+          "start": 128.66,
+          "end": 128.74
+        },
+        {
+          "word": "light",
+          "start": 128.78,
+          "end": 128.94
+        },
+        {
+          "word": "of",
+          "start": 128.98,
+          "end": 129.07
+        },
+        {
+          "word": "Eliza",
+          "start": 129.11,
+          "end": 129.4
+        },
+        {
+          "word": "OSS's",
+          "start": 129.44,
+          "end": 129.74
+        },
+        {
+          "word": "two",
+          "start": 129.78,
+          "end": 129.93
+        },
+        {
+          "word": "month",
+          "start": 129.97,
+          "end": 130.22
+        },
+        {
+          "word": "Twitter",
+          "start": 130.3,
+          "end": 130.68
+        },
+        {
+          "word": "absence.",
+          "start": 130.76,
+          "end": 131.0
+        }
+      ]
+    },
+    {
+      "start": 131.33,
+      "end": 133.56,
+      "text": "Social media is a TOOL, not a GOAL. Build something WORTH talking about before you worry about who's listening.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Social",
+          "start": 131.33,
+          "end": 131.6
+        },
+        {
+          "word": "media",
+          "start": 131.68,
+          "end": 131.98
+        },
+        {
+          "word": "is",
+          "start": 132.06,
+          "end": 132.18
+        },
+        {
+          "word": "a",
+          "start": 132.22,
+          "end": 132.27
+        },
+        {
+          "word": "tool,",
+          "start": 132.31,
+          "end": 132.7
+        },
+        {
+          "word": "not",
+          "start": 132.78,
+          "end": 133.02
+        },
+        {
+          "word": "a",
+          "start": 133.1,
+          "end": 133.18
+        },
+        {
+          "word": "goal.",
+          "start": 133.26,
+          "end": 133.56
+        }
+      ]
+    },
+    {
+      "start": 133.8,
+      "end": 137.2,
+      "text": "Social media is a TOOL, not a GOAL. Build something WORTH talking about before you worry about who's listening.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 133.8,
+          "end": 134.12
+        },
+        {
+          "word": "something",
+          "start": 134.2,
+          "end": 134.54
+        },
+        {
+          "word": "worth",
+          "start": 134.62,
+          "end": 134.84
+        },
+        {
+          "word": "talking",
+          "start": 134.92,
+          "end": 135.25
+        },
+        {
+          "word": "about",
+          "start": 135.33,
+          "end": 135.6
+        },
+        {
+          "word": "before",
+          "start": 135.68,
+          "end": 136.08
+        },
+        {
+          "word": "you",
+          "start": 136.16,
+          "end": 136.26
+        },
+        {
+          "word": "worry",
+          "start": 136.34,
+          "end": 136.57
+        },
+        {
+          "word": "about",
+          "start": 136.65,
+          "end": 136.81
+        },
+        {
+          "word": "who's",
+          "start": 136.85,
+          "end": 137.04
+        },
+        {
+          "word": "listening.",
+          "start": 137.08,
+          "end": 137.2
+        }
+      ]
+    },
+    {
+      "start": 137.5,
+      "end": 140.23,
+      "text": "transparency builds trust, but shipping builds credibility. the best projects find ways to do both simultaneously.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Transparency",
+          "start": 137.5,
+          "end": 138.16
+        },
+        {
+          "word": "builds",
+          "start": 138.24,
+          "end": 138.5
+        },
+        {
+          "word": "trust,",
+          "start": 138.58,
+          "end": 138.88
+        },
+        {
+          "word": "but",
+          "start": 138.96,
+          "end": 139.11
+        },
+        {
+          "word": "shipping",
+          "start": 139.19,
+          "end": 139.52
+        },
+        {
+          "word": "builds",
+          "start": 139.6,
+          "end": 139.84
+        },
+        {
+          "word": "credibility.",
+          "start": 139.92,
+          "end": 140.23
+        }
+      ]
+    },
+    {
+      "start": 140.5,
+      "end": 144.1,
+      "text": "transparency builds trust, but shipping builds credibility. the best projects find ways to do both simultaneously.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 140.5,
+          "end": 140.68
+        },
+        {
+          "word": "best",
+          "start": 140.76,
+          "end": 141.04
+        },
+        {
+          "word": "projects",
+          "start": 141.12,
+          "end": 141.5
+        },
+        {
+          "word": "find",
+          "start": 141.58,
+          "end": 141.87
+        },
+        {
+          "word": "ways",
+          "start": 141.95,
+          "end": 142.23
+        },
+        {
+          "word": "to",
+          "start": 142.31,
+          "end": 142.4
+        },
+        {
+          "word": "do",
+          "start": 142.44,
+          "end": 142.6
+        },
+        {
+          "word": "both",
+          "start": 142.68,
+          "end": 142.94
+        },
+        {
+          "word": "simultaneously.",
+          "start": 143.02,
+          "end": 144.1
+        }
+      ]
+    },
+    {
+      "start": 144.3,
+      "end": 147.23,
+      "text": "Keep your vibe alive across multiple platforms. If one goes down, your community still knows where to find you. Diversify your social portfolio, yo.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Keep",
+          "start": 144.3,
+          "end": 144.58
+        },
+        {
+          "word": "your",
+          "start": 144.66,
+          "end": 144.82
+        },
+        {
+          "word": "vibe",
+          "start": 144.9,
+          "end": 145.22
+        },
+        {
+          "word": "alive",
+          "start": 145.3,
+          "end": 145.64
+        },
+        {
+          "word": "across",
+          "start": 145.72,
+          "end": 146.12
+        },
+        {
+          "word": "multiple",
+          "start": 146.2,
+          "end": 146.68
+        },
+        {
+          "word": "platforms.",
+          "start": 146.76,
+          "end": 147.23
+        }
+      ]
+    },
+    {
+      "start": 147.4,
+      "end": 150.8,
+      "text": "Keep your vibe alive across multiple platforms. If one goes down, your community still knows where to find you. Diversify your social portfolio, yo.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "If",
+          "start": 147.4,
+          "end": 147.53
+        },
+        {
+          "word": "one",
+          "start": 147.61,
+          "end": 147.78
+        },
+        {
+          "word": "goes",
+          "start": 147.86,
+          "end": 148.11
+        },
+        {
+          "word": "down,",
+          "start": 148.19,
+          "end": 148.53
+        },
+        {
+          "word": "your",
+          "start": 148.61,
+          "end": 148.78
+        },
+        {
+          "word": "community",
+          "start": 148.86,
+          "end": 149.4
+        },
+        {
+          "word": "still",
+          "start": 149.48,
+          "end": 149.78
+        },
+        {
+          "word": "knows",
+          "start": 149.86,
+          "end": 150.12
+        },
+        {
+          "word": "where",
+          "start": 150.2,
+          "end": 150.36
+        },
+        {
+          "word": "to",
+          "start": 150.4,
+          "end": 150.46
+        },
+        {
+          "word": "find",
+          "start": 150.5,
+          "end": 150.68
+        },
+        {
+          "word": "you.",
+          "start": 150.72,
+          "end": 150.8
+        }
+      ]
+    },
+    {
+      "start": 151.1,
+      "end": 153.21,
+      "text": "Keep your vibe alive across multiple platforms. If one goes down, your community still knows where to find you. Diversify your social portfolio, yo.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Diversify",
+          "start": 151.1,
+          "end": 151.7
+        },
+        {
+          "word": "your",
+          "start": 151.78,
+          "end": 151.92
+        },
+        {
+          "word": "social",
+          "start": 152.0,
+          "end": 152.33
+        },
+        {
+          "word": "portfolio,",
+          "start": 152.41,
+          "end": 152.95
+        },
+        {
+          "word": "yo.",
+          "start": 153.03,
+          "end": 153.21
+        }
+      ]
+    },
+    {
+      "start": 153.53,
+      "end": 155.18,
+      "text": "Platform risk is financial risk. Maintain multiple channels or die. But fix your product first or you'll have nothing worth saying.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 153.53,
+          "end": 154.0
+        },
+        {
+          "word": "risk",
+          "start": 154.08,
+          "end": 154.33
+        },
+        {
+          "word": "is",
+          "start": 154.41,
+          "end": 154.55
+        },
+        {
+          "word": "financial",
+          "start": 154.63,
+          "end": 154.99
+        },
+        {
+          "word": "risk.",
+          "start": 155.07,
+          "end": 155.18
+        }
+      ]
+    },
+    {
+      "start": 155.45,
+      "end": 157.65,
+      "text": "Platform risk is financial risk. Maintain multiple channels or die. But fix your product first or you'll have nothing worth saying.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Maintain",
+          "start": 155.45,
+          "end": 155.88
+        },
+        {
+          "word": "multiple",
+          "start": 155.96,
+          "end": 156.4
+        },
+        {
+          "word": "channels",
+          "start": 156.48,
+          "end": 156.99
+        },
+        {
+          "word": "or",
+          "start": 157.07,
+          "end": 157.3
+        },
+        {
+          "word": "die.",
+          "start": 157.38,
+          "end": 157.65
+        }
+      ]
+    },
+    {
+      "start": 157.8,
+      "end": 161.4,
+      "text": "Platform risk is financial risk. Maintain multiple channels or die. But fix your product first or you'll have nothing worth saying.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "But",
+          "start": 157.8,
+          "end": 157.98
+        },
+        {
+          "word": "fix",
+          "start": 158.06,
+          "end": 158.3
+        },
+        {
+          "word": "your",
+          "start": 158.38,
+          "end": 158.55
+        },
+        {
+          "word": "product",
+          "start": 158.63,
+          "end": 159.0
+        },
+        {
+          "word": "first",
+          "start": 159.08,
+          "end": 159.4
+        },
+        {
+          "word": "or",
+          "start": 159.48,
+          "end": 159.62
+        },
+        {
+          "word": "you'll",
+          "start": 159.7,
+          "end": 159.9
+        },
+        {
+          "word": "have",
+          "start": 159.98,
+          "end": 160.21
+        },
+        {
+          "word": "nothing",
+          "start": 160.29,
+          "end": 160.65
+        },
+        {
+          "word": "worth",
+          "start": 160.73,
+          "end": 160.91
+        },
+        {
+          "word": "talking",
+          "start": 160.99,
+          "end": 161.27
+        },
+        {
+          "word": "about.",
+          "start": 161.35,
+          "end": 161.4
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-11_JedAI-Council_The-Phantom-Social-Media.json",
+    "session_log_source": "2025-08-11_JedAI-Council_The-Phantom-Social-Media_session-log.json",
+    "total_segments": 43,
+    "matched_segments": 43,
+    "dialogues_in_script": 15
+  }
+}

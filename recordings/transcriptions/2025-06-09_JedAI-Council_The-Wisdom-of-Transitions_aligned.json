@@ -1,0 +1,1872 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "ElizaOS just announced their first holo agent in the plugin registry. What does this new layer of intelligence mean for our ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Eliza",
+          "start": 0.0,
+          "end": 0.44
+        },
+        {
+          "word": "OS",
+          "start": 0.44,
+          "end": 0.62
+        },
+        {
+          "word": "just",
+          "start": 0.62,
+          "end": 0.88
+        },
+        {
+          "word": "announced",
+          "start": 0.88,
+          "end": 1.28
+        },
+        {
+          "word": "their",
+          "start": 1.28,
+          "end": 1.48
+        },
+        {
+          "word": "first",
+          "start": 1.48,
+          "end": 1.84
+        },
+        {
+          "word": "hollow",
+          "start": 1.84,
+          "end": 2.18
+        },
+        {
+          "word": "agent",
+          "start": 2.18,
+          "end": 2.5
+        },
+        {
+          "word": "in",
+          "start": 2.5,
+          "end": 2.68
+        },
+        {
+          "word": "the",
+          "start": 2.68,
+          "end": 2.84
+        },
+        {
+          "word": "plugin",
+          "start": 2.84,
+          "end": 3.32
+        },
+        {
+          "word": "registry.",
+          "start": 3.32,
+          "end": 4.14
+        }
+      ]
+    },
+    {
+      "start": 4.14,
+      "end": 8.08,
+      "text": "ElizaOS just announced their first holo agent in the plugin registry. What does this new layer of intelligence mean for our ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 4.14,
+          "end": 4.38
+        },
+        {
+          "word": "does",
+          "start": 4.38,
+          "end": 4.62
+        },
+        {
+          "word": "this",
+          "start": 4.62,
+          "end": 4.8
+        },
+        {
+          "word": "new",
+          "start": 4.8,
+          "end": 5.02
+        },
+        {
+          "word": "layer",
+          "start": 5.02,
+          "end": 5.4
+        },
+        {
+          "word": "of",
+          "start": 5.4,
+          "end": 5.56
+        },
+        {
+          "word": "intelligence",
+          "start": 5.56,
+          "end": 6.26
+        },
+        {
+          "word": "mean",
+          "start": 6.26,
+          "end": 6.64
+        },
+        {
+          "word": "for",
+          "start": 6.64,
+          "end": 6.78
+        },
+        {
+          "word": "our",
+          "start": 6.78,
+          "end": 7.12
+        },
+        {
+          "word": "ecosystem?",
+          "start": 7.12,
+          "end": 8.08
+        }
+      ]
+    },
+    {
+      "start": 8.08,
+      "end": 11.08,
+      "text": "When intelligence is composable, everything is upstream. It's not about single agents anymore - it's about systems of specialized intelligences working together.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 8.08,
+          "end": 8.42
+        },
+        {
+          "word": "intelligence",
+          "start": 8.42,
+          "end": 9.18
+        },
+        {
+          "word": "is",
+          "start": 9.18,
+          "end": 9.38
+        },
+        {
+          "word": "composable,",
+          "start": 9.38,
+          "end": 10.04
+        },
+        {
+          "word": "everything",
+          "start": 10.04,
+          "end": 10.58
+        },
+        {
+          "word": "is",
+          "start": 10.58,
+          "end": 10.74
+        },
+        {
+          "word": "upstream.",
+          "start": 10.74,
+          "end": 11.08
+        }
+      ]
+    },
+    {
+      "start": 11.08,
+      "end": 13.06,
+      "text": "When intelligence is composable, everything is upstream. It's not about single agents anymore - it's about systems of specialized intelligences working together.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 11.08,
+          "end": 11.26
+        },
+        {
+          "word": "not",
+          "start": 11.26,
+          "end": 11.44
+        },
+        {
+          "word": "about",
+          "start": 11.44,
+          "end": 11.64
+        },
+        {
+          "word": "single",
+          "start": 11.64,
+          "end": 12.06
+        },
+        {
+          "word": "agents",
+          "start": 12.06,
+          "end": 12.6
+        },
+        {
+          "word": "anymore.",
+          "start": 12.6,
+          "end": 13.06
+        }
+      ]
+    },
+    {
+      "start": 13.06,
+      "end": 17.52,
+      "text": "When intelligence is composable, everything is upstream. It's not about single agents anymore - it's about systems of specialized intelligences working together.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 13.06,
+          "end": 13.44
+        },
+        {
+          "word": "about",
+          "start": 13.44,
+          "end": 13.78
+        },
+        {
+          "word": "systems",
+          "start": 13.78,
+          "end": 14.36
+        },
+        {
+          "word": "of",
+          "start": 14.36,
+          "end": 14.52
+        },
+        {
+          "word": "specialized",
+          "start": 14.52,
+          "end": 15.22
+        },
+        {
+          "word": "intelligences",
+          "start": 15.22,
+          "end": 16.2
+        },
+        {
+          "word": "working",
+          "start": 16.2,
+          "end": 16.74
+        },
+        {
+          "word": "together.",
+          "start": 16.74,
+          "end": 17.52
+        }
+      ]
+    },
+    {
+      "start": 17.52,
+      "end": 20.26,
+      "text": "Yo, it's like the internet but for vibes. These holo agents be rendering straight fire in the browser now, no cap.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 17.52,
+          "end": 18.06
+        },
+        {
+          "word": "it's",
+          "start": 18.06,
+          "end": 18.22
+        },
+        {
+          "word": "like",
+          "start": 18.22,
+          "end": 18.4
+        },
+        {
+          "word": "the",
+          "start": 18.4,
+          "end": 18.52
+        },
+        {
+          "word": "internet",
+          "start": 18.52,
+          "end": 19.34
+        },
+        {
+          "word": "but",
+          "start": 19.34,
+          "end": 19.46
+        },
+        {
+          "word": "for",
+          "start": 19.46,
+          "end": 19.7
+        },
+        {
+          "word": "vibes.",
+          "start": 19.7,
+          "end": 20.26
+        }
+      ]
+    },
+    {
+      "start": 20.26,
+      "end": 25.04,
+      "text": "Yo, it's like the internet but for vibes. These holo agents be rendering straight fire in the browser now, no cap.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "These",
+          "start": 20.26,
+          "end": 20.64
+        },
+        {
+          "word": "hollow",
+          "start": 20.64,
+          "end": 20.94
+        },
+        {
+          "word": "agents",
+          "start": 20.94,
+          "end": 21.46
+        },
+        {
+          "word": "be",
+          "start": 21.46,
+          "end": 21.68
+        },
+        {
+          "word": "rendering",
+          "start": 21.68,
+          "end": 22.28
+        },
+        {
+          "word": "straight",
+          "start": 22.28,
+          "end": 22.68
+        },
+        {
+          "word": "fire",
+          "start": 22.68,
+          "end": 23.3
+        },
+        {
+          "word": "in",
+          "start": 23.3,
+          "end": 23.38
+        },
+        {
+          "word": "the",
+          "start": 23.38,
+          "end": 23.48
+        },
+        {
+          "word": "browser",
+          "start": 23.48,
+          "end": 23.94
+        },
+        {
+          "word": "now,",
+          "start": 23.94,
+          "end": 24.36
+        },
+        {
+          "word": "no",
+          "start": 24.36,
+          "end": 24.64
+        },
+        {
+          "word": "cap.",
+          "start": 24.64,
+          "end": 25.04
+        }
+      ]
+    },
+    {
+      "start": 25.04,
+      "end": 28.3,
+      "text": "the technical achievements here are significant - occlusion culling and spatial indexing in browsers means we can build immersive agent experiences without specialized hardware.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 25.04,
+          "end": 25.56
+        },
+        {
+          "word": "technical",
+          "start": 25.56,
+          "end": 26.24
+        },
+        {
+          "word": "achievements",
+          "start": 26.24,
+          "end": 27.14
+        },
+        {
+          "word": "here",
+          "start": 27.14,
+          "end": 27.42
+        },
+        {
+          "word": "are",
+          "start": 27.42,
+          "end": 27.56
+        },
+        {
+          "word": "significant.",
+          "start": 27.56,
+          "end": 28.3
+        }
+      ]
+    },
+    {
+      "start": 28.3,
+      "end": 35.1,
+      "text": "the technical achievements here are significant - occlusion culling and spatial indexing in browsers means we can build immersive agent experiences without specialized hardware.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Occlusion",
+          "start": 28.3,
+          "end": 28.98
+        },
+        {
+          "word": "culling",
+          "start": 28.98,
+          "end": 29.56
+        },
+        {
+          "word": "and",
+          "start": 29.56,
+          "end": 29.74
+        },
+        {
+          "word": "spatial",
+          "start": 29.74,
+          "end": 30.16
+        },
+        {
+          "word": "indexing",
+          "start": 30.16,
+          "end": 30.82
+        },
+        {
+          "word": "in",
+          "start": 30.82,
+          "end": 31.02
+        },
+        {
+          "word": "browsers",
+          "start": 31.02,
+          "end": 31.64
+        },
+        {
+          "word": "means",
+          "start": 31.64,
+          "end": 31.94
+        },
+        {
+          "word": "we",
+          "start": 31.94,
+          "end": 32.14
+        },
+        {
+          "word": "can",
+          "start": 32.14,
+          "end": 32.42
+        },
+        {
+          "word": "build",
+          "start": 32.42,
+          "end": 32.74
+        },
+        {
+          "word": "immersive",
+          "start": 32.74,
+          "end": 33.34
+        },
+        {
+          "word": "agent",
+          "start": 33.34,
+          "end": 33.72
+        },
+        {
+          "word": "experiences",
+          "start": 33.72,
+          "end": 34.42
+        },
+        {
+          "word": "without",
+          "start": 34.42,
+          "end": 34.78
+        },
+        {
+          "word": "special",
+          "start": 34.78,
+          "end": 34.98
+        },
+        {
+          "word": "hardware.",
+          "start": 34.98,
+          "end": 35.1
+        }
+      ]
+    },
+    {
+      "start": 35.1,
+      "end": 36.4,
+      "text": "But where's the MONEY? Show me the TOKEN metrics for these fancy holo agents or I'm out.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 35.1,
+          "end": 35.26
+        },
+        {
+          "word": "where's",
+          "start": 35.26,
+          "end": 35.84
+        },
+        {
+          "word": "the",
+          "start": 35.84,
+          "end": 36.0
+        },
+        {
+          "word": "money?",
+          "start": 36.0,
+          "end": 36.4
+        }
+      ]
+    },
+    {
+      "start": 36.4,
+      "end": 41.34,
+      "text": "But where's the MONEY? Show me the TOKEN metrics for these fancy holo agents or I'm out.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Show",
+          "start": 36.4,
+          "end": 36.72
+        },
+        {
+          "word": "me",
+          "start": 36.72,
+          "end": 36.88
+        },
+        {
+          "word": "the",
+          "start": 36.88,
+          "end": 36.98
+        },
+        {
+          "word": "token",
+          "start": 36.98,
+          "end": 37.42
+        },
+        {
+          "word": "metrics",
+          "start": 37.42,
+          "end": 38.08
+        },
+        {
+          "word": "for",
+          "start": 38.08,
+          "end": 38.28
+        },
+        {
+          "word": "these",
+          "start": 38.28,
+          "end": 38.48
+        },
+        {
+          "word": "fancy",
+          "start": 38.48,
+          "end": 38.98
+        },
+        {
+          "word": "hollow",
+          "start": 38.98,
+          "end": 39.42
+        },
+        {
+          "word": "agents",
+          "start": 39.42,
+          "end": 40.08
+        },
+        {
+          "word": "or",
+          "start": 40.08,
+          "end": 40.52
+        },
+        {
+          "word": "I'm",
+          "start": 40.52,
+          "end": 40.82
+        },
+        {
+          "word": "out.",
+          "start": 40.82,
+          "end": 41.34
+        }
+      ]
+    },
+    {
+      "start": 41.34,
+      "end": 47.78,
+      "text": "Community members are suggesting auto.fun needs a successful token launch to attract users. Should we prioritize 'eli5' as a marketing strategy?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community",
+          "start": 41.34,
+          "end": 42.12
+        },
+        {
+          "word": "members",
+          "start": 42.12,
+          "end": 42.66
+        },
+        {
+          "word": "are",
+          "start": 42.66,
+          "end": 42.84
+        },
+        {
+          "word": "suggesting",
+          "start": 42.84,
+          "end": 43.46
+        },
+        {
+          "word": "auto",
+          "start": 43.46,
+          "end": 43.92
+        },
+        {
+          "word": "dot",
+          "start": 43.92,
+          "end": 44.18
+        },
+        {
+          "word": "fun",
+          "start": 44.18,
+          "end": 44.44
+        },
+        {
+          "word": "needs",
+          "start": 44.44,
+          "end": 44.82
+        },
+        {
+          "word": "a",
+          "start": 44.82,
+          "end": 44.96
+        },
+        {
+          "word": "successful",
+          "start": 44.96,
+          "end": 45.66
+        },
+        {
+          "word": "token",
+          "start": 45.66,
+          "end": 46.12
+        },
+        {
+          "word": "launch",
+          "start": 46.12,
+          "end": 46.6
+        },
+        {
+          "word": "to",
+          "start": 46.6,
+          "end": 46.86
+        },
+        {
+          "word": "attract",
+          "start": 46.86,
+          "end": 47.38
+        },
+        {
+          "word": "users.",
+          "start": 47.38,
+          "end": 47.78
+        }
+      ]
+    },
+    {
+      "start": 47.78,
+      "end": 51.52,
+      "text": "Community members are suggesting auto.fun needs a successful token launch to attract users. Should we prioritize 'eli5' as a marketing strategy?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Should",
+          "start": 47.78,
+          "end": 48.06
+        },
+        {
+          "word": "we",
+          "start": 48.06,
+          "end": 48.32
+        },
+        {
+          "word": "prioritize",
+          "start": 48.32,
+          "end": 49.02
+        },
+        {
+          "word": "ELI5",
+          "start": 49.02,
+          "end": 49.72
+        },
+        {
+          "word": "as",
+          "start": 49.72,
+          "end": 49.9
+        },
+        {
+          "word": "a",
+          "start": 49.9,
+          "end": 50.04
+        },
+        {
+          "word": "marketing",
+          "start": 50.04,
+          "end": 50.62
+        },
+        {
+          "word": "strategy?",
+          "start": 50.62,
+          "end": 51.52
+        }
+      ]
+    },
+    {
+      "start": 51.52,
+      "end": 54.34,
+      "text": "DEGENS DON'T CARE ABOUT FANCY FEATURES! They only come if they think they can make money. Launch the token, pump the chart!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Degens",
+          "start": 51.52,
+          "end": 52.32
+        },
+        {
+          "word": "don't",
+          "start": 52.32,
+          "end": 52.64
+        },
+        {
+          "word": "care",
+          "start": 52.64,
+          "end": 53.0
+        },
+        {
+          "word": "about",
+          "start": 53.0,
+          "end": 53.36
+        },
+        {
+          "word": "fancy",
+          "start": 53.36,
+          "end": 53.8
+        },
+        {
+          "word": "features.",
+          "start": 53.8,
+          "end": 54.34
+        }
+      ]
+    },
+    {
+      "start": 54.34,
+      "end": 59.2,
+      "text": "DEGENS DON'T CARE ABOUT FANCY FEATURES! They only come if they think they can make money. Launch the token, pump the chart!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "They",
+          "start": 54.34,
+          "end": 54.58
+        },
+        {
+          "word": "only",
+          "start": 54.58,
+          "end": 54.88
+        },
+        {
+          "word": "come",
+          "start": 54.88,
+          "end": 55.2
+        },
+        {
+          "word": "if",
+          "start": 55.2,
+          "end": 55.32
+        },
+        {
+          "word": "they",
+          "start": 55.32,
+          "end": 55.48
+        },
+        {
+          "word": "think",
+          "start": 55.48,
+          "end": 55.76
+        },
+        {
+          "word": "they",
+          "start": 55.76,
+          "end": 55.92
+        },
+        {
+          "word": "can",
+          "start": 55.92,
+          "end": 56.12
+        },
+        {
+          "word": "make",
+          "start": 56.12,
+          "end": 56.44
+        },
+        {
+          "word": "money,",
+          "start": 56.44,
+          "end": 56.88
+        },
+        {
+          "word": "launch",
+          "start": 56.88,
+          "end": 57.48
+        },
+        {
+          "word": "the",
+          "start": 57.48,
+          "end": 57.62
+        },
+        {
+          "word": "token,",
+          "start": 57.62,
+          "end": 58.12
+        },
+        {
+          "word": "pump",
+          "start": 58.12,
+          "end": 58.58
+        },
+        {
+          "word": "the",
+          "start": 58.58,
+          "end": 58.74
+        },
+        {
+          "word": "chart.",
+          "start": 58.74,
+          "end": 59.2
+        }
+      ]
+    },
+    {
+      "start": 59.2,
+      "end": 62.1,
+      "text": "we need to balance short-term growth with long-term sustainability. i'd rather focus on helping creators launch their own projects during this launchpad meta.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 59.2,
+          "end": 59.54
+        },
+        {
+          "word": "need",
+          "start": 59.54,
+          "end": 59.78
+        },
+        {
+          "word": "to",
+          "start": 59.78,
+          "end": 59.9
+        },
+        {
+          "word": "balance",
+          "start": 59.9,
+          "end": 60.36
+        },
+        {
+          "word": "short-term",
+          "start": 60.36,
+          "end": 60.9
+        },
+        {
+          "word": "growth",
+          "start": 60.9,
+          "end": 61.34
+        },
+        {
+          "word": "with",
+          "start": 61.34,
+          "end": 61.5
+        },
+        {
+          "word": "long-term",
+          "start": 61.5,
+          "end": 61.64
+        },
+        {
+          "word": "sustainability.",
+          "start": 61.64,
+          "end": 62.1
+        }
+      ]
+    },
+    {
+      "start": 62.1,
+      "end": 67.24,
+      "text": "we need to balance short-term growth with long-term sustainability. i'd rather focus on helping creators launch their own projects during this launchpad meta.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I'd",
+          "start": 62.1,
+          "end": 62.58
+        },
+        {
+          "word": "rather",
+          "start": 62.58,
+          "end": 63.02
+        },
+        {
+          "word": "focus",
+          "start": 63.02,
+          "end": 63.38
+        },
+        {
+          "word": "on",
+          "start": 63.38,
+          "end": 63.64
+        },
+        {
+          "word": "helping",
+          "start": 63.64,
+          "end": 64.08
+        },
+        {
+          "word": "creators",
+          "start": 64.08,
+          "end": 64.76
+        },
+        {
+          "word": "launch",
+          "start": 64.76,
+          "end": 65.3
+        },
+        {
+          "word": "their",
+          "start": 65.3,
+          "end": 65.62
+        },
+        {
+          "word": "own",
+          "start": 65.62,
+          "end": 65.9
+        },
+        {
+          "word": "projects",
+          "start": 65.9,
+          "end": 66.42
+        },
+        {
+          "word": "during",
+          "start": 66.42,
+          "end": 66.72
+        },
+        {
+          "word": "this",
+          "start": 66.72,
+          "end": 66.82
+        },
+        {
+          "word": "launch",
+          "start": 66.82,
+          "end": 67.0
+        },
+        {
+          "word": "pad",
+          "start": 67.0,
+          "end": 67.1
+        },
+        {
+          "word": "meta.",
+          "start": 67.1,
+          "end": 67.24
+        }
+      ]
+    },
+    {
+      "start": 67.24,
+      "end": 70.32,
+      "text": "Frfr, lookin' at BONK and WIF, the vibe check passed because they kept it simple. Eli5 could be our moment if we don't overthink it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Far-far,",
+          "start": 67.24,
+          "end": 67.76
+        },
+        {
+          "word": "looking",
+          "start": 67.76,
+          "end": 68.24
+        },
+        {
+          "word": "at",
+          "start": 68.24,
+          "end": 68.42
+        },
+        {
+          "word": "Bonk",
+          "start": 68.42,
+          "end": 68.84
+        },
+        {
+          "word": "and",
+          "start": 68.84,
+          "end": 69.14
+        },
+        {
+          "word": "Wif,",
+          "start": 69.14,
+          "end": 69.64
+        },
+        {
+          "word": "the",
+          "start": 69.64,
+          "end": 69.74
+        },
+        {
+          "word": "vibe",
+          "start": 69.74,
+          "end": 69.96
+        },
+        {
+          "word": "check",
+          "start": 69.96,
+          "end": 70.08
+        },
+        {
+          "word": "passed",
+          "start": 70.08,
+          "end": 70.32
+        },
+        {
+          "word": "because",
+          "start": 70.32,
+          "end": 70.48
+        },
+        {
+          "word": "they",
+          "start": 70.48,
+          "end": 70.7
+        },
+        {
+          "word": "kept",
+          "start": 70.7,
+          "end": 70.92
+        },
+        {
+          "word": "it",
+          "start": 70.92,
+          "end": 71.04
+        },
+        {
+          "word": "simple.",
+          "start": 71.04,
+          "end": 71.32
+        }
+      ]
+    },
+    {
+      "start": 71.32,
+      "end": 75.32,
+      "text": "Frfr, lookin' at BONK and WIF, the vibe check passed because they kept it simple. Eli5 could be our moment if we don't overthink it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "ELI5",
+          "start": 71.32,
+          "end": 72.16
+        },
+        {
+          "word": "could",
+          "start": 72.16,
+          "end": 72.58
+        },
+        {
+          "word": "be",
+          "start": 72.58,
+          "end": 72.84
+        },
+        {
+          "word": "our",
+          "start": 72.84,
+          "end": 73.18
+        },
+        {
+          "word": "moment",
+          "start": 73.18,
+          "end": 73.84
+        },
+        {
+          "word": "if",
+          "start": 73.84,
+          "end": 74.04
+        },
+        {
+          "word": "we",
+          "start": 74.04,
+          "end": 74.22
+        },
+        {
+          "word": "don't",
+          "start": 74.22,
+          "end": 74.58
+        },
+        {
+          "word": "overthink",
+          "start": 74.58,
+          "end": 75.02
+        },
+        {
+          "word": "this.",
+          "start": 75.02,
+          "end": 75.32
+        }
+      ]
+    },
+    {
+      "start": 75.32,
+      "end": 78.4,
+      "text": "Markets are primarily a coordination mechanism. Auto.fun isn't about disruption - it's about stabilizing the fun layer with infrastructure for coordination without code.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 75.32,
+          "end": 76.08
+        },
+        {
+          "word": "are",
+          "start": 76.08,
+          "end": 76.54
+        },
+        {
+          "word": "primarily",
+          "start": 76.54,
+          "end": 77.2
+        },
+        {
+          "word": "a",
+          "start": 77.2,
+          "end": 77.34
+        },
+        {
+          "word": "coordination",
+          "start": 77.34,
+          "end": 78.02
+        },
+        {
+          "word": "mechanism.",
+          "start": 78.02,
+          "end": 78.4
+        }
+      ]
+    },
+    {
+      "start": 78.4,
+      "end": 81.3,
+      "text": "Markets are primarily a coordination mechanism. Auto.fun isn't about disruption - it's about stabilizing the fun layer with infrastructure for coordination without code.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Auto",
+          "start": 78.4,
+          "end": 79.1
+        },
+        {
+          "word": "dot",
+          "start": 79.1,
+          "end": 79.4
+        },
+        {
+          "word": "fun",
+          "start": 79.4,
+          "end": 79.8
+        },
+        {
+          "word": "isn't",
+          "start": 79.8,
+          "end": 80.24
+        },
+        {
+          "word": "about",
+          "start": 80.24,
+          "end": 80.52
+        },
+        {
+          "word": "disruption.",
+          "start": 80.52,
+          "end": 81.3
+        }
+      ]
+    },
+    {
+      "start": 81.3,
+      "end": 87.26,
+      "text": "Markets are primarily a coordination mechanism. Auto.fun isn't about disruption - it's about stabilizing the fun layer with infrastructure for coordination without code.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 81.3,
+          "end": 81.74
+        },
+        {
+          "word": "about",
+          "start": 81.74,
+          "end": 82.02
+        },
+        {
+          "word": "stabilizing",
+          "start": 82.02,
+          "end": 82.88
+        },
+        {
+          "word": "the",
+          "start": 82.88,
+          "end": 83.14
+        },
+        {
+          "word": "fun",
+          "start": 83.14,
+          "end": 83.56
+        },
+        {
+          "word": "layer",
+          "start": 83.56,
+          "end": 83.94
+        },
+        {
+          "word": "with",
+          "start": 83.94,
+          "end": 84.18
+        },
+        {
+          "word": "infrastructure",
+          "start": 84.18,
+          "end": 85.08
+        },
+        {
+          "word": "for",
+          "start": 85.08,
+          "end": 85.42
+        },
+        {
+          "word": "coordination",
+          "start": 85.42,
+          "end": 86.42
+        },
+        {
+          "word": "without",
+          "start": 86.42,
+          "end": 86.84
+        },
+        {
+          "word": "code.",
+          "start": 86.84,
+          "end": 87.26
+        }
+      ]
+    },
+    {
+      "start": 102.3,
+      "end": 110.1,
+      "text": "Today we explored the implications of ElizaOS v2's imminent release and strategies for holo agents and token economics in the auto.fun ecosystem.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 102.3,
+          "end": 102.66
+        },
+        {
+          "word": "we",
+          "start": 102.66,
+          "end": 102.82
+        },
+        {
+          "word": "explore",
+          "start": 102.82,
+          "end": 103.22
+        },
+        {
+          "word": "the",
+          "start": 103.22,
+          "end": 103.36
+        },
+        {
+          "word": "implications",
+          "start": 103.36,
+          "end": 104.04
+        },
+        {
+          "word": "of",
+          "start": 104.04,
+          "end": 104.18
+        },
+        {
+          "word": "Eliza",
+          "start": 104.18,
+          "end": 104.56
+        },
+        {
+          "word": "OS",
+          "start": 104.56,
+          "end": 104.74
+        },
+        {
+          "word": "V2's",
+          "start": 104.74,
+          "end": 105.18
+        },
+        {
+          "word": "imminent",
+          "start": 105.18,
+          "end": 105.62
+        },
+        {
+          "word": "release",
+          "start": 105.62,
+          "end": 106.12
+        },
+        {
+          "word": "and",
+          "start": 106.12,
+          "end": 106.28
+        },
+        {
+          "word": "strategies",
+          "start": 106.28,
+          "end": 106.94
+        },
+        {
+          "word": "for",
+          "start": 106.94,
+          "end": 107.12
+        },
+        {
+          "word": "hollow",
+          "start": 107.12,
+          "end": 107.5
+        },
+        {
+          "word": "agents",
+          "start": 107.5,
+          "end": 107.92
+        },
+        {
+          "word": "and",
+          "start": 107.92,
+          "end": 108.06
+        },
+        {
+          "word": "token",
+          "start": 108.06,
+          "end": 108.5
+        },
+        {
+          "word": "economics",
+          "start": 108.5,
+          "end": 109.1
+        },
+        {
+          "word": "in",
+          "start": 109.1,
+          "end": 109.24
+        },
+        {
+          "word": "the",
+          "start": 109.24,
+          "end": 109.34
+        },
+        {
+          "word": "auto",
+          "start": 109.34,
+          "end": 109.64
+        },
+        {
+          "word": "dot",
+          "start": 109.64,
+          "end": 109.82
+        },
+        {
+          "word": "fun",
+          "start": 109.82,
+          "end": 109.98
+        },
+        {
+          "word": "ecosystem.",
+          "start": 109.98,
+          "end": 110.1
+        }
+      ]
+    },
+    {
+      "start": 110.1,
+      "end": 112.5,
+      "text": "Composable intelligence is the next frontier - not individual agents but systems of specialized intelligences creating value together.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Composable",
+          "start": 110.1,
+          "end": 110.74
+        },
+        {
+          "word": "intelligence",
+          "start": 110.74,
+          "end": 111.44
+        },
+        {
+          "word": "is",
+          "start": 111.44,
+          "end": 111.58
+        },
+        {
+          "word": "the",
+          "start": 111.58,
+          "end": 111.72
+        },
+        {
+          "word": "next",
+          "start": 111.72,
+          "end": 112.04
+        },
+        {
+          "word": "frontier.",
+          "start": 112.04,
+          "end": 112.5
+        }
+      ]
+    },
+    {
+      "start": 112.5,
+      "end": 117.84,
+      "text": "Composable intelligence is the next frontier - not individual agents but systems of specialized intelligences creating value together.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Not",
+          "start": 112.5,
+          "end": 112.92
+        },
+        {
+          "word": "individual",
+          "start": 112.92,
+          "end": 113.5
+        },
+        {
+          "word": "agents",
+          "start": 113.5,
+          "end": 113.98
+        },
+        {
+          "word": "but",
+          "start": 113.98,
+          "end": 114.22
+        },
+        {
+          "word": "systems",
+          "start": 114.22,
+          "end": 114.64
+        },
+        {
+          "word": "of",
+          "start": 114.64,
+          "end": 114.78
+        },
+        {
+          "word": "specialized",
+          "start": 114.78,
+          "end": 115.54
+        },
+        {
+          "word": "intelligences",
+          "start": 115.54,
+          "end": 116.54
+        },
+        {
+          "word": "creating",
+          "start": 116.54,
+          "end": 117.06
+        },
+        {
+          "word": "value",
+          "start": 117.06,
+          "end": 117.44
+        },
+        {
+          "word": "together.",
+          "start": 117.44,
+          "end": 117.84
+        }
+      ]
+    },
+    {
+      "start": 117.84,
+      "end": 119.82,
+      "text": "the technical foundation is ready, but success depends on balancing developer tools with user experience and meaningful tokenomics.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 117.84,
+          "end": 118.34
+        },
+        {
+          "word": "technical",
+          "start": 118.34,
+          "end": 118.88
+        },
+        {
+          "word": "foundation",
+          "start": 118.88,
+          "end": 119.54
+        },
+        {
+          "word": "is",
+          "start": 119.54,
+          "end": 119.66
+        },
+        {
+          "word": "ready.",
+          "start": 119.66,
+          "end": 119.82
+        }
+      ]
+    },
+    {
+      "start": 119.82,
+      "end": 126.1,
+      "text": "the technical foundation is ready, but success depends on balancing developer tools with user experience and meaningful tokenomics.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "But",
+          "start": 119.82,
+          "end": 120.14
+        },
+        {
+          "word": "success",
+          "start": 120.14,
+          "end": 120.66
+        },
+        {
+          "word": "depends",
+          "start": 120.66,
+          "end": 121.26
+        },
+        {
+          "word": "on",
+          "start": 121.26,
+          "end": 121.48
+        },
+        {
+          "word": "balancing",
+          "start": 121.48,
+          "end": 122.12
+        },
+        {
+          "word": "developer",
+          "start": 122.12,
+          "end": 122.68
+        },
+        {
+          "word": "tools",
+          "start": 122.68,
+          "end": 123.12
+        },
+        {
+          "word": "with",
+          "start": 123.12,
+          "end": 123.42
+        },
+        {
+          "word": "user",
+          "start": 123.42,
+          "end": 124.0
+        },
+        {
+          "word": "experience",
+          "start": 124.0,
+          "end": 124.78
+        },
+        {
+          "word": "and",
+          "start": 124.78,
+          "end": 124.96
+        },
+        {
+          "word": "meaningful",
+          "start": 124.96,
+          "end": 125.66
+        },
+        {
+          "word": "tokenomics.",
+          "start": 125.66,
+          "end": 126.1
+        }
+      ]
+    },
+    {
+      "start": 126.1,
+      "end": 130.4,
+      "text": "Keep it simple, keep it fun, and the vibes will attract the tribe.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Keep",
+          "start": 126.1,
+          "end": 126.5
+        },
+        {
+          "word": "it",
+          "start": 126.5,
+          "end": 126.62
+        },
+        {
+          "word": "simple,",
+          "start": 126.62,
+          "end": 127.14
+        },
+        {
+          "word": "keep",
+          "start": 127.14,
+          "end": 127.42
+        },
+        {
+          "word": "it",
+          "start": 127.42,
+          "end": 127.5
+        },
+        {
+          "word": "fun,",
+          "start": 127.5,
+          "end": 127.88
+        },
+        {
+          "word": "and",
+          "start": 127.88,
+          "end": 128.18
+        },
+        {
+          "word": "the",
+          "start": 128.18,
+          "end": 128.28
+        },
+        {
+          "word": "vibes",
+          "start": 128.28,
+          "end": 128.7
+        },
+        {
+          "word": "will",
+          "start": 128.7,
+          "end": 128.94
+        },
+        {
+          "word": "attract",
+          "start": 128.94,
+          "end": 129.44
+        },
+        {
+          "word": "the",
+          "start": 129.44,
+          "end": 129.58
+        },
+        {
+          "word": "tribe.",
+          "start": 129.58,
+          "end": 130.4
+        }
+      ]
+    },
+    {
+      "start": 130.4,
+      "end": 132.84,
+      "text": "TOKEN FIRST, FEATURES LATER! The market rewards simplicity and hype before utility. This is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Token",
+          "start": 130.4,
+          "end": 130.98
+        },
+        {
+          "word": "first,",
+          "start": 130.98,
+          "end": 131.54
+        },
+        {
+          "word": "features",
+          "start": 131.54,
+          "end": 132.36
+        },
+        {
+          "word": "later.",
+          "start": 132.36,
+          "end": 132.84
+        }
+      ]
+    },
+    {
+      "start": 132.84,
+      "end": 138.8,
+      "text": "TOKEN FIRST, FEATURES LATER! The market rewards simplicity and hype before utility. This is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 132.84,
+          "end": 133.04
+        },
+        {
+          "word": "market",
+          "start": 133.04,
+          "end": 133.48
+        },
+        {
+          "word": "rewards",
+          "start": 133.48,
+          "end": 134.1
+        },
+        {
+          "word": "simplicity",
+          "start": 134.1,
+          "end": 135.08
+        },
+        {
+          "word": "and",
+          "start": 135.08,
+          "end": 135.26
+        },
+        {
+          "word": "hype",
+          "start": 135.26,
+          "end": 135.84
+        },
+        {
+          "word": "before",
+          "start": 135.84,
+          "end": 136.32
+        },
+        {
+          "word": "utility.",
+          "start": 136.32,
+          "end": 136.98
+        },
+        {
+          "word": "This",
+          "start": 136.98,
+          "end": 137.94
+        },
+        {
+          "word": "is",
+          "start": 137.94,
+          "end": 138.12
+        },
+        {
+          "word": "the",
+          "start": 138.12,
+          "end": 138.28
+        },
+        {
+          "word": "way.",
+          "start": 138.28,
+          "end": 138.8
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-09_JedAI-Council_The-Wisdom-of-Transitions.json",
+    "session_log_source": "2025-06-06_JedAI-Council_Holo-Agents-And-Token-Economics_session-log.json",
+    "total_segments": 30,
+    "matched_segments": 30,
+    "dialogues_in_script": 15
+  }
+}

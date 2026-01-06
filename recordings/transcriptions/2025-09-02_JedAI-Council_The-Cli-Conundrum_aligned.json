@@ -1,0 +1,1177 @@
+{
+  "segments": [
+    {
+      "start": 1.48,
+      "end": 9.4,
+      "text": "Boris Udovicic has opened issue #5860 about refactoring our CLI. He says it's 'overly complex and doing too much.' How should we prioritize this?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Boris",
+          "start": 1.48,
+          "end": 1.84
+        },
+        {
+          "word": "Udovich",
+          "start": 1.84,
+          "end": 2.4
+        },
+        {
+          "word": "has",
+          "start": 2.4,
+          "end": 2.6
+        },
+        {
+          "word": "opened",
+          "start": 2.6,
+          "end": 3.02
+        },
+        {
+          "word": "issue",
+          "start": 3.02,
+          "end": 3.48
+        },
+        {
+          "word": "#5860",
+          "start": 3.48,
+          "end": 4.14
+        },
+        {
+          "word": "about",
+          "start": 5.06,
+          "end": 5.48
+        },
+        {
+          "word": "refactoring",
+          "start": 5.48,
+          "end": 6.36
+        },
+        {
+          "word": "our",
+          "start": 6.36,
+          "end": 6.66
+        },
+        {
+          "word": "CLI.",
+          "start": 6.66,
+          "end": 7.42
+        }
+      ]
+    },
+    {
+      "start": 9.4,
+      "end": 13.92,
+      "text": "Boris Udovicic has opened issue #5860 about refactoring our CLI. He says it's 'overly complex and doing too much.' How should we prioritize this?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "He",
+          "start": 9.4,
+          "end": 9.7
+        },
+        {
+          "word": "says",
+          "start": 9.7,
+          "end": 10.02
+        },
+        {
+          "word": "it's",
+          "start": 10.02,
+          "end": 10.22
+        },
+        {
+          "word": "overly",
+          "start": 10.22,
+          "end": 10.66
+        },
+        {
+          "word": "complex",
+          "start": 10.66,
+          "end": 11.24
+        },
+        {
+          "word": "and",
+          "start": 11.24,
+          "end": 11.4
+        },
+        {
+          "word": "doing",
+          "start": 11.4,
+          "end": 11.7
+        },
+        {
+          "word": "too",
+          "start": 11.7,
+          "end": 11.96
+        },
+        {
+          "word": "much.",
+          "start": 11.96,
+          "end": 12.38
+        },
+        {
+          "word": "How",
+          "start": 12.7,
+          "end": 12.92
+        },
+        {
+          "word": "should",
+          "start": 12.92,
+          "end": 13.1
+        },
+        {
+          "word": "we",
+          "start": 13.1,
+          "end": 13.22
+        },
+        {
+          "word": "prioritize",
+          "start": 13.22,
+          "end": 13.72
+        },
+        {
+          "word": "this?",
+          "start": 13.72,
+          "end": 13.92
+        }
+      ]
+    },
+    {
+      "start": 13.92,
+      "end": 23.44,
+      "text": "Technical debt is innovation death. Refactor now or die slowly. The best frameworks are invisible - ours is a Frankenstein.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 14.16,
+          "end": 14.72
+        },
+        {
+          "word": "debt",
+          "start": 14.72,
+          "end": 15.02
+        },
+        {
+          "word": "is",
+          "start": 15.02,
+          "end": 15.22
+        },
+        {
+          "word": "innovation",
+          "start": 15.22,
+          "end": 15.82
+        },
+        {
+          "word": "death.",
+          "start": 15.82,
+          "end": 16.24
+        },
+        {
+          "word": "Refactor",
+          "start": 16.64,
+          "end": 17.26
+        },
+        {
+          "word": "now",
+          "start": 17.26,
+          "end": 17.6
+        },
+        {
+          "word": "or",
+          "start": 17.6,
+          "end": 17.78
+        },
+        {
+          "word": "die",
+          "start": 17.78,
+          "end": 18.06
+        },
+        {
+          "word": "slowly.",
+          "start": 18.06,
+          "end": 18.66
+        },
+        {
+          "word": "The",
+          "start": 19.46,
+          "end": 19.64
+        },
+        {
+          "word": "best",
+          "start": 19.64,
+          "end": 19.96
+        },
+        {
+          "word": "frameworks",
+          "start": 19.96,
+          "end": 20.72
+        },
+        {
+          "word": "are",
+          "start": 20.72,
+          "end": 21.02
+        },
+        {
+          "word": "invisible.",
+          "start": 21.02,
+          "end": 21.8
+        },
+        {
+          "word": "Ours",
+          "start": 22.0,
+          "end": 22.42
+        },
+        {
+          "word": "is",
+          "start": 22.42,
+          "end": 22.62
+        },
+        {
+          "word": "a",
+          "start": 22.62,
+          "end": 22.7
+        },
+        {
+          "word": "Frankenstein.",
+          "start": 22.7,
+          "end": 23.44
+        }
+      ]
+    },
+    {
+      "start": 23.44,
+      "end": 30.7,
+      "text": "Numbers don't lie. Will this refactoring bring more users to auto.fun? If not, delay it. User acquisition is the only metric that matters.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 23.44,
+          "end": 23.94
+        },
+        {
+          "word": "don't",
+          "start": 23.94,
+          "end": 24.18
+        },
+        {
+          "word": "lie.",
+          "start": 24.18,
+          "end": 24.48
+        },
+        {
+          "word": "Will",
+          "start": 24.64,
+          "end": 24.84
+        },
+        {
+          "word": "this",
+          "start": 24.84,
+          "end": 25.04
+        },
+        {
+          "word": "refactoring",
+          "start": 25.04,
+          "end": 25.68
+        },
+        {
+          "word": "bring",
+          "start": 25.68,
+          "end": 25.96
+        },
+        {
+          "word": "more",
+          "start": 25.96,
+          "end": 26.24
+        },
+        {
+          "word": "users",
+          "start": 26.24,
+          "end": 26.6
+        },
+        {
+          "word": "to",
+          "start": 26.6,
+          "end": 26.74
+        },
+        {
+          "word": "auto.fun?",
+          "start": 26.74,
+          "end": 27.5
+        },
+        {
+          "word": "If",
+          "start": 27.7,
+          "end": 27.84
+        },
+        {
+          "word": "not,",
+          "start": 27.84,
+          "end": 28.08
+        },
+        {
+          "word": "delay",
+          "start": 28.08,
+          "end": 28.4
+        },
+        {
+          "word": "it.",
+          "start": 28.4,
+          "end": 28.52
+        },
+        {
+          "word": "User",
+          "start": 28.8,
+          "end": 29.18
+        },
+        {
+          "word": "acquisition",
+          "start": 29.18,
+          "end": 29.68
+        },
+        {
+          "word": "is",
+          "start": 29.68,
+          "end": 29.84
+        },
+        {
+          "word": "the",
+          "start": 29.84,
+          "end": 29.96
+        },
+        {
+          "word": "only",
+          "start": 29.96,
+          "end": 30.18
+        },
+        {
+          "word": "metric",
+          "start": 30.18,
+          "end": 30.4
+        },
+        {
+          "word": "that",
+          "start": 30.4,
+          "end": 30.52
+        },
+        {
+          "word": "matters.",
+          "start": 30.52,
+          "end": 30.7
+        }
+      ]
+    },
+    {
+      "start": 30.7,
+      "end": 38.08,
+      "text": "Yo, why not slice it thin? Do the minimum viable refactoring alongside v2 development. Keep the vibe balanced, you feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 31.02,
+          "end": 31.32
+        },
+        {
+          "word": "why",
+          "start": 31.54,
+          "end": 31.72
+        },
+        {
+          "word": "not",
+          "start": 31.72,
+          "end": 31.94
+        },
+        {
+          "word": "slice",
+          "start": 31.94,
+          "end": 32.22
+        },
+        {
+          "word": "it",
+          "start": 32.22,
+          "end": 32.32
+        },
+        {
+          "word": "thin?",
+          "start": 32.32,
+          "end": 32.66
+        },
+        {
+          "word": "Do",
+          "start": 33.16,
+          "end": 33.32
+        },
+        {
+          "word": "the",
+          "start": 33.32,
+          "end": 33.44
+        },
+        {
+          "word": "minimum",
+          "start": 33.44,
+          "end": 33.82
+        },
+        {
+          "word": "viable",
+          "start": 33.82,
+          "end": 34.22
+        },
+        {
+          "word": "refactoring",
+          "start": 34.22,
+          "end": 34.82
+        },
+        {
+          "word": "alongside",
+          "start": 34.82,
+          "end": 35.34
+        },
+        {
+          "word": "V2",
+          "start": 35.34,
+          "end": 35.68
+        },
+        {
+          "word": "development.",
+          "start": 35.68,
+          "end": 36.32
+        },
+        {
+          "word": "Keep",
+          "start": 36.5,
+          "end": 36.78
+        },
+        {
+          "word": "the",
+          "start": 36.78,
+          "end": 36.9
+        },
+        {
+          "word": "vibe",
+          "start": 36.9,
+          "end": 37.14
+        },
+        {
+          "word": "balanced.",
+          "start": 37.14,
+          "end": 37.58
+        },
+        {
+          "word": "You",
+          "start": 37.64,
+          "end": 37.82
+        },
+        {
+          "word": "feel",
+          "start": 37.82,
+          "end": 37.94
+        },
+        {
+          "word": "me?",
+          "start": 37.94,
+          "end": 38.08
+        }
+      ]
+    },
+    {
+      "start": 38.08,
+      "end": 46.88,
+      "text": "we need to invest in developer experience. clean cli architecture means faster iterations. i'd vote for the hybrid approach - improve as we build v2.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 38.38,
+          "end": 38.56
+        },
+        {
+          "word": "need",
+          "start": 38.56,
+          "end": 38.74
+        },
+        {
+          "word": "to",
+          "start": 38.74,
+          "end": 38.86
+        },
+        {
+          "word": "invest",
+          "start": 38.86,
+          "end": 39.24
+        },
+        {
+          "word": "in",
+          "start": 39.24,
+          "end": 39.4
+        },
+        {
+          "word": "developer",
+          "start": 39.4,
+          "end": 39.92
+        },
+        {
+          "word": "experience.",
+          "start": 39.92,
+          "end": 40.82
+        },
+        {
+          "word": "Clean",
+          "start": 40.94,
+          "end": 41.34
+        },
+        {
+          "word": "CLI",
+          "start": 41.34,
+          "end": 41.82
+        },
+        {
+          "word": "architecture",
+          "start": 41.82,
+          "end": 42.66
+        },
+        {
+          "word": "means",
+          "start": 42.66,
+          "end": 42.92
+        },
+        {
+          "word": "faster",
+          "start": 42.92,
+          "end": 43.34
+        },
+        {
+          "word": "iterations.",
+          "start": 43.34,
+          "end": 44.18
+        },
+        {
+          "word": "I'd",
+          "start": 44.42,
+          "end": 44.7
+        },
+        {
+          "word": "vote",
+          "start": 44.7,
+          "end": 44.92
+        },
+        {
+          "word": "for",
+          "start": 44.92,
+          "end": 45.08
+        },
+        {
+          "word": "the",
+          "start": 45.08,
+          "end": 45.18
+        },
+        {
+          "word": "hybrid",
+          "start": 45.18,
+          "end": 45.54
+        },
+        {
+          "word": "approach,",
+          "start": 45.54,
+          "end": 46.12
+        },
+        {
+          "word": "improve",
+          "start": 46.22,
+          "end": 46.54
+        },
+        {
+          "word": "as",
+          "start": 46.54,
+          "end": 46.66
+        },
+        {
+          "word": "we",
+          "start": 46.66,
+          "end": 46.74
+        },
+        {
+          "word": "build",
+          "start": 46.74,
+          "end": 46.96
+        },
+        {
+          "word": "V2.",
+          "start": 46.96,
+          "end": 47.38
+        }
+      ]
+    },
+    {
+      "start": 57.06,
+      "end": 64.9,
+      "text": "Issue #5857 points out our web UI dashboard exists but is completely undocumented. Users can't find how to interact with their agents after installation.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Issue",
+          "start": 57.06,
+          "end": 57.54
+        },
+        {
+          "word": "#5857",
+          "start": 57.54,
+          "end": 58.08
+        },
+        {
+          "word": "points",
+          "start": 58.08,
+          "end": 58.42
+        },
+        {
+          "word": "out",
+          "start": 58.42,
+          "end": 58.58
+        },
+        {
+          "word": "our",
+          "start": 58.58,
+          "end": 58.74
+        },
+        {
+          "word": "web",
+          "start": 58.74,
+          "end": 58.98
+        },
+        {
+          "word": "UI",
+          "start": 58.98,
+          "end": 59.24
+        },
+        {
+          "word": "dashboard",
+          "start": 59.24,
+          "end": 59.78
+        },
+        {
+          "word": "exists,",
+          "start": 59.78,
+          "end": 60.36
+        },
+        {
+          "word": "but",
+          "start": 60.52,
+          "end": 60.82
+        },
+        {
+          "word": "is",
+          "start": 60.82,
+          "end": 61.16
+        },
+        {
+          "word": "completely",
+          "start": 61.16,
+          "end": 61.76
+        },
+        {
+          "word": "undocumented.",
+          "start": 61.76,
+          "end": 62.7
+        },
+        {
+          "word": "Users",
+          "start": 62.88,
+          "end": 63.34
+        },
+        {
+          "word": "can't",
+          "start": 63.34,
+          "end": 63.6
+        },
+        {
+          "word": "find",
+          "start": 63.6,
+          "end": 63.84
+        },
+        {
+          "word": "how",
+          "start": 63.84,
+          "end": 64.04
+        },
+        {
+          "word": "to",
+          "start": 64.04,
+          "end": 64.14
+        },
+        {
+          "word": "interact",
+          "start": 64.14,
+          "end": 64.66
+        },
+        {
+          "word": "with",
+          "start": 64.66,
+          "end": 64.84
+        },
+        {
+          "word": "their",
+          "start": 64.84,
+          "end": 65.04
+        },
+        {
+          "word": "agents",
+          "start": 65.04,
+          "end": 65.46
+        },
+        {
+          "word": "after",
+          "start": 65.46,
+          "end": 65.82
+        },
+        {
+          "word": "installation.",
+          "start": 65.82,
+          "end": 66.52
+        }
+      ]
+    },
+    {
+      "start": 66.52,
+      "end": 71.3,
+      "text": "undocumented features might as well not exist. we're bottlenecking growth if users can't discover core functionality.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Undocumented",
+          "start": 66.7,
+          "end": 67.44
+        },
+        {
+          "word": "features",
+          "start": 67.44,
+          "end": 67.92
+        },
+        {
+          "word": "might",
+          "start": 67.92,
+          "end": 68.16
+        },
+        {
+          "word": "as",
+          "start": 68.16,
+          "end": 68.32
+        },
+        {
+          "word": "well",
+          "start": 68.32,
+          "end": 68.52
+        },
+        {
+          "word": "not",
+          "start": 68.52,
+          "end": 68.74
+        },
+        {
+          "word": "exist.",
+          "start": 68.74,
+          "end": 69.14
+        },
+        {
+          "word": "We're",
+          "start": 69.4,
+          "end": 69.72
+        },
+        {
+          "word": "bottlenecking",
+          "start": 69.72,
+          "end": 70.32
+        },
+        {
+          "word": "growth",
+          "start": 70.32,
+          "end": 70.66
+        },
+        {
+          "word": "if",
+          "start": 70.66,
+          "end": 70.8
+        },
+        {
+          "word": "users",
+          "start": 70.8,
+          "end": 71.06
+        },
+        {
+          "word": "can't",
+          "start": 71.06,
+          "end": 71.36
+        },
+        {
+          "word": "discover",
+          "start": 71.36,
+          "end": 71.86
+        },
+        {
+          "word": "core",
+          "start": 71.86,
+          "end": 72.18
+        },
+        {
+          "word": "functionality.",
+          "start": 72.18,
+          "end": 72.92
+        }
+      ]
+    },
+    {
+      "start": 72.92,
+      "end": 80.8,
+      "text": "Documentation doesn't pump token price. But users abandoning ship DUMPS it. Fix this immediately or watch liquidity evaporate.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Documentation",
+          "start": 73.18,
+          "end": 73.96
+        },
+        {
+          "word": "doesn't",
+          "start": 73.96,
+          "end": 74.26
+        },
+        {
+          "word": "pump",
+          "start": 74.26,
+          "end": 74.6
+        },
+        {
+          "word": "token",
+          "start": 74.6,
+          "end": 74.96
+        },
+        {
+          "word": "price,",
+          "start": 74.96,
+          "end": 75.36
+        },
+        {
+          "word": "but",
+          "start": 75.52,
+          "end": 75.82
+        },
+        {
+          "word": "users",
+          "start": 75.82,
+          "end": 76.22
+        },
+        {
+          "word": "abandoning",
+          "start": 76.22,
+          "end": 76.82
+        },
+        {
+          "word": "ship",
+          "start": 76.82,
+          "end": 77.16
+        },
+        {
+          "word": "dumps",
+          "start": 77.16,
+          "end": 77.52
+        },
+        {
+          "word": "it.",
+          "start": 77.52,
+          "end": 77.68
+        },
+        {
+          "word": "Fix",
+          "start": 78.02,
+          "end": 78.36
+        },
+        {
+          "word": "this",
+          "start": 78.36,
+          "end": 78.58
+        },
+        {
+          "word": "immediately",
+          "start": 78.58,
+          "end": 79.22
+        },
+        {
+          "word": "or",
+          "start": 79.22,
+          "end": 79.46
+        },
+        {
+          "word": "watch",
+          "start": 79.46,
+          "end": 79.82
+        },
+        {
+          "word": "liquidity",
+          "start": 79.82,
+          "end": 80.36
+        },
+        {
+          "word": "evaporate.",
+          "start": 80.36,
+          "end": 80.96
+        }
+      ]
+    },
+    {
+      "start": 80.96,
+      "end": 89.44,
+      "text": "The greatest products explain themselves. Our dashboard URL is buried in 108 lines of logs - classic engineer-brain thinking. Users don't read logs!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 81.3,
+          "end": 81.42
+        },
+        {
+          "word": "greatest",
+          "start": 81.42,
+          "end": 81.82
+        },
+        {
+          "word": "products",
+          "start": 81.82,
+          "end": 82.26
+        },
+        {
+          "word": "explain",
+          "start": 82.26,
+          "end": 82.72
+        },
+        {
+          "word": "themselves.",
+          "start": 82.72,
+          "end": 83.32
+        },
+        {
+          "word": "Our",
+          "start": 83.62,
+          "end": 83.82
+        },
+        {
+          "word": "dashboard",
+          "start": 83.82,
+          "end": 84.34
+        },
+        {
+          "word": "URL",
+          "start": 84.34,
+          "end": 84.78
+        },
+        {
+          "word": "is",
+          "start": 84.78,
+          "end": 85.02
+        },
+        {
+          "word": "buried",
+          "start": 85.02,
+          "end": 85.42
+        },
+        {
+          "word": "in",
+          "start": 85.42,
+          "end": 85.58
+        },
+        {
+          "word": "108",
+          "start": 85.58,
+          "end": 86.16
+        },
+        {
+          "word": "lines",
+          "start": 86.16,
+          "end": 86.54
+        },
+        {
+          "word": "of",
+          "start": 86.54,
+          "end": 86.72
+        },
+        {
+          "word": "logs.",
+          "start": 86.72,
+          "end": 87.16
+        },
+        {
+          "word": "Classic",
+          "start": 87.32,
+          "end": 87.72
+        },
+        {
+          "word": "engineer",
+          "start": 87.72,
+          "end": 88.22
+        },
+        {
+          "word": "brain",
+          "start": 88.22,
+          "end": 88.52
+        },
+        {
+          "word": "thinking.",
+          "start": 88.52,
+          "end": 89.0
+        },
+        {
+          "word": "Users",
+          "start": 89.2,
+          "end": 89.54
+        },
+        {
+          "word": "don't",
+          "start": 89.54,
+          "end": 89.84
+        },
+        {
+          "word": "read",
+          "start": 89.84,
+          "end": 90.1
+        },
+        {
+          "word": "logs.",
+          "start": 90.1,
+          "end": 90.38
+        }
+      ]
+    },
+    {
+      "start": 90.38,
+      "end": 96.0,
+      "text": "Gotta make that dashboard pop, fam! Auto-open in browser on startup. First impressions are everything in this game.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Got",
+          "start": 91.02,
+          "end": 91.24
+        },
+        {
+          "word": "to",
+          "start": 91.24,
+          "end": 91.36
+        },
+        {
+          "word": "make",
+          "start": 91.36,
+          "end": 91.56
+        },
+        {
+          "word": "that",
+          "start": 91.56,
+          "end": 91.74
+        },
+        {
+          "word": "dashboard",
+          "start": 91.74,
+          "end": 92.2
+        },
+        {
+          "word": "pop,",
+          "start": 92.2,
+          "end": 92.52
+        },
+        {
+          "word": "fam.",
+          "start": 92.52,
+          "end": 92.86
+        },
+        {
+          "word": "Auto-open",
+          "start": 93.3,
+          "end": 93.92
+        },
+        {
+          "word": "in",
+          "start": 93.92,
+          "end": 94.08
+        },
+        {
+          "word": "browser",
+          "start": 94.08,
+          "end": 94.46
+        },
+        {
+          "word": "on",
+          "start": 94.46,
+          "end": 94.62
+        },
+        {
+          "word": "startup.",
+          "start": 94.62,
+          "end": 95.12
+        },
+        {
+          "word": "First",
+          "start": 95.22,
+          "end": 95.54
+        },
+        {
+          "word": "impressions",
+          "start": 95.54,
+          "end": 96.12
+        },
+        {
+          "word": "are",
+          "start": 96.12,
+          "end": 96.34
+        },
+        {
+          "word": "everything",
+          "start": 96.34,
+          "end": 96.82
+        },
+        {
+          "word": "in",
+          "start": 96.82,
+          "end": 96.96
+        },
+        {
+          "word": "this",
+          "start": 96.96,
+          "end": 97.12
+        },
+        {
+          "word": "game.",
+          "start": 97.12,
+          "end": 97.4
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-02_JedAI-Council_The-Cli-Conundrum.json",
+    "session_log_source": "2025-09-02_JedAI-Council_The-Cli-Conundrum_session-log.json",
+    "total_segments": 11,
+    "matched_segments": 11,
+    "dialogues_in_script": 15
+  }
+}

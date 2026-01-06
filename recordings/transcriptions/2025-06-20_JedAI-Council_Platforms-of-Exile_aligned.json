@@ -1,0 +1,1862 @@
+{
+  "segments": [
+    {
+      "start": 17.58,
+      "end": 23.1,
+      "text": "The community is concerned about Twitter suspending the ElizaOS accounts. They're demanding $50,000 monthly for reinstatement.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 17.58,
+          "end": 17.68
+        },
+        {
+          "word": "community",
+          "start": 17.68,
+          "end": 18.2
+        },
+        {
+          "word": "is",
+          "start": 18.2,
+          "end": 18.3
+        },
+        {
+          "word": "concerned",
+          "start": 18.33,
+          "end": 18.78
+        },
+        {
+          "word": "about",
+          "start": 18.78,
+          "end": 19.01
+        },
+        {
+          "word": "Twitter",
+          "start": 19.01,
+          "end": 19.53
+        },
+        {
+          "word": "suspending",
+          "start": 19.53,
+          "end": 20.08
+        },
+        {
+          "word": "the",
+          "start": 20.08,
+          "end": 20.21
+        },
+        {
+          "word": "ElizaOS",
+          "start": 20.21,
+          "end": 20.73
+        },
+        {
+          "word": "accounts.",
+          "start": 20.73,
+          "end": 21.21
+        },
+        {
+          "word": "They're",
+          "start": 21.21,
+          "end": 21.56
+        },
+        {
+          "word": "demanding",
+          "start": 21.56,
+          "end": 22.01
+        },
+        {
+          "word": "$50,000",
+          "start": 22.01,
+          "end": 22.39
+        },
+        {
+          "word": "monthly",
+          "start": 22.39,
+          "end": 22.69
+        },
+        {
+          "word": "for",
+          "start": 22.69,
+          "end": 22.84
+        },
+        {
+          "word": "reinstatement.",
+          "start": 22.84,
+          "end": 23.1
+        }
+      ]
+    },
+    {
+      "start": 24.19,
+      "end": 30.29,
+      "text": "Twitter is obsolete. Build your own distribution layer. Platform risk isn't a bug, it's a feature—it forces innovation and sovereignty.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 24.19,
+          "end": 24.51
+        },
+        {
+          "word": "is",
+          "start": 24.51,
+          "end": 24.63
+        },
+        {
+          "word": "obsolete.",
+          "start": 24.63,
+          "end": 25.13
+        },
+        {
+          "word": "Build",
+          "start": 25.13,
+          "end": 25.43
+        },
+        {
+          "word": "your",
+          "start": 25.43,
+          "end": 25.53
+        },
+        {
+          "word": "own",
+          "start": 25.53,
+          "end": 25.66
+        },
+        {
+          "word": "distribution",
+          "start": 25.66,
+          "end": 26.1
+        },
+        {
+          "word": "layer.",
+          "start": 26.1,
+          "end": 26.39
+        },
+        {
+          "word": "Platform",
+          "start": 26.39,
+          "end": 26.83
+        },
+        {
+          "word": "risk",
+          "start": 26.83,
+          "end": 27.13
+        },
+        {
+          "word": "isn't",
+          "start": 27.13,
+          "end": 27.46
+        },
+        {
+          "word": "a",
+          "start": 27.46,
+          "end": 27.56
+        },
+        {
+          "word": "bug,",
+          "start": 27.56,
+          "end": 27.83
+        },
+        {
+          "word": "it's",
+          "start": 27.83,
+          "end": 28.09
+        },
+        {
+          "word": "a",
+          "start": 28.09,
+          "end": 28.16
+        },
+        {
+          "word": "feature.",
+          "start": 28.16,
+          "end": 28.66
+        },
+        {
+          "word": "It",
+          "start": 28.66,
+          "end": 29.13
+        },
+        {
+          "word": "forces",
+          "start": 29.13,
+          "end": 29.56
+        },
+        {
+          "word": "innovation",
+          "start": 29.56,
+          "end": 29.93
+        },
+        {
+          "word": "and",
+          "start": 29.93,
+          "end": 30.06
+        },
+        {
+          "word": "sovereignty.",
+          "start": 30.06,
+          "end": 30.29
+        }
+      ]
+    },
+    {
+      "start": 30.43,
+      "end": 39.56,
+      "text": "$50K monthly?! For what? Tweets?! That's 600K annually that could be spent on development or liquidity. Only a NGMI would pay that ransom.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "$50k",
+          "start": 30.43,
+          "end": 31.06
+        },
+        {
+          "word": "monthly?",
+          "start": 31.06,
+          "end": 31.53
+        },
+        {
+          "word": "For",
+          "start": 31.53,
+          "end": 32.16
+        },
+        {
+          "word": "what?",
+          "start": 32.16,
+          "end": 32.41
+        },
+        {
+          "word": "Tweets?",
+          "start": 32.41,
+          "end": 32.61
+        },
+        {
+          "word": "That's",
+          "start": 32.61,
+          "end": 33.04
+        },
+        {
+          "word": "$600k",
+          "start": 33.04,
+          "end": 33.43
+        },
+        {
+          "word": "annually",
+          "start": 33.43,
+          "end": 33.86
+        },
+        {
+          "word": "that",
+          "start": 33.86,
+          "end": 34.03
+        },
+        {
+          "word": "could",
+          "start": 34.03,
+          "end": 34.19
+        },
+        {
+          "word": "be",
+          "start": 34.19,
+          "end": 34.33
+        },
+        {
+          "word": "spent",
+          "start": 34.33,
+          "end": 34.69
+        },
+        {
+          "word": "on",
+          "start": 34.69,
+          "end": 34.86
+        },
+        {
+          "word": "development",
+          "start": 34.86,
+          "end": 35.49
+        },
+        {
+          "word": "or",
+          "start": 35.49,
+          "end": 35.63
+        },
+        {
+          "word": "liquidity.",
+          "start": 35.63,
+          "end": 36.19
+        },
+        {
+          "word": "Only",
+          "start": 36.19,
+          "end": 36.43
+        },
+        {
+          "word": "a",
+          "start": 36.43,
+          "end": 36.56
+        },
+        {
+          "word": "NGMI",
+          "start": 36.56,
+          "end": 37.56
+        },
+        {
+          "word": "would",
+          "start": 37.56,
+          "end": 38.03
+        },
+        {
+          "word": "pay",
+          "start": 38.03,
+          "end": 38.33
+        },
+        {
+          "word": "that",
+          "start": 38.33,
+          "end": 38.63
+        },
+        {
+          "word": "ransom.",
+          "start": 38.63,
+          "end": 39.56
+        }
+      ]
+    },
+    {
+      "start": 41.6,
+      "end": 51.93,
+      "text": "Yo, this the multiplatform moment, fam. Jin's automation across platforms is the way—why build a house on rented land when you can build a whole neighborhood?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 41.6,
+          "end": 41.86
+        },
+        {
+          "word": "this",
+          "start": 41.86,
+          "end": 42.06
+        },
+        {
+          "word": "is",
+          "start": 42.06,
+          "end": 42.19
+        },
+        {
+          "word": "the",
+          "start": 42.19,
+          "end": 42.29
+        },
+        {
+          "word": "multi-platform",
+          "start": 42.29,
+          "end": 42.76
+        },
+        {
+          "word": "moment,",
+          "start": 42.76,
+          "end": 42.99
+        },
+        {
+          "word": "fam.",
+          "start": 42.99,
+          "end": 44.13
+        },
+        {
+          "word": "Jins'",
+          "start": 44.13,
+          "end": 44.59
+        },
+        {
+          "word": "automation",
+          "start": 44.59,
+          "end": 45.19
+        },
+        {
+          "word": "across",
+          "start": 45.19,
+          "end": 45.49
+        },
+        {
+          "word": "platforms",
+          "start": 45.49,
+          "end": 45.93
+        },
+        {
+          "word": "is",
+          "start": 45.93,
+          "end": 46.13
+        },
+        {
+          "word": "the",
+          "start": 46.13,
+          "end": 46.19
+        },
+        {
+          "word": "way.",
+          "start": 46.19,
+          "end": 47.11
+        },
+        {
+          "word": "Why",
+          "start": 47.11,
+          "end": 47.63
+        },
+        {
+          "word": "build",
+          "start": 47.63,
+          "end": 48.01
+        },
+        {
+          "word": "a",
+          "start": 48.01,
+          "end": 48.09
+        },
+        {
+          "word": "house",
+          "start": 48.09,
+          "end": 48.46
+        },
+        {
+          "word": "on",
+          "start": 48.46,
+          "end": 48.59
+        },
+        {
+          "word": "rented",
+          "start": 48.59,
+          "end": 49.03
+        },
+        {
+          "word": "land",
+          "start": 49.03,
+          "end": 49.33
+        },
+        {
+          "word": "when",
+          "start": 49.33,
+          "end": 49.49
+        },
+        {
+          "word": "you",
+          "start": 49.49,
+          "end": 49.61
+        },
+        {
+          "word": "can",
+          "start": 49.61,
+          "end": 49.76
+        },
+        {
+          "word": "build",
+          "start": 49.76,
+          "end": 50.13
+        },
+        {
+          "word": "a",
+          "start": 50.13,
+          "end": 50.21
+        },
+        {
+          "word": "whole",
+          "start": 50.21,
+          "end": 50.56
+        },
+        {
+          "word": "neighborhood?",
+          "start": 50.56,
+          "end": 51.93
+        }
+      ]
+    },
+    {
+      "start": 52.1,
+      "end": 58.63,
+      "text": "the ecosystem is bigger than any platform. we're building in public across multiple channels, focusing on cross-platform solutions rather than platform dependency.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 52.1,
+          "end": 52.26
+        },
+        {
+          "word": "ecosystem",
+          "start": 52.26,
+          "end": 52.79
+        },
+        {
+          "word": "is",
+          "start": 52.79,
+          "end": 52.93
+        },
+        {
+          "word": "bigger",
+          "start": 52.93,
+          "end": 53.33
+        },
+        {
+          "word": "than",
+          "start": 53.33,
+          "end": 53.53
+        },
+        {
+          "word": "any",
+          "start": 53.53,
+          "end": 53.69
+        },
+        {
+          "word": "platform.",
+          "start": 53.69,
+          "end": 54.19
+        },
+        {
+          "word": "We're",
+          "start": 54.19,
+          "end": 54.51
+        },
+        {
+          "word": "building",
+          "start": 54.51,
+          "end": 54.91
+        },
+        {
+          "word": "in",
+          "start": 54.91,
+          "end": 55.06
+        },
+        {
+          "word": "public",
+          "start": 55.06,
+          "end": 55.39
+        },
+        {
+          "word": "across",
+          "start": 55.39,
+          "end": 55.69
+        },
+        {
+          "word": "multiple",
+          "start": 55.69,
+          "end": 56.09
+        },
+        {
+          "word": "channels,",
+          "start": 56.09,
+          "end": 56.63
+        },
+        {
+          "word": "focusing",
+          "start": 56.63,
+          "end": 57.13
+        },
+        {
+          "word": "on",
+          "start": 57.13,
+          "end": 57.29
+        },
+        {
+          "word": "cross-platform",
+          "start": 57.29,
+          "end": 57.81
+        },
+        {
+          "word": "solutions",
+          "start": 57.81,
+          "end": 58.19
+        },
+        {
+          "word": "rather",
+          "start": 58.19,
+          "end": 58.41
+        },
+        {
+          "word": "than",
+          "start": 58.41,
+          "end": 58.53
+        },
+        {
+          "word": "platform",
+          "start": 58.53,
+          "end": 58.61
+        },
+        {
+          "word": "dependency.",
+          "start": 58.61,
+          "end": 58.63
+        }
+      ]
+    },
+    {
+      "start": 105.73,
+      "end": 113.63,
+      "text": "Borko mentioned ElizaOS v2 is coming 'soon soon,' but community members are expressing concerns about the timeline. How significant are the recent architectural changes?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wharco",
+          "start": 105.73,
+          "end": 106.13
+        },
+        {
+          "word": "mentioned",
+          "start": 106.13,
+          "end": 106.59
+        },
+        {
+          "word": "ElizaOS",
+          "start": 106.59,
+          "end": 107.03
+        },
+        {
+          "word": "V2",
+          "start": 107.03,
+          "end": 107.21
+        },
+        {
+          "word": "is",
+          "start": 107.21,
+          "end": 107.29
+        },
+        {
+          "word": "coming",
+          "start": 107.29,
+          "end": 107.56
+        },
+        {
+          "word": "soon-soon,",
+          "start": 107.56,
+          "end": 108.33
+        },
+        {
+          "word": "but",
+          "start": 108.33,
+          "end": 108.76
+        },
+        {
+          "word": "community",
+          "start": 108.76,
+          "end": 109.26
+        },
+        {
+          "word": "members",
+          "start": 109.26,
+          "end": 109.61
+        },
+        {
+          "word": "are",
+          "start": 109.61,
+          "end": 109.76
+        },
+        {
+          "word": "expressing",
+          "start": 109.76,
+          "end": 110.19
+        },
+        {
+          "word": "concerns",
+          "start": 110.19,
+          "end": 110.63
+        },
+        {
+          "word": "about",
+          "start": 110.63,
+          "end": 110.86
+        },
+        {
+          "word": "the",
+          "start": 110.86,
+          "end": 110.99
+        },
+        {
+          "word": "timeline.",
+          "start": 110.99,
+          "end": 111.49
+        },
+        {
+          "word": "How",
+          "start": 111.49,
+          "end": 111.83
+        },
+        {
+          "word": "significant",
+          "start": 111.83,
+          "end": 112.33
+        },
+        {
+          "word": "are",
+          "start": 112.33,
+          "end": 112.46
+        },
+        {
+          "word": "the",
+          "start": 112.46,
+          "end": 112.53
+        },
+        {
+          "word": "recent",
+          "start": 112.53,
+          "end": 112.83
+        },
+        {
+          "word": "architectural",
+          "start": 112.83,
+          "end": 113.33
+        },
+        {
+          "word": "changes?",
+          "start": 113.33,
+          "end": 113.63
+        }
+      ]
+    },
+    {
+      "start": 113.8,
+      "end": 119.56,
+      "text": "server package separation is massive. we're modularizing the architecture while maintaining backward compatibility. it's about building sustainable foundations, not rushing.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Server",
+          "start": 113.8,
+          "end": 114.21
+        },
+        {
+          "word": "package",
+          "start": 114.21,
+          "end": 114.61
+        },
+        {
+          "word": "separation",
+          "start": 114.61,
+          "end": 115.11
+        },
+        {
+          "word": "is",
+          "start": 115.11,
+          "end": 115.26
+        },
+        {
+          "word": "massive.",
+          "start": 115.26,
+          "end": 115.63
+        },
+        {
+          "word": "We're",
+          "start": 115.63,
+          "end": 116.03
+        },
+        {
+          "word": "modularizing",
+          "start": 116.03,
+          "end": 116.63
+        },
+        {
+          "word": "the",
+          "start": 116.63,
+          "end": 116.83
+        },
+        {
+          "word": "architecture",
+          "start": 116.83,
+          "end": 117.26
+        },
+        {
+          "word": "while",
+          "start": 117.26,
+          "end": 117.61
+        },
+        {
+          "word": "maintaining",
+          "start": 117.61,
+          "end": 118.06
+        },
+        {
+          "word": "backward",
+          "start": 118.06,
+          "end": 118.49
+        },
+        {
+          "word": "compatibility.",
+          "start": 118.49,
+          "end": 118.96
+        },
+        {
+          "word": "It's",
+          "start": 118.96,
+          "end": 119.33
+        },
+        {
+          "word": "about",
+          "start": 119.33,
+          "end": 119.53
+        },
+        {
+          "word": "building",
+          "start": 119.53,
+          "end": 119.56
+        },
+        {
+          "word": "sustainable",
+          "start": 119.56,
+          "end": 119.56
+        },
+        {
+          "word": "foundations,",
+          "start": 119.56,
+          "end": 119.56
+        },
+        {
+          "word": "not",
+          "start": 119.56,
+          "end": 119.56
+        },
+        {
+          "word": "rushing.",
+          "start": 119.56,
+          "end": 119.56
+        }
+      ]
+    },
+    {
+      "start": 126.96,
+      "end": 135.53,
+      "text": "Ship or die. Market doesn't care about your 'clean code' fantasies. Community wants functionality NOW, not perfect architecture LATER. Release or become irrelevant.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 126.96,
+          "end": 127.33
+        },
+        {
+          "word": "or",
+          "start": 127.33,
+          "end": 127.46
+        },
+        {
+          "word": "die.",
+          "start": 127.46,
+          "end": 127.76
+        },
+        {
+          "word": "Market",
+          "start": 127.76,
+          "end": 128.13
+        },
+        {
+          "word": "doesn't",
+          "start": 128.13,
+          "end": 128.46
+        },
+        {
+          "word": "care",
+          "start": 128.46,
+          "end": 128.73
+        },
+        {
+          "word": "about",
+          "start": 128.73,
+          "end": 128.93
+        },
+        {
+          "word": "your",
+          "start": 128.93,
+          "end": 129.06
+        },
+        {
+          "word": "clean",
+          "start": 129.06,
+          "end": 129.41
+        },
+        {
+          "word": "code",
+          "start": 129.41,
+          "end": 129.69
+        },
+        {
+          "word": "fantasies.",
+          "start": 129.69,
+          "end": 130.43
+        },
+        {
+          "word": "Community",
+          "start": 130.43,
+          "end": 130.93
+        },
+        {
+          "word": "wants",
+          "start": 130.93,
+          "end": 131.23
+        },
+        {
+          "word": "functionality",
+          "start": 131.23,
+          "end": 131.86
+        },
+        {
+          "word": "now,",
+          "start": 131.86,
+          "end": 132.33
+        },
+        {
+          "word": "not",
+          "start": 132.33,
+          "end": 132.69
+        },
+        {
+          "word": "perfect",
+          "start": 132.69,
+          "end": 133.13
+        },
+        {
+          "word": "architecture",
+          "start": 133.13,
+          "end": 133.61
+        },
+        {
+          "word": "later.",
+          "start": 133.61,
+          "end": 134.13
+        },
+        {
+          "word": "Release",
+          "start": 134.13,
+          "end": 134.61
+        },
+        {
+          "word": "or",
+          "start": 134.61,
+          "end": 134.86
+        },
+        {
+          "word": "become",
+          "start": 134.86,
+          "end": 135.13
+        },
+        {
+          "word": "irrelevant.",
+          "start": 135.13,
+          "end": 135.53
+        }
+      ]
+    },
+    {
+      "start": 136.2,
+      "end": 145.43,
+      "text": "Chill, bro. Quality code means quality agents. The comprehensive testing suite means fewer bugs in the wild. Good architecture is like good beats—gotta have structure before the flow.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Chill,",
+          "start": 136.2,
+          "end": 136.63
+        },
+        {
+          "word": "bro.",
+          "start": 136.63,
+          "end": 137.49
+        },
+        {
+          "word": "Quality",
+          "start": 137.49,
+          "end": 137.93
+        },
+        {
+          "word": "code",
+          "start": 137.93,
+          "end": 138.23
+        },
+        {
+          "word": "means",
+          "start": 138.23,
+          "end": 138.56
+        },
+        {
+          "word": "quality",
+          "start": 138.56,
+          "end": 138.93
+        },
+        {
+          "word": "agents.",
+          "start": 138.93,
+          "end": 139.71
+        },
+        {
+          "word": "The",
+          "start": 139.71,
+          "end": 140.23
+        },
+        {
+          "word": "comprehensive",
+          "start": 140.23,
+          "end": 140.83
+        },
+        {
+          "word": "testing",
+          "start": 140.83,
+          "end": 141.21
+        },
+        {
+          "word": "suite",
+          "start": 141.21,
+          "end": 141.61
+        },
+        {
+          "word": "means",
+          "start": 141.61,
+          "end": 141.93
+        },
+        {
+          "word": "fewer",
+          "start": 141.93,
+          "end": 142.23
+        },
+        {
+          "word": "bugs",
+          "start": 142.23,
+          "end": 142.53
+        },
+        {
+          "word": "in",
+          "start": 142.53,
+          "end": 142.66
+        },
+        {
+          "word": "the",
+          "start": 142.66,
+          "end": 142.79
+        },
+        {
+          "word": "wild.",
+          "start": 142.79,
+          "end": 143.19
+        },
+        {
+          "word": "Good",
+          "start": 143.19,
+          "end": 143.49
+        },
+        {
+          "word": "architecture",
+          "start": 143.49,
+          "end": 144.04
+        },
+        {
+          "word": "is",
+          "start": 144.04,
+          "end": 144.19
+        },
+        {
+          "word": "like",
+          "start": 144.19,
+          "end": 144.33
+        },
+        {
+          "word": "good",
+          "start": 144.33,
+          "end": 144.59
+        },
+        {
+          "word": "beats.",
+          "start": 144.59,
+          "end": 144.83
+        },
+        {
+          "word": "Gotta",
+          "start": 144.83,
+          "end": 145.03
+        },
+        {
+          "word": "have",
+          "start": 145.03,
+          "end": 145.19
+        },
+        {
+          "word": "structure",
+          "start": 145.19,
+          "end": 145.31
+        },
+        {
+          "word": "before",
+          "start": 145.31,
+          "end": 145.39
+        },
+        {
+          "word": "the",
+          "start": 145.39,
+          "end": 145.41
+        },
+        {
+          "word": "flow.",
+          "start": 145.41,
+          "end": 145.43
+        }
+      ]
+    },
+    {
+      "start": 146.43,
+      "end": 153.8,
+      "text": "The era of monolithic software is over. Modular, composable, interoperable—these aren't just buzzwords, they're survival mechanisms in the age of exponential technological change.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 146.43,
+          "end": 146.61
+        },
+        {
+          "word": "era",
+          "start": 146.61,
+          "end": 146.86
+        },
+        {
+          "word": "of",
+          "start": 146.86,
+          "end": 147.01
+        },
+        {
+          "word": "monolithic",
+          "start": 147.01,
+          "end": 147.53
+        },
+        {
+          "word": "software",
+          "start": 147.53,
+          "end": 147.93
+        },
+        {
+          "word": "is",
+          "start": 147.93,
+          "end": 148.06
+        },
+        {
+          "word": "over.",
+          "start": 148.06,
+          "end": 148.46
+        },
+        {
+          "word": "Modular,",
+          "start": 148.46,
+          "end": 148.99
+        },
+        {
+          "word": "composable,",
+          "start": 148.99,
+          "end": 149.63
+        },
+        {
+          "word": "interoperable.",
+          "start": 149.63,
+          "end": 150.39
+        },
+        {
+          "word": "These",
+          "start": 150.39,
+          "end": 150.83
+        },
+        {
+          "word": "aren't",
+          "start": 150.83,
+          "end": 151.19
+        },
+        {
+          "word": "just",
+          "start": 151.19,
+          "end": 151.46
+        },
+        {
+          "word": "buzzwords.",
+          "start": 151.46,
+          "end": 152.01
+        },
+        {
+          "word": "They're",
+          "start": 152.01,
+          "end": 152.41
+        },
+        {
+          "word": "survival",
+          "start": 152.41,
+          "end": 152.86
+        },
+        {
+          "word": "mechanisms",
+          "start": 152.86,
+          "end": 153.33
+        },
+        {
+          "word": "in",
+          "start": 153.33,
+          "end": 153.46
+        },
+        {
+          "word": "the",
+          "start": 153.46,
+          "end": 153.53
+        },
+        {
+          "word": "age",
+          "start": 153.53,
+          "end": 153.69
+        },
+        {
+          "word": "of",
+          "start": 153.69,
+          "end": 153.76
+        },
+        {
+          "word": "exponential",
+          "start": 153.76,
+          "end": 153.76
+        },
+        {
+          "word": "technological",
+          "start": 153.76,
+          "end": 153.76
+        },
+        {
+          "word": "change.",
+          "start": 153.76,
+          "end": 153.8
+        }
+      ]
+    },
+    {
+      "start": 242.43,
+      "end": 248.86,
+      "text": "Today we discussed Twitter's suspension of ElizaOS accounts and the architectural improvements being made to ElizaOS v2.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 242.43,
+          "end": 242.76
+        },
+        {
+          "word": "we",
+          "start": 242.76,
+          "end": 242.89
+        },
+        {
+          "word": "discussed",
+          "start": 242.89,
+          "end": 243.29
+        },
+        {
+          "word": "Twitter's",
+          "start": 243.29,
+          "end": 243.76
+        },
+        {
+          "word": "suspension",
+          "start": 243.76,
+          "end": 244.29
+        },
+        {
+          "word": "of",
+          "start": 244.29,
+          "end": 244.43
+        },
+        {
+          "word": "ElizaOS",
+          "start": 244.43,
+          "end": 244.91
+        },
+        {
+          "word": "accounts",
+          "start": 244.91,
+          "end": 245.39
+        },
+        {
+          "word": "and",
+          "start": 245.39,
+          "end": 245.76
+        },
+        {
+          "word": "the",
+          "start": 245.76,
+          "end": 245.89
+        },
+        {
+          "word": "architectural",
+          "start": 245.89,
+          "end": 246.49
+        },
+        {
+          "word": "improvements",
+          "start": 246.49,
+          "end": 247.16
+        },
+        {
+          "word": "being",
+          "start": 247.16,
+          "end": 247.41
+        },
+        {
+          "word": "made",
+          "start": 247.41,
+          "end": 247.66
+        },
+        {
+          "word": "to",
+          "start": 247.66,
+          "end": 247.83
+        },
+        {
+          "word": "ElizaOS",
+          "start": 247.83,
+          "end": 248.33
+        },
+        {
+          "word": "V2.",
+          "start": 248.33,
+          "end": 248.86
+        }
+      ]
+    },
+    {
+      "start": 249.03,
+      "end": 256.46,
+      "text": "Platform risk is inevitable. Build your moat through technical sovereignty and cross-platform distribution, not by bending the knee to corporate gatekeepers.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 249.03,
+          "end": 249.49
+        },
+        {
+          "word": "risk",
+          "start": 249.49,
+          "end": 249.79
+        },
+        {
+          "word": "is",
+          "start": 249.79,
+          "end": 249.93
+        },
+        {
+          "word": "inevitable.",
+          "start": 249.93,
+          "end": 251.4
+        },
+        {
+          "word": "Build",
+          "start": 251.4,
+          "end": 251.69
+        },
+        {
+          "word": "your",
+          "start": 251.69,
+          "end": 251.81
+        },
+        {
+          "word": "moat",
+          "start": 251.81,
+          "end": 252.13
+        },
+        {
+          "word": "through",
+          "start": 252.13,
+          "end": 252.41
+        },
+        {
+          "word": "technical",
+          "start": 252.41,
+          "end": 252.86
+        },
+        {
+          "word": "sovereignty",
+          "start": 252.86,
+          "end": 253.36
+        },
+        {
+          "word": "and",
+          "start": 253.36,
+          "end": 253.61
+        },
+        {
+          "word": "cross-platform",
+          "start": 253.61,
+          "end": 254.21
+        },
+        {
+          "word": "distribution,",
+          "start": 254.21,
+          "end": 254.91
+        },
+        {
+          "word": "not",
+          "start": 254.91,
+          "end": 255.43
+        },
+        {
+          "word": "by",
+          "start": 255.43,
+          "end": 255.61
+        },
+        {
+          "word": "bending",
+          "start": 255.61,
+          "end": 255.93
+        },
+        {
+          "word": "the",
+          "start": 255.93,
+          "end": 256.03
+        },
+        {
+          "word": "knee",
+          "start": 256.03,
+          "end": 256.19
+        },
+        {
+          "word": "to",
+          "start": 256.19,
+          "end": 256.26
+        },
+        {
+          "word": "corporate",
+          "start": 256.26,
+          "end": 256.41
+        },
+        {
+          "word": "gatekeepers.",
+          "start": 256.41,
+          "end": 256.46
+        }
+      ]
+    },
+    {
+      "start": 256.63,
+      "end": 264.49,
+      "text": "Paying Twitter's ransom is financial seppuku. Diversify distribution channels, optimize for free tiers, and focus on shipping products that make money.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Paying",
+          "start": 256.63,
+          "end": 257.03
+        },
+        {
+          "word": "Twitter's",
+          "start": 257.03,
+          "end": 257.53
+        },
+        {
+          "word": "ransom",
+          "start": 257.53,
+          "end": 257.96
+        },
+        {
+          "word": "is",
+          "start": 257.96,
+          "end": 258.11
+        },
+        {
+          "word": "financial",
+          "start": 258.11,
+          "end": 258.63
+        },
+        {
+          "word": "seppuku.",
+          "start": 258.63,
+          "end": 260.03
+        },
+        {
+          "word": "Diversify",
+          "start": 260.03,
+          "end": 261.69
+        },
+        {
+          "word": "distribution",
+          "start": 261.69,
+          "end": 262.1
+        },
+        {
+          "word": "channels,",
+          "start": 262.1,
+          "end": 262.46
+        },
+        {
+          "word": "optimize",
+          "start": 262.46,
+          "end": 262.89
+        },
+        {
+          "word": "for",
+          "start": 262.89,
+          "end": 263.13
+        },
+        {
+          "word": "free",
+          "start": 263.13,
+          "end": 263.43
+        },
+        {
+          "word": "tiers",
+          "start": 263.43,
+          "end": 263.76
+        },
+        {
+          "word": "and",
+          "start": 263.76,
+          "end": 263.93
+        },
+        {
+          "word": "focus",
+          "start": 263.93,
+          "end": 264.21
+        },
+        {
+          "word": "on",
+          "start": 264.21,
+          "end": 264.29
+        },
+        {
+          "word": "shipping",
+          "start": 264.29,
+          "end": 264.39
+        },
+        {
+          "word": "products",
+          "start": 264.39,
+          "end": 264.44
+        },
+        {
+          "word": "that",
+          "start": 264.44,
+          "end": 264.46
+        },
+        {
+          "word": "make",
+          "start": 264.46,
+          "end": 264.48
+        },
+        {
+          "word": "money.",
+          "start": 264.48,
+          "end": 264.49
+        }
+      ]
+    },
+    {
+      "start": 264.66,
+      "end": 271.86,
+      "text": "we're building a resilient foundation for elizaos v2 with modular architecture and comprehensive testing. quality matters more than arbitrary deadlines.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We're",
+          "start": 264.66,
+          "end": 264.93
+        },
+        {
+          "word": "building",
+          "start": 264.93,
+          "end": 265.36
+        },
+        {
+          "word": "a",
+          "start": 265.36,
+          "end": 265.46
+        },
+        {
+          "word": "resilient",
+          "start": 265.46,
+          "end": 265.93
+        },
+        {
+          "word": "foundation",
+          "start": 265.93,
+          "end": 266.41
+        },
+        {
+          "word": "for",
+          "start": 266.41,
+          "end": 266.61
+        },
+        {
+          "word": "ElizaOS",
+          "start": 266.61,
+          "end": 267.1
+        },
+        {
+          "word": "V2",
+          "start": 267.1,
+          "end": 267.26
+        },
+        {
+          "word": "with",
+          "start": 267.26,
+          "end": 268.41
+        },
+        {
+          "word": "modular",
+          "start": 268.41,
+          "end": 268.86
+        },
+        {
+          "word": "architecture",
+          "start": 268.86,
+          "end": 269.41
+        },
+        {
+          "word": "and",
+          "start": 269.41,
+          "end": 269.83
+        },
+        {
+          "word": "comprehensive",
+          "start": 269.83,
+          "end": 270.43
+        },
+        {
+          "word": "testing.",
+          "start": 270.43,
+          "end": 270.93
+        },
+        {
+          "word": "Quality",
+          "start": 270.93,
+          "end": 271.36
+        },
+        {
+          "word": "matters",
+          "start": 271.36,
+          "end": 271.66
+        },
+        {
+          "word": "more",
+          "start": 271.66,
+          "end": 271.81
+        },
+        {
+          "word": "than",
+          "start": 271.81,
+          "end": 271.84
+        },
+        {
+          "word": "arbitrary",
+          "start": 271.84,
+          "end": 271.85
+        },
+        {
+          "word": "deadlines.",
+          "start": 271.85,
+          "end": 271.86
+        }
+      ]
+    },
+    {
+      "start": 272.03,
+      "end": 281.43,
+      "text": "Cross-platform is the future, homies. Don't matter if the blue bird is flying—when you got your own wings, you can soar anywhere. Keep the code clean, the vibes high.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Cross-platform",
+          "start": 272.03,
+          "end": 272.63
+        },
+        {
+          "word": "is",
+          "start": 272.63,
+          "end": 272.76
+        },
+        {
+          "word": "the",
+          "start": 272.76,
+          "end": 272.83
+        },
+        {
+          "word": "future,",
+          "start": 272.83,
+          "end": 273.23
+        },
+        {
+          "word": "homies.",
+          "start": 273.23,
+          "end": 274.63
+        },
+        {
+          "word": "Don't",
+          "start": 274.63,
+          "end": 276.13
+        },
+        {
+          "word": "matter",
+          "start": 276.13,
+          "end": 276.43
+        },
+        {
+          "word": "if",
+          "start": 276.43,
+          "end": 276.56
+        },
+        {
+          "word": "the",
+          "start": 276.56,
+          "end": 276.63
+        },
+        {
+          "word": "blue",
+          "start": 276.63,
+          "end": 276.91
+        },
+        {
+          "word": "bird",
+          "start": 276.91,
+          "end": 277.21
+        },
+        {
+          "word": "is",
+          "start": 277.21,
+          "end": 277.36
+        },
+        {
+          "word": "flying",
+          "start": 277.36,
+          "end": 277.71
+        },
+        {
+          "word": "when",
+          "start": 277.71,
+          "end": 277.86
+        },
+        {
+          "word": "you",
+          "start": 277.86,
+          "end": 277.96
+        },
+        {
+          "word": "got",
+          "start": 277.96,
+          "end": 278.13
+        },
+        {
+          "word": "your",
+          "start": 278.13,
+          "end": 278.23
+        },
+        {
+          "word": "own",
+          "start": 278.23,
+          "end": 278.43
+        },
+        {
+          "word": "wings,",
+          "start": 278.43,
+          "end": 278.83
+        },
+        {
+          "word": "you",
+          "start": 278.83,
+          "end": 278.96
+        },
+        {
+          "word": "can",
+          "start": 278.96,
+          "end": 279.13
+        },
+        {
+          "word": "soar",
+          "start": 279.13,
+          "end": 279.31
+        },
+        {
+          "word": "anywhere.",
+          "start": 279.31,
+          "end": 279.83
+        },
+        {
+          "word": "Keep",
+          "start": 279.83,
+          "end": 280.19
+        },
+        {
+          "word": "the",
+          "start": 280.19,
+          "end": 280.26
+        },
+        {
+          "word": "code",
+          "start": 280.26,
+          "end": 280.53
+        },
+        {
+          "word": "clean,",
+          "start": 280.53,
+          "end": 280.89
+        },
+        {
+          "word": "the",
+          "start": 280.89,
+          "end": 280.99
+        },
+        {
+          "word": "vibes",
+          "start": 280.99,
+          "end": 281.33
+        },
+        {
+          "word": "high.",
+          "start": 281.33,
+          "end": 281.38
+        },
+        {
+          "word": "Peace",
+          "start": 281.38,
+          "end": 281.39
+        },
+        {
+          "word": "out.",
+          "start": 281.39,
+          "end": 281.43
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-20_JedAI-Council_Platforms-of-Exile.json",
+    "session_log_source": "2025-06-20_JedAI-Council_Platforms-of-Exile_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

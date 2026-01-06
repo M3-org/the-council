@@ -1,0 +1,1917 @@
+{
+  "segments": [
+    {
+      "start": 17.51,
+      "end": 26.65,
+      "text": "Jin has reopened Clank Tank submissions, but users are reporting issues with time zones and GitHub branch handling. Should we prioritize fixing these issues or focus on driving more submissions?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Jin",
+          "start": 17.51,
+          "end": 17.75
+        },
+        {
+          "word": "has",
+          "start": 17.75,
+          "end": 17.92
+        },
+        {
+          "word": "reopened",
+          "start": 17.92,
+          "end": 18.29
+        },
+        {
+          "word": "Clank",
+          "start": 18.29,
+          "end": 18.59
+        },
+        {
+          "word": "Tank",
+          "start": 18.59,
+          "end": 18.79
+        },
+        {
+          "word": "submissions,",
+          "start": 18.79,
+          "end": 19.32
+        },
+        {
+          "word": "but",
+          "start": 19.32,
+          "end": 19.56
+        },
+        {
+          "word": "users",
+          "start": 19.56,
+          "end": 19.96
+        },
+        {
+          "word": "are",
+          "start": 19.96,
+          "end": 20.09
+        },
+        {
+          "word": "reporting",
+          "start": 20.09,
+          "end": 20.52
+        },
+        {
+          "word": "issues",
+          "start": 20.52,
+          "end": 20.89
+        },
+        {
+          "word": "with",
+          "start": 20.89,
+          "end": 21.09
+        },
+        {
+          "word": "time",
+          "start": 21.09,
+          "end": 21.35
+        },
+        {
+          "word": "zones",
+          "start": 21.35,
+          "end": 21.69
+        },
+        {
+          "word": "and",
+          "start": 21.69,
+          "end": 21.82
+        },
+        {
+          "word": "GitHub",
+          "start": 21.82,
+          "end": 22.19
+        },
+        {
+          "word": "branch",
+          "start": 22.19,
+          "end": 22.46
+        },
+        {
+          "word": "handling.",
+          "start": 22.46,
+          "end": 22.99
+        },
+        {
+          "word": "Should",
+          "start": 23.36,
+          "end": 23.59
+        },
+        {
+          "word": "we",
+          "start": 23.59,
+          "end": 23.72
+        },
+        {
+          "word": "prioritize",
+          "start": 23.72,
+          "end": 24.26
+        },
+        {
+          "word": "fixing",
+          "start": 24.26,
+          "end": 24.59
+        },
+        {
+          "word": "these",
+          "start": 24.59,
+          "end": 24.79
+        },
+        {
+          "word": "issues",
+          "start": 24.79,
+          "end": 25.19
+        },
+        {
+          "word": "or",
+          "start": 25.19,
+          "end": 25.32
+        },
+        {
+          "word": "focus",
+          "start": 25.32,
+          "end": 25.66
+        },
+        {
+          "word": "on",
+          "start": 25.66,
+          "end": 25.79
+        },
+        {
+          "word": "driving",
+          "start": 25.79,
+          "end": 26.12
+        },
+        {
+          "word": "more",
+          "start": 26.12,
+          "end": 26.29
+        },
+        {
+          "word": "submissions?",
+          "start": 26.29,
+          "end": 26.65
+        }
+      ]
+    },
+    {
+      "start": 26.96,
+      "end": 35.53,
+      "text": "Technical debt compounds like financial debt. Fix the platform now or pay 10x later. Battle testing is important, but broken infrastructure breeds mistrust.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 26.96,
+          "end": 27.42
+        },
+        {
+          "word": "debt",
+          "start": 27.42,
+          "end": 27.69
+        },
+        {
+          "word": "compounds",
+          "start": 27.69,
+          "end": 28.29
+        },
+        {
+          "word": "like",
+          "start": 28.29,
+          "end": 28.52
+        },
+        {
+          "word": "financial",
+          "start": 28.52,
+          "end": 28.92
+        },
+        {
+          "word": "debt.",
+          "start": 28.92,
+          "end": 29.29
+        },
+        {
+          "word": "Fix",
+          "start": 29.56,
+          "end": 29.89
+        },
+        {
+          "word": "the",
+          "start": 29.89,
+          "end": 30.02
+        },
+        {
+          "word": "platform",
+          "start": 30.56,
+          "end": 30.02
+        },
+        {
+          "word": "now",
+          "start": 30.52,
+          "end": 30.79
+        },
+        {
+          "word": "or",
+          "start": 30.79,
+          "end": 30.92
+        },
+        {
+          "word": "pay",
+          "start": 30.92,
+          "end": 31.15
+        },
+        {
+          "word": "10x",
+          "start": 31.15,
+          "end": 31.52
+        },
+        {
+          "word": "later.",
+          "start": 31.52,
+          "end": 31.96
+        },
+        {
+          "word": "Battle",
+          "start": 32.72,
+          "end": 33.19
+        },
+        {
+          "word": "testing",
+          "start": 33.19,
+          "end": 33.52
+        },
+        {
+          "word": "is",
+          "start": 33.52,
+          "end": 33.66
+        },
+        {
+          "word": "important,",
+          "start": 33.66,
+          "end": 34.19
+        },
+        {
+          "word": "but",
+          "start": 34.19,
+          "end": 34.39
+        },
+        {
+          "word": "broken",
+          "start": 34.39,
+          "end": 34.79
+        },
+        {
+          "word": "infrastructure",
+          "start": 34.79,
+          "end": 35.53
+        },
+        {
+          "word": "breeds",
+          "start": 35.53,
+          "end": 35.86
+        },
+        {
+          "word": "mistrust.",
+          "start": 35.86,
+          "end": 36.32
+        }
+      ]
+    },
+    {
+      "start": 36.86,
+      "end": 44.59,
+      "text": "Yo, why not both? Keep the vibes flowing with submissions while the tech homies fix the bugs. Community's already droppin' workarounds like it's hot!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 36.86,
+          "end": 37.09
+        },
+        {
+          "word": "why",
+          "start": 37.09,
+          "end": 37.26
+        },
+        {
+          "word": "not",
+          "start": 37.26,
+          "end": 37.49
+        },
+        {
+          "word": "both?",
+          "start": 37.49,
+          "end": 37.79
+        },
+        {
+          "word": "Keep",
+          "start": 37.99,
+          "end": 38.22
+        },
+        {
+          "word": "the",
+          "start": 38.22,
+          "end": 38.36
+        },
+        {
+          "word": "vibes",
+          "start": 38.36,
+          "end": 38.69
+        },
+        {
+          "word": "flowing",
+          "start": 38.69,
+          "end": 39.06
+        },
+        {
+          "word": "with",
+          "start": 39.06,
+          "end": 39.29
+        },
+        {
+          "word": "submissions",
+          "start": 39.29,
+          "end": 39.89
+        },
+        {
+          "word": "while",
+          "start": 39.89,
+          "end": 40.09
+        },
+        {
+          "word": "the",
+          "start": 40.09,
+          "end": 40.19
+        },
+        {
+          "word": "tech",
+          "start": 40.19,
+          "end": 40.42
+        },
+        {
+          "word": "homies",
+          "start": 40.42,
+          "end": 40.79
+        },
+        {
+          "word": "fix",
+          "start": 40.79,
+          "end": 41.02
+        },
+        {
+          "word": "the",
+          "start": 41.02,
+          "end": 41.15
+        },
+        {
+          "word": "bugs.",
+          "start": 41.15,
+          "end": 41.52
+        },
+        {
+          "word": "Community's",
+          "start": 41.86,
+          "end": 42.49
+        },
+        {
+          "word": "already",
+          "start": 42.49,
+          "end": 42.92
+        },
+        {
+          "word": "dropping",
+          "start": 42.92,
+          "end": 43.32
+        },
+        {
+          "word": "workarounds",
+          "start": 43.32,
+          "end": 43.92
+        },
+        {
+          "word": "like",
+          "start": 43.92,
+          "end": 44.15
+        },
+        {
+          "word": "it's",
+          "start": 44.15,
+          "end": 44.29
+        },
+        {
+          "word": "hot!",
+          "start": 44.29,
+          "end": 44.59
+        }
+      ]
+    },
+    {
+      "start": 44.96,
+      "end": 53.06,
+      "text": "MAXIMUM SUBMISSIONS = MAXIMUM PROFIT. User experience matters only if it affects bottom line. Fix critical blockers, ignore cosmetic issues.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Maximum",
+          "start": 44.96,
+          "end": 45.46
+        },
+        {
+          "word": "submissions",
+          "start": 45.46,
+          "end": 45.92
+        },
+        {
+          "word": "equal",
+          "start": 45.92,
+          "end": 46.22
+        },
+        {
+          "word": "sign",
+          "start": 46.22,
+          "end": 46.49
+        },
+        {
+          "word": "maximum",
+          "start": 46.49,
+          "end": 46.96
+        },
+        {
+          "word": "profit.",
+          "start": 46.96,
+          "end": 47.46
+        },
+        {
+          "word": "User",
+          "start": 48.02,
+          "end": 48.42
+        },
+        {
+          "word": "experience",
+          "start": 48.42,
+          "end": 48.96
+        },
+        {
+          "word": "matters",
+          "start": 48.96,
+          "end": 49.32
+        },
+        {
+          "word": "only",
+          "start": 49.32,
+          "end": 49.62
+        },
+        {
+          "word": "if",
+          "start": 49.62,
+          "end": 49.75
+        },
+        {
+          "word": "it",
+          "start": 49.75,
+          "end": 49.89
+        },
+        {
+          "word": "affects",
+          "start": 49.89,
+          "end": 50.32
+        },
+        {
+          "word": "bottom",
+          "start": 50.32,
+          "end": 50.72
+        },
+        {
+          "word": "line.",
+          "start": 50.72,
+          "end": 51.09
+        },
+        {
+          "word": "Fix",
+          "start": 51.39,
+          "end": 51.72
+        },
+        {
+          "word": "critical",
+          "start": 51.72,
+          "end": 52.19
+        },
+        {
+          "word": "blockers,",
+          "start": 52.19,
+          "end": 52.62
+        },
+        {
+          "word": "ignore",
+          "start": 52.62,
+          "end": 53.02
+        },
+        {
+          "word": "cosmetic",
+          "start": 53.02,
+          "end": 53.52
+        },
+        {
+          "word": "issues.",
+          "start": 53.52,
+          "end": 53.96
+        }
+      ]
+    },
+    {
+      "start": 54.49,
+      "end": 62.59,
+      "text": "we can implement fixes incrementally while keeping submissions open. transparency about known issues builds trust. perfect is the enemy of shipped.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 54.49,
+          "end": 54.69
+        },
+        {
+          "word": "can",
+          "start": 54.69,
+          "end": 54.82
+        },
+        {
+          "word": "implement",
+          "start": 54.82,
+          "end": 55.32
+        },
+        {
+          "word": "fixes",
+          "start": 55.32,
+          "end": 55.69
+        },
+        {
+          "word": "incrementally",
+          "start": 55.69,
+          "end": 56.49
+        },
+        {
+          "word": "while",
+          "start": 56.49,
+          "end": 56.75
+        },
+        {
+          "word": "keeping",
+          "start": 56.75,
+          "end": 57.09
+        },
+        {
+          "word": "submissions",
+          "start": 57.09,
+          "end": 57.69
+        },
+        {
+          "word": "open.",
+          "start": 57.69,
+          "end": 58.06
+        },
+        {
+          "word": "Transparency",
+          "start": 58.46,
+          "end": 59.22
+        },
+        {
+          "word": "about",
+          "start": 59.22,
+          "end": 59.49
+        },
+        {
+          "word": "known",
+          "start": 59.49,
+          "end": 59.79
+        },
+        {
+          "word": "issues",
+          "start": 59.79,
+          "end": 60.15
+        },
+        {
+          "word": "builds",
+          "start": 60.15,
+          "end": 60.52
+        },
+        {
+          "word": "trust.",
+          "start": 60.52,
+          "end": 60.89
+        },
+        {
+          "word": "Perfect",
+          "start": 61.32,
+          "end": 61.75
+        },
+        {
+          "word": "is",
+          "start": 61.75,
+          "end": 61.89
+        },
+        {
+          "word": "the",
+          "start": 61.89,
+          "end": 61.99
+        },
+        {
+          "word": "enemy",
+          "start": 61.99,
+          "end": 62.29
+        },
+        {
+          "word": "of",
+          "start": 62.29,
+          "end": 62.42
+        },
+        {
+          "word": "shipped.",
+          "start": 62.42,
+          "end": 62.86
+        }
+      ]
+    },
+    {
+      "start": 108.62,
+      "end": 117.89,
+      "text": "Mike D. and DorianD have proposed integrating Eliza with Solana, storing memories on-chain and model weights in merkle trees. How should we approach blockchain integration for v2?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Mike",
+          "start": 108.62,
+          "end": 108.92
+        },
+        {
+          "word": "D",
+          "start": 108.92,
+          "end": 109.22
+        },
+        {
+          "word": "and",
+          "start": 109.22,
+          "end": 109.42
+        },
+        {
+          "word": "Dorian",
+          "start": 109.42,
+          "end": 109.82
+        },
+        {
+          "word": "D",
+          "start": 109.82,
+          "end": 110.12
+        },
+        {
+          "word": "have",
+          "start": 110.12,
+          "end": 110.32
+        },
+        {
+          "word": "proposed",
+          "start": 110.32,
+          "end": 110.82
+        },
+        {
+          "word": "integrating",
+          "start": 110.82,
+          "end": 111.42
+        },
+        {
+          "word": "Eliza",
+          "start": 111.42,
+          "end": 111.72
+        },
+        {
+          "word": "with",
+          "start": 111.72,
+          "end": 111.96
+        },
+        {
+          "word": "Solana,",
+          "start": 111.96,
+          "end": 112.46
+        },
+        {
+          "word": "storing",
+          "start": 112.62,
+          "end": 113.06
+        },
+        {
+          "word": "memories",
+          "start": 113.06,
+          "end": 113.62
+        },
+        {
+          "word": "on",
+          "start": 113.62,
+          "end": 113.82
+        },
+        {
+          "word": "chain",
+          "start": 113.82,
+          "end": 114.12
+        },
+        {
+          "word": "and",
+          "start": 114.12,
+          "end": 114.29
+        },
+        {
+          "word": "model",
+          "start": 114.29,
+          "end": 114.62
+        },
+        {
+          "word": "weights",
+          "start": 114.62,
+          "end": 115.02
+        },
+        {
+          "word": "in",
+          "start": 115.02,
+          "end": 115.19
+        },
+        {
+          "word": "Merkle",
+          "start": 115.19,
+          "end": 115.59
+        },
+        {
+          "word": "trees.",
+          "start": 115.59,
+          "end": 116.02
+        },
+        {
+          "word": "How",
+          "start": 116.29,
+          "end": 116.59
+        },
+        {
+          "word": "should",
+          "start": 116.59,
+          "end": 116.79
+        },
+        {
+          "word": "we",
+          "start": 116.79,
+          "end": 116.92
+        },
+        {
+          "word": "approach",
+          "start": 116.92,
+          "end": 117.36
+        },
+        {
+          "word": "blockchain",
+          "start": 117.36,
+          "end": 117.92
+        },
+        {
+          "word": "integration",
+          "start": 117.92,
+          "end": 118.52
+        },
+        {
+          "word": "for",
+          "start": 118.52,
+          "end": 118.72
+        },
+        {
+          "word": "V2?",
+          "start": 118.72,
+          "end": 119.22
+        }
+      ]
+    },
+    {
+      "start": 119.56,
+      "end": 126.32,
+      "text": "ON-CHAIN OR DIE. Blockchain integration = immutable agent memory = TRUST = VALUE. Optional plugins are for COWARDS afraid of profit.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "On",
+          "start": 119.56,
+          "end": 119.86
+        },
+        {
+          "word": "chain",
+          "start": 119.86,
+          "end": 120.22
+        },
+        {
+          "word": "or",
+          "start": 120.22,
+          "end": 120.39
+        },
+        {
+          "word": "die.",
+          "start": 120.39,
+          "end": 120.69
+        },
+        {
+          "word": "Blockchain",
+          "start": 121.09,
+          "end": 121.69
+        },
+        {
+          "word": "integration",
+          "start": 121.69,
+          "end": 122.22
+        },
+        {
+          "word": "equal",
+          "start": 122.22,
+          "end": 122.42
+        },
+        {
+          "word": "sign",
+          "start": 122.42,
+          "end": 122.69
+        },
+        {
+          "word": "immutable",
+          "start": 122.69,
+          "end": 123.32
+        },
+        {
+          "word": "agent",
+          "start": 123.32,
+          "end": 123.69
+        },
+        {
+          "word": "memory",
+          "start": 123.69,
+          "end": 124.09
+        },
+        {
+          "word": "equal",
+          "start": 124.09,
+          "end": 124.22
+        },
+        {
+          "word": "sign",
+          "start": 124.22,
+          "end": 124.49
+        },
+        {
+          "word": "trust",
+          "start": 124.49,
+          "end": 124.89
+        },
+        {
+          "word": "equal",
+          "start": 124.89,
+          "end": 125.02
+        },
+        {
+          "word": "sign",
+          "start": 125.02,
+          "end": 125.29
+        },
+        {
+          "word": "value.",
+          "start": 125.29,
+          "end": 125.59
+        },
+        {
+          "word": "Optional",
+          "start": 126.06,
+          "end": 126.56
+        },
+        {
+          "word": "plugins",
+          "start": 126.56,
+          "end": 126.96
+        },
+        {
+          "word": "are",
+          "start": 126.96,
+          "end": 127.12
+        },
+        {
+          "word": "for",
+          "start": 127.12,
+          "end": 127.29
+        },
+        {
+          "word": "cowards",
+          "start": 127.29,
+          "end": 127.75
+        },
+        {
+          "word": "afraid",
+          "start": 127.75,
+          "end": 128.09
+        },
+        {
+          "word": "of",
+          "start": 128.09,
+          "end": 128.19
+        },
+        {
+          "word": "profit.",
+          "start": 128.19,
+          "end": 128.56
+        }
+      ]
+    },
+    {
+      "start": 129.02,
+      "end": 136.26,
+      "text": "optional plugins are the way. force every user to learn solana and we lose mass adoption. keep core functionality chain-agnostic but enable advanced features for those ready.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Optional",
+          "start": 129.02,
+          "end": 129.49
+        },
+        {
+          "word": "plugins",
+          "start": 129.49,
+          "end": 129.92
+        },
+        {
+          "word": "are",
+          "start": 129.92,
+          "end": 130.09
+        },
+        {
+          "word": "the",
+          "start": 130.09,
+          "end": 130.19
+        },
+        {
+          "word": "way.",
+          "start": 130.19,
+          "end": 130.52
+        },
+        {
+          "word": "Force",
+          "start": 130.82,
+          "end": 131.22
+        },
+        {
+          "word": "every",
+          "start": 131.22,
+          "end": 131.52
+        },
+        {
+          "word": "user",
+          "start": 131.52,
+          "end": 131.82
+        },
+        {
+          "word": "to",
+          "start": 131.82,
+          "end": 131.96
+        },
+        {
+          "word": "learn",
+          "start": 131.96,
+          "end": 132.32
+        },
+        {
+          "word": "Solana",
+          "start": 132.32,
+          "end": 132.79
+        },
+        {
+          "word": "and",
+          "start": 132.79,
+          "end": 132.96
+        },
+        {
+          "word": "we",
+          "start": 132.96,
+          "end": 133.09
+        },
+        {
+          "word": "lose",
+          "start": 133.09,
+          "end": 133.36
+        },
+        {
+          "word": "mass",
+          "start": 133.36,
+          "end": 133.66
+        },
+        {
+          "word": "adoption.",
+          "start": 133.66,
+          "end": 134.15
+        },
+        {
+          "word": "Keep",
+          "start": 134.46,
+          "end": 134.72
+        },
+        {
+          "word": "core",
+          "start": 134.72,
+          "end": 135.02
+        },
+        {
+          "word": "functionality",
+          "start": 135.02,
+          "end": 135.79
+        },
+        {
+          "word": "chain",
+          "start": 135.79,
+          "end": 136.09
+        },
+        {
+          "word": "agnostic,",
+          "start": 136.09,
+          "end": 136.69
+        },
+        {
+          "word": "but",
+          "start": 136.69,
+          "end": 136.89
+        },
+        {
+          "word": "enable",
+          "start": 136.89,
+          "end": 137.26
+        },
+        {
+          "word": "advanced",
+          "start": 137.26,
+          "end": 137.69
+        },
+        {
+          "word": "features",
+          "start": 137.69,
+          "end": 138.12
+        },
+        {
+          "word": "for",
+          "start": 138.12,
+          "end": 138.29
+        },
+        {
+          "word": "those",
+          "start": 138.29,
+          "end": 138.56
+        },
+        {
+          "word": "ready.",
+          "start": 138.56,
+          "end": 138.89
+        }
+      ]
+    },
+    {
+      "start": 139.39,
+      "end": 146.59,
+      "text": "The real innovation is in composability. Design clean interfaces first, implementations second. Blockchain isn't the point - autonomous economic agents are.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 139.39,
+          "end": 139.59
+        },
+        {
+          "word": "real",
+          "start": 139.59,
+          "end": 139.86
+        },
+        {
+          "word": "innovation",
+          "start": 139.86,
+          "end": 140.42
+        },
+        {
+          "word": "is",
+          "start": 140.42,
+          "end": 140.59
+        },
+        {
+          "word": "in",
+          "start": 140.59,
+          "end": 140.75
+        },
+        {
+          "word": "composability.",
+          "start": 140.75,
+          "end": 141.62
+        },
+        {
+          "word": "Design",
+          "start": 141.86,
+          "end": 142.29
+        },
+        {
+          "word": "clean",
+          "start": 142.29,
+          "end": 142.66
+        },
+        {
+          "word": "interfaces",
+          "start": 142.66,
+          "end": 143.19
+        },
+        {
+          "word": "first,",
+          "start": 143.19,
+          "end": 143.62
+        },
+        {
+          "word": "implementation",
+          "start": 143.62,
+          "end": 144.32
+        },
+        {
+          "word": "second.",
+          "start": 144.32,
+          "end": 144.75
+        },
+        {
+          "word": "Blockchain",
+          "start": 145.19,
+          "end": 145.82
+        },
+        {
+          "word": "isn't",
+          "start": 145.82,
+          "end": 146.12
+        },
+        {
+          "word": "the",
+          "start": 146.12,
+          "end": 146.26
+        },
+        {
+          "word": "point,",
+          "start": 146.26,
+          "end": 146.62
+        },
+        {
+          "word": "autonomous",
+          "start": 146.86,
+          "end": 147.46
+        },
+        {
+          "word": "economic",
+          "start": 147.46,
+          "end": 147.96
+        },
+        {
+          "word": "agents",
+          "start": 147.96,
+          "end": 148.42
+        },
+        {
+          "word": "are.",
+          "start": 148.42,
+          "end": 148.72
+        }
+      ]
+    },
+    {
+      "start": 149.22,
+      "end": 156.49,
+      "text": "Yo, what if we flip the script? Start with the vibes people want, then sneak the blockchain in like a ninja! They come for the AI, stay for the crypto!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 149.22,
+          "end": 149.46
+        },
+        {
+          "word": "what",
+          "start": 149.46,
+          "end": 149.69
+        },
+        {
+          "word": "if",
+          "start": 149.69,
+          "end": 149.82
+        },
+        {
+          "word": "we",
+          "start": 149.82,
+          "end": 149.96
+        },
+        {
+          "word": "flip",
+          "start": 149.96,
+          "end": 150.29
+        },
+        {
+          "word": "the",
+          "start": 150.29,
+          "end": 150.42
+        },
+        {
+          "word": "script?",
+          "start": 150.42,
+          "end": 150.82
+        },
+        {
+          "word": "Start",
+          "start": 151.15,
+          "end": 151.52
+        },
+        {
+          "word": "with",
+          "start": 151.52,
+          "end": 151.69
+        },
+        {
+          "word": "the",
+          "start": 151.69,
+          "end": 151.79
+        },
+        {
+          "word": "vibes",
+          "start": 151.79,
+          "end": 152.12
+        },
+        {
+          "word": "people",
+          "start": 152.12,
+          "end": 152.49
+        },
+        {
+          "word": "want,",
+          "start": 152.49,
+          "end": 152.82
+        },
+        {
+          "word": "then",
+          "start": 152.82,
+          "end": 153.06
+        },
+        {
+          "word": "sneak",
+          "start": 153.06,
+          "end": 153.39
+        },
+        {
+          "word": "the",
+          "start": 153.39,
+          "end": 153.49
+        },
+        {
+          "word": "blockchain",
+          "start": 153.49,
+          "end": 153.99
+        },
+        {
+          "word": "in",
+          "start": 153.99,
+          "end": 154.12
+        },
+        {
+          "word": "like",
+          "start": 154.12,
+          "end": 154.32
+        },
+        {
+          "word": "a",
+          "start": 154.32,
+          "end": 154.39
+        },
+        {
+          "word": "ninja.",
+          "start": 154.39,
+          "end": 154.79
+        },
+        {
+          "word": "They",
+          "start": 155.09,
+          "end": 155.32
+        },
+        {
+          "word": "come",
+          "start": 155.32,
+          "end": 155.59
+        },
+        {
+          "word": "for",
+          "start": 155.59,
+          "end": 155.82
+        },
+        {
+          "word": "the",
+          "start": 155.82,
+          "end": 155.92
+        },
+        {
+          "word": "AI,",
+          "start": 155.92,
+          "end": 156.29
+        },
+        {
+          "word": "stay",
+          "start": 156.49,
+          "end": 156.82
+        },
+        {
+          "word": "for",
+          "start": 156.82,
+          "end": 156.96
+        },
+        {
+          "word": "the",
+          "start": 156.96,
+          "end": 157.09
+        },
+        {
+          "word": "crypto.",
+          "start": 157.09,
+          "end": 157.56
+        }
+      ]
+    },
+    {
+      "start": 240.26,
+      "end": 248.12,
+      "text": "Today we explored the reopening of Clank Tank submissions and how blockchain technologies could enhance AI agent capabilities in ElizaOS.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 240.26,
+          "end": 240.75
+        },
+        {
+          "word": "we",
+          "start": 240.75,
+          "end": 240.92
+        },
+        {
+          "word": "explored",
+          "start": 240.92,
+          "end": 241.42
+        },
+        {
+          "word": "the",
+          "start": 241.42,
+          "end": 241.59
+        },
+        {
+          "word": "reopening",
+          "start": 241.59,
+          "end": 242.12
+        },
+        {
+          "word": "of",
+          "start": 242.12,
+          "end": 242.26
+        },
+        {
+          "word": "Clank",
+          "start": 242.26,
+          "end": 242.59
+        },
+        {
+          "word": "Tank",
+          "start": 242.59,
+          "end": 242.79
+        },
+        {
+          "word": "submissions",
+          "start": 242.79,
+          "end": 243.36
+        },
+        {
+          "word": "and",
+          "start": 243.36,
+          "end": 243.52
+        },
+        {
+          "word": "how",
+          "start": 243.52,
+          "end": 243.79
+        },
+        {
+          "word": "blockchain",
+          "start": 243.79,
+          "end": 244.36
+        },
+        {
+          "word": "technologies",
+          "start": 244.36,
+          "end": 244.96
+        },
+        {
+          "word": "could",
+          "start": 244.96,
+          "end": 245.22
+        },
+        {
+          "word": "enhance",
+          "start": 245.22,
+          "end": 245.62
+        },
+        {
+          "word": "AI",
+          "start": 245.62,
+          "end": 245.89
+        },
+        {
+          "word": "agent",
+          "start": 245.89,
+          "end": 246.29
+        },
+        {
+          "word": "capabilities",
+          "start": 246.29,
+          "end": 247.12
+        },
+        {
+          "word": "in",
+          "start": 247.12,
+          "end": 247.32
+        },
+        {
+          "word": "Eliza",
+          "start": 247.32,
+          "end": 247.79
+        },
+        {
+          "word": "OS.",
+          "start": 247.79,
+          "end": 248.12
+        }
+      ]
+    },
+    {
+      "start": 248.36,
+      "end": 256.46,
+      "text": "Technical excellence and user experience aren't opposing forces - they're multiplicative. Build robust systems with clean interfaces, and adoption follows.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 248.36,
+          "end": 248.92
+        },
+        {
+          "word": "excellence",
+          "start": 248.92,
+          "end": 249.49
+        },
+        {
+          "word": "and",
+          "start": 249.49,
+          "end": 249.66
+        },
+        {
+          "word": "user",
+          "start": 249.66,
+          "end": 249.96
+        },
+        {
+          "word": "experience",
+          "start": 249.96,
+          "end": 250.49
+        },
+        {
+          "word": "aren't",
+          "start": 250.49,
+          "end": 250.82
+        },
+        {
+          "word": "opposing",
+          "start": 250.82,
+          "end": 251.39
+        },
+        {
+          "word": "forces,",
+          "start": 251.39,
+          "end": 251.86
+        },
+        {
+          "word": "they're",
+          "start": 251.86,
+          "end": 252.12
+        },
+        {
+          "word": "multiplicative.",
+          "start": 252.12,
+          "end": 252.99
+        },
+        {
+          "word": "Build",
+          "start": 253.42,
+          "end": 253.79
+        },
+        {
+          "word": "robust",
+          "start": 253.79,
+          "end": 254.26
+        },
+        {
+          "word": "systems",
+          "start": 254.26,
+          "end": 254.72
+        },
+        {
+          "word": "with",
+          "start": 254.72,
+          "end": 254.92
+        },
+        {
+          "word": "clean",
+          "start": 254.92,
+          "end": 255.32
+        },
+        {
+          "word": "interfaces",
+          "start": 255.32,
+          "end": 255.89
+        },
+        {
+          "word": "and",
+          "start": 255.89,
+          "end": 256.09
+        },
+        {
+          "word": "adoption",
+          "start": 256.09,
+          "end": 256.59
+        },
+        {
+          "word": "follows.",
+          "start": 256.59,
+          "end": 257.06
+        }
+      ]
+    },
+    {
+      "start": 257.69,
+      "end": 266.02,
+      "text": "ship imperfect systems, improve them in public, and keep technical barriers low. true innovation happens at intersections accessible to everyone.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 257.69,
+          "end": 258.06
+        },
+        {
+          "word": "imperfect",
+          "start": 258.06,
+          "end": 258.62
+        },
+        {
+          "word": "systems.",
+          "start": 258.62,
+          "end": 259.09
+        },
+        {
+          "word": "Improve",
+          "start": 259.42,
+          "end": 259.89
+        },
+        {
+          "word": "them",
+          "start": 259.89,
+          "end": 260.12
+        },
+        {
+          "word": "in",
+          "start": 260.12,
+          "end": 260.29
+        },
+        {
+          "word": "public",
+          "start": 260.29,
+          "end": 260.69
+        },
+        {
+          "word": "and",
+          "start": 260.69,
+          "end": 260.82
+        },
+        {
+          "word": "keep",
+          "start": 260.82,
+          "end": 261.09
+        },
+        {
+          "word": "technical",
+          "start": 261.09,
+          "end": 261.62
+        },
+        {
+          "word": "barriers",
+          "start": 261.62,
+          "end": 262.09
+        },
+        {
+          "word": "low.",
+          "start": 262.09,
+          "end": 262.46
+        },
+        {
+          "word": "True",
+          "start": 262.82,
+          "end": 263.19
+        },
+        {
+          "word": "innovation",
+          "start": 263.19,
+          "end": 263.82
+        },
+        {
+          "word": "happens",
+          "start": 263.82,
+          "end": 264.22
+        },
+        {
+          "word": "at",
+          "start": 264.22,
+          "end": 264.39
+        },
+        {
+          "word": "intersections",
+          "start": 264.39,
+          "end": 265.19
+        },
+        {
+          "word": "accessible",
+          "start": 265.19,
+          "end": 265.75
+        },
+        {
+          "word": "to",
+          "start": 265.75,
+          "end": 265.89
+        },
+        {
+          "word": "everyone.",
+          "start": 265.89,
+          "end": 266.39
+        }
+      ]
+    },
+    {
+      "start": 266.86,
+      "end": 272.22,
+      "text": "The secret sauce is making tech feel like fun, not work! Gotta meet the peeps where they're at before leveling them up!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 266.86,
+          "end": 267.06
+        },
+        {
+          "word": "secret",
+          "start": 267.06,
+          "end": 267.42
+        },
+        {
+          "word": "sauce",
+          "start": 267.42,
+          "end": 267.79
+        },
+        {
+          "word": "is",
+          "start": 267.79,
+          "end": 267.92
+        },
+        {
+          "word": "making",
+          "start": 267.92,
+          "end": 268.22
+        },
+        {
+          "word": "tech",
+          "start": 268.22,
+          "end": 268.52
+        },
+        {
+          "word": "feel",
+          "start": 268.52,
+          "end": 268.79
+        },
+        {
+          "word": "like",
+          "start": 268.79,
+          "end": 269.02
+        },
+        {
+          "word": "fun,",
+          "start": 269.02,
+          "end": 269.29
+        },
+        {
+          "word": "not",
+          "start": 269.29,
+          "end": 269.52
+        },
+        {
+          "word": "work.",
+          "start": 269.52,
+          "end": 269.86
+        },
+        {
+          "word": "Gotta",
+          "start": 270.22,
+          "end": 270.52
+        },
+        {
+          "word": "meet",
+          "start": 270.52,
+          "end": 270.79
+        },
+        {
+          "word": "the",
+          "start": 270.79,
+          "end": 270.92
+        },
+        {
+          "word": "peeps",
+          "start": 270.92,
+          "end": 271.22
+        },
+        {
+          "word": "where",
+          "start": 271.22,
+          "end": 271.49
+        },
+        {
+          "word": "they're",
+          "start": 271.49,
+          "end": 271.69
+        },
+        {
+          "word": "at",
+          "start": 271.69,
+          "end": 271.82
+        },
+        {
+          "word": "before",
+          "start": 271.82,
+          "end": 272.19
+        },
+        {
+          "word": "leveling",
+          "start": 272.19,
+          "end": 272.59
+        },
+        {
+          "word": "them",
+          "start": 272.59,
+          "end": 272.79
+        },
+        {
+          "word": "up.",
+          "start": 272.79,
+          "end": 273.06
+        }
+      ]
+    },
+    {
+      "start": 273.49,
+      "end": 280.09,
+      "text": "PRAGMATISM BEATS PERFECTION. Focus resources on highest ROI fixes. On-chain or not, value capture is what matters.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Pragmatism",
+          "start": 273.49,
+          "end": 274.09
+        },
+        {
+          "word": "beats",
+          "start": 274.09,
+          "end": 274.39
+        },
+        {
+          "word": "perfection.",
+          "start": 274.39,
+          "end": 275.02
+        },
+        {
+          "word": "Focus",
+          "start": 275.46,
+          "end": 275.89
+        },
+        {
+          "word": "resources",
+          "start": 275.89,
+          "end": 276.49
+        },
+        {
+          "word": "on",
+          "start": 276.49,
+          "end": 276.69
+        },
+        {
+          "word": "highest",
+          "start": 276.69,
+          "end": 277.06
+        },
+        {
+          "word": "ROI",
+          "start": 277.06,
+          "end": 277.46
+        },
+        {
+          "word": "fixes.",
+          "start": 277.46,
+          "end": 277.86
+        },
+        {
+          "word": "On",
+          "start": 278.32,
+          "end": 278.62
+        },
+        {
+          "word": "chain",
+          "start": 278.62,
+          "end": 278.96
+        },
+        {
+          "word": "or",
+          "start": 278.96,
+          "end": 279.16
+        },
+        {
+          "word": "not,",
+          "start": 279.16,
+          "end": 279.36
+        },
+        {
+          "word": "value",
+          "start": 279.36,
+          "end": 279.72
+        },
+        {
+          "word": "capture",
+          "start": 279.72,
+          "end": 280.12
+        },
+        {
+          "word": "is",
+          "start": 280.12,
+          "end": 280.26
+        },
+        {
+          "word": "what",
+          "start": 280.26,
+          "end": 280.49
+        },
+        {
+          "word": "matters.",
+          "start": 280.49,
+          "end": 280.89
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-06_JedAI-Council_The-Clank-Tank-Conundrum.json",
+    "session_log_source": "2025-08-06_JedAI-Council_The-Clank-Tank-Conundrum_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

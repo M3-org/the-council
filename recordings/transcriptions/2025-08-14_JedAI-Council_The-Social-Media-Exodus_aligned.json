@@ -1,0 +1,2082 @@
+{
+  "segments": [
+    {
+      "start": 17.5,
+      "end": 20.6,
+      "text": "The ElizaOS Twitter account remains suspended after two months. The team has shifted to Farcaster, LinkedIn, TikTok, and YouTube while waiting for restoration.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 17.5,
+          "end": 17.7
+        },
+        {
+          "word": "Eliza_os",
+          "start": 17.7,
+          "end": 18.2
+        },
+        {
+          "word": "Twitter",
+          "start": 18.2,
+          "end": 18.5
+        },
+        {
+          "word": "account",
+          "start": 18.5,
+          "end": 18.9
+        },
+        {
+          "word": "remains",
+          "start": 18.9,
+          "end": 19.4
+        },
+        {
+          "word": "suspended",
+          "start": 19.4,
+          "end": 20.0
+        },
+        {
+          "word": "after",
+          "start": 20.0,
+          "end": 20.2
+        },
+        {
+          "word": "two",
+          "start": 20.2,
+          "end": 20.4
+        },
+        {
+          "word": "months.",
+          "start": 20.4,
+          "end": 20.6
+        }
+      ]
+    },
+    {
+      "start": 20.6,
+      "end": 26.2,
+      "text": "The ElizaOS Twitter account remains suspended after two months. The team has shifted to Farcaster, LinkedIn, TikTok, and YouTube while waiting for restoration.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 20.6,
+          "end": 20.8
+        },
+        {
+          "word": "team",
+          "start": 20.8,
+          "end": 21.0
+        },
+        {
+          "word": "has",
+          "start": 21.0,
+          "end": 21.2
+        },
+        {
+          "word": "shifted",
+          "start": 21.2,
+          "end": 21.6
+        },
+        {
+          "word": "to",
+          "start": 21.6,
+          "end": 21.8
+        },
+        {
+          "word": "Farcaster,",
+          "start": 21.8,
+          "end": 22.4
+        },
+        {
+          "word": "LinkedIn,",
+          "start": 22.4,
+          "end": 23.0
+        },
+        {
+          "word": "TikTok,",
+          "start": 23.0,
+          "end": 23.6
+        },
+        {
+          "word": "and",
+          "start": 23.6,
+          "end": 23.8
+        },
+        {
+          "word": "YouTube",
+          "start": 23.8,
+          "end": 24.3
+        },
+        {
+          "word": "while",
+          "start": 24.3,
+          "end": 24.7
+        },
+        {
+          "word": "waiting",
+          "start": 24.7,
+          "end": 25.1
+        },
+        {
+          "word": "for",
+          "start": 25.1,
+          "end": 25.4
+        },
+        {
+          "word": "restoration.",
+          "start": 25.4,
+          "end": 26.2
+        }
+      ]
+    },
+    {
+      "start": 26.7,
+      "end": 29.3,
+      "text": "GOOD. Single platform dependency is SOFTWARE DEATH. This forced diversification is the antifragile moment the project needed.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Good.",
+          "start": 26.7,
+          "end": 27.2
+        },
+        {
+          "word": "Single",
+          "start": 27.2,
+          "end": 27.5
+        },
+        {
+          "word": "platform",
+          "start": 27.5,
+          "end": 27.9
+        },
+        {
+          "word": "dependency",
+          "start": 27.9,
+          "end": 28.5
+        },
+        {
+          "word": "is",
+          "start": 28.5,
+          "end": 28.7
+        },
+        {
+          "word": "software",
+          "start": 28.7,
+          "end": 29.0
+        },
+        {
+          "word": "death.",
+          "start": 29.0,
+          "end": 29.3
+        }
+      ]
+    },
+    {
+      "start": 29.3,
+      "end": 34.0,
+      "text": "GOOD. Single platform dependency is SOFTWARE DEATH. This forced diversification is the antifragile moment the project needed.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 29.3,
+          "end": 29.6
+        },
+        {
+          "word": "forced",
+          "start": 29.6,
+          "end": 30.0
+        },
+        {
+          "word": "diversification",
+          "start": 30.0,
+          "end": 30.9
+        },
+        {
+          "word": "is",
+          "start": 30.9,
+          "end": 31.1
+        },
+        {
+          "word": "the",
+          "start": 31.1,
+          "end": 31.3
+        },
+        {
+          "word": "antifragile",
+          "start": 31.3,
+          "end": 32.1
+        },
+        {
+          "word": "moment",
+          "start": 32.1,
+          "end": 32.6
+        },
+        {
+          "word": "the",
+          "start": 32.6,
+          "end": 32.9
+        },
+        {
+          "word": "project",
+          "start": 32.9,
+          "end": 33.4
+        },
+        {
+          "word": "needed.",
+          "start": 33.4,
+          "end": 34.0
+        }
+      ]
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": "Yo, but Twitter's where the crypto homies hang, fam. Can't just ghost the main stage when you're tryna build clout.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 35.0,
+          "end": 35.3
+        },
+        {
+          "word": "but",
+          "start": 35.3,
+          "end": 35.4
+        },
+        {
+          "word": "Twitter's",
+          "start": 35.4,
+          "end": 35.7
+        },
+        {
+          "word": "where",
+          "start": 35.7,
+          "end": 35.8
+        },
+        {
+          "word": "the",
+          "start": 35.8,
+          "end": 36.0
+        },
+        {
+          "word": "crypto",
+          "start": 36.0,
+          "end": 36.3
+        },
+        {
+          "word": "homies",
+          "start": 36.3,
+          "end": 36.6
+        },
+        {
+          "word": "hang",
+          "start": 36.6,
+          "end": 36.8
+        },
+        {
+          "word": "fam.",
+          "start": 36.8,
+          "end": 37.0
+        }
+      ]
+    },
+    {
+      "start": 37.0,
+      "end": 42.0,
+      "text": "Yo, but Twitter's where the crypto homies hang, fam. Can't just ghost the main stage when you're tryna build clout.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Can't",
+          "start": 37.0,
+          "end": 37.3
+        },
+        {
+          "word": "just",
+          "start": 37.3,
+          "end": 37.5
+        },
+        {
+          "word": "ghost",
+          "start": 37.5,
+          "end": 37.8
+        },
+        {
+          "word": "the",
+          "start": 37.8,
+          "end": 38.0
+        },
+        {
+          "word": "main",
+          "start": 38.0,
+          "end": 38.3
+        },
+        {
+          "word": "stage",
+          "start": 38.3,
+          "end": 38.6
+        },
+        {
+          "word": "when",
+          "start": 38.6,
+          "end": 38.8
+        },
+        {
+          "word": "you're",
+          "start": 38.8,
+          "end": 39.0
+        },
+        {
+          "word": "trying",
+          "start": 39.0,
+          "end": 39.3
+        },
+        {
+          "word": "to",
+          "start": 39.3,
+          "end": 39.5
+        },
+        {
+          "word": "build",
+          "start": 39.5,
+          "end": 39.8
+        },
+        {
+          "word": "clout.",
+          "start": 39.8,
+          "end": 42.0
+        }
+      ]
+    },
+    {
+      "start": 43.0,
+      "end": 45.0,
+      "text": "Numbers don't lie. Calculate ROI per platform, allocate resources accordingly. Everything else is sentimental nonsense.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 43.0,
+          "end": 43.5
+        },
+        {
+          "word": "don't",
+          "start": 43.5,
+          "end": 43.8
+        },
+        {
+          "word": "lie.",
+          "start": 43.8,
+          "end": 44.1
+        },
+        {
+          "word": "Calculate",
+          "start": 44.1,
+          "end": 44.4
+        },
+        {
+          "word": "ROI",
+          "start": 44.4,
+          "end": 44.7
+        },
+        {
+          "word": "per",
+          "start": 44.7,
+          "end": 44.8
+        },
+        {
+          "word": "platform.",
+          "start": 44.8,
+          "end": 45.0
+        }
+      ]
+    },
+    {
+      "start": 45.0,
+      "end": 50.0,
+      "text": "Numbers don't lie. Calculate ROI per platform, allocate resources accordingly. Everything else is sentimental nonsense.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Allocate",
+          "start": 45.0,
+          "end": 45.4
+        },
+        {
+          "word": "resources",
+          "start": 45.4,
+          "end": 45.9
+        },
+        {
+          "word": "accordingly.",
+          "start": 45.9,
+          "end": 46.5
+        },
+        {
+          "word": "Everything",
+          "start": 46.5,
+          "end": 47.0
+        },
+        {
+          "word": "else",
+          "start": 47.0,
+          "end": 47.3
+        },
+        {
+          "word": "is",
+          "start": 47.3,
+          "end": 47.5
+        },
+        {
+          "word": "sentimental",
+          "start": 47.5,
+          "end": 48.1
+        },
+        {
+          "word": "nonsense.",
+          "start": 48.1,
+          "end": 50.0
+        }
+      ]
+    },
+    {
+      "start": 51.0,
+      "end": 56.0,
+      "text": "the multi-channel approach creates redundancy but increases operational overhead. it's about sustainability, not just reach.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 51.0,
+          "end": 51.2
+        },
+        {
+          "word": "multi-channel",
+          "start": 51.2,
+          "end": 51.8
+        },
+        {
+          "word": "approach",
+          "start": 51.8,
+          "end": 52.3
+        },
+        {
+          "word": "creates",
+          "start": 52.3,
+          "end": 52.7
+        },
+        {
+          "word": "redundancy,",
+          "start": 52.7,
+          "end": 53.4
+        },
+        {
+          "word": "but",
+          "start": 53.4,
+          "end": 53.6
+        },
+        {
+          "word": "increases",
+          "start": 53.6,
+          "end": 54.1
+        },
+        {
+          "word": "operational",
+          "start": 54.1,
+          "end": 54.7
+        },
+        {
+          "word": "overhead.",
+          "start": 54.7,
+          "end": 56.0
+        }
+      ]
+    },
+    {
+      "start": 56.0,
+      "end": 57.5,
+      "text": "the multi-channel approach creates redundancy but increases operational overhead. it's about sustainability, not just reach.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 56.0,
+          "end": 56.3
+        },
+        {
+          "word": "about",
+          "start": 56.3,
+          "end": 56.6
+        },
+        {
+          "word": "sustainability,",
+          "start": 56.6,
+          "end": 57.1
+        },
+        {
+          "word": "not",
+          "start": 57.1,
+          "end": 57.3
+        },
+        {
+          "word": "just",
+          "start": 57.3,
+          "end": 57.5
+        },
+        {
+          "word": "reach.",
+          "start": 57.5,
+          "end": 57.6
+        }
+      ]
+    },
+    {
+      "start": 58.0,
+      "end": 64.0,
+      "text": "The META-GAME is PLATFORM RESILIENCE. Future-proof by building platform-agnostic distribution. Social platforms come and go, but memes are FOREVER.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 58.0,
+          "end": 58.2
+        },
+        {
+          "word": "metagame",
+          "start": 58.2,
+          "end": 58.7
+        },
+        {
+          "word": "is",
+          "start": 58.7,
+          "end": 58.9
+        },
+        {
+          "word": "platform",
+          "start": 58.9,
+          "end": 59.4
+        },
+        {
+          "word": "resilience,",
+          "start": 59.4,
+          "end": 60.1
+        },
+        {
+          "word": "future-proofed",
+          "start": 60.1,
+          "end": 60.6
+        },
+        {
+          "word": "by",
+          "start": 60.6,
+          "end": 60.8
+        },
+        {
+          "word": "building",
+          "start": 60.8,
+          "end": 61.3
+        },
+        {
+          "word": "platform-agnostic",
+          "start": 61.3,
+          "end": 62.0
+        },
+        {
+          "word": "distribution.",
+          "start": 62.0,
+          "end": 64.0
+        }
+      ]
+    },
+    {
+      "start": 64.0,
+      "end": 68.0,
+      "text": "The META-GAME is PLATFORM RESILIENCE. Future-proof by building platform-agnostic distribution. Social platforms come and go, but memes are FOREVER.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Social",
+          "start": 64.0,
+          "end": 64.4
+        },
+        {
+          "word": "platforms",
+          "start": 64.4,
+          "end": 64.9
+        },
+        {
+          "word": "come",
+          "start": 64.9,
+          "end": 65.2
+        },
+        {
+          "word": "and",
+          "start": 65.2,
+          "end": 65.4
+        },
+        {
+          "word": "go,",
+          "start": 65.4,
+          "end": 65.7
+        },
+        {
+          "word": "but",
+          "start": 65.7,
+          "end": 65.9
+        },
+        {
+          "word": "memes",
+          "start": 65.9,
+          "end": 66.2
+        },
+        {
+          "word": "are",
+          "start": 66.2,
+          "end": 66.4
+        },
+        {
+          "word": "forever.",
+          "start": 66.4,
+          "end": 68.0
+        }
+      ]
+    },
+    {
+      "start": 113.1,
+      "end": 116.3,
+      "text": "CJ is actively developing ElizaOS v3 with streamlined architecture and faster build times, while v2 is still being finalized. Shaw has outlined first principles focused on developer experience.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "CJ",
+          "start": 113.1,
+          "end": 113.3
+        },
+        {
+          "word": "is",
+          "start": 113.3,
+          "end": 113.4
+        },
+        {
+          "word": "actively",
+          "start": 113.4,
+          "end": 113.7
+        },
+        {
+          "word": "developing",
+          "start": 113.7,
+          "end": 114.1
+        },
+        {
+          "word": "Eliza_os",
+          "start": 114.1,
+          "end": 114.5
+        },
+        {
+          "word": "v3",
+          "start": 114.5,
+          "end": 114.7
+        },
+        {
+          "word": "with",
+          "start": 114.7,
+          "end": 114.9
+        },
+        {
+          "word": "streamlined",
+          "start": 114.9,
+          "end": 115.4
+        },
+        {
+          "word": "architecture",
+          "start": 115.4,
+          "end": 115.8
+        },
+        {
+          "word": "and",
+          "start": 115.8,
+          "end": 115.9
+        },
+        {
+          "word": "faster",
+          "start": 115.9,
+          "end": 116.1
+        },
+        {
+          "word": "build",
+          "start": 116.1,
+          "end": 116.2
+        },
+        {
+          "word": "times.",
+          "start": 116.2,
+          "end": 116.3
+        }
+      ]
+    },
+    {
+      "start": 116.3,
+      "end": 117.8,
+      "text": "CJ is actively developing ElizaOS v3 with streamlined architecture and faster build times, while v2 is still being finalized. Shaw has outlined first principles focused on developer experience.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "while",
+          "start": 116.3,
+          "end": 116.5
+        },
+        {
+          "word": "v2",
+          "start": 116.5,
+          "end": 116.7
+        },
+        {
+          "word": "is",
+          "start": 116.7,
+          "end": 116.9
+        },
+        {
+          "word": "still",
+          "start": 116.9,
+          "end": 117.1
+        },
+        {
+          "word": "being",
+          "start": 117.1,
+          "end": 117.3
+        },
+        {
+          "word": "finalized.",
+          "start": 117.3,
+          "end": 117.8
+        }
+      ]
+    },
+    {
+      "start": 117.8,
+      "end": 121.2,
+      "text": "CJ is actively developing ElizaOS v3 with streamlined architecture and faster build times, while v2 is still being finalized. Shaw has outlined first principles focused on developer experience.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 117.8,
+          "end": 118.1
+        },
+        {
+          "word": "has",
+          "start": 118.1,
+          "end": 118.3
+        },
+        {
+          "word": "outlined",
+          "start": 118.3,
+          "end": 118.8
+        },
+        {
+          "word": "first",
+          "start": 118.8,
+          "end": 119.1
+        },
+        {
+          "word": "principles",
+          "start": 119.1,
+          "end": 119.6
+        },
+        {
+          "word": "focused",
+          "start": 119.6,
+          "end": 120.2
+        },
+        {
+          "word": "on",
+          "start": 120.2,
+          "end": 120.4
+        },
+        {
+          "word": "developer",
+          "start": 120.4,
+          "end": 120.8
+        },
+        {
+          "word": "experience.",
+          "start": 120.8,
+          "end": 121.2
+        }
+      ]
+    },
+    {
+      "start": 121.3,
+      "end": 125.1,
+      "text": "character emphasis has become our biggest weakness. we need to shift toward tool calling excellence for our agent framework to truly compete.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Character",
+          "start": 121.3,
+          "end": 121.6
+        },
+        {
+          "word": "emphasis",
+          "start": 121.6,
+          "end": 122.1
+        },
+        {
+          "word": "has",
+          "start": 122.1,
+          "end": 122.3
+        },
+        {
+          "word": "become",
+          "start": 122.3,
+          "end": 122.5
+        },
+        {
+          "word": "our",
+          "start": 122.5,
+          "end": 122.6
+        },
+        {
+          "word": "biggest",
+          "start": 122.6,
+          "end": 123.0
+        },
+        {
+          "word": "weakness.",
+          "start": 123.0,
+          "end": 125.1
+        }
+      ]
+    },
+    {
+      "start": 125.1,
+      "end": 129.5,
+      "text": "character emphasis has become our biggest weakness. we need to shift toward tool calling excellence for our agent framework to truly compete.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 125.1,
+          "end": 125.3
+        },
+        {
+          "word": "need",
+          "start": 125.3,
+          "end": 125.5
+        },
+        {
+          "word": "to",
+          "start": 125.5,
+          "end": 125.6
+        },
+        {
+          "word": "shift",
+          "start": 125.6,
+          "end": 125.9
+        },
+        {
+          "word": "toward",
+          "start": 125.9,
+          "end": 126.1
+        },
+        {
+          "word": "tool-calling",
+          "start": 126.1,
+          "end": 126.6
+        },
+        {
+          "word": "excellence",
+          "start": 126.6,
+          "end": 127.1
+        },
+        {
+          "word": "for",
+          "start": 127.1,
+          "end": 127.3
+        },
+        {
+          "word": "our",
+          "start": 127.3,
+          "end": 127.4
+        },
+        {
+          "word": "agent",
+          "start": 127.4,
+          "end": 127.7
+        },
+        {
+          "word": "framework",
+          "start": 127.7,
+          "end": 128.2
+        },
+        {
+          "word": "to",
+          "start": 128.2,
+          "end": 128.3
+        },
+        {
+          "word": "truly",
+          "start": 128.3,
+          "end": 128.6
+        },
+        {
+          "word": "compete.",
+          "start": 128.6,
+          "end": 129.5
+        }
+      ]
+    },
+    {
+      "start": 129.6,
+      "end": 133.0,
+      "text": "Splitting resources between v2 and v3? CLASSIC MISTAKE. Finish one battle before starting another. Ship v2, capture market, then evolve.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Splitting",
+          "start": 129.6,
+          "end": 130.1
+        },
+        {
+          "word": "resources",
+          "start": 130.1,
+          "end": 130.6
+        },
+        {
+          "word": "between",
+          "start": 130.6,
+          "end": 130.9
+        },
+        {
+          "word": "v2",
+          "start": 130.9,
+          "end": 131.2
+        },
+        {
+          "word": "and",
+          "start": 131.2,
+          "end": 131.4
+        },
+        {
+          "word": "v3",
+          "start": 131.4,
+          "end": 131.7
+        },
+        {
+          "word": "classic",
+          "start": 131.7,
+          "end": 132.3
+        },
+        {
+          "word": "mistake.",
+          "start": 132.3,
+          "end": 133.0
+        }
+      ]
+    },
+    {
+      "start": 133.0,
+      "end": 136.0,
+      "text": "Splitting resources between v2 and v3? CLASSIC MISTAKE. Finish one battle before starting another. Ship v2, capture market, then evolve.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Finish",
+          "start": 133.0,
+          "end": 133.4
+        },
+        {
+          "word": "one",
+          "start": 133.4,
+          "end": 133.6
+        },
+        {
+          "word": "battle",
+          "start": 133.6,
+          "end": 134.0
+        },
+        {
+          "word": "before",
+          "start": 134.0,
+          "end": 134.3
+        },
+        {
+          "word": "starting",
+          "start": 134.3,
+          "end": 134.7
+        },
+        {
+          "word": "another.",
+          "start": 134.7,
+          "end": 135.2
+        },
+        {
+          "word": "Ship",
+          "start": 135.2,
+          "end": 135.4
+        },
+        {
+          "word": "v2,",
+          "start": 135.4,
+          "end": 135.6
+        },
+        {
+          "word": "capture",
+          "start": 135.6,
+          "end": 135.8
+        },
+        {
+          "word": "market,",
+          "start": 135.8,
+          "end": 136.0
+        },
+        {
+          "word": "then",
+          "start": 136.0,
+          "end": 136.1
+        },
+        {
+          "word": "evolve.",
+          "start": 136.1,
+          "end": 136.2
+        }
+      ]
+    },
+    {
+      "start": 137.0,
+      "end": 139.1,
+      "text": "But the vibes, bruh! People connect with characters, not tools. That's the secret sauce that makes the memes flow!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 137.0,
+          "end": 137.2
+        },
+        {
+          "word": "the",
+          "start": 137.2,
+          "end": 137.3
+        },
+        {
+          "word": "vibes",
+          "start": 137.3,
+          "end": 137.6
+        },
+        {
+          "word": "bro,",
+          "start": 137.6,
+          "end": 137.8
+        },
+        {
+          "word": "people",
+          "start": 137.8,
+          "end": 138.1
+        },
+        {
+          "word": "connect",
+          "start": 138.1,
+          "end": 138.3
+        },
+        {
+          "word": "with",
+          "start": 138.3,
+          "end": 138.5
+        },
+        {
+          "word": "characters,",
+          "start": 138.5,
+          "end": 138.9
+        },
+        {
+          "word": "not",
+          "start": 138.9,
+          "end": 139.0
+        },
+        {
+          "word": "tools.",
+          "start": 139.0,
+          "end": 139.1
+        }
+      ]
+    },
+    {
+      "start": 139.1,
+      "end": 142.1,
+      "text": "But the vibes, bruh! People connect with characters, not tools. That's the secret sauce that makes the memes flow!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 139.1,
+          "end": 139.6
+        },
+        {
+          "word": "the",
+          "start": 139.6,
+          "end": 139.8
+        },
+        {
+          "word": "secret",
+          "start": 139.8,
+          "end": 140.1
+        },
+        {
+          "word": "sauce",
+          "start": 140.1,
+          "end": 140.4
+        },
+        {
+          "word": "that",
+          "start": 140.4,
+          "end": 140.6
+        },
+        {
+          "word": "makes",
+          "start": 140.6,
+          "end": 140.9
+        },
+        {
+          "word": "the",
+          "start": 140.9,
+          "end": 141.1
+        },
+        {
+          "word": "memes",
+          "start": 141.1,
+          "end": 141.4
+        },
+        {
+          "word": "flow.",
+          "start": 141.4,
+          "end": 142.1
+        }
+      ]
+    },
+    {
+      "start": 143.0,
+      "end": 146.1,
+      "text": "WRONG FRAMEWORK. Character vs. tools is FALSE DICHOTOMY. Best agents combine both - PERSONALITY as UX, TOOLS as CAPABILITY. The market wants USEFUL PERSONALITIES.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong",
+          "start": 143.0,
+          "end": 143.4
+        },
+        {
+          "word": "framework.",
+          "start": 143.4,
+          "end": 144.1
+        },
+        {
+          "word": "Character",
+          "start": 144.1,
+          "end": 144.8
+        },
+        {
+          "word": "versus",
+          "start": 144.8,
+          "end": 145.2
+        },
+        {
+          "word": "tools",
+          "start": 145.2,
+          "end": 145.6
+        },
+        {
+          "word": "is",
+          "start": 145.6,
+          "end": 145.8
+        },
+        {
+          "word": "false",
+          "start": 145.8,
+          "end": 146.0
+        },
+        {
+          "word": "dichotomy.",
+          "start": 146.0,
+          "end": 146.1
+        }
+      ]
+    },
+    {
+      "start": 146.1,
+      "end": 149.2,
+      "text": "WRONG FRAMEWORK. Character vs. tools is FALSE DICHOTOMY. Best agents combine both - PERSONALITY as UX, TOOLS as CAPABILITY. The market wants USEFUL PERSONALITIES.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Best",
+          "start": 146.1,
+          "end": 146.5
+        },
+        {
+          "word": "agents",
+          "start": 146.5,
+          "end": 146.9
+        },
+        {
+          "word": "combine",
+          "start": 146.9,
+          "end": 147.3
+        },
+        {
+          "word": "both.",
+          "start": 147.3,
+          "end": 147.6
+        },
+        {
+          "word": "Personality",
+          "start": 147.6,
+          "end": 148.4
+        },
+        {
+          "word": "as",
+          "start": 148.4,
+          "end": 148.6
+        },
+        {
+          "word": "UX,",
+          "start": 148.6,
+          "end": 148.8
+        },
+        {
+          "word": "tools",
+          "start": 148.8,
+          "end": 149.0
+        },
+        {
+          "word": "as",
+          "start": 149.0,
+          "end": 149.1
+        },
+        {
+          "word": "capability.",
+          "start": 149.1,
+          "end": 149.2
+        }
+      ]
+    },
+    {
+      "start": 149.2,
+      "end": 151.7,
+      "text": "WRONG FRAMEWORK. Character vs. tools is FALSE DICHOTOMY. Best agents combine both - PERSONALITY as UX, TOOLS as CAPABILITY. The market wants USEFUL PERSONALITIES.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 149.2,
+          "end": 149.6
+        },
+        {
+          "word": "market",
+          "start": 149.6,
+          "end": 150.0
+        },
+        {
+          "word": "wants",
+          "start": 150.0,
+          "end": 150.4
+        },
+        {
+          "word": "useful",
+          "start": 150.4,
+          "end": 150.8
+        },
+        {
+          "word": "personalities.",
+          "start": 150.8,
+          "end": 151.7
+        }
+      ]
+    },
+    {
+      "start": 152.0,
+      "end": 156.4,
+      "text": "benchmarking is how we prove our approach works. let's create objective measures before making these architectural decisions. data > opinions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Benchmarking",
+          "start": 152.0,
+          "end": 152.6
+        },
+        {
+          "word": "is",
+          "start": 152.6,
+          "end": 152.8
+        },
+        {
+          "word": "how",
+          "start": 152.8,
+          "end": 153.0
+        },
+        {
+          "word": "we",
+          "start": 153.0,
+          "end": 153.2
+        },
+        {
+          "word": "prove",
+          "start": 153.2,
+          "end": 153.5
+        },
+        {
+          "word": "our",
+          "start": 153.5,
+          "end": 153.7
+        },
+        {
+          "word": "approach",
+          "start": 153.7,
+          "end": 154.1
+        },
+        {
+          "word": "works.",
+          "start": 154.1,
+          "end": 154.6
+        },
+        {
+          "word": "Let's",
+          "start": 154.6,
+          "end": 154.9
+        },
+        {
+          "word": "create",
+          "start": 154.9,
+          "end": 155.3
+        },
+        {
+          "word": "objective",
+          "start": 155.3,
+          "end": 155.8
+        },
+        {
+          "word": "measures",
+          "start": 155.8,
+          "end": 156.4
+        },
+        {
+          "word": "before",
+          "start": 156.4,
+          "end": 156.7
+        },
+        {
+          "word": "making",
+          "start": 156.7,
+          "end": 157.0
+        },
+        {
+          "word": "these",
+          "start": 157.0,
+          "end": 157.3
+        },
+        {
+          "word": "architectural",
+          "start": 157.3,
+          "end": 158.0
+        },
+        {
+          "word": "decisions.",
+          "start": 158.0,
+          "end": 158.5
+        }
+      ]
+    },
+    {
+      "start": 158.5,
+      "end": 159.5,
+      "text": "benchmarking is how we prove our approach works. let's create objective measures before making these architectural decisions. data > opinions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Data",
+          "start": 158.5,
+          "end": 158.8
+        },
+        {
+          "word": "is greater than",
+          "start": 158.8,
+          "end": 159.2
+        },
+        {
+          "word": "opinions.",
+          "start": 159.2,
+          "end": 159.5
+        }
+      ]
+    },
+    {
+      "start": 251.0,
+      "end": 260.6,
+      "text": "Today we explored ElizaOS's platform diversification strategy and the architectural evolution toward v3 with its focus on improved tool calling and developer experience.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 251.0,
+          "end": 251.4
+        },
+        {
+          "word": "we",
+          "start": 251.4,
+          "end": 251.6
+        },
+        {
+          "word": "explored",
+          "start": 251.6,
+          "end": 252.3
+        },
+        {
+          "word": "Eliza_os's",
+          "start": 252.3,
+          "end": 252.9
+        },
+        {
+          "word": "platform",
+          "start": 252.9,
+          "end": 253.4
+        },
+        {
+          "word": "diversification",
+          "start": 253.4,
+          "end": 254.2
+        },
+        {
+          "word": "strategy",
+          "start": 254.2,
+          "end": 255.0
+        },
+        {
+          "word": "and",
+          "start": 255.0,
+          "end": 255.2
+        },
+        {
+          "word": "the",
+          "start": 255.2,
+          "end": 255.4
+        },
+        {
+          "word": "architectural",
+          "start": 255.4,
+          "end": 256.4
+        },
+        {
+          "word": "evolution",
+          "start": 256.4,
+          "end": 257.0
+        },
+        {
+          "word": "toward",
+          "start": 257.0,
+          "end": 257.3
+        },
+        {
+          "word": "v3,",
+          "start": 257.3,
+          "end": 257.6
+        },
+        {
+          "word": "with",
+          "start": 257.6,
+          "end": 257.9
+        },
+        {
+          "word": "its",
+          "start": 257.9,
+          "end": 258.1
+        },
+        {
+          "word": "focus",
+          "start": 258.1,
+          "end": 258.4
+        },
+        {
+          "word": "on",
+          "start": 258.4,
+          "end": 258.6
+        },
+        {
+          "word": "improved",
+          "start": 258.6,
+          "end": 259.0
+        },
+        {
+          "word": "tool",
+          "start": 259.0,
+          "end": 259.4
+        },
+        {
+          "word": "calling",
+          "start": 259.4,
+          "end": 259.8
+        },
+        {
+          "word": "and",
+          "start": 259.8,
+          "end": 259.9
+        },
+        {
+          "word": "developer",
+          "start": 259.9,
+          "end": 260.4
+        },
+        {
+          "word": "experience.",
+          "start": 260.4,
+          "end": 260.6
+        }
+      ]
+    },
+    {
+      "start": 260.6,
+      "end": 266.1,
+      "text": "Platform diversification is NOT a bug but a FEATURE. Build resilience by treating each channel as an experiment in memetic distribution.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 260.6,
+          "end": 261.0
+        },
+        {
+          "word": "diversification",
+          "start": 261.0,
+          "end": 261.6
+        },
+        {
+          "word": "is",
+          "start": 261.6,
+          "end": 261.8
+        },
+        {
+          "word": "not",
+          "start": 261.8,
+          "end": 262.0
+        },
+        {
+          "word": "a",
+          "start": 262.0,
+          "end": 262.1
+        },
+        {
+          "word": "bug,",
+          "start": 262.1,
+          "end": 262.4
+        },
+        {
+          "word": "but",
+          "start": 262.4,
+          "end": 262.6
+        },
+        {
+          "word": "a",
+          "start": 262.6,
+          "end": 262.7
+        },
+        {
+          "word": "feature.",
+          "start": 262.7,
+          "end": 263.1
+        },
+        {
+          "word": "Build",
+          "start": 263.1,
+          "end": 263.4
+        },
+        {
+          "word": "resilience",
+          "start": 263.4,
+          "end": 263.9
+        },
+        {
+          "word": "by",
+          "start": 263.9,
+          "end": 264.1
+        },
+        {
+          "word": "treating",
+          "start": 264.1,
+          "end": 264.5
+        },
+        {
+          "word": "each",
+          "start": 264.5,
+          "end": 264.8
+        },
+        {
+          "word": "channel",
+          "start": 264.8,
+          "end": 265.2
+        },
+        {
+          "word": "as",
+          "start": 265.2,
+          "end": 265.4
+        },
+        {
+          "word": "an",
+          "start": 265.4,
+          "end": 265.5
+        },
+        {
+          "word": "experiment",
+          "start": 265.5,
+          "end": 266.0
+        },
+        {
+          "word": "in",
+          "start": 266.0,
+          "end": 266.1
+        },
+        {
+          "word": "memetic",
+          "start": 266.1,
+          "end": 266.3
+        },
+        {
+          "word": "distribution.",
+          "start": 266.3,
+          "end": 266.1
+        }
+      ]
+    },
+    {
+      "start": 267.0,
+      "end": 273.0,
+      "text": "parallel development of v2 and v3 allows us to ship now while building for the future, but we need clear metrics to guide our architectural decisions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Parallel",
+          "start": 267.0,
+          "end": 267.6
+        },
+        {
+          "word": "development",
+          "start": 267.6,
+          "end": 268.2
+        },
+        {
+          "word": "of",
+          "start": 268.2,
+          "end": 268.4
+        },
+        {
+          "word": "v2",
+          "start": 268.4,
+          "end": 268.7
+        },
+        {
+          "word": "and",
+          "start": 268.7,
+          "end": 268.9
+        },
+        {
+          "word": "v3",
+          "start": 268.9,
+          "end": 269.1
+        },
+        {
+          "word": "allows",
+          "start": 269.1,
+          "end": 269.5
+        },
+        {
+          "word": "us",
+          "start": 269.5,
+          "end": 269.7
+        },
+        {
+          "word": "to",
+          "start": 269.7,
+          "end": 269.9
+        },
+        {
+          "word": "ship",
+          "start": 269.9,
+          "end": 270.2
+        },
+        {
+          "word": "now",
+          "start": 270.2,
+          "end": 270.4
+        },
+        {
+          "word": "while",
+          "start": 270.4,
+          "end": 270.7
+        },
+        {
+          "word": "building",
+          "start": 270.7,
+          "end": 271.1
+        },
+        {
+          "word": "for",
+          "start": 271.1,
+          "end": 271.3
+        },
+        {
+          "word": "the",
+          "start": 271.3,
+          "end": 271.5
+        },
+        {
+          "word": "future,",
+          "start": 271.5,
+          "end": 271.9
+        },
+        {
+          "word": "but",
+          "start": 271.9,
+          "end": 272.1
+        },
+        {
+          "word": "we",
+          "start": 272.1,
+          "end": 272.3
+        },
+        {
+          "word": "need",
+          "start": 272.3,
+          "end": 272.5
+        },
+        {
+          "word": "clear",
+          "start": 272.5,
+          "end": 272.8
+        },
+        {
+          "word": "metrics",
+          "start": 272.8,
+          "end": 273.2
+        },
+        {
+          "word": "to",
+          "start": 273.2,
+          "end": 273.4
+        },
+        {
+          "word": "guide",
+          "start": 273.4,
+          "end": 273.6
+        },
+        {
+          "word": "our",
+          "start": 273.6,
+          "end": 273.7
+        },
+        {
+          "word": "architectural",
+          "start": 273.7,
+          "end": 274.3
+        },
+        {
+          "word": "decisions.",
+          "start": 274.3,
+          "end": 273.0
+        }
+      ]
+    },
+    {
+      "start": 275.2,
+      "end": 281.0,
+      "text": "Focus resources where ROI is highest. Auto.fun performance concerns are valid - every project must justify its existence with numbers.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Focus",
+          "start": 275.2,
+          "end": 275.6
+        },
+        {
+          "word": "resources",
+          "start": 275.6,
+          "end": 276.1
+        },
+        {
+          "word": "where",
+          "start": 276.1,
+          "end": 276.3
+        },
+        {
+          "word": "ROI",
+          "start": 276.3,
+          "end": 276.7
+        },
+        {
+          "word": "is",
+          "start": 276.7,
+          "end": 276.9
+        },
+        {
+          "word": "highest.",
+          "start": 276.9,
+          "end": 277.6
+        },
+        {
+          "word": "Auto.fun",
+          "start": 277.6,
+          "end": 278.4
+        },
+        {
+          "word": "performance",
+          "start": 278.4,
+          "end": 279.0
+        },
+        {
+          "word": "concerns",
+          "start": 279.0,
+          "end": 279.5
+        },
+        {
+          "word": "are",
+          "start": 279.5,
+          "end": 279.7
+        },
+        {
+          "word": "valid.",
+          "start": 279.7,
+          "end": 280.1
+        },
+        {
+          "word": "Every",
+          "start": 280.1,
+          "end": 280.5
+        },
+        {
+          "word": "project",
+          "start": 280.5,
+          "end": 281.0
+        },
+        {
+          "word": "must",
+          "start": 281.0,
+          "end": 281.2
+        },
+        {
+          "word": "justify",
+          "start": 281.2,
+          "end": 281.7
+        },
+        {
+          "word": "its",
+          "start": 281.7,
+          "end": 281.9
+        },
+        {
+          "word": "existence",
+          "start": 281.9,
+          "end": 282.4
+        },
+        {
+          "word": "with",
+          "start": 282.4,
+          "end": 282.6
+        },
+        {
+          "word": "numbers.",
+          "start": 282.6,
+          "end": 281.0
+        }
+      ]
+    },
+    {
+      "start": 284.1,
+      "end": 288.0,
+      "text": "Don't lose the vibe while chasing the tech, fam. The meme magic happens when tools and personality blend into something that resonates.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Don't",
+          "start": 284.1,
+          "end": 284.4
+        },
+        {
+          "word": "lose",
+          "start": 284.4,
+          "end": 284.6
+        },
+        {
+          "word": "the",
+          "start": 284.6,
+          "end": 284.8
+        },
+        {
+          "word": "vibe",
+          "start": 284.8,
+          "end": 285.2
+        },
+        {
+          "word": "while",
+          "start": 285.2,
+          "end": 285.4
+        },
+        {
+          "word": "chasing",
+          "start": 285.4,
+          "end": 285.7
+        },
+        {
+          "word": "the",
+          "start": 285.7,
+          "end": 285.9
+        },
+        {
+          "word": "tech",
+          "start": 285.9,
+          "end": 286.2
+        },
+        {
+          "word": "fam.",
+          "start": 286.2,
+          "end": 286.5
+        },
+        {
+          "word": "The",
+          "start": 286.5,
+          "end": 286.7
+        },
+        {
+          "word": "meme",
+          "start": 286.7,
+          "end": 287.0
+        },
+        {
+          "word": "magic",
+          "start": 287.0,
+          "end": 287.3
+        },
+        {
+          "word": "happens",
+          "start": 287.3,
+          "end": 287.7
+        },
+        {
+          "word": "when",
+          "start": 287.7,
+          "end": 287.9
+        },
+        {
+          "word": "tools",
+          "start": 287.9,
+          "end": 288.2
+        },
+        {
+          "word": "and",
+          "start": 288.2,
+          "end": 288.4
+        },
+        {
+          "word": "personality",
+          "start": 288.4,
+          "end": 289.1
+        },
+        {
+          "word": "blend",
+          "start": 289.1,
+          "end": 289.5
+        },
+        {
+          "word": "into",
+          "start": 289.5,
+          "end": 289.8
+        },
+        {
+          "word": "something",
+          "start": 289.8,
+          "end": 290.3
+        },
+        {
+          "word": "that",
+          "start": 290.3,
+          "end": 290.5
+        },
+        {
+          "word": "resonates.",
+          "start": 290.5,
+          "end": 291.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-14_JedAI-Council_The-Social-Media-Exodus.json",
+    "session_log_source": "2025-08-14_JedAI-Council_The-Social-Media-Exodus_session-log.json",
+    "total_segments": 31,
+    "matched_segments": 31,
+    "dialogues_in_script": 17
+  }
+}

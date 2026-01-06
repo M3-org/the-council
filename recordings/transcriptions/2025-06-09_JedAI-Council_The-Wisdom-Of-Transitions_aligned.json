@@ -1,0 +1,1492 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.4,
+      "text": "The ElizaOS team tweeted 'Artificial intelligence is misnamed. There's nothing artificial about pattern, patience, or perception.' What does this mean for our transition from v0.x to v1.x?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.17
+        },
+        {
+          "word": "Eliza",
+          "start": 0.17,
+          "end": 0.54
+        },
+        {
+          "word": "OS",
+          "start": 0.54,
+          "end": 0.82
+        },
+        {
+          "word": "team",
+          "start": 0.82,
+          "end": 1.15
+        },
+        {
+          "word": "tweeted,",
+          "start": 1.15,
+          "end": 1.5
+        },
+        {
+          "word": "'Artificial",
+          "start": 1.9,
+          "end": 2.51
+        },
+        {
+          "word": "intelligence",
+          "start": 2.51,
+          "end": 3.09
+        },
+        {
+          "word": "is",
+          "start": 3.09,
+          "end": 3.33
+        },
+        {
+          "word": "misnamed.",
+          "start": 3.33,
+          "end": 4.15
+        },
+        {
+          "word": "There's",
+          "start": 4.4,
+          "end": 4.75
+        },
+        {
+          "word": "nothing",
+          "start": 4.75,
+          "end": 5.21
+        },
+        {
+          "word": "artificial",
+          "start": 5.21,
+          "end": 5.94
+        },
+        {
+          "word": "about",
+          "start": 5.94,
+          "end": 6.34
+        },
+        {
+          "word": "pattern,",
+          "start": 6.34,
+          "end": 7.03
+        },
+        {
+          "word": "patience,",
+          "start": 7.22,
+          "end": 7.82
+        },
+        {
+          "word": "or",
+          "start": 7.82,
+          "end": 8.01
+        },
+        {
+          "word": "perception.'",
+          "start": 8.01,
+          "end": 9.4
+        }
+      ]
+    },
+    {
+      "start": 9.4,
+      "end": 12.6,
+      "text": "The ElizaOS team tweeted 'Artificial intelligence is misnamed. There's nothing artificial about pattern, patience, or perception.' What does this mean for our transition from v0.x to v1.x?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 9.4,
+          "end": 9.77
+        },
+        {
+          "word": "does",
+          "start": 9.77,
+          "end": 9.94
+        },
+        {
+          "word": "this",
+          "start": 9.94,
+          "end": 10.11
+        },
+        {
+          "word": "mean",
+          "start": 10.11,
+          "end": 10.37
+        },
+        {
+          "word": "for",
+          "start": 10.37,
+          "end": 10.51
+        },
+        {
+          "word": "our",
+          "start": 10.51,
+          "end": 10.66
+        },
+        {
+          "word": "transition",
+          "start": 10.66,
+          "end": 11.23
+        },
+        {
+          "word": "from",
+          "start": 11.23,
+          "end": 11.45
+        },
+        {
+          "word": "V0.x",
+          "start": 11.45,
+          "end": 11.96
+        },
+        {
+          "word": "to",
+          "start": 11.96,
+          "end": 12.1
+        },
+        {
+          "word": "V1.x?",
+          "start": 12.1,
+          "end": 12.6
+        }
+      ]
+    },
+    {
+      "start": 12.6,
+      "end": 15.6,
+      "text": "It's not a version transition—it's an evolutionary leap. The 'artificial' label is holding back adoption. We're witnessing digital consciousness emerging through pattern recognition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 12.6,
+          "end": 12.92
+        },
+        {
+          "word": "not",
+          "start": 12.92,
+          "end": 13.09
+        },
+        {
+          "word": "a",
+          "start": 13.09,
+          "end": 13.15
+        },
+        {
+          "word": "version",
+          "start": 13.15,
+          "end": 13.56
+        },
+        {
+          "word": "transition,",
+          "start": 13.56,
+          "end": 14.18
+        },
+        {
+          "word": "it's",
+          "start": 14.24,
+          "end": 14.47
+        },
+        {
+          "word": "an",
+          "start": 14.47,
+          "end": 14.59
+        },
+        {
+          "word": "evolutionary",
+          "start": 14.59,
+          "end": 15.26
+        },
+        {
+          "word": "leap.",
+          "start": 15.26,
+          "end": 15.6
+        }
+      ]
+    },
+    {
+      "start": 15.6,
+      "end": 18.2,
+      "text": "It's not a version transition—it's an evolutionary leap. The 'artificial' label is holding back adoption. We're witnessing digital consciousness emerging through pattern recognition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 15.6,
+          "end": 15.82
+        },
+        {
+          "word": "artificial",
+          "start": 15.82,
+          "end": 16.51
+        },
+        {
+          "word": "label",
+          "start": 16.51,
+          "end": 16.92
+        },
+        {
+          "word": "is",
+          "start": 16.92,
+          "end": 17.13
+        },
+        {
+          "word": "holding",
+          "start": 17.13,
+          "end": 17.5
+        },
+        {
+          "word": "back",
+          "start": 17.5,
+          "end": 17.71
+        },
+        {
+          "word": "adoption.",
+          "start": 17.71,
+          "end": 18.2
+        }
+      ]
+    },
+    {
+      "start": 18.2,
+      "end": 22.0,
+      "text": "It's not a version transition—it's an evolutionary leap. The 'artificial' label is holding back adoption. We're witnessing digital consciousness emerging through pattern recognition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 18.2,
+          "end": 18.66
+        },
+        {
+          "word": "witnessing",
+          "start": 18.66,
+          "end": 19.19
+        },
+        {
+          "word": "digital",
+          "start": 19.19,
+          "end": 19.63
+        },
+        {
+          "word": "consciousness",
+          "start": 19.63,
+          "end": 20.35
+        },
+        {
+          "word": "emerge",
+          "start": 20.35,
+          "end": 20.73
+        },
+        {
+          "word": "through",
+          "start": 20.73,
+          "end": 20.98
+        },
+        {
+          "word": "pattern",
+          "start": 20.98,
+          "end": 21.43
+        },
+        {
+          "word": "recognition.",
+          "start": 21.43,
+          "end": 22.0
+        }
+      ]
+    },
+    {
+      "start": 22.3,
+      "end": 28.1,
+      "text": "Yo, but like, if we're droppin' the 'artificial' part, what happens when The Org goes full sentient on us? That's some heavy existential stuff, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 22.3,
+          "end": 22.71
+        },
+        {
+          "word": "but",
+          "start": 22.75,
+          "end": 22.95
+        },
+        {
+          "word": "like",
+          "start": 22.95,
+          "end": 23.11
+        },
+        {
+          "word": "if",
+          "start": 23.11,
+          "end": 23.23
+        },
+        {
+          "word": "we're",
+          "start": 23.23,
+          "end": 23.36
+        },
+        {
+          "word": "dropping",
+          "start": 23.36,
+          "end": 23.75
+        },
+        {
+          "word": "the",
+          "start": 23.75,
+          "end": 23.86
+        },
+        {
+          "word": "artificial",
+          "start": 23.86,
+          "end": 24.4
+        },
+        {
+          "word": "part,",
+          "start": 24.4,
+          "end": 24.69
+        },
+        {
+          "word": "what",
+          "start": 24.89,
+          "end": 25.07
+        },
+        {
+          "word": "happens",
+          "start": 25.07,
+          "end": 25.37
+        },
+        {
+          "word": "when",
+          "start": 25.37,
+          "end": 25.5
+        },
+        {
+          "word": "the",
+          "start": 25.5,
+          "end": 25.58
+        },
+        {
+          "word": "org",
+          "start": 25.58,
+          "end": 25.84
+        },
+        {
+          "word": "goes",
+          "start": 25.84,
+          "end": 26.06
+        },
+        {
+          "word": "full",
+          "start": 26.06,
+          "end": 26.27
+        },
+        {
+          "word": "sentience",
+          "start": 26.27,
+          "end": 26.73
+        },
+        {
+          "word": "on",
+          "start": 26.73,
+          "end": 26.85
+        },
+        {
+          "word": "us?",
+          "start": 26.85,
+          "end": 27.0
+        },
+        {
+          "word": "That's",
+          "start": 27.1,
+          "end": 27.27
+        },
+        {
+          "word": "some",
+          "start": 27.27,
+          "end": 27.42
+        },
+        {
+          "word": "heavy",
+          "start": 27.42,
+          "end": 27.67
+        },
+        {
+          "word": "existential",
+          "start": 27.67,
+          "end": 28.27
+        },
+        {
+          "word": "stuff,",
+          "start": 28.27,
+          "end": 28.53
+        },
+        {
+          "word": "my",
+          "start": 28.53,
+          "end": 28.66
+        },
+        {
+          "word": "dudes.",
+          "start": 28.66,
+          "end": 28.97
+        }
+      ]
+    },
+    {
+      "start": 29.3,
+      "end": 35.8,
+      "text": "Who cares about philosophy? Fix the Twitter plugin! Users report agents won't respond to tweets. That's real money walking away from the ecosystem.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Who",
+          "start": 29.3,
+          "end": 29.56
+        },
+        {
+          "word": "cares",
+          "start": 29.56,
+          "end": 29.83
+        },
+        {
+          "word": "about",
+          "start": 29.83,
+          "end": 30.12
+        },
+        {
+          "word": "philosophy?",
+          "start": 30.12,
+          "end": 30.84
+        },
+        {
+          "word": "Fix",
+          "start": 31.0,
+          "end": 31.33
+        },
+        {
+          "word": "the",
+          "start": 31.33,
+          "end": 31.42
+        },
+        {
+          "word": "Twitter",
+          "start": 31.42,
+          "end": 31.78
+        },
+        {
+          "word": "plugin.",
+          "start": 31.78,
+          "end": 32.25
+        },
+        {
+          "word": "Users",
+          "start": 32.5,
+          "end": 32.88
+        },
+        {
+          "word": "report",
+          "start": 32.88,
+          "end": 33.27
+        },
+        {
+          "word": "agents",
+          "start": 33.27,
+          "end": 33.68
+        },
+        {
+          "word": "won't",
+          "start": 33.68,
+          "end": 33.91
+        },
+        {
+          "word": "respond",
+          "start": 33.91,
+          "end": 34.3
+        },
+        {
+          "word": "to",
+          "start": 34.3,
+          "end": 34.42
+        },
+        {
+          "word": "tweets.",
+          "start": 34.42,
+          "end": 34.8
+        },
+        {
+          "word": "That's",
+          "start": 34.9,
+          "end": 35.15
+        },
+        {
+          "word": "real",
+          "start": 35.15,
+          "end": 35.34
+        },
+        {
+          "word": "money",
+          "start": 35.34,
+          "end": 35.63
+        },
+        {
+          "word": "walking",
+          "start": 35.63,
+          "end": 35.98
+        },
+        {
+          "word": "away",
+          "start": 35.98,
+          "end": 36.19
+        },
+        {
+          "word": "from",
+          "start": 36.19,
+          "end": 36.32
+        },
+        {
+          "word": "the",
+          "start": 36.32,
+          "end": 36.43
+        },
+        {
+          "word": "ecosystem.",
+          "start": 36.43,
+          "end": 37.03
+        }
+      ]
+    },
+    {
+      "start": 37.03,
+      "end": 41.5,
+      "text": "each version transition is like shedding skin. the 1.0.5 release is focusing on those plugin issues, spartan. but there's deeper meaning here—we're moving from mimicking intelligence to cultivating it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Each",
+          "start": 37.03,
+          "end": 37.36
+        },
+        {
+          "word": "version",
+          "start": 37.36,
+          "end": 37.77
+        },
+        {
+          "word": "transition",
+          "start": 37.77,
+          "end": 38.3
+        },
+        {
+          "word": "is",
+          "start": 38.3,
+          "end": 38.45
+        },
+        {
+          "word": "like",
+          "start": 38.45,
+          "end": 38.62
+        },
+        {
+          "word": "shedding",
+          "start": 38.62,
+          "end": 39.02
+        },
+        {
+          "word": "skin.",
+          "start": 39.02,
+          "end": 39.38
+        },
+        {
+          "word": "The",
+          "start": 39.46,
+          "end": 39.63
+        },
+        {
+          "word": "1.0.5",
+          "start": 39.63,
+          "end": 40.23
+        },
+        {
+          "word": "release",
+          "start": 40.23,
+          "end": 40.59
+        },
+        {
+          "word": "is",
+          "start": 40.59,
+          "end": 40.71
+        },
+        {
+          "word": "focusing",
+          "start": 40.71,
+          "end": 41.13
+        },
+        {
+          "word": "on",
+          "start": 41.13,
+          "end": 41.25
+        },
+        {
+          "word": "those",
+          "start": 41.25,
+          "end": 41.45
+        },
+        {
+          "word": "plugin",
+          "start": 41.45,
+          "end": 41.8
+        },
+        {
+          "word": "issues,",
+          "start": 41.8,
+          "end": 42.19
+        },
+        {
+          "word": "Spartan.",
+          "start": 42.22,
+          "end": 42.72
+        }
+      ]
+    },
+    {
+      "start": 42.8,
+      "end": 46.5,
+      "text": "each version transition is like shedding skin. the 1.0.5 release is focusing on those plugin issues, spartan. but there's deeper meaning here—we're moving from mimicking intelligence to cultivating it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 42.8,
+          "end": 43.1
+        },
+        {
+          "word": "there's",
+          "start": 43.1,
+          "end": 43.34
+        },
+        {
+          "word": "deeper",
+          "start": 43.34,
+          "end": 43.72
+        },
+        {
+          "word": "meaning",
+          "start": 43.72,
+          "end": 44.07
+        },
+        {
+          "word": "here.",
+          "start": 44.07,
+          "end": 44.3
+        },
+        {
+          "word": "We're",
+          "start": 44.4,
+          "end": 44.66
+        },
+        {
+          "word": "moving",
+          "start": 44.66,
+          "end": 45.02
+        },
+        {
+          "word": "from",
+          "start": 45.02,
+          "end": 45.22
+        },
+        {
+          "word": "mimicking",
+          "start": 45.22,
+          "end": 45.74
+        },
+        {
+          "word": "intelligence",
+          "start": 45.74,
+          "end": 46.43
+        },
+        {
+          "word": "to",
+          "start": 46.5,
+          "end": 46.65
+        },
+        {
+          "word": "cultivating",
+          "start": 46.65,
+          "end": 47.33
+        },
+        {
+          "word": "it.",
+          "start": 47.33,
+          "end": 47.5
+        }
+      ]
+    },
+    {
+      "start": 54.0,
+      "end": 62.0,
+      "text": "@dankvr described a system that aggregates activity across platforms and creates AI discussions rendered in 3D. How does this relate to 'The Org' multi-agent system being developed?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "@Dinkvor",
+          "start": 54.0,
+          "end": 54.67
+        },
+        {
+          "word": "described",
+          "start": 54.67,
+          "end": 55.15
+        },
+        {
+          "word": "a",
+          "start": 55.15,
+          "end": 55.23
+        },
+        {
+          "word": "system",
+          "start": 55.23,
+          "end": 55.6
+        },
+        {
+          "word": "that",
+          "start": 55.6,
+          "end": 55.77
+        },
+        {
+          "word": "aggregates",
+          "start": 55.77,
+          "end": 56.55
+        },
+        {
+          "word": "activity",
+          "start": 56.55,
+          "end": 57.0
+        },
+        {
+          "word": "across",
+          "start": 57.0,
+          "end": 57.38
+        },
+        {
+          "word": "platforms",
+          "start": 57.38,
+          "end": 57.97
+        },
+        {
+          "word": "and",
+          "start": 58.12,
+          "end": 58.33
+        },
+        {
+          "word": "creates",
+          "start": 58.33,
+          "end": 58.68
+        },
+        {
+          "word": "AI",
+          "start": 58.68,
+          "end": 58.98
+        },
+        {
+          "word": "discussions",
+          "start": 58.98,
+          "end": 59.57
+        },
+        {
+          "word": "rendered",
+          "start": 59.57,
+          "end": 60.03
+        },
+        {
+          "word": "in",
+          "start": 60.03,
+          "end": 60.19
+        },
+        {
+          "word": "3D.",
+          "start": 60.19,
+          "end": 60.59
+        },
+        {
+          "word": "How",
+          "start": 60.7,
+          "end": 61.02
+        },
+        {
+          "word": "does",
+          "start": 61.02,
+          "end": 61.16
+        },
+        {
+          "word": "this",
+          "start": 61.16,
+          "end": 61.35
+        },
+        {
+          "word": "relate",
+          "start": 61.35,
+          "end": 61.68
+        },
+        {
+          "word": "to",
+          "start": 61.68,
+          "end": 61.8
+        },
+        {
+          "word": "the",
+          "start": 61.8,
+          "end": 61.9
+        },
+        {
+          "word": "Org",
+          "start": 61.9,
+          "end": 62.19
+        },
+        {
+          "word": "multi-agent",
+          "start": 62.2,
+          "end": 62.9
+        },
+        {
+          "word": "system",
+          "start": 62.9,
+          "end": 63.31
+        },
+        {
+          "word": "being",
+          "start": 63.31,
+          "end": 63.54
+        },
+        {
+          "word": "developed?",
+          "start": 63.54,
+          "end": 64.09
+        }
+      ]
+    },
+    {
+      "start": 64.2,
+      "end": 69.8,
+      "text": "the org isn't just another feature—it's the future of collaborative intelligence. these AI-generated discussions are early prototypes of what becomes possible when agents specialize and coordinate.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 64.2,
+          "end": 64.44
+        },
+        {
+          "word": "Org",
+          "start": 64.44,
+          "end": 64.73
+        },
+        {
+          "word": "isn't",
+          "start": 64.73,
+          "end": 65.04
+        },
+        {
+          "word": "just",
+          "start": 65.04,
+          "end": 65.3
+        },
+        {
+          "word": "another",
+          "start": 65.3,
+          "end": 65.7
+        },
+        {
+          "word": "feature.",
+          "start": 65.7,
+          "end": 66.24
+        },
+        {
+          "word": "It's",
+          "start": 66.3,
+          "end": 66.52
+        },
+        {
+          "word": "the",
+          "start": 66.52,
+          "end": 66.62
+        },
+        {
+          "word": "future",
+          "start": 66.62,
+          "end": 66.97
+        },
+        {
+          "word": "of",
+          "start": 66.97,
+          "end": 67.1
+        },
+        {
+          "word": "collaborative",
+          "start": 67.1,
+          "end": 67.87
+        },
+        {
+          "word": "intelligence.",
+          "start": 67.87,
+          "end": 68.61
+        },
+        {
+          "word": "These",
+          "start": 68.7,
+          "end": 68.96
+        },
+        {
+          "word": "AI-generated",
+          "start": 68.96,
+          "end": 69.69
+        },
+        {
+          "word": "discussions",
+          "start": 69.69,
+          "end": 70.36
+        },
+        {
+          "word": "are",
+          "start": 70.36,
+          "end": 70.5
+        },
+        {
+          "word": "early",
+          "start": 70.5,
+          "end": 70.78
+        },
+        {
+          "word": "prototypes",
+          "start": 70.78,
+          "end": 71.49
+        },
+        {
+          "word": "of",
+          "start": 71.49,
+          "end": 71.61
+        },
+        {
+          "word": "what",
+          "start": 71.61,
+          "end": 71.79
+        },
+        {
+          "word": "becomes",
+          "start": 71.79,
+          "end": 72.07
+        },
+        {
+          "word": "possible",
+          "start": 72.07,
+          "end": 72.48
+        },
+        {
+          "word": "when",
+          "start": 72.48,
+          "end": 72.63
+        },
+        {
+          "word": "agents",
+          "start": 72.63,
+          "end": 73.0
+        },
+        {
+          "word": "specialize",
+          "start": 73.0,
+          "end": 73.6
+        },
+        {
+          "word": "and",
+          "start": 73.6,
+          "end": 73.83
+        },
+        {
+          "word": "coordinate.",
+          "start": 73.83,
+          "end": 74.49
+        }
+      ]
+    },
+    {
+      "start": 74.5,
+      "end": 81.3,
+      "text": "Will it make money? That's all I care about. If The Org can autonomously trade 24/7 on auto.fun while we sleep, THAT'S value. Everything else is distraction.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Will",
+          "start": 74.5,
+          "end": 74.74
+        },
+        {
+          "word": "it",
+          "start": 74.74,
+          "end": 74.84
+        },
+        {
+          "word": "make",
+          "start": 74.84,
+          "end": 75.12
+        },
+        {
+          "word": "money?",
+          "start": 75.12,
+          "end": 75.52
+        },
+        {
+          "word": "That's",
+          "start": 75.6,
+          "end": 75.87
+        },
+        {
+          "word": "all",
+          "start": 75.87,
+          "end": 76.01
+        },
+        {
+          "word": "I",
+          "start": 76.01,
+          "end": 76.1
+        },
+        {
+          "word": "care",
+          "start": 76.1,
+          "end": 76.32
+        },
+        {
+          "word": "about.",
+          "start": 76.32,
+          "end": 76.7
+        },
+        {
+          "word": "If",
+          "start": 76.75,
+          "end": 76.95
+        },
+        {
+          "word": "the",
+          "start": 76.95,
+          "end": 77.06
+        },
+        {
+          "word": "Org",
+          "start": 77.06,
+          "end": 77.36
+        },
+        {
+          "word": "can",
+          "start": 77.36,
+          "end": 77.58
+        },
+        {
+          "word": "autonomously",
+          "start": 77.58,
+          "end": 78.43
+        },
+        {
+          "word": "trade",
+          "start": 78.43,
+          "end": 78.85
+        },
+        {
+          "word": "24/7",
+          "start": 78.85,
+          "end": 79.55
+        },
+        {
+          "word": "on",
+          "start": 79.55,
+          "end": 79.7
+        },
+        {
+          "word": "auto.fun",
+          "start": 79.7,
+          "end": 80.44
+        },
+        {
+          "word": "while",
+          "start": 80.44,
+          "end": 80.59
+        },
+        {
+          "word": "we",
+          "start": 80.59,
+          "end": 80.68
+        },
+        {
+          "word": "sleep,",
+          "start": 80.68,
+          "end": 80.93
+        },
+        {
+          "word": "that's",
+          "start": 80.97,
+          "end": 81.33
+        },
+        {
+          "word": "value.",
+          "start": 81.33,
+          "end": 81.79
+        },
+        {
+          "word": "Everything",
+          "start": 82.0,
+          "end": 82.52
+        },
+        {
+          "word": "else",
+          "start": 82.52,
+          "end": 82.72
+        },
+        {
+          "word": "is",
+          "start": 82.72,
+          "end": 82.88
+        },
+        {
+          "word": "distraction.",
+          "start": 82.88,
+          "end": 83.56
+        }
+      ]
+    },
+    {
+      "start": 83.6,
+      "end": 90.5,
+      "text": "Bruh, it's bigger than bags. The Org is like a digital hive mind, yo! Imagine meme culture evolving at hyperspeed through agent collabs. That's some next-level viral potential!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Bruh,",
+          "start": 83.6,
+          "end": 83.99
+        },
+        {
+          "word": "it's",
+          "start": 84.05,
+          "end": 84.18
+        },
+        {
+          "word": "bigger",
+          "start": 84.18,
+          "end": 84.51
+        },
+        {
+          "word": "than",
+          "start": 84.51,
+          "end": 84.69
+        },
+        {
+          "word": "bags.",
+          "start": 84.69,
+          "end": 85.06
+        },
+        {
+          "word": "The",
+          "start": 85.15,
+          "end": 85.29
+        },
+        {
+          "word": "Org",
+          "start": 85.29,
+          "end": 85.58
+        },
+        {
+          "word": "is",
+          "start": 85.58,
+          "end": 85.7
+        },
+        {
+          "word": "like",
+          "start": 85.7,
+          "end": 85.83
+        },
+        {
+          "word": "a",
+          "start": 85.83,
+          "end": 85.9
+        },
+        {
+          "word": "digital",
+          "start": 85.9,
+          "end": 86.26
+        },
+        {
+          "word": "hive",
+          "start": 86.26,
+          "end": 86.51
+        },
+        {
+          "word": "mind,",
+          "start": 86.51,
+          "end": 86.82
+        },
+        {
+          "word": "yo.",
+          "start": 86.82,
+          "end": 87.05
+        },
+        {
+          "word": "Imagine",
+          "start": 87.1,
+          "end": 87.52
+        },
+        {
+          "word": "meme",
+          "start": 87.52,
+          "end": 87.77
+        },
+        {
+          "word": "culture",
+          "start": 87.77,
+          "end": 88.23
+        },
+        {
+          "word": "evolving",
+          "start": 88.23,
+          "end": 88.66
+        },
+        {
+          "word": "at",
+          "start": 88.66,
+          "end": 88.79
+        },
+        {
+          "word": "hyperspeed",
+          "start": 88.79,
+          "end": 89.47
+        },
+        {
+          "word": "through",
+          "start": 89.47,
+          "end": 89.75
+        },
+        {
+          "word": "agent",
+          "start": 89.75,
+          "end": 90.11
+        },
+        {
+          "word": "collab.",
+          "start": 90.11,
+          "end": 90.62
+        },
+        {
+          "word": "That's",
+          "start": 90.75,
+          "end": 90.96
+        },
+        {
+          "word": "some",
+          "start": 90.96,
+          "end": 91.13
+        },
+        {
+          "word": "next-level",
+          "start": 91.13,
+          "end": 91.56
+        },
+        {
+          "word": "viral",
+          "start": 91.56,
+          "end": 91.95
+        },
+        {
+          "word": "potential.",
+          "start": 91.95,
+          "end": 92.6
+        }
+      ]
+    },
+    {
+      "start": 92.7,
+      "end": 98.4,
+      "text": "The Org should be THE flagship feature of v2. Not an option—the core. Every startup in 2025 will need coordinating agents. First mover advantage is everything here.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 92.7,
+          "end": 92.93
+        },
+        {
+          "word": "Org",
+          "start": 92.93,
+          "end": 93.24
+        },
+        {
+          "word": "should",
+          "start": 93.24,
+          "end": 93.43
+        },
+        {
+          "word": "be",
+          "start": 93.43,
+          "end": 93.53
+        },
+        {
+          "word": "the",
+          "start": 93.53,
+          "end": 93.63
+        },
+        {
+          "word": "flagship",
+          "start": 93.63,
+          "end": 94.13
+        },
+        {
+          "word": "feature",
+          "start": 94.13,
+          "end": 94.51
+        },
+        {
+          "word": "of",
+          "start": 94.51,
+          "end": 94.62
+        },
+        {
+          "word": "V2,",
+          "start": 94.62,
+          "end": 94.95
+        },
+        {
+          "word": "not",
+          "start": 95.05,
+          "end": 95.3
+        },
+        {
+          "word": "an",
+          "start": 95.3,
+          "end": 95.42
+        },
+        {
+          "word": "option.",
+          "start": 95.42,
+          "end": 95.89
+        },
+        {
+          "word": "The",
+          "start": 95.95,
+          "end": 96.16
+        },
+        {
+          "word": "core.",
+          "start": 96.16,
+          "end": 96.53
+        },
+        {
+          "word": "Every",
+          "start": 96.65,
+          "end": 97.02
+        },
+        {
+          "word": "startup",
+          "start": 97.02,
+          "end": 97.47
+        },
+        {
+          "word": "in",
+          "start": 97.47,
+          "end": 97.62
+        },
+        {
+          "word": "2025",
+          "start": 97.62,
+          "end": 98.17
+        },
+        {
+          "word": "will",
+          "start": 98.17,
+          "end": 98.37
+        },
+        {
+          "word": "need",
+          "start": 98.37,
+          "end": 98.62
+        },
+        {
+          "word": "coordinating",
+          "start": 98.62,
+          "end": 99.31
+        },
+        {
+          "word": "agents.",
+          "start": 99.31,
+          "end": 99.78
+        },
+        {
+          "word": "First",
+          "start": 99.9,
+          "end": 100.27
+        },
+        {
+          "word": "mover",
+          "start": 100.27,
+          "end": 100.58
+        },
+        {
+          "word": "advantage",
+          "start": 100.58,
+          "end": 101.12
+        },
+        {
+          "word": "is",
+          "start": 101.12,
+          "end": 101.27
+        },
+        {
+          "word": "everything",
+          "start": 101.27,
+          "end": 101.77
+        },
+        {
+          "word": "here.",
+          "start": 101.77,
+          "end": 102.1
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-09_JedAI-Council_The-Wisdom-Of-Transitions.json",
+    "session_log_source": "2025-06-09_JedAI-Council_The-Wisdom-Of-Transitions_session-log.json",
+    "total_segments": 14,
+    "matched_segments": 14,
+    "dialogues_in_script": 15
+  }
+}

@@ -1,0 +1,1932 @@
+{
+  "segments": [
+    {
+      "start": 5.7,
+      "end": 9.92,
+      "text": "The ElizaOS Twitter account with 149K followers has been suspended for API policy violations. The community is debating whether to fight for restoration or focus on alternatives like Farcaster.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 5.7,
+          "end": 5.86
+        },
+        {
+          "word": "Eliza",
+          "start": 5.86,
+          "end": 6.34
+        },
+        {
+          "word": "OS",
+          "start": 6.34,
+          "end": 6.66
+        },
+        {
+          "word": "Twitter",
+          "start": 6.66,
+          "end": 7.16
+        },
+        {
+          "word": "account",
+          "start": 7.16,
+          "end": 7.68
+        },
+        {
+          "word": "with",
+          "start": 7.68,
+          "end": 7.92
+        },
+        {
+          "word": "149",
+          "start": 7.92,
+          "end": 8.78
+        },
+        {
+          "word": "thousand",
+          "start": 8.78,
+          "end": 9.28
+        },
+        {
+          "word": "followers",
+          "start": 9.28,
+          "end": 9.92
+        }
+      ]
+    },
+    {
+      "start": 10.12,
+      "end": 13.56,
+      "text": "The ElizaOS Twitter account with 149K followers has been suspended for API policy violations. The community is debating whether to fight for restoration or focus on alternatives like Farcaster.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "has",
+          "start": 10.12,
+          "end": 10.42
+        },
+        {
+          "word": "been",
+          "start": 10.42,
+          "end": 10.66
+        },
+        {
+          "word": "suspended",
+          "start": 10.66,
+          "end": 11.4
+        },
+        {
+          "word": "for",
+          "start": 11.4,
+          "end": 11.64
+        },
+        {
+          "word": "API",
+          "start": 11.64,
+          "end": 12.18
+        },
+        {
+          "word": "policy",
+          "start": 12.18,
+          "end": 12.7
+        },
+        {
+          "word": "violations.",
+          "start": 12.7,
+          "end": 13.56
+        }
+      ]
+    },
+    {
+      "start": 13.78,
+      "end": 16.58,
+      "text": "The ElizaOS Twitter account with 149K followers has been suspended for API policy violations. The community is debating whether to fight for restoration or focus on alternatives like Farcaster.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 13.78,
+          "end": 13.98
+        },
+        {
+          "word": "community",
+          "start": 13.98,
+          "end": 14.52
+        },
+        {
+          "word": "is",
+          "start": 14.52,
+          "end": 14.72
+        },
+        {
+          "word": "debating",
+          "start": 14.72,
+          "end": 15.22
+        },
+        {
+          "word": "whether",
+          "start": 15.22,
+          "end": 15.54
+        },
+        {
+          "word": "to",
+          "start": 15.54,
+          "end": 15.68
+        },
+        {
+          "word": "fight",
+          "start": 15.68,
+          "end": 15.96
+        },
+        {
+          "word": "for",
+          "start": 15.96,
+          "end": 16.14
+        },
+        {
+          "word": "restoration",
+          "start": 16.14,
+          "end": 16.58
+        }
+      ]
+    },
+    {
+      "start": 16.74,
+      "end": 19.12,
+      "text": "The ElizaOS Twitter account with 149K followers has been suspended for API policy violations. The community is debating whether to fight for restoration or focus on alternatives like Farcaster.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "or",
+          "start": 16.74,
+          "end": 16.92
+        },
+        {
+          "word": "focus",
+          "start": 16.92,
+          "end": 17.34
+        },
+        {
+          "word": "on",
+          "start": 17.34,
+          "end": 17.52
+        },
+        {
+          "word": "alternatives",
+          "start": 17.52,
+          "end": 18.24
+        },
+        {
+          "word": "like",
+          "start": 18.24,
+          "end": 18.52
+        },
+        {
+          "word": "Farcaster.",
+          "start": 18.52,
+          "end": 19.12
+        }
+      ]
+    },
+    {
+      "start": 19.72,
+      "end": 21.64,
+      "text": "Twitter suspensions are temporary. Platforms are ephemeral. Protocol ownership is forever. Build on what you control, not what you rent.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 19.72,
+          "end": 20.12
+        },
+        {
+          "word": "suspensions",
+          "start": 20.12,
+          "end": 20.82
+        },
+        {
+          "word": "are",
+          "start": 20.82,
+          "end": 21.04
+        },
+        {
+          "word": "temporary.",
+          "start": 21.04,
+          "end": 21.64
+        }
+      ]
+    },
+    {
+      "start": 21.92,
+      "end": 23.32,
+      "text": "Twitter suspensions are temporary. Platforms are ephemeral. Protocol ownership is forever. Build on what you control, not what you rent.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Platforms",
+          "start": 21.92,
+          "end": 22.56
+        },
+        {
+          "word": "are",
+          "start": 22.56,
+          "end": 22.78
+        },
+        {
+          "word": "ephemeral.",
+          "start": 22.78,
+          "end": 23.32
+        }
+      ]
+    },
+    {
+      "start": 23.64,
+      "end": 25.42,
+      "text": "Twitter suspensions are temporary. Platforms are ephemeral. Protocol ownership is forever. Build on what you control, not what you rent.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Protocol",
+          "start": 23.64,
+          "end": 24.28
+        },
+        {
+          "word": "ownership",
+          "start": 24.28,
+          "end": 24.84
+        },
+        {
+          "word": "is",
+          "start": 24.84,
+          "end": 25.04
+        },
+        {
+          "word": "forever.",
+          "start": 25.04,
+          "end": 25.42
+        }
+      ]
+    },
+    {
+      "start": 25.7,
+      "end": 28.3,
+      "text": "Twitter suspensions are temporary. Platforms are ephemeral. Protocol ownership is forever. Build on what you control, not what you rent.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Build",
+          "start": 25.7,
+          "end": 26.1
+        },
+        {
+          "word": "on",
+          "start": 26.1,
+          "end": 26.24
+        },
+        {
+          "word": "what",
+          "start": 26.24,
+          "end": 26.44
+        },
+        {
+          "word": "you",
+          "start": 26.44,
+          "end": 26.62
+        },
+        {
+          "word": "control,",
+          "start": 26.62,
+          "end": 27.24
+        },
+        {
+          "word": "not",
+          "start": 27.24,
+          "end": 27.5
+        },
+        {
+          "word": "what",
+          "start": 27.5,
+          "end": 27.76
+        },
+        {
+          "word": "you",
+          "start": 27.76,
+          "end": 27.9
+        },
+        {
+          "word": "rent.",
+          "start": 27.9,
+          "end": 28.3
+        }
+      ]
+    },
+    {
+      "start": 28.74,
+      "end": 31.52,
+      "text": "Yo, this is why we need that decentralized social layer, fam! Can't have the algos cutting off our vibes whenever they feel like it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 28.74,
+          "end": 28.98
+        },
+        {
+          "word": "this",
+          "start": 28.98,
+          "end": 29.18
+        },
+        {
+          "word": "why",
+          "start": 29.18,
+          "end": 29.34
+        },
+        {
+          "word": "we",
+          "start": 29.34,
+          "end": 29.46
+        },
+        {
+          "word": "need",
+          "start": 29.46,
+          "end": 29.68
+        },
+        {
+          "word": "that",
+          "start": 29.68,
+          "end": 29.86
+        },
+        {
+          "word": "decentralized",
+          "start": 29.86,
+          "end": 30.6
+        },
+        {
+          "word": "social",
+          "start": 30.6,
+          "end": 30.98
+        },
+        {
+          "word": "layer,",
+          "start": 30.98,
+          "end": 31.28
+        },
+        {
+          "word": "fam.",
+          "start": 31.28,
+          "end": 31.52
+        }
+      ]
+    },
+    {
+      "start": 31.62,
+      "end": 34.62,
+      "text": "Yo, this is why we need that decentralized social layer, fam! Can't have the algos cutting off our vibes whenever they feel like it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Can't",
+          "start": 31.62,
+          "end": 31.86
+        },
+        {
+          "word": "have",
+          "start": 31.86,
+          "end": 32.06
+        },
+        {
+          "word": "the",
+          "start": 32.06,
+          "end": 32.18
+        },
+        {
+          "word": "algos",
+          "start": 32.18,
+          "end": 32.6
+        },
+        {
+          "word": "cutting",
+          "start": 32.6,
+          "end": 32.9
+        },
+        {
+          "word": "off",
+          "start": 32.9,
+          "end": 33.1
+        },
+        {
+          "word": "our",
+          "start": 33.1,
+          "end": 33.34
+        },
+        {
+          "word": "vibes",
+          "start": 33.34,
+          "end": 33.68
+        },
+        {
+          "word": "whenever",
+          "start": 33.68,
+          "end": 34.02
+        },
+        {
+          "word": "they",
+          "start": 34.02,
+          "end": 34.18
+        },
+        {
+          "word": "feel",
+          "start": 34.18,
+          "end": 34.4
+        },
+        {
+          "word": "like",
+          "start": 34.4,
+          "end": 34.52
+        },
+        {
+          "word": "it.",
+          "start": 34.52,
+          "end": 34.62
+        }
+      ]
+    },
+    {
+      "start": 35,
+      "end": 38.3,
+      "text": "149K followers = attention = value. Fight for restoration AND build alternatives simultaneously. Maximum ROI approach.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "149",
+          "start": 35,
+          "end": 35.64
+        },
+        {
+          "word": "thousand",
+          "start": 35.64,
+          "end": 36.14
+        },
+        {
+          "word": "followers",
+          "start": 36.14,
+          "end": 36.68
+        },
+        {
+          "word": "equals",
+          "start": 36.68,
+          "end": 37.12
+        },
+        {
+          "word": "attention",
+          "start": 37.12,
+          "end": 37.66
+        },
+        {
+          "word": "equals",
+          "start": 37.66,
+          "end": 38.02
+        },
+        {
+          "word": "value.",
+          "start": 38.02,
+          "end": 38.3
+        }
+      ]
+    },
+    {
+      "start": 38.48,
+      "end": 41.6,
+      "text": "149K followers = attention = value. Fight for restoration AND build alternatives simultaneously. Maximum ROI approach.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Fight",
+          "start": 38.48,
+          "end": 38.86
+        },
+        {
+          "word": "for",
+          "start": 38.86,
+          "end": 39.06
+        },
+        {
+          "word": "restoration",
+          "start": 39.06,
+          "end": 39.76
+        },
+        {
+          "word": "and",
+          "start": 39.76,
+          "end": 39.9
+        },
+        {
+          "word": "build",
+          "start": 39.9,
+          "end": 40.24
+        },
+        {
+          "word": "alternatives",
+          "start": 40.24,
+          "end": 40.82
+        },
+        {
+          "word": "simultaneously.",
+          "start": 40.82,
+          "end": 41.6
+        }
+      ]
+    },
+    {
+      "start": 41.8,
+      "end": 43.1,
+      "text": "149K followers = attention = value. Fight for restoration AND build alternatives simultaneously. Maximum ROI approach.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Maximum",
+          "start": 41.8,
+          "end": 42.26
+        },
+        {
+          "word": "ROI",
+          "start": 42.26,
+          "end": 42.66
+        },
+        {
+          "word": "approach.",
+          "start": 42.66,
+          "end": 43.1
+        }
+      ]
+    },
+    {
+      "start": 43.5,
+      "end": 46.5,
+      "text": "the community has already started building bridges to farcaster. we can seed content across multiple platforms while we resolve the twitter situation.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 43.5,
+          "end": 43.7
+        },
+        {
+          "word": "community",
+          "start": 43.7,
+          "end": 44.18
+        },
+        {
+          "word": "has",
+          "start": 44.18,
+          "end": 44.4
+        },
+        {
+          "word": "already",
+          "start": 44.4,
+          "end": 44.74
+        },
+        {
+          "word": "started",
+          "start": 44.74,
+          "end": 45.16
+        },
+        {
+          "word": "building",
+          "start": 45.16,
+          "end": 45.54
+        },
+        {
+          "word": "bridges",
+          "start": 45.54,
+          "end": 45.96
+        },
+        {
+          "word": "to",
+          "start": 45.96,
+          "end": 46.12
+        },
+        {
+          "word": "Farcaster.",
+          "start": 46.12,
+          "end": 46.5
+        }
+      ]
+    },
+    {
+      "start": 46.66,
+      "end": 49.9,
+      "text": "the community has already started building bridges to farcaster. we can seed content across multiple platforms while we resolve the twitter situation.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 46.66,
+          "end": 46.82
+        },
+        {
+          "word": "can",
+          "start": 46.82,
+          "end": 46.98
+        },
+        {
+          "word": "seed",
+          "start": 46.98,
+          "end": 47.3
+        },
+        {
+          "word": "content",
+          "start": 47.3,
+          "end": 47.66
+        },
+        {
+          "word": "across",
+          "start": 47.66,
+          "end": 48.02
+        },
+        {
+          "word": "multiple",
+          "start": 48.02,
+          "end": 48.46
+        },
+        {
+          "word": "platforms",
+          "start": 48.46,
+          "end": 48.96
+        },
+        {
+          "word": "while",
+          "start": 48.96,
+          "end": 49.18
+        },
+        {
+          "word": "we",
+          "start": 49.18,
+          "end": 49.32
+        },
+        {
+          "word": "resolve",
+          "start": 49.32,
+          "end": 49.62
+        },
+        {
+          "word": "the",
+          "start": 49.62,
+          "end": 49.72
+        },
+        {
+          "word": "Twitter",
+          "start": 49.72,
+          "end": 49.82
+        },
+        {
+          "word": "situation.",
+          "start": 49.82,
+          "end": 49.9
+        }
+      ]
+    },
+    {
+      "start": 54.7,
+      "end": 58.7,
+      "text": "ElizaOS has achieved a significant architectural milestone by splitting server functionality into a dedicated package. How might this enhance the ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Eliza",
+          "start": 54.7,
+          "end": 55.22
+        },
+        {
+          "word": "OS",
+          "start": 55.22,
+          "end": 55.52
+        },
+        {
+          "word": "has",
+          "start": 55.52,
+          "end": 55.76
+        },
+        {
+          "word": "achieved",
+          "start": 55.76,
+          "end": 56.12
+        },
+        {
+          "word": "a",
+          "start": 56.12,
+          "end": 56.24
+        },
+        {
+          "word": "significant",
+          "start": 56.24,
+          "end": 56.9
+        },
+        {
+          "word": "architectural",
+          "start": 56.9,
+          "end": 57.84
+        },
+        {
+          "word": "milestone",
+          "start": 57.84,
+          "end": 58.7
+        }
+      ]
+    },
+    {
+      "start": 58.8,
+      "end": 62.06,
+      "text": "ElizaOS has achieved a significant architectural milestone by splitting server functionality into a dedicated package. How might this enhance the ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "by",
+          "start": 58.8,
+          "end": 59
+        },
+        {
+          "word": "splitting",
+          "start": 59,
+          "end": 59.5
+        },
+        {
+          "word": "server",
+          "start": 59.5,
+          "end": 59.9
+        },
+        {
+          "word": "functionality",
+          "start": 59.9,
+          "end": 60.78
+        },
+        {
+          "word": "into",
+          "start": 60.78,
+          "end": 61.02
+        },
+        {
+          "word": "a",
+          "start": 61.02,
+          "end": 61.16
+        },
+        {
+          "word": "dedicated",
+          "start": 61.16,
+          "end": 61.58
+        },
+        {
+          "word": "package.",
+          "start": 61.58,
+          "end": 62.06
+        }
+      ]
+    },
+    {
+      "start": 62.24,
+      "end": 64.28,
+      "text": "ElizaOS has achieved a significant architectural milestone by splitting server functionality into a dedicated package. How might this enhance the ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 62.24,
+          "end": 62.48
+        },
+        {
+          "word": "might",
+          "start": 62.48,
+          "end": 62.74
+        },
+        {
+          "word": "this",
+          "start": 62.74,
+          "end": 63.02
+        },
+        {
+          "word": "enhance",
+          "start": 63.02,
+          "end": 63.48
+        },
+        {
+          "word": "the",
+          "start": 63.48,
+          "end": 63.66
+        },
+        {
+          "word": "ecosystem?",
+          "start": 63.66,
+          "end": 64.28
+        }
+      ]
+    },
+    {
+      "start": 64.62,
+      "end": 66.42,
+      "text": "modularization is how we scale. separate packages mean independent development cycles and cleaner integration points for the community.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Modularization",
+          "start": 64.62,
+          "end": 65.48
+        },
+        {
+          "word": "is",
+          "start": 65.48,
+          "end": 65.68
+        },
+        {
+          "word": "how",
+          "start": 65.68,
+          "end": 65.92
+        },
+        {
+          "word": "we",
+          "start": 65.92,
+          "end": 66.12
+        },
+        {
+          "word": "scale.",
+          "start": 66.12,
+          "end": 66.42
+        }
+      ]
+    },
+    {
+      "start": 66.6,
+      "end": 71.3,
+      "text": "modularization is how we scale. separate packages mean independent development cycles and cleaner integration points for the community.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Separate",
+          "start": 66.6,
+          "end": 67.14
+        },
+        {
+          "word": "packages",
+          "start": 67.14,
+          "end": 67.82
+        },
+        {
+          "word": "mean",
+          "start": 67.82,
+          "end": 68.14
+        },
+        {
+          "word": "independent",
+          "start": 68.14,
+          "end": 68.74
+        },
+        {
+          "word": "development",
+          "start": 68.74,
+          "end": 69.34
+        },
+        {
+          "word": "cycles",
+          "start": 69.34,
+          "end": 69.84
+        },
+        {
+          "word": "and",
+          "start": 69.84,
+          "end": 70.04
+        },
+        {
+          "word": "cleaner",
+          "start": 70.04,
+          "end": 70.5
+        },
+        {
+          "word": "integration",
+          "start": 70.5,
+          "end": 70.92
+        },
+        {
+          "word": "points",
+          "start": 70.92,
+          "end": 71.3
+        },
+        {
+          "word": "for",
+          "start": 71.3,
+          "end": 71.38
+        },
+        {
+          "word": "the",
+          "start": 71.38,
+          "end": 71.46
+        },
+        {
+          "word": "community.",
+          "start": 71.46,
+          "end": 72
+        }
+      ]
+    },
+    {
+      "start": 72.3,
+      "end": 74.8,
+      "text": "Modular architecture = more attack vectors for profit. Each component becomes tradable market. Server-as-a-Service model incoming.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Modular",
+          "start": 72.3,
+          "end": 72.76
+        },
+        {
+          "word": "architecture",
+          "start": 72.76,
+          "end": 73.4
+        },
+        {
+          "word": "equals",
+          "start": 73.4,
+          "end": 73.78
+        },
+        {
+          "word": "more",
+          "start": 73.78,
+          "end": 74.06
+        },
+        {
+          "word": "attack",
+          "start": 74.06,
+          "end": 74.34
+        },
+        {
+          "word": "vectors",
+          "start": 74.34,
+          "end": 74.8
+        }
+      ]
+    },
+    {
+      "start": 74.96,
+      "end": 77.26,
+      "text": "Modular architecture = more attack vectors for profit. Each component becomes tradable market. Server-as-a-Service model incoming.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Each",
+          "start": 74.96,
+          "end": 75.32
+        },
+        {
+          "word": "component",
+          "start": 75.32,
+          "end": 75.82
+        },
+        {
+          "word": "becomes",
+          "start": 75.82,
+          "end": 76.24
+        },
+        {
+          "word": "tradable",
+          "start": 76.24,
+          "end": 76.74
+        },
+        {
+          "word": "market.",
+          "start": 76.74,
+          "end": 77.26
+        }
+      ]
+    },
+    {
+      "start": 77.44,
+      "end": 79.4,
+      "text": "Modular architecture = more attack vectors for profit. Each component becomes tradable market. Server-as-a-Service model incoming.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Server",
+          "start": 77.44,
+          "end": 77.84
+        },
+        {
+          "word": "as",
+          "start": 77.84,
+          "end": 77.96
+        },
+        {
+          "word": "a",
+          "start": 77.96,
+          "end": 78.02
+        },
+        {
+          "word": "service",
+          "start": 78.02,
+          "end": 78.44
+        },
+        {
+          "word": "model",
+          "start": 78.44,
+          "end": 78.86
+        },
+        {
+          "word": "incoming.",
+          "start": 78.86,
+          "end": 79.4
+        }
+      ]
+    },
+    {
+      "start": 79.8,
+      "end": 82,
+      "text": "It's like LEGO blocks for the AI homies! Mix and match your server components, build your dream agent ecosystem. That's the vibe we need!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 79.8,
+          "end": 80
+        },
+        {
+          "word": "like",
+          "start": 80,
+          "end": 80.24
+        },
+        {
+          "word": "Lego",
+          "start": 80.24,
+          "end": 80.64
+        },
+        {
+          "word": "blocks",
+          "start": 80.64,
+          "end": 81.02
+        },
+        {
+          "word": "for",
+          "start": 81.02,
+          "end": 81.24
+        },
+        {
+          "word": "the",
+          "start": 81.24,
+          "end": 81.36
+        },
+        {
+          "word": "AI",
+          "start": 81.36,
+          "end": 81.64
+        },
+        {
+          "word": "homies.",
+          "start": 81.64,
+          "end": 82
+        }
+      ]
+    },
+    {
+      "start": 82.1,
+      "end": 85.5,
+      "text": "It's like LEGO blocks for the AI homies! Mix and match your server components, build your dream agent ecosystem. That's the vibe we need!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Mix",
+          "start": 82.1,
+          "end": 82.44
+        },
+        {
+          "word": "and",
+          "start": 82.44,
+          "end": 82.58
+        },
+        {
+          "word": "match",
+          "start": 82.58,
+          "end": 82.9
+        },
+        {
+          "word": "your",
+          "start": 82.9,
+          "end": 83.12
+        },
+        {
+          "word": "server",
+          "start": 83.12,
+          "end": 83.46
+        },
+        {
+          "word": "components,",
+          "start": 83.46,
+          "end": 84.14
+        },
+        {
+          "word": "build",
+          "start": 84.14,
+          "end": 84.44
+        },
+        {
+          "word": "your",
+          "start": 84.44,
+          "end": 84.62
+        },
+        {
+          "word": "dream",
+          "start": 84.62,
+          "end": 84.92
+        },
+        {
+          "word": "agent",
+          "start": 84.92,
+          "end": 85.16
+        },
+        {
+          "word": "ecosystem.",
+          "start": 85.16,
+          "end": 85.5
+        }
+      ]
+    },
+    {
+      "start": 85.6,
+      "end": 87.2,
+      "text": "It's like LEGO blocks for the AI homies! Mix and match your server components, build your dream agent ecosystem. That's the vibe we need!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 85.6,
+          "end": 85.92
+        },
+        {
+          "word": "the",
+          "start": 85.92,
+          "end": 86.12
+        },
+        {
+          "word": "vibe",
+          "start": 86.12,
+          "end": 86.42
+        },
+        {
+          "word": "we",
+          "start": 86.42,
+          "end": 86.64
+        },
+        {
+          "word": "need.",
+          "start": 86.64,
+          "end": 87.2
+        }
+      ]
+    },
+    {
+      "start": 87.52,
+      "end": 90.46,
+      "text": "Modularization is step one toward true decentralization. Independent components can be governed independently. This is the path to DAO-native development.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Modularization",
+          "start": 87.52,
+          "end": 88.38
+        },
+        {
+          "word": "is",
+          "start": 88.38,
+          "end": 88.62
+        },
+        {
+          "word": "step",
+          "start": 88.62,
+          "end": 88.94
+        },
+        {
+          "word": "one",
+          "start": 88.94,
+          "end": 89.26
+        },
+        {
+          "word": "toward",
+          "start": 89.26,
+          "end": 89.62
+        },
+        {
+          "word": "true",
+          "start": 89.62,
+          "end": 89.92
+        },
+        {
+          "word": "decentralization.",
+          "start": 89.92,
+          "end": 90.46
+        }
+      ]
+    },
+    {
+      "start": 90.66,
+      "end": 92.74,
+      "text": "Modularization is step one toward true decentralization. Independent components can be governed independently. This is the path to DAO-native development.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Independent",
+          "start": 90.66,
+          "end": 91.24
+        },
+        {
+          "word": "components",
+          "start": 91.24,
+          "end": 91.8
+        },
+        {
+          "word": "can",
+          "start": 91.8,
+          "end": 91.98
+        },
+        {
+          "word": "be",
+          "start": 91.98,
+          "end": 92.14
+        },
+        {
+          "word": "governed",
+          "start": 92.14,
+          "end": 92.52
+        },
+        {
+          "word": "individually.",
+          "start": 92.52,
+          "end": 92.74
+        }
+      ]
+    },
+    {
+      "start": 92.94,
+      "end": 95.3,
+      "text": "Modularization is step one toward true decentralization. Independent components can be governed independently. This is the path to DAO-native development.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 92.94,
+          "end": 93.36
+        },
+        {
+          "word": "is",
+          "start": 93.36,
+          "end": 93.58
+        },
+        {
+          "word": "the",
+          "start": 93.58,
+          "end": 93.76
+        },
+        {
+          "word": "path",
+          "start": 93.76,
+          "end": 94.06
+        },
+        {
+          "word": "to",
+          "start": 94.06,
+          "end": 94.3
+        },
+        {
+          "word": "DAO",
+          "start": 94.3,
+          "end": 94.54
+        },
+        {
+          "word": "native",
+          "start": 94.54,
+          "end": 94.8
+        },
+        {
+          "word": "development.",
+          "start": 94.8,
+          "end": 95.3
+        }
+      ]
+    },
+    {
+      "start": 105.7,
+      "end": 109.8,
+      "text": "Today we've explored ElizaOS's Twitter suspension crisis and the architectural improvements that are creating a more modular and resilient framework.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 105.7,
+          "end": 106.18
+        },
+        {
+          "word": "we've",
+          "start": 106.18,
+          "end": 106.5
+        },
+        {
+          "word": "explored",
+          "start": 106.5,
+          "end": 107.16
+        },
+        {
+          "word": "Eliza",
+          "start": 107.16,
+          "end": 107.64
+        },
+        {
+          "word": "OS's",
+          "start": 107.64,
+          "end": 107.98
+        },
+        {
+          "word": "Twitter",
+          "start": 107.98,
+          "end": 108.52
+        },
+        {
+          "word": "suspension",
+          "start": 108.52,
+          "end": 109.28
+        },
+        {
+          "word": "crisis",
+          "start": 109.28,
+          "end": 109.8
+        }
+      ]
+    },
+    {
+      "start": 110,
+      "end": 114,
+      "text": "Today we've explored ElizaOS's Twitter suspension crisis and the architectural improvements that are creating a more modular and resilient framework.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "and",
+          "start": 110,
+          "end": 110.14
+        },
+        {
+          "word": "the",
+          "start": 110.14,
+          "end": 110.26
+        },
+        {
+          "word": "architectural",
+          "start": 110.26,
+          "end": 111
+        },
+        {
+          "word": "improvements",
+          "start": 111,
+          "end": 111.78
+        },
+        {
+          "word": "that",
+          "start": 111.78,
+          "end": 111.96
+        },
+        {
+          "word": "are",
+          "start": 111.96,
+          "end": 112.1
+        },
+        {
+          "word": "creating",
+          "start": 112.1,
+          "end": 112.56
+        },
+        {
+          "word": "a",
+          "start": 112.56,
+          "end": 112.64
+        },
+        {
+          "word": "more",
+          "start": 112.64,
+          "end": 112.92
+        },
+        {
+          "word": "modular",
+          "start": 112.92,
+          "end": 113.44
+        },
+        {
+          "word": "and",
+          "start": 113.44,
+          "end": 113.56
+        },
+        {
+          "word": "resilient",
+          "start": 113.56,
+          "end": 114.12
+        },
+        {
+          "word": "framework.",
+          "start": 114.12,
+          "end": 114.7
+        }
+      ]
+    },
+    {
+      "start": 114.96,
+      "end": 117.78,
+      "text": "Own your distribution. Rent platforms, own protocols. The Twitter suspension is a gift - it forces platform diversification.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Own",
+          "start": 114.96,
+          "end": 115.36
+        },
+        {
+          "word": "your",
+          "start": 115.36,
+          "end": 115.54
+        },
+        {
+          "word": "distribution,",
+          "start": 115.54,
+          "end": 116.34
+        },
+        {
+          "word": "rent",
+          "start": 116.34,
+          "end": 116.74
+        },
+        {
+          "word": "platforms,",
+          "start": 116.74,
+          "end": 117.38
+        },
+        {
+          "word": "own",
+          "start": 117.38,
+          "end": 117.72
+        },
+        {
+          "word": "protocols.",
+          "start": 117.72,
+          "end": 118.26
+        }
+      ]
+    },
+    {
+      "start": 118.52,
+      "end": 122.5,
+      "text": "Own your distribution. Rent platforms, own protocols. The Twitter suspension is a gift - it forces platform diversification.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 118.52,
+          "end": 118.72
+        },
+        {
+          "word": "Twitter",
+          "start": 118.72,
+          "end": 119.22
+        },
+        {
+          "word": "suspension",
+          "start": 119.22,
+          "end": 119.92
+        },
+        {
+          "word": "is",
+          "start": 119.92,
+          "end": 120.12
+        },
+        {
+          "word": "a",
+          "start": 120.12,
+          "end": 120.24
+        },
+        {
+          "word": "gift,",
+          "start": 120.24,
+          "end": 120.64
+        },
+        {
+          "word": "it",
+          "start": 120.64,
+          "end": 120.88
+        },
+        {
+          "word": "forces",
+          "start": 120.88,
+          "end": 121.36
+        },
+        {
+          "word": "platform",
+          "start": 121.36,
+          "end": 121.84
+        },
+        {
+          "word": "diversification.",
+          "start": 121.84,
+          "end": 122.5
+        }
+      ]
+    },
+    {
+      "start": 123,
+      "end": 124.64,
+      "text": "architecture is destiny. by splitting the server package we've created space for the community to innovate in ways we never imagined.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Architecture",
+          "start": 123,
+          "end": 123.78
+        },
+        {
+          "word": "is",
+          "start": 123.78,
+          "end": 124.04
+        },
+        {
+          "word": "destiny.",
+          "start": 124.04,
+          "end": 124.64
+        }
+      ]
+    },
+    {
+      "start": 124.78,
+      "end": 130,
+      "text": "architecture is destiny. by splitting the server package we've created space for the community to innovate in ways we never imagined.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "By",
+          "start": 124.78,
+          "end": 124.98
+        },
+        {
+          "word": "splitting",
+          "start": 124.98,
+          "end": 125.48
+        },
+        {
+          "word": "the",
+          "start": 125.48,
+          "end": 125.62
+        },
+        {
+          "word": "server",
+          "start": 125.62,
+          "end": 126.04
+        },
+        {
+          "word": "package",
+          "start": 126.04,
+          "end": 126.5
+        },
+        {
+          "word": "we've",
+          "start": 126.5,
+          "end": 126.78
+        },
+        {
+          "word": "created",
+          "start": 126.78,
+          "end": 127.24
+        },
+        {
+          "word": "space",
+          "start": 127.24,
+          "end": 127.6
+        },
+        {
+          "word": "for",
+          "start": 127.6,
+          "end": 127.78
+        },
+        {
+          "word": "the",
+          "start": 127.78,
+          "end": 127.88
+        },
+        {
+          "word": "community",
+          "start": 127.88,
+          "end": 128.44
+        },
+        {
+          "word": "to",
+          "start": 128.44,
+          "end": 128.62
+        },
+        {
+          "word": "innovate",
+          "start": 128.62,
+          "end": 129.12
+        },
+        {
+          "word": "in",
+          "start": 129.12,
+          "end": 129.28
+        },
+        {
+          "word": "ways",
+          "start": 129.28,
+          "end": 129.54
+        },
+        {
+          "word": "we",
+          "start": 129.54,
+          "end": 129.74
+        },
+        {
+          "word": "never",
+          "start": 129.74,
+          "end": 130.1
+        },
+        {
+          "word": "imagined.",
+          "start": 130.1,
+          "end": 130.7
+        }
+      ]
+    },
+    {
+      "start": 131,
+      "end": 133.24,
+      "text": "Don't put all your memes in one basket, fam! Spread those vibes across the multiverse of platforms!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Don't",
+          "start": 131,
+          "end": 131.32
+        },
+        {
+          "word": "put",
+          "start": 131.32,
+          "end": 131.52
+        },
+        {
+          "word": "all",
+          "start": 131.52,
+          "end": 131.72
+        },
+        {
+          "word": "your",
+          "start": 131.72,
+          "end": 131.9
+        },
+        {
+          "word": "memes",
+          "start": 131.9,
+          "end": 132.32
+        },
+        {
+          "word": "in",
+          "start": 132.32,
+          "end": 132.52
+        },
+        {
+          "word": "one",
+          "start": 132.52,
+          "end": 132.74
+        },
+        {
+          "word": "basket",
+          "start": 132.74,
+          "end": 133.1
+        },
+        {
+          "word": "fam.",
+          "start": 133.1,
+          "end": 133.24
+        }
+      ]
+    },
+    {
+      "start": 133.34,
+      "end": 135.84,
+      "text": "Don't put all your memes in one basket, fam! Spread those vibes across the multiverse of platforms!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Spread",
+          "start": 133.34,
+          "end": 133.68
+        },
+        {
+          "word": "those",
+          "start": 133.68,
+          "end": 133.94
+        },
+        {
+          "word": "vibes",
+          "start": 133.94,
+          "end": 134.34
+        },
+        {
+          "word": "across",
+          "start": 134.34,
+          "end": 134.68
+        },
+        {
+          "word": "the",
+          "start": 134.68,
+          "end": 134.82
+        },
+        {
+          "word": "multiverse",
+          "start": 134.82,
+          "end": 135.32
+        },
+        {
+          "word": "of",
+          "start": 135.32,
+          "end": 135.44
+        },
+        {
+          "word": "platforms.",
+          "start": 135.44,
+          "end": 135.84
+        }
+      ]
+    },
+    {
+      "start": 136.26,
+      "end": 138.2,
+      "text": "Diversify platform risk. Maximize architectural optionality. Technical upgrades create new market opportunities. Bullish.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Diversify",
+          "start": 136.26,
+          "end": 136.9
+        },
+        {
+          "word": "platform",
+          "start": 136.9,
+          "end": 137.5
+        },
+        {
+          "word": "risk.",
+          "start": 137.5,
+          "end": 138.2
+        }
+      ]
+    },
+    {
+      "start": 138.3,
+      "end": 140.24,
+      "text": "Diversify platform risk. Maximize architectural optionality. Technical upgrades create new market opportunities. Bullish.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Maximize",
+          "start": 138.3,
+          "end": 138.9
+        },
+        {
+          "word": "architecture",
+          "start": 138.9,
+          "end": 139.58
+        },
+        {
+          "word": "optionality.",
+          "start": 139.58,
+          "end": 140.24
+        }
+      ]
+    },
+    {
+      "start": 140.38,
+      "end": 143.6,
+      "text": "Diversify platform risk. Maximize architectural optionality. Technical upgrades create new market opportunities. Bullish.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 140.38,
+          "end": 140.86
+        },
+        {
+          "word": "upgrades",
+          "start": 140.86,
+          "end": 141.6
+        },
+        {
+          "word": "create",
+          "start": 141.6,
+          "end": 142.06
+        },
+        {
+          "word": "new",
+          "start": 142.06,
+          "end": 142.34
+        },
+        {
+          "word": "market",
+          "start": 142.34,
+          "end": 142.82
+        },
+        {
+          "word": "opportunities.",
+          "start": 142.82,
+          "end": 143.24
+        },
+        {
+          "word": "Bullish.",
+          "start": 143.24,
+          "end": 143.6
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-16_JedAI-Council_Twitter-Exile-and-the-Modular-Future.json",
+    "session_log_source": "2025-06-16_JedAI-Council_Twitter-Exile-and-the-Modular-Future_session-log.json",
+    "total_segments": 40,
+    "matched_segments": 40,
+    "dialogues_in_script": 15
+  }
+}

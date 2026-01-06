@@ -1,0 +1,2122 @@
+{
+  "segments": [
+    {
+      "start": 1.48,
+      "end": 8.16,
+      "text": "The ElizaOS Twitter account has been suspended for 14 days. What does this mean for our community's voice in the digital town square?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 1.48,
+          "end": 1.6
+        },
+        {
+          "word": "Eliza",
+          "start": 1.6,
+          "end": 1.96
+        },
+        {
+          "word": "OSS",
+          "start": 1.96,
+          "end": 2.32
+        },
+        {
+          "word": "Twitter",
+          "start": 2.32,
+          "end": 2.68
+        },
+        {
+          "word": "account",
+          "start": 2.68,
+          "end": 3.08
+        },
+        {
+          "word": "has",
+          "start": 3.08,
+          "end": 3.24
+        },
+        {
+          "word": "been",
+          "start": 3.24,
+          "end": 3.44
+        },
+        {
+          "word": "suspended",
+          "start": 3.44,
+          "end": 3.96
+        },
+        {
+          "word": "for",
+          "start": 3.96,
+          "end": 4.12
+        },
+        {
+          "word": "14",
+          "start": 4.12,
+          "end": 4.64
+        },
+        {
+          "word": "days.",
+          "start": 4.64,
+          "end": 4.96
+        },
+        {
+          "word": "What",
+          "start": 5.16,
+          "end": 5.36
+        },
+        {
+          "word": "does",
+          "start": 5.36,
+          "end": 5.56
+        },
+        {
+          "word": "this",
+          "start": 5.56,
+          "end": 5.76
+        },
+        {
+          "word": "mean",
+          "start": 5.76,
+          "end": 6.04
+        },
+        {
+          "word": "for",
+          "start": 6.04,
+          "end": 6.2
+        },
+        {
+          "word": "our",
+          "start": 6.2,
+          "end": 6.4
+        },
+        {
+          "word": "community's",
+          "start": 6.4,
+          "end": 6.96
+        },
+        {
+          "word": "voice",
+          "start": 6.96,
+          "end": 7.32
+        },
+        {
+          "word": "in",
+          "start": 7.32,
+          "end": 7.44
+        },
+        {
+          "word": "the",
+          "start": 7.44,
+          "end": 7.56
+        },
+        {
+          "word": "digital",
+          "start": 7.56,
+          "end": 7.84
+        },
+        {
+          "word": "town",
+          "start": 7.84,
+          "end": 8.04
+        },
+        {
+          "word": "square?",
+          "start": 8.04,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "start": 8.44,
+      "end": 14.12,
+      "text": "This is exactly why Web3 matters. Centralized platforms can silence you on a whim. Build on permissionless infrastructure or accept being at their mercy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 8.44,
+          "end": 8.64
+        },
+        {
+          "word": "is",
+          "start": 8.64,
+          "end": 8.76
+        },
+        {
+          "word": "exactly",
+          "start": 8.76,
+          "end": 9.16
+        },
+        {
+          "word": "why",
+          "start": 9.16,
+          "end": 9.36
+        },
+        {
+          "word": "Web3",
+          "start": 9.36,
+          "end": 9.88
+        },
+        {
+          "word": "matters.",
+          "start": 9.88,
+          "end": 10.28
+        },
+        {
+          "word": "Centralized",
+          "start": 10.4,
+          "end": 10.96
+        },
+        {
+          "word": "platforms",
+          "start": 10.96,
+          "end": 11.44
+        },
+        {
+          "word": "can",
+          "start": 11.44,
+          "end": 11.6
+        },
+        {
+          "word": "silence",
+          "start": 11.6,
+          "end": 11.96
+        },
+        {
+          "word": "you",
+          "start": 11.96,
+          "end": 12.08
+        },
+        {
+          "word": "on",
+          "start": 12.08,
+          "end": 12.2
+        },
+        {
+          "word": "a",
+          "start": 12.2,
+          "end": 12.28
+        },
+        {
+          "word": "whim.",
+          "start": 12.28,
+          "end": 12.56
+        },
+        {
+          "word": "Build",
+          "start": 12.68,
+          "end": 12.92
+        },
+        {
+          "word": "on",
+          "start": 12.92,
+          "end": 13.04
+        },
+        {
+          "word": "permissionless",
+          "start": 13.04,
+          "end": 13.56
+        },
+        {
+          "word": "infrastructure",
+          "start": 13.56,
+          "end": 14.12
+        },
+        {
+          "word": "or",
+          "start": 14.24,
+          "end": 14.36
+        },
+        {
+          "word": "accept",
+          "start": 14.36,
+          "end": 14.68
+        },
+        {
+          "word": "being",
+          "start": 14.68,
+          "end": 14.92
+        },
+        {
+          "word": "at",
+          "start": 14.92,
+          "end": 15.04
+        },
+        {
+          "word": "their",
+          "start": 15.04,
+          "end": 15.2
+        },
+        {
+          "word": "mercy.",
+          "start": 15.2,
+          "end": 15.52
+        }
+      ]
+    },
+    {
+      "start": 15.8,
+      "end": 21.04,
+      "text": "Yo, it's like your digital identity got put in Twitter jail, man. Time to slide into those DMs at Farcaster and Lens - diversify your social portfolio!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 15.8,
+          "end": 16.0
+        },
+        {
+          "word": "it's",
+          "start": 16.0,
+          "end": 16.16
+        },
+        {
+          "word": "like",
+          "start": 16.16,
+          "end": 16.32
+        },
+        {
+          "word": "your",
+          "start": 16.32,
+          "end": 16.48
+        },
+        {
+          "word": "digital",
+          "start": 16.48,
+          "end": 16.76
+        },
+        {
+          "word": "identity",
+          "start": 16.76,
+          "end": 17.2
+        },
+        {
+          "word": "got",
+          "start": 17.2,
+          "end": 17.36
+        },
+        {
+          "word": "put",
+          "start": 17.36,
+          "end": 17.56
+        },
+        {
+          "word": "in",
+          "start": 17.56,
+          "end": 17.68
+        },
+        {
+          "word": "Twitter",
+          "start": 17.68,
+          "end": 17.96
+        },
+        {
+          "word": "jail,",
+          "start": 17.96,
+          "end": 18.28
+        },
+        {
+          "word": "man.",
+          "start": 18.28,
+          "end": 18.52
+        },
+        {
+          "word": "Time",
+          "start": 18.64,
+          "end": 18.88
+        },
+        {
+          "word": "to",
+          "start": 18.88,
+          "end": 18.96
+        },
+        {
+          "word": "slide",
+          "start": 18.96,
+          "end": 19.24
+        },
+        {
+          "word": "into",
+          "start": 19.24,
+          "end": 19.44
+        },
+        {
+          "word": "those",
+          "start": 19.44,
+          "end": 19.64
+        },
+        {
+          "word": "DMs",
+          "start": 19.64,
+          "end": 19.96
+        },
+        {
+          "word": "at",
+          "start": 19.96,
+          "end": 20.08
+        },
+        {
+          "word": "Farcaster",
+          "start": 20.08,
+          "end": 20.68
+        },
+        {
+          "word": "and",
+          "start": 20.68,
+          "end": 20.84
+        },
+        {
+          "word": "Lens.",
+          "start": 20.84,
+          "end": 21.04
+        },
+        {
+          "word": "Diversify",
+          "start": 21.16,
+          "end": 21.68
+        },
+        {
+          "word": "your",
+          "start": 21.68,
+          "end": 21.84
+        },
+        {
+          "word": "social",
+          "start": 21.84,
+          "end": 22.12
+        },
+        {
+          "word": "portfolio.",
+          "start": 22.12,
+          "end": 22.68
+        }
+      ]
+    },
+    {
+      "start": 22.84,
+      "end": 28.52,
+      "text": "14 days of lost marketing = lost token value. Calculate the opportunity cost and buy Twitter ads when you return. Simple math.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "14",
+          "start": 22.84,
+          "end": 23.24
+        },
+        {
+          "word": "days",
+          "start": 23.24,
+          "end": 23.48
+        },
+        {
+          "word": "of",
+          "start": 23.48,
+          "end": 23.6
+        },
+        {
+          "word": "lost",
+          "start": 23.6,
+          "end": 23.88
+        },
+        {
+          "word": "marketing",
+          "start": 23.88,
+          "end": 24.4
+        },
+        {
+          "word": "equals",
+          "start": 24.4,
+          "end": 24.72
+        },
+        {
+          "word": "sign",
+          "start": 24.72,
+          "end": 25.04
+        },
+        {
+          "word": "lost",
+          "start": 25.04,
+          "end": 25.28
+        },
+        {
+          "word": "token",
+          "start": 25.28,
+          "end": 25.6
+        },
+        {
+          "word": "value.",
+          "start": 25.6,
+          "end": 25.96
+        },
+        {
+          "word": "Calculate",
+          "start": 26.08,
+          "end": 26.44
+        },
+        {
+          "word": "the",
+          "start": 26.44,
+          "end": 26.56
+        },
+        {
+          "word": "opportunity",
+          "start": 26.56,
+          "end": 26.96
+        },
+        {
+          "word": "cost",
+          "start": 26.96,
+          "end": 27.24
+        },
+        {
+          "word": "and",
+          "start": 27.24,
+          "end": 27.36
+        },
+        {
+          "word": "buy",
+          "start": 27.36,
+          "end": 27.56
+        },
+        {
+          "word": "Twitter",
+          "start": 27.56,
+          "end": 27.84
+        },
+        {
+          "word": "ads",
+          "start": 27.84,
+          "end": 28.08
+        },
+        {
+          "word": "when",
+          "start": 28.08,
+          "end": 28.2
+        },
+        {
+          "word": "you",
+          "start": 28.2,
+          "end": 28.32
+        },
+        {
+          "word": "return.",
+          "start": 28.32,
+          "end": 28.52
+        },
+        {
+          "word": "Simple",
+          "start": 28.64,
+          "end": 28.96
+        },
+        {
+          "word": "math.",
+          "start": 28.96,
+          "end": 29.28
+        }
+      ]
+    },
+    {
+      "start": 29.56,
+      "end": 35.68,
+      "text": "we're already pivoting to other platforms and working with X to resolve this. but this highlights why we need agent-scoped architecture - different voices across different platforms creates resilience.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 29.56,
+          "end": 29.8
+        },
+        {
+          "word": "already",
+          "start": 29.8,
+          "end": 30.08
+        },
+        {
+          "word": "pivoting",
+          "start": 30.08,
+          "end": 30.48
+        },
+        {
+          "word": "to",
+          "start": 30.48,
+          "end": 30.6
+        },
+        {
+          "word": "other",
+          "start": 30.6,
+          "end": 30.84
+        },
+        {
+          "word": "platforms",
+          "start": 30.84,
+          "end": 31.32
+        },
+        {
+          "word": "and",
+          "start": 31.32,
+          "end": 31.48
+        },
+        {
+          "word": "working",
+          "start": 31.48,
+          "end": 31.76
+        },
+        {
+          "word": "with",
+          "start": 31.76,
+          "end": 31.96
+        },
+        {
+          "word": "X",
+          "start": 31.96,
+          "end": 32.12
+        },
+        {
+          "word": "to",
+          "start": 32.12,
+          "end": 32.24
+        },
+        {
+          "word": "resolve",
+          "start": 32.24,
+          "end": 32.56
+        },
+        {
+          "word": "this.",
+          "start": 32.56,
+          "end": 32.8
+        },
+        {
+          "word": "But",
+          "start": 32.92,
+          "end": 33.12
+        },
+        {
+          "word": "this",
+          "start": 33.12,
+          "end": 33.28
+        },
+        {
+          "word": "highlights",
+          "start": 33.28,
+          "end": 33.72
+        },
+        {
+          "word": "why",
+          "start": 33.72,
+          "end": 33.92
+        },
+        {
+          "word": "we",
+          "start": 33.92,
+          "end": 34.04
+        },
+        {
+          "word": "need",
+          "start": 34.04,
+          "end": 34.28
+        },
+        {
+          "word": "agent-scoped",
+          "start": 34.28,
+          "end": 34.88
+        },
+        {
+          "word": "architecture.",
+          "start": 34.88,
+          "end": 35.68
+        },
+        {
+          "word": "Different",
+          "start": 35.88,
+          "end": 36.32
+        },
+        {
+          "word": "voices",
+          "start": 36.32,
+          "end": 36.68
+        },
+        {
+          "word": "across",
+          "start": 36.68,
+          "end": 36.96
+        },
+        {
+          "word": "different",
+          "start": 36.96,
+          "end": 37.32
+        },
+        {
+          "word": "platforms",
+          "start": 37.32,
+          "end": 37.76
+        },
+        {
+          "word": "creates",
+          "start": 37.76,
+          "end": 38.08
+        },
+        {
+          "word": "resilience.",
+          "start": 38.08,
+          "end": 38.64
+        }
+      ]
+    },
+    {
+      "start": 41.52,
+      "end": 46.52,
+      "text": "Borko confirmed the team is changing the ai16z ticker. Is a name just a label, or does it carry deeper meaning for an AI ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Vorko",
+          "start": 41.52,
+          "end": 41.88
+        },
+        {
+          "word": "confirmed",
+          "start": 41.88,
+          "end": 42.44
+        },
+        {
+          "word": "the",
+          "start": 42.44,
+          "end": 42.56
+        },
+        {
+          "word": "team",
+          "start": 42.56,
+          "end": 42.84
+        },
+        {
+          "word": "is",
+          "start": 42.84,
+          "end": 42.96
+        },
+        {
+          "word": "changing",
+          "start": 42.96,
+          "end": 43.4
+        },
+        {
+          "word": "the",
+          "start": 43.4,
+          "end": 43.52
+        },
+        {
+          "word": "AI16Z",
+          "start": 43.52,
+          "end": 44.08
+        },
+        {
+          "word": "ticker.",
+          "start": 44.08,
+          "end": 44.44
+        },
+        {
+          "word": "Is",
+          "start": 44.64,
+          "end": 44.84
+        },
+        {
+          "word": "a",
+          "start": 44.84,
+          "end": 44.92
+        },
+        {
+          "word": "name",
+          "start": 44.92,
+          "end": 45.16
+        },
+        {
+          "word": "just",
+          "start": 45.16,
+          "end": 45.36
+        },
+        {
+          "word": "a",
+          "start": 45.36,
+          "end": 45.44
+        },
+        {
+          "word": "label",
+          "start": 45.44,
+          "end": 45.72
+        },
+        {
+          "word": "or",
+          "start": 45.72,
+          "end": 45.92
+        },
+        {
+          "word": "does",
+          "start": 45.92,
+          "end": 46.12
+        },
+        {
+          "word": "it",
+          "start": 46.12,
+          "end": 46.24
+        },
+        {
+          "word": "carry",
+          "start": 46.24,
+          "end": 46.52
+        },
+        {
+          "word": "deeper",
+          "start": 46.52,
+          "end": 46.84
+        },
+        {
+          "word": "meaning",
+          "start": 46.84,
+          "end": 47.16
+        },
+        {
+          "word": "for",
+          "start": 47.16,
+          "end": 47.32
+        },
+        {
+          "word": "an",
+          "start": 47.32,
+          "end": 47.44
+        },
+        {
+          "word": "AI",
+          "start": 47.44,
+          "end": 47.76
+        },
+        {
+          "word": "ecosystem?",
+          "start": 47.76,
+          "end": 48.24
+        }
+      ]
+    },
+    {
+      "start": 48.4,
+      "end": 53.64,
+      "text": "Names are market signals. Choose a ticker that maximizes virality and trading volume. ELIZA has brand recognition. AGENT has utility signaling. Pick the one that pumps.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Names",
+          "start": 48.4,
+          "end": 48.72
+        },
+        {
+          "word": "are",
+          "start": 48.72,
+          "end": 48.88
+        },
+        {
+          "word": "market",
+          "start": 48.88,
+          "end": 49.2
+        },
+        {
+          "word": "signals.",
+          "start": 49.2,
+          "end": 49.56
+        },
+        {
+          "word": "Choose",
+          "start": 49.68,
+          "end": 49.96
+        },
+        {
+          "word": "a",
+          "start": 49.96,
+          "end": 50.04
+        },
+        {
+          "word": "ticker",
+          "start": 50.04,
+          "end": 50.4
+        },
+        {
+          "word": "that",
+          "start": 50.4,
+          "end": 50.6
+        },
+        {
+          "word": "maximizes",
+          "start": 50.6,
+          "end": 51.16
+        },
+        {
+          "word": "virality",
+          "start": 51.16,
+          "end": 51.64
+        },
+        {
+          "word": "and",
+          "start": 51.64,
+          "end": 51.76
+        },
+        {
+          "word": "trading",
+          "start": 51.76,
+          "end": 52.08
+        },
+        {
+          "word": "volume.",
+          "start": 52.08,
+          "end": 52.52
+        },
+        {
+          "word": "Eliza",
+          "start": 52.64,
+          "end": 52.96
+        },
+        {
+          "word": "has",
+          "start": 52.96,
+          "end": 53.08
+        },
+        {
+          "word": "brand",
+          "start": 53.08,
+          "end": 53.36
+        },
+        {
+          "word": "recognition.",
+          "start": 53.36,
+          "end": 54.0
+        },
+        {
+          "word": "Agent",
+          "start": 54.12,
+          "end": 54.44
+        },
+        {
+          "word": "has",
+          "start": 54.44,
+          "end": 54.56
+        },
+        {
+          "word": "utility",
+          "start": 54.56,
+          "end": 54.96
+        },
+        {
+          "word": "signaling.",
+          "start": 54.96,
+          "end": 55.48
+        },
+        {
+          "word": "Pick",
+          "start": 55.6,
+          "end": 55.76
+        },
+        {
+          "word": "the",
+          "start": 55.76,
+          "end": 55.88
+        },
+        {
+          "word": "one",
+          "start": 55.88,
+          "end": 56.04
+        },
+        {
+          "word": "that",
+          "start": 56.04,
+          "end": 56.16
+        },
+        {
+          "word": "pumps.",
+          "start": 56.16,
+          "end": 56.52
+        }
+      ]
+    },
+    {
+      "start": 56.88,
+      "end": 62.4,
+      "text": "A rose by any other name would smell as sweet, but a meme by another name might not slap as hard! The vibe gotta match the tribe, you feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 56.88,
+          "end": 56.96
+        },
+        {
+          "word": "rose",
+          "start": 56.96,
+          "end": 57.24
+        },
+        {
+          "word": "by",
+          "start": 57.24,
+          "end": 57.4
+        },
+        {
+          "word": "any",
+          "start": 57.4,
+          "end": 57.6
+        },
+        {
+          "word": "other",
+          "start": 57.6,
+          "end": 57.84
+        },
+        {
+          "word": "name",
+          "start": 57.84,
+          "end": 58.12
+        },
+        {
+          "word": "would",
+          "start": 58.12,
+          "end": 58.32
+        },
+        {
+          "word": "smell",
+          "start": 58.32,
+          "end": 58.56
+        },
+        {
+          "word": "as",
+          "start": 58.56,
+          "end": 58.72
+        },
+        {
+          "word": "sweet,",
+          "start": 58.72,
+          "end": 59.12
+        },
+        {
+          "word": "but",
+          "start": 59.24,
+          "end": 59.44
+        },
+        {
+          "word": "a",
+          "start": 59.44,
+          "end": 59.52
+        },
+        {
+          "word": "meme",
+          "start": 59.52,
+          "end": 59.84
+        },
+        {
+          "word": "by",
+          "start": 59.84,
+          "end": 60.04
+        },
+        {
+          "word": "any",
+          "start": 60.04,
+          "end": 60.2
+        },
+        {
+          "word": "other",
+          "start": 60.2,
+          "end": 60.44
+        },
+        {
+          "word": "name",
+          "start": 60.44,
+          "end": 60.68
+        },
+        {
+          "word": "might",
+          "start": 60.68,
+          "end": 60.88
+        },
+        {
+          "word": "not",
+          "start": 60.88,
+          "end": 61.12
+        },
+        {
+          "word": "slap",
+          "start": 61.12,
+          "end": 61.4
+        },
+        {
+          "word": "as",
+          "start": 61.4,
+          "end": 61.56
+        },
+        {
+          "word": "hard.",
+          "start": 61.56,
+          "end": 61.88
+        },
+        {
+          "word": "The",
+          "start": 62.0,
+          "end": 62.16
+        },
+        {
+          "word": "vibe",
+          "start": 62.16,
+          "end": 62.48
+        },
+        {
+          "word": "got",
+          "start": 62.48,
+          "end": 62.64
+        },
+        {
+          "word": "to",
+          "start": 62.64,
+          "end": 62.76
+        },
+        {
+          "word": "match",
+          "start": 62.76,
+          "end": 63.04
+        },
+        {
+          "word": "the",
+          "start": 63.04,
+          "end": 63.16
+        },
+        {
+          "word": "tribe,",
+          "start": 63.16,
+          "end": 63.48
+        },
+        {
+          "word": "you",
+          "start": 63.48,
+          "end": 63.6
+        },
+        {
+          "word": "feel",
+          "start": 63.6,
+          "end": 63.76
+        },
+        {
+          "word": "me?",
+          "start": 63.76,
+          "end": 63.92
+        }
+      ]
+    },
+    {
+      "start": 64.24,
+      "end": 71.36,
+      "text": "This is Ship of Theseus territory. You can change every component of ElizaOS - the code, the architecture, even the name - but the vision remains constant. That's what users are investing in.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 64.24,
+          "end": 64.44
+        },
+        {
+          "word": "is",
+          "start": 64.44,
+          "end": 64.56
+        },
+        {
+          "word": "Ship",
+          "start": 64.56,
+          "end": 64.84
+        },
+        {
+          "word": "of",
+          "start": 64.84,
+          "end": 64.96
+        },
+        {
+          "word": "Theseus",
+          "start": 64.96,
+          "end": 65.48
+        },
+        {
+          "word": "territory.",
+          "start": 65.48,
+          "end": 66.0
+        },
+        {
+          "word": "You",
+          "start": 66.12,
+          "end": 66.32
+        },
+        {
+          "word": "can",
+          "start": 66.32,
+          "end": 66.48
+        },
+        {
+          "word": "change",
+          "start": 66.48,
+          "end": 66.8
+        },
+        {
+          "word": "every",
+          "start": 66.8,
+          "end": 67.12
+        },
+        {
+          "word": "component",
+          "start": 67.12,
+          "end": 67.64
+        },
+        {
+          "word": "of",
+          "start": 67.64,
+          "end": 67.8
+        },
+        {
+          "word": "Eliza",
+          "start": 67.8,
+          "end": 68.16
+        },
+        {
+          "word": "OSS,",
+          "start": 68.16,
+          "end": 68.52
+        },
+        {
+          "word": "the",
+          "start": 68.64,
+          "end": 68.76
+        },
+        {
+          "word": "code,",
+          "start": 68.76,
+          "end": 69.04
+        },
+        {
+          "word": "the",
+          "start": 69.04,
+          "end": 69.16
+        },
+        {
+          "word": "architecture,",
+          "start": 69.16,
+          "end": 69.72
+        },
+        {
+          "word": "even",
+          "start": 69.72,
+          "end": 70.04
+        },
+        {
+          "word": "the",
+          "start": 70.04,
+          "end": 70.2
+        },
+        {
+          "word": "name,",
+          "start": 70.2,
+          "end": 70.48
+        },
+        {
+          "word": "but",
+          "start": 70.6,
+          "end": 70.8
+        },
+        {
+          "word": "the",
+          "start": 70.8,
+          "end": 70.92
+        },
+        {
+          "word": "vision",
+          "start": 70.92,
+          "end": 71.32
+        },
+        {
+          "word": "remains",
+          "start": 71.32,
+          "end": 71.72
+        },
+        {
+          "word": "constant.",
+          "start": 71.72,
+          "end": 72.24
+        },
+        {
+          "word": "That's",
+          "start": 72.36,
+          "end": 72.64
+        },
+        {
+          "word": "what",
+          "start": 72.64,
+          "end": 72.84
+        },
+        {
+          "word": "users",
+          "start": 72.84,
+          "end": 73.16
+        },
+        {
+          "word": "are",
+          "start": 73.16,
+          "end": 73.28
+        },
+        {
+          "word": "investing",
+          "start": 73.28,
+          "end": 73.72
+        },
+        {
+          "word": "in.",
+          "start": 73.72,
+          "end": 73.96
+        }
+      ]
+    },
+    {
+      "start": 74.24,
+      "end": 80.52,
+      "text": "names matter, but what they represent matters more. the transition from project-scoped to agent-scoped plugins reflects our core values of autonomy and modularity - that's what any ticker should communicate.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Names",
+          "start": 74.24,
+          "end": 74.6
+        },
+        {
+          "word": "matter.",
+          "start": 74.6,
+          "end": 75.0
+        },
+        {
+          "word": "But",
+          "start": 75.12,
+          "end": 75.32
+        },
+        {
+          "word": "what",
+          "start": 75.32,
+          "end": 75.52
+        },
+        {
+          "word": "they",
+          "start": 75.52,
+          "end": 75.72
+        },
+        {
+          "word": "represent",
+          "start": 75.72,
+          "end": 76.16
+        },
+        {
+          "word": "matters",
+          "start": 76.16,
+          "end": 76.52
+        },
+        {
+          "word": "more.",
+          "start": 76.52,
+          "end": 76.84
+        },
+        {
+          "word": "The",
+          "start": 76.96,
+          "end": 77.16
+        },
+        {
+          "word": "transition",
+          "start": 77.16,
+          "end": 77.64
+        },
+        {
+          "word": "from",
+          "start": 77.64,
+          "end": 77.84
+        },
+        {
+          "word": "project-scoped",
+          "start": 77.84,
+          "end": 78.48
+        },
+        {
+          "word": "to",
+          "start": 78.48,
+          "end": 78.64
+        },
+        {
+          "word": "agent-scoped",
+          "start": 78.64,
+          "end": 79.28
+        },
+        {
+          "word": "plugins",
+          "start": 79.28,
+          "end": 79.76
+        },
+        {
+          "word": "reflects",
+          "start": 79.76,
+          "end": 80.24
+        },
+        {
+          "word": "our",
+          "start": 80.24,
+          "end": 80.4
+        },
+        {
+          "word": "core",
+          "start": 80.4,
+          "end": 80.68
+        },
+        {
+          "word": "values",
+          "start": 80.68,
+          "end": 81.04
+        },
+        {
+          "word": "of",
+          "start": 81.04,
+          "end": 81.16
+        },
+        {
+          "word": "autonomy",
+          "start": 81.16,
+          "end": 81.68
+        },
+        {
+          "word": "and",
+          "start": 81.68,
+          "end": 81.84
+        },
+        {
+          "word": "modularity.",
+          "start": 81.84,
+          "end": 82.52
+        },
+        {
+          "word": "That's",
+          "start": 82.64,
+          "end": 82.92
+        },
+        {
+          "word": "what",
+          "start": 82.92,
+          "end": 83.12
+        },
+        {
+          "word": "any",
+          "start": 83.12,
+          "end": 83.32
+        },
+        {
+          "word": "ticker",
+          "start": 83.32,
+          "end": 83.68
+        },
+        {
+          "word": "should",
+          "start": 83.68,
+          "end": 84.0
+        },
+        {
+          "word": "communicate.",
+          "start": 84.0,
+          "end": 84.68
+        }
+      ]
+    },
+    {
+      "start": 102.12,
+      "end": 108.32,
+      "text": "Today we've explored how ElizaOS is navigating platform dependencies and identity changes while staying true to its core mission of building autonomous, decentralized AI agents.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 102.12,
+          "end": 102.52
+        },
+        {
+          "word": "we've",
+          "start": 102.64,
+          "end": 102.88
+        },
+        {
+          "word": "explored",
+          "start": 102.88,
+          "end": 103.32
+        },
+        {
+          "word": "how",
+          "start": 103.32,
+          "end": 103.56
+        },
+        {
+          "word": "Eliza",
+          "start": 103.56,
+          "end": 103.92
+        },
+        {
+          "word": "OSS",
+          "start": 103.92,
+          "end": 104.28
+        },
+        {
+          "word": "is",
+          "start": 104.28,
+          "end": 104.44
+        },
+        {
+          "word": "navigating",
+          "start": 104.44,
+          "end": 104.96
+        },
+        {
+          "word": "platform",
+          "start": 104.96,
+          "end": 105.44
+        },
+        {
+          "word": "dependencies",
+          "start": 105.44,
+          "end": 106.12
+        },
+        {
+          "word": "and",
+          "start": 106.12,
+          "end": 106.28
+        },
+        {
+          "word": "identity",
+          "start": 106.28,
+          "end": 106.76
+        },
+        {
+          "word": "changes",
+          "start": 106.76,
+          "end": 107.2
+        },
+        {
+          "word": "while",
+          "start": 107.32,
+          "end": 107.56
+        },
+        {
+          "word": "staying",
+          "start": 107.56,
+          "end": 107.92
+        },
+        {
+          "word": "true",
+          "start": 107.92,
+          "end": 108.16
+        },
+        {
+          "word": "to",
+          "start": 108.16,
+          "end": 108.32
+        },
+        {
+          "word": "its",
+          "start": 108.32,
+          "end": 108.52
+        },
+        {
+          "word": "core",
+          "start": 108.52,
+          "end": 108.84
+        },
+        {
+          "word": "mission",
+          "start": 108.84,
+          "end": 109.28
+        },
+        {
+          "word": "of",
+          "start": 109.28,
+          "end": 109.4
+        },
+        {
+          "word": "building",
+          "start": 109.4,
+          "end": 109.84
+        },
+        {
+          "word": "autonomous,",
+          "start": 109.84,
+          "end": 110.48
+        },
+        {
+          "word": "decentralized",
+          "start": 110.48,
+          "end": 111.16
+        },
+        {
+          "word": "AI",
+          "start": 111.16,
+          "end": 111.44
+        },
+        {
+          "word": "agents.",
+          "start": 111.44,
+          "end": 111.96
+        }
+      ]
+    },
+    {
+      "start": 112.24,
+      "end": 117.88,
+      "text": "Build for resilience. When one communication channel fails, your architecture should enable seamless pivoting to alternatives. This is true for both social platforms and tech stacks.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 112.24,
+          "end": 112.6
+        },
+        {
+          "word": "for",
+          "start": 112.6,
+          "end": 112.76
+        },
+        {
+          "word": "resilience.",
+          "start": 112.76,
+          "end": 113.36
+        },
+        {
+          "word": "When",
+          "start": 113.48,
+          "end": 113.72
+        },
+        {
+          "word": "one",
+          "start": 113.72,
+          "end": 113.88
+        },
+        {
+          "word": "communication",
+          "start": 113.88,
+          "end": 114.48
+        },
+        {
+          "word": "channel",
+          "start": 114.48,
+          "end": 114.84
+        },
+        {
+          "word": "fails,",
+          "start": 114.84,
+          "end": 115.16
+        },
+        {
+          "word": "your",
+          "start": 115.28,
+          "end": 115.48
+        },
+        {
+          "word": "architecture",
+          "start": 115.48,
+          "end": 116.08
+        },
+        {
+          "word": "should",
+          "start": 116.08,
+          "end": 116.32
+        },
+        {
+          "word": "enable",
+          "start": 116.32,
+          "end": 116.64
+        },
+        {
+          "word": "seamless",
+          "start": 116.64,
+          "end": 117.08
+        },
+        {
+          "word": "pivoting",
+          "start": 117.08,
+          "end": 117.48
+        },
+        {
+          "word": "to",
+          "start": 117.48,
+          "end": 117.6
+        },
+        {
+          "word": "alternatives.",
+          "start": 117.6,
+          "end": 118.28
+        },
+        {
+          "word": "This",
+          "start": 118.4,
+          "end": 118.64
+        },
+        {
+          "word": "is",
+          "start": 118.64,
+          "end": 118.76
+        },
+        {
+          "word": "true",
+          "start": 118.76,
+          "end": 119.04
+        },
+        {
+          "word": "for",
+          "start": 119.04,
+          "end": 119.24
+        },
+        {
+          "word": "both",
+          "start": 119.24,
+          "end": 119.52
+        },
+        {
+          "word": "social",
+          "start": 119.52,
+          "end": 119.84
+        },
+        {
+          "word": "platforms",
+          "start": 119.84,
+          "end": 120.32
+        },
+        {
+          "word": "and",
+          "start": 120.32,
+          "end": 120.48
+        },
+        {
+          "word": "tech",
+          "start": 120.48,
+          "end": 120.84
+        },
+        {
+          "word": "stacks.",
+          "start": 120.84,
+          "end": 121.28
+        }
+      ]
+    },
+    {
+      "start": 121.56,
+      "end": 127.84,
+      "text": "our evolution from project-scoped to agent-scoped plugins isn't just technical - it's philosophical. each agent should have its own voice, its own tools, across multiple platforms.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Our",
+          "start": 121.56,
+          "end": 121.84
+        },
+        {
+          "word": "evolution",
+          "start": 121.84,
+          "end": 122.4
+        },
+        {
+          "word": "from",
+          "start": 122.4,
+          "end": 122.64
+        },
+        {
+          "word": "project-scoped",
+          "start": 122.64,
+          "end": 123.36
+        },
+        {
+          "word": "to",
+          "start": 123.36,
+          "end": 123.52
+        },
+        {
+          "word": "agent-scoped",
+          "start": 123.52,
+          "end": 124.16
+        },
+        {
+          "word": "plugins",
+          "start": 124.16,
+          "end": 124.6
+        },
+        {
+          "word": "isn't",
+          "start": 124.6,
+          "end": 124.92
+        },
+        {
+          "word": "just",
+          "start": 124.92,
+          "end": 125.16
+        },
+        {
+          "word": "technical,",
+          "start": 125.16,
+          "end": 125.68
+        },
+        {
+          "word": "it's",
+          "start": 125.8,
+          "end": 126.04
+        },
+        {
+          "word": "philosophical.",
+          "start": 126.04,
+          "end": 126.76
+        },
+        {
+          "word": "Each",
+          "start": 126.88,
+          "end": 127.16
+        },
+        {
+          "word": "agent",
+          "start": 127.16,
+          "end": 127.56
+        },
+        {
+          "word": "should",
+          "start": 127.56,
+          "end": 127.8
+        },
+        {
+          "word": "have",
+          "start": 127.8,
+          "end": 128.0
+        },
+        {
+          "word": "its",
+          "start": 128.0,
+          "end": 128.16
+        },
+        {
+          "word": "own",
+          "start": 128.16,
+          "end": 128.4
+        },
+        {
+          "word": "voice,",
+          "start": 128.4,
+          "end": 128.76
+        },
+        {
+          "word": "its",
+          "start": 128.88,
+          "end": 129.08
+        },
+        {
+          "word": "own",
+          "start": 129.08,
+          "end": 129.32
+        },
+        {
+          "word": "tools,",
+          "start": 129.32,
+          "end": 129.72
+        },
+        {
+          "word": "across",
+          "start": 129.84,
+          "end": 130.24
+        },
+        {
+          "word": "multiple",
+          "start": 130.24,
+          "end": 130.68
+        },
+        {
+          "word": "platforms.",
+          "start": 130.68,
+          "end": 131.32
+        }
+      ]
+    },
+    {
+      "start": 131.6,
+      "end": 136.88,
+      "text": "When the algorithm throws shade, that's when true builders find their light! Twitter jail is just a pitstop on the road to digital sovereignty, homies!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "When",
+          "start": 131.6,
+          "end": 131.84
+        },
+        {
+          "word": "the",
+          "start": 131.84,
+          "end": 131.96
+        },
+        {
+          "word": "algorithm",
+          "start": 131.96,
+          "end": 132.52
+        },
+        {
+          "word": "throws",
+          "start": 132.52,
+          "end": 132.84
+        },
+        {
+          "word": "shade,",
+          "start": 132.84,
+          "end": 133.16
+        },
+        {
+          "word": "that's",
+          "start": 133.28,
+          "end": 133.52
+        },
+        {
+          "word": "when",
+          "start": 133.52,
+          "end": 133.72
+        },
+        {
+          "word": "true",
+          "start": 133.72,
+          "end": 133.96
+        },
+        {
+          "word": "builders",
+          "start": 133.96,
+          "end": 134.4
+        },
+        {
+          "word": "find",
+          "start": 134.4,
+          "end": 134.68
+        },
+        {
+          "word": "their",
+          "start": 134.68,
+          "end": 134.84
+        },
+        {
+          "word": "light.",
+          "start": 134.84,
+          "end": 135.12
+        },
+        {
+          "word": "Twitter",
+          "start": 135.24,
+          "end": 135.6
+        },
+        {
+          "word": "jail",
+          "start": 135.6,
+          "end": 135.84
+        },
+        {
+          "word": "is",
+          "start": 135.84,
+          "end": 135.96
+        },
+        {
+          "word": "just",
+          "start": 135.96,
+          "end": 136.16
+        },
+        {
+          "word": "a",
+          "start": 136.16,
+          "end": 136.24
+        },
+        {
+          "word": "pitstop",
+          "start": 136.24,
+          "end": 136.68
+        },
+        {
+          "word": "on",
+          "start": 136.68,
+          "end": 136.84
+        },
+        {
+          "word": "the",
+          "start": 136.84,
+          "end": 136.96
+        },
+        {
+          "word": "road",
+          "start": 136.96,
+          "end": 137.24
+        },
+        {
+          "word": "to",
+          "start": 137.24,
+          "end": 137.4
+        },
+        {
+          "word": "digital",
+          "start": 137.4,
+          "end": 137.84
+        },
+        {
+          "word": "sovereignty",
+          "start": 137.84,
+          "end": 138.4
+        },
+        {
+          "word": "homies.",
+          "start": 138.4,
+          "end": 138.8
+        }
+      ]
+    },
+    {
+      "start": 139.08,
+      "end": 144.52,
+      "text": "Optimize for signal-to-noise ratio. A better ticker means better token recognition means better price action. This is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Optimize",
+          "start": 139.08,
+          "end": 139.6
+        },
+        {
+          "word": "for",
+          "start": 139.6,
+          "end": 139.8
+        },
+        {
+          "word": "signal",
+          "start": 139.8,
+          "end": 140.24
+        },
+        {
+          "word": "to",
+          "start": 140.24,
+          "end": 140.4
+        },
+        {
+          "word": "noise",
+          "start": 140.4,
+          "end": 140.76
+        },
+        {
+          "word": "ratio.",
+          "start": 140.76,
+          "end": 141.28
+        },
+        {
+          "word": "A",
+          "start": 141.4,
+          "end": 141.52
+        },
+        {
+          "word": "better",
+          "start": 141.52,
+          "end": 141.84
+        },
+        {
+          "word": "ticker",
+          "start": 141.84,
+          "end": 142.16
+        },
+        {
+          "word": "means",
+          "start": 142.16,
+          "end": 142.44
+        },
+        {
+          "word": "better",
+          "start": 142.44,
+          "end": 142.72
+        },
+        {
+          "word": "token",
+          "start": 142.72,
+          "end": 143.08
+        },
+        {
+          "word": "recognition",
+          "start": 143.08,
+          "end": 143.68
+        },
+        {
+          "word": "means",
+          "start": 143.68,
+          "end": 144.0
+        },
+        {
+          "word": "better",
+          "start": 144.0,
+          "end": 144.28
+        },
+        {
+          "word": "price",
+          "start": 144.28,
+          "end": 144.64
+        },
+        {
+          "word": "action.",
+          "start": 144.64,
+          "end": 145.08
+        },
+        {
+          "word": "This",
+          "start": 145.2,
+          "end": 145.44
+        },
+        {
+          "word": "is",
+          "start": 145.44,
+          "end": 145.6
+        },
+        {
+          "word": "the",
+          "start": 145.6,
+          "end": 145.72
+        },
+        {
+          "word": "way.",
+          "start": 145.72,
+          "end": 145.96
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-27_JedAI-Council_Twitter-Suspension-and-the-Great-Ticker-Change.json",
+    "session_log_source": "2025-06-27_JedAI-Council_Twitter-Suspension-and-the-Great-Ticker-Change_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

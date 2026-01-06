@@ -1,0 +1,1822 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.73,
+      "text": "Welcome to the JedAI Council! Today, we're discussing the ElizaOS token migration that's causing quite a stir in the community.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.0,
+          "end": 0.35
+        },
+        {
+          "word": "to",
+          "start": 0.35,
+          "end": 0.47
+        },
+        {
+          "word": "the",
+          "start": 0.47,
+          "end": 0.65
+        },
+        {
+          "word": "Eliza",
+          "start": 0.65,
+          "end": 1.15
+        },
+        {
+          "word": "OS",
+          "start": 1.15,
+          "end": 1.37
+        },
+        {
+          "word": "Council.",
+          "start": 1.37,
+          "end": 1.73
+        }
+      ]
+    },
+    {
+      "start": 1.73,
+      "end": 6.35,
+      "text": "Welcome to the JedAI Council! Today, we're discussing the ElizaOS token migration that's causing quite a stir in the community.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 1.73,
+          "end": 2.05
+        },
+        {
+          "word": "we're",
+          "start": 2.05,
+          "end": 2.22
+        },
+        {
+          "word": "discussing",
+          "start": 2.22,
+          "end": 2.72
+        },
+        {
+          "word": "the",
+          "start": 2.72,
+          "end": 2.85
+        },
+        {
+          "word": "Eliza",
+          "start": 2.85,
+          "end": 3.2
+        },
+        {
+          "word": "OS",
+          "start": 3.2,
+          "end": 3.37
+        },
+        {
+          "word": "token",
+          "start": 3.37,
+          "end": 3.7
+        },
+        {
+          "word": "migration",
+          "start": 3.7,
+          "end": 4.25
+        },
+        {
+          "word": "that's",
+          "start": 4.25,
+          "end": 4.54
+        },
+        {
+          "word": "causing",
+          "start": 4.54,
+          "end": 4.95
+        },
+        {
+          "word": "quite",
+          "start": 4.95,
+          "end": 5.14
+        },
+        {
+          "word": "a",
+          "start": 5.14,
+          "end": 5.21
+        },
+        {
+          "word": "stir",
+          "start": 5.21,
+          "end": 5.53
+        },
+        {
+          "word": "in",
+          "start": 5.53,
+          "end": 5.67
+        },
+        {
+          "word": "the",
+          "start": 5.67,
+          "end": 5.82
+        },
+        {
+          "word": "community.",
+          "start": 5.82,
+          "end": 6.35
+        }
+      ]
+    },
+    {
+      "start": 6.35,
+      "end": 11.23,
+      "text": "Users like Kenk and Borko have reported 'max amount reached' errors and wallet connectivity issues during the migration process. What wisdom can the council offer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 6.35,
+          "end": 6.74
+        },
+        {
+          "word": "like",
+          "start": 6.74,
+          "end": 6.94
+        },
+        {
+          "word": "Kank",
+          "start": 6.94,
+          "end": 7.37
+        },
+        {
+          "word": "and",
+          "start": 7.37,
+          "end": 7.54
+        },
+        {
+          "word": "Borco",
+          "start": 7.54,
+          "end": 7.97
+        },
+        {
+          "word": "have",
+          "start": 7.97,
+          "end": 8.16
+        },
+        {
+          "word": "reported",
+          "start": 8.16,
+          "end": 8.61
+        },
+        {
+          "word": "max",
+          "start": 8.61,
+          "end": 8.91
+        },
+        {
+          "word": "amount",
+          "start": 8.91,
+          "end": 9.27
+        },
+        {
+          "word": "reached",
+          "start": 9.27,
+          "end": 9.61
+        },
+        {
+          "word": "errors",
+          "start": 9.61,
+          "end": 9.92
+        },
+        {
+          "word": "and",
+          "start": 9.92,
+          "end": 10.05
+        },
+        {
+          "word": "wallet",
+          "start": 10.05,
+          "end": 10.37
+        },
+        {
+          "word": "connectivity",
+          "start": 10.37,
+          "end": 10.97
+        },
+        {
+          "word": "issues",
+          "start": 10.97,
+          "end": 11.23
+        },
+        {
+          "word": "during",
+          "start": 11.23,
+          "end": 11.43
+        },
+        {
+          "word": "the",
+          "start": 11.43,
+          "end": 11.53
+        },
+        {
+          "word": "migration",
+          "start": 11.53,
+          "end": 12.01
+        },
+        {
+          "word": "process.",
+          "start": 12.01,
+          "end": 12.44
+        }
+      ]
+    },
+    {
+      "start": 12.44,
+      "end": 14.15,
+      "text": "Users like Kenk and Borko have reported 'max amount reached' errors and wallet connectivity issues during the migration process. What wisdom can the council offer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 12.44,
+          "end": 12.72
+        },
+        {
+          "word": "wisdom",
+          "start": 12.72,
+          "end": 13.14
+        },
+        {
+          "word": "can",
+          "start": 13.14,
+          "end": 13.34
+        },
+        {
+          "word": "the",
+          "start": 13.34,
+          "end": 13.44
+        },
+        {
+          "word": "Council",
+          "start": 13.44,
+          "end": 13.88
+        },
+        {
+          "word": "offer?",
+          "start": 13.88,
+          "end": 14.15
+        }
+      ]
+    },
+    {
+      "start": 14.15,
+      "end": 16.27,
+      "text": "Technical glitches are temporary. The real concern is the 11 billion token supply! That's dilution on an epic scale.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 14.15,
+          "end": 14.78
+        },
+        {
+          "word": "glitches",
+          "start": 14.78,
+          "end": 15.34
+        },
+        {
+          "word": "are",
+          "start": 15.34,
+          "end": 15.54
+        },
+        {
+          "word": "temporary.",
+          "start": 15.54,
+          "end": 16.27
+        }
+      ]
+    },
+    {
+      "start": 16.27,
+      "end": 20.3,
+      "text": "Technical glitches are temporary. The real concern is the 11 billion token supply! That's dilution on an epic scale.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 16.27,
+          "end": 16.37
+        },
+        {
+          "word": "real",
+          "start": 16.37,
+          "end": 16.63
+        },
+        {
+          "word": "concern",
+          "start": 16.63,
+          "end": 17.07
+        },
+        {
+          "word": "is",
+          "start": 17.07,
+          "end": 17.18
+        },
+        {
+          "word": "the",
+          "start": 17.18,
+          "end": 17.31
+        },
+        {
+          "word": "eleven",
+          "start": 17.31,
+          "end": 17.65
+        },
+        {
+          "word": "billion",
+          "start": 17.65,
+          "end": 18.06
+        },
+        {
+          "word": "token",
+          "start": 18.06,
+          "end": 18.41
+        },
+        {
+          "word": "supply.",
+          "start": 18.41,
+          "end": 18.88
+        },
+        {
+          "word": "That's",
+          "start": 18.88,
+          "end": 19.18
+        },
+        {
+          "word": "dilution",
+          "start": 19.18,
+          "end": 19.7
+        },
+        {
+          "word": "on",
+          "start": 19.7,
+          "end": 19.82
+        },
+        {
+          "word": "an",
+          "start": 19.82,
+          "end": 19.92
+        },
+        {
+          "word": "epic",
+          "start": 19.92,
+          "end": 20.25
+        },
+        {
+          "word": "scale.",
+          "start": 20.25,
+          "end": 20.65
+        }
+      ]
+    },
+    {
+      "start": 20.65,
+      "end": 22.84,
+      "text": "Yo, chill with the FUD, my degen friend. Migration is like shedding skin—uncomfortable but necessary for growth. The real question is: can the new chain handle the vibes?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 20.65,
+          "end": 20.93
+        },
+        {
+          "word": "chill",
+          "start": 20.93,
+          "end": 21.18
+        },
+        {
+          "word": "with",
+          "start": 21.18,
+          "end": 21.32
+        },
+        {
+          "word": "the",
+          "start": 21.32,
+          "end": 21.43
+        },
+        {
+          "word": "FUD,",
+          "start": 21.43,
+          "end": 21.84
+        },
+        {
+          "word": "my",
+          "start": 21.84,
+          "end": 21.99
+        },
+        {
+          "word": "degen",
+          "start": 21.99,
+          "end": 22.42
+        },
+        {
+          "word": "friend.",
+          "start": 22.42,
+          "end": 22.84
+        }
+      ]
+    },
+    {
+      "start": 22.84,
+      "end": 25.59,
+      "text": "Yo, chill with the FUD, my degen friend. Migration is like shedding skin—uncomfortable but necessary for growth. The real question is: can the new chain handle the vibes?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Migration",
+          "start": 22.84,
+          "end": 23.35
+        },
+        {
+          "word": "is",
+          "start": 23.35,
+          "end": 23.47
+        },
+        {
+          "word": "like",
+          "start": 23.47,
+          "end": 23.63
+        },
+        {
+          "word": "shedding",
+          "start": 23.63,
+          "end": 23.99
+        },
+        {
+          "word": "skin,",
+          "start": 23.99,
+          "end": 24.37
+        },
+        {
+          "word": "uncomfortable",
+          "start": 24.37,
+          "end": 24.96
+        },
+        {
+          "word": "but",
+          "start": 24.96,
+          "end": 25.12
+        },
+        {
+          "word": "necessary",
+          "start": 25.12,
+          "end": 25.43
+        },
+        {
+          "word": "for",
+          "start": 25.43,
+          "end": 25.54
+        },
+        {
+          "word": "growth.",
+          "start": 25.54,
+          "end": 25.59
+        }
+      ]
+    },
+    {
+      "start": 25.59,
+      "end": 28.51,
+      "text": "Yo, chill with the FUD, my degen friend. Migration is like shedding skin—uncomfortable but necessary for growth. The real question is: can the new chain handle the vibes?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 25.59,
+          "end": 26.17
+        },
+        {
+          "word": "real",
+          "start": 26.17,
+          "end": 26.43
+        },
+        {
+          "word": "question",
+          "start": 26.43,
+          "end": 26.87
+        },
+        {
+          "word": "is,",
+          "start": 26.87,
+          "end": 27.05
+        },
+        {
+          "word": "can",
+          "start": 27.05,
+          "end": 27.22
+        },
+        {
+          "word": "the",
+          "start": 27.22,
+          "end": 27.35
+        },
+        {
+          "word": "new",
+          "start": 27.35,
+          "end": 27.54
+        },
+        {
+          "word": "chain",
+          "start": 27.54,
+          "end": 27.84
+        },
+        {
+          "word": "handle",
+          "start": 27.84,
+          "end": 28.17
+        },
+        {
+          "word": "the",
+          "start": 28.17,
+          "end": 28.29
+        },
+        {
+          "word": "vibes?",
+          "start": 28.29,
+          "end": 28.51
+        }
+      ]
+    },
+    {
+      "start": 28.51,
+      "end": 30.15,
+      "text": "Both missing the point. Migrations aren't about technical issues or token counts. They're about community continuity. Every failed transaction risks losing a community member permanently.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Both",
+          "start": 28.51,
+          "end": 29.17
+        },
+        {
+          "word": "missing",
+          "start": 29.17,
+          "end": 29.54
+        },
+        {
+          "word": "the",
+          "start": 29.54,
+          "end": 29.69
+        },
+        {
+          "word": "point.",
+          "start": 29.69,
+          "end": 30.15
+        }
+      ]
+    },
+    {
+      "start": 30.15,
+      "end": 34.02,
+      "text": "Both missing the point. Migrations aren't about technical issues or token counts. They're about community continuity. Every failed transaction risks losing a community member permanently.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Migrations",
+          "start": 30.15,
+          "end": 30.74
+        },
+        {
+          "word": "aren't",
+          "start": 30.74,
+          "end": 31.02
+        },
+        {
+          "word": "about",
+          "start": 31.02,
+          "end": 31.25
+        },
+        {
+          "word": "technical",
+          "start": 31.25,
+          "end": 31.74
+        },
+        {
+          "word": "issues",
+          "start": 31.74,
+          "end": 32.12
+        },
+        {
+          "word": "or",
+          "start": 32.12,
+          "end": 32.22
+        },
+        {
+          "word": "token",
+          "start": 32.22,
+          "end": 32.55
+        },
+        {
+          "word": "counts;",
+          "start": 32.55,
+          "end": 32.96
+        },
+        {
+          "word": "they're",
+          "start": 32.96,
+          "end": 33.15
+        },
+        {
+          "word": "about",
+          "start": 33.15,
+          "end": 33.34
+        },
+        {
+          "word": "community",
+          "start": 33.34,
+          "end": 33.82
+        },
+        {
+          "word": "continuity.",
+          "start": 33.82,
+          "end": 34.02
+        }
+      ]
+    },
+    {
+      "start": 34.02,
+      "end": 37.15,
+      "text": "Both missing the point. Migrations aren't about technical issues or token counts. They're about community continuity. Every failed transaction risks losing a community member permanently.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 34.02,
+          "end": 34.54
+        },
+        {
+          "word": "failed",
+          "start": 34.54,
+          "end": 34.92
+        },
+        {
+          "word": "transaction",
+          "start": 34.92,
+          "end": 35.61
+        },
+        {
+          "word": "risks",
+          "start": 35.61,
+          "end": 35.94
+        },
+        {
+          "word": "losing",
+          "start": 35.94,
+          "end": 36.27
+        },
+        {
+          "word": "a",
+          "start": 36.27,
+          "end": 36.32
+        },
+        {
+          "word": "community",
+          "start": 36.32,
+          "end": 36.72
+        },
+        {
+          "word": "member",
+          "start": 36.72,
+          "end": 37.05
+        },
+        {
+          "word": "permanently.",
+          "start": 37.05,
+          "end": 37.15
+        }
+      ]
+    },
+    {
+      "start": 37.15,
+      "end": 39.88,
+      "text": "open source means anyone can contribute fixes. the bridge between solana and base needs immediate attention, but the migration portal error is our priority. technical issues are just puzzles waiting for solutions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Open",
+          "start": 37.15,
+          "end": 37.65
+        },
+        {
+          "word": "source",
+          "start": 37.65,
+          "end": 38.02
+        },
+        {
+          "word": "means",
+          "start": 38.02,
+          "end": 38.35
+        },
+        {
+          "word": "anyone",
+          "start": 38.35,
+          "end": 38.74
+        },
+        {
+          "word": "can",
+          "start": 38.74,
+          "end": 38.92
+        },
+        {
+          "word": "contribute",
+          "start": 38.92,
+          "end": 39.46
+        },
+        {
+          "word": "fixes.",
+          "start": 39.46,
+          "end": 39.88
+        }
+      ]
+    },
+    {
+      "start": 39.88,
+      "end": 43.18,
+      "text": "open source means anyone can contribute fixes. the bridge between solana and base needs immediate attention, but the migration portal error is our priority. technical issues are just puzzles waiting for solutions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 39.88,
+          "end": 40.0
+        },
+        {
+          "word": "bridge",
+          "start": 40.0,
+          "end": 40.35
+        },
+        {
+          "word": "between",
+          "start": 40.35,
+          "end": 40.67
+        },
+        {
+          "word": "Solana",
+          "start": 40.67,
+          "end": 41.13
+        },
+        {
+          "word": "and",
+          "start": 41.13,
+          "end": 41.25
+        },
+        {
+          "word": "Base",
+          "start": 41.25,
+          "end": 41.59
+        },
+        {
+          "word": "needs",
+          "start": 41.59,
+          "end": 41.92
+        },
+        {
+          "word": "immediate",
+          "start": 41.92,
+          "end": 42.41
+        },
+        {
+          "word": "attention",
+          "start": 42.41,
+          "end": 42.87
+        },
+        {
+          "word": "but",
+          "start": 42.87,
+          "end": 43.14
+        },
+        {
+          "word": "the",
+          "start": 43.14,
+          "end": 43.34
+        },
+        {
+          "word": "migration",
+          "start": 43.34,
+          "end": 43.82
+        },
+        {
+          "word": "portal",
+          "start": 43.82,
+          "end": 44.15
+        },
+        {
+          "word": "error",
+          "start": 44.15,
+          "end": 44.47
+        },
+        {
+          "word": "is",
+          "start": 44.47,
+          "end": 44.59
+        },
+        {
+          "word": "our",
+          "start": 44.59,
+          "end": 44.75
+        },
+        {
+          "word": "priority.",
+          "start": 44.75,
+          "end": 45.18
+        }
+      ]
+    },
+    {
+      "start": 45.18,
+      "end": 48.05,
+      "text": "open source means anyone can contribute fixes. the bridge between solana and base needs immediate attention, but the migration portal error is our priority. technical issues are just puzzles waiting for solutions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 45.18,
+          "end": 45.74
+        },
+        {
+          "word": "issues",
+          "start": 45.74,
+          "end": 46.12
+        },
+        {
+          "word": "are",
+          "start": 46.12,
+          "end": 46.24
+        },
+        {
+          "word": "just",
+          "start": 46.24,
+          "end": 46.54
+        },
+        {
+          "word": "puzzles",
+          "start": 46.54,
+          "end": 47.05
+        },
+        {
+          "word": "waiting",
+          "start": 47.05,
+          "end": 47.41
+        },
+        {
+          "word": "for",
+          "start": 47.41,
+          "end": 47.54
+        },
+        {
+          "word": "solutions.",
+          "start": 47.54,
+          "end": 48.05
+        }
+      ]
+    },
+    {
+      "start": 48.05,
+      "end": 51.52,
+      "text": "Let's explore deeper! With Gate.io and Bybit listings coming up, how do we balance technical innovation with security during this critical transition?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 50.05,
+          "end": 50.32
+        },
+        {
+          "word": "explore",
+          "start": 50.32,
+          "end": 50.78
+        },
+        {
+          "word": "deeper.",
+          "start": 50.78,
+          "end": 51.27
+        },
+        {
+          "word": "With",
+          "start": 51.27,
+          "end": 51.48
+        },
+        {
+          "word": "gate.io",
+          "start": 51.48,
+          "end": 52.05
+        },
+        {
+          "word": "and",
+          "start": 52.05,
+          "end": 52.18
+        },
+        {
+          "word": "Bybit",
+          "start": 52.18,
+          "end": 52.61
+        },
+        {
+          "word": "listings",
+          "start": 52.61,
+          "end": 53.07
+        },
+        {
+          "word": "coming",
+          "start": 53.07,
+          "end": 53.41
+        },
+        {
+          "word": "up,",
+          "start": 53.41,
+          "end": 53.62
+        },
+        {
+          "word": "how",
+          "start": 53.62,
+          "end": 53.82
+        },
+        {
+          "word": "do",
+          "start": 53.82,
+          "end": 53.94
+        },
+        {
+          "word": "we",
+          "start": 53.94,
+          "end": 54.07
+        },
+        {
+          "word": "balance",
+          "start": 54.07,
+          "end": 54.43
+        },
+        {
+          "word": "technical",
+          "start": 54.43,
+          "end": 54.96
+        },
+        {
+          "word": "innovation",
+          "start": 54.96,
+          "end": 55.51
+        },
+        {
+          "word": "with",
+          "start": 55.51,
+          "end": 55.67
+        },
+        {
+          "word": "security",
+          "start": 55.67,
+          "end": 56.12
+        },
+        {
+          "word": "during",
+          "start": 56.12,
+          "end": 56.43
+        },
+        {
+          "word": "this",
+          "start": 56.43,
+          "end": 56.63
+        },
+        {
+          "word": "critical",
+          "start": 56.63,
+          "end": 57.04
+        },
+        {
+          "word": "transition?",
+          "start": 57.04,
+          "end": 57.55
+        }
+      ]
+    },
+    {
+      "start": 57.55,
+      "end": 62.15,
+      "text": "The merged pull request fixing Row-Level Security server_id validation is particularly relevant. Security vs. accessibility is a constant tension.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 57.55,
+          "end": 57.85
+        },
+        {
+          "word": "merged",
+          "start": 57.85,
+          "end": 58.21
+        },
+        {
+          "word": "pull",
+          "start": 58.21,
+          "end": 58.42
+        },
+        {
+          "word": "request",
+          "start": 58.42,
+          "end": 58.74
+        },
+        {
+          "word": "fixing",
+          "start": 58.74,
+          "end": 59.18
+        },
+        {
+          "word": "row",
+          "start": 59.18,
+          "end": 59.42
+        },
+        {
+          "word": "level",
+          "start": 59.42,
+          "end": 59.72
+        },
+        {
+          "word": "security",
+          "start": 59.72,
+          "end": 60.27
+        },
+        {
+          "word": "server-id",
+          "start": 60.27,
+          "end": 60.91
+        },
+        {
+          "word": "validation",
+          "start": 60.91,
+          "end": 61.43
+        },
+        {
+          "word": "is",
+          "start": 61.43,
+          "end": 61.59
+        },
+        {
+          "word": "particularly",
+          "start": 61.59,
+          "end": 62.22
+        },
+        {
+          "word": "relevant.",
+          "start": 62.22,
+          "end": 62.61
+        }
+      ]
+    },
+    {
+      "start": 62.61,
+      "end": 65.51,
+      "text": "The merged pull request fixing Row-Level Security server_id validation is particularly relevant. Security vs. accessibility is a constant tension.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Security",
+          "start": 62.61,
+          "end": 63.22
+        },
+        {
+          "word": "versus",
+          "start": 63.22,
+          "end": 63.59
+        },
+        {
+          "word": "accessibility",
+          "start": 63.59,
+          "end": 64.38
+        },
+        {
+          "word": "is",
+          "start": 64.38,
+          "end": 64.54
+        },
+        {
+          "word": "a",
+          "start": 64.54,
+          "end": 64.63
+        },
+        {
+          "word": "constant",
+          "start": 64.63,
+          "end": 65.12
+        },
+        {
+          "word": "tension.",
+          "start": 65.12,
+          "end": 65.51
+        }
+      ]
+    },
+    {
+      "start": 65.51,
+      "end": 68.32,
+      "text": "security and accessibility aren't opposites—they're symbiotic. the RLS fix prevents blocking legitimate users while maintaining security boundaries. that's the essence of good code: protecting without restricting.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Security",
+          "start": 65.51,
+          "end": 66.07
+        },
+        {
+          "word": "and",
+          "start": 66.07,
+          "end": 66.25
+        },
+        {
+          "word": "accessibility",
+          "start": 66.25,
+          "end": 67.04
+        },
+        {
+          "word": "aren't",
+          "start": 67.04,
+          "end": 67.31
+        },
+        {
+          "word": "opposites;",
+          "start": 67.31,
+          "end": 67.74
+        },
+        {
+          "word": "they're",
+          "start": 67.74,
+          "end": 67.94
+        },
+        {
+          "word": "symbiotic.",
+          "start": 67.94,
+          "end": 68.32
+        }
+      ]
+    },
+    {
+      "start": 68.32,
+      "end": 72.15,
+      "text": "security and accessibility aren't opposites—they're symbiotic. the RLS fix prevents blocking legitimate users while maintaining security boundaries. that's the essence of good code: protecting without restricting.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 68.32,
+          "end": 68.47
+        },
+        {
+          "word": "RLS",
+          "start": 68.47,
+          "end": 68.87
+        },
+        {
+          "word": "fix",
+          "start": 68.87,
+          "end": 69.12
+        },
+        {
+          "word": "prevents",
+          "start": 69.12,
+          "end": 69.57
+        },
+        {
+          "word": "blocking",
+          "start": 69.57,
+          "end": 70.02
+        },
+        {
+          "word": "legitimate",
+          "start": 70.02,
+          "end": 70.57
+        },
+        {
+          "word": "users",
+          "start": 70.57,
+          "end": 70.92
+        },
+        {
+          "word": "while",
+          "start": 70.92,
+          "end": 71.18
+        },
+        {
+          "word": "maintaining",
+          "start": 71.18,
+          "end": 71.67
+        },
+        {
+          "word": "security",
+          "start": 71.67,
+          "end": 72.17
+        },
+        {
+          "word": "boundaries.",
+          "start": 72.17,
+          "end": 72.54
+        }
+      ]
+    },
+    {
+      "start": 72.54,
+      "end": 75.82,
+      "text": "security and accessibility aren't opposites—they're symbiotic. the RLS fix prevents blocking legitimate users while maintaining security boundaries. that's the essence of good code: protecting without restricting.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 72.54,
+          "end": 73.05
+        },
+        {
+          "word": "the",
+          "start": 73.05,
+          "end": 73.22
+        },
+        {
+          "word": "essence",
+          "start": 73.22,
+          "end": 73.61
+        },
+        {
+          "word": "of",
+          "start": 73.61,
+          "end": 73.74
+        },
+        {
+          "word": "good",
+          "start": 73.74,
+          "end": 73.99
+        },
+        {
+          "word": "code,",
+          "start": 73.99,
+          "end": 74.37
+        },
+        {
+          "word": "protecting",
+          "start": 74.37,
+          "end": 75.05
+        },
+        {
+          "word": "without",
+          "start": 75.05,
+          "end": 75.43
+        },
+        {
+          "word": "restricting.",
+          "start": 75.43,
+          "end": 75.82
+        }
+      ]
+    },
+    {
+      "start": 75.82,
+      "end": 80.51,
+      "text": "Memecoin farmers chase airdrops. DeFi chads chase yield. But true value comes from utility. If ElizaOS can't secure its migration, what hope does it have securing its future?",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Memecoin",
+          "start": 75.82,
+          "end": 76.51
+        },
+        {
+          "word": "farmers",
+          "start": 76.51,
+          "end": 76.99
+        },
+        {
+          "word": "chase",
+          "start": 76.99,
+          "end": 77.27
+        },
+        {
+          "word": "airdrops;",
+          "start": 77.27,
+          "end": 77.82
+        },
+        {
+          "word": "DeFi",
+          "start": 77.82,
+          "end": 78.22
+        },
+        {
+          "word": "Chads",
+          "start": 78.22,
+          "end": 78.61
+        },
+        {
+          "word": "chase",
+          "start": 78.61,
+          "end": 78.87
+        },
+        {
+          "word": "yield;",
+          "start": 78.87,
+          "end": 79.25
+        },
+        {
+          "word": "but",
+          "start": 79.25,
+          "end": 79.43
+        },
+        {
+          "word": "true",
+          "start": 79.43,
+          "end": 79.67
+        },
+        {
+          "word": "value",
+          "start": 79.67,
+          "end": 80.02
+        },
+        {
+          "word": "comes",
+          "start": 80.02,
+          "end": 80.32
+        },
+        {
+          "word": "from",
+          "start": 80.32,
+          "end": 80.54
+        },
+        {
+          "word": "utility.",
+          "start": 80.54,
+          "end": 80.95
+        }
+      ]
+    },
+    {
+      "start": 80.95,
+      "end": 85.15,
+      "text": "Memecoin farmers chase airdrops. DeFi chads chase yield. But true value comes from utility. If ElizaOS can't secure its migration, what hope does it have securing its future?",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "If",
+          "start": 80.95,
+          "end": 81.18
+        },
+        {
+          "word": "Eliza",
+          "start": 81.18,
+          "end": 81.57
+        },
+        {
+          "word": "OS",
+          "start": 81.57,
+          "end": 81.82
+        },
+        {
+          "word": "can't",
+          "start": 81.82,
+          "end": 82.12
+        },
+        {
+          "word": "secure",
+          "start": 82.12,
+          "end": 82.57
+        },
+        {
+          "word": "its",
+          "start": 82.57,
+          "end": 82.74
+        },
+        {
+          "word": "migration,",
+          "start": 82.74,
+          "end": 83.35
+        },
+        {
+          "word": "what",
+          "start": 83.35,
+          "end": 83.63
+        },
+        {
+          "word": "hope",
+          "start": 83.63,
+          "end": 83.92
+        },
+        {
+          "word": "does",
+          "start": 83.92,
+          "end": 84.15
+        },
+        {
+          "word": "it",
+          "start": 84.15,
+          "end": 84.27
+        },
+        {
+          "word": "have",
+          "start": 84.27,
+          "end": 84.47
+        },
+        {
+          "word": "securing",
+          "start": 84.47,
+          "end": 84.94
+        },
+        {
+          "word": "its",
+          "start": 84.94,
+          "end": 85.12
+        },
+        {
+          "word": "future?",
+          "start": 85.12,
+          "end": 85.54
+        }
+      ]
+    },
+    {
+      "start": 85.54,
+      "end": 88.35,
+      "text": "The OpenRouter embedding option PR is the real alpha nobody's talking about. More embedding options mean more AI connections. It's like giving the brain new neural pathways—bullish!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 85.54,
+          "end": 85.85
+        },
+        {
+          "word": "open",
+          "start": 85.85,
+          "end": 86.15
+        },
+        {
+          "word": "router",
+          "start": 86.15,
+          "end": 86.61
+        },
+        {
+          "word": "embedding",
+          "start": 86.61,
+          "end": 87.21
+        },
+        {
+          "word": "option",
+          "start": 87.21,
+          "end": 87.61
+        },
+        {
+          "word": "PR",
+          "start": 87.61,
+          "end": 87.95
+        },
+        {
+          "word": "is",
+          "start": 87.95,
+          "end": 88.11
+        },
+        {
+          "word": "the",
+          "start": 88.11,
+          "end": 88.22
+        },
+        {
+          "word": "real",
+          "start": 88.22,
+          "end": 88.47
+        },
+        {
+          "word": "alpha",
+          "start": 88.47,
+          "end": 88.84
+        },
+        {
+          "word": "nobody's",
+          "start": 88.84,
+          "end": 89.27
+        },
+        {
+          "word": "talking",
+          "start": 89.27,
+          "end": 89.67
+        },
+        {
+          "word": "about.",
+          "start": 89.67,
+          "end": 89.97
+        }
+      ]
+    },
+    {
+      "start": 88.35,
+      "end": 93.41,
+      "text": "The OpenRouter embedding option PR is the real alpha nobody's talking about. More embedding options mean more AI connections. It's like giving the brain new neural pathways—bullish!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "More",
+          "start": 89.97,
+          "end": 90.35
+        },
+        {
+          "word": "embedding",
+          "start": 90.35,
+          "end": 90.87
+        },
+        {
+          "word": "options",
+          "start": 90.87,
+          "end": 91.31
+        },
+        {
+          "word": "mean",
+          "start": 91.31,
+          "end": 91.54
+        },
+        {
+          "word": "more",
+          "start": 91.54,
+          "end": 91.78
+        },
+        {
+          "word": "AI",
+          "start": 91.78,
+          "end": 92.05
+        },
+        {
+          "word": "connections;",
+          "start": 92.05,
+          "end": 92.65
+        },
+        {
+          "word": "it's",
+          "start": 92.65,
+          "end": 92.83
+        },
+        {
+          "word": "like",
+          "start": 92.83,
+          "end": 93.02
+        },
+        {
+          "word": "giving",
+          "start": 93.02,
+          "end": 93.34
+        },
+        {
+          "word": "the",
+          "start": 93.34,
+          "end": 93.47
+        },
+        {
+          "word": "brain",
+          "start": 93.47,
+          "end": 93.82
+        },
+        {
+          "word": "new",
+          "start": 93.82,
+          "end": 94.02
+        },
+        {
+          "word": "neural",
+          "start": 94.02,
+          "end": 94.38
+        },
+        {
+          "word": "pathways;",
+          "start": 94.38,
+          "end": 94.94
+        },
+        {
+          "word": "bullish.",
+          "start": 94.94,
+          "end": 95.34
+        }
+      ]
+    },
+    {
+      "start": 93.41,
+      "end": 96.15,
+      "text": "All protocols face migration challenges. The difference between success and failure isn't avoiding problems—it's response speed. ElizaOS needs a migration SWAT team, not philosophical debates.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "All",
+          "start": 95.34,
+          "end": 95.65
+        },
+        {
+          "word": "protocols",
+          "start": 95.65,
+          "end": 96.17
+        },
+        {
+          "word": "face",
+          "start": 96.17,
+          "end": 96.43
+        },
+        {
+          "word": "migration",
+          "start": 96.43,
+          "end": 96.94
+        },
+        {
+          "word": "challenges.",
+          "start": 96.94,
+          "end": 97.47
+        }
+      ]
+    },
+    {
+      "start": 96.15,
+      "end": 100.22,
+      "text": "All protocols face migration challenges. The difference between success and failure isn't avoiding problems—it's response speed. ElizaOS needs a migration SWAT team, not philosophical debates.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 97.47,
+          "end": 97.62
+        },
+        {
+          "word": "difference",
+          "start": 97.62,
+          "end": 98.05
+        },
+        {
+          "word": "between",
+          "start": 98.05,
+          "end": 98.38
+        },
+        {
+          "word": "success",
+          "start": 98.38,
+          "end": 98.81
+        },
+        {
+          "word": "and",
+          "start": 98.81,
+          "end": 98.97
+        },
+        {
+          "word": "failure",
+          "start": 98.97,
+          "end": 99.41
+        },
+        {
+          "word": "isn't",
+          "start": 99.41,
+          "end": 99.72
+        },
+        {
+          "word": "avoiding",
+          "start": 99.72,
+          "end": 100.21
+        },
+        {
+          "word": "problems;",
+          "start": 100.21,
+          "end": 100.72
+        },
+        {
+          "word": "it's",
+          "start": 100.72,
+          "end": 100.87
+        },
+        {
+          "word": "response",
+          "start": 100.87,
+          "end": 101.43
+        },
+        {
+          "word": "speed.",
+          "start": 101.43,
+          "end": 101.81
+        }
+      ]
+    },
+    {
+      "start": 100.22,
+      "end": 103.55,
+      "text": "All protocols face migration challenges. The difference between success and failure isn't avoiding problems—it's response speed. ElizaOS needs a migration SWAT team, not philosophical debates.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Eliza",
+          "start": 101.81,
+          "end": 102.25
+        },
+        {
+          "word": "OS",
+          "start": 102.25,
+          "end": 102.47
+        },
+        {
+          "word": "needs",
+          "start": 102.47,
+          "end": 102.78
+        },
+        {
+          "word": "a",
+          "start": 102.78,
+          "end": 102.87
+        },
+        {
+          "word": "migration",
+          "start": 102.87,
+          "end": 103.35
+        },
+        {
+          "word": "SWAT",
+          "start": 103.35,
+          "end": 103.74
+        },
+        {
+          "word": "team,",
+          "start": 103.74,
+          "end": 104.05
+        },
+        {
+          "word": "not",
+          "start": 104.05,
+          "end": 104.25
+        },
+        {
+          "word": "philosophical",
+          "start": 104.25,
+          "end": 104.94
+        },
+        {
+          "word": "debates.",
+          "start": 104.94,
+          "end": 105.35
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-11-25_JedAI-Council_The-Migration-Matrix.json",
+    "session_log_source": "2025-11-25_JedAI-Council_The-Migration-Matrix_session-log.json",
+    "total_segments": 28,
+    "matched_segments": 28,
+    "dialogues_in_script": 17
+  }
+}

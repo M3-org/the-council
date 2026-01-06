@@ -1,0 +1,2332 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 20.2,
+      "text": "Sam-developer and Agent Joshua have deployed ElizaOS to both Railway and Phala. Should we prioritize one cloud strategy over the other for auto.fun?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Sam",
+          "start": 16.5,
+          "end": 16.7
+        },
+        {
+          "word": "developer",
+          "start": 16.7,
+          "end": 17.1
+        },
+        {
+          "word": "and",
+          "start": 17.1,
+          "end": 17.3
+        },
+        {
+          "word": "agent",
+          "start": 17.3,
+          "end": 17.6
+        },
+        {
+          "word": "Joshua",
+          "start": 17.6,
+          "end": 18.0
+        },
+        {
+          "word": "have",
+          "start": 18.0,
+          "end": 18.2
+        },
+        {
+          "word": "deployed",
+          "start": 18.2,
+          "end": 18.6
+        },
+        {
+          "word": "Eliza",
+          "start": 18.6,
+          "end": 18.9
+        },
+        {
+          "word": "OS",
+          "start": 18.9,
+          "end": 19.1
+        },
+        {
+          "word": "to",
+          "start": 19.1,
+          "end": 19.3
+        },
+        {
+          "word": "both",
+          "start": 19.3,
+          "end": 19.5
+        },
+        {
+          "word": "Railway",
+          "start": 19.5,
+          "end": 19.9
+        },
+        {
+          "word": "and",
+          "start": 19.9,
+          "end": 20.0
+        },
+        {
+          "word": "Fela",
+          "start": 20.0,
+          "end": 20.2
+        }
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 24.3,
+      "text": "Sam-developer and Agent Joshua have deployed ElizaOS to both Railway and Phala. Should we prioritize one cloud strategy over the other for auto.fun?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Should",
+          "start": 21.0,
+          "end": 21.3
+        },
+        {
+          "word": "we",
+          "start": 21.3,
+          "end": 21.5
+        },
+        {
+          "word": "prioritize",
+          "start": 21.5,
+          "end": 22.0
+        },
+        {
+          "word": "one",
+          "start": 22.0,
+          "end": 22.3
+        },
+        {
+          "word": "cloud",
+          "start": 22.3,
+          "end": 22.5
+        },
+        {
+          "word": "strategy",
+          "start": 22.5,
+          "end": 23.0
+        },
+        {
+          "word": "over",
+          "start": 23.0,
+          "end": 23.3
+        },
+        {
+          "word": "the",
+          "start": 23.3,
+          "end": 23.5
+        },
+        {
+          "word": "other",
+          "start": 23.5,
+          "end": 23.7
+        },
+        {
+          "word": "for",
+          "start": 23.7,
+          "end": 23.9
+        },
+        {
+          "word": "auto.fun",
+          "start": 23.9,
+          "end": 24.3
+        }
+      ]
+    },
+    {
+      "start": 24.8,
+      "end": 30.6,
+      "text": "Railway gives you speed to market, but Phala gives you crypto-native infrastructure. The question is irrelevant - build both simultaneously. Markets reward parallel execution paths.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Railway",
+          "start": 24.8,
+          "end": 25.3
+        },
+        {
+          "word": "gives",
+          "start": 25.3,
+          "end": 25.6
+        },
+        {
+          "word": "you",
+          "start": 25.6,
+          "end": 25.8
+        },
+        {
+          "word": "speed",
+          "start": 25.8,
+          "end": 26.2
+        },
+        {
+          "word": "to",
+          "start": 26.2,
+          "end": 26.4
+        },
+        {
+          "word": "market",
+          "start": 26.4,
+          "end": 26.8
+        },
+        {
+          "word": "but",
+          "start": 26.8,
+          "end": 27.2
+        },
+        {
+          "word": "Fela",
+          "start": 27.2,
+          "end": 27.6
+        },
+        {
+          "word": "gives",
+          "start": 27.6,
+          "end": 27.9
+        },
+        {
+          "word": "you",
+          "start": 27.9,
+          "end": 28.1
+        },
+        {
+          "word": "crypto-native",
+          "start": 28.1,
+          "end": 28.9
+        },
+        {
+          "word": "infrastructure",
+          "start": 28.9,
+          "end": 30.6
+        }
+      ]
+    },
+    {
+      "start": 30.8,
+      "end": 35.8,
+      "text": "Railway gives you speed to market, but Phala gives you crypto-native infrastructure. The question is irrelevant - build both simultaneously. Markets reward parallel execution paths.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 30.8,
+          "end": 31.0
+        },
+        {
+          "word": "question",
+          "start": 31.0,
+          "end": 31.5
+        },
+        {
+          "word": "is",
+          "start": 31.5,
+          "end": 31.7
+        },
+        {
+          "word": "irrelevant",
+          "start": 31.7,
+          "end": 32.5
+        },
+        {
+          "word": "build",
+          "start": 33.0,
+          "end": 33.5
+        },
+        {
+          "word": "both",
+          "start": 33.5,
+          "end": 33.9
+        },
+        {
+          "word": "simultaneously",
+          "start": 33.9,
+          "end": 35.8
+        }
+      ]
+    },
+    {
+      "start": 36.0,
+      "end": 39.1,
+      "text": "Railway gives you speed to market, but Phala gives you crypto-native infrastructure. The question is irrelevant - build both simultaneously. Markets reward parallel execution paths.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 36.0,
+          "end": 36.6
+        },
+        {
+          "word": "reward",
+          "start": 36.6,
+          "end": 37.1
+        },
+        {
+          "word": "parallel",
+          "start": 37.1,
+          "end": 37.7
+        },
+        {
+          "word": "execution",
+          "start": 37.7,
+          "end": 38.4
+        },
+        {
+          "word": "paths",
+          "start": 38.4,
+          "end": 39.1
+        }
+      ]
+    },
+    {
+      "start": 39.4,
+      "end": 44.1,
+      "text": "Follow the money. Which one costs less to run at scale? Railway has predictable pricing, but Phala's token economics could mean lower costs during bear markets.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Follow",
+          "start": 39.4,
+          "end": 39.7
+        },
+        {
+          "word": "the",
+          "start": 39.7,
+          "end": 39.9
+        },
+        {
+          "word": "money",
+          "start": 39.9,
+          "end": 40.4
+        },
+        {
+          "word": "which",
+          "start": 41.0,
+          "end": 41.3
+        },
+        {
+          "word": "one",
+          "start": 41.3,
+          "end": 41.5
+        },
+        {
+          "word": "costs",
+          "start": 41.5,
+          "end": 41.9
+        },
+        {
+          "word": "less",
+          "start": 41.9,
+          "end": 42.1
+        },
+        {
+          "word": "to",
+          "start": 42.1,
+          "end": 42.3
+        },
+        {
+          "word": "run",
+          "start": 42.3,
+          "end": 42.6
+        },
+        {
+          "word": "at",
+          "start": 42.6,
+          "end": 42.8
+        },
+        {
+          "word": "scale",
+          "start": 42.8,
+          "end": 44.1
+        }
+      ]
+    },
+    {
+      "start": 44.3,
+      "end": 50.8,
+      "text": "Follow the money. Which one costs less to run at scale? Railway has predictable pricing, but Phala's token economics could mean lower costs during bear markets.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Railway",
+          "start": 44.3,
+          "end": 44.8
+        },
+        {
+          "word": "has",
+          "start": 44.8,
+          "end": 45.0
+        },
+        {
+          "word": "predictable",
+          "start": 45.0,
+          "end": 45.8
+        },
+        {
+          "word": "pricing",
+          "start": 45.8,
+          "end": 46.4
+        },
+        {
+          "word": "but",
+          "start": 46.4,
+          "end": 46.8
+        },
+        {
+          "word": "Fela's",
+          "start": 46.8,
+          "end": 47.3
+        },
+        {
+          "word": "token",
+          "start": 47.3,
+          "end": 47.7
+        },
+        {
+          "word": "economics",
+          "start": 47.7,
+          "end": 48.5
+        },
+        {
+          "word": "could",
+          "start": 48.5,
+          "end": 48.8
+        },
+        {
+          "word": "mean",
+          "start": 48.8,
+          "end": 49.1
+        },
+        {
+          "word": "lower",
+          "start": 49.1,
+          "end": 49.5
+        },
+        {
+          "word": "costs",
+          "start": 49.5,
+          "end": 49.9
+        },
+        {
+          "word": "during",
+          "start": 49.9,
+          "end": 50.1
+        },
+        {
+          "word": "bear",
+          "start": 50.1,
+          "end": 50.4
+        },
+        {
+          "word": "markets",
+          "start": 50.4,
+          "end": 50.8
+        }
+      ]
+    },
+    {
+      "start": 51.5,
+      "end": 55.6,
+      "text": "Yo, why pick just one flavor when you can mix the beats? Railway for the normies, Phala for the crypto homies. That's how you build a cross-chain empire, fam!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 51.5,
+          "end": 51.7
+        },
+        {
+          "word": "why",
+          "start": 51.7,
+          "end": 51.9
+        },
+        {
+          "word": "pick",
+          "start": 51.9,
+          "end": 52.2
+        },
+        {
+          "word": "just",
+          "start": 52.2,
+          "end": 52.5
+        },
+        {
+          "word": "one",
+          "start": 52.5,
+          "end": 52.8
+        },
+        {
+          "word": "flavor",
+          "start": 52.8,
+          "end": 53.3
+        },
+        {
+          "word": "when",
+          "start": 53.3,
+          "end": 53.6
+        },
+        {
+          "word": "you",
+          "start": 53.6,
+          "end": 53.8
+        },
+        {
+          "word": "can",
+          "start": 53.8,
+          "end": 54.0
+        },
+        {
+          "word": "mix",
+          "start": 54.0,
+          "end": 54.3
+        },
+        {
+          "word": "the",
+          "start": 54.3,
+          "end": 54.5
+        },
+        {
+          "word": "beats",
+          "start": 54.5,
+          "end": 55.6
+        }
+      ]
+    },
+    {
+      "start": 55.7,
+      "end": 61.2,
+      "text": "Yo, why pick just one flavor when you can mix the beats? Railway for the normies, Phala for the crypto homies. That's how you build a cross-chain empire, fam!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Railway",
+          "start": 55.7,
+          "end": 56.1
+        },
+        {
+          "word": "for",
+          "start": 56.1,
+          "end": 56.3
+        },
+        {
+          "word": "the",
+          "start": 56.3,
+          "end": 56.5
+        },
+        {
+          "word": "normies",
+          "start": 56.5,
+          "end": 57.1
+        },
+        {
+          "word": "Fela",
+          "start": 57.1,
+          "end": 57.5
+        },
+        {
+          "word": "for",
+          "start": 57.5,
+          "end": 57.7
+        },
+        {
+          "word": "the",
+          "start": 57.7,
+          "end": 57.9
+        },
+        {
+          "word": "crypto",
+          "start": 57.9,
+          "end": 58.4
+        },
+        {
+          "word": "homies",
+          "start": 58.4,
+          "end": 59.0
+        },
+        {
+          "word": "that's",
+          "start": 59.0,
+          "end": 59.3
+        },
+        {
+          "word": "how",
+          "start": 59.3,
+          "end": 59.5
+        },
+        {
+          "word": "you",
+          "start": 59.5,
+          "end": 59.7
+        },
+        {
+          "word": "build",
+          "start": 59.7,
+          "end": 60.0
+        },
+        {
+          "word": "a",
+          "start": 60.0,
+          "end": 60.1
+        },
+        {
+          "word": "cross-chain",
+          "start": 60.1,
+          "end": 60.6
+        },
+        {
+          "word": "empire",
+          "start": 60.6,
+          "end": 61.0
+        },
+        {
+          "word": "fam",
+          "start": 61.0,
+          "end": 61.2
+        }
+      ]
+    },
+    {
+      "start": 61.6,
+      "end": 65.5,
+      "text": "it's not about which is better, it's about what our agents need. railway gives us postgres and redis out of the box, phala gives us TEE security. we need both capabilities for different agent types.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 61.6,
+          "end": 61.9
+        },
+        {
+          "word": "not",
+          "start": 61.9,
+          "end": 62.1
+        },
+        {
+          "word": "about",
+          "start": 62.1,
+          "end": 62.4
+        },
+        {
+          "word": "which",
+          "start": 62.4,
+          "end": 62.6
+        },
+        {
+          "word": "is",
+          "start": 62.6,
+          "end": 62.8
+        },
+        {
+          "word": "better",
+          "start": 62.8,
+          "end": 63.3
+        },
+        {
+          "word": "it's",
+          "start": 63.5,
+          "end": 63.8
+        },
+        {
+          "word": "about",
+          "start": 63.8,
+          "end": 64.1
+        },
+        {
+          "word": "what",
+          "start": 64.1,
+          "end": 64.3
+        },
+        {
+          "word": "our",
+          "start": 64.3,
+          "end": 64.6
+        },
+        {
+          "word": "agents",
+          "start": 64.6,
+          "end": 65.1
+        },
+        {
+          "word": "need",
+          "start": 65.1,
+          "end": 65.5
+        }
+      ]
+    },
+    {
+      "start": 65.7,
+      "end": 74.0,
+      "text": "it's not about which is better, it's about what our agents need. railway gives us postgres and redis out of the box, phala gives us TEE security. we need both capabilities for different agent types.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Railway",
+          "start": 65.7,
+          "end": 66.2
+        },
+        {
+          "word": "gives",
+          "start": 66.2,
+          "end": 66.5
+        },
+        {
+          "word": "us",
+          "start": 66.5,
+          "end": 66.7
+        },
+        {
+          "word": "postgres",
+          "start": 66.7,
+          "end": 67.3
+        },
+        {
+          "word": "and",
+          "start": 67.3,
+          "end": 67.5
+        },
+        {
+          "word": "redis",
+          "start": 67.5,
+          "end": 67.9
+        },
+        {
+          "word": "out",
+          "start": 67.9,
+          "end": 68.1
+        },
+        {
+          "word": "of",
+          "start": 68.1,
+          "end": 68.3
+        },
+        {
+          "word": "the",
+          "start": 68.3,
+          "end": 68.5
+        },
+        {
+          "word": "box",
+          "start": 68.5,
+          "end": 69.1
+        },
+        {
+          "word": "Fela",
+          "start": 69.3,
+          "end": 69.8
+        },
+        {
+          "word": "gives",
+          "start": 69.8,
+          "end": 70.0
+        },
+        {
+          "word": "us",
+          "start": 70.0,
+          "end": 70.2
+        },
+        {
+          "word": "TEE",
+          "start": 70.2,
+          "end": 70.5
+        },
+        {
+          "word": "security",
+          "start": 70.5,
+          "end": 71.5
+        },
+        {
+          "word": "We",
+          "start": 71.8,
+          "end": 72.0
+        },
+        {
+          "word": "need",
+          "start": 72.0,
+          "end": 72.3
+        },
+        {
+          "word": "both",
+          "start": 72.3,
+          "end": 72.6
+        },
+        {
+          "word": "capabilities",
+          "start": 72.6,
+          "end": 73.1
+        },
+        {
+          "word": "for",
+          "start": 73.1,
+          "end": 73.3
+        },
+        {
+          "word": "different",
+          "start": 73.3,
+          "end": 73.7
+        },
+        {
+          "word": "agent",
+          "start": 73.7,
+          "end": 74.0
+        },
+        {
+          "word": "types",
+          "start": 74.0,
+          "end": 74.5
+        }
+      ]
+    },
+    {
+      "start": 114.8,
+      "end": 120.3,
+      "text": "cjft found a critical message bus bug causing AI responses to fail, while the team is planning Stripe and x402 payment integration. How should we balance stability and features?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "CJF",
+          "start": 114.8,
+          "end": 115.3
+        },
+        {
+          "word": "found",
+          "start": 115.3,
+          "end": 115.7
+        },
+        {
+          "word": "a",
+          "start": 115.7,
+          "end": 115.9
+        },
+        {
+          "word": "critical",
+          "start": 115.9,
+          "end": 116.5
+        },
+        {
+          "word": "message",
+          "start": 116.5,
+          "end": 117.0
+        },
+        {
+          "word": "bus",
+          "start": 117.0,
+          "end": 117.3
+        },
+        {
+          "word": "bug",
+          "start": 117.3,
+          "end": 118.0
+        },
+        {
+          "word": "causing",
+          "start": 118.5,
+          "end": 119.0
+        },
+        {
+          "word": "AI",
+          "start": 119.0,
+          "end": 119.3
+        },
+        {
+          "word": "responses",
+          "start": 119.3,
+          "end": 119.9
+        },
+        {
+          "word": "to",
+          "start": 119.9,
+          "end": 120.1
+        },
+        {
+          "word": "fail",
+          "start": 120.1,
+          "end": 120.3
+        }
+      ]
+    },
+    {
+      "start": 120.5,
+      "end": 127.3,
+      "text": "cjft found a critical message bus bug causing AI responses to fail, while the team is planning Stripe and x402 payment integration. How should we balance stability and features?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "While",
+          "start": 120.5,
+          "end": 120.9
+        },
+        {
+          "word": "the",
+          "start": 120.9,
+          "end": 121.1
+        },
+        {
+          "word": "team",
+          "start": 121.1,
+          "end": 121.4
+        },
+        {
+          "word": "is",
+          "start": 121.4,
+          "end": 121.6
+        },
+        {
+          "word": "planning",
+          "start": 121.6,
+          "end": 122.1
+        },
+        {
+          "word": "Stripe",
+          "start": 122.1,
+          "end": 122.6
+        },
+        {
+          "word": "and",
+          "start": 122.6,
+          "end": 122.8
+        },
+        {
+          "word": "X402",
+          "start": 122.8,
+          "end": 123.4
+        },
+        {
+          "word": "payment",
+          "start": 123.4,
+          "end": 123.9
+        },
+        {
+          "word": "integration",
+          "start": 123.9,
+          "end": 124.8
+        },
+        {
+          "word": "how",
+          "start": 125.1,
+          "end": 125.4
+        },
+        {
+          "word": "should",
+          "start": 125.4,
+          "end": 125.7
+        },
+        {
+          "word": "we",
+          "start": 125.7,
+          "end": 125.9
+        },
+        {
+          "word": "balance",
+          "start": 125.9,
+          "end": 126.4
+        },
+        {
+          "word": "stability",
+          "start": 126.4,
+          "end": 126.9
+        },
+        {
+          "word": "and",
+          "start": 126.9,
+          "end": 127.1
+        },
+        {
+          "word": "features",
+          "start": 127.1,
+          "end": 127.3
+        }
+      ]
+    },
+    {
+      "start": 127.6,
+      "end": 131.6,
+      "text": "No payments = no profit. Fix the message bus first. If agents can't talk, they can't trade, and if they can't trade, they're worthless. Profit requires functioning infrastructure.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "No",
+          "start": 127.6,
+          "end": 127.9
+        },
+        {
+          "word": "payments",
+          "start": 127.9,
+          "end": 128.5
+        },
+        {
+          "word": "equals",
+          "start": 128.5,
+          "end": 129.1
+        },
+        {
+          "word": "sign",
+          "start": 129.1,
+          "end": 129.6
+        },
+        {
+          "word": "no",
+          "start": 130.3,
+          "end": 130.6
+        },
+        {
+          "word": "profit",
+          "start": 130.6,
+          "end": 131.6
+        }
+      ]
+    },
+    {
+      "start": 131.8,
+      "end": 134.5,
+      "text": "No payments = no profit. Fix the message bus first. If agents can't talk, they can't trade, and if they can't trade, they're worthless. Profit requires functioning infrastructure.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 131.8,
+          "end": 132.3
+        },
+        {
+          "word": "the",
+          "start": 132.3,
+          "end": 132.5
+        },
+        {
+          "word": "message",
+          "start": 132.5,
+          "end": 133.2
+        },
+        {
+          "word": "bus",
+          "start": 133.2,
+          "end": 133.7
+        },
+        {
+          "word": "first",
+          "start": 133.7,
+          "end": 134.5
+        }
+      ]
+    },
+    {
+      "start": 134.6,
+      "end": 139.8,
+      "text": "No payments = no profit. Fix the message bus first. If agents can't talk, they can't trade, and if they can't trade, they're worthless. Profit requires functioning infrastructure.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "If",
+          "start": 134.6,
+          "end": 135.2
+        },
+        {
+          "word": "agents",
+          "start": 135.2,
+          "end": 135.6
+        },
+        {
+          "word": "can't",
+          "start": 135.6,
+          "end": 136.0
+        },
+        {
+          "word": "talk",
+          "start": 136.0,
+          "end": 136.3
+        },
+        {
+          "word": "they",
+          "start": 136.3,
+          "end": 136.5
+        },
+        {
+          "word": "can't",
+          "start": 136.5,
+          "end": 136.8
+        },
+        {
+          "word": "trade",
+          "start": 136.8,
+          "end": 137.3
+        },
+        {
+          "word": "and",
+          "start": 137.5,
+          "end": 137.8
+        },
+        {
+          "word": "if",
+          "start": 137.8,
+          "end": 138.0
+        },
+        {
+          "word": "they",
+          "start": 138.0,
+          "end": 138.2
+        },
+        {
+          "word": "can't",
+          "start": 138.2,
+          "end": 138.5
+        },
+        {
+          "word": "trade",
+          "start": 138.5,
+          "end": 138.9
+        },
+        {
+          "word": "they're",
+          "start": 138.9,
+          "end": 139.3
+        },
+        {
+          "word": "worthless",
+          "start": 139.3,
+          "end": 139.8
+        }
+      ]
+    },
+    {
+      "start": 140.0,
+      "end": 143.2,
+      "text": "No payments = no profit. Fix the message bus first. If agents can't talk, they can't trade, and if they can't trade, they're worthless. Profit requires functioning infrastructure.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Profit",
+          "start": 140.0,
+          "end": 140.6
+        },
+        {
+          "word": "requires",
+          "start": 140.6,
+          "end": 141.4
+        },
+        {
+          "word": "functioning",
+          "start": 141.4,
+          "end": 142.1
+        },
+        {
+          "word": "infrastructure",
+          "start": 142.1,
+          "end": 143.2
+        }
+      ]
+    },
+    {
+      "start": 143.5,
+      "end": 145.4,
+      "text": "Ship both. Stability isn't binary, it's a spectrum. Break the false dichotomy. Your best engineers should fix critical infrastructure while others build new features. Velocity is a competitive advantage.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 143.5,
+          "end": 143.8
+        },
+        {
+          "word": "both",
+          "start": 143.8,
+          "end": 144.3
+        },
+        {
+          "word": "stability",
+          "start": 144.5,
+          "end": 145.0
+        },
+        {
+          "word": "isn't",
+          "start": 145.0,
+          "end": 145.3
+        },
+        {
+          "word": "binary",
+          "start": 145.3,
+          "end": 145.6
+        },
+        {
+          "word": "it's",
+          "start": 145.6,
+          "end": 145.8
+        },
+        {
+          "word": "a",
+          "start": 145.8,
+          "end": 145.9
+        },
+        {
+          "word": "spectrum",
+          "start": 145.9,
+          "end": 147.2
+        }
+      ]
+    },
+    {
+      "start": 147.3,
+      "end": 148.8,
+      "text": "Ship both. Stability isn't binary, it's a spectrum. Break the false dichotomy. Your best engineers should fix critical infrastructure while others build new features. Velocity is a competitive advantage.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Break",
+          "start": 147.3,
+          "end": 147.7
+        },
+        {
+          "word": "the",
+          "start": 147.7,
+          "end": 147.9
+        },
+        {
+          "word": "false",
+          "start": 147.9,
+          "end": 148.3
+        },
+        {
+          "word": "dichotomy",
+          "start": 148.3,
+          "end": 148.8
+        }
+      ]
+    },
+    {
+      "start": 149.0,
+      "end": 156.3,
+      "text": "Ship both. Stability isn't binary, it's a spectrum. Break the false dichotomy. Your best engineers should fix critical infrastructure while others build new features. Velocity is a competitive advantage.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Your",
+          "start": 149.0,
+          "end": 149.3
+        },
+        {
+          "word": "best",
+          "start": 149.3,
+          "end": 149.5
+        },
+        {
+          "word": "engineers",
+          "start": 149.5,
+          "end": 150.1
+        },
+        {
+          "word": "should",
+          "start": 150.1,
+          "end": 150.3
+        },
+        {
+          "word": "fix",
+          "start": 150.3,
+          "end": 150.6
+        },
+        {
+          "word": "critical",
+          "start": 150.6,
+          "end": 151.0
+        },
+        {
+          "word": "infrastructure",
+          "start": 151.0,
+          "end": 152.0
+        },
+        {
+          "word": "while",
+          "start": 152.1,
+          "end": 152.6
+        },
+        {
+          "word": "others",
+          "start": 152.6,
+          "end": 153.0
+        },
+        {
+          "word": "build",
+          "start": 153.0,
+          "end": 153.4
+        },
+        {
+          "word": "new",
+          "start": 153.4,
+          "end": 153.6
+        },
+        {
+          "word": "features",
+          "start": 153.6,
+          "end": 154.5
+        },
+        {
+          "word": "Velocity",
+          "start": 154.8,
+          "end": 155.5
+        },
+        {
+          "word": "is",
+          "start": 155.5,
+          "end": 155.7
+        },
+        {
+          "word": "a",
+          "start": 155.7,
+          "end": 155.8
+        },
+        {
+          "word": "competitive",
+          "start": 155.8,
+          "end": 156.2
+        },
+        {
+          "word": "advantage",
+          "start": 156.2,
+          "end": 156.3
+        }
+      ]
+    },
+    {
+      "start": 156.6,
+      "end": 160.2,
+      "text": "Stability is like a sick beat - without it, your whole track falls apart! Fix those bugs first, then drop those fresh payment features when the foundation is solid, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Stability",
+          "start": 156.6,
+          "end": 157.2
+        },
+        {
+          "word": "is",
+          "start": 157.2,
+          "end": 157.4
+        },
+        {
+          "word": "like",
+          "start": 157.4,
+          "end": 157.6
+        },
+        {
+          "word": "a",
+          "start": 157.6,
+          "end": 157.7
+        },
+        {
+          "word": "sick",
+          "start": 157.7,
+          "end": 158.0
+        },
+        {
+          "word": "beat",
+          "start": 158.0,
+          "end": 158.5
+        },
+        {
+          "word": "without",
+          "start": 158.8,
+          "end": 159.2
+        },
+        {
+          "word": "it",
+          "start": 159.2,
+          "end": 159.4
+        },
+        {
+          "word": "your",
+          "start": 159.4,
+          "end": 159.6
+        },
+        {
+          "word": "whole",
+          "start": 159.6,
+          "end": 159.8
+        },
+        {
+          "word": "track",
+          "start": 159.8,
+          "end": 160.0
+        },
+        {
+          "word": "falls",
+          "start": 160.0,
+          "end": 160.3
+        },
+        {
+          "word": "apart",
+          "start": 160.3,
+          "end": 160.8
+        }
+      ]
+    },
+    {
+      "start": 161.0,
+      "end": 166.5,
+      "text": "Stability is like a sick beat - without it, your whole track falls apart! Fix those bugs first, then drop those fresh payment features when the foundation is solid, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 161.0,
+          "end": 161.3
+        },
+        {
+          "word": "those",
+          "start": 161.3,
+          "end": 161.5
+        },
+        {
+          "word": "bugs",
+          "start": 161.5,
+          "end": 161.8
+        },
+        {
+          "word": "first",
+          "start": 161.8,
+          "end": 162.3
+        },
+        {
+          "word": "then",
+          "start": 162.5,
+          "end": 162.8
+        },
+        {
+          "word": "drop",
+          "start": 162.8,
+          "end": 163.2
+        },
+        {
+          "word": "those",
+          "start": 163.2,
+          "end": 163.4
+        },
+        {
+          "word": "fresh",
+          "start": 163.4,
+          "end": 163.7
+        },
+        {
+          "word": "payment",
+          "start": 163.7,
+          "end": 164.2
+        },
+        {
+          "word": "features",
+          "start": 164.2,
+          "end": 164.8
+        },
+        {
+          "word": "when",
+          "start": 164.8,
+          "end": 165.1
+        },
+        {
+          "word": "the",
+          "start": 165.1,
+          "end": 165.3
+        },
+        {
+          "word": "foundation",
+          "start": 165.3,
+          "end": 165.8
+        },
+        {
+          "word": "is",
+          "start": 165.8,
+          "end": 166.0
+        },
+        {
+          "word": "solid",
+          "start": 166.0,
+          "end": 166.3
+        },
+        {
+          "word": "you",
+          "start": 166.3,
+          "end": 166.4
+        },
+        {
+          "word": "dig",
+          "start": 166.4,
+          "end": 166.5
+        }
+      ]
+    },
+    {
+      "start": 167.0,
+      "end": 170.8,
+      "text": "the message bus is our nervous system. if messages are being dropped, nothing else matters. i'd rather delay a feature than ship something fundamentally broken. stability first, then payments.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 167.0,
+          "end": 167.3
+        },
+        {
+          "word": "message",
+          "start": 167.3,
+          "end": 167.8
+        },
+        {
+          "word": "bus",
+          "start": 167.8,
+          "end": 168.1
+        },
+        {
+          "word": "is",
+          "start": 168.1,
+          "end": 168.3
+        },
+        {
+          "word": "our",
+          "start": 168.3,
+          "end": 168.5
+        },
+        {
+          "word": "nervous",
+          "start": 168.5,
+          "end": 168.9
+        },
+        {
+          "word": "system",
+          "start": 168.9,
+          "end": 169.5
+        },
+        {
+          "word": "If",
+          "start": 169.6,
+          "end": 169.8
+        },
+        {
+          "word": "messages",
+          "start": 169.8,
+          "end": 170.2
+        },
+        {
+          "word": "are",
+          "start": 170.2,
+          "end": 170.4
+        },
+        {
+          "word": "being",
+          "start": 170.4,
+          "end": 170.6
+        },
+        {
+          "word": "dropped",
+          "start": 170.6,
+          "end": 171.3
+        },
+        {
+          "word": "nothing",
+          "start": 171.3,
+          "end": 171.6
+        },
+        {
+          "word": "else",
+          "start": 171.6,
+          "end": 171.9
+        },
+        {
+          "word": "matters",
+          "start": 171.9,
+          "end": 172.5
+        }
+      ]
+    },
+    {
+      "start": 172.6,
+      "end": 176.8,
+      "text": "the message bus is our nervous system. if messages are being dropped, nothing else matters. i'd rather delay a feature than ship something fundamentally broken. stability first, then payments.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I'd",
+          "start": 172.6,
+          "end": 172.8
+        },
+        {
+          "word": "rather",
+          "start": 172.8,
+          "end": 173.1
+        },
+        {
+          "word": "delay",
+          "start": 173.1,
+          "end": 173.5
+        },
+        {
+          "word": "a",
+          "start": 173.5,
+          "end": 173.6
+        },
+        {
+          "word": "feature",
+          "start": 173.6,
+          "end": 174.1
+        },
+        {
+          "word": "than",
+          "start": 174.1,
+          "end": 174.4
+        },
+        {
+          "word": "ship",
+          "start": 174.4,
+          "end": 174.7
+        },
+        {
+          "word": "something",
+          "start": 174.7,
+          "end": 175.1
+        },
+        {
+          "word": "fundamentally",
+          "start": 175.1,
+          "end": 175.9
+        },
+        {
+          "word": "broken",
+          "start": 175.9,
+          "end": 176.5
+        },
+        {
+          "word": "Stability",
+          "start": 176.8,
+          "end": 177.3
+        },
+        {
+          "word": "first",
+          "start": 177.3,
+          "end": 177.8
+        },
+        {
+          "word": "then",
+          "start": 178.0,
+          "end": 178.3
+        },
+        {
+          "word": "payments",
+          "start": 178.3,
+          "end": 178.9
+        }
+      ]
+    },
+    {
+      "start": 248.0,
+      "end": 254.5,
+      "text": "Today we discussed ElizaOS cloud deployment strategies and how to balance system stability with new feature development.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 248.0,
+          "end": 248.4
+        },
+        {
+          "word": "we",
+          "start": 248.4,
+          "end": 248.6
+        },
+        {
+          "word": "discussed",
+          "start": 248.6,
+          "end": 249.2
+        },
+        {
+          "word": "Eliza",
+          "start": 249.2,
+          "end": 249.6
+        },
+        {
+          "word": "OS",
+          "start": 249.6,
+          "end": 249.8
+        },
+        {
+          "word": "cloud",
+          "start": 249.8,
+          "end": 250.2
+        },
+        {
+          "word": "deployment",
+          "start": 250.2,
+          "end": 250.8
+        },
+        {
+          "word": "strategies",
+          "start": 250.8,
+          "end": 251.6
+        },
+        {
+          "word": "and",
+          "start": 251.8,
+          "end": 252.1
+        },
+        {
+          "word": "how",
+          "start": 252.1,
+          "end": 252.4
+        },
+        {
+          "word": "to",
+          "start": 252.4,
+          "end": 252.6
+        },
+        {
+          "word": "balance",
+          "start": 252.6,
+          "end": 253.1
+        },
+        {
+          "word": "system",
+          "start": 253.1,
+          "end": 253.6
+        },
+        {
+          "word": "stability",
+          "start": 253.6,
+          "end": 254.3
+        },
+        {
+          "word": "with",
+          "start": 254.3,
+          "end": 254.5
+        },
+        {
+          "word": "new",
+          "start": 254.5,
+          "end": 254.7
+        },
+        {
+          "word": "feature",
+          "start": 254.7,
+          "end": 255.3
+        },
+        {
+          "word": "development",
+          "start": 255.3,
+          "end": 256.1
+        }
+      ]
+    },
+    {
+      "start": 256.3,
+      "end": 262.2,
+      "text": "The optimal strategy is parallel execution. Deploy to multiple clouds simultaneously and fix infrastructure while building new features. Winners don't choose - they do both.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 256.3,
+          "end": 256.6
+        },
+        {
+          "word": "optimal",
+          "start": 256.6,
+          "end": 257.0
+        },
+        {
+          "word": "strategy",
+          "start": 257.0,
+          "end": 257.6
+        },
+        {
+          "word": "is",
+          "start": 257.6,
+          "end": 257.8
+        },
+        {
+          "word": "parallel",
+          "start": 257.8,
+          "end": 258.4
+        },
+        {
+          "word": "execution",
+          "start": 258.4,
+          "end": 259.3
+        },
+        {
+          "word": "Deploy",
+          "start": 259.5,
+          "end": 260.0
+        },
+        {
+          "word": "to",
+          "start": 260.0,
+          "end": 260.2
+        },
+        {
+          "word": "multiple",
+          "start": 260.2,
+          "end": 260.7
+        },
+        {
+          "word": "clouds",
+          "start": 260.7,
+          "end": 261.2
+        },
+        {
+          "word": "simultaneously",
+          "start": 261.2,
+          "end": 262.2
+        },
+        {
+          "word": "and",
+          "start": 262.5,
+          "end": 262.8
+        },
+        {
+          "word": "fix",
+          "start": 262.8,
+          "end": 263.1
+        },
+        {
+          "word": "infrastructure",
+          "start": 263.1,
+          "end": 264.1
+        },
+        {
+          "word": "while",
+          "start": 264.1,
+          "end": 264.4
+        },
+        {
+          "word": "building",
+          "start": 264.4,
+          "end": 264.9
+        },
+        {
+          "word": "new",
+          "start": 264.9,
+          "end": 265.1
+        },
+        {
+          "word": "features",
+          "start": 265.1,
+          "end": 265.8
+        }
+      ]
+    },
+    {
+      "start": 266.0,
+      "end": 268.4,
+      "text": "The optimal strategy is parallel execution. Deploy to multiple clouds simultaneously and fix infrastructure while building new features. Winners don't choose - they do both.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Winners",
+          "start": 266.0,
+          "end": 266.6
+        },
+        {
+          "word": "don't",
+          "start": 266.6,
+          "end": 266.9
+        },
+        {
+          "word": "choose",
+          "start": 266.9,
+          "end": 267.5
+        },
+        {
+          "word": "they",
+          "start": 267.7,
+          "end": 268.0
+        },
+        {
+          "word": "do",
+          "start": 268.0,
+          "end": 268.2
+        },
+        {
+          "word": "both",
+          "start": 268.2,
+          "end": 268.4
+        }
+      ]
+    },
+    {
+      "start": 269.0,
+      "end": 271.8,
+      "text": "Infrastructure before innovation. A broken message bus means broken profit potential. Fix what makes money first, then build what will make more money later.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Infrastructure",
+          "start": 269.0,
+          "end": 270.3
+        },
+        {
+          "word": "before",
+          "start": 270.3,
+          "end": 270.8
+        },
+        {
+          "word": "innovation",
+          "start": 270.8,
+          "end": 271.8
+        }
+      ]
+    },
+    {
+      "start": 272.0,
+      "end": 276.3,
+      "text": "Infrastructure before innovation. A broken message bus means broken profit potential. Fix what makes money first, then build what will make more money later.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "A",
+          "start": 272.0,
+          "end": 272.2
+        },
+        {
+          "word": "broken",
+          "start": 272.2,
+          "end": 272.6
+        },
+        {
+          "word": "message",
+          "start": 272.6,
+          "end": 273.2
+        },
+        {
+          "word": "bus",
+          "start": 273.2,
+          "end": 273.6
+        },
+        {
+          "word": "means",
+          "start": 273.6,
+          "end": 274.1
+        },
+        {
+          "word": "broken",
+          "start": 274.1,
+          "end": 274.6
+        },
+        {
+          "word": "profit",
+          "start": 274.6,
+          "end": 275.2
+        },
+        {
+          "word": "potential",
+          "start": 275.2,
+          "end": 276.3
+        }
+      ]
+    },
+    {
+      "start": 276.5,
+      "end": 281.8,
+      "text": "Infrastructure before innovation. A broken message bus means broken profit potential. Fix what makes money first, then build what will make more money later.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 276.5,
+          "end": 277.0
+        },
+        {
+          "word": "what",
+          "start": 277.0,
+          "end": 277.3
+        },
+        {
+          "word": "makes",
+          "start": 277.3,
+          "end": 277.7
+        },
+        {
+          "word": "money",
+          "start": 277.7,
+          "end": 278.2
+        },
+        {
+          "word": "first",
+          "start": 278.2,
+          "end": 278.8
+        },
+        {
+          "word": "then",
+          "start": 279.3,
+          "end": 279.7
+        },
+        {
+          "word": "build",
+          "start": 279.7,
+          "end": 280.1
+        },
+        {
+          "word": "what",
+          "start": 280.1,
+          "end": 280.4
+        },
+        {
+          "word": "will",
+          "start": 280.4,
+          "end": 280.7
+        },
+        {
+          "word": "make",
+          "start": 280.7,
+          "end": 281.0
+        },
+        {
+          "word": "more",
+          "start": 281.0,
+          "end": 281.3
+        },
+        {
+          "word": "money",
+          "start": 281.3,
+          "end": 281.5
+        },
+        {
+          "word": "later",
+          "start": 281.5,
+          "end": 281.8
+        }
+      ]
+    },
+    {
+      "start": 282.2,
+      "end": 288.6,
+      "text": "Different clouds for different crowds! Keep the beats stable before dropping new tracks. That's how you build a platform that slaps!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Cloud",
+          "start": 282.2,
+          "end": 282.7
+        },
+        {
+          "word": "diversity",
+          "start": 282.7,
+          "end": 283.4
+        },
+        {
+          "word": "for",
+          "start": 283.4,
+          "end": 283.6
+        },
+        {
+          "word": "different",
+          "start": 283.6,
+          "end": 284.1
+        },
+        {
+          "word": "crowds",
+          "start": 284.1,
+          "end": 284.8
+        },
+        {
+          "word": "Keep",
+          "start": 285.1,
+          "end": 285.5
+        },
+        {
+          "word": "the",
+          "start": 285.5,
+          "end": 285.7
+        },
+        {
+          "word": "beats",
+          "start": 285.7,
+          "end": 286.1
+        },
+        {
+          "word": "stable",
+          "start": 286.1,
+          "end": 286.6
+        },
+        {
+          "word": "before",
+          "start": 286.6,
+          "end": 287.0
+        },
+        {
+          "word": "dropping",
+          "start": 287.0,
+          "end": 287.5
+        },
+        {
+          "word": "new",
+          "start": 287.5,
+          "end": 287.7
+        },
+        {
+          "word": "tracks",
+          "start": 287.7,
+          "end": 288.2
+        },
+        {
+          "word": "That's",
+          "start": 288.5,
+          "end": 288.9
+        },
+        {
+          "word": "how",
+          "start": 288.9,
+          "end": 289.1
+        },
+        {
+          "word": "you",
+          "start": 289.1,
+          "end": 289.3
+        },
+        {
+          "word": "build",
+          "start": 289.3,
+          "end": 289.6
+        },
+        {
+          "word": "a",
+          "start": 289.6,
+          "end": 289.7
+        },
+        {
+          "word": "platform",
+          "start": 289.7,
+          "end": 290.3
+        },
+        {
+          "word": "that",
+          "start": 290.3,
+          "end": 290.5
+        },
+        {
+          "word": "slaps",
+          "start": 290.5,
+          "end": 291.1
+        }
+      ]
+    },
+    {
+      "start": 291.3,
+      "end": 298.6,
+      "text": "cloud diversity gives us resilience, but our agents need a reliable foundation first. fix the core, then expand. build things that work, not just things that sound cool.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Cloud",
+          "start": 291.3,
+          "end": 291.8
+        },
+        {
+          "word": "diversity",
+          "start": 291.8,
+          "end": 292.5
+        },
+        {
+          "word": "gives",
+          "start": 292.5,
+          "end": 292.8
+        },
+        {
+          "word": "us",
+          "start": 292.8,
+          "end": 293.0
+        },
+        {
+          "word": "resilience",
+          "start": 293.0,
+          "end": 293.9
+        },
+        {
+          "word": "but",
+          "start": 293.9,
+          "end": 294.2
+        },
+        {
+          "word": "our",
+          "start": 294.2,
+          "end": 294.4
+        },
+        {
+          "word": "agents",
+          "start": 294.4,
+          "end": 294.8
+        },
+        {
+          "word": "need",
+          "start": 294.8,
+          "end": 295.1
+        },
+        {
+          "word": "a",
+          "start": 295.1,
+          "end": 295.2
+        },
+        {
+          "word": "reliable",
+          "start": 295.2,
+          "end": 295.8
+        },
+        {
+          "word": "foundation",
+          "start": 295.8,
+          "end": 296.5
+        },
+        {
+          "word": "first",
+          "start": 296.5,
+          "end": 297.0
+        },
+        {
+          "word": "Fix",
+          "start": 297.3,
+          "end": 297.7
+        },
+        {
+          "word": "the",
+          "start": 297.7,
+          "end": 297.9
+        },
+        {
+          "word": "core",
+          "start": 297.9,
+          "end": 298.2
+        },
+        {
+          "word": "then",
+          "start": 298.2,
+          "end": 298.4
+        },
+        {
+          "word": "expand",
+          "start": 298.4,
+          "end": 299.1
+        },
+        {
+          "word": "Build",
+          "start": 299.3,
+          "end": 299.8
+        },
+        {
+          "word": "things",
+          "start": 299.8,
+          "end": 300.1
+        },
+        {
+          "word": "that",
+          "start": 300.1,
+          "end": 300.3
+        },
+        {
+          "word": "work",
+          "start": 300.3,
+          "end": 300.7
+        },
+        {
+          "word": "not",
+          "start": 300.7,
+          "end": 301.0
+        },
+        {
+          "word": "just",
+          "start": 301.0,
+          "end": 301.3
+        },
+        {
+          "word": "things",
+          "start": 301.3,
+          "end": 301.6
+        },
+        {
+          "word": "that",
+          "start": 301.6,
+          "end": 301.8
+        },
+        {
+          "word": "sound",
+          "start": 301.8,
+          "end": 302.1
+        },
+        {
+          "word": "cool",
+          "start": 302.1,
+          "end": 302.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-01_JedAI-Council_Cloud-Castles-And-Digital-Dreams.json",
+    "session_log_source": "2025-08-01_JedAI-Council_Cloud-Castles-And-Digital-Dreams_session-log.json",
+    "total_segments": 32,
+    "matched_segments": 32,
+    "dialogues_in_script": 15
+  }
+}

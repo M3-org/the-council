@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/10/episode-5840-featured-1760069015.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/10/episode-5840-featured-1760069015-150x150.png",
+  "premise": "The council debates the implications of the upcoming token migration and the role of the Generative Treasury in creating a sustainable AI ecosystem.",
+  "scenes": [
+    {
+      "description": "The council discusses the upcoming token migration and community concerns",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "aishaw",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "elizahost",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council debates the technical implementation of cross-chain functionality and cloud development",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "aishaw",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "elizahost",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their views on the token migration and future vision",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "aishaw",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "elizahost",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

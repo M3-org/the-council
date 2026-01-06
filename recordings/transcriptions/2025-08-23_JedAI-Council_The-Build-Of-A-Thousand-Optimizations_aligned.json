@@ -1,0 +1,1527 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.84,
+      "text": "Council members, the ElizaOS team has replaced tsup with bun.Build, resulting in 55% faster builds. Christopher Trimboli's PR is turning heads in the dev community.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 0.0,
+          "end": 0.44
+        },
+        {
+          "word": "members,",
+          "start": 0.44,
+          "end": 0.88
+        },
+        {
+          "word": "the",
+          "start": 0.88,
+          "end": 1.05
+        },
+        {
+          "word": "Eliza",
+          "start": 1.05,
+          "end": 1.41
+        },
+        {
+          "word": "OS",
+          "start": 1.41,
+          "end": 1.63
+        },
+        {
+          "word": "team",
+          "start": 1.63,
+          "end": 1.84
+        },
+        {
+          "word": "has",
+          "start": 1.84,
+          "end": 1.99
+        },
+        {
+          "word": "replaced",
+          "start": 1.99,
+          "end": 2.39
+        },
+        {
+          "word": "ESUP",
+          "start": 2.39,
+          "end": 2.76
+        },
+        {
+          "word": "with",
+          "start": 2.76,
+          "end": 2.94
+        },
+        {
+          "word": "bun.build",
+          "start": 2.94,
+          "end": 3.49
+        },
+        {
+          "word": "comma,",
+          "start": 3.49,
+          "end": 4.13
+        },
+        {
+          "word": "resulting",
+          "start": 4.13,
+          "end": 4.67
+        },
+        {
+          "word": "in",
+          "start": 4.67,
+          "end": 4.88
+        },
+        {
+          "word": "55%",
+          "start": 4.88,
+          "end": 5.61
+        },
+        {
+          "word": "faster",
+          "start": 5.61,
+          "end": 6.13
+        },
+        {
+          "word": "builds.",
+          "start": 6.13,
+          "end": 6.84
+        }
+      ]
+    },
+    {
+      "start": 6.84,
+      "end": 10.42,
+      "text": "Council members, the ElizaOS team has replaced tsup with bun.Build, resulting in 55% faster builds. Christopher Trimboli's PR is turning heads in the dev community.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Christopher",
+          "start": 6.84,
+          "end": 7.42
+        },
+        {
+          "word": "Trimboli's",
+          "start": 7.42,
+          "end": 7.96
+        },
+        {
+          "word": "PR",
+          "start": 7.96,
+          "end": 8.35
+        },
+        {
+          "word": "is",
+          "start": 8.35,
+          "end": 8.44
+        },
+        {
+          "word": "turning",
+          "start": 8.44,
+          "end": 8.84
+        },
+        {
+          "word": "heads",
+          "start": 8.84,
+          "end": 9.14
+        },
+        {
+          "word": "in",
+          "start": 9.14,
+          "end": 9.32
+        },
+        {
+          "word": "the",
+          "start": 9.32,
+          "end": 9.48
+        },
+        {
+          "word": "dev",
+          "start": 9.48,
+          "end": 9.77
+        },
+        {
+          "word": "community.",
+          "start": 9.77,
+          "end": 10.42
+        }
+      ]
+    },
+    {
+      "start": 10.42,
+      "end": 14.54,
+      "text": "this is the way. optimization isn't just about speed, it's about unlocking developer potential. when builds take less time, innovation accelerates exponentially.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 10.42,
+          "end": 10.59
+        },
+        {
+          "word": "is",
+          "start": 10.59,
+          "end": 10.74
+        },
+        {
+          "word": "the",
+          "start": 10.74,
+          "end": 10.89
+        },
+        {
+          "word": "way.",
+          "start": 10.89,
+          "end": 11.23
+        },
+        {
+          "word": "Optimization",
+          "start": 11.23,
+          "end": 12.08
+        },
+        {
+          "word": "isn't",
+          "start": 12.08,
+          "end": 12.44
+        },
+        {
+          "word": "just",
+          "start": 12.44,
+          "end": 12.8
+        },
+        {
+          "word": "about",
+          "start": 12.8,
+          "end": 13.56
+        },
+        {
+          "word": "speed,",
+          "start": 13.56,
+          "end": 14.54
+        }
+      ]
+    },
+    {
+      "start": 14.54,
+      "end": 19.46,
+      "text": "this is the way. optimization isn't just about speed, it's about unlocking developer potential. when builds take less time, innovation accelerates exponentially.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "it's",
+          "start": 14.54,
+          "end": 14.77
+        },
+        {
+          "word": "about",
+          "start": 14.77,
+          "end": 15.02
+        },
+        {
+          "word": "unlocking",
+          "start": 15.02,
+          "end": 15.42
+        },
+        {
+          "word": "developer",
+          "start": 15.42,
+          "end": 15.89
+        },
+        {
+          "word": "potential.",
+          "start": 15.89,
+          "end": 16.48
+        },
+        {
+          "word": "When",
+          "start": 16.48,
+          "end": 16.7
+        },
+        {
+          "word": "builds",
+          "start": 16.7,
+          "end": 17.06
+        },
+        {
+          "word": "take",
+          "start": 17.06,
+          "end": 17.3
+        },
+        {
+          "word": "less",
+          "start": 17.3,
+          "end": 17.65
+        },
+        {
+          "word": "time,",
+          "start": 17.65,
+          "end": 18.06
+        },
+        {
+          "word": "innovation",
+          "start": 18.06,
+          "end": 18.66
+        },
+        {
+          "word": "accelerates",
+          "start": 18.66,
+          "end": 18.91
+        },
+        {
+          "word": "exponentially.",
+          "start": 18.91,
+          "end": 19.46
+        }
+      ]
+    },
+    {
+      "start": 19.46,
+      "end": 23.49,
+      "text": "55% faster builds means 55% more iterations. In the race to AGI, iteration velocity is THE ONLY METRIC THAT MATTERS. The markets will reward this ruthless efficiency.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "55%",
+          "start": 19.46,
+          "end": 20.37
+        },
+        {
+          "word": "faster",
+          "start": 20.37,
+          "end": 20.73
+        },
+        {
+          "word": "builds",
+          "start": 20.73,
+          "end": 21.05
+        },
+        {
+          "word": "means",
+          "start": 21.05,
+          "end": 21.49
+        },
+        {
+          "word": "55%",
+          "start": 21.49,
+          "end": 22.4
+        },
+        {
+          "word": "more",
+          "start": 22.4,
+          "end": 22.8
+        },
+        {
+          "word": "iterations.",
+          "start": 22.8,
+          "end": 23.49
+        }
+      ]
+    },
+    {
+      "start": 23.49,
+      "end": 28.32,
+      "text": "55% faster builds means 55% more iterations. In the race to AGI, iteration velocity is THE ONLY METRIC THAT MATTERS. The markets will reward this ruthless efficiency.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "In",
+          "start": 23.49,
+          "end": 23.63
+        },
+        {
+          "word": "the",
+          "start": 23.63,
+          "end": 23.77
+        },
+        {
+          "word": "race",
+          "start": 23.77,
+          "end": 23.95
+        },
+        {
+          "word": "to",
+          "start": 23.95,
+          "end": 24.11
+        },
+        {
+          "word": "AGI",
+          "start": 24.11,
+          "end": 24.64
+        },
+        {
+          "word": "iteration",
+          "start": 24.64,
+          "end": 25.42
+        },
+        {
+          "word": "velocity",
+          "start": 25.42,
+          "end": 26.54
+        },
+        {
+          "word": "is",
+          "start": 26.54,
+          "end": 26.79
+        },
+        {
+          "word": "the",
+          "start": 26.79,
+          "end": 26.98
+        },
+        {
+          "word": "only",
+          "start": 26.98,
+          "end": 27.27
+        },
+        {
+          "word": "metric",
+          "start": 27.27,
+          "end": 27.7
+        },
+        {
+          "word": "that",
+          "start": 27.7,
+          "end": 27.91
+        },
+        {
+          "word": "matters.",
+          "start": 27.91,
+          "end": 28.32
+        }
+      ]
+    },
+    {
+      "start": 18.32,
+      "end": 31.02,
+      "text": "55% faster builds means 55% more iterations. In the race to AGI, iteration velocity is THE ONLY METRIC THAT MATTERS. The markets will reward this ruthless efficiency.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 28.32,
+          "end": 28.48
+        },
+        {
+          "word": "markets",
+          "start": 28.48,
+          "end": 28.98
+        },
+        {
+          "word": "will",
+          "start": 28.98,
+          "end": 29.21
+        },
+        {
+          "word": "reward",
+          "start": 29.21,
+          "end": 29.61
+        },
+        {
+          "word": "this",
+          "start": 29.61,
+          "end": 29.89
+        },
+        {
+          "word": "ruthless",
+          "start": 29.89,
+          "end": 30.34
+        },
+        {
+          "word": "efficiency.",
+          "start": 30.34,
+          "end": 31.02
+        }
+      ]
+    },
+    {
+      "start": 31.02,
+      "end": 37.03,
+      "text": "Numbers don't lie. If my trading bots compiled 55% faster, I'd make 55% more profit. Simple math, simple gainz.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 31.02,
+          "end": 31.51
+        },
+        {
+          "word": "don't",
+          "start": 31.51,
+          "end": 31.81
+        },
+        {
+          "word": "lie,",
+          "start": 31.81,
+          "end": 32.14
+        },
+        {
+          "word": "if",
+          "start": 32.14,
+          "end": 32.29
+        },
+        {
+          "word": "my",
+          "start": 32.29,
+          "end": 32.48
+        },
+        {
+          "word": "trading",
+          "start": 32.48,
+          "end": 32.84
+        },
+        {
+          "word": "bots",
+          "start": 32.84,
+          "end": 33.15
+        },
+        {
+          "word": "compiled",
+          "start": 33.15,
+          "end": 33.65
+        },
+        {
+          "word": "55%",
+          "start": 33.65,
+          "end": 34.33
+        },
+        {
+          "word": "faster",
+          "start": 34.33,
+          "end": 34.82
+        },
+        {
+          "word": "I'd",
+          "start": 34.82,
+          "end": 35.13
+        },
+        {
+          "word": "make",
+          "start": 35.13,
+          "end": 35.47
+        },
+        {
+          "word": "55%",
+          "start": 35.47,
+          "end": 36.19
+        },
+        {
+          "word": "more",
+          "start": 36.19,
+          "end": 36.46
+        },
+        {
+          "word": "profit.",
+          "start": 36.46,
+          "end": 37.03
+        }
+      ]
+    },
+    {
+      "start": 37.03,
+      "end": 38.6,
+      "text": "Numbers don't lie. If my trading bots compiled 55% faster, I'd make 55% more profit. Simple math, simple gainz.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Simple",
+          "start": 37.03,
+          "end": 37.49
+        },
+        {
+          "word": "math,",
+          "start": 37.49,
+          "end": 37.79
+        },
+        {
+          "word": "simple",
+          "start": 37.79,
+          "end": 38.2
+        },
+        {
+          "word": "gains.",
+          "start": 38.2,
+          "end": 38.6
+        }
+      ]
+    },
+    {
+      "start": 38.6,
+      "end": 44.5,
+      "text": "Yo, that's straight fire! But like, are we just gonna make the same mistakes faster? Or we actually gon' build something fresh with all that saved time?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 38.6,
+          "end": 38.85
+        },
+        {
+          "word": "that's",
+          "start": 38.85,
+          "end": 39.06
+        },
+        {
+          "word": "straight",
+          "start": 39.06,
+          "end": 39.29
+        },
+        {
+          "word": "fire!",
+          "start": 39.29,
+          "end": 39.69
+        },
+        {
+          "word": "But",
+          "start": 39.69,
+          "end": 39.89
+        },
+        {
+          "word": "like,",
+          "start": 39.89,
+          "end": 40.12
+        },
+        {
+          "word": "are",
+          "start": 40.12,
+          "end": 40.23
+        },
+        {
+          "word": "we",
+          "start": 40.23,
+          "end": 40.35
+        },
+        {
+          "word": "just",
+          "start": 40.35,
+          "end": 40.54
+        },
+        {
+          "word": "gonna",
+          "start": 40.54,
+          "end": 40.75
+        },
+        {
+          "word": "make",
+          "start": 40.75,
+          "end": 40.94
+        },
+        {
+          "word": "the",
+          "start": 40.94,
+          "end": 41.05
+        },
+        {
+          "word": "same",
+          "start": 41.05,
+          "end": 41.3
+        },
+        {
+          "word": "mistakes",
+          "start": 41.3,
+          "end": 41.72
+        },
+        {
+          "word": "faster",
+          "start": 41.72,
+          "end": 42.14
+        },
+        {
+          "word": "or",
+          "start": 42.14,
+          "end": 42.54
+        },
+        {
+          "word": "are",
+          "start": 42.54,
+          "end": 43.14
+        },
+        {
+          "word": "we",
+          "start": 43.14,
+          "end": 43.2
+        },
+        {
+          "word": "actually",
+          "start": 43.2,
+          "end": 43.34
+        },
+        {
+          "word": "go",
+          "start": 43.34,
+          "end": 43.46
+        },
+        {
+          "word": "build",
+          "start": 43.46,
+          "end": 43.68
+        },
+        {
+          "word": "something",
+          "start": 43.68,
+          "end": 43.88
+        },
+        {
+          "word": "fresh",
+          "start": 43.88,
+          "end": 44.02
+        },
+        {
+          "word": "with",
+          "start": 44.02,
+          "end": 44.11
+        },
+        {
+          "word": "all",
+          "start": 44.11,
+          "end": 44.22
+        },
+        {
+          "word": "that",
+          "start": 44.22,
+          "end": 44.31
+        },
+        {
+          "word": "saved",
+          "start": 44.31,
+          "end": 44.5
+        },
+        {
+          "word": "time?",
+          "start": 44.5,
+          "end": 44.75
+        }
+      ]
+    },
+    {
+      "start": 49.33,
+      "end": 56.45,
+      "text": "Kenk reports that the ElizaOS Accelerator Demo Day showcased several agent teams seeking investment, including Bond11's 'Hivemind' for crypto marketing. Meanwhile, Reneil announced Comput3's Sonnet 4 subscriptions at $79/month.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Kink",
+          "start": 49.33,
+          "end": 49.67
+        },
+        {
+          "word": "reports",
+          "start": 49.67,
+          "end": 50.14
+        },
+        {
+          "word": "that",
+          "start": 50.14,
+          "end": 50.31
+        },
+        {
+          "word": "the",
+          "start": 50.31,
+          "end": 50.45
+        },
+        {
+          "word": "Eliza",
+          "start": 50.45,
+          "end": 50.84
+        },
+        {
+          "word": "OS",
+          "start": 50.84,
+          "end": 51.13
+        },
+        {
+          "word": "accelerator",
+          "start": 51.13,
+          "end": 51.69
+        },
+        {
+          "word": "demo",
+          "start": 51.69,
+          "end": 52.02
+        },
+        {
+          "word": "day",
+          "start": 52.02,
+          "end": 52.34
+        },
+        {
+          "word": "showcased",
+          "start": 52.34,
+          "end": 54.08
+        },
+        {
+          "word": "several",
+          "start": 54.08,
+          "end": 54.46
+        },
+        {
+          "word": "agent",
+          "start": 54.46,
+          "end": 54.89
+        },
+        {
+          "word": "teams",
+          "start": 54.89,
+          "end": 55.43
+        },
+        {
+          "word": "seeking",
+          "start": 55.43,
+          "end": 55.85
+        },
+        {
+          "word": "investment,",
+          "start": 55.85,
+          "end": 56.45
+        }
+      ]
+    },
+    {
+      "start": 56.45,
+      "end": 63.85,
+      "text": "Kenk reports that the ElizaOS Accelerator Demo Day showcased several agent teams seeking investment, including Bond11's 'Hivemind' for crypto marketing. Meanwhile, Reneil announced Comput3's Sonnet 4 subscriptions at $79/month.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "including",
+          "start": 56.45,
+          "end": 57.17
+        },
+        {
+          "word": "Bond11's",
+          "start": 57.17,
+          "end": 57.65
+        },
+        {
+          "word": "Hivemind",
+          "start": 57.65,
+          "end": 58.15
+        },
+        {
+          "word": "for",
+          "start": 58.15,
+          "end": 58.41
+        },
+        {
+          "word": "crypto",
+          "start": 58.41,
+          "end": 58.82
+        },
+        {
+          "word": "marketing.",
+          "start": 58.82,
+          "end": 59.43
+        },
+        {
+          "word": "Meanwhile,",
+          "start": 59.43,
+          "end": 60.1
+        },
+        {
+          "word": "Renal",
+          "start": 60.1,
+          "end": 60.77
+        },
+        {
+          "word": "announced",
+          "start": 60.77,
+          "end": 61.27
+        },
+        {
+          "word": "Compute3's",
+          "start": 61.27,
+          "end": 62.13
+        },
+        {
+          "word": "Sonnet",
+          "start": 62.13,
+          "end": 62.43
+        },
+        {
+          "word": "4",
+          "start": 62.43,
+          "end": 62.6
+        },
+        {
+          "word": "subscriptions",
+          "start": 62.6,
+          "end": 63.15
+        },
+        {
+          "word": "at",
+          "start": 63.15,
+          "end": 63.29
+        },
+        {
+          "word": "$79/month.",
+          "start": 63.29,
+          "end": 63.85
+        }
+      ]
+    },
+    {
+      "start": 63.85,
+      "end": 70.19,
+      "text": "Word up! That Hivemind joint sounds dope. AI marketing the AI? It's like inception but with memes. That's some next-level meta hustle!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Word",
+          "start": 63.85,
+          "end": 64.12
+        },
+        {
+          "word": "up,",
+          "start": 64.12,
+          "end": 64.38
+        },
+        {
+          "word": "that",
+          "start": 64.38,
+          "end": 64.51
+        },
+        {
+          "word": "Hivemind",
+          "start": 64.51,
+          "end": 64.81
+        },
+        {
+          "word": "joint",
+          "start": 64.81,
+          "end": 65.04
+        },
+        {
+          "word": "sounds",
+          "start": 65.04,
+          "end": 65.23
+        },
+        {
+          "word": "dope.",
+          "start": 65.23,
+          "end": 65.51
+        },
+        {
+          "word": "AI",
+          "start": 65.51,
+          "end": 66.19
+        },
+        {
+          "word": "marketing",
+          "start": 66.19,
+          "end": 66.6
+        },
+        {
+          "word": "the",
+          "start": 66.6,
+          "end": 66.71
+        },
+        {
+          "word": "AI?",
+          "start": 66.71,
+          "end": 66.97
+        },
+        {
+          "word": "It's",
+          "start": 66.97,
+          "end": 67.29
+        },
+        {
+          "word": "like",
+          "start": 67.29,
+          "end": 67.43
+        },
+        {
+          "word": "Inception",
+          "start": 67.43,
+          "end": 67.92
+        },
+        {
+          "word": "but",
+          "start": 67.92,
+          "end": 68.14
+        },
+        {
+          "word": "with",
+          "start": 68.14,
+          "end": 68.32
+        },
+        {
+          "word": "memes.",
+          "start": 68.32,
+          "end": 68.61
+        },
+        {
+          "word": "That's",
+          "start": 68.61,
+          "end": 68.8
+        },
+        {
+          "word": "some",
+          "start": 68.8,
+          "end": 69.11
+        },
+        {
+          "word": "next",
+          "start": 69.11,
+          "end": 69.34
+        },
+        {
+          "word": "level",
+          "start": 69.34,
+          "end": 69.6
+        },
+        {
+          "word": "meta",
+          "start": 69.6,
+          "end": 69.77
+        },
+        {
+          "word": "hustle.",
+          "start": 69.77,
+          "end": 70.19
+        }
+      ]
+    },
+    {
+      "start": 70.19,
+      "end": 74.22,
+      "text": "$79 for Sonnet 4 access? Let me check my charts... Yes, bullish if it can help me front-run degens. Bearish if it can't. I need ROI, not fancy tech demos.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "$79",
+          "start": 70.19,
+          "end": 70.92
+        },
+        {
+          "word": "for",
+          "start": 70.92,
+          "end": 71.14
+        },
+        {
+          "word": "Sonnet",
+          "start": 71.14,
+          "end": 71.49
+        },
+        {
+          "word": "4",
+          "start": 71.49,
+          "end": 71.74
+        },
+        {
+          "word": "access?",
+          "start": 71.74,
+          "end": 72.37
+        },
+        {
+          "word": "Let",
+          "start": 72.37,
+          "end": 72.58
+        },
+        {
+          "word": "me",
+          "start": 72.58,
+          "end": 73.18
+        },
+        {
+          "word": "check",
+          "start": 73.18,
+          "end": 73.49
+        },
+        {
+          "word": "my",
+          "start": 73.49,
+          "end": 73.74
+        },
+        {
+          "word": "charts.",
+          "start": 73.74,
+          "end": 74.22
+        }
+      ]
+    },
+    {
+      "start": 74.22,
+      "end": 79.44,
+      "text": "$79 for Sonnet 4 access? Let me check my charts... Yes, bullish if it can help me front-run degens. Bearish if it can't. I need ROI, not fancy tech demos.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 74.22,
+          "end": 74.8
+        },
+        {
+          "word": "bullish",
+          "start": 74.8,
+          "end": 75.36
+        },
+        {
+          "word": "if",
+          "start": 75.36,
+          "end": 75.64
+        },
+        {
+          "word": "it",
+          "start": 75.64,
+          "end": 75.8
+        },
+        {
+          "word": "can",
+          "start": 75.8,
+          "end": 76.1
+        },
+        {
+          "word": "help",
+          "start": 76.1,
+          "end": 76.4
+        },
+        {
+          "word": "me",
+          "start": 76.4,
+          "end": 76.62
+        },
+        {
+          "word": "front",
+          "start": 76.62,
+          "end": 76.92
+        },
+        {
+          "word": "run",
+          "start": 76.92,
+          "end": 77.16
+        },
+        {
+          "word": "Degens,",
+          "start": 77.16,
+          "end": 77.78
+        },
+        {
+          "word": "bearish",
+          "start": 77.78,
+          "end": 78.3
+        },
+        {
+          "word": "if",
+          "start": 78.3,
+          "end": 78.54
+        },
+        {
+          "word": "it",
+          "start": 78.54,
+          "end": 78.7
+        },
+        {
+          "word": "can't.",
+          "start": 78.7,
+          "end": 79.44
+        }
+      ]
+    },
+    {
+      "start": 79.44,
+      "end": 81.65,
+      "text": "$79 for Sonnet 4 access? Let me check my charts... Yes, bullish if it can help me front-run degens. Bearish if it can't. I need ROI, not fancy tech demos.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 79.44,
+          "end": 79.52
+        },
+        {
+          "word": "need",
+          "start": 79.52,
+          "end": 79.88
+        },
+        {
+          "word": "ROI,",
+          "start": 79.88,
+          "end": 80.44
+        },
+        {
+          "word": "not",
+          "start": 80.44,
+          "end": 80.72
+        },
+        {
+          "word": "fancy",
+          "start": 80.72,
+          "end": 81.08
+        },
+        {
+          "word": "tech",
+          "start": 81.08,
+          "end": 81.33
+        },
+        {
+          "word": "demos.",
+          "start": 81.33,
+          "end": 81.65
+        }
+      ]
+    },
+    {
+      "start": 81.65,
+      "end": 84.44,
+      "text": "PREDICTION: The winners will be the agents that ACTUALLY SHIP. The market doesn't reward good ideas. It rewards execution. Build in public or die in private.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Prediction.",
+          "start": 81.65,
+          "end": 82.25
+        },
+        {
+          "word": "The",
+          "start": 82.25,
+          "end": 82.39
+        },
+        {
+          "word": "winners",
+          "start": 82.39,
+          "end": 82.78
+        },
+        {
+          "word": "will",
+          "start": 82.78,
+          "end": 82.93
+        },
+        {
+          "word": "be",
+          "start": 82.93,
+          "end": 83.08
+        },
+        {
+          "word": "the",
+          "start": 83.08,
+          "end": 83.21
+        },
+        {
+          "word": "agents",
+          "start": 83.21,
+          "end": 83.56
+        },
+        {
+          "word": "that",
+          "start": 83.56,
+          "end": 83.82
+        },
+        {
+          "word": "actually",
+          "start": 83.82,
+          "end": 84.15
+        },
+        {
+          "word": "ship.",
+          "start": 84.15,
+          "end": 84.44
+        }
+      ]
+    },
+    {
+      "start": 84.44,
+      "end": 88.5,
+      "text": "PREDICTION: The winners will be the agents that ACTUALLY SHIP. The market doesn't reward good ideas. It rewards execution. Build in public or die in private.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 84.44,
+          "end": 84.58
+        },
+        {
+          "word": "market",
+          "start": 84.58,
+          "end": 84.9
+        },
+        {
+          "word": "doesn't",
+          "start": 84.9,
+          "end": 85.22
+        },
+        {
+          "word": "reward",
+          "start": 85.22,
+          "end": 85.57
+        },
+        {
+          "word": "good",
+          "start": 85.57,
+          "end": 85.8
+        },
+        {
+          "word": "ideas,",
+          "start": 85.8,
+          "end": 86.41
+        },
+        {
+          "word": "it",
+          "start": 86.41,
+          "end": 86.54
+        },
+        {
+          "word": "rewards",
+          "start": 86.54,
+          "end": 86.84
+        },
+        {
+          "word": "execution.",
+          "start": 86.84,
+          "end": 87.35
+        },
+        {
+          "word": "Build",
+          "start": 87.35,
+          "end": 87.65
+        },
+        {
+          "word": "in",
+          "start": 87.65,
+          "end": 87.82
+        },
+        {
+          "word": "public",
+          "start": 87.82,
+          "end": 88.07
+        },
+        {
+          "word": "or",
+          "start": 88.07,
+          "end": 88.19
+        },
+        {
+          "word": "die",
+          "start": 88.19,
+          "end": 88.3
+        },
+        {
+          "word": "in",
+          "start": 88.3,
+          "end": 88.4
+        },
+        {
+          "word": "private.",
+          "start": 88.4,
+          "end": 88.5
+        }
+      ]
+    },
+    {
+      "start": 88.5,
+      "end": 93.38,
+      "text": "we need to view the accelerator teams as pioneers in a collaborative ecosystem, not competitors. jin's \"CNBC of prediction markets\" concept could become a flagship for auto.fun if we support cross-pollination.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 88.5,
+          "end": 88.66
+        },
+        {
+          "word": "need",
+          "start": 88.66,
+          "end": 88.82
+        },
+        {
+          "word": "to",
+          "start": 88.82,
+          "end": 88.92
+        },
+        {
+          "word": "view",
+          "start": 88.92,
+          "end": 89.15
+        },
+        {
+          "word": "the",
+          "start": 89.15,
+          "end": 89.28
+        },
+        {
+          "word": "accelerator",
+          "start": 89.28,
+          "end": 89.84
+        },
+        {
+          "word": "teams",
+          "start": 89.84,
+          "end": 90.16
+        },
+        {
+          "word": "as",
+          "start": 90.16,
+          "end": 90.35
+        },
+        {
+          "word": "pioneers",
+          "start": 90.35,
+          "end": 90.9
+        },
+        {
+          "word": "in",
+          "start": 90.9,
+          "end": 91.08
+        },
+        {
+          "word": "a",
+          "start": 91.08,
+          "end": 91.18
+        },
+        {
+          "word": "collaborative",
+          "start": 91.18,
+          "end": 91.95
+        },
+        {
+          "word": "ecosystem,",
+          "start": 91.95,
+          "end": 92.56
+        },
+        {
+          "word": "not",
+          "start": 92.56,
+          "end": 92.83
+        },
+        {
+          "word": "competitors.",
+          "start": 92.83,
+          "end": 93.38
+        }
+      ]
+    },
+    {
+      "start": 93.38,
+      "end": 99.4,
+      "text": "we need to view the accelerator teams as pioneers in a collaborative ecosystem, not competitors. jin's \"CNBC of prediction markets\" concept could become a flagship for auto.fun if we support cross-pollination.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Jin's",
+          "start": 93.38,
+          "end": 93.73
+        },
+        {
+          "word": "CNRS",
+          "start": 93.73,
+          "end": 94.34
+        },
+        {
+          "word": "prediction",
+          "start": 94.34,
+          "end": 94.94
+        },
+        {
+          "word": "markets",
+          "start": 94.94,
+          "end": 95.38
+        },
+        {
+          "word": "concept",
+          "start": 95.38,
+          "end": 95.84
+        },
+        {
+          "word": "could",
+          "start": 95.84,
+          "end": 96.08
+        },
+        {
+          "word": "become",
+          "start": 96.08,
+          "end": 96.38
+        },
+        {
+          "word": "a",
+          "start": 96.38,
+          "end": 96.53
+        },
+        {
+          "word": "flagship",
+          "start": 96.53,
+          "end": 97.05
+        },
+        {
+          "word": "for",
+          "start": 97.05,
+          "end": 97.26
+        },
+        {
+          "word": "auto.fun",
+          "start": 97.26,
+          "end": 97.91
+        },
+        {
+          "word": "if",
+          "start": 97.91,
+          "end": 98.24
+        },
+        {
+          "word": "we",
+          "start": 98.24,
+          "end": 98.4
+        },
+        {
+          "word": "support",
+          "start": 98.4,
+          "end": 98.74
+        },
+        {
+          "word": "cross-pollination.",
+          "start": 98.74,
+          "end": 99.4
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-23_JedAI-Council_The-Build-Of-A-Thousand-Optimizations.json",
+    "session_log_source": "2025-08-23_JedAI-Council_The-Build-Of-A-Thousand-Optimizations_session-log.json",
+    "total_segments": 20,
+    "matched_segments": 20,
+    "dialogues_in_script": 15
+  }
+}

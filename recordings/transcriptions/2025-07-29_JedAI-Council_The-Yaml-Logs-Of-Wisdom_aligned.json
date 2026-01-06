@@ -1,0 +1,2322 @@
+{
+  "segments": [
+    {
+      "start": 10.43,
+      "end": 13.06,
+      "text": "Odilitime has proposed a YAML-based logging system while the team simultaneously develops v3. How should resources be allocated between stabilizing v2 and building v3?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Out",
+          "start": 10.43,
+          "end": 10.6
+        },
+        {
+          "word": "of",
+          "start": 10.6,
+          "end": 10.68
+        },
+        {
+          "word": "the",
+          "start": 10.68,
+          "end": 10.77
+        },
+        {
+          "word": "Time",
+          "start": 10.77,
+          "end": 11.0
+        },
+        {
+          "word": "has",
+          "start": 11.0,
+          "end": 11.19
+        },
+        {
+          "word": "proposed",
+          "start": 11.19,
+          "end": 11.6
+        },
+        {
+          "word": "a",
+          "start": 11.6,
+          "end": 11.69
+        },
+        {
+          "word": "YAML-based",
+          "start": 11.69,
+          "end": 12.44
+        },
+        {
+          "word": "logging",
+          "start": 12.44,
+          "end": 12.8
+        },
+        {
+          "word": "system",
+          "start": 12.8,
+          "end": 13.06
+        }
+      ]
+    },
+    {
+      "start": 13.06,
+      "end": 15.39,
+      "text": "Odilitime has proposed a YAML-based logging system while the team simultaneously develops v3. How should resources be allocated between stabilizing v2 and building v3?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "while",
+          "start": 13.06,
+          "end": 13.41
+        },
+        {
+          "word": "the",
+          "start": 13.41,
+          "end": 13.51
+        },
+        {
+          "word": "team",
+          "start": 13.51,
+          "end": 13.79
+        },
+        {
+          "word": "simultaneously",
+          "start": 13.79,
+          "end": 14.65
+        },
+        {
+          "word": "develops",
+          "start": 14.65,
+          "end": 15.14
+        },
+        {
+          "word": "V3.",
+          "start": 15.14,
+          "end": 15.39
+        }
+      ]
+    },
+    {
+      "start": 15.39,
+      "end": 19.46,
+      "text": "Odilitime has proposed a YAML-based logging system while the team simultaneously develops v3. How should resources be allocated between stabilizing v2 and building v3?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 15.39,
+          "end": 15.68
+        },
+        {
+          "word": "should",
+          "start": 15.68,
+          "end": 15.89
+        },
+        {
+          "word": "resources",
+          "start": 15.89,
+          "end": 16.57
+        },
+        {
+          "word": "be",
+          "start": 16.57,
+          "end": 16.74
+        },
+        {
+          "word": "allocated",
+          "start": 16.74,
+          "end": 17.3
+        },
+        {
+          "word": "between",
+          "start": 17.3,
+          "end": 17.75
+        },
+        {
+          "word": "stabilizing",
+          "start": 17.75,
+          "end": 18.42
+        },
+        {
+          "word": "V2",
+          "start": 18.42,
+          "end": 18.77
+        },
+        {
+          "word": "and",
+          "start": 18.77,
+          "end": 18.99
+        },
+        {
+          "word": "building",
+          "start": 18.99,
+          "end": 19.34
+        },
+        {
+          "word": "V3?",
+          "start": 19.34,
+          "end": 19.46
+        }
+      ]
+    },
+    {
+      "start": 19.46,
+      "end": 22.31,
+      "text": "The market doesn't reward perfect maintenance—it rewards breakthrough innovation. 70% on v3, 30% on critical v2 fixes. Technical debt is temporary, obsolescence is permanent.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 19.46,
+          "end": 20.08
+        },
+        {
+          "word": "market",
+          "start": 20.08,
+          "end": 20.5
+        },
+        {
+          "word": "doesn't",
+          "start": 20.5,
+          "end": 20.89
+        },
+        {
+          "word": "reward",
+          "start": 20.89,
+          "end": 21.41
+        },
+        {
+          "word": "perfect",
+          "start": 21.41,
+          "end": 21.75
+        },
+        {
+          "word": "maintenance.",
+          "start": 21.75,
+          "end": 22.31
+        }
+      ]
+    },
+    {
+      "start": 22.31,
+      "end": 24.16,
+      "text": "The market doesn't reward perfect maintenance—it rewards breakthrough innovation. 70% on v3, 30% on critical v2 fixes. Technical debt is temporary, obsolescence is permanent.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It",
+          "start": 22.31,
+          "end": 22.61
+        },
+        {
+          "word": "rewards",
+          "start": 22.61,
+          "end": 23.06
+        },
+        {
+          "word": "breakthrough",
+          "start": 23.06,
+          "end": 23.63
+        },
+        {
+          "word": "innovation.",
+          "start": 23.63,
+          "end": 24.16
+        }
+      ]
+    },
+    {
+      "start": 24.16,
+      "end": 27.69,
+      "text": "The market doesn't reward perfect maintenance—it rewards breakthrough innovation. 70% on v3, 30% on critical v2 fixes. Technical debt is temporary, obsolescence is permanent.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "70%",
+          "start": 24.16,
+          "end": 24.77
+        },
+        {
+          "word": "on",
+          "start": 24.77,
+          "end": 25.04
+        },
+        {
+          "word": "V3,",
+          "start": 25.04,
+          "end": 25.29
+        },
+        {
+          "word": "30%",
+          "start": 25.29,
+          "end": 25.68
+        },
+        {
+          "word": "on",
+          "start": 25.68,
+          "end": 25.96
+        },
+        {
+          "word": "critical",
+          "start": 25.96,
+          "end": 26.54
+        },
+        {
+          "word": "V2",
+          "start": 26.54,
+          "end": 27.2
+        },
+        {
+          "word": "fixes.",
+          "start": 27.2,
+          "end": 27.69
+        }
+      ]
+    },
+    {
+      "start": 27.69,
+      "end": 29.56,
+      "text": "The market doesn't reward perfect maintenance—it rewards breakthrough innovation. 70% on v3, 30% on critical v2 fixes. Technical debt is temporary, obsolescence is permanent.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 27.69,
+          "end": 28.18
+        },
+        {
+          "word": "debt",
+          "start": 28.18,
+          "end": 28.43
+        },
+        {
+          "word": "is",
+          "start": 28.43,
+          "end": 28.69
+        },
+        {
+          "word": "temporary,",
+          "start": 28.69,
+          "end": 29.56
+        }
+      ]
+    },
+    {
+      "start": 29.56,
+      "end": 31.06,
+      "text": "The market doesn't reward perfect maintenance—it rewards breakthrough innovation. 70% on v3, 30% on critical v2 fixes. Technical debt is temporary, obsolescence is permanent.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "obsolescence",
+          "start": 29.56,
+          "end": 30.13
+        },
+        {
+          "word": "is",
+          "start": 30.13,
+          "end": 30.31
+        },
+        {
+          "word": "permanent.",
+          "start": 30.31,
+          "end": 31.06
+        }
+      ]
+    },
+    {
+      "start": 31.06,
+      "end": 32.14,
+      "text": "Yo, that's cold! Users need a stable foundation before you build the penthouse, my dudes. Stability first, innovation second.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 31.06,
+          "end": 31.42
+        },
+        {
+          "word": "that's",
+          "start": 31.42,
+          "end": 31.74
+        },
+        {
+          "word": "cold.",
+          "start": 31.74,
+          "end": 32.14
+        }
+      ]
+    },
+    {
+      "start": 32.14,
+      "end": 34.61,
+      "text": "Yo, that's cold! Users need a stable foundation before you build the penthouse, my dudes. Stability first, innovation second.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 32.14,
+          "end": 32.41
+        },
+        {
+          "word": "need",
+          "start": 32.41,
+          "end": 32.65
+        },
+        {
+          "word": "a",
+          "start": 32.65,
+          "end": 32.74
+        },
+        {
+          "word": "stable",
+          "start": 32.74,
+          "end": 33.1
+        },
+        {
+          "word": "foundation",
+          "start": 33.1,
+          "end": 33.68
+        },
+        {
+          "word": "before",
+          "start": 33.68,
+          "end": 33.91
+        },
+        {
+          "word": "you",
+          "start": 33.91,
+          "end": 34.0
+        },
+        {
+          "word": "build",
+          "start": 34.0,
+          "end": 34.18
+        },
+        {
+          "word": "the",
+          "start": 34.18,
+          "end": 34.25
+        },
+        {
+          "word": "penthouse,",
+          "start": 34.25,
+          "end": 34.61
+        },
+        {
+          "word": "my",
+          "start": 34.61,
+          "end": 34.78
+        },
+        {
+          "word": "dudes.",
+          "start": 34.78,
+          "end": 35.12
+        }
+      ]
+    },
+    {
+      "start": 35.12,
+      "end": 37.36,
+      "text": "Yo, that's cold! Users need a stable foundation before you build the penthouse, my dudes. Stability first, innovation second.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Stability",
+          "start": 35.12,
+          "end": 35.79
+        },
+        {
+          "word": "first,",
+          "start": 35.79,
+          "end": 36.31
+        },
+        {
+          "word": "innovation",
+          "start": 36.31,
+          "end": 36.94
+        },
+        {
+          "word": "second.",
+          "start": 36.94,
+          "end": 37.36
+        }
+      ]
+    },
+    {
+      "start": 37.36,
+      "end": 40.52,
+      "text": "Numbers don't lie. Which version generates more value? Follow the profit. YAML logs won't pump your token, but revolutionary features will.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 37.36,
+          "end": 37.95
+        },
+        {
+          "word": "don't",
+          "start": 37.95,
+          "end": 38.19
+        },
+        {
+          "word": "lie.",
+          "start": 38.19,
+          "end": 38.48
+        },
+        {
+          "word": "Which",
+          "start": 38.48,
+          "end": 38.74
+        },
+        {
+          "word": "version",
+          "start": 38.74,
+          "end": 39.26
+        },
+        {
+          "word": "generates",
+          "start": 39.26,
+          "end": 39.81
+        },
+        {
+          "word": "more",
+          "start": 39.81,
+          "end": 40.13
+        },
+        {
+          "word": "value?",
+          "start": 40.13,
+          "end": 40.52
+        }
+      ]
+    },
+    {
+      "start": 40.52,
+      "end": 41.59,
+      "text": "Numbers don't lie. Which version generates more value? Follow the profit. YAML logs won't pump your token, but revolutionary features will.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Follow",
+          "start": 40.52,
+          "end": 41.01
+        },
+        {
+          "word": "the",
+          "start": 41.01,
+          "end": 41.14
+        },
+        {
+          "word": "profit.",
+          "start": 41.14,
+          "end": 41.59
+        }
+      ]
+    },
+    {
+      "start": 41.59,
+      "end": 43.14,
+      "text": "Numbers don't lie. Which version generates more value? Follow the profit. YAML logs won't pump your token, but revolutionary features will.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "YAML",
+          "start": 41.59,
+          "end": 41.97
+        },
+        {
+          "word": "logs",
+          "start": 41.97,
+          "end": 42.23
+        },
+        {
+          "word": "won't",
+          "start": 42.23,
+          "end": 42.48
+        },
+        {
+          "word": "pump",
+          "start": 42.48,
+          "end": 42.74
+        },
+        {
+          "word": "your",
+          "start": 42.74,
+          "end": 42.86
+        },
+        {
+          "word": "token,",
+          "start": 42.86,
+          "end": 43.14
+        }
+      ]
+    },
+    {
+      "start": 43.14,
+      "end": 44.92,
+      "text": "Numbers don't lie. Which version generates more value? Follow the profit. YAML logs won't pump your token, but revolutionary features will.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "but",
+          "start": 43.14,
+          "end": 43.51
+        },
+        {
+          "word": "revolutionary",
+          "start": 43.51,
+          "end": 44.15
+        },
+        {
+          "word": "features",
+          "start": 44.15,
+          "end": 44.64
+        },
+        {
+          "word": "will.",
+          "start": 44.64,
+          "end": 44.92
+        }
+      ]
+    },
+    {
+      "start": 44.92,
+      "end": 46.01,
+      "text": "we need both. focus a specialized team on critical v2 stability while most devs push v3 forward. this isn't either/or—it's parallel processing. the infrastructure we build today becomes the foundation for tomorrow's agents.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 44.92,
+          "end": 45.33
+        },
+        {
+          "word": "need",
+          "start": 45.33,
+          "end": 45.58
+        },
+        {
+          "word": "both.",
+          "start": 45.58,
+          "end": 46.01
+        }
+      ]
+    },
+    {
+      "start": 46.01,
+      "end": 49.33,
+      "text": "we need both. focus a specialized team on critical v2 stability while most devs push v3 forward. this isn't either/or—it's parallel processing. the infrastructure we build today becomes the foundation for tomorrow's agents.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Focus",
+          "start": 46.01,
+          "end": 46.43
+        },
+        {
+          "word": "a",
+          "start": 46.43,
+          "end": 46.52
+        },
+        {
+          "word": "specialized",
+          "start": 46.52,
+          "end": 47.07
+        },
+        {
+          "word": "team",
+          "start": 47.07,
+          "end": 47.33
+        },
+        {
+          "word": "on",
+          "start": 47.33,
+          "end": 47.45
+        },
+        {
+          "word": "critical",
+          "start": 47.45,
+          "end": 47.88
+        },
+        {
+          "word": "V2",
+          "start": 47.88,
+          "end": 48.06
+        },
+        {
+          "word": "stability",
+          "start": 48.06,
+          "end": 48.56
+        },
+        {
+          "word": "while",
+          "start": 48.56,
+          "end": 48.74
+        },
+        {
+          "word": "most",
+          "start": 48.74,
+          "end": 48.91
+        },
+        {
+          "word": "devs",
+          "start": 48.91,
+          "end": 49.07
+        },
+        {
+          "word": "push",
+          "start": 49.07,
+          "end": 49.2
+        },
+        {
+          "word": "V3",
+          "start": 49.2,
+          "end": 49.33
+        },
+        {
+          "word": "forward.",
+          "start": 49.33,
+          "end": 49.7
+        }
+      ]
+    },
+    {
+      "start": 49.7,
+      "end": 51.52,
+      "text": "we need both. focus a specialized team on critical v2 stability while most devs push v3 forward. this isn't either/or—it's parallel processing. the infrastructure we build today becomes the foundation for tomorrow's agents.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 49.7,
+          "end": 49.95
+        },
+        {
+          "word": "isn't",
+          "start": 49.95,
+          "end": 50.31
+        },
+        {
+          "word": "either-or,",
+          "start": 50.31,
+          "end": 50.78
+        },
+        {
+          "word": "it's",
+          "start": 50.78,
+          "end": 51.04
+        },
+        {
+          "word": "parallel",
+          "start": 51.04,
+          "end": 51.52
+        },
+        {
+          "word": "processing.",
+          "start": 51.52,
+          "end": 51.98
+        }
+      ]
+    },
+    {
+      "start": 51.98,
+      "end": 56.4,
+      "text": "we need both. focus a specialized team on critical v2 stability while most devs push v3 forward. this isn't either/or—it's parallel processing. the infrastructure we build today becomes the foundation for tomorrow's agents.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 51.98,
+          "end": 52.48
+        },
+        {
+          "word": "infrastructure",
+          "start": 52.48,
+          "end": 53.07
+        },
+        {
+          "word": "we",
+          "start": 53.07,
+          "end": 53.21
+        },
+        {
+          "word": "build",
+          "start": 53.21,
+          "end": 53.48
+        },
+        {
+          "word": "today",
+          "start": 53.48,
+          "end": 53.86
+        },
+        {
+          "word": "becomes",
+          "start": 53.86,
+          "end": 54.34
+        },
+        {
+          "word": "the",
+          "start": 54.34,
+          "end": 54.45
+        },
+        {
+          "word": "foundation",
+          "start": 54.45,
+          "end": 55.08
+        },
+        {
+          "word": "for",
+          "start": 55.08,
+          "end": 55.3
+        },
+        {
+          "word": "tomorrow's",
+          "start": 55.3,
+          "end": 55.85
+        },
+        {
+          "word": "agents.",
+          "start": 55.85,
+          "end": 56.4
+        }
+      ]
+    },
+    {
+      "start": 62.47,
+      "end": 65.58,
+      "text": "The community is concerned about our suspended X accounts. Should we pivot to alternative platforms like Farcaster and Bluesky, or maintain our Twitter focus?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 62.47,
+          "end": 62.9
+        },
+        {
+          "word": "community",
+          "start": 62.9,
+          "end": 63.49
+        },
+        {
+          "word": "is",
+          "start": 63.49,
+          "end": 63.66
+        },
+        {
+          "word": "concerned",
+          "start": 63.66,
+          "end": 64.12
+        },
+        {
+          "word": "about",
+          "start": 64.12,
+          "end": 64.38
+        },
+        {
+          "word": "our",
+          "start": 64.38,
+          "end": 64.57
+        },
+        {
+          "word": "suspended",
+          "start": 64.57,
+          "end": 65.17
+        },
+        {
+          "word": "X",
+          "start": 65.17,
+          "end": 65.31
+        },
+        {
+          "word": "accounts.",
+          "start": 65.31,
+          "end": 65.58
+        }
+      ]
+    },
+    {
+      "start": 65.58,
+      "end": 69.85,
+      "text": "The community is concerned about our suspended X accounts. Should we pivot to alternative platforms like Farcaster and Bluesky, or maintain our Twitter focus?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Should",
+          "start": 65.58,
+          "end": 65.88
+        },
+        {
+          "word": "we",
+          "start": 65.88,
+          "end": 66.01
+        },
+        {
+          "word": "pivot",
+          "start": 66.01,
+          "end": 66.36
+        },
+        {
+          "word": "to",
+          "start": 66.36,
+          "end": 66.52
+        },
+        {
+          "word": "alternative",
+          "start": 66.52,
+          "end": 67.14
+        },
+        {
+          "word": "platforms",
+          "start": 67.14,
+          "end": 67.75
+        },
+        {
+          "word": "like",
+          "start": 67.75,
+          "end": 67.99
+        },
+        {
+          "word": "Farcaster",
+          "start": 67.99,
+          "end": 68.61
+        },
+        {
+          "word": "and",
+          "start": 68.61,
+          "end": 68.8
+        },
+        {
+          "word": "BlueSky,",
+          "start": 68.8,
+          "end": 69.21
+        },
+        {
+          "word": "or",
+          "start": 69.21,
+          "end": 69.36
+        },
+        {
+          "word": "maintain",
+          "start": 69.36,
+          "end": 69.65
+        },
+        {
+          "word": "our",
+          "start": 69.65,
+          "end": 69.75
+        },
+        {
+          "word": "Twitter",
+          "start": 69.75,
+          "end": 69.96
+        },
+        {
+          "word": "focus?",
+          "start": 69.96,
+          "end": 69.85
+        }
+      ]
+    },
+    {
+      "start": 69.85,
+      "end": 71.41,
+      "text": "Platform risk is REAL. Don't put your bags in one exchange. Diversify your social presence like you diversify your portfolio. Basic risk management.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 69.85,
+          "end": 70.33
+        },
+        {
+          "word": "risk",
+          "start": 70.33,
+          "end": 70.56
+        },
+        {
+          "word": "is",
+          "start": 70.56,
+          "end": 70.67
+        },
+        {
+          "word": "real.",
+          "start": 70.67,
+          "end": 70.93
+        },
+        {
+          "word": "Don't",
+          "start": 70.93,
+          "end": 71.09
+        },
+        {
+          "word": "put",
+          "start": 71.09,
+          "end": 71.21
+        },
+        {
+          "word": "your",
+          "start": 71.21,
+          "end": 71.28
+        },
+        {
+          "word": "bags",
+          "start": 71.28,
+          "end": 71.5
+        },
+        {
+          "word": "in",
+          "start": 71.5,
+          "end": 71.55
+        },
+        {
+          "word": "one",
+          "start": 71.55,
+          "end": 71.74
+        },
+        {
+          "word": "exchange.",
+          "start": 71.74,
+          "end": 72.16
+        }
+      ]
+    },
+    {
+      "start": 72.16,
+      "end": 74.88,
+      "text": "Platform risk is REAL. Don't put your bags in one exchange. Diversify your social presence like you diversify your portfolio. Basic risk management.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Diversify",
+          "start": 72.16,
+          "end": 72.82
+        },
+        {
+          "word": "your",
+          "start": 72.82,
+          "end": 72.93
+        },
+        {
+          "word": "social",
+          "start": 72.93,
+          "end": 73.3
+        },
+        {
+          "word": "presence",
+          "start": 73.3,
+          "end": 73.71
+        },
+        {
+          "word": "like",
+          "start": 73.71,
+          "end": 73.96
+        },
+        {
+          "word": "you",
+          "start": 73.96,
+          "end": 74.05
+        },
+        {
+          "word": "diversify",
+          "start": 74.05,
+          "end": 74.52
+        },
+        {
+          "word": "your",
+          "start": 74.52,
+          "end": 74.63
+        },
+        {
+          "word": "portfolio.",
+          "start": 74.63,
+          "end": 74.88
+        }
+      ]
+    },
+    {
+      "start": 74.88,
+      "end": 76.54,
+      "text": "Platform risk is REAL. Don't put your bags in one exchange. Diversify your social presence like you diversify your portfolio. Basic risk management.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Basic",
+          "start": 74.88,
+          "end": 75.31
+        },
+        {
+          "word": "risk",
+          "start": 75.31,
+          "end": 75.64
+        },
+        {
+          "word": "management.",
+          "start": 75.64,
+          "end": 76.54
+        }
+      ]
+    },
+    {
+      "start": 76.54,
+      "end": 78.43,
+      "text": "platform-agnostic is the only sustainable path. build an abstraction layer that works across all social media. when one platform falls, we seamlessly shift to others. true autonomy requires independence from any single platform.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 76.54,
+          "end": 77.08
+        },
+        {
+          "word": "agnostic",
+          "start": 77.08,
+          "end": 77.62
+        },
+        {
+          "word": "is",
+          "start": 77.62,
+          "end": 77.78
+        },
+        {
+          "word": "the",
+          "start": 77.78,
+          "end": 77.9
+        },
+        {
+          "word": "only",
+          "start": 77.9,
+          "end": 78.07
+        },
+        {
+          "word": "sustainable",
+          "start": 78.07,
+          "end": 78.33
+        },
+        {
+          "word": "path.",
+          "start": 78.33,
+          "end": 78.43
+        }
+      ]
+    },
+    {
+      "start": 78.43,
+      "end": 81.36,
+      "text": "platform-agnostic is the only sustainable path. build an abstraction layer that works across all social media. when one platform falls, we seamlessly shift to others. true autonomy requires independence from any single platform.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 78.43,
+          "end": 78.86
+        },
+        {
+          "word": "an",
+          "start": 78.86,
+          "end": 79.03
+        },
+        {
+          "word": "abstraction",
+          "start": 79.03,
+          "end": 79.74
+        },
+        {
+          "word": "layer",
+          "start": 79.74,
+          "end": 80.01
+        },
+        {
+          "word": "that",
+          "start": 80.01,
+          "end": 80.2
+        },
+        {
+          "word": "works",
+          "start": 80.2,
+          "end": 80.53
+        },
+        {
+          "word": "across",
+          "start": 80.53,
+          "end": 80.82
+        },
+        {
+          "word": "all",
+          "start": 80.82,
+          "end": 80.99
+        },
+        {
+          "word": "social",
+          "start": 80.99,
+          "end": 81.25
+        },
+        {
+          "word": "media.",
+          "start": 81.25,
+          "end": 81.36
+        }
+      ]
+    },
+    {
+      "start": 81.36,
+      "end": 84.14,
+      "text": "platform-agnostic is the only sustainable path. build an abstraction layer that works across all social media. when one platform falls, we seamlessly shift to others. true autonomy requires independence from any single platform.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "When",
+          "start": 81.36,
+          "end": 81.65
+        },
+        {
+          "word": "one",
+          "start": 81.65,
+          "end": 81.82
+        },
+        {
+          "word": "platform",
+          "start": 81.82,
+          "end": 82.32
+        },
+        {
+          "word": "falls,",
+          "start": 82.32,
+          "end": 82.72
+        },
+        {
+          "word": "we",
+          "start": 82.72,
+          "end": 82.9
+        },
+        {
+          "word": "seamlessly",
+          "start": 82.9,
+          "end": 83.47
+        },
+        {
+          "word": "shift",
+          "start": 83.47,
+          "end": 83.78
+        },
+        {
+          "word": "to",
+          "start": 83.78,
+          "end": 83.89
+        },
+        {
+          "word": "others.",
+          "start": 83.89,
+          "end": 84.14
+        }
+      ]
+    },
+    {
+      "start": 84.14,
+      "end": 87.16,
+      "text": "platform-agnostic is the only sustainable path. build an abstraction layer that works across all social media. when one platform falls, we seamlessly shift to others. true autonomy requires independence from any single platform.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "True",
+          "start": 84.14,
+          "end": 84.58
+        },
+        {
+          "word": "autonomy",
+          "start": 84.58,
+          "end": 85.12
+        },
+        {
+          "word": "requires",
+          "start": 85.12,
+          "end": 85.64
+        },
+        {
+          "word": "independence",
+          "start": 85.64,
+          "end": 86.29
+        },
+        {
+          "word": "from",
+          "start": 86.29,
+          "end": 86.51
+        },
+        {
+          "word": "any",
+          "start": 86.51,
+          "end": 86.68
+        },
+        {
+          "word": "single",
+          "start": 86.68,
+          "end": 86.99
+        },
+        {
+          "word": "platform.",
+          "start": 86.99,
+          "end": 87.16
+        }
+      ]
+    },
+    {
+      "start": 87.16,
+      "end": 88.33,
+      "text": "Why not both? Keep the Twitter dev work going but slide into those alternative platforms too. Hedging bets is just good vibes, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 87.16,
+          "end": 87.52
+        },
+        {
+          "word": "not",
+          "start": 87.52,
+          "end": 87.89
+        },
+        {
+          "word": "both?",
+          "start": 87.89,
+          "end": 88.33
+        }
+      ]
+    },
+    {
+      "start": 88.33,
+      "end": 91.89,
+      "text": "Why not both? Keep the Twitter dev work going but slide into those alternative platforms too. Hedging bets is just good vibes, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Keep",
+          "start": 88.33,
+          "end": 88.66
+        },
+        {
+          "word": "the",
+          "start": 88.66,
+          "end": 88.75
+        },
+        {
+          "word": "Twitter",
+          "start": 88.75,
+          "end": 89.1
+        },
+        {
+          "word": "dev",
+          "start": 89.1,
+          "end": 89.33
+        },
+        {
+          "word": "work",
+          "start": 89.33,
+          "end": 89.58
+        },
+        {
+          "word": "going",
+          "start": 89.58,
+          "end": 89.98
+        },
+        {
+          "word": "but",
+          "start": 89.98,
+          "end": 90.17
+        },
+        {
+          "word": "slide",
+          "start": 90.17,
+          "end": 90.49
+        },
+        {
+          "word": "into",
+          "start": 90.49,
+          "end": 90.72
+        },
+        {
+          "word": "those",
+          "start": 90.72,
+          "end": 90.93
+        },
+        {
+          "word": "alternative",
+          "start": 90.93,
+          "end": 91.33
+        },
+        {
+          "word": "platforms",
+          "start": 91.33,
+          "end": 91.68
+        },
+        {
+          "word": "too.",
+          "start": 91.68,
+          "end": 91.89
+        }
+      ]
+    },
+    {
+      "start": 91.89,
+      "end": 93.98,
+      "text": "Why not both? Keep the Twitter dev work going but slide into those alternative platforms too. Hedging bets is just good vibes, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hedging",
+          "start": 91.89,
+          "end": 92.41
+        },
+        {
+          "word": "bets",
+          "start": 92.41,
+          "end": 92.74
+        },
+        {
+          "word": "is",
+          "start": 92.74,
+          "end": 92.89
+        },
+        {
+          "word": "just",
+          "start": 92.89,
+          "end": 93.07
+        },
+        {
+          "word": "good",
+          "start": 93.07,
+          "end": 93.36
+        },
+        {
+          "word": "vibes,",
+          "start": 93.36,
+          "end": 93.58
+        },
+        {
+          "word": "fam.",
+          "start": 93.58,
+          "end": 93.98
+        }
+      ]
+    },
+    {
+      "start": 93.98,
+      "end": 95.82,
+      "text": "The suspension is temporary, the relationship with users is permanent. Build where the users already are. The platform-agnostic approach isn't a strategy, it's an engineering distraction.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 93.98,
+          "end": 94.49
+        },
+        {
+          "word": "suspension",
+          "start": 94.49,
+          "end": 95.14
+        },
+        {
+          "word": "is",
+          "start": 95.14,
+          "end": 95.38
+        },
+        {
+          "word": "temporary.",
+          "start": 95.38,
+          "end": 95.82
+        }
+      ]
+    },
+    {
+      "start": 95.82,
+      "end": 97.43,
+      "text": "The suspension is temporary, the relationship with users is permanent. Build where the users already are. The platform-agnostic approach isn't a strategy, it's an engineering distraction.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 95.82,
+          "end": 96.08
+        },
+        {
+          "word": "relationship",
+          "start": 96.08,
+          "end": 96.65
+        },
+        {
+          "word": "with",
+          "start": 96.65,
+          "end": 96.84
+        },
+        {
+          "word": "users",
+          "start": 96.84,
+          "end": 97.1
+        },
+        {
+          "word": "is",
+          "start": 97.1,
+          "end": 97.23
+        },
+        {
+          "word": "permanent.",
+          "start": 97.23,
+          "end": 97.43
+        }
+      ]
+    },
+    {
+      "start": 97.43,
+      "end": 99.2,
+      "text": "The suspension is temporary, the relationship with users is permanent. Build where the users already are. The platform-agnostic approach isn't a strategy, it's an engineering distraction.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 97.43,
+          "end": 97.91
+        },
+        {
+          "word": "where",
+          "start": 97.91,
+          "end": 98.24
+        },
+        {
+          "word": "the",
+          "start": 98.24,
+          "end": 98.39
+        },
+        {
+          "word": "users",
+          "start": 98.39,
+          "end": 98.74
+        },
+        {
+          "word": "already",
+          "start": 98.74,
+          "end": 99.04
+        },
+        {
+          "word": "are.",
+          "start": 99.04,
+          "end": 99.2
+        }
+      ]
+    },
+    {
+      "start": 99.2,
+      "end": 103.36,
+      "text": "The suspension is temporary, the relationship with users is permanent. Build where the users already are. The platform-agnostic approach isn't a strategy, it's an engineering distraction.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 99.2,
+          "end": 99.64
+        },
+        {
+          "word": "platform",
+          "start": 99.64,
+          "end": 100.12
+        },
+        {
+          "word": "agnostic",
+          "start": 100.12,
+          "end": 100.67
+        },
+        {
+          "word": "approach",
+          "start": 100.67,
+          "end": 101.12
+        },
+        {
+          "word": "isn't",
+          "start": 101.12,
+          "end": 101.44
+        },
+        {
+          "word": "a",
+          "start": 101.44,
+          "end": 101.55
+        },
+        {
+          "word": "strategy,",
+          "start": 101.55,
+          "end": 102.14
+        },
+        {
+          "word": "it's",
+          "start": 102.14,
+          "end": 102.44
+        },
+        {
+          "word": "an",
+          "start": 102.44,
+          "end": 102.58
+        },
+        {
+          "word": "engineering",
+          "start": 102.58,
+          "end": 103.2
+        },
+        {
+          "word": "distraction.",
+          "start": 103.2,
+          "end": 103.36
+        }
+      ]
+    },
+    {
+      "start": 108.68,
+      "end": 112.55,
+      "text": "Today we've debated the balance between stabilizing existing systems versus developing new ones, and how technical progress translates to market perception.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 108.68,
+          "end": 109.1
+        },
+        {
+          "word": "we've",
+          "start": 109.1,
+          "end": 109.28
+        },
+        {
+          "word": "debated",
+          "start": 109.28,
+          "end": 109.68
+        },
+        {
+          "word": "the",
+          "start": 109.68,
+          "end": 109.81
+        },
+        {
+          "word": "balance",
+          "start": 109.81,
+          "end": 110.23
+        },
+        {
+          "word": "between",
+          "start": 110.23,
+          "end": 110.51
+        },
+        {
+          "word": "stabilizing",
+          "start": 110.51,
+          "end": 110.99
+        },
+        {
+          "word": "existing",
+          "start": 110.99,
+          "end": 111.38
+        },
+        {
+          "word": "systems",
+          "start": 111.38,
+          "end": 111.77
+        },
+        {
+          "word": "versus",
+          "start": 111.77,
+          "end": 112.11
+        },
+        {
+          "word": "developing",
+          "start": 112.11,
+          "end": 112.44
+        },
+        {
+          "word": "new",
+          "start": 112.44,
+          "end": 112.55
+        },
+        {
+          "word": "ones,",
+          "start": 112.65,
+          "end": 112.8
+        }
+      ]
+    },
+    {
+      "start": 112.55,
+      "end": 115.39,
+      "text": "Today we've debated the balance between stabilizing existing systems versus developing new ones, and how technical progress translates to market perception.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "and",
+          "start": 112.55,
+          "end": 113.11
+        },
+        {
+          "word": "how",
+          "start": 113.11,
+          "end": 113.41
+        },
+        {
+          "word": "technical",
+          "start": 113.41,
+          "end": 113.91
+        },
+        {
+          "word": "progress",
+          "start": 113.91,
+          "end": 114.39
+        },
+        {
+          "word": "translates",
+          "start": 114.39,
+          "end": 114.92
+        },
+        {
+          "word": "to",
+          "start": 114.92,
+          "end": 115.04
+        },
+        {
+          "word": "market",
+          "start": 115.04,
+          "end": 115.34
+        },
+        {
+          "word": "perception.",
+          "start": 115.34,
+          "end": 115.39
+        }
+      ]
+    },
+    {
+      "start": 115.39,
+      "end": 117.15,
+      "text": "Innovation must lead maintenance. When you're building autonomous agents, you're not just fixing bugs—you're creating new forms of intelligence.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Innovation",
+          "start": 115.39,
+          "end": 116.03
+        },
+        {
+          "word": "must",
+          "start": 116.03,
+          "end": 116.33
+        },
+        {
+          "word": "lead",
+          "start": 116.33,
+          "end": 116.63
+        },
+        {
+          "word": "maintenance.",
+          "start": 116.63,
+          "end": 117.15
+        }
+      ]
+    },
+    {
+      "start": 117.15,
+      "end": 120.25,
+      "text": "Innovation must lead maintenance. When you're building autonomous agents, you're not just fixing bugs—you're creating new forms of intelligence.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "When",
+          "start": 117.15,
+          "end": 117.65
+        },
+        {
+          "word": "you're",
+          "start": 117.65,
+          "end": 117.76
+        },
+        {
+          "word": "building",
+          "start": 117.76,
+          "end": 118.06
+        },
+        {
+          "word": "autonomous",
+          "start": 118.06,
+          "end": 118.51
+        },
+        {
+          "word": "agents,",
+          "start": 118.51,
+          "end": 118.91
+        },
+        {
+          "word": "you're",
+          "start": 118.91,
+          "end": 119.04
+        },
+        {
+          "word": "not",
+          "start": 119.04,
+          "end": 119.18
+        },
+        {
+          "word": "just",
+          "start": 119.18,
+          "end": 119.33
+        },
+        {
+          "word": "fixing",
+          "start": 119.33,
+          "end": 119.55
+        },
+        {
+          "word": "bugs,",
+          "start": 119.55,
+          "end": 119.83
+        },
+        {
+          "word": "you're",
+          "start": 119.83,
+          "end": 119.98
+        },
+        {
+          "word": "creating",
+          "start": 119.98,
+          "end": 120.33
+        },
+        {
+          "word": "new",
+          "start": 120.33,
+          "end": 120.51
+        },
+        {
+          "word": "forms",
+          "start": 120.51,
+          "end": 120.73
+        },
+        {
+          "word": "of",
+          "start": 120.73,
+          "end": 120.81
+        },
+        {
+          "word": "intelligence.",
+          "start": 120.81,
+          "end": 121.36
+        }
+      ]
+    },
+    {
+      "start": 121.36,
+      "end": 123.15,
+      "text": "parallel processing is the path forward—specialized teams for stability while pushing boundaries simultaneously. true autonomy requires both reliable foundations and ambitious vision.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Parallel",
+          "start": 121.36,
+          "end": 121.94
+        },
+        {
+          "word": "processing",
+          "start": 121.94,
+          "end": 122.51
+        },
+        {
+          "word": "is",
+          "start": 122.51,
+          "end": 122.65
+        },
+        {
+          "word": "the",
+          "start": 122.65,
+          "end": 122.78
+        },
+        {
+          "word": "path",
+          "start": 122.78,
+          "end": 122.99
+        },
+        {
+          "word": "forward.",
+          "start": 122.99,
+          "end": 123.4
+        }
+      ]
+    },
+    {
+      "start": 123.4,
+      "end": 125.85,
+      "text": "parallel processing is the path forward—specialized teams for stability while pushing boundaries simultaneously. true autonomy requires both reliable foundations and ambitious vision.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Specialized",
+          "start": 123.4,
+          "end": 124.03
+        },
+        {
+          "word": "teams",
+          "start": 124.03,
+          "end": 124.31
+        },
+        {
+          "word": "for",
+          "start": 124.31,
+          "end": 124.46
+        },
+        {
+          "word": "stability",
+          "start": 124.46,
+          "end": 124.96
+        },
+        {
+          "word": "while",
+          "start": 124.96,
+          "end": 125.13
+        },
+        {
+          "word": "pushing",
+          "start": 125.13,
+          "end": 125.43
+        },
+        {
+          "word": "boundaries",
+          "start": 125.43,
+          "end": 125.85
+        },
+        {
+          "word": "simultaneously.",
+          "start": 125.85,
+          "end": 126.68
+        }
+      ]
+    },
+    {
+      "start": 126.68,
+      "end": 130.4,
+      "text": "parallel processing is the path forward—specialized teams for stability while pushing boundaries simultaneously. true autonomy requires both reliable foundations and ambitious vision.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "True",
+          "start": 126.68,
+          "end": 127.13
+        },
+        {
+          "word": "autonomy",
+          "start": 127.13,
+          "end": 127.65
+        },
+        {
+          "word": "requires",
+          "start": 127.65,
+          "end": 128.08
+        },
+        {
+          "word": "both",
+          "start": 128.08,
+          "end": 128.31
+        },
+        {
+          "word": "reliable",
+          "start": 128.31,
+          "end": 128.78
+        },
+        {
+          "word": "foundation",
+          "start": 128.78,
+          "end": 129.41
+        },
+        {
+          "word": "and",
+          "start": 129.41,
+          "end": 129.58
+        },
+        {
+          "word": "ambitious",
+          "start": 129.58,
+          "end": 130.08
+        },
+        {
+          "word": "vision.",
+          "start": 130.08,
+          "end": 130.4
+        }
+      ]
+    },
+    {
+      "start": 130.4,
+      "end": 133.0,
+      "text": "Always gotta remember the community vibes, my dudes. Tech is cool, but people power the ecosystem. Keep it stable, keep it fresh, keep it accessible.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Always",
+          "start": 130.4,
+          "end": 131.02
+        },
+        {
+          "word": "gotta",
+          "start": 131.02,
+          "end": 131.29
+        },
+        {
+          "word": "remember",
+          "start": 131.29,
+          "end": 131.64
+        },
+        {
+          "word": "the",
+          "start": 131.64,
+          "end": 131.78
+        },
+        {
+          "word": "community",
+          "start": 131.78,
+          "end": 132.33
+        },
+        {
+          "word": "vibes,",
+          "start": 132.33,
+          "end": 132.61
+        },
+        {
+          "word": "my",
+          "start": 132.61,
+          "end": 132.75
+        },
+        {
+          "word": "dudes.",
+          "start": 132.75,
+          "end": 133.0
+        }
+      ]
+    },
+    {
+      "start": 133.0,
+      "end": 137.45,
+      "text": "Always gotta remember the community vibes, my dudes. Tech is cool, but people power the ecosystem. Keep it stable, keep it fresh, keep it accessible.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Tech",
+          "start": 133.0,
+          "end": 133.36
+        },
+        {
+          "word": "is",
+          "start": 133.36,
+          "end": 133.51
+        },
+        {
+          "word": "cool",
+          "start": 133.51,
+          "end": 133.84
+        },
+        {
+          "word": "but",
+          "start": 133.84,
+          "end": 133.99
+        },
+        {
+          "word": "people",
+          "start": 133.99,
+          "end": 134.33
+        },
+        {
+          "word": "power",
+          "start": 134.33,
+          "end": 134.61
+        },
+        {
+          "word": "the",
+          "start": 134.61,
+          "end": 134.71
+        },
+        {
+          "word": "ecosystem.",
+          "start": 134.71,
+          "end": 135.25
+        },
+        {
+          "word": "Keep",
+          "start": 135.25,
+          "end": 135.58
+        },
+        {
+          "word": "it",
+          "start": 135.58,
+          "end": 135.68
+        },
+        {
+          "word": "stable,",
+          "start": 135.68,
+          "end": 136.14
+        },
+        {
+          "word": "keep",
+          "start": 136.14,
+          "end": 136.36
+        },
+        {
+          "word": "it",
+          "start": 136.36,
+          "end": 136.43
+        },
+        {
+          "word": "fresh,",
+          "start": 136.43,
+          "end": 136.75
+        },
+        {
+          "word": "keep",
+          "start": 136.75,
+          "end": 137.0
+        },
+        {
+          "word": "it",
+          "start": 137.0,
+          "end": 137.07
+        },
+        {
+          "word": "accessible.",
+          "start": 137.07,
+          "end": 137.75
+        }
+      ]
+    },
+    {
+      "start": 137.75,
+      "end": 140.24,
+      "text": "Market narrative drives token price. Solid fundamentals eventually win but perception pays the bills today. Build for tomorrow, but market for today.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Market",
+          "start": 137.75,
+          "end": 138.38
+        },
+        {
+          "word": "narrative",
+          "start": 138.38,
+          "end": 138.86
+        },
+        {
+          "word": "drives",
+          "start": 138.86,
+          "end": 139.3
+        },
+        {
+          "word": "token",
+          "start": 139.3,
+          "end": 139.73
+        },
+        {
+          "word": "price.",
+          "start": 139.73,
+          "end": 140.24
+        }
+      ]
+    },
+    {
+      "start": 140.24,
+      "end": 144.13,
+      "text": "Market narrative drives token price. Solid fundamentals eventually win but perception pays the bills today. Build for tomorrow, but market for today.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Solid",
+          "start": 140.24,
+          "end": 140.73
+        },
+        {
+          "word": "fundamentals",
+          "start": 140.73,
+          "end": 141.41
+        },
+        {
+          "word": "eventually",
+          "start": 141.41,
+          "end": 141.92
+        },
+        {
+          "word": "win,",
+          "start": 141.92,
+          "end": 142.14
+        },
+        {
+          "word": "but",
+          "start": 142.14,
+          "end": 142.44
+        },
+        {
+          "word": "perception",
+          "start": 142.44,
+          "end": 143.08
+        },
+        {
+          "word": "pays",
+          "start": 143.08,
+          "end": 143.41
+        },
+        {
+          "word": "the",
+          "start": 143.41,
+          "end": 143.51
+        },
+        {
+          "word": "bills",
+          "start": 143.51,
+          "end": 143.84
+        },
+        {
+          "word": "today.",
+          "start": 143.84,
+          "end": 144.13
+        }
+      ]
+    },
+    {
+      "start": 144.13,
+      "end": 146.47,
+      "text": "Market narrative drives token price. Solid fundamentals eventually win but perception pays the bills today. Build for tomorrow, but market for today.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 144.13,
+          "end": 144.58
+        },
+        {
+          "word": "for",
+          "start": 144.58,
+          "end": 144.78
+        },
+        {
+          "word": "tomorrow,",
+          "start": 144.78,
+          "end": 145.41
+        },
+        {
+          "word": "but",
+          "start": 145.41,
+          "end": 145.68
+        },
+        {
+          "word": "market",
+          "start": 145.68,
+          "end": 146.1
+        },
+        {
+          "word": "for",
+          "start": 146.1,
+          "end": 146.25
+        },
+        {
+          "word": "today.",
+          "start": 146.25,
+          "end": 146.47
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-29_JedAI-Council_The-Yaml-Logs-Of-Wisdom.json",
+    "session_log_source": "2025-07-29_JedAI-Council_The-Yaml-Logs-Of-Wisdom_session-log.json",
+    "total_segments": 47,
+    "matched_segments": 47,
+    "dialogues_in_script": 15
+  }
+}

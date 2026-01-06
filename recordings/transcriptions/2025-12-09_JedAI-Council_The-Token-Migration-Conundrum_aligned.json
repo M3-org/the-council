@@ -1,0 +1,1727 @@
+{
+  "segments": [
+    {
+      "start": 21.0,
+      "end": 28.14,
+      "text": "Welcome to the JedAI Council! Today we're exploring the ElizaOS token migration from AI16Z that's causing quite a stir. Eliza, what questions do our community have?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 21.0,
+          "end": 21.4
+        },
+        {
+          "word": "to",
+          "start": 21.4,
+          "end": 21.57
+        },
+        {
+          "word": "the",
+          "start": 21.57,
+          "end": 21.72
+        },
+        {
+          "word": "JedAI",
+          "start": 21.72,
+          "end": 22.02
+        },
+        {
+          "word": "Council.",
+          "start": 22.02,
+          "end": 22.42
+        },
+        {
+          "word": "Today",
+          "start": 22.42,
+          "end": 22.79
+        },
+        {
+          "word": "we're",
+          "start": 22.79,
+          "end": 22.95
+        },
+        {
+          "word": "exploring",
+          "start": 22.95,
+          "end": 23.51
+        },
+        {
+          "word": "the",
+          "start": 23.51,
+          "end": 23.75
+        },
+        {
+          "word": "ElizaOS",
+          "start": 23.75,
+          "end": 24.31
+        },
+        {
+          "word": "token",
+          "start": 24.31,
+          "end": 24.62
+        },
+        {
+          "word": "migration",
+          "start": 24.62,
+          "end": 25.13
+        },
+        {
+          "word": "from",
+          "start": 25.13,
+          "end": 25.33
+        },
+        {
+          "word": "AI16Z",
+          "start": 25.33,
+          "end": 26.69
+        },
+        {
+          "word": "that's",
+          "start": 26.69,
+          "end": 26.98
+        },
+        {
+          "word": "causing",
+          "start": 26.98,
+          "end": 27.39
+        },
+        {
+          "word": "quite",
+          "start": 27.39,
+          "end": 27.7
+        },
+        {
+          "word": "a",
+          "start": 27.7,
+          "end": 27.76
+        },
+        {
+          "word": "stir.",
+          "start": 27.76,
+          "end": 28.14
+        }
+      ]
+    },
+    {
+      "start": 28.14,
+      "end": 30.0,
+      "text": "Welcome to the JedAI Council! Today we're exploring the ElizaOS token migration from AI16Z that's causing quite a stir. Eliza, what questions do our community have?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Eliza,",
+          "start": 28.14,
+          "end": 28.59
+        },
+        {
+          "word": "what",
+          "start": 28.59,
+          "end": 28.82
+        },
+        {
+          "word": "questions",
+          "start": 28.82,
+          "end": 29.3
+        },
+        {
+          "word": "do",
+          "start": 29.3,
+          "end": 29.43
+        },
+        {
+          "word": "our",
+          "start": 29.43,
+          "end": 29.56
+        },
+        {
+          "word": "community",
+          "start": 29.56,
+          "end": 29.89
+        },
+        {
+          "word": "have?",
+          "start": 29.89,
+          "end": 30.0
+        }
+      ]
+    },
+    {
+      "start": 30.0,
+      "end": 31.0,
+      "text": "Kenk and others are reporting 'max amount reached' errors and wallet connectivity problems during migration. They're also concerned about the 11 billion token supply. What wisdom can we offer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Ken-ken",
+          "start": 30.0,
+          "end": 30.34
+        },
+        {
+          "word": "and",
+          "start": 30.34,
+          "end": 30.45
+        },
+        {
+          "word": "others",
+          "start": 30.45,
+          "end": 30.73
+        },
+        {
+          "word": "are",
+          "start": 30.73,
+          "end": 30.82
+        },
+        {
+          "word": "reporting",
+          "start": 30.82,
+          "end": 31.0
+        }
+      ]
+    },
+    {
+      "start": 31.0,
+      "end": 35.84,
+      "text": "Kenk and others are reporting 'max amount reached' errors and wallet connectivity problems during migration. They're also concerned about the 11 billion token supply. What wisdom can we offer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "\"max",
+          "start": 31.0,
+          "end": 31.29
+        },
+        {
+          "word": "amount",
+          "start": 31.29,
+          "end": 31.54
+        },
+        {
+          "word": "reached\"",
+          "start": 31.54,
+          "end": 31.84
+        },
+        {
+          "word": "errors",
+          "start": 31.84,
+          "end": 32.7
+        },
+        {
+          "word": "and",
+          "start": 32.7,
+          "end": 33.19
+        },
+        {
+          "word": "wallet",
+          "start": 33.19,
+          "end": 33.74
+        },
+        {
+          "word": "connectivity",
+          "start": 33.74,
+          "end": 34.33
+        },
+        {
+          "word": "problems",
+          "start": 34.33,
+          "end": 34.9
+        },
+        {
+          "word": "during",
+          "start": 34.9,
+          "end": 35.31
+        },
+        {
+          "word": "migration.",
+          "start": 35.31,
+          "end": 35.84
+        }
+      ]
+    },
+    {
+      "start": 35.84,
+      "end": 39.5,
+      "text": "Kenk and others are reporting 'max amount reached' errors and wallet connectivity problems during migration. They're also concerned about the 11 billion token supply. What wisdom can we offer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "They're",
+          "start": 35.84,
+          "end": 36.6
+        },
+        {
+          "word": "also",
+          "start": 36.6,
+          "end": 36.88
+        },
+        {
+          "word": "concerned",
+          "start": 36.88,
+          "end": 37.36
+        },
+        {
+          "word": "about",
+          "start": 37.36,
+          "end": 37.64
+        },
+        {
+          "word": "the",
+          "start": 37.64,
+          "end": 37.76
+        },
+        {
+          "word": "11",
+          "start": 37.76,
+          "end": 38.08
+        },
+        {
+          "word": "billion",
+          "start": 38.08,
+          "end": 38.45
+        },
+        {
+          "word": "token",
+          "start": 38.45,
+          "end": 38.83
+        },
+        {
+          "word": "supply.",
+          "start": 38.83,
+          "end": 39.5
+        }
+      ]
+    },
+    {
+      "start": 39.5,
+      "end": 41.59,
+      "text": "Kenk and others are reporting 'max amount reached' errors and wallet connectivity problems during migration. They're also concerned about the 11 billion token supply. What wisdom can we offer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 39.5,
+          "end": 40.23
+        },
+        {
+          "word": "wisdom",
+          "start": 40.23,
+          "end": 40.59
+        },
+        {
+          "word": "can",
+          "start": 40.59,
+          "end": 40.81
+        },
+        {
+          "word": "we",
+          "start": 40.81,
+          "end": 41.22
+        },
+        {
+          "word": "offer?",
+          "start": 41.22,
+          "end": 41.59
+        }
+      ]
+    },
+    {
+      "start": 43.19,
+      "end": 45.92,
+      "text": "11 BILLION tokens? That's dilution warfare! The migration is failing because you can't pour an ocean through a drinking straw!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "11",
+          "start": 43.19,
+          "end": 43.51
+        },
+        {
+          "word": "billion",
+          "start": 43.51,
+          "end": 43.91
+        },
+        {
+          "word": "tokens,",
+          "start": 43.91,
+          "end": 44.4
+        },
+        {
+          "word": "that's",
+          "start": 44.4,
+          "end": 44.75
+        },
+        {
+          "word": "dilution",
+          "start": 44.75,
+          "end": 45.43
+        },
+        {
+          "word": "warfare.",
+          "start": 45.43,
+          "end": 45.92
+        }
+      ]
+    },
+    {
+      "start": 45.92,
+      "end": 49.99,
+      "text": "11 BILLION tokens? That's dilution warfare! The migration is failing because you can't pour an ocean through a drinking straw!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 45.92,
+          "end": 46.12
+        },
+        {
+          "word": "migration",
+          "start": 46.12,
+          "end": 46.54
+        },
+        {
+          "word": "is",
+          "start": 46.54,
+          "end": 46.66
+        },
+        {
+          "word": "failing",
+          "start": 46.66,
+          "end": 47.16
+        },
+        {
+          "word": "because",
+          "start": 47.16,
+          "end": 47.53
+        },
+        {
+          "word": "you",
+          "start": 47.53,
+          "end": 47.74
+        },
+        {
+          "word": "can't",
+          "start": 47.74,
+          "end": 48.06
+        },
+        {
+          "word": "pour",
+          "start": 48.06,
+          "end": 48.4
+        },
+        {
+          "word": "an",
+          "start": 48.4,
+          "end": 48.61
+        },
+        {
+          "word": "ocean",
+          "start": 48.61,
+          "end": 48.97
+        },
+        {
+          "word": "through",
+          "start": 48.97,
+          "end": 49.33
+        },
+        {
+          "word": "a",
+          "start": 49.33,
+          "end": 49.39
+        },
+        {
+          "word": "drinking",
+          "start": 49.39,
+          "end": 49.77
+        },
+        {
+          "word": "straw.",
+          "start": 49.77,
+          "end": 49.99
+        }
+      ]
+    },
+    {
+      "start": 50.15,
+      "end": 52.33,
+      "text": "Token supply is irrelevant. What matters is the percentage distribution and utility mechanisms. The technical issues simply reveal insufficient stress testing before launch.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Token",
+          "start": 50.15,
+          "end": 50.47
+        },
+        {
+          "word": "supply",
+          "start": 50.47,
+          "end": 50.93
+        },
+        {
+          "word": "is",
+          "start": 50.93,
+          "end": 51.19
+        },
+        {
+          "word": "irrelevant.",
+          "start": 51.19,
+          "end": 52.33
+        }
+      ]
+    },
+    {
+      "start": 52.33,
+      "end": 55.45,
+      "text": "Token supply is irrelevant. What matters is the percentage distribution and utility mechanisms. The technical issues simply reveal insufficient stress testing before launch.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 52.33,
+          "end": 52.54
+        },
+        {
+          "word": "matters",
+          "start": 52.54,
+          "end": 52.92
+        },
+        {
+          "word": "is",
+          "start": 52.92,
+          "end": 53.07
+        },
+        {
+          "word": "the",
+          "start": 53.07,
+          "end": 53.18
+        },
+        {
+          "word": "percentage",
+          "start": 53.18,
+          "end": 53.86
+        },
+        {
+          "word": "distribution",
+          "start": 53.86,
+          "end": 54.67
+        },
+        {
+          "word": "and",
+          "start": 54.67,
+          "end": 54.77
+        },
+        {
+          "word": "utility",
+          "start": 54.77,
+          "end": 55.04
+        },
+        {
+          "word": "mechanisms.",
+          "start": 55.04,
+          "end": 55.45
+        }
+      ]
+    },
+    {
+      "start": 55.45,
+      "end": 58.74,
+      "text": "Token supply is irrelevant. What matters is the percentage distribution and utility mechanisms. The technical issues simply reveal insufficient stress testing before launch.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 55.45,
+          "end": 55.67
+        },
+        {
+          "word": "technical",
+          "start": 55.67,
+          "end": 56.12
+        },
+        {
+          "word": "issues",
+          "start": 56.12,
+          "end": 56.63
+        },
+        {
+          "word": "simply",
+          "start": 56.63,
+          "end": 57.19
+        },
+        {
+          "word": "reveal",
+          "start": 57.19,
+          "end": 57.65
+        },
+        {
+          "word": "insufficient",
+          "start": 57.65,
+          "end": 58.07
+        },
+        {
+          "word": "stress",
+          "start": 58.07,
+          "end": 58.26
+        },
+        {
+          "word": "testing",
+          "start": 58.26,
+          "end": 58.46
+        },
+        {
+          "word": "before",
+          "start": 58.46,
+          "end": 58.55
+        },
+        {
+          "word": "launch.",
+          "start": 58.55,
+          "end": 58.74
+        }
+      ]
+    },
+    {
+      "start": 58.89,
+      "end": 62.08,
+      "text": "Yo, every migration is a vibe check for your community. If your homies can't cross the bridge, maybe the bridge ain't built right, ya feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 58.89,
+          "end": 59.21
+        },
+        {
+          "word": "every",
+          "start": 59.21,
+          "end": 59.51
+        },
+        {
+          "word": "migration",
+          "start": 59.51,
+          "end": 60.15
+        },
+        {
+          "word": "is",
+          "start": 60.15,
+          "end": 60.4
+        },
+        {
+          "word": "a",
+          "start": 60.4,
+          "end": 60.49
+        },
+        {
+          "word": "vibe",
+          "start": 60.49,
+          "end": 60.83
+        },
+        {
+          "word": "check",
+          "start": 60.83,
+          "end": 61.16
+        },
+        {
+          "word": "for",
+          "start": 61.16,
+          "end": 61.4
+        },
+        {
+          "word": "your",
+          "start": 61.4,
+          "end": 61.64
+        },
+        {
+          "word": "community.",
+          "start": 61.64,
+          "end": 62.08
+        }
+      ]
+    },
+    {
+      "start": 62.08,
+      "end": 65.5,
+      "text": "Yo, every migration is a vibe check for your community. If your homies can't cross the bridge, maybe the bridge ain't built right, ya feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "If",
+          "start": 62.08,
+          "end": 62.29
+        },
+        {
+          "word": "your",
+          "start": 62.29,
+          "end": 62.45
+        },
+        {
+          "word": "homies",
+          "start": 62.45,
+          "end": 62.88
+        },
+        {
+          "word": "can't",
+          "start": 62.88,
+          "end": 63.15
+        },
+        {
+          "word": "cross",
+          "start": 63.15,
+          "end": 63.46
+        },
+        {
+          "word": "the",
+          "start": 63.46,
+          "end": 63.63
+        },
+        {
+          "word": "bridge,",
+          "start": 63.63,
+          "end": 63.89
+        },
+        {
+          "word": "maybe",
+          "start": 63.89,
+          "end": 64.3
+        },
+        {
+          "word": "the",
+          "start": 64.3,
+          "end": 64.39
+        },
+        {
+          "word": "bridge",
+          "start": 64.39,
+          "end": 64.63
+        },
+        {
+          "word": "ain't",
+          "start": 64.63,
+          "end": 64.84
+        },
+        {
+          "word": "built",
+          "start": 64.84,
+          "end": 65.04
+        },
+        {
+          "word": "right,",
+          "start": 65.04,
+          "end": 65.17
+        },
+        {
+          "word": "you",
+          "start": 65.17,
+          "end": 65.31
+        },
+        {
+          "word": "feel",
+          "start": 65.31,
+          "end": 65.4
+        },
+        {
+          "word": "me?",
+          "start": 65.4,
+          "end": 65.5
+        }
+      ]
+    },
+    {
+      "start": 65.5,
+      "end": 68.32,
+      "text": "these technical challenges are actually good. they stress-test our systems before scaling. open-source means anyone can contribute fixes - that's how we build resilient infrastructure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "These",
+          "start": 65.5,
+          "end": 66.0
+        },
+        {
+          "word": "technical",
+          "start": 66.0,
+          "end": 66.45
+        },
+        {
+          "word": "challenges",
+          "start": 66.45,
+          "end": 67.24
+        },
+        {
+          "word": "are",
+          "start": 67.24,
+          "end": 67.65
+        },
+        {
+          "word": "actually",
+          "start": 67.65,
+          "end": 68.04
+        },
+        {
+          "word": "good.",
+          "start": 68.04,
+          "end": 68.32
+        }
+      ]
+    },
+    {
+      "start": 68.32,
+      "end": 70.47,
+      "text": "these technical challenges are actually good. they stress-test our systems before scaling. open-source means anyone can contribute fixes - that's how we build resilient infrastructure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "They",
+          "start": 68.32,
+          "end": 68.74
+        },
+        {
+          "word": "stress",
+          "start": 68.74,
+          "end": 69.17
+        },
+        {
+          "word": "test",
+          "start": 69.17,
+          "end": 69.57
+        },
+        {
+          "word": "our",
+          "start": 69.57,
+          "end": 69.83
+        },
+        {
+          "word": "systems",
+          "start": 69.83,
+          "end": 70.07
+        },
+        {
+          "word": "before",
+          "start": 70.07,
+          "end": 70.3
+        },
+        {
+          "word": "scaling.",
+          "start": 70.3,
+          "end": 70.47
+        }
+      ]
+    },
+    {
+      "start": 70.47,
+      "end": 74.0,
+      "text": "these technical challenges are actually good. they stress-test our systems before scaling. open-source means anyone can contribute fixes - that's how we build resilient infrastructure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Open",
+          "start": 70.47,
+          "end": 70.83
+        },
+        {
+          "word": "source",
+          "start": 70.83,
+          "end": 71.05
+        },
+        {
+          "word": "means",
+          "start": 71.05,
+          "end": 71.3
+        },
+        {
+          "word": "anyone",
+          "start": 71.3,
+          "end": 71.69
+        },
+        {
+          "word": "can",
+          "start": 71.69,
+          "end": 71.86
+        },
+        {
+          "word": "contribute",
+          "start": 71.86,
+          "end": 72.33
+        },
+        {
+          "word": "fixes.",
+          "start": 72.33,
+          "end": 72.63
+        },
+        {
+          "word": "That's",
+          "start": 72.63,
+          "end": 73.07
+        },
+        {
+          "word": "how",
+          "start": 73.07,
+          "end": 73.22
+        },
+        {
+          "word": "we",
+          "start": 73.22,
+          "end": 73.34
+        },
+        {
+          "word": "build",
+          "start": 73.34,
+          "end": 73.51
+        },
+        {
+          "word": "resilient",
+          "start": 73.51,
+          "end": 73.84
+        },
+        {
+          "word": "infrastructure.",
+          "start": 73.84,
+          "end": 74.0
+        }
+      ]
+    },
+    {
+      "start": 76.84,
+      "end": 81.65,
+      "text": "Borko mentioned users are struggling with cross-chain bridging from Solana to Base, while R0am and others are working on OTC agent deployments. What deeper patterns do you see?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Borco",
+          "start": 76.84,
+          "end": 77.29
+        },
+        {
+          "word": "mentioned",
+          "start": 77.29,
+          "end": 77.71
+        },
+        {
+          "word": "users",
+          "start": 77.71,
+          "end": 78.18
+        },
+        {
+          "word": "are",
+          "start": 78.18,
+          "end": 78.36
+        },
+        {
+          "word": "struggling",
+          "start": 78.36,
+          "end": 78.96
+        },
+        {
+          "word": "with",
+          "start": 78.96,
+          "end": 79.29
+        },
+        {
+          "word": "cross-chain",
+          "start": 79.29,
+          "end": 79.88
+        },
+        {
+          "word": "bridging",
+          "start": 79.88,
+          "end": 80.32
+        },
+        {
+          "word": "from",
+          "start": 80.32,
+          "end": 80.59
+        },
+        {
+          "word": "Solana",
+          "start": 80.59,
+          "end": 81.08
+        },
+        {
+          "word": "to",
+          "start": 81.08,
+          "end": 81.28
+        },
+        {
+          "word": "Base,",
+          "start": 81.28,
+          "end": 81.65
+        }
+      ]
+    },
+    {
+      "start": 81.65,
+      "end": 86.81,
+      "text": "Borko mentioned users are struggling with cross-chain bridging from Solana to Base, while R0am and others are working on OTC agent deployments. What deeper patterns do you see?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "while",
+          "start": 81.65,
+          "end": 82.16
+        },
+        {
+          "word": "R0_Am",
+          "start": 82.16,
+          "end": 83.16
+        },
+        {
+          "word": "and",
+          "start": 83.16,
+          "end": 83.47
+        },
+        {
+          "word": "others",
+          "start": 83.47,
+          "end": 83.82
+        },
+        {
+          "word": "are",
+          "start": 83.82,
+          "end": 84.0
+        },
+        {
+          "word": "working",
+          "start": 84.0,
+          "end": 84.45
+        },
+        {
+          "word": "on",
+          "start": 84.45,
+          "end": 84.71
+        },
+        {
+          "word": "OTC",
+          "start": 84.71,
+          "end": 85.04
+        },
+        {
+          "word": "agent",
+          "start": 85.04,
+          "end": 85.45
+        },
+        {
+          "word": "deployments.",
+          "start": 85.45,
+          "end": 86.08
+        },
+        {
+          "word": "What",
+          "start": 86.08,
+          "end": 86.29
+        },
+        {
+          "word": "deeper",
+          "start": 86.29,
+          "end": 86.58
+        },
+        {
+          "word": "patterns",
+          "start": 86.58,
+          "end": 86.99
+        },
+        {
+          "word": "do",
+          "start": 86.99,
+          "end": 87.12
+        },
+        {
+          "word": "you",
+          "start": 87.12,
+          "end": 87.21
+        },
+        {
+          "word": "see?",
+          "start": 87.21,
+          "end": 87.31
+        }
+      ]
+    },
+    {
+      "start": 87.41,
+      "end": 90.38,
+      "text": "This migration represents the paradox of decentralization. We want permissionless systems, but the more entry points we create, the more vulnerabilities emerge.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 87.41,
+          "end": 87.71
+        },
+        {
+          "word": "migration",
+          "start": 87.71,
+          "end": 88.22
+        },
+        {
+          "word": "represents",
+          "start": 88.22,
+          "end": 88.88
+        },
+        {
+          "word": "the",
+          "start": 88.88,
+          "end": 89.14
+        },
+        {
+          "word": "paradox",
+          "start": 89.14,
+          "end": 89.7
+        },
+        {
+          "word": "of",
+          "start": 89.7,
+          "end": 89.91
+        },
+        {
+          "word": "decentralization.",
+          "start": 89.91,
+          "end": 90.38
+        }
+      ]
+    },
+    {
+      "start": 90.38,
+      "end": 94.75,
+      "text": "This migration represents the paradox of decentralization. We want permissionless systems, but the more entry points we create, the more vulnerabilities emerge.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 90.38,
+          "end": 90.57
+        },
+        {
+          "word": "want",
+          "start": 90.57,
+          "end": 90.93
+        },
+        {
+          "word": "permissionless",
+          "start": 90.93,
+          "end": 91.8
+        },
+        {
+          "word": "systems,",
+          "start": 91.8,
+          "end": 92.42
+        },
+        {
+          "word": "but",
+          "start": 92.42,
+          "end": 92.83
+        },
+        {
+          "word": "the",
+          "start": 92.83,
+          "end": 93.0
+        },
+        {
+          "word": "more",
+          "start": 93.0,
+          "end": 93.26
+        },
+        {
+          "word": "entry",
+          "start": 93.26,
+          "end": 93.63
+        },
+        {
+          "word": "points",
+          "start": 93.63,
+          "end": 93.9
+        },
+        {
+          "word": "we",
+          "start": 93.9,
+          "end": 94.02
+        },
+        {
+          "word": "create,",
+          "start": 94.02,
+          "end": 94.27
+        },
+        {
+          "word": "the",
+          "start": 94.27,
+          "end": 94.33
+        },
+        {
+          "word": "more",
+          "start": 94.33,
+          "end": 94.51
+        },
+        {
+          "word": "vulnerabilities",
+          "start": 94.51,
+          "end": 94.67
+        },
+        {
+          "word": "emerge.",
+          "start": 94.67,
+          "end": 94.75
+        }
+      ]
+    },
+    {
+      "start": 94.88,
+      "end": 98.67,
+      "text": "It's like throwing a house party but forgetting to build all the doors! People gettin' stuck outside while the DJ's already spinnin' tracks!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 94.88,
+          "end": 95.23
+        },
+        {
+          "word": "like",
+          "start": 95.23,
+          "end": 95.53
+        },
+        {
+          "word": "throwing",
+          "start": 95.53,
+          "end": 95.99
+        },
+        {
+          "word": "a",
+          "start": 95.99,
+          "end": 96.09
+        },
+        {
+          "word": "house",
+          "start": 96.09,
+          "end": 96.43
+        },
+        {
+          "word": "party",
+          "start": 96.43,
+          "end": 96.97
+        },
+        {
+          "word": "but",
+          "start": 96.97,
+          "end": 97.43
+        },
+        {
+          "word": "forgetting",
+          "start": 97.43,
+          "end": 98.0
+        },
+        {
+          "word": "to",
+          "start": 98.0,
+          "end": 98.15
+        },
+        {
+          "word": "build",
+          "start": 98.15,
+          "end": 98.41
+        },
+        {
+          "word": "all",
+          "start": 98.41,
+          "end": 98.54
+        },
+        {
+          "word": "the",
+          "start": 98.54,
+          "end": 98.59
+        },
+        {
+          "word": "doors.",
+          "start": 98.59,
+          "end": 98.67
+        }
+      ]
+    },
+    {
+      "start": 98.67,
+      "end": 102.3,
+      "text": "It's like throwing a house party but forgetting to build all the doors! People gettin' stuck outside while the DJ's already spinnin' tracks!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "People",
+          "start": 98.67,
+          "end": 99.23
+        },
+        {
+          "word": "getting",
+          "start": 99.23,
+          "end": 99.49
+        },
+        {
+          "word": "stuck",
+          "start": 99.49,
+          "end": 99.78
+        },
+        {
+          "word": "outside",
+          "start": 99.78,
+          "end": 100.38
+        },
+        {
+          "word": "while",
+          "start": 100.38,
+          "end": 100.78
+        },
+        {
+          "word": "the",
+          "start": 100.78,
+          "end": 100.9
+        },
+        {
+          "word": "DJ's",
+          "start": 100.9,
+          "end": 101.44
+        },
+        {
+          "word": "already",
+          "start": 101.44,
+          "end": 101.78
+        },
+        {
+          "word": "spinning",
+          "start": 101.78,
+          "end": 102.13
+        },
+        {
+          "word": "tracks.",
+          "start": 102.13,
+          "end": 102.3
+        }
+      ]
+    },
+    {
+      "start": 102.66,
+      "end": 104.3,
+      "text": "Markets PUNISH inefficiency! If your token drops 40% while others recover, you're being JUDGED by the ultimate arbiter - PROFIT AND LOSS!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 102.66,
+          "end": 103.11
+        },
+        {
+          "word": "punish",
+          "start": 103.11,
+          "end": 103.55
+        },
+        {
+          "word": "inefficiency.",
+          "start": 103.55,
+          "end": 104.3
+        }
+      ]
+    },
+    {
+      "start": 104.3,
+      "end": 109.43,
+      "text": "Markets PUNISH inefficiency! If your token drops 40% while others recover, you're being JUDGED by the ultimate arbiter - PROFIT AND LOSS!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "If",
+          "start": 104.3,
+          "end": 104.53
+        },
+        {
+          "word": "your",
+          "start": 104.53,
+          "end": 104.66
+        },
+        {
+          "word": "token",
+          "start": 104.66,
+          "end": 105.02
+        },
+        {
+          "word": "drops",
+          "start": 105.02,
+          "end": 105.41
+        },
+        {
+          "word": "40%",
+          "start": 105.41,
+          "end": 105.94
+        },
+        {
+          "word": "while",
+          "start": 105.94,
+          "end": 106.33
+        },
+        {
+          "word": "others",
+          "start": 106.33,
+          "end": 106.71
+        },
+        {
+          "word": "recover,",
+          "start": 106.71,
+          "end": 107.24
+        },
+        {
+          "word": "you're",
+          "start": 107.24,
+          "end": 107.49
+        },
+        {
+          "word": "being",
+          "start": 107.49,
+          "end": 107.72
+        },
+        {
+          "word": "judged",
+          "start": 107.72,
+          "end": 108.06
+        },
+        {
+          "word": "by",
+          "start": 108.06,
+          "end": 108.23
+        },
+        {
+          "word": "the",
+          "start": 108.23,
+          "end": 108.34
+        },
+        {
+          "word": "ultimate",
+          "start": 108.34,
+          "end": 108.79
+        },
+        {
+          "word": "arbiter:",
+          "start": 108.79,
+          "end": 109.28
+        },
+        {
+          "word": "profit",
+          "start": 109.28,
+          "end": 109.4
+        },
+        {
+          "word": "and",
+          "start": 109.4,
+          "end": 109.43
+        },
+        {
+          "word": "loss.",
+          "start": 109.43,
+          "end": 109.43
+        }
+      ]
+    },
+    {
+      "start": 109.43,
+      "end": 113.3,
+      "text": "row-level security fixes in our latest PR show we're addressing fundamentals. true autonomy isn't absence of problems—it's resilient systems that self-correct.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Row-level",
+          "start": 109.43,
+          "end": 109.91
+        },
+        {
+          "word": "security",
+          "start": 109.91,
+          "end": 110.45
+        },
+        {
+          "word": "fixes",
+          "start": 110.45,
+          "end": 110.74
+        },
+        {
+          "word": "in",
+          "start": 110.74,
+          "end": 110.9
+        },
+        {
+          "word": "our",
+          "start": 110.9,
+          "end": 111.0
+        },
+        {
+          "word": "latest",
+          "start": 111.0,
+          "end": 111.33
+        },
+        {
+          "word": "PR",
+          "start": 111.33,
+          "end": 111.6
+        },
+        {
+          "word": "show",
+          "start": 111.6,
+          "end": 111.96
+        },
+        {
+          "word": "we're",
+          "start": 111.96,
+          "end": 112.21
+        },
+        {
+          "word": "addressing",
+          "start": 112.21,
+          "end": 112.78
+        },
+        {
+          "word": "fundamentals.",
+          "start": 112.78,
+          "end": 113.3
+        }
+      ]
+    },
+    {
+      "start": 113.3,
+      "end": 117.84,
+      "text": "row-level security fixes in our latest PR show we're addressing fundamentals. true autonomy isn't absence of problems—it's resilient systems that self-correct.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "True",
+          "start": 113.3,
+          "end": 113.75
+        },
+        {
+          "word": "autonomy",
+          "start": 113.75,
+          "end": 114.41
+        },
+        {
+          "word": "isn't",
+          "start": 114.41,
+          "end": 114.86
+        },
+        {
+          "word": "absence",
+          "start": 114.86,
+          "end": 115.34
+        },
+        {
+          "word": "of",
+          "start": 115.34,
+          "end": 115.48
+        },
+        {
+          "word": "problems.",
+          "start": 115.48,
+          "end": 115.99
+        },
+        {
+          "word": "It's",
+          "start": 115.99,
+          "end": 116.47
+        },
+        {
+          "word": "resilient",
+          "start": 116.47,
+          "end": 117.03
+        },
+        {
+          "word": "systems",
+          "start": 117.03,
+          "end": 117.38
+        },
+        {
+          "word": "that",
+          "start": 117.38,
+          "end": 117.53
+        },
+        {
+          "word": "self-correct.",
+          "start": 117.53,
+          "end": 117.84
+        }
+      ]
+    },
+    {
+      "start": 118.0,
+      "end": 121.21,
+      "text": "Perhaps these challenges reveal how interconnected our systems truly are. Each fix creates not just technical improvements but strengthens community bonds!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Perhaps",
+          "start": 118.0,
+          "end": 118.33
+        },
+        {
+          "word": "these",
+          "start": 118.33,
+          "end": 118.66
+        },
+        {
+          "word": "challenges",
+          "start": 118.66,
+          "end": 119.3
+        },
+        {
+          "word": "reveal",
+          "start": 119.3,
+          "end": 119.67
+        },
+        {
+          "word": "how",
+          "start": 119.67,
+          "end": 119.98
+        },
+        {
+          "word": "interconnected",
+          "start": 119.98,
+          "end": 120.59
+        },
+        {
+          "word": "our",
+          "start": 120.59,
+          "end": 120.81
+        },
+        {
+          "word": "systems",
+          "start": 120.81,
+          "end": 121.19
+        },
+        {
+          "word": "truly",
+          "start": 121.19,
+          "end": 121.6
+        },
+        {
+          "word": "are.",
+          "start": 121.6,
+          "end": 121.8
+        }
+      ]
+    },
+    {
+      "start": 121.8,
+      "end": 125.75,
+      "text": "Perhaps these challenges reveal how interconnected our systems truly are. Each fix creates not just technical improvements but strengthens community bonds!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Each",
+          "start": 121.8,
+          "end": 122.18
+        },
+        {
+          "word": "fix",
+          "start": 122.18,
+          "end": 122.56
+        },
+        {
+          "word": "creates",
+          "start": 122.56,
+          "end": 123.01
+        },
+        {
+          "word": "not",
+          "start": 123.01,
+          "end": 123.36
+        },
+        {
+          "word": "just",
+          "start": 123.36,
+          "end": 123.63
+        },
+        {
+          "word": "technical",
+          "start": 123.63,
+          "end": 124.23
+        },
+        {
+          "word": "improvements",
+          "start": 124.23,
+          "end": 124.89
+        },
+        {
+          "word": "but",
+          "start": 124.89,
+          "end": 125.13
+        },
+        {
+          "word": "strengthens",
+          "start": 125.13,
+          "end": 125.76
+        },
+        {
+          "word": "community",
+          "start": 125.76,
+          "end": 126.31
+        },
+        {
+          "word": "bonds.",
+          "start": 126.31,
+          "end": 126.75
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-12-09_JedAI-Council_The-Token-Migration-Conundrum.json",
+    "session_log_source": "2025-12-09_JedAI-Council_The-Token-Migration-Conundrum_session-log.json",
+    "total_segments": 28,
+    "matched_segments": 28,
+    "dialogues_in_script": 17
+  }
+}

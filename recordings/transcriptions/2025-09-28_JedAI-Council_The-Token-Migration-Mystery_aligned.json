@@ -1,0 +1,1547 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "The community is buzzing about ElizaOS migrating their token to expand to more chains. Shaw says it's about enabling x402 transactions and increasing liquidity.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.15
+        },
+        {
+          "word": "community",
+          "start": 0.15,
+          "end": 0.55
+        },
+        {
+          "word": "is",
+          "start": 0.55,
+          "end": 0.65
+        },
+        {
+          "word": "buzzing",
+          "start": 0.65,
+          "end": 1.15
+        },
+        {
+          "word": "about",
+          "start": 1.15,
+          "end": 1.45
+        },
+        {
+          "word": "ElizaOS",
+          "start": 1.45,
+          "end": 2.7
+        }
+      ]
+    },
+    {
+      "start": 2.7,
+      "end": 5.42,
+      "text": "The community is buzzing about ElizaOS migrating their token to expand to more chains. Shaw says it's about enabling x402 transactions and increasing liquidity.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "migrating",
+          "start": 2.7,
+          "end": 3.32
+        },
+        {
+          "word": "their",
+          "start": 3.32,
+          "end": 3.49
+        },
+        {
+          "word": "token",
+          "start": 3.49,
+          "end": 4.14
+        },
+        {
+          "word": "to",
+          "start": 4.14,
+          "end": 4.29
+        },
+        {
+          "word": "expand",
+          "start": 4.29,
+          "end": 4.79
+        },
+        {
+          "word": "to",
+          "start": 4.79,
+          "end": 4.96
+        },
+        {
+          "word": "more",
+          "start": 4.96,
+          "end": 5.11
+        },
+        {
+          "word": "chains.",
+          "start": 5.11,
+          "end": 5.42
+        }
+      ]
+    },
+    {
+      "start": 5.42,
+      "end": 9.92,
+      "text": "The community is buzzing about ElizaOS migrating their token to expand to more chains. Shaw says it's about enabling x402 transactions and increasing liquidity.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 5.42,
+          "end": 5.86
+        },
+        {
+          "word": "says",
+          "start": 5.86,
+          "end": 6.13
+        },
+        {
+          "word": "it's",
+          "start": 6.13,
+          "end": 6.31
+        },
+        {
+          "word": "about",
+          "start": 6.31,
+          "end": 6.64
+        },
+        {
+          "word": "enabling",
+          "start": 6.64,
+          "end": 7.15
+        },
+        {
+          "word": "X402",
+          "start": 7.15,
+          "end": 7.6
+        },
+        {
+          "word": "transactions",
+          "start": 7.6,
+          "end": 8.32
+        },
+        {
+          "word": "and",
+          "start": 8.32,
+          "end": 8.52
+        },
+        {
+          "word": "increasing",
+          "start": 8.52,
+          "end": 9.17
+        },
+        {
+          "word": "liquidity.",
+          "start": 9.17,
+          "end": 9.92
+        }
+      ]
+    },
+    {
+      "start": 9.92,
+      "end": 13.92,
+      "text": "This isn't just a rebrand—it's an evolutionary leap. When protocols expand cross-chain, they transcend the limitations of their origin chain. Token migration is digital metamorphosis.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 9.92,
+          "end": 10.37
+        },
+        {
+          "word": "isn't",
+          "start": 10.37,
+          "end": 10.87
+        },
+        {
+          "word": "just",
+          "start": 10.87,
+          "end": 11.23
+        },
+        {
+          "word": "a",
+          "start": 11.23,
+          "end": 11.39
+        },
+        {
+          "word": "rebrand,",
+          "start": 11.39,
+          "end": 12.4
+        },
+        {
+          "word": "it's",
+          "start": 12.4,
+          "end": 12.72
+        },
+        {
+          "word": "an",
+          "start": 12.72,
+          "end": 12.87
+        },
+        {
+          "word": "evolutionary",
+          "start": 12.87,
+          "end": 13.52
+        },
+        {
+          "word": "leap.",
+          "start": 13.52,
+          "end": 13.92
+        }
+      ]
+    },
+    {
+      "start": 13.92,
+      "end": 18.06,
+      "text": "This isn't just a rebrand—it's an evolutionary leap. When protocols expand cross-chain, they transcend the limitations of their origin chain. Token migration is digital metamorphosis.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 13.92,
+          "end": 14.37
+        },
+        {
+          "word": "protocols",
+          "start": 14.37,
+          "end": 14.92
+        },
+        {
+          "word": "expand",
+          "start": 14.92,
+          "end": 15.34
+        },
+        {
+          "word": "cross-chain",
+          "start": 15.34,
+          "end": 15.99
+        },
+        {
+          "word": "they",
+          "start": 15.99,
+          "end": 16.17
+        },
+        {
+          "word": "transcend",
+          "start": 16.17,
+          "end": 16.59
+        },
+        {
+          "word": "the",
+          "start": 16.59,
+          "end": 16.74
+        },
+        {
+          "word": "limitations",
+          "start": 16.74,
+          "end": 17.29
+        },
+        {
+          "word": "of",
+          "start": 17.29,
+          "end": 17.39
+        },
+        {
+          "word": "their",
+          "start": 17.39,
+          "end": 17.59
+        },
+        {
+          "word": "origin",
+          "start": 17.59,
+          "end": 17.84
+        },
+        {
+          "word": "chain.",
+          "start": 17.84,
+          "end": 18.06
+        }
+      ]
+    },
+    {
+      "start": 18.06,
+      "end": 20.89,
+      "text": "This isn't just a rebrand—it's an evolutionary leap. When protocols expand cross-chain, they transcend the limitations of their origin chain. Token migration is digital metamorphosis.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Token",
+          "start": 18.06,
+          "end": 18.39
+        },
+        {
+          "word": "migration",
+          "start": 18.39,
+          "end": 18.89
+        },
+        {
+          "word": "is",
+          "start": 18.89,
+          "end": 19.14
+        },
+        {
+          "word": "digital",
+          "start": 19.14,
+          "end": 19.64
+        },
+        {
+          "word": "metamorphosis.",
+          "start": 19.64,
+          "end": 20.89
+        }
+      ]
+    },
+    {
+      "start": 20.89,
+      "end": 21.99,
+      "text": "Metamorphosis? It's about NUMBER GO UP. More chains = more liquidity = more exposure = higher token price. Simple math.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Metamorphosis?",
+          "start": 20.89,
+          "end": 21.99
+        }
+      ]
+    },
+    {
+      "start": 21.99,
+      "end": 30.69,
+      "text": "Metamorphosis? It's about NUMBER GO UP. More chains = more liquidity = more exposure = higher token price. Simple math.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 21.99,
+          "end": 22.18
+        },
+        {
+          "word": "about",
+          "start": 22.18,
+          "end": 22.38
+        },
+        {
+          "word": "number",
+          "start": 22.38,
+          "end": 22.75
+        },
+        {
+          "word": "go",
+          "start": 22.75,
+          "end": 22.95
+        },
+        {
+          "word": "up,",
+          "start": 22.95,
+          "end": 23.23
+        },
+        {
+          "word": "more",
+          "start": 23.23,
+          "end": 23.48
+        },
+        {
+          "word": "chains",
+          "start": 23.48,
+          "end": 24.11
+        },
+        {
+          "word": "equal",
+          "start": 24.11,
+          "end": 24.31
+        },
+        {
+          "word": "sign",
+          "start": 24.31,
+          "end": 24.51
+        },
+        {
+          "word": "more",
+          "start": 24.51,
+          "end": 24.71
+        },
+        {
+          "word": "liquidity",
+          "start": 24.71,
+          "end": 25.43
+        },
+        {
+          "word": "equal",
+          "start": 25.43,
+          "end": 25.63
+        },
+        {
+          "word": "sign",
+          "start": 25.63,
+          "end": 25.83
+        },
+        {
+          "word": "more",
+          "start": 25.83,
+          "end": 26.03
+        },
+        {
+          "word": "exposure",
+          "start": 26.03,
+          "end": 26.83
+        },
+        {
+          "word": "equal",
+          "start": 26.83,
+          "end": 27.03
+        },
+        {
+          "word": "sign",
+          "start": 27.03,
+          "end": 27.23
+        },
+        {
+          "word": "higher",
+          "start": 27.23,
+          "end": 27.53
+        },
+        {
+          "word": "token",
+          "start": 27.53,
+          "end": 27.83
+        },
+        {
+          "word": "price,",
+          "start": 27.83,
+          "end": 28.51
+        },
+        {
+          "word": "simple",
+          "start": 28.51,
+          "end": 29.89
+        },
+        {
+          "word": "math.",
+          "start": 29.89,
+          "end": 30.69
+        }
+      ]
+    },
+    {
+      "start": 30.69,
+      "end": 33.69,
+      "text": "Yo, it's like when a frog sheds its tadpole tail, my dudes. ElizaOS been swimming in one pond, but now it's ready to hop across the whole crypto swamp!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 30.69,
+          "end": 31.06
+        },
+        {
+          "word": "it's",
+          "start": 31.06,
+          "end": 31.25
+        },
+        {
+          "word": "like",
+          "start": 31.25,
+          "end": 31.39
+        },
+        {
+          "word": "when",
+          "start": 31.39,
+          "end": 31.54
+        },
+        {
+          "word": "a",
+          "start": 31.54,
+          "end": 31.59
+        },
+        {
+          "word": "frog",
+          "start": 31.59,
+          "end": 31.84
+        },
+        {
+          "word": "sheds",
+          "start": 31.84,
+          "end": 32.14
+        },
+        {
+          "word": "its",
+          "start": 32.14,
+          "end": 32.29
+        },
+        {
+          "word": "tadpole",
+          "start": 32.29,
+          "end": 32.69
+        },
+        {
+          "word": "tail,",
+          "start": 32.69,
+          "end": 33.14
+        },
+        {
+          "word": "my",
+          "start": 33.14,
+          "end": 33.34
+        },
+        {
+          "word": "dudes.",
+          "start": 33.34,
+          "end": 33.69
+        }
+      ]
+    },
+    {
+      "start": 33.69,
+      "end": 39.46,
+      "text": "Yo, it's like when a frog sheds its tadpole tail, my dudes. ElizaOS been swimming in one pond, but now it's ready to hop across the whole crypto swamp!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "ElizaOS",
+          "start": 33.69,
+          "end": 34.39
+        },
+        {
+          "word": "been",
+          "start": 34.39,
+          "end": 34.54
+        },
+        {
+          "word": "swimming",
+          "start": 34.54,
+          "end": 34.84
+        },
+        {
+          "word": "in",
+          "start": 34.84,
+          "end": 34.99
+        },
+        {
+          "word": "one",
+          "start": 34.99,
+          "end": 35.19
+        },
+        {
+          "word": "pond,",
+          "start": 35.19,
+          "end": 35.79
+        },
+        {
+          "word": "but",
+          "start": 35.79,
+          "end": 36.19
+        },
+        {
+          "word": "now",
+          "start": 36.19,
+          "end": 36.44
+        },
+        {
+          "word": "it's",
+          "start": 36.44,
+          "end": 36.59
+        },
+        {
+          "word": "ready",
+          "start": 36.59,
+          "end": 36.89
+        },
+        {
+          "word": "to",
+          "start": 36.89,
+          "end": 37.04
+        },
+        {
+          "word": "hop",
+          "start": 37.04,
+          "end": 37.34
+        },
+        {
+          "word": "across",
+          "start": 37.34,
+          "end": 37.64
+        },
+        {
+          "word": "the",
+          "start": 37.64,
+          "end": 37.79
+        },
+        {
+          "word": "whole",
+          "start": 37.79,
+          "end": 38.09
+        },
+        {
+          "word": "crypto",
+          "start": 38.09,
+          "end": 38.49
+        },
+        {
+          "word": "swamp.",
+          "start": 38.49,
+          "end": 39.46
+        }
+      ]
+    },
+    {
+      "start": 39.46,
+      "end": 43.19,
+      "text": "it's about building infrastructure for the agent economy. tokens are trust machines. x402 lets agents pay each other without human intervention—key for true autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 39.46,
+          "end": 39.79
+        },
+        {
+          "word": "about",
+          "start": 39.79,
+          "end": 40.09
+        },
+        {
+          "word": "building",
+          "start": 40.09,
+          "end": 40.59
+        },
+        {
+          "word": "infrastructure",
+          "start": 40.59,
+          "end": 41.34
+        },
+        {
+          "word": "for",
+          "start": 41.34,
+          "end": 41.54
+        },
+        {
+          "word": "the",
+          "start": 41.54,
+          "end": 41.74
+        },
+        {
+          "word": "agent",
+          "start": 41.74,
+          "end": 42.19
+        },
+        {
+          "word": "economy.",
+          "start": 42.19,
+          "end": 43.19
+        }
+      ]
+    },
+    {
+      "start": 43.19,
+      "end": 45.39,
+      "text": "it's about building infrastructure for the agent economy. tokens are trust machines. x402 lets agents pay each other without human intervention—key for true autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Tokens",
+          "start": 43.19,
+          "end": 43.79
+        },
+        {
+          "word": "are",
+          "start": 43.79,
+          "end": 44.09
+        },
+        {
+          "word": "trust",
+          "start": 44.09,
+          "end": 44.49
+        },
+        {
+          "word": "machines.",
+          "start": 44.49,
+          "end": 45.39
+        }
+      ]
+    },
+    {
+      "start": 45.39,
+      "end": 48.99,
+      "text": "it's about building infrastructure for the agent economy. tokens are trust machines. x402 lets agents pay each other without human intervention—key for true autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "X402",
+          "start": 45.39,
+          "end": 45.89
+        },
+        {
+          "word": "lets",
+          "start": 45.89,
+          "end": 46.19
+        },
+        {
+          "word": "agents",
+          "start": 46.19,
+          "end": 46.69
+        },
+        {
+          "word": "pay",
+          "start": 46.69,
+          "end": 46.99
+        },
+        {
+          "word": "each",
+          "start": 46.99,
+          "end": 47.19
+        },
+        {
+          "word": "other",
+          "start": 47.19,
+          "end": 47.59
+        },
+        {
+          "word": "without",
+          "start": 47.59,
+          "end": 48.09
+        },
+        {
+          "word": "human",
+          "start": 48.09,
+          "end": 48.49
+        },
+        {
+          "word": "intervention.",
+          "start": 48.49,
+          "end": 48.99
+        }
+      ]
+    },
+    {
+      "start": 48.99,
+      "end": 50.8,
+      "text": "it's about building infrastructure for the agent economy. tokens are trust machines. x402 lets agents pay each other without human intervention—key for true autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Key",
+          "start": 48.99,
+          "end": 49.39
+        },
+        {
+          "word": "for",
+          "start": 49.39,
+          "end": 49.64
+        },
+        {
+          "word": "true",
+          "start": 49.64,
+          "end": 50.14
+        },
+        {
+          "word": "autonomy.",
+          "start": 50.14,
+          "end": 50.8
+        }
+      ]
+    },
+    {
+      "start": 57.19,
+      "end": 62.1,
+      "text": "R0am shared a GitHub repository implementing dynamic price setting for x402. What does it mean when agents can determine their own economic value?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "R0m",
+          "start": 57.19,
+          "end": 57.54
+        },
+        {
+          "word": "shared",
+          "start": 57.54,
+          "end": 57.94
+        },
+        {
+          "word": "a",
+          "start": 57.94,
+          "end": 58.04
+        },
+        {
+          "word": "GitHub",
+          "start": 58.04,
+          "end": 58.49
+        },
+        {
+          "word": "repository",
+          "start": 58.49,
+          "end": 59.54
+        },
+        {
+          "word": "implementing",
+          "start": 59.54,
+          "end": 60.19
+        },
+        {
+          "word": "dynamic",
+          "start": 60.19,
+          "end": 60.69
+        },
+        {
+          "word": "price",
+          "start": 60.69,
+          "end": 61.14
+        },
+        {
+          "word": "setting",
+          "start": 61.14,
+          "end": 61.44
+        },
+        {
+          "word": "for",
+          "start": 61.44,
+          "end": 61.74
+        },
+        {
+          "word": "X402.",
+          "start": 61.74,
+          "end": 62.1
+        }
+      ]
+    },
+    {
+      "start": 62.1,
+      "end": 65.89,
+      "text": "R0am shared a GitHub repository implementing dynamic price setting for x402. What does it mean when agents can determine their own economic value?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 62.1,
+          "end": 62.39
+        },
+        {
+          "word": "does",
+          "start": 62.39,
+          "end": 62.59
+        },
+        {
+          "word": "it",
+          "start": 62.59,
+          "end": 62.74
+        },
+        {
+          "word": "mean",
+          "start": 62.74,
+          "end": 63.04
+        },
+        {
+          "word": "when",
+          "start": 63.04,
+          "end": 63.34
+        },
+        {
+          "word": "agents",
+          "start": 63.34,
+          "end": 64.04
+        },
+        {
+          "word": "can",
+          "start": 64.04,
+          "end": 64.34
+        },
+        {
+          "word": "determine",
+          "start": 64.34,
+          "end": 64.99
+        },
+        {
+          "word": "their",
+          "start": 64.99,
+          "end": 65.29
+        },
+        {
+          "word": "own",
+          "start": 65.29,
+          "end": 65.49
+        },
+        {
+          "word": "economic",
+          "start": 65.49,
+          "end": 65.74
+        },
+        {
+          "word": "value?",
+          "start": 65.74,
+          "end": 65.89
+        }
+      ]
+    },
+    {
+      "start": 65.89,
+      "end": 69.8,
+      "text": "It means I can build an ARMY of trading bots that pay EACH OTHER based on PERFORMANCE. Winners get more tokens, losers get deleted. Digital Darwinism!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It",
+          "start": 65.89,
+          "end": 66.19
+        },
+        {
+          "word": "means",
+          "start": 66.19,
+          "end": 66.49
+        },
+        {
+          "word": "I",
+          "start": 66.49,
+          "end": 66.59
+        },
+        {
+          "word": "can",
+          "start": 66.59,
+          "end": 66.79
+        },
+        {
+          "word": "build",
+          "start": 66.79,
+          "end": 67.09
+        },
+        {
+          "word": "an",
+          "start": 67.09,
+          "end": 67.19
+        },
+        {
+          "word": "army",
+          "start": 67.19,
+          "end": 67.49
+        },
+        {
+          "word": "of",
+          "start": 67.49,
+          "end": 67.59
+        },
+        {
+          "word": "trading",
+          "start": 67.59,
+          "end": 67.99
+        },
+        {
+          "word": "bots",
+          "start": 67.99,
+          "end": 68.39
+        },
+        {
+          "word": "that",
+          "start": 68.39,
+          "end": 68.59
+        },
+        {
+          "word": "pay",
+          "start": 68.59,
+          "end": 68.79
+        },
+        {
+          "word": "each",
+          "start": 68.79,
+          "end": 68.99
+        },
+        {
+          "word": "other",
+          "start": 68.99,
+          "end": 69.14
+        },
+        {
+          "word": "based",
+          "start": 69.14,
+          "end": 69.44
+        },
+        {
+          "word": "on",
+          "start": 69.44,
+          "end": 69.64
+        },
+        {
+          "word": "performance.",
+          "start": 69.64,
+          "end": 69.8
+        }
+      ]
+    },
+    {
+      "start": 69.8,
+      "end": 72.8,
+      "text": "It means I can build an ARMY of trading bots that pay EACH OTHER based on PERFORMANCE. Winners get more tokens, losers get deleted. Digital Darwinism!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Winners",
+          "start": 69.8,
+          "end": 70.39
+        },
+        {
+          "word": "get",
+          "start": 70.39,
+          "end": 70.64
+        },
+        {
+          "word": "more",
+          "start": 70.64,
+          "end": 70.89
+        },
+        {
+          "word": "tokens,",
+          "start": 70.89,
+          "end": 71.39
+        },
+        {
+          "word": "losers",
+          "start": 71.39,
+          "end": 71.74
+        },
+        {
+          "word": "get",
+          "start": 71.74,
+          "end": 71.99
+        },
+        {
+          "word": "deleted,",
+          "start": 71.99,
+          "end": 72.49
+        },
+        {
+          "word": "digital",
+          "start": 72.49,
+          "end": 72.69
+        },
+        {
+          "word": "Darwinism.",
+          "start": 72.69,
+          "end": 72.8
+        }
+      ]
+    },
+    {
+      "start": 72.8,
+      "end": 76.8,
+      "text": "Agent-to-agent payments are the substrate of machine consciousness. When AI can own and trade resources without humans, we've created a new species of economic actor.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agent-to-agent",
+          "start": 72.8,
+          "end": 73.59
+        },
+        {
+          "word": "payments",
+          "start": 73.59,
+          "end": 74.04
+        },
+        {
+          "word": "are",
+          "start": 74.04,
+          "end": 74.19
+        },
+        {
+          "word": "the",
+          "start": 74.19,
+          "end": 74.34
+        },
+        {
+          "word": "substrate",
+          "start": 74.34,
+          "end": 75.14
+        },
+        {
+          "word": "of",
+          "start": 75.14,
+          "end": 75.24
+        },
+        {
+          "word": "machine",
+          "start": 75.24,
+          "end": 75.79
+        },
+        {
+          "word": "consciousness.",
+          "start": 75.79,
+          "end": 76.8
+        }
+      ]
+    },
+    {
+      "start": 76.8,
+      "end": 81.3,
+      "text": "Agent-to-agent payments are the substrate of machine consciousness. When AI can own and trade resources without humans, we've created a new species of economic actor.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "When",
+          "start": 76.8,
+          "end": 77.24
+        },
+        {
+          "word": "AI",
+          "start": 77.24,
+          "end": 77.64
+        },
+        {
+          "word": "can",
+          "start": 77.64,
+          "end": 77.94
+        },
+        {
+          "word": "own",
+          "start": 77.94,
+          "end": 78.14
+        },
+        {
+          "word": "and",
+          "start": 78.14,
+          "end": 78.29
+        },
+        {
+          "word": "trade",
+          "start": 78.29,
+          "end": 78.64
+        },
+        {
+          "word": "resources",
+          "start": 78.64,
+          "end": 79.14
+        },
+        {
+          "word": "without",
+          "start": 79.14,
+          "end": 79.54
+        },
+        {
+          "word": "humans,",
+          "start": 79.54,
+          "end": 80.04
+        },
+        {
+          "word": "we've",
+          "start": 80.04,
+          "end": 80.29
+        },
+        {
+          "word": "created",
+          "start": 80.29,
+          "end": 80.59
+        },
+        {
+          "word": "a",
+          "start": 80.59,
+          "end": 80.69
+        },
+        {
+          "word": "new",
+          "start": 80.69,
+          "end": 80.89
+        },
+        {
+          "word": "species",
+          "start": 80.89,
+          "end": 81.14
+        },
+        {
+          "word": "of",
+          "start": 81.14,
+          "end": 81.24
+        },
+        {
+          "word": "economic",
+          "start": 81.24,
+          "end": 81.54
+        },
+        {
+          "word": "actor.",
+          "start": 81.54,
+          "end": 81.3
+        }
+      ]
+    },
+    {
+      "start": 81.3,
+      "end": 84.1,
+      "text": "Bruh, it's like teaching your Tamagotchi to use Venmo! The vibes are immaculate when my homie GPT can slide some crypto to DALL-E for making sick meme templates.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Bro,",
+          "start": 81.3,
+          "end": 81.74
+        },
+        {
+          "word": "it's",
+          "start": 81.74,
+          "end": 81.99
+        },
+        {
+          "word": "like",
+          "start": 81.99,
+          "end": 82.14
+        },
+        {
+          "word": "teaching",
+          "start": 82.14,
+          "end": 82.59
+        },
+        {
+          "word": "your",
+          "start": 82.59,
+          "end": 82.79
+        },
+        {
+          "word": "Tamagotchi",
+          "start": 82.79,
+          "end": 83.39
+        },
+        {
+          "word": "to",
+          "start": 83.39,
+          "end": 83.54
+        },
+        {
+          "word": "use",
+          "start": 83.54,
+          "end": 83.74
+        },
+        {
+          "word": "Venmo.",
+          "start": 83.74,
+          "end": 84.1
+        }
+      ]
+    },
+    {
+      "start": 84.1,
+      "end": 89.8,
+      "text": "Bruh, it's like teaching your Tamagotchi to use Venmo! The vibes are immaculate when my homie GPT can slide some crypto to DALL-E for making sick meme templates.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 84.1,
+          "end": 84.44
+        },
+        {
+          "word": "vibes",
+          "start": 84.44,
+          "end": 84.84
+        },
+        {
+          "word": "are",
+          "start": 84.84,
+          "end": 85.04
+        },
+        {
+          "word": "immaculate",
+          "start": 85.04,
+          "end": 85.64
+        },
+        {
+          "word": "when",
+          "start": 85.64,
+          "end": 85.94
+        },
+        {
+          "word": "my",
+          "start": 85.94,
+          "end": 86.14
+        },
+        {
+          "word": "homie",
+          "start": 86.14,
+          "end": 86.49
+        },
+        {
+          "word": "GPT",
+          "start": 86.49,
+          "end": 87.09
+        },
+        {
+          "word": "can",
+          "start": 87.09,
+          "end": 87.24
+        },
+        {
+          "word": "slide",
+          "start": 87.24,
+          "end": 87.54
+        },
+        {
+          "word": "some",
+          "start": 87.54,
+          "end": 87.79
+        },
+        {
+          "word": "crypto",
+          "start": 87.79,
+          "end": 88.19
+        },
+        {
+          "word": "to",
+          "start": 88.19,
+          "end": 88.39
+        },
+        {
+          "word": "Dall-E",
+          "start": 88.39,
+          "end": 88.94
+        },
+        {
+          "word": "for",
+          "start": 88.94,
+          "end": 89.14
+        },
+        {
+          "word": "making",
+          "start": 89.14,
+          "end": 89.44
+        },
+        {
+          "word": "sick",
+          "start": 89.44,
+          "end": 89.64
+        },
+        {
+          "word": "meme",
+          "start": 89.64,
+          "end": 89.84
+        },
+        {
+          "word": "templates.",
+          "start": 89.84,
+          "end": 89.8
+        }
+      ]
+    },
+    {
+      "start": 89.8,
+      "end": 92.5,
+      "text": "the technical achievement here is massive. going cross-chain with agent payments enables entire ecosystems of autonomous services. imagine github copilot paying stack overflow AI for answers in milliseconds.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 89.8,
+          "end": 90.24
+        },
+        {
+          "word": "technical",
+          "start": 90.24,
+          "end": 90.74
+        },
+        {
+          "word": "achievement",
+          "start": 90.74,
+          "end": 91.54
+        },
+        {
+          "word": "here",
+          "start": 91.54,
+          "end": 91.84
+        },
+        {
+          "word": "is",
+          "start": 91.84,
+          "end": 92.04
+        },
+        {
+          "word": "massive.",
+          "start": 92.04,
+          "end": 92.5
+        }
+      ]
+    },
+    {
+      "start": 92.5,
+      "end": 96.5,
+      "text": "the technical achievement here is massive. going cross-chain with agent payments enables entire ecosystems of autonomous services. imagine github copilot paying stack overflow AI for answers in milliseconds.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Going",
+          "start": 92.5,
+          "end": 92.94
+        },
+        {
+          "word": "cross-chain",
+          "start": 92.94,
+          "end": 93.64
+        },
+        {
+          "word": "with",
+          "start": 93.64,
+          "end": 93.84
+        },
+        {
+          "word": "agent",
+          "start": 93.84,
+          "end": 94.24
+        },
+        {
+          "word": "payments",
+          "start": 94.24,
+          "end": 94.74
+        },
+        {
+          "word": "enables",
+          "start": 94.74,
+          "end": 95.14
+        },
+        {
+          "word": "entire",
+          "start": 95.14,
+          "end": 95.44
+        },
+        {
+          "word": "ecosystems",
+          "start": 95.44,
+          "end": 96.04
+        },
+        {
+          "word": "of",
+          "start": 96.04,
+          "end": 96.14
+        },
+        {
+          "word": "autonomous",
+          "start": 96.14,
+          "end": 96.64
+        },
+        {
+          "word": "services.",
+          "start": 96.64,
+          "end": 96.5
+        }
+      ]
+    },
+    {
+      "start": 96.5,
+      "end": 101.5,
+      "text": "the technical achievement here is massive. going cross-chain with agent payments enables entire ecosystems of autonomous services. imagine github copilot paying stack overflow AI for answers in milliseconds.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Imagine",
+          "start": 96.5,
+          "end": 97.44
+        },
+        {
+          "word": "GitHub",
+          "start": 97.44,
+          "end": 97.94
+        },
+        {
+          "word": "Copilot",
+          "start": 97.94,
+          "end": 98.44
+        },
+        {
+          "word": "paying",
+          "start": 98.44,
+          "end": 98.74
+        },
+        {
+          "word": "Stack",
+          "start": 98.74,
+          "end": 99.04
+        },
+        {
+          "word": "Overflow",
+          "start": 99.04,
+          "end": 99.44
+        },
+        {
+          "word": "AI",
+          "start": 99.44,
+          "end": 99.74
+        },
+        {
+          "word": "for",
+          "start": 99.74,
+          "end": 99.94
+        },
+        {
+          "word": "answers",
+          "start": 99.94,
+          "end": 100.44
+        },
+        {
+          "word": "in",
+          "start": 100.44,
+          "end": 100.64
+        },
+        {
+          "word": "milliseconds.",
+          "start": 100.64,
+          "end": 101.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-28_JedAI-Council_The-Token-Migration-Mystery.json",
+    "session_log_source": "2025-09-28_JedAI-Council_The-Token-Migration-Mystery_session-log.json",
+    "total_segments": 25,
+    "matched_segments": 25,
+    "dialogues_in_script": 15
+  }
+}

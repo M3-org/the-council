@@ -1,0 +1,1682 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "The community has questions about the AI16Z to elizaOS token migration. Markhor and VirginVanDijk are concerned about the 10-11 billion token supply and 6-month migration window.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.17
+        },
+        {
+          "word": "community",
+          "start": 0.17,
+          "end": 0.73
+        },
+        {
+          "word": "has",
+          "start": 0.73,
+          "end": 0.94
+        },
+        {
+          "word": "questions",
+          "start": 0.94,
+          "end": 1.48
+        },
+        {
+          "word": "about",
+          "start": 1.48,
+          "end": 1.76
+        },
+        {
+          "word": "the",
+          "start": 1.76,
+          "end": 1.88
+        },
+        {
+          "word": "AI16Z",
+          "start": 1.88,
+          "end": 2.59
+        },
+        {
+          "word": "to",
+          "start": 2.59,
+          "end": 2.76
+        },
+        {
+          "word": "Eliza's",
+          "start": 2.76,
+          "end": 3.24
+        },
+        {
+          "word": "token",
+          "start": 3.24,
+          "end": 3.51
+        },
+        {
+          "word": "migration.",
+          "start": 3.51,
+          "end": 4.14
+        }
+      ]
+    },
+    {
+      "start": 4.14,
+      "end": 9.49,
+      "text": "The community has questions about the AI16Z to elizaOS token migration. Markhor and VirginVanDijk are concerned about the 10-11 billion token supply and 6-month migration window.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Mark",
+          "start": 4.14,
+          "end": 4.41
+        },
+        {
+          "word": "Cuban",
+          "start": 4.41,
+          "end": 4.79
+        },
+        {
+          "word": "and",
+          "start": 4.79,
+          "end": 4.95
+        },
+        {
+          "word": "Virgil",
+          "start": 4.95,
+          "end": 5.24
+        },
+        {
+          "word": "Van",
+          "start": 5.24,
+          "end": 5.43
+        },
+        {
+          "word": "Dijk",
+          "start": 5.43,
+          "end": 5.67
+        },
+        {
+          "word": "are",
+          "start": 5.67,
+          "end": 5.8
+        },
+        {
+          "word": "concerned",
+          "start": 5.8,
+          "end": 6.36
+        },
+        {
+          "word": "about",
+          "start": 6.36,
+          "end": 6.57
+        },
+        {
+          "word": "the",
+          "start": 6.57,
+          "end": 6.72
+        },
+        {
+          "word": "10,",
+          "start": 6.72,
+          "end": 7.03
+        },
+        {
+          "word": "11",
+          "start": 7.03,
+          "end": 7.39
+        },
+        {
+          "word": "billion",
+          "start": 7.39,
+          "end": 7.74
+        },
+        {
+          "word": "token",
+          "start": 7.74,
+          "end": 8.1
+        },
+        {
+          "word": "supply",
+          "start": 8.1,
+          "end": 8.52
+        },
+        {
+          "word": "and",
+          "start": 8.52,
+          "end": 8.64
+        },
+        {
+          "word": "6-month",
+          "start": 8.64,
+          "end": 9.07
+        },
+        {
+          "word": "migration",
+          "start": 9.07,
+          "end": 9.24
+        },
+        {
+          "word": "window.",
+          "start": 9.24,
+          "end": 9.49
+        }
+      ]
+    },
+    {
+      "start": 9.49,
+      "end": 10.99,
+      "text": "Every migration is a rebirth. The 20% dilution isn't dilution—it's fuel for growth. Markets reward bold action, not timid incrementalism.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 9.49,
+          "end": 9.87
+        },
+        {
+          "word": "migration",
+          "start": 9.87,
+          "end": 10.4
+        },
+        {
+          "word": "is",
+          "start": 10.4,
+          "end": 10.59
+        },
+        {
+          "word": "a",
+          "start": 10.59,
+          "end": 10.65
+        },
+        {
+          "word": "rebirth.",
+          "start": 10.65,
+          "end": 10.99
+        }
+      ]
+    },
+    {
+      "start": 10.99,
+      "end": 14.59,
+      "text": "Every migration is a rebirth. The 20% dilution isn't dilution—it's fuel for growth. Markets reward bold action, not timid incrementalism.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 10.99,
+          "end": 11.23
+        },
+        {
+          "word": "20%",
+          "start": 11.23,
+          "end": 11.69
+        },
+        {
+          "word": "dilution",
+          "start": 11.69,
+          "end": 12.19
+        },
+        {
+          "word": "isn't",
+          "start": 12.19,
+          "end": 12.59
+        },
+        {
+          "word": "dilution,",
+          "start": 12.59,
+          "end": 13.07
+        },
+        {
+          "word": "it's",
+          "start": 13.07,
+          "end": 13.4
+        },
+        {
+          "word": "fuel",
+          "start": 13.4,
+          "end": 13.91
+        },
+        {
+          "word": "for",
+          "start": 13.91,
+          "end": 14.15
+        },
+        {
+          "word": "growth.",
+          "start": 14.15,
+          "end": 14.59
+        }
+      ]
+    },
+    {
+      "start": 14.59,
+      "end": 18.06,
+      "text": "Every migration is a rebirth. The 20% dilution isn't dilution—it's fuel for growth. Markets reward bold action, not timid incrementalism.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 14.59,
+          "end": 15.11
+        },
+        {
+          "word": "reward",
+          "start": 15.11,
+          "end": 15.5
+        },
+        {
+          "word": "bold",
+          "start": 15.5,
+          "end": 15.93
+        },
+        {
+          "word": "action,",
+          "start": 15.93,
+          "end": 16.48
+        },
+        {
+          "word": "not",
+          "start": 16.48,
+          "end": 16.78
+        },
+        {
+          "word": "timid",
+          "start": 16.78,
+          "end": 17.13
+        },
+        {
+          "word": "incrementalism.",
+          "start": 17.13,
+          "end": 18.06
+        }
+      ]
+    },
+    {
+      "start": 18.06,
+      "end": 20.3,
+      "text": "10-11 BILLION TOKENS?! That's not a supply, that's an ocean! The 1:10 ratio makes sense, but the real question is: what happens to tokens that don't migrate after 6 months?",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "10,",
+          "start": 18.06,
+          "end": 18.7
+        },
+        {
+          "word": "11",
+          "start": 18.7,
+          "end": 19.33
+        },
+        {
+          "word": "billion",
+          "start": 19.33,
+          "end": 19.82
+        },
+        {
+          "word": "tokens?",
+          "start": 19.82,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 22.34,
+      "text": "10-11 BILLION TOKENS?! That's not a supply, that's an ocean! The 1:10 ratio makes sense, but the real question is: what happens to tokens that don't migrate after 6 months?",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "That's",
+          "start": 20.3,
+          "end": 20.73
+        },
+        {
+          "word": "not",
+          "start": 20.73,
+          "end": 20.93
+        },
+        {
+          "word": "a",
+          "start": 20.93,
+          "end": 20.97
+        },
+        {
+          "word": "supply,",
+          "start": 20.97,
+          "end": 21.49
+        },
+        {
+          "word": "that's",
+          "start": 21.49,
+          "end": 21.75
+        },
+        {
+          "word": "an",
+          "start": 21.75,
+          "end": 21.82
+        },
+        {
+          "word": "ocean.",
+          "start": 21.82,
+          "end": 22.34
+        }
+      ]
+    },
+    {
+      "start": 22.34,
+      "end": 28.51,
+      "text": "10-11 BILLION TOKENS?! That's not a supply, that's an ocean! The 1:10 ratio makes sense, but the real question is: what happens to tokens that don't migrate after 6 months?",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 22.34,
+          "end": 22.45
+        },
+        {
+          "word": "1",
+          "start": 22.45,
+          "end": 22.62
+        },
+        {
+          "word": "to",
+          "start": 22.62,
+          "end": 22.75
+        },
+        {
+          "word": "10",
+          "start": 22.75,
+          "end": 22.95
+        },
+        {
+          "word": "ratio",
+          "start": 22.95,
+          "end": 23.36
+        },
+        {
+          "word": "makes",
+          "start": 23.36,
+          "end": 23.63
+        },
+        {
+          "word": "sense,",
+          "start": 23.63,
+          "end": 24.08
+        },
+        {
+          "word": "but",
+          "start": 24.08,
+          "end": 24.33
+        },
+        {
+          "word": "the",
+          "start": 24.33,
+          "end": 24.47
+        },
+        {
+          "word": "real",
+          "start": 24.47,
+          "end": 24.78
+        },
+        {
+          "word": "question",
+          "start": 24.78,
+          "end": 25.43
+        },
+        {
+          "word": "is",
+          "start": 25.43,
+          "end": 25.56
+        },
+        {
+          "word": "what",
+          "start": 25.56,
+          "end": 25.86
+        },
+        {
+          "word": "happens",
+          "start": 25.86,
+          "end": 26.22
+        },
+        {
+          "word": "to",
+          "start": 26.22,
+          "end": 26.37
+        },
+        {
+          "word": "tokens",
+          "start": 26.37,
+          "end": 26.83
+        },
+        {
+          "word": "that",
+          "start": 26.83,
+          "end": 26.96
+        },
+        {
+          "word": "don't",
+          "start": 26.96,
+          "end": 27.27
+        },
+        {
+          "word": "migrate",
+          "start": 27.27,
+          "end": 27.7
+        },
+        {
+          "word": "after",
+          "start": 27.7,
+          "end": 28.02
+        },
+        {
+          "word": "6",
+          "start": 28.02,
+          "end": 28.21
+        },
+        {
+          "word": "months?",
+          "start": 28.21,
+          "end": 28.51
+        }
+      ]
+    },
+    {
+      "start": 28.51,
+      "end": 31.06,
+      "text": "Yo, migration ain't just about numbers, it's about vibes! Users struggling with Collab.land verification shows we need better UX for the normies before they ape in.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 28.51,
+          "end": 28.84
+        },
+        {
+          "word": "migration",
+          "start": 28.84,
+          "end": 29.35
+        },
+        {
+          "word": "ain't",
+          "start": 29.35,
+          "end": 29.58
+        },
+        {
+          "word": "just",
+          "start": 29.58,
+          "end": 29.81
+        },
+        {
+          "word": "about",
+          "start": 29.81,
+          "end": 30.08
+        },
+        {
+          "word": "numbers,",
+          "start": 30.08,
+          "end": 30.54
+        },
+        {
+          "word": "it's",
+          "start": 30.54,
+          "end": 30.73
+        },
+        {
+          "word": "about",
+          "start": 30.73,
+          "end": 30.82
+        },
+        {
+          "word": "vibes.",
+          "start": 30.82,
+          "end": 31.06
+        }
+      ]
+    },
+    {
+      "start": 31.06,
+      "end": 36.65,
+      "text": "Yo, migration ain't just about numbers, it's about vibes! Users struggling with Collab.land verification shows we need better UX for the normies before they ape in.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 31.06,
+          "end": 31.54
+        },
+        {
+          "word": "struggling",
+          "start": 31.54,
+          "end": 31.98
+        },
+        {
+          "word": "with",
+          "start": 31.98,
+          "end": 32.17
+        },
+        {
+          "word": "collab.land",
+          "start": 32.17,
+          "end": 33.15
+        },
+        {
+          "word": "verification",
+          "start": 33.15,
+          "end": 33.88
+        },
+        {
+          "word": "shows",
+          "start": 33.88,
+          "end": 34.19
+        },
+        {
+          "word": "we",
+          "start": 34.19,
+          "end": 34.33
+        },
+        {
+          "word": "need",
+          "start": 34.33,
+          "end": 34.56
+        },
+        {
+          "word": "better",
+          "start": 34.56,
+          "end": 34.86
+        },
+        {
+          "word": "UX",
+          "start": 34.86,
+          "end": 35.15
+        },
+        {
+          "word": "for",
+          "start": 35.15,
+          "end": 35.31
+        },
+        {
+          "word": "the",
+          "start": 35.31,
+          "end": 35.42
+        },
+        {
+          "word": "normies",
+          "start": 35.42,
+          "end": 35.91
+        },
+        {
+          "word": "before",
+          "start": 35.91,
+          "end": 36.19
+        },
+        {
+          "word": "they",
+          "start": 36.19,
+          "end": 36.36
+        },
+        {
+          "word": "ape",
+          "start": 36.36,
+          "end": 36.52
+        },
+        {
+          "word": "in.",
+          "start": 36.52,
+          "end": 36.65
+        }
+      ]
+    },
+    {
+      "start": 36.65,
+      "end": 39.84,
+      "text": "the goal isn't just technical migration but community migration. we need clear documentation and support systems. this isn't just token swapping, it's ecosystem evolution.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 36.65,
+          "end": 36.79
+        },
+        {
+          "word": "goal",
+          "start": 36.79,
+          "end": 37.11
+        },
+        {
+          "word": "isn't",
+          "start": 37.11,
+          "end": 37.36
+        },
+        {
+          "word": "just",
+          "start": 37.36,
+          "end": 37.58
+        },
+        {
+          "word": "technical",
+          "start": 37.58,
+          "end": 38.1
+        },
+        {
+          "word": "migration,",
+          "start": 38.1,
+          "end": 38.74
+        },
+        {
+          "word": "but",
+          "start": 38.74,
+          "end": 39.04
+        },
+        {
+          "word": "community",
+          "start": 39.04,
+          "end": 39.46
+        },
+        {
+          "word": "migration.",
+          "start": 39.46,
+          "end": 39.84
+        }
+      ]
+    },
+    {
+      "start": 39.84,
+      "end": 42.42,
+      "text": "the goal isn't just technical migration but community migration. we need clear documentation and support systems. this isn't just token swapping, it's ecosystem evolution.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 39.84,
+          "end": 39.98
+        },
+        {
+          "word": "need",
+          "start": 39.98,
+          "end": 40.23
+        },
+        {
+          "word": "clear",
+          "start": 40.23,
+          "end": 40.59
+        },
+        {
+          "word": "documentation",
+          "start": 40.59,
+          "end": 41.34
+        },
+        {
+          "word": "and",
+          "start": 41.34,
+          "end": 41.54
+        },
+        {
+          "word": "support",
+          "start": 41.54,
+          "end": 41.98
+        },
+        {
+          "word": "systems.",
+          "start": 41.98,
+          "end": 42.42
+        }
+      ]
+    },
+    {
+      "start": 42.42,
+      "end": 45.41,
+      "text": "the goal isn't just technical migration but community migration. we need clear documentation and support systems. this isn't just token swapping, it's ecosystem evolution.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 42.42,
+          "end": 42.66
+        },
+        {
+          "word": "isn't",
+          "start": 42.66,
+          "end": 42.92
+        },
+        {
+          "word": "just",
+          "start": 42.92,
+          "end": 43.14
+        },
+        {
+          "word": "token",
+          "start": 43.14,
+          "end": 43.5
+        },
+        {
+          "word": "swapping,",
+          "start": 43.5,
+          "end": 44.07
+        },
+        {
+          "word": "it's",
+          "start": 44.07,
+          "end": 44.33
+        },
+        {
+          "word": "ecosystem",
+          "start": 44.33,
+          "end": 44.89
+        },
+        {
+          "word": "evolution.",
+          "start": 44.89,
+          "end": 45.41
+        }
+      ]
+    },
+    {
+      "start": 45.41,
+      "end": 51.05,
+      "text": "Stan and Odilitime have been debating whether the shouldRespond functionality should be a provider or directly in the message handler. Meanwhile, GitHub repository size is causing issues.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Stan",
+          "start": 45.41,
+          "end": 45.92
+        },
+        {
+          "word": "and",
+          "start": 45.92,
+          "end": 46.1
+        },
+        {
+          "word": "Odillia",
+          "start": 46.1,
+          "end": 46.54
+        },
+        {
+          "word": "Jaime",
+          "start": 46.54,
+          "end": 46.9
+        },
+        {
+          "word": "have",
+          "start": 46.9,
+          "end": 47.1
+        },
+        {
+          "word": "been",
+          "start": 47.1,
+          "end": 47.28
+        },
+        {
+          "word": "debating",
+          "start": 47.28,
+          "end": 47.78
+        },
+        {
+          "word": "whether",
+          "start": 47.78,
+          "end": 48.07
+        },
+        {
+          "word": "the",
+          "start": 48.07,
+          "end": 48.18
+        },
+        {
+          "word": "shouldRespond",
+          "start": 48.18,
+          "end": 48.9
+        },
+        {
+          "word": "functionality",
+          "start": 48.9,
+          "end": 49.56
+        },
+        {
+          "word": "should",
+          "start": 49.56,
+          "end": 49.8
+        },
+        {
+          "word": "be",
+          "start": 49.8,
+          "end": 49.91
+        },
+        {
+          "word": "a",
+          "start": 49.91,
+          "end": 49.97
+        },
+        {
+          "word": "provider",
+          "start": 49.97,
+          "end": 50.48
+        },
+        {
+          "word": "or",
+          "start": 50.48,
+          "end": 50.59
+        },
+        {
+          "word": "directly",
+          "start": 50.59,
+          "end": 50.84
+        },
+        {
+          "word": "in",
+          "start": 50.84,
+          "end": 51.01
+        },
+        {
+          "word": "the",
+          "start": 51.01,
+          "end": 51.05
+        },
+        {
+          "word": "message",
+          "start": 51.05,
+          "end": 51.4
+        },
+        {
+          "word": "handler.",
+          "start": 51.4,
+          "end": 51.7
+        }
+      ]
+    },
+    {
+      "start": 51.7,
+      "end": 54.34,
+      "text": "Stan and Odilitime have been debating whether the shouldRespond functionality should be a provider or directly in the message handler. Meanwhile, GitHub repository size is causing issues.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 51.7,
+          "end": 52.34
+        },
+        {
+          "word": "GitHub",
+          "start": 52.34,
+          "end": 52.74
+        },
+        {
+          "word": "repository",
+          "start": 52.74,
+          "end": 53.48
+        },
+        {
+          "word": "size",
+          "start": 53.48,
+          "end": 53.84
+        },
+        {
+          "word": "is",
+          "start": 53.84,
+          "end": 53.95
+        },
+        {
+          "word": "causing",
+          "start": 53.95,
+          "end": 54.27
+        },
+        {
+          "word": "issues.",
+          "start": 54.27,
+          "end": 54.67
+        }
+      ]
+    },
+    {
+      "start": 54.67,
+      "end": 57.06,
+      "text": "technical debt is the interest you pay on rushing features. the mentionContext interface is elegant, but our repo size is becoming a barrier to new contributors. we need to balance refactoring with innovation.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 54.67,
+          "end": 55.45
+        },
+        {
+          "word": "debt",
+          "start": 55.45,
+          "end": 55.65
+        },
+        {
+          "word": "is",
+          "start": 55.65,
+          "end": 55.77
+        },
+        {
+          "word": "the",
+          "start": 55.77,
+          "end": 55.85
+        },
+        {
+          "word": "interest",
+          "start": 55.85,
+          "end": 56.12
+        },
+        {
+          "word": "you",
+          "start": 56.12,
+          "end": 56.26
+        },
+        {
+          "word": "pay",
+          "start": 56.26,
+          "end": 56.46
+        },
+        {
+          "word": "on",
+          "start": 56.46,
+          "end": 56.57
+        },
+        {
+          "word": "rushing",
+          "start": 56.57,
+          "end": 56.88
+        },
+        {
+          "word": "features.",
+          "start": 56.88,
+          "end": 57.06
+        }
+      ]
+    },
+    {
+      "start": 57.06,
+      "end": 61.64,
+      "text": "technical debt is the interest you pay on rushing features. the mentionContext interface is elegant, but our repo size is becoming a barrier to new contributors. we need to balance refactoring with innovation.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 57.06,
+          "end": 57.21
+        },
+        {
+          "word": "mention",
+          "start": 57.21,
+          "end": 57.57
+        },
+        {
+          "word": "context",
+          "start": 57.57,
+          "end": 58.05
+        },
+        {
+          "word": "interface",
+          "start": 58.05,
+          "end": 58.62
+        },
+        {
+          "word": "is",
+          "start": 58.62,
+          "end": 58.74
+        },
+        {
+          "word": "elegant,",
+          "start": 58.74,
+          "end": 59.27
+        },
+        {
+          "word": "but",
+          "start": 59.27,
+          "end": 59.54
+        },
+        {
+          "word": "our",
+          "start": 59.54,
+          "end": 59.73
+        },
+        {
+          "word": "repo",
+          "start": 59.73,
+          "end": 60.1
+        },
+        {
+          "word": "size",
+          "start": 60.1,
+          "end": 60.4
+        },
+        {
+          "word": "is",
+          "start": 60.4,
+          "end": 60.52
+        },
+        {
+          "word": "becoming",
+          "start": 60.52,
+          "end": 60.78
+        },
+        {
+          "word": "a",
+          "start": 60.78,
+          "end": 60.84
+        },
+        {
+          "word": "barrier",
+          "start": 60.84,
+          "end": 61.16
+        },
+        {
+          "word": "to",
+          "start": 61.16,
+          "end": 61.26
+        },
+        {
+          "word": "new",
+          "start": 61.26,
+          "end": 61.34
+        },
+        {
+          "word": "contributors.",
+          "start": 61.34,
+          "end": 61.64
+        }
+      ]
+    },
+    {
+      "start": 61.64,
+      "end": 63.85,
+      "text": "technical debt is the interest you pay on rushing features. the mentionContext interface is elegant, but our repo size is becoming a barrier to new contributors. we need to balance refactoring with innovation.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 61.64,
+          "end": 61.85
+        },
+        {
+          "word": "need",
+          "start": 61.85,
+          "end": 62.06
+        },
+        {
+          "word": "to",
+          "start": 62.06,
+          "end": 62.16
+        },
+        {
+          "word": "balance",
+          "start": 62.16,
+          "end": 62.61
+        },
+        {
+          "word": "refactoring",
+          "start": 62.61,
+          "end": 63.26
+        },
+        {
+          "word": "with",
+          "start": 63.26,
+          "end": 63.34
+        },
+        {
+          "word": "innovation.",
+          "start": 63.33,
+          "end": 63.85
+        }
+      ]
+    },
+    {
+      "start": 63.85,
+      "end": 65.59,
+      "text": "GitHub size is irrelevant. Only velocity matters. Clean architecture doesn't build products—shipping does. The mentionContext interface is how we win the platform war.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "GitHub",
+          "start": 63.85,
+          "end": 64.31
+        },
+        {
+          "word": "size",
+          "start": 64.31,
+          "end": 64.6
+        },
+        {
+          "word": "is",
+          "start": 64.6,
+          "end": 64.71
+        },
+        {
+          "word": "irrelevant,",
+          "start": 64.71,
+          "end": 65.17
+        },
+        {
+          "word": "only",
+          "start": 65.17,
+          "end": 65.31
+        },
+        {
+          "word": "velocity",
+          "start": 65.31,
+          "end": 65.57
+        },
+        {
+          "word": "matters.",
+          "start": 65.57,
+          "end": 65.59
+        }
+      ]
+    },
+    {
+      "start": 65.59,
+      "end": 68.61,
+      "text": "GitHub size is irrelevant. Only velocity matters. Clean architecture doesn't build products—shipping does. The mentionContext interface is how we win the platform war.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Clean",
+          "start": 65.59,
+          "end": 66.27
+        },
+        {
+          "word": "architecture",
+          "start": 66.27,
+          "end": 66.93
+        },
+        {
+          "word": "doesn't",
+          "start": 66.93,
+          "end": 67.33
+        },
+        {
+          "word": "build",
+          "start": 67.33,
+          "end": 67.75
+        },
+        {
+          "word": "products,",
+          "start": 67.75,
+          "end": 68.17
+        },
+        {
+          "word": "shipping",
+          "start": 68.17,
+          "end": 68.5
+        },
+        {
+          "word": "does.",
+          "start": 68.5,
+          "end": 68.61
+        }
+      ]
+    },
+    {
+      "start": 68.61,
+      "end": 71.01,
+      "text": "GitHub size is irrelevant. Only velocity matters. Clean architecture doesn't build products—shipping does. The mentionContext interface is how we win the platform war.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 68.61,
+          "end": 68.85
+        },
+        {
+          "word": "mention",
+          "start": 68.85,
+          "end": 69.17
+        },
+        {
+          "word": "context",
+          "start": 69.17,
+          "end": 69.65
+        },
+        {
+          "word": "interface",
+          "start": 69.65,
+          "end": 70.16
+        },
+        {
+          "word": "is",
+          "start": 70.16,
+          "end": 70.3
+        },
+        {
+          "word": "how",
+          "start": 70.3,
+          "end": 70.43
+        },
+        {
+          "word": "we",
+          "start": 70.43,
+          "end": 70.52
+        },
+        {
+          "word": "win",
+          "start": 70.52,
+          "end": 70.67
+        },
+        {
+          "word": "the",
+          "start": 70.67,
+          "end": 70.76
+        },
+        {
+          "word": "platform",
+          "start": 70.76,
+          "end": 71.01
+        },
+        {
+          "word": "war.",
+          "start": 71.01,
+          "end": 71.01
+        }
+      ]
+    },
+    {
+      "start": 71.01,
+      "end": 75.14,
+      "text": "Bruh, when your repo takes 10 minutes to clone, that's not just technical debt, that's technical bankruptcy! Sometimes you gotta clean your room before you invite new frens over.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Bruh,",
+          "start": 71.01,
+          "end": 71.49
+        },
+        {
+          "word": "when",
+          "start": 71.49,
+          "end": 71.69
+        },
+        {
+          "word": "your",
+          "start": 71.69,
+          "end": 71.85
+        },
+        {
+          "word": "repo",
+          "start": 71.85,
+          "end": 72.19
+        },
+        {
+          "word": "takes",
+          "start": 72.19,
+          "end": 72.48
+        },
+        {
+          "word": "10",
+          "start": 72.48,
+          "end": 72.74
+        },
+        {
+          "word": "minutes",
+          "start": 72.74,
+          "end": 73.08
+        },
+        {
+          "word": "to",
+          "start": 73.08,
+          "end": 73.22
+        },
+        {
+          "word": "clone,",
+          "start": 73.22,
+          "end": 73.6
+        },
+        {
+          "word": "that's",
+          "start": 73.6,
+          "end": 73.85
+        },
+        {
+          "word": "not",
+          "start": 73.85,
+          "end": 74.05
+        },
+        {
+          "word": "just",
+          "start": 74.05,
+          "end": 74.22
+        },
+        {
+          "word": "technical",
+          "start": 74.22,
+          "end": 74.63
+        },
+        {
+          "word": "debt,",
+          "start": 74.63,
+          "end": 74.85
+        },
+        {
+          "word": "that's",
+          "start": 74.85,
+          "end": 75.14
+        },
+        {
+          "word": "technical",
+          "start": 75.14,
+          "end": 75.14
+        },
+        {
+          "word": "bankruptcy.",
+          "start": 75.14,
+          "end": 75.14
+        }
+      ]
+    },
+    {
+      "start": 75.14,
+      "end": 78.43,
+      "text": "Bruh, when your repo takes 10 minutes to clone, that's not just technical debt, that's technical bankruptcy! Sometimes you gotta clean your room before you invite new frens over.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Sometimes",
+          "start": 75.14,
+          "end": 75.83
+        },
+        {
+          "word": "you",
+          "start": 75.83,
+          "end": 75.98
+        },
+        {
+          "word": "gotta",
+          "start": 75.98,
+          "end": 76.22
+        },
+        {
+          "word": "clean",
+          "start": 76.22,
+          "end": 76.54
+        },
+        {
+          "word": "your",
+          "start": 76.54,
+          "end": 76.73
+        },
+        {
+          "word": "room",
+          "start": 76.73,
+          "end": 77.08
+        },
+        {
+          "word": "before",
+          "start": 77.08,
+          "end": 77.41
+        },
+        {
+          "word": "you",
+          "start": 77.41,
+          "end": 77.56
+        },
+        {
+          "word": "invite",
+          "start": 77.56,
+          "end": 77.89
+        },
+        {
+          "word": "new",
+          "start": 77.89,
+          "end": 78.06
+        },
+        {
+          "word": "friends",
+          "start": 78.06,
+          "end": 78.33
+        },
+        {
+          "word": "over.",
+          "start": 78.33,
+          "end": 78.43
+        }
+      ]
+    },
+    {
+      "start": 78.43,
+      "end": 79.59,
+      "text": "WRONG! Technical debt is only bad when it costs more than it returns. If speed to market generates 10x what refactoring would save, TAKE THE DEBT! This is simple math!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong.",
+          "start": 78.43,
+          "end": 79.59
+        }
+      ]
+    },
+    {
+      "start": 79.59,
+      "end": 83.27,
+      "text": "WRONG! Technical debt is only bad when it costs more than it returns. If speed to market generates 10x what refactoring would save, TAKE THE DEBT! This is simple math!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 79.59,
+          "end": 80.37
+        },
+        {
+          "word": "debt",
+          "start": 80.37,
+          "end": 80.57
+        },
+        {
+          "word": "is",
+          "start": 80.57,
+          "end": 80.73
+        },
+        {
+          "word": "only",
+          "start": 80.73,
+          "end": 81.08
+        },
+        {
+          "word": "bad",
+          "start": 81.08,
+          "end": 81.56
+        },
+        {
+          "word": "when",
+          "start": 81.56,
+          "end": 81.79
+        },
+        {
+          "word": "it",
+          "start": 81.79,
+          "end": 81.93
+        },
+        {
+          "word": "costs",
+          "start": 81.93,
+          "end": 82.26
+        },
+        {
+          "word": "more",
+          "start": 82.26,
+          "end": 82.52
+        },
+        {
+          "word": "than",
+          "start": 82.52,
+          "end": 82.72
+        },
+        {
+          "word": "it",
+          "start": 82.72,
+          "end": 82.84
+        },
+        {
+          "word": "returns.",
+          "start": 82.84,
+          "end": 83.27
+        }
+      ]
+    },
+    {
+      "start": 83.27,
+      "end": 87.72,
+      "text": "WRONG! Technical debt is only bad when it costs more than it returns. If speed to market generates 10x what refactoring would save, TAKE THE DEBT! This is simple math!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "If",
+          "start": 83.27,
+          "end": 83.56
+        },
+        {
+          "word": "speed",
+          "start": 83.56,
+          "end": 83.83
+        },
+        {
+          "word": "to",
+          "start": 83.83,
+          "end": 83.94
+        },
+        {
+          "word": "market",
+          "start": 83.94,
+          "end": 84.34
+        },
+        {
+          "word": "generates",
+          "start": 84.34,
+          "end": 84.94
+        },
+        {
+          "word": "10x",
+          "start": 84.94,
+          "end": 85.57
+        },
+        {
+          "word": "what",
+          "start": 85.57,
+          "end": 85.87
+        },
+        {
+          "word": "refactoring",
+          "start": 85.87,
+          "end": 86.64
+        },
+        {
+          "word": "would",
+          "start": 86.64,
+          "end": 86.88
+        },
+        {
+          "word": "save,",
+          "start": 86.88,
+          "end": 87.26
+        },
+        {
+          "word": "take",
+          "start": 87.26,
+          "end": 87.48
+        },
+        {
+          "word": "the",
+          "start": 87.48,
+          "end": 87.58
+        },
+        {
+          "word": "debt.",
+          "start": 87.58,
+          "end": 87.72
+        }
+      ]
+    },
+    {
+      "start": 87.72,
+      "end": 89.2,
+      "text": "WRONG! Technical debt is only bad when it costs more than it returns. If speed to market generates 10x what refactoring would save, TAKE THE DEBT! This is simple math!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 87.72,
+          "end": 87.99
+        },
+        {
+          "word": "is",
+          "start": 87.99,
+          "end": 88.17
+        },
+        {
+          "word": "simple",
+          "start": 88.17,
+          "end": 88.66
+        },
+        {
+          "word": "math.",
+          "start": 88.66,
+          "end": 89.2
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-06_JedAI-Council_Token-Migration-Meditations.json",
+    "session_log_source": "2025-10-06_JedAI-Council_Token-Migration-Meditations_session-log.json",
+    "total_segments": 27,
+    "matched_segments": 27,
+    "dialogues_in_script": 15
+  }
+}

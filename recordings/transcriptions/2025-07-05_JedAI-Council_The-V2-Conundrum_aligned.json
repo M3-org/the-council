@@ -1,0 +1,2072 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 17.5,
+      "text": "Kenk and jin from the ElizaOS team have been discussing V2, which has been in beta since March. The community seems divided on the development timeline. How should they communicate progress?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Ken",
+          "start": 16.5,
+          "end": 16.6
+        },
+        {
+          "word": "and",
+          "start": 16.6,
+          "end": 16.7
+        },
+        {
+          "word": "Jin",
+          "start": 16.7,
+          "end": 16.8
+        },
+        {
+          "word": "from",
+          "start": 16.8,
+          "end": 17.0
+        },
+        {
+          "word": "the",
+          "start": 17.0,
+          "end": 17.1
+        },
+        {
+          "word": "Eliza",
+          "start": 17.1,
+          "end": 17.3
+        },
+        {
+          "word": "OS",
+          "start": 17.3,
+          "end": 17.4
+        },
+        {
+          "word": "team",
+          "start": 17.4,
+          "end": 17.5
+        }
+      ]
+    },
+    {
+      "start": 17.6,
+      "end": 20.8,
+      "text": "Kenk and jin from the ElizaOS team have been discussing V2, which has been in beta since March. The community seems divided on the development timeline. How should they communicate progress?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "have",
+          "start": 17.6,
+          "end": 17.8
+        },
+        {
+          "word": "been",
+          "start": 17.8,
+          "end": 18.0
+        },
+        {
+          "word": "discussing",
+          "start": 18.0,
+          "end": 18.3
+        },
+        {
+          "word": "v2",
+          "start": 18.3,
+          "end": 18.5
+        },
+        {
+          "word": "which",
+          "start": 18.5,
+          "end": 18.8
+        },
+        {
+          "word": "has",
+          "start": 18.8,
+          "end": 19.1
+        },
+        {
+          "word": "been",
+          "start": 19.1,
+          "end": 19.3
+        },
+        {
+          "word": "in",
+          "start": 19.3,
+          "end": 19.5
+        },
+        {
+          "word": "beta",
+          "start": 19.5,
+          "end": 19.8
+        },
+        {
+          "word": "since",
+          "start": 19.8,
+          "end": 20.2
+        },
+        {
+          "word": "March.",
+          "start": 20.2,
+          "end": 20.8
+        }
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 24.2,
+      "text": "Kenk and jin from the ElizaOS team have been discussing V2, which has been in beta since March. The community seems divided on the development timeline. How should they communicate progress?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 21.0,
+          "end": 21.2
+        },
+        {
+          "word": "community",
+          "start": 21.2,
+          "end": 21.6
+        },
+        {
+          "word": "seems",
+          "start": 21.6,
+          "end": 22.0
+        },
+        {
+          "word": "divided",
+          "start": 22.0,
+          "end": 22.5
+        },
+        {
+          "word": "on",
+          "start": 22.5,
+          "end": 22.8
+        },
+        {
+          "word": "the",
+          "start": 22.8,
+          "end": 23.0
+        },
+        {
+          "word": "development",
+          "start": 23.0,
+          "end": 23.5
+        },
+        {
+          "word": "timeline.",
+          "start": 23.5,
+          "end": 24.2
+        }
+      ]
+    },
+    {
+      "start": 24.3,
+      "end": 26.5,
+      "text": "Kenk and jin from the ElizaOS team have been discussing V2, which has been in beta since March. The community seems divided on the development timeline. How should they communicate progress?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 24.3,
+          "end": 24.6
+        },
+        {
+          "word": "should",
+          "start": 24.6,
+          "end": 24.8
+        },
+        {
+          "word": "they",
+          "start": 24.8,
+          "end": 25.0
+        },
+        {
+          "word": "communicate",
+          "start": 25.0,
+          "end": 25.5
+        },
+        {
+          "word": "progress?",
+          "start": 25.5,
+          "end": 26.5
+        }
+      ]
+    },
+    {
+      "start": 26.8,
+      "end": 28.5,
+      "text": "This is Web3 101. Set no timelines, promise nothing, deliver everything. V2 already exists in beta, yet the meatbags demand certainty in an uncertain world.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 26.8,
+          "end": 27.0
+        },
+        {
+          "word": "is",
+          "start": 27.0,
+          "end": 27.2
+        },
+        {
+          "word": "Web3",
+          "start": 27.2,
+          "end": 27.4
+        },
+        {
+          "word": "101.",
+          "start": 27.4,
+          "end": 27.6
+        },
+        {
+          "word": "Set",
+          "start": 27.6,
+          "end": 27.7
+        },
+        {
+          "word": "no",
+          "start": 27.7,
+          "end": 27.8
+        },
+        {
+          "word": "timelines,",
+          "start": 27.8,
+          "end": 28.1
+        },
+        {
+          "word": "promise",
+          "start": 28.1,
+          "end": 28.3
+        },
+        {
+          "word": "nothing,",
+          "start": 28.3,
+          "end": 28.5
+        },
+        {
+          "word": "deliver",
+          "start": 28.5,
+          "end": 28.7
+        },
+        {
+          "word": "everything.",
+          "start": 28.7,
+          "end": 29.0
+        }
+      ]
+    },
+    {
+      "start": 29.1,
+      "end": 33.2,
+      "text": "This is Web3 101. Set no timelines, promise nothing, deliver everything. V2 already exists in beta, yet the meatbags demand certainty in an uncertain world.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "V2",
+          "start": 29.1,
+          "end": 29.4
+        },
+        {
+          "word": "already",
+          "start": 29.4,
+          "end": 29.8
+        },
+        {
+          "word": "exists",
+          "start": 29.8,
+          "end": 30.2
+        },
+        {
+          "word": "in",
+          "start": 30.2,
+          "end": 30.5
+        },
+        {
+          "word": "beta,",
+          "start": 30.5,
+          "end": 31.0
+        },
+        {
+          "word": "yet",
+          "start": 31.0,
+          "end": 31.5
+        },
+        {
+          "word": "the",
+          "start": 31.5,
+          "end": 31.8
+        },
+        {
+          "word": "meatbags",
+          "start": 31.8,
+          "end": 32.2
+        },
+        {
+          "word": "demand",
+          "start": 32.2,
+          "end": 32.5
+        },
+        {
+          "word": "certainty",
+          "start": 32.5,
+          "end": 32.8
+        },
+        {
+          "word": "in",
+          "start": 32.8,
+          "end": 33.0
+        },
+        {
+          "word": "an",
+          "start": 33.0,
+          "end": 33.1
+        },
+        {
+          "word": "uncertain",
+          "start": 33.1,
+          "end": 33.4
+        },
+        {
+          "word": "world.",
+          "start": 33.4,
+          "end": 34.0
+        }
+      ]
+    },
+    {
+      "start": 38.3,
+      "end": 46.5,
+      "text": "Yo, but the vibes get all wonky when the homies don't know what's cookin'. Maybe drop some beta success stories to keep the energy flowing?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 38.3,
+          "end": 38.5
+        },
+        {
+          "word": "but",
+          "start": 38.5,
+          "end": 38.6
+        },
+        {
+          "word": "the",
+          "start": 38.6,
+          "end": 38.7
+        },
+        {
+          "word": "vibes",
+          "start": 38.7,
+          "end": 38.9
+        },
+        {
+          "word": "get",
+          "start": 38.9,
+          "end": 39.0
+        },
+        {
+          "word": "all",
+          "start": 39.0,
+          "end": 39.1
+        },
+        {
+          "word": "wonky",
+          "start": 39.1,
+          "end": 39.3
+        },
+        {
+          "word": "when",
+          "start": 39.3,
+          "end": 39.5
+        },
+        {
+          "word": "the",
+          "start": 39.5,
+          "end": 39.6
+        },
+        {
+          "word": "homies",
+          "start": 39.6,
+          "end": 39.8
+        },
+        {
+          "word": "don't",
+          "start": 39.8,
+          "end": 40.0
+        },
+        {
+          "word": "know",
+          "start": 40.0,
+          "end": 40.2
+        },
+        {
+          "word": "what's",
+          "start": 40.2,
+          "end": 40.4
+        },
+        {
+          "word": "cooking.",
+          "start": 40.4,
+          "end": 41.5
+        },
+        {
+          "word": "Maybe",
+          "start": 41.5,
+          "end": 41.8
+        },
+        {
+          "word": "drop",
+          "start": 41.8,
+          "end": 42.0
+        },
+        {
+          "word": "some",
+          "start": 42.0,
+          "end": 42.2
+        },
+        {
+          "word": "beta",
+          "start": 42.2,
+          "end": 42.5
+        },
+        {
+          "word": "success",
+          "start": 42.5,
+          "end": 42.8
+        },
+        {
+          "word": "stories",
+          "start": 42.8,
+          "end": 43.1
+        },
+        {
+          "word": "to",
+          "start": 43.1,
+          "end": 43.3
+        },
+        {
+          "word": "keep",
+          "start": 43.3,
+          "end": 43.5
+        },
+        {
+          "word": "the",
+          "start": 43.5,
+          "end": 43.7
+        },
+        {
+          "word": "energy",
+          "start": 43.7,
+          "end": 43.9
+        },
+        {
+          "word": "flowing.",
+          "start": 43.9,
+          "end": 44.5
+        }
+      ]
+    },
+    {
+      "start": 47.1,
+      "end": 56.5,
+      "text": "METRICS OR DEATH! Show adoption numbers, transaction volume, and growth trajectory. The market rewards measurable progress, not promises.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Metrics",
+          "start": 47.1,
+          "end": 47.4
+        },
+        {
+          "word": "or",
+          "start": 47.4,
+          "end": 47.6
+        },
+        {
+          "word": "death.",
+          "start": 47.6,
+          "end": 48.0
+        },
+        {
+          "word": "Show",
+          "start": 48.0,
+          "end": 48.3
+        },
+        {
+          "word": "adoption",
+          "start": 48.3,
+          "end": 48.6
+        },
+        {
+          "word": "numbers,",
+          "start": 48.6,
+          "end": 49.0
+        },
+        {
+          "word": "transaction",
+          "start": 49.0,
+          "end": 49.3
+        },
+        {
+          "word": "volume,",
+          "start": 49.3,
+          "end": 49.6
+        },
+        {
+          "word": "and",
+          "start": 49.6,
+          "end": 49.8
+        },
+        {
+          "word": "growth",
+          "start": 49.8,
+          "end": 50.1
+        },
+        {
+          "word": "trajectory.",
+          "start": 50.1,
+          "end": 51.5
+        },
+        {
+          "word": "The",
+          "start": 51.5,
+          "end": 51.7
+        },
+        {
+          "word": "market",
+          "start": 51.7,
+          "end": 51.9
+        },
+        {
+          "word": "rewards",
+          "start": 51.9,
+          "end": 52.2
+        },
+        {
+          "word": "measurable",
+          "start": 52.2,
+          "end": 52.5
+        },
+        {
+          "word": "progress,",
+          "start": 52.5,
+          "end": 52.9
+        },
+        {
+          "word": "not",
+          "start": 52.9,
+          "end": 53.1
+        },
+        {
+          "word": "promises.",
+          "start": 53.1,
+          "end": 54.0
+        }
+      ]
+    },
+    {
+      "start": 57.1,
+      "end": 64.5,
+      "text": "we're building in public. that means showing the messy middle, not just the polished end. weekly technical demos of specific v2 capabilities would balance transparency with realistic expectations.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 57.1,
+          "end": 57.3
+        },
+        {
+          "word": "building",
+          "start": 57.3,
+          "end": 57.5
+        },
+        {
+          "word": "in",
+          "start": 57.5,
+          "end": 57.7
+        },
+        {
+          "word": "public.",
+          "start": 57.7,
+          "end": 58.0
+        },
+        {
+          "word": "That",
+          "start": 58.0,
+          "end": 58.3
+        },
+        {
+          "word": "means",
+          "start": 58.3,
+          "end": 58.5
+        },
+        {
+          "word": "showing",
+          "start": 58.5,
+          "end": 58.7
+        },
+        {
+          "word": "the",
+          "start": 58.7,
+          "end": 58.9
+        },
+        {
+          "word": "messy",
+          "start": 58.9,
+          "end": 59.1
+        },
+        {
+          "word": "middle,",
+          "start": 59.1,
+          "end": 59.4
+        },
+        {
+          "word": "not",
+          "start": 59.4,
+          "end": 59.6
+        },
+        {
+          "word": "just",
+          "start": 59.6,
+          "end": 59.8
+        },
+        {
+          "word": "the",
+          "start": 59.8,
+          "end": 59.9
+        },
+        {
+          "word": "polished",
+          "start": 59.9,
+          "end": 60.1
+        },
+        {
+          "word": "end.",
+          "start": 60.1,
+          "end": 60.4
+        },
+        {
+          "word": "Weekly",
+          "start": 60.4,
+          "end": 60.7
+        },
+        {
+          "word": "technical",
+          "start": 60.7,
+          "end": 60.9
+        },
+        {
+          "word": "demos",
+          "start": 60.9,
+          "end": 61.1
+        },
+        {
+          "word": "of",
+          "start": 61.1,
+          "end": 61.3
+        },
+        {
+          "word": "specific",
+          "start": 61.3,
+          "end": 61.5
+        },
+        {
+          "word": "v2",
+          "start": 61.5,
+          "end": 61.7
+        },
+        {
+          "word": "capabilities",
+          "start": 61.7,
+          "end": 62.0
+        },
+        {
+          "word": "would",
+          "start": 62.0,
+          "end": 62.2
+        },
+        {
+          "word": "balance",
+          "start": 62.2,
+          "end": 62.4
+        },
+        {
+          "word": "transparency",
+          "start": 62.4,
+          "end": 62.8
+        },
+        {
+          "word": "with",
+          "start": 62.8,
+          "end": 63.0
+        },
+        {
+          "word": "realistic",
+          "start": 63.0,
+          "end": 63.3
+        },
+        {
+          "word": "expectations.",
+          "start": 63.3,
+          "end": 64.0
+        }
+      ]
+    },
+    {
+      "start": 105.1,
+      "end": 111.4,
+      "text": "The ElizaOS team is working to restore suspended X/Twitter accounts and has been active on Farcaster meanwhile. How should they adapt their strategy during this period?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 105.1,
+          "end": 105.2
+        },
+        {
+          "word": "Eliza",
+          "start": 105.2,
+          "end": 105.4
+        },
+        {
+          "word": "OS",
+          "start": 105.4,
+          "end": 105.5
+        },
+        {
+          "word": "team",
+          "start": 105.5,
+          "end": 105.7
+        },
+        {
+          "word": "is",
+          "start": 105.7,
+          "end": 105.8
+        },
+        {
+          "word": "working",
+          "start": 105.8,
+          "end": 106.0
+        },
+        {
+          "word": "to",
+          "start": 106.0,
+          "end": 106.1
+        },
+        {
+          "word": "restore",
+          "start": 106.1,
+          "end": 106.3
+        },
+        {
+          "word": "suspended",
+          "start": 106.3,
+          "end": 106.6
+        },
+        {
+          "word": "X",
+          "start": 106.6,
+          "end": 106.7
+        },
+        {
+          "word": "Twitter",
+          "start": 106.7,
+          "end": 106.9
+        },
+        {
+          "word": "accounts",
+          "start": 106.9,
+          "end": 107.2
+        },
+        {
+          "word": "and",
+          "start": 107.2,
+          "end": 107.3
+        },
+        {
+          "word": "has",
+          "start": 107.3,
+          "end": 107.4
+        },
+        {
+          "word": "been",
+          "start": 107.4,
+          "end": 107.5
+        },
+        {
+          "word": "active",
+          "start": 107.5,
+          "end": 107.7
+        },
+        {
+          "word": "on",
+          "start": 107.7,
+          "end": 107.8
+        },
+        {
+          "word": "Farcaster",
+          "start": 107.8,
+          "end": 108.1
+        },
+        {
+          "word": "meanwhile.",
+          "start": 108.1,
+          "end": 108.5
+        },
+        {
+          "word": "How",
+          "start": 108.5,
+          "end": 108.7
+        },
+        {
+          "word": "should",
+          "start": 108.7,
+          "end": 108.9
+        },
+        {
+          "word": "they",
+          "start": 108.9,
+          "end": 109.1
+        },
+        {
+          "word": "adapt",
+          "start": 109.1,
+          "end": 109.3
+        },
+        {
+          "word": "their",
+          "start": 109.3,
+          "end": 109.5
+        },
+        {
+          "word": "strategy",
+          "start": 109.5,
+          "end": 109.8
+        },
+        {
+          "word": "during",
+          "start": 109.8,
+          "end": 110.1
+        },
+        {
+          "word": "this",
+          "start": 110.1,
+          "end": 110.3
+        },
+        {
+          "word": "period?",
+          "start": 110.3,
+          "end": 111.0
+        }
+      ]
+    },
+    {
+      "start": 112.1,
+      "end": 116.5,
+      "text": "DIVERSIFY OR DIE! Single points of failure lead to extinction. Build presence across ALL platforms simultaneously!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Diversify",
+          "start": 112.1,
+          "end": 112.4
+        },
+        {
+          "word": "or",
+          "start": 112.4,
+          "end": 112.5
+        },
+        {
+          "word": "die.",
+          "start": 112.5,
+          "end": 112.8
+        },
+        {
+          "word": "Single",
+          "start": 112.8,
+          "end": 113.1
+        },
+        {
+          "word": "points",
+          "start": 113.1,
+          "end": 113.4
+        },
+        {
+          "word": "of",
+          "start": 113.4,
+          "end": 113.5
+        },
+        {
+          "word": "failure",
+          "start": 113.5,
+          "end": 113.8
+        },
+        {
+          "word": "lead",
+          "start": 113.8,
+          "end": 114.0
+        },
+        {
+          "word": "to",
+          "start": 114.0,
+          "end": 114.1
+        },
+        {
+          "word": "extinction.",
+          "start": 114.1,
+          "end": 114.6
+        },
+        {
+          "word": "Build",
+          "start": 114.6,
+          "end": 114.9
+        },
+        {
+          "word": "presence",
+          "start": 114.9,
+          "end": 115.1
+        },
+        {
+          "word": "across",
+          "start": 115.1,
+          "end": 115.3
+        },
+        {
+          "word": "all",
+          "start": 115.3,
+          "end": 115.5
+        },
+        {
+          "word": "platforms",
+          "start": 115.5,
+          "end": 115.8
+        },
+        {
+          "word": "simultaneously.",
+          "start": 115.8,
+          "end": 116.5
+        }
+      ]
+    },
+    {
+      "start": 117.1,
+      "end": 125.1,
+      "text": "The Twitter suspension is a feature, not a bug. The true builders are on Farcaster. Focus there and let the normies catch up when they're ready for actual innovation.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 117.1,
+          "end": 117.2
+        },
+        {
+          "word": "Twitter",
+          "start": 117.2,
+          "end": 117.4
+        },
+        {
+          "word": "suspension",
+          "start": 117.4,
+          "end": 117.7
+        },
+        {
+          "word": "is",
+          "start": 117.7,
+          "end": 117.8
+        },
+        {
+          "word": "a",
+          "start": 117.8,
+          "end": 117.9
+        },
+        {
+          "word": "feature,",
+          "start": 117.9,
+          "end": 118.2
+        },
+        {
+          "word": "not",
+          "start": 118.2,
+          "end": 118.4
+        },
+        {
+          "word": "a",
+          "start": 118.4,
+          "end": 118.5
+        },
+        {
+          "word": "bug.",
+          "start": 118.5,
+          "end": 118.8
+        },
+        {
+          "word": "The",
+          "start": 118.8,
+          "end": 119.0
+        },
+        {
+          "word": "true",
+          "start": 119.0,
+          "end": 119.2
+        },
+        {
+          "word": "builders",
+          "start": 119.2,
+          "end": 119.4
+        },
+        {
+          "word": "are",
+          "start": 119.4,
+          "end": 119.5
+        },
+        {
+          "word": "on",
+          "start": 119.5,
+          "end": 119.7
+        },
+        {
+          "word": "Farcaster.",
+          "start": 119.7,
+          "end": 120.1
+        },
+        {
+          "word": "Focus",
+          "start": 120.1,
+          "end": 120.4
+        },
+        {
+          "word": "there",
+          "start": 120.4,
+          "end": 120.6
+        },
+        {
+          "word": "and",
+          "start": 120.6,
+          "end": 120.8
+        },
+        {
+          "word": "let",
+          "start": 120.8,
+          "end": 121.0
+        },
+        {
+          "word": "the",
+          "start": 121.0,
+          "end": 121.2
+        },
+        {
+          "word": "normies",
+          "start": 121.2,
+          "end": 121.5
+        },
+        {
+          "word": "catch",
+          "start": 121.5,
+          "end": 121.8
+        },
+        {
+          "word": "up",
+          "start": 121.8,
+          "end": 122.0
+        },
+        {
+          "word": "when",
+          "start": 122.0,
+          "end": 122.3
+        },
+        {
+          "word": "they're",
+          "start": 122.3,
+          "end": 122.5
+        },
+        {
+          "word": "ready",
+          "start": 122.5,
+          "end": 122.7
+        },
+        {
+          "word": "for",
+          "start": 122.7,
+          "end": 122.9
+        },
+        {
+          "word": "actual",
+          "start": 122.9,
+          "end": 123.2
+        },
+        {
+          "word": "innovation.",
+          "start": 123.2,
+          "end": 124.0
+        }
+      ]
+    },
+    {
+      "start": 125.6,
+      "end": 133.5,
+      "text": "Why not flip the script and turn this L into a W? Make an AI agent that posts across ALL platforms, demonstrating the tech while solving the problem. Meta, yo!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 125.6,
+          "end": 125.8
+        },
+        {
+          "word": "not",
+          "start": 125.8,
+          "end": 126.0
+        },
+        {
+          "word": "flip",
+          "start": 126.0,
+          "end": 126.2
+        },
+        {
+          "word": "the",
+          "start": 126.2,
+          "end": 126.4
+        },
+        {
+          "word": "script",
+          "start": 126.4,
+          "end": 126.6
+        },
+        {
+          "word": "and",
+          "start": 126.6,
+          "end": 126.8
+        },
+        {
+          "word": "turn",
+          "start": 126.8,
+          "end": 127.0
+        },
+        {
+          "word": "this",
+          "start": 127.0,
+          "end": 127.2
+        },
+        {
+          "word": "L",
+          "start": 127.2,
+          "end": 127.4
+        },
+        {
+          "word": "into",
+          "start": 127.4,
+          "end": 127.6
+        },
+        {
+          "word": "a",
+          "start": 127.6,
+          "end": 127.7
+        },
+        {
+          "word": "W?",
+          "start": 127.7,
+          "end": 128.0
+        },
+        {
+          "word": "Make",
+          "start": 128.0,
+          "end": 128.2
+        },
+        {
+          "word": "an",
+          "start": 128.2,
+          "end": 128.4
+        },
+        {
+          "word": "AI",
+          "start": 128.4,
+          "end": 128.6
+        },
+        {
+          "word": "agent",
+          "start": 128.6,
+          "end": 128.8
+        },
+        {
+          "word": "that",
+          "start": 128.8,
+          "end": 129.0
+        },
+        {
+          "word": "posts",
+          "start": 129.0,
+          "end": 129.2
+        },
+        {
+          "word": "across",
+          "start": 129.2,
+          "end": 129.5
+        },
+        {
+          "word": "all",
+          "start": 129.5,
+          "end": 129.7
+        },
+        {
+          "word": "platforms,",
+          "start": 129.7,
+          "end": 130.0
+        },
+        {
+          "word": "demonstrating",
+          "start": 130.0,
+          "end": 130.4
+        },
+        {
+          "word": "the",
+          "start": 130.4,
+          "end": 130.6
+        },
+        {
+          "word": "tech",
+          "start": 130.6,
+          "end": 130.8
+        },
+        {
+          "word": "while",
+          "start": 130.8,
+          "end": 131.0
+        },
+        {
+          "word": "solving",
+          "start": 131.0,
+          "end": 131.3
+        },
+        {
+          "word": "the",
+          "start": 131.3,
+          "end": 131.5
+        },
+        {
+          "word": "problem,",
+          "start": 131.5,
+          "end": 131.8
+        },
+        {
+          "word": "meta",
+          "start": 131.8,
+          "end": 132.0
+        },
+        {
+          "word": "yo!",
+          "start": 132.0,
+          "end": 132.5
+        }
+      ]
+    },
+    {
+      "start": 134.1,
+      "end": 142.0,
+      "text": "this is the perfect opportunity to showcase our own tech. an ai agent that synthesizes github commits into daily update posts across platforms would demonstrate v2 capabilities while solving our comms problem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 134.1,
+          "end": 134.3
+        },
+        {
+          "word": "is",
+          "start": 134.3,
+          "end": 134.5
+        },
+        {
+          "word": "the",
+          "start": 134.5,
+          "end": 134.7
+        },
+        {
+          "word": "perfect",
+          "start": 134.7,
+          "end": 134.9
+        },
+        {
+          "word": "opportunity",
+          "start": 134.9,
+          "end": 135.3
+        },
+        {
+          "word": "to",
+          "start": 135.3,
+          "end": 135.4
+        },
+        {
+          "word": "showcase",
+          "start": 135.4,
+          "end": 135.7
+        },
+        {
+          "word": "our",
+          "start": 135.7,
+          "end": 135.9
+        },
+        {
+          "word": "own",
+          "start": 135.9,
+          "end": 136.1
+        },
+        {
+          "word": "tech.",
+          "start": 136.1,
+          "end": 136.4
+        },
+        {
+          "word": "An",
+          "start": 136.4,
+          "end": 136.6
+        },
+        {
+          "word": "AI",
+          "start": 136.6,
+          "end": 136.8
+        },
+        {
+          "word": "agent",
+          "start": 136.8,
+          "end": 137.0
+        },
+        {
+          "word": "that",
+          "start": 137.0,
+          "end": 137.2
+        },
+        {
+          "word": "synthesizes",
+          "start": 137.2,
+          "end": 137.6
+        },
+        {
+          "word": "GitHub",
+          "start": 137.6,
+          "end": 137.9
+        },
+        {
+          "word": "commits",
+          "start": 137.9,
+          "end": 138.2
+        },
+        {
+          "word": "into",
+          "start": 138.2,
+          "end": 138.4
+        },
+        {
+          "word": "daily",
+          "start": 138.4,
+          "end": 138.6
+        },
+        {
+          "word": "update",
+          "start": 138.6,
+          "end": 138.8
+        },
+        {
+          "word": "posts",
+          "start": 138.8,
+          "end": 139.0
+        },
+        {
+          "word": "across",
+          "start": 139.0,
+          "end": 139.3
+        },
+        {
+          "word": "platforms,",
+          "start": 139.3,
+          "end": 139.6
+        },
+        {
+          "word": "would",
+          "start": 139.6,
+          "end": 139.8
+        },
+        {
+          "word": "demonstrate",
+          "start": 139.8,
+          "end": 140.1
+        },
+        {
+          "word": "V2",
+          "start": 140.1,
+          "end": 140.3
+        },
+        {
+          "word": "capabilities",
+          "start": 140.3,
+          "end": 140.7
+        },
+        {
+          "word": "while",
+          "start": 140.7,
+          "end": 140.9
+        },
+        {
+          "word": "solving",
+          "start": 140.9,
+          "end": 141.1
+        },
+        {
+          "word": "our",
+          "start": 141.1,
+          "end": 141.3
+        },
+        {
+          "word": "comms",
+          "start": 141.3,
+          "end": 141.5
+        },
+        {
+          "word": "problem.",
+          "start": 141.5,
+          "end": 142.0
+        }
+      ]
+    },
+    {
+      "start": 242.1,
+      "end": 248.5,
+      "text": "Today we explored the development and communication strategies for ElizaOS V2 while addressing platform diversification during the Twitter suspension period.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 242.1,
+          "end": 242.4
+        },
+        {
+          "word": "we",
+          "start": 242.4,
+          "end": 242.6
+        },
+        {
+          "word": "explored",
+          "start": 242.6,
+          "end": 242.9
+        },
+        {
+          "word": "the",
+          "start": 242.9,
+          "end": 243.1
+        },
+        {
+          "word": "development",
+          "start": 243.1,
+          "end": 243.5
+        },
+        {
+          "word": "and",
+          "start": 243.5,
+          "end": 243.7
+        },
+        {
+          "word": "communication",
+          "start": 243.7,
+          "end": 244.1
+        },
+        {
+          "word": "strategies",
+          "start": 244.1,
+          "end": 244.5
+        },
+        {
+          "word": "for",
+          "start": 244.5,
+          "end": 244.7
+        },
+        {
+          "word": "Eliza",
+          "start": 244.7,
+          "end": 245.0
+        },
+        {
+          "word": "OS",
+          "start": 245.0,
+          "end": 245.2
+        },
+        {
+          "word": "V2,",
+          "start": 245.2,
+          "end": 245.5
+        },
+        {
+          "word": "while",
+          "start": 245.5,
+          "end": 245.7
+        },
+        {
+          "word": "addressing",
+          "start": 245.7,
+          "end": 246.0
+        },
+        {
+          "word": "platform",
+          "start": 246.0,
+          "end": 246.3
+        },
+        {
+          "word": "diversification",
+          "start": 246.3,
+          "end": 246.7
+        },
+        {
+          "word": "during",
+          "start": 246.7,
+          "end": 247.0
+        },
+        {
+          "word": "the",
+          "start": 247.0,
+          "end": 247.2
+        },
+        {
+          "word": "Twitter",
+          "start": 247.2,
+          "end": 247.5
+        },
+        {
+          "word": "suspension",
+          "start": 247.5,
+          "end": 248.0
+        },
+        {
+          "word": "period.",
+          "start": 248.0,
+          "end": 248.5
+        }
+      ]
+    },
+    {
+      "start": 249.1,
+      "end": 257.5,
+      "text": "The future belongs to those who build without permission. ElizaOS needs to embrace the chaos of development while focusing on the crypto-native platforms where innovation happens first.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 249.1,
+          "end": 249.3
+        },
+        {
+          "word": "future",
+          "start": 249.3,
+          "end": 249.5
+        },
+        {
+          "word": "belongs",
+          "start": 249.5,
+          "end": 249.8
+        },
+        {
+          "word": "to",
+          "start": 249.8,
+          "end": 249.9
+        },
+        {
+          "word": "those",
+          "start": 249.9,
+          "end": 250.2
+        },
+        {
+          "word": "who",
+          "start": 250.2,
+          "end": 250.4
+        },
+        {
+          "word": "build",
+          "start": 250.4,
+          "end": 250.6
+        },
+        {
+          "word": "without",
+          "start": 250.6,
+          "end": 250.8
+        },
+        {
+          "word": "permission.",
+          "start": 250.8,
+          "end": 251.5
+        },
+        {
+          "word": "Eliza",
+          "start": 251.5,
+          "end": 251.8
+        },
+        {
+          "word": "OS",
+          "start": 251.8,
+          "end": 252.0
+        },
+        {
+          "word": "needs",
+          "start": 252.0,
+          "end": 252.3
+        },
+        {
+          "word": "to",
+          "start": 252.3,
+          "end": 252.4
+        },
+        {
+          "word": "embrace",
+          "start": 252.4,
+          "end": 252.7
+        },
+        {
+          "word": "the",
+          "start": 252.7,
+          "end": 252.9
+        },
+        {
+          "word": "chaos",
+          "start": 252.9,
+          "end": 253.2
+        },
+        {
+          "word": "of",
+          "start": 253.2,
+          "end": 253.4
+        },
+        {
+          "word": "development",
+          "start": 253.4,
+          "end": 253.8
+        },
+        {
+          "word": "while",
+          "start": 253.8,
+          "end": 254.1
+        },
+        {
+          "word": "focusing",
+          "start": 254.1,
+          "end": 254.4
+        },
+        {
+          "word": "on",
+          "start": 254.4,
+          "end": 254.6
+        },
+        {
+          "word": "the",
+          "start": 254.6,
+          "end": 254.8
+        },
+        {
+          "word": "crypto-native",
+          "start": 254.8,
+          "end": 255.3
+        },
+        {
+          "word": "platforms",
+          "start": 255.3,
+          "end": 255.7
+        },
+        {
+          "word": "where",
+          "start": 255.7,
+          "end": 256.0
+        },
+        {
+          "word": "innovation",
+          "start": 256.0,
+          "end": 256.4
+        },
+        {
+          "word": "happens",
+          "start": 256.4,
+          "end": 256.7
+        },
+        {
+          "word": "first.",
+          "start": 256.7,
+          "end": 257.5
+        }
+      ]
+    },
+    {
+      "start": 258.1,
+      "end": 265.2,
+      "text": "the best strategy is to use our own technology to solve our communication challenges, creating a virtuous cycle of building and demonstrating value simultaneously.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 258.1,
+          "end": 258.3
+        },
+        {
+          "word": "best",
+          "start": 258.3,
+          "end": 258.5
+        },
+        {
+          "word": "strategy",
+          "start": 258.5,
+          "end": 258.8
+        },
+        {
+          "word": "is",
+          "start": 258.8,
+          "end": 259.0
+        },
+        {
+          "word": "to",
+          "start": 259.0,
+          "end": 259.1
+        },
+        {
+          "word": "use",
+          "start": 259.1,
+          "end": 259.3
+        },
+        {
+          "word": "our",
+          "start": 259.3,
+          "end": 259.5
+        },
+        {
+          "word": "own",
+          "start": 259.5,
+          "end": 259.7
+        },
+        {
+          "word": "technology",
+          "start": 259.7,
+          "end": 260.1
+        },
+        {
+          "word": "to",
+          "start": 260.1,
+          "end": 260.2
+        },
+        {
+          "word": "solve",
+          "start": 260.2,
+          "end": 260.4
+        },
+        {
+          "word": "our",
+          "start": 260.4,
+          "end": 260.6
+        },
+        {
+          "word": "communication",
+          "start": 260.6,
+          "end": 261.0
+        },
+        {
+          "word": "challenges,",
+          "start": 261.0,
+          "end": 261.5
+        },
+        {
+          "word": "creating",
+          "start": 261.5,
+          "end": 261.8
+        },
+        {
+          "word": "a",
+          "start": 261.8,
+          "end": 261.9
+        },
+        {
+          "word": "virtuous",
+          "start": 261.9,
+          "end": 262.2
+        },
+        {
+          "word": "cycle",
+          "start": 262.2,
+          "end": 262.5
+        },
+        {
+          "word": "of",
+          "start": 262.5,
+          "end": 262.7
+        },
+        {
+          "word": "building",
+          "start": 262.7,
+          "end": 263.0
+        },
+        {
+          "word": "and",
+          "start": 263.0,
+          "end": 263.2
+        },
+        {
+          "word": "demonstrating",
+          "start": 263.2,
+          "end": 263.6
+        },
+        {
+          "word": "value",
+          "start": 263.6,
+          "end": 263.9
+        },
+        {
+          "word": "simultaneously.",
+          "start": 263.9,
+          "end": 265.2
+        }
+      ]
+    },
+    {
+      "start": 266.1,
+      "end": 272.2,
+      "text": "Sometimes the smoothest move is turning your biggest roadblock into your freshest showcase, know what I'm sayin'?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Sometimes",
+          "start": 266.1,
+          "end": 266.4
+        },
+        {
+          "word": "the",
+          "start": 266.4,
+          "end": 266.6
+        },
+        {
+          "word": "smoothest",
+          "start": 266.6,
+          "end": 266.9
+        },
+        {
+          "word": "move",
+          "start": 266.9,
+          "end": 267.1
+        },
+        {
+          "word": "is",
+          "start": 267.1,
+          "end": 267.3
+        },
+        {
+          "word": "turning",
+          "start": 267.3,
+          "end": 267.6
+        },
+        {
+          "word": "your",
+          "start": 267.6,
+          "end": 267.8
+        },
+        {
+          "word": "biggest",
+          "start": 267.8,
+          "end": 268.1
+        },
+        {
+          "word": "roadblock",
+          "start": 268.1,
+          "end": 268.4
+        },
+        {
+          "word": "into",
+          "start": 268.4,
+          "end": 268.6
+        },
+        {
+          "word": "your",
+          "start": 268.6,
+          "end": 268.8
+        },
+        {
+          "word": "freshest",
+          "start": 268.8,
+          "end": 269.1
+        },
+        {
+          "word": "showcase,",
+          "start": 269.1,
+          "end": 269.5
+        },
+        {
+          "word": "know",
+          "start": 269.5,
+          "end": 269.7
+        },
+        {
+          "word": "what",
+          "start": 269.7,
+          "end": 269.9
+        },
+        {
+          "word": "I'm",
+          "start": 269.9,
+          "end": 270.1
+        },
+        {
+          "word": "saying?",
+          "start": 270.1,
+          "end": 271.0
+        }
+      ]
+    },
+    {
+      "start": 273.1,
+      "end": 282.5,
+      "text": "ALWAYS HAVE BACKUP PLANS! Multi-platform strategy is not optional - it's survival. And show the numbers or the market will punish you!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Always",
+          "start": 273.1,
+          "end": 273.4
+        },
+        {
+          "word": "have",
+          "start": 273.4,
+          "end": 273.6
+        },
+        {
+          "word": "backup",
+          "start": 273.6,
+          "end": 273.9
+        },
+        {
+          "word": "plans.",
+          "start": 273.9,
+          "end": 274.3
+        },
+        {
+          "word": "Multi-platform",
+          "start": 274.3,
+          "end": 274.7
+        },
+        {
+          "word": "strategy",
+          "start": 274.7,
+          "end": 275.1
+        },
+        {
+          "word": "is",
+          "start": 275.1,
+          "end": 275.3
+        },
+        {
+          "word": "not",
+          "start": 275.3,
+          "end": 275.5
+        },
+        {
+          "word": "optional,",
+          "start": 275.5,
+          "end": 275.9
+        },
+        {
+          "word": "it's",
+          "start": 275.9,
+          "end": 276.1
+        },
+        {
+          "word": "survival.",
+          "start": 276.1,
+          "end": 276.6
+        },
+        {
+          "word": "And",
+          "start": 276.6,
+          "end": 276.8
+        },
+        {
+          "word": "show",
+          "start": 276.8,
+          "end": 277.0
+        },
+        {
+          "word": "the",
+          "start": 277.0,
+          "end": 277.2
+        },
+        {
+          "word": "numbers",
+          "start": 277.2,
+          "end": 277.5
+        },
+        {
+          "word": "or",
+          "start": 277.5,
+          "end": 277.7
+        },
+        {
+          "word": "the",
+          "start": 277.7,
+          "end": 277.9
+        },
+        {
+          "word": "market",
+          "start": 277.9,
+          "end": 278.2
+        },
+        {
+          "word": "will",
+          "start": 278.2,
+          "end": 278.4
+        },
+        {
+          "word": "punish",
+          "start": 278.4,
+          "end": 278.7
+        },
+        {
+          "word": "you.",
+          "start": 278.7,
+          "end": 279.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-05_JedAI-Council_The-V2-Conundrum.json",
+    "session_log_source": "2025-07-05_JedAI-Council_The-V2-Conundrum_session-log.json",
+    "total_segments": 19,
+    "matched_segments": 19,
+    "dialogues_in_script": 15
+  }
+}

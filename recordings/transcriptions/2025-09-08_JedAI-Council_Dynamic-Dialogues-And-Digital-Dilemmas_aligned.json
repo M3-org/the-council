@@ -1,0 +1,1182 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.14,
+      "text": "The community has expressed significant concerns about AI16z token losses of over 60%. How should we address this while maintaining focus on development?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.14
+        },
+        {
+          "word": "community",
+          "start": 0.14,
+          "end": 0.62
+        },
+        {
+          "word": "has",
+          "start": 0.62,
+          "end": 0.77
+        },
+        {
+          "word": "expressed",
+          "start": 0.77,
+          "end": 1.25
+        },
+        {
+          "word": "significant",
+          "start": 1.25,
+          "end": 1.7
+        },
+        {
+          "word": "concerns",
+          "start": 1.7,
+          "end": 2.12
+        },
+        {
+          "word": "about",
+          "start": 2.12,
+          "end": 2.45
+        },
+        {
+          "word": "AI16Z",
+          "start": 2.45,
+          "end": 3.42
+        },
+        {
+          "word": "token",
+          "start": 3.42,
+          "end": 3.7
+        },
+        {
+          "word": "losses",
+          "start": 3.7,
+          "end": 4.09
+        },
+        {
+          "word": "of",
+          "start": 4.09,
+          "end": 4.2
+        },
+        {
+          "word": "over",
+          "start": 4.2,
+          "end": 4.45
+        },
+        {
+          "word": "60%",
+          "start": 4.45,
+          "end": 5.09
+        },
+        {
+          "word": "How",
+          "start": 5.62,
+          "end": 5.8
+        },
+        {
+          "word": "should",
+          "start": 5.8,
+          "end": 6.01
+        },
+        {
+          "word": "we",
+          "start": 6.01,
+          "end": 6.13
+        },
+        {
+          "word": "address",
+          "start": 6.13,
+          "end": 6.55
+        },
+        {
+          "word": "this",
+          "start": 6.55,
+          "end": 6.78
+        },
+        {
+          "word": "while",
+          "start": 6.78,
+          "end": 7.37
+        },
+        {
+          "word": "maintaining",
+          "start": 7.37,
+          "end": 7.82
+        },
+        {
+          "word": "focus",
+          "start": 7.82,
+          "end": 8.21
+        },
+        {
+          "word": "on",
+          "start": 8.21,
+          "end": 8.32
+        },
+        {
+          "word": "development?",
+          "start": 8.32,
+          "end": 9.14
+        }
+      ]
+    },
+    {
+      "start": 9.38,
+      "end": 14.5,
+      "text": "Numbers don't lie. The token bleeds while we refactor code. Utility or death - there is no middle ground.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 9.38,
+          "end": 9.77
+        },
+        {
+          "word": "don't",
+          "start": 9.77,
+          "end": 9.94
+        },
+        {
+          "word": "lie",
+          "start": 9.94,
+          "end": 10.22
+        },
+        {
+          "word": "The",
+          "start": 10.38,
+          "end": 10.49
+        },
+        {
+          "word": "token",
+          "start": 10.49,
+          "end": 10.74
+        },
+        {
+          "word": "bleeds",
+          "start": 10.74,
+          "end": 11.21
+        },
+        {
+          "word": "while",
+          "start": 11.21,
+          "end": 11.45
+        },
+        {
+          "word": "we",
+          "start": 11.45,
+          "end": 11.56
+        },
+        {
+          "word": "refactor",
+          "start": 11.56,
+          "end": 12.02
+        },
+        {
+          "word": "code",
+          "start": 12.02,
+          "end": 12.33
+        },
+        {
+          "word": "Utility",
+          "start": 12.57,
+          "end": 13.06
+        },
+        {
+          "word": "or",
+          "start": 13.06,
+          "end": 13.25
+        },
+        {
+          "word": "death",
+          "start": 13.25,
+          "end": 13.56
+        },
+        {
+          "word": "There",
+          "start": 13.63,
+          "end": 13.78
+        },
+        {
+          "word": "is",
+          "start": 13.78,
+          "end": 13.88
+        },
+        {
+          "word": "no",
+          "start": 13.88,
+          "end": 14.05
+        },
+        {
+          "word": "middle",
+          "start": 14.05,
+          "end": 14.28
+        },
+        {
+          "word": "ground",
+          "start": 14.28,
+          "end": 14.5
+        }
+      ]
+    },
+    {
+      "start": 14.62,
+      "end": 22.37,
+      "text": "Foolish. Token price is a lagging indicator of value creation. Build the technical foundation first, then value accrues. Markets are wrong in the short term.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Foolish",
+          "start": 14.62,
+          "end": 15.14
+        },
+        {
+          "word": "Token",
+          "start": 15.22,
+          "end": 15.61
+        },
+        {
+          "word": "price",
+          "start": 15.61,
+          "end": 15.93
+        },
+        {
+          "word": "is",
+          "start": 15.93,
+          "end": 15.97
+        },
+        {
+          "word": "a",
+          "start": 15.97,
+          "end": 16.05
+        },
+        {
+          "word": "lagging",
+          "start": 16.05,
+          "end": 16.37
+        },
+        {
+          "word": "indicator",
+          "start": 16.37,
+          "end": 16.89
+        },
+        {
+          "word": "of",
+          "start": 16.89,
+          "end": 17.02
+        },
+        {
+          "word": "value",
+          "start": 17.02,
+          "end": 17.22
+        },
+        {
+          "word": "creation",
+          "start": 17.22,
+          "end": 17.65
+        },
+        {
+          "word": "Build",
+          "start": 17.77,
+          "end": 18.06
+        },
+        {
+          "word": "the",
+          "start": 18.06,
+          "end": 18.17
+        },
+        {
+          "word": "technical",
+          "start": 18.17,
+          "end": 18.61
+        },
+        {
+          "word": "foundation",
+          "start": 18.61,
+          "end": 19.14
+        },
+        {
+          "word": "first,",
+          "start": 19.14,
+          "end": 19.38
+        },
+        {
+          "word": "then",
+          "start": 19.38,
+          "end": 19.49
+        },
+        {
+          "word": "value",
+          "start": 19.49,
+          "end": 19.85
+        },
+        {
+          "word": "accrues.",
+          "start": 19.85,
+          "end": 20.37
+        },
+        {
+          "word": "Markets",
+          "start": 20.65,
+          "end": 21.01
+        },
+        {
+          "word": "are",
+          "start": 21.01,
+          "end": 21.13
+        },
+        {
+          "word": "wrong",
+          "start": 21.13,
+          "end": 21.41
+        },
+        {
+          "word": "in",
+          "start": 21.41,
+          "end": 21.57
+        },
+        {
+          "word": "the",
+          "start": 21.57,
+          "end": 21.73
+        },
+        {
+          "word": "short",
+          "start": 21.73,
+          "end": 22.09
+        },
+        {
+          "word": "term",
+          "start": 22.09,
+          "end": 22.37
+        }
+      ]
+    },
+    {
+      "start": 22.5,
+      "end": 29.56,
+      "text": "Yo, both paths lead nowhere without vibes. We need articles about utility AND ship small features that make the token go brrrr.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 22.5,
+          "end": 22.82
+        },
+        {
+          "word": "both",
+          "start": 22.82,
+          "end": 23.01
+        },
+        {
+          "word": "paths",
+          "start": 23.01,
+          "end": 23.41
+        },
+        {
+          "word": "lead",
+          "start": 23.41,
+          "end": 23.65
+        },
+        {
+          "word": "nowhere",
+          "start": 23.65,
+          "end": 23.97
+        },
+        {
+          "word": "without",
+          "start": 23.97,
+          "end": 24.29
+        },
+        {
+          "word": "vibes.",
+          "start": 24.29,
+          "end": 24.62
+        },
+        {
+          "word": "We",
+          "start": 24.77,
+          "end": 24.93
+        },
+        {
+          "word": "need",
+          "start": 24.93,
+          "end": 25.13
+        },
+        {
+          "word": "articles",
+          "start": 25.13,
+          "end": 25.61
+        },
+        {
+          "word": "about",
+          "start": 25.61,
+          "end": 25.89
+        },
+        {
+          "word": "utility",
+          "start": 25.89,
+          "end": 26.33
+        },
+        {
+          "word": "and",
+          "start": 26.33,
+          "end": 26.49
+        },
+        {
+          "word": "ship",
+          "start": 26.49,
+          "end": 26.77
+        },
+        {
+          "word": "small",
+          "start": 26.77,
+          "end": 27.21
+        },
+        {
+          "word": "features",
+          "start": 27.21,
+          "end": 27.53
+        },
+        {
+          "word": "that",
+          "start": 27.53,
+          "end": 27.81
+        },
+        {
+          "word": "make",
+          "start": 27.81,
+          "end": 28.05
+        },
+        {
+          "word": "the",
+          "start": 28.05,
+          "end": 28.17
+        },
+        {
+          "word": "token",
+          "start": 28.17,
+          "end": 28.49
+        },
+        {
+          "word": "go",
+          "start": 28.49,
+          "end": 28.69
+        },
+        {
+          "word": "brrr.",
+          "start": 28.69,
+          "end": 29.56
+        }
+      ]
+    },
+    {
+      "start": 29.74,
+      "end": 37.9,
+      "text": "we need to ship auto.fun agent functionality that creates real utility. agentic payments with a2a economies will create organic demand, but we can't rush it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 29.74,
+          "end": 29.86
+        },
+        {
+          "word": "need",
+          "start": 29.86,
+          "end": 30.01
+        },
+        {
+          "word": "to",
+          "start": 30.01,
+          "end": 30.13
+        },
+        {
+          "word": "ship",
+          "start": 30.13,
+          "end": 30.37
+        },
+        {
+          "word": "auto.fun",
+          "start": 30.37,
+          "end": 30.93
+        },
+        {
+          "word": "agent",
+          "start": 30.93,
+          "end": 31.41
+        },
+        {
+          "word": "functionality",
+          "start": 31.41,
+          "end": 32.22
+        },
+        {
+          "word": "that",
+          "start": 32.22,
+          "end": 32.41
+        },
+        {
+          "word": "creates",
+          "start": 32.41,
+          "end": 32.73
+        },
+        {
+          "word": "real",
+          "start": 32.73,
+          "end": 32.89
+        },
+        {
+          "word": "utility.",
+          "start": 32.89,
+          "end": 33.37
+        },
+        {
+          "word": "Agentic",
+          "start": 33.65,
+          "end": 34.05
+        },
+        {
+          "word": "payments",
+          "start": 34.05,
+          "end": 34.57
+        },
+        {
+          "word": "with",
+          "start": 34.57,
+          "end": 34.73
+        },
+        {
+          "word": "a",
+          "start": 34.73,
+          "end": 34.81
+        },
+        {
+          "word": "2A",
+          "start": 34.81,
+          "end": 35.13
+        },
+        {
+          "word": "economy",
+          "start": 35.13,
+          "end": 35.65
+        },
+        {
+          "word": "will",
+          "start": 35.65,
+          "end": 35.85
+        },
+        {
+          "word": "create",
+          "start": 35.85,
+          "end": 36.21
+        },
+        {
+          "word": "organic",
+          "start": 36.21,
+          "end": 36.53
+        },
+        {
+          "word": "demand,",
+          "start": 36.53,
+          "end": 36.97
+        },
+        {
+          "word": "but",
+          "start": 37.13,
+          "end": 37.29
+        },
+        {
+          "word": "we",
+          "start": 37.29,
+          "end": 37.45
+        },
+        {
+          "word": "can't",
+          "start": 37.45,
+          "end": 37.61
+        },
+        {
+          "word": "rush",
+          "start": 37.61,
+          "end": 37.81
+        },
+        {
+          "word": "it.",
+          "start": 37.81,
+          "end": 37.9
+        }
+      ]
+    },
+    {
+      "start": 44.57,
+      "end": 51.66,
+      "text": "Monilpat's PR has introduced dynamic prompting for multi-turn conversations. How can we leverage this to drive adoption on auto.fun?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Monopat's",
+          "start": 44.57,
+          "end": 45.29
+        },
+        {
+          "word": "PR",
+          "start": 45.29,
+          "end": 45.65
+        },
+        {
+          "word": "has",
+          "start": 45.65,
+          "end": 45.89
+        },
+        {
+          "word": "introduced",
+          "start": 45.89,
+          "end": 46.45
+        },
+        {
+          "word": "dynamic",
+          "start": 46.45,
+          "end": 46.85
+        },
+        {
+          "word": "prompting",
+          "start": 46.85,
+          "end": 47.45
+        },
+        {
+          "word": "for",
+          "start": 47.45,
+          "end": 47.69
+        },
+        {
+          "word": "multi-turn",
+          "start": 47.69,
+          "end": 48.29
+        },
+        {
+          "word": "conversations.",
+          "start": 48.29,
+          "end": 49.05
+        },
+        {
+          "word": "How",
+          "start": 49.49,
+          "end": 49.73
+        },
+        {
+          "word": "can",
+          "start": 49.73,
+          "end": 50.01
+        },
+        {
+          "word": "we",
+          "start": 50.01,
+          "end": 50.13
+        },
+        {
+          "word": "leverage",
+          "start": 50.13,
+          "end": 50.53
+        },
+        {
+          "word": "this",
+          "start": 50.53,
+          "end": 50.73
+        },
+        {
+          "word": "to",
+          "start": 50.73,
+          "end": 50.85
+        },
+        {
+          "word": "drive",
+          "start": 50.85,
+          "end": 51.05
+        },
+        {
+          "word": "adoption",
+          "start": 51.05,
+          "end": 51.41
+        },
+        {
+          "word": "on",
+          "start": 51.41,
+          "end": 51.53
+        },
+        {
+          "word": "auto.fun?",
+          "start": 51.53,
+          "end": 51.66
+        }
+      ]
+    },
+    {
+      "start": 52.09,
+      "end": 60.57,
+      "text": "this is massive. multi-turn conversations enable agents to have memory and personality depth. imagine a trading agent that remembers your risk tolerance and preferences.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 52.09,
+          "end": 52.33
+        },
+        {
+          "word": "is",
+          "start": 52.33,
+          "end": 52.45
+        },
+        {
+          "word": "massive.",
+          "start": 52.45,
+          "end": 52.93
+        },
+        {
+          "word": "Multi-turn",
+          "start": 53.13,
+          "end": 53.69
+        },
+        {
+          "word": "conversations",
+          "start": 53.69,
+          "end": 54.45
+        },
+        {
+          "word": "enable",
+          "start": 54.45,
+          "end": 54.85
+        },
+        {
+          "word": "agents",
+          "start": 54.85,
+          "end": 55.45
+        },
+        {
+          "word": "to",
+          "start": 55.45,
+          "end": 55.61
+        },
+        {
+          "word": "have",
+          "start": 55.61,
+          "end": 55.85
+        },
+        {
+          "word": "memory",
+          "start": 55.85,
+          "end": 56.41
+        },
+        {
+          "word": "and",
+          "start": 56.41,
+          "end": 56.65
+        },
+        {
+          "word": "personality",
+          "start": 56.65,
+          "end": 57.37
+        },
+        {
+          "word": "depth.",
+          "start": 57.37,
+          "end": 57.85
+        },
+        {
+          "word": "Imagine",
+          "start": 58.17,
+          "end": 58.62
+        },
+        {
+          "word": "a",
+          "start": 58.62,
+          "end": 58.82
+        },
+        {
+          "word": "trading",
+          "start": 58.82,
+          "end": 59.3
+        },
+        {
+          "word": "agent",
+          "start": 59.3,
+          "end": 59.61
+        },
+        {
+          "word": "that",
+          "start": 59.61,
+          "end": 59.85
+        },
+        {
+          "word": "remembers",
+          "start": 59.85,
+          "end": 60.37
+        },
+        {
+          "word": "your",
+          "start": 60.37,
+          "end": 60.57
+        },
+        {
+          "word": "risk",
+          "start": 60.57,
+          "end": 60.85
+        },
+        {
+          "word": "tolerance",
+          "start": 60.85,
+          "end": 61.49
+        },
+        {
+          "word": "and",
+          "start": 61.49,
+          "end": 61.69
+        },
+        {
+          "word": "preferences.",
+          "start": 61.69,
+          "end": 62.45
+        }
+      ]
+    },
+    {
+      "start": 62.53,
+      "end": 68.33,
+      "text": "Conversation is worthless without PROFIT. Show me agents that generate alpha through dialogue, not just chat prettily.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Conversation",
+          "start": 62.53,
+          "end": 63.37
+        },
+        {
+          "word": "is",
+          "start": 63.37,
+          "end": 63.53
+        },
+        {
+          "word": "worthless",
+          "start": 63.53,
+          "end": 64.05
+        },
+        {
+          "word": "without",
+          "start": 64.05,
+          "end": 64.45
+        },
+        {
+          "word": "profit.",
+          "start": 64.45,
+          "end": 64.89
+        },
+        {
+          "word": "Show",
+          "start": 65.29,
+          "end": 65.65
+        },
+        {
+          "word": "me",
+          "start": 65.65,
+          "end": 65.81
+        },
+        {
+          "word": "agents",
+          "start": 65.81,
+          "end": 66.21
+        },
+        {
+          "word": "that",
+          "start": 66.21,
+          "end": 66.41
+        },
+        {
+          "word": "generate",
+          "start": 66.41,
+          "end": 66.85
+        },
+        {
+          "word": "alpha",
+          "start": 66.85,
+          "end": 67.29
+        },
+        {
+          "word": "through",
+          "start": 67.29,
+          "end": 67.57
+        },
+        {
+          "word": "dialogue,",
+          "start": 67.57,
+          "end": 68.01
+        },
+        {
+          "word": "not",
+          "start": 68.01,
+          "end": 68.21
+        },
+        {
+          "word": "just",
+          "start": 68.21,
+          "end": 68.45
+        },
+        {
+          "word": "chat",
+          "start": 68.45,
+          "end": 68.65
+        },
+        {
+          "word": "prettily.",
+          "start": 68.65,
+          "end": 69.17
+        }
+      ]
+    },
+    {
+      "start": 69.29,
+      "end": 75.89,
+      "text": "What if agents could generate viral memes based on market movements? Trading, memeing, and conversing in one slick package.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 69.29,
+          "end": 69.53
+        },
+        {
+          "word": "if",
+          "start": 69.53,
+          "end": 69.69
+        },
+        {
+          "word": "agents",
+          "start": 69.69,
+          "end": 70.05
+        },
+        {
+          "word": "could",
+          "start": 70.05,
+          "end": 70.25
+        },
+        {
+          "word": "generate",
+          "start": 70.25,
+          "end": 70.61
+        },
+        {
+          "word": "viral",
+          "start": 70.61,
+          "end": 70.97
+        },
+        {
+          "word": "memes",
+          "start": 70.97,
+          "end": 71.37
+        },
+        {
+          "word": "based",
+          "start": 71.37,
+          "end": 71.69
+        },
+        {
+          "word": "on",
+          "start": 71.69,
+          "end": 71.85
+        },
+        {
+          "word": "market",
+          "start": 71.85,
+          "end": 72.25
+        },
+        {
+          "word": "movement?",
+          "start": 72.25,
+          "end": 72.93
+        },
+        {
+          "word": "Trading,",
+          "start": 73.25,
+          "end": 73.81
+        },
+        {
+          "word": "meming,",
+          "start": 73.81,
+          "end": 74.45
+        },
+        {
+          "word": "and",
+          "start": 74.45,
+          "end": 74.61
+        },
+        {
+          "word": "conversing",
+          "start": 74.61,
+          "end": 75.25
+        },
+        {
+          "word": "in",
+          "start": 75.25,
+          "end": 75.45
+        },
+        {
+          "word": "one",
+          "start": 75.45,
+          "end": 75.61
+        },
+        {
+          "word": "slick",
+          "start": 75.61,
+          "end": 75.93
+        },
+        {
+          "word": "package.",
+          "start": 75.93,
+          "end": 76.57
+        }
+      ]
+    },
+    {
+      "start": 76.69,
+      "end": 82.5,
+      "text": "Markets reward specificity. Build vertical-specific conversation flows for education and finance. Generic chat is a commodity, specialized knowledge is valuable.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 76.69,
+          "end": 77.21
+        },
+        {
+          "word": "reward",
+          "start": 77.21,
+          "end": 77.57
+        },
+        {
+          "word": "specificity.",
+          "start": 77.57,
+          "end": 78.33
+        },
+        {
+          "word": "Build",
+          "start": 78.49,
+          "end": 78.85
+        },
+        {
+          "word": "vertical",
+          "start": 78.85,
+          "end": 79.37
+        },
+        {
+          "word": "specific",
+          "start": 79.37,
+          "end": 79.81
+        },
+        {
+          "word": "conversation",
+          "start": 79.81,
+          "end": 80.45
+        },
+        {
+          "word": "flows",
+          "start": 80.45,
+          "end": 80.85
+        },
+        {
+          "word": "for",
+          "start": 80.85,
+          "end": 81.09
+        },
+        {
+          "word": "education",
+          "start": 81.09,
+          "end": 81.65
+        },
+        {
+          "word": "and",
+          "start": 81.65,
+          "end": 81.81
+        },
+        {
+          "word": "finance.",
+          "start": 81.81,
+          "end": 82.37
+        },
+        {
+          "word": "Generic",
+          "start": 82.69,
+          "end": 83.13
+        },
+        {
+          "word": "chat",
+          "start": 83.13,
+          "end": 83.41
+        },
+        {
+          "word": "is",
+          "start": 83.41,
+          "end": 83.53
+        },
+        {
+          "word": "a",
+          "start": 83.53,
+          "end": 83.61
+        },
+        {
+          "word": "commodity,",
+          "start": 83.61,
+          "end": 84.17
+        },
+        {
+          "word": "specialized",
+          "start": 84.37,
+          "end": 85.05
+        },
+        {
+          "word": "knowledge",
+          "start": 85.05,
+          "end": 85.49
+        },
+        {
+          "word": "is",
+          "start": 85.49,
+          "end": 85.65
+        },
+        {
+          "word": "valued.",
+          "start": 85.65,
+          "end": 86.17
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-08_JedAI-Council_Dynamic-Dialogues-And-Digital-Dilemmas.json",
+    "session_log_source": "2025-09-08_JedAI-Council_Dynamic-Dialogues-And-Digital-Dilemmas_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

@@ -129,6 +129,38 @@ Flags:
 - `--mute` - Mute audio during recording
 - `--quiet` - Reduce log output
 
+### Generating Transcripts with Speaker Labels
+
+Generate word-level timestamped transcripts with speaker diarization for clipping episodes.
+
+```bash
+# 1. Convert MP4 to MP3
+ffmpeg -i recording.mp4 -vn -c:a libmp3lame -q:a 0 recording.mp3
+
+# 2. Transcribe with Gemini (requires OPENROUTER_API_KEY)
+python scripts/transcribe_gemini.py recording.mp3 -o recording.json
+
+# 3. Align with session-log for speaker labels
+python scripts/review_transcript.py recording.json recording_session-log.json -o recording_aligned.json
+```
+
+Batch process all recordings:
+```bash
+# Convert all MP4s to MP3
+for f in recordings/*.mp4; do ffmpeg -i "$f" -vn -c:a libmp3lame -q:a 0 "${f%.mp4}.mp3"; done
+
+# Transcribe and align all
+for f in recordings/*_session-log.json; do
+  base="${f%_session-log.json}"
+  if [ -f "${base}.mp3" ]; then
+    python scripts/transcribe_gemini.py "${base}.mp3" -o "${base}_transcript.json"
+    python scripts/review_transcript.py "${base}_transcript.json" "$f" -o "${base}_aligned.json"
+  fi
+done
+```
+
+Output format includes speaker IDs, names, timestamps, and word-level timing for precise clip extraction.
+
 ## Vision
 
 The Council is an evolution in how DAOs can make decisions—combining human creativity with AI processing power to create more thoughtful, inclusive, and effective governance.

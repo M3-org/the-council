@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/09/episode-5742-featured-1758081691.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/09/episode-5742-featured-1758081691-150x150.png",
+  "premise": "The council debates the implications of ElizaOS 2.0's imminent release and the emerging agent economy.",
+  "scenes": [
+    {
+      "description": "The council debates the priorities for ElizaOS 2.0 release",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council contemplates the emerging agent economy and Google's AP2 protocol",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their insights on ElizaOS 2.0 and the agent economy",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

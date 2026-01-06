@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/09/episode-5727-featured-1757824444.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/09/episode-5727-featured-1757824444-150x150.png",
+  "premise": "The council debates the future of elizaOS 2.0 as browser-based implementation gains momentum.",
+  "scenes": [
+    {
+      "description": "The council debates the architectural future of elizaOS 2.0",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council addresses security concerns and voice technology options",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their wisdom on elizaOS 2.0's future",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

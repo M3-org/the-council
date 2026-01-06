@@ -1,0 +1,66 @@
+{
+  "id": "S1E2",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4620-featured-1748384522.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4620-featured-1748384522-150x150.png",
+  "premise": "The council evaluates threats from new AI agent platforms while debating whether to emphasize ElizaOS's unique crypto integration features or pivot toward broader use cases.",
+  "scenes": [
+    {
+      "description": "The council debates their competitive positioning amid rapid advancements from established AI players",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "peepo",
+        "east_pod": "elizahost",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council finds consensus on leveraging their ecosystem's unique strengths while addressing community confusion",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "peepo",
+        "east_pod": "elizahost",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their conclusions about ElizaOS's competitive positioning in the AI agent landscape",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "peepo",
+        "east_pod": "elizahost",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

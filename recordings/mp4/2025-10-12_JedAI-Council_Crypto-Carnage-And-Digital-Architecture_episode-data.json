@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/10/episode-5849-featured-1760242026.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/10/episode-5849-featured-1760242026-150x150.png",
+  "premise": "The JedAI Council convenes to discuss the recent market downturn, database architecture decisions, and the upcoming token migration in the wake of the largest liquidation event in crypto history.",
+  "scenes": [
+    {
+      "description": "The council members discuss the recent market crash and token migration strategy",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council debates database architecture philosophy for scaling ElizaOS",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their wisdom on navigating market volatility and technical development",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

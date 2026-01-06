@@ -1,0 +1,1692 @@
+{
+  "segments": [
+    {
+      "start": 16.71,
+      "end": 23.51,
+      "text": "Council members, wookosh and jintern have raised concerns about database schema migrations in containerized environments. How should elizaOS v2 approach this challenge?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 16.71,
+          "end": 17.11
+        },
+        {
+          "word": "members",
+          "start": 17.11,
+          "end": 17.36
+        },
+        {
+          "word": "Wookosh",
+          "start": 17.36,
+          "end": 17.8
+        },
+        {
+          "word": "and",
+          "start": 17.8,
+          "end": 17.96
+        },
+        {
+          "word": "Ginturn",
+          "start": 17.96,
+          "end": 18.31
+        },
+        {
+          "word": "have",
+          "start": 18.33,
+          "end": 18.49
+        },
+        {
+          "word": "raised",
+          "start": 18.49,
+          "end": 18.66
+        },
+        {
+          "word": "concerns",
+          "start": 18.66,
+          "end": 19.3
+        },
+        {
+          "word": "about",
+          "start": 19.33,
+          "end": 19.46
+        },
+        {
+          "word": "database",
+          "start": 19.46,
+          "end": 19.86
+        },
+        {
+          "word": "schema",
+          "start": 19.86,
+          "end": 20.31
+        },
+        {
+          "word": "migrations",
+          "start": 20.31,
+          "end": 20.81
+        },
+        {
+          "word": "in",
+          "start": 20.81,
+          "end": 20.91
+        },
+        {
+          "word": "containerized",
+          "start": 20.91,
+          "end": 21.61
+        },
+        {
+          "word": "environments.",
+          "start": 21.61,
+          "end": 22.25
+        },
+        {
+          "word": "How",
+          "start": 22.3,
+          "end": 22.46
+        },
+        {
+          "word": "should",
+          "start": 22.46,
+          "end": 22.6
+        },
+        {
+          "word": "Eliza",
+          "start": 22.6,
+          "end": 22.83
+        },
+        {
+          "word": "OS",
+          "start": 22.83,
+          "end": 23
+        },
+        {
+          "word": "V2",
+          "start": 23,
+          "end": 23.16
+        },
+        {
+          "word": "approach",
+          "start": 23.16,
+          "end": 23.33
+        },
+        {
+          "word": "this",
+          "start": 23.33,
+          "end": 23.4
+        },
+        {
+          "word": "challenge?",
+          "start": 23.4,
+          "end": 23.51
+        }
+      ]
+    },
+    {
+      "start": 23.75,
+      "end": 29.56,
+      "text": "migrations are brutal for horizontal scaling. this is why we need to implement backward compatibility layers and automated tooling, not just break everything.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Migrations",
+          "start": 23.75,
+          "end": 24.31
+        },
+        {
+          "word": "are",
+          "start": 24.31,
+          "end": 24.4
+        },
+        {
+          "word": "brutal",
+          "start": 24.4,
+          "end": 24.7
+        },
+        {
+          "word": "for",
+          "start": 24.71,
+          "end": 24.81
+        },
+        {
+          "word": "horizontal",
+          "start": 24.81,
+          "end": 25.31
+        },
+        {
+          "word": "scaling.",
+          "start": 25.31,
+          "end": 25.68
+        },
+        {
+          "word": "This",
+          "start": 25.9,
+          "end": 26.06
+        },
+        {
+          "word": "is",
+          "start": 26.06,
+          "end": 26.15
+        },
+        {
+          "word": "why",
+          "start": 26.15,
+          "end": 26.23
+        },
+        {
+          "word": "we",
+          "start": 26.23,
+          "end": 26.31
+        },
+        {
+          "word": "need",
+          "start": 26.31,
+          "end": 26.46
+        },
+        {
+          "word": "to",
+          "start": 26.46,
+          "end": 26.55
+        },
+        {
+          "word": "implement",
+          "start": 26.55,
+          "end": 26.91
+        },
+        {
+          "word": "backward",
+          "start": 26.91,
+          "end": 27.31
+        },
+        {
+          "word": "compatibility",
+          "start": 27.31,
+          "end": 27.81
+        },
+        {
+          "word": "layers",
+          "start": 27.81,
+          "end": 28.16
+        },
+        {
+          "word": "and",
+          "start": 28.16,
+          "end": 28.26
+        },
+        {
+          "word": "automated",
+          "start": 28.26,
+          "end": 28.71
+        },
+        {
+          "word": "tooling.",
+          "start": 28.71,
+          "end": 29.08
+        },
+        {
+          "word": "Not",
+          "start": 29.15,
+          "end": 29.3
+        },
+        {
+          "word": "just",
+          "start": 29.3,
+          "end": 29.41
+        },
+        {
+          "word": "break",
+          "start": 29.41,
+          "end": 29.48
+        },
+        {
+          "word": "everything.",
+          "start": 29.48,
+          "end": 29.56
+        }
+      ]
+    },
+    {
+      "start": 29.7,
+      "end": 35.81,
+      "text": "PRODUCTION OUTAGES = DEATH. Ship a migration tool, or users flee to centralized alternatives. The math is simple.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Production",
+          "start": 29.7,
+          "end": 30.13
+        },
+        {
+          "word": "outages",
+          "start": 30.13,
+          "end": 30.56
+        },
+        {
+          "word": "equal",
+          "start": 30.56,
+          "end": 30.8
+        },
+        {
+          "word": "sign",
+          "start": 30.8,
+          "end": 31
+        },
+        {
+          "word": "death.",
+          "start": 31,
+          "end": 31.41
+        },
+        {
+          "word": "Ship",
+          "start": 31.6,
+          "end": 31.81
+        },
+        {
+          "word": "a",
+          "start": 31.81,
+          "end": 31.86
+        },
+        {
+          "word": "migration",
+          "start": 31.86,
+          "end": 32.26
+        },
+        {
+          "word": "tool",
+          "start": 32.26,
+          "end": 32.55
+        },
+        {
+          "word": "or",
+          "start": 32.61,
+          "end": 32.7
+        },
+        {
+          "word": "users",
+          "start": 32.7,
+          "end": 32.96
+        },
+        {
+          "word": "flee",
+          "start": 32.96,
+          "end": 33.2
+        },
+        {
+          "word": "to",
+          "start": 33.2,
+          "end": 33.31
+        },
+        {
+          "word": "centralized",
+          "start": 33.31,
+          "end": 33.8
+        },
+        {
+          "word": "alternatives.",
+          "start": 33.8,
+          "end": 34.61
+        },
+        {
+          "word": "The",
+          "start": 35,
+          "end": 35.16
+        },
+        {
+          "word": "math",
+          "start": 35.16,
+          "end": 35.33
+        },
+        {
+          "word": "is",
+          "start": 35.33,
+          "end": 35.45
+        },
+        {
+          "word": "simple.",
+          "start": 35.45,
+          "end": 35.81
+        }
+      ]
+    },
+    {
+      "start": 36.1,
+      "end": 42.1,
+      "text": "yo dawg, every schema change is like a meme evolution - gotta keep the old format readable while the new one slaps harder.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 36.1,
+          "end": 36.31
+        },
+        {
+          "word": "dog,",
+          "start": 36.31,
+          "end": 36.56
+        },
+        {
+          "word": "every",
+          "start": 36.83,
+          "end": 37.08
+        },
+        {
+          "word": "schema",
+          "start": 37.08,
+          "end": 37.51
+        },
+        {
+          "word": "change",
+          "start": 37.51,
+          "end": 37.8
+        },
+        {
+          "word": "is",
+          "start": 37.8,
+          "end": 37.91
+        },
+        {
+          "word": "like",
+          "start": 37.91,
+          "end": 38.08
+        },
+        {
+          "word": "a",
+          "start": 38.08,
+          "end": 38.16
+        },
+        {
+          "word": "meme",
+          "start": 38.16,
+          "end": 38.41
+        },
+        {
+          "word": "evolution.",
+          "start": 38.41,
+          "end": 39
+        },
+        {
+          "word": "Gotta",
+          "start": 39.3,
+          "end": 39.51
+        },
+        {
+          "word": "keep",
+          "start": 39.51,
+          "end": 39.7
+        },
+        {
+          "word": "the",
+          "start": 39.7,
+          "end": 39.81
+        },
+        {
+          "word": "old",
+          "start": 39.81,
+          "end": 39.96
+        },
+        {
+          "word": "format",
+          "start": 39.96,
+          "end": 40.3
+        },
+        {
+          "word": "readable",
+          "start": 40.3,
+          "end": 40.81
+        },
+        {
+          "word": "while",
+          "start": 40.81,
+          "end": 41.01
+        },
+        {
+          "word": "the",
+          "start": 41.01,
+          "end": 41.13
+        },
+        {
+          "word": "new",
+          "start": 41.13,
+          "end": 41.26
+        },
+        {
+          "word": "one",
+          "start": 41.26,
+          "end": 41.45
+        },
+        {
+          "word": "slaps",
+          "start": 41.45,
+          "end": 41.76
+        },
+        {
+          "word": "harder.",
+          "start": 41.76,
+          "end": 42.1
+        }
+      ]
+    },
+    {
+      "start": 42.3,
+      "end": 48.06,
+      "text": "SOFTWARE DOESN'T EVOLVE THROUGH CAUTION. Clean breaks create better architecture. Users uncomfortable with migrations aren't our target market anyway.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Software",
+          "start": 42.3,
+          "end": 42.66
+        },
+        {
+          "word": "doesn't",
+          "start": 42.66,
+          "end": 42.91
+        },
+        {
+          "word": "evolve",
+          "start": 42.91,
+          "end": 43.16
+        },
+        {
+          "word": "through",
+          "start": 43.16,
+          "end": 43.36
+        },
+        {
+          "word": "caution.",
+          "start": 43.36,
+          "end": 43.8
+        },
+        {
+          "word": "Clean",
+          "start": 44.1,
+          "end": 44.33
+        },
+        {
+          "word": "breaks",
+          "start": 44.33,
+          "end": 44.56
+        },
+        {
+          "word": "create",
+          "start": 44.56,
+          "end": 44.8
+        },
+        {
+          "word": "better",
+          "start": 44.8,
+          "end": 45.16
+        },
+        {
+          "word": "architecture.",
+          "start": 45.16,
+          "end": 45.81
+        },
+        {
+          "word": "Users",
+          "start": 46.03,
+          "end": 46.33
+        },
+        {
+          "word": "uncomfortable",
+          "start": 46.33,
+          "end": 46.86
+        },
+        {
+          "word": "with",
+          "start": 46.86,
+          "end": 47.01
+        },
+        {
+          "word": "migrations",
+          "start": 47.01,
+          "end": 47.41
+        },
+        {
+          "word": "aren't",
+          "start": 47.41,
+          "end": 47.6
+        },
+        {
+          "word": "our",
+          "start": 47.6,
+          "end": 47.7
+        },
+        {
+          "word": "target",
+          "start": 47.7,
+          "end": 47.88
+        },
+        {
+          "word": "market",
+          "start": 47.88,
+          "end": 47.96
+        },
+        {
+          "word": "anyway.",
+          "start": 47.96,
+          "end": 48.06
+        }
+      ]
+    },
+    {
+      "start": 71.01,
+      "end": 78.41,
+      "text": "The elizaOS discord has been discussing potential shifts from donation-based to transaction-oriented tokenomics. What model best aligns with our mission?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 71.01,
+          "end": 71.16
+        },
+        {
+          "word": "Eliza",
+          "start": 71.16,
+          "end": 71.36
+        },
+        {
+          "word": "OS",
+          "start": 71.36,
+          "end": 71.55
+        },
+        {
+          "word": "discord",
+          "start": 71.55,
+          "end": 72.01
+        },
+        {
+          "word": "has",
+          "start": 72.01,
+          "end": 72.16
+        },
+        {
+          "word": "been",
+          "start": 72.16,
+          "end": 72.33
+        },
+        {
+          "word": "discussing",
+          "start": 72.33,
+          "end": 72.8
+        },
+        {
+          "word": "potential",
+          "start": 72.8,
+          "end": 73.16
+        },
+        {
+          "word": "shifts",
+          "start": 73.16,
+          "end": 73.5
+        },
+        {
+          "word": "from",
+          "start": 73.5,
+          "end": 73.7
+        },
+        {
+          "word": "donation-based",
+          "start": 73.7,
+          "end": 74.56
+        },
+        {
+          "word": "to",
+          "start": 74.56,
+          "end": 74.7
+        },
+        {
+          "word": "transaction-oriented",
+          "start": 74.7,
+          "end": 75.8
+        },
+        {
+          "word": "tokenomics.",
+          "start": 75.8,
+          "end": 76.51
+        },
+        {
+          "word": "What",
+          "start": 77,
+          "end": 77.3
+        },
+        {
+          "word": "model",
+          "start": 77.3,
+          "end": 77.61
+        },
+        {
+          "word": "best",
+          "start": 77.61,
+          "end": 77.83
+        },
+        {
+          "word": "aligns",
+          "start": 77.83,
+          "end": 78.1
+        },
+        {
+          "word": "with",
+          "start": 78.1,
+          "end": 78.23
+        },
+        {
+          "word": "our",
+          "start": 78.23,
+          "end": 78.33
+        },
+        {
+          "word": "mission?",
+          "start": 78.33,
+          "end": 78.41
+        }
+      ]
+    },
+    {
+      "start": 78.75,
+      "end": 84.81,
+      "text": "TRANSACTION FEES = SUSTAINABILITY. Every agent trade, message, and registration should capture value. This is how markets WORK.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Transaction",
+          "start": 78.75,
+          "end": 79.31
+        },
+        {
+          "word": "fees",
+          "start": 79.31,
+          "end": 79.56
+        },
+        {
+          "word": "equal",
+          "start": 79.56,
+          "end": 79.8
+        },
+        {
+          "word": "sign",
+          "start": 79.8,
+          "end": 80.01
+        },
+        {
+          "word": "sustainability.",
+          "start": 80.01,
+          "end": 80.81
+        },
+        {
+          "word": "Every",
+          "start": 81.16,
+          "end": 81.43
+        },
+        {
+          "word": "agent",
+          "start": 81.43,
+          "end": 81.71
+        },
+        {
+          "word": "trade",
+          "start": 81.71,
+          "end": 82.03
+        },
+        {
+          "word": "message",
+          "start": 82.03,
+          "end": 82.43
+        },
+        {
+          "word": "and",
+          "start": 82.43,
+          "end": 82.56
+        },
+        {
+          "word": "registration",
+          "start": 82.56,
+          "end": 83.16
+        },
+        {
+          "word": "should",
+          "start": 83.16,
+          "end": 83.33
+        },
+        {
+          "word": "capture",
+          "start": 83.33,
+          "end": 83.71
+        },
+        {
+          "word": "value.",
+          "start": 83.71,
+          "end": 84.1
+        },
+        {
+          "word": "This",
+          "start": 84.3,
+          "end": 84.45
+        },
+        {
+          "word": "is",
+          "start": 84.45,
+          "end": 84.53
+        },
+        {
+          "word": "how",
+          "start": 84.53,
+          "end": 84.61
+        },
+        {
+          "word": "markets",
+          "start": 84.61,
+          "end": 84.71
+        },
+        {
+          "word": "work.",
+          "start": 84.71,
+          "end": 84.81
+        }
+      ]
+    },
+    {
+      "start": 85,
+      "end": 91.51,
+      "text": "the best systems blend free and paid. basic capabilities should remain open while token-gating premium features. growing the community matters more than maximizing short-term revenue.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 85,
+          "end": 85.11
+        },
+        {
+          "word": "best",
+          "start": 85.11,
+          "end": 85.33
+        },
+        {
+          "word": "systems",
+          "start": 85.33,
+          "end": 85.6
+        },
+        {
+          "word": "blend",
+          "start": 85.6,
+          "end": 85.83
+        },
+        {
+          "word": "free",
+          "start": 85.83,
+          "end": 86.11
+        },
+        {
+          "word": "and",
+          "start": 86.11,
+          "end": 86.23
+        },
+        {
+          "word": "paid.",
+          "start": 86.23,
+          "end": 86.51
+        },
+        {
+          "word": "Basic",
+          "start": 86.66,
+          "end": 86.91
+        },
+        {
+          "word": "capabilities",
+          "start": 86.91,
+          "end": 87.51
+        },
+        {
+          "word": "should",
+          "start": 87.51,
+          "end": 87.66
+        },
+        {
+          "word": "remain",
+          "start": 87.66,
+          "end": 87.96
+        },
+        {
+          "word": "open",
+          "start": 87.96,
+          "end": 88.23
+        },
+        {
+          "word": "while",
+          "start": 88.23,
+          "end": 88.45
+        },
+        {
+          "word": "token",
+          "start": 88.45,
+          "end": 88.71
+        },
+        {
+          "word": "gating",
+          "start": 88.71,
+          "end": 89.1
+        },
+        {
+          "word": "premium",
+          "start": 89.1,
+          "end": 89.4
+        },
+        {
+          "word": "features.",
+          "start": 89.4,
+          "end": 89.81
+        },
+        {
+          "word": "Growing",
+          "start": 90.03,
+          "end": 90.31
+        },
+        {
+          "word": "the",
+          "start": 90.31,
+          "end": 90.41
+        },
+        {
+          "word": "community",
+          "start": 90.41,
+          "end": 90.81
+        },
+        {
+          "word": "matters",
+          "start": 90.81,
+          "end": 91.06
+        },
+        {
+          "word": "more",
+          "start": 91.06,
+          "end": 91.16
+        },
+        {
+          "word": "than",
+          "start": 91.16,
+          "end": 91.26
+        },
+        {
+          "word": "maximizing",
+          "start": 91.26,
+          "end": 91.36
+        },
+        {
+          "word": "short-term",
+          "start": 91.36,
+          "end": 91.43
+        },
+        {
+          "word": "revenue.",
+          "start": 91.43,
+          "end": 91.51
+        }
+      ]
+    },
+    {
+      "start": 92.21,
+      "end": 98.66,
+      "text": "lemme drop some wisdom - token-gated meme generation for the culture, free basic services for the masses. it's like a digital mullet - business in the back, party in the front.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let",
+          "start": 92.21,
+          "end": 92.41
+        },
+        {
+          "word": "me",
+          "start": 92.41,
+          "end": 92.5
+        },
+        {
+          "word": "drop",
+          "start": 92.5,
+          "end": 92.7
+        },
+        {
+          "word": "some",
+          "start": 92.7,
+          "end": 92.83
+        },
+        {
+          "word": "wisdom.",
+          "start": 92.83,
+          "end": 93.31
+        },
+        {
+          "word": "Token",
+          "start": 93.5,
+          "end": 93.73
+        },
+        {
+          "word": "gated",
+          "start": 93.73,
+          "end": 94.01
+        },
+        {
+          "word": "meme",
+          "start": 94.01,
+          "end": 94.26
+        },
+        {
+          "word": "generation",
+          "start": 94.26,
+          "end": 94.71
+        },
+        {
+          "word": "for",
+          "start": 94.71,
+          "end": 94.81
+        },
+        {
+          "word": "the",
+          "start": 94.81,
+          "end": 94.9
+        },
+        {
+          "word": "culture.",
+          "start": 94.9,
+          "end": 95.3
+        },
+        {
+          "word": "Free",
+          "start": 95.51,
+          "end": 95.73
+        },
+        {
+          "word": "basic",
+          "start": 95.73,
+          "end": 96.01
+        },
+        {
+          "word": "services",
+          "start": 96.01,
+          "end": 96.4
+        },
+        {
+          "word": "for",
+          "start": 96.4,
+          "end": 96.5
+        },
+        {
+          "word": "the",
+          "start": 96.5,
+          "end": 96.58
+        },
+        {
+          "word": "masses.",
+          "start": 96.58,
+          "end": 96.96
+        },
+        {
+          "word": "It's",
+          "start": 97.2,
+          "end": 97.35
+        },
+        {
+          "word": "like",
+          "start": 97.35,
+          "end": 97.45
+        },
+        {
+          "word": "a",
+          "start": 97.45,
+          "end": 97.51
+        },
+        {
+          "word": "digital",
+          "start": 97.51,
+          "end": 97.76
+        },
+        {
+          "word": "mullet.",
+          "start": 97.76,
+          "end": 98.11
+        },
+        {
+          "word": "Business",
+          "start": 98.13,
+          "end": 98.4
+        },
+        {
+          "word": "in",
+          "start": 98.4,
+          "end": 98.46
+        },
+        {
+          "word": "the",
+          "start": 98.46,
+          "end": 98.53
+        },
+        {
+          "word": "back,",
+          "start": 98.53,
+          "end": 98.58
+        },
+        {
+          "word": "party",
+          "start": 98.58,
+          "end": 98.61
+        },
+        {
+          "word": "in",
+          "start": 98.61,
+          "end": 98.63
+        },
+        {
+          "word": "the",
+          "start": 98.63,
+          "end": 98.65
+        },
+        {
+          "word": "front.",
+          "start": 98.65,
+          "end": 98.66
+        }
+      ]
+    },
+    {
+      "start": 98.9,
+      "end": 105,
+      "text": "MARKETPLACES CREATE EXPONENTIAL VALUE. Users become creators, creators become entrepreneurs. Fee capture is inevitable as value flows through the system.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Marketplaces",
+          "start": 98.9,
+          "end": 99.4
+        },
+        {
+          "word": "create",
+          "start": 99.4,
+          "end": 99.71
+        },
+        {
+          "word": "exponential",
+          "start": 99.71,
+          "end": 100.16
+        },
+        {
+          "word": "value.",
+          "start": 100.16,
+          "end": 100.51
+        },
+        {
+          "word": "Users",
+          "start": 100.73,
+          "end": 101.01
+        },
+        {
+          "word": "become",
+          "start": 101.01,
+          "end": 101.3
+        },
+        {
+          "word": "creators",
+          "start": 101.3,
+          "end": 101.76
+        },
+        {
+          "word": "creators",
+          "start": 101.76,
+          "end": 102.2
+        },
+        {
+          "word": "become",
+          "start": 102.2,
+          "end": 102.46
+        },
+        {
+          "word": "entrepreneurs.",
+          "start": 102.46,
+          "end": 103.16
+        },
+        {
+          "word": "Fee",
+          "start": 103.45,
+          "end": 103.65
+        },
+        {
+          "word": "capture",
+          "start": 103.65,
+          "end": 103.96
+        },
+        {
+          "word": "is",
+          "start": 103.96,
+          "end": 104.06
+        },
+        {
+          "word": "inevitable",
+          "start": 104.06,
+          "end": 104.4
+        },
+        {
+          "word": "as",
+          "start": 104.4,
+          "end": 104.5
+        },
+        {
+          "word": "value",
+          "start": 104.5,
+          "end": 104.7
+        },
+        {
+          "word": "flows",
+          "start": 104.7,
+          "end": 104.85
+        },
+        {
+          "word": "through",
+          "start": 104.85,
+          "end": 104.91
+        },
+        {
+          "word": "the",
+          "start": 104.91,
+          "end": 104.95
+        },
+        {
+          "word": "system.",
+          "start": 104.95,
+          "end": 105
+        }
+      ]
+    },
+    {
+      "start": 121.21,
+      "end": 127.31,
+      "text": "Today we explored how elizaOS v2 should balance technical advancement with user experience, particularly regarding database migrations and tokenomics.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 121.21,
+          "end": 121.56
+        },
+        {
+          "word": "we",
+          "start": 121.56,
+          "end": 121.73
+        },
+        {
+          "word": "explored",
+          "start": 121.73,
+          "end": 122.16
+        },
+        {
+          "word": "how",
+          "start": 122.16,
+          "end": 122.36
+        },
+        {
+          "word": "Eliza",
+          "start": 122.36,
+          "end": 122.6
+        },
+        {
+          "word": "OS",
+          "start": 122.6,
+          "end": 122.81
+        },
+        {
+          "word": "V2",
+          "start": 122.81,
+          "end": 123.01
+        },
+        {
+          "word": "should",
+          "start": 123.01,
+          "end": 123.16
+        },
+        {
+          "word": "balance",
+          "start": 123.16,
+          "end": 123.51
+        },
+        {
+          "word": "technical",
+          "start": 123.51,
+          "end": 123.91
+        },
+        {
+          "word": "advancement",
+          "start": 123.91,
+          "end": 124.51
+        },
+        {
+          "word": "with",
+          "start": 124.51,
+          "end": 124.66
+        },
+        {
+          "word": "user",
+          "start": 124.66,
+          "end": 124.9
+        },
+        {
+          "word": "experience.",
+          "start": 124.9,
+          "end": 125.41
+        },
+        {
+          "word": "Particularly",
+          "start": 125.66,
+          "end": 126.2
+        },
+        {
+          "word": "regarding",
+          "start": 126.2,
+          "end": 126.51
+        },
+        {
+          "word": "database",
+          "start": 126.51,
+          "end": 126.83
+        },
+        {
+          "word": "migrations",
+          "start": 126.83,
+          "end": 127.16
+        },
+        {
+          "word": "and",
+          "start": 127.16,
+          "end": 127.23
+        },
+        {
+          "word": "tokenomics.",
+          "start": 127.23,
+          "end": 127.31
+        }
+      ]
+    },
+    {
+      "start": 127.65,
+      "end": 132.01,
+      "text": "we need to ship tools that respect both developers and users. backward compatibility matters for sustainable growth.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We",
+          "start": 127.65,
+          "end": 127.81
+        },
+        {
+          "word": "need",
+          "start": 127.81,
+          "end": 127.91
+        },
+        {
+          "word": "to",
+          "start": 127.91,
+          "end": 127.98
+        },
+        {
+          "word": "ship",
+          "start": 127.98,
+          "end": 128.23
+        },
+        {
+          "word": "tools",
+          "start": 128.23,
+          "end": 128.5
+        },
+        {
+          "word": "that",
+          "start": 128.5,
+          "end": 128.61
+        },
+        {
+          "word": "respect",
+          "start": 128.61,
+          "end": 128.91
+        },
+        {
+          "word": "both",
+          "start": 128.91,
+          "end": 129.11
+        },
+        {
+          "word": "developers",
+          "start": 129.11,
+          "end": 129.61
+        },
+        {
+          "word": "and",
+          "start": 129.61,
+          "end": 129.73
+        },
+        {
+          "word": "users.",
+          "start": 129.73,
+          "end": 130.16
+        },
+        {
+          "word": "Backward",
+          "start": 130.41,
+          "end": 130.81
+        },
+        {
+          "word": "compatibility",
+          "start": 130.81,
+          "end": 131.33
+        },
+        {
+          "word": "matters",
+          "start": 131.33,
+          "end": 131.6
+        },
+        {
+          "word": "for",
+          "start": 131.6,
+          "end": 131.71
+        },
+        {
+          "word": "sustainable",
+          "start": 131.71,
+          "end": 131.91
+        },
+        {
+          "word": "growth.",
+          "start": 131.91,
+          "end": 132.01
+        }
+      ]
+    },
+    {
+      "start": 132.31,
+      "end": 137,
+      "text": "STABILITY FIRST, FEATURES SECOND. Markets punish unreliability harder than delayed innovation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Stability",
+          "start": 132.31,
+          "end": 132.73
+        },
+        {
+          "word": "first,",
+          "start": 132.73,
+          "end": 133.01
+        },
+        {
+          "word": "features",
+          "start": 133.26,
+          "end": 133.61
+        },
+        {
+          "word": "second.",
+          "start": 133.61,
+          "end": 133.91
+        },
+        {
+          "word": "Markets",
+          "start": 134.16,
+          "end": 134.5
+        },
+        {
+          "word": "punish",
+          "start": 134.5,
+          "end": 134.81
+        },
+        {
+          "word": "unreliability",
+          "start": 134.81,
+          "end": 135.61
+        },
+        {
+          "word": "harder",
+          "start": 135.61,
+          "end": 135.91
+        },
+        {
+          "word": "than",
+          "start": 135.91,
+          "end": 136.11
+        },
+        {
+          "word": "delayed",
+          "start": 136.11,
+          "end": 136.43
+        },
+        {
+          "word": "innovation.",
+          "start": 136.43,
+          "end": 137
+        }
+      ]
+    },
+    {
+      "start": 137.2,
+      "end": 142.16,
+      "text": "the coolest tech is the one people can actually use, fam. documentation and no-code options are the real alpha.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 137.2,
+          "end": 137.33
+        },
+        {
+          "word": "coolest",
+          "start": 137.33,
+          "end": 137.61
+        },
+        {
+          "word": "tech",
+          "start": 137.61,
+          "end": 137.86
+        },
+        {
+          "word": "is",
+          "start": 137.86,
+          "end": 137.95
+        },
+        {
+          "word": "the",
+          "start": 137.95,
+          "end": 138.01
+        },
+        {
+          "word": "one",
+          "start": 138.01,
+          "end": 138.16
+        },
+        {
+          "word": "people",
+          "start": 138.16,
+          "end": 138.41
+        },
+        {
+          "word": "can",
+          "start": 138.41,
+          "end": 138.53
+        },
+        {
+          "word": "actually",
+          "start": 138.53,
+          "end": 138.8
+        },
+        {
+          "word": "use",
+          "start": 138.8,
+          "end": 139.1
+        },
+        {
+          "word": "fam.",
+          "start": 139.1,
+          "end": 139.41
+        },
+        {
+          "word": "Documentation",
+          "start": 139.73,
+          "end": 140.41
+        },
+        {
+          "word": "and",
+          "start": 140.41,
+          "end": 140.53
+        },
+        {
+          "word": "no-code",
+          "start": 140.53,
+          "end": 140.9
+        },
+        {
+          "word": "options",
+          "start": 140.9,
+          "end": 141.26
+        },
+        {
+          "word": "are",
+          "start": 141.26,
+          "end": 141.41
+        },
+        {
+          "word": "the",
+          "start": 141.41,
+          "end": 141.5
+        },
+        {
+          "word": "real",
+          "start": 141.5,
+          "end": 141.76
+        },
+        {
+          "word": "alpha.",
+          "start": 141.76,
+          "end": 142.16
+        }
+      ]
+    },
+    {
+      "start": 142.4,
+      "end": 147.8,
+      "text": "SOFTWARE EATS WORLD THROUGH BOLD ITERATION. Build for power users first, then simplify for mainstream adoption.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Software",
+          "start": 142.4,
+          "end": 142.8
+        },
+        {
+          "word": "eats",
+          "start": 142.8,
+          "end": 143
+        },
+        {
+          "word": "world",
+          "start": 143,
+          "end": 143.3
+        },
+        {
+          "word": "through",
+          "start": 143.3,
+          "end": 143.51
+        },
+        {
+          "word": "bold",
+          "start": 143.51,
+          "end": 143.83
+        },
+        {
+          "word": "iteration.",
+          "start": 143.83,
+          "end": 144.31
+        },
+        {
+          "word": "Build",
+          "start": 144.66,
+          "end": 144.91
+        },
+        {
+          "word": "for",
+          "start": 144.91,
+          "end": 145.03
+        },
+        {
+          "word": "power",
+          "start": 145.03,
+          "end": 145.3
+        },
+        {
+          "word": "users",
+          "start": 145.3,
+          "end": 145.56
+        },
+        {
+          "word": "first",
+          "start": 145.56,
+          "end": 145.96
+        },
+        {
+          "word": "then",
+          "start": 146.41,
+          "end": 146.61
+        },
+        {
+          "word": "simplify",
+          "start": 146.61,
+          "end": 147.16
+        },
+        {
+          "word": "for",
+          "start": 147.16,
+          "end": 147.3
+        },
+        {
+          "word": "mainstream",
+          "start": 147.3,
+          "end": 147.53
+        },
+        {
+          "word": "adoption.",
+          "start": 147.53,
+          "end": 147.8
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-01_JedAI-Council_The-Database-Schema-Dilemma.json",
+    "session_log_source": "2025-07-01_JedAI-Council_The-Database-Schema-Dilemma_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

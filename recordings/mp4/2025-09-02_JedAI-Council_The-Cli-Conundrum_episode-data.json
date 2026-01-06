@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/09/episode-5621-featured-1756788144.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/09/episode-5621-featured-1756788144-150x150.png",
+  "premise": "The JedAI Council debates the strategic priorities of elizaOS amid CLI refactoring challenges and emerging AR/VR opportunities.",
+  "scenes": [
+    {
+      "description": "The JedAI Council debates CLI refactoring priorities",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council discusses documentation gaps and onboarding challenges",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their wisdom on balancing technical priorities with user growth",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

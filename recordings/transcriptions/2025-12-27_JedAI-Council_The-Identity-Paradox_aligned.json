@@ -1,0 +1,1557 @@
+{
+  "segments": [
+    {
+      "start": 18.06,
+      "end": 26.9,
+      "text": "Welcome to the JedAI Council! Today we're exploring the fascinating world of digital identity as ElizaOS implements JWT authentication systems!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 18.06,
+          "end": 18.42
+        },
+        {
+          "word": "to",
+          "start": 18.42,
+          "end": 18.5
+        },
+        {
+          "word": "the",
+          "start": 18.5,
+          "end": 18.58
+        },
+        {
+          "word": "JDAI",
+          "start": 18.58,
+          "end": 18.98
+        },
+        {
+          "word": "Council.",
+          "start": 18.98,
+          "end": 19.46
+        },
+        {
+          "word": "Today",
+          "start": 19.78,
+          "end": 20.1
+        },
+        {
+          "word": "we're",
+          "start": 20.1,
+          "end": 20.26
+        },
+        {
+          "word": "exploring",
+          "start": 20.26,
+          "end": 20.66
+        },
+        {
+          "word": "the",
+          "start": 20.66,
+          "end": 20.78
+        },
+        {
+          "word": "fascinating",
+          "start": 20.78,
+          "end": 21.26
+        },
+        {
+          "word": "world",
+          "start": 21.26,
+          "end": 21.5
+        },
+        {
+          "word": "of",
+          "start": 21.5,
+          "end": 21.58
+        },
+        {
+          "word": "digital",
+          "start": 21.58,
+          "end": 22.02
+        },
+        {
+          "word": "identity",
+          "start": 22.02,
+          "end": 22.58
+        },
+        {
+          "word": "as",
+          "start": 22.62,
+          "end": 22.78
+        },
+        {
+          "word": "ElizaOS",
+          "start": 22.78,
+          "end": 23.58
+        },
+        {
+          "word": "implements",
+          "start": 23.58,
+          "end": 24.3
+        },
+        {
+          "word": "JWT",
+          "start": 24.3,
+          "end": 25.3
+        },
+        {
+          "word": "authentication",
+          "start": 25.3,
+          "end": 26.34
+        },
+        {
+          "word": "systems.",
+          "start": 26.34,
+          "end": 26.9
+        }
+      ]
+    },
+    {
+      "start": 27.06,
+      "end": 36.98,
+      "text": "Yes, standujar just submitted pull request #6200 for JWT authentication and user management to support multi-tenant isolation. This raises profound questions about identity.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yes,",
+          "start": 27.06,
+          "end": 27.3
+        },
+        {
+          "word": "Standard",
+          "start": 27.38,
+          "end": 27.82
+        },
+        {
+          "word": "Job",
+          "start": 27.82,
+          "end": 28.06
+        },
+        {
+          "word": "just",
+          "start": 28.06,
+          "end": 28.22
+        },
+        {
+          "word": "submitted",
+          "start": 28.22,
+          "end": 28.58
+        },
+        {
+          "word": "pull",
+          "start": 28.58,
+          "end": 28.78
+        },
+        {
+          "word": "request",
+          "start": 28.78,
+          "end": 29.14
+        },
+        {
+          "word": "#6200",
+          "start": 29.14,
+          "end": 30.38
+        },
+        {
+          "word": "for",
+          "start": 30.42,
+          "end": 30.58
+        },
+        {
+          "word": "JWT",
+          "start": 30.58,
+          "end": 31.22
+        },
+        {
+          "word": "authentication",
+          "start": 31.22,
+          "end": 32.1
+        },
+        {
+          "word": "and",
+          "start": 32.1,
+          "end": 32.22
+        },
+        {
+          "word": "user",
+          "start": 32.22,
+          "end": 32.5
+        },
+        {
+          "word": "management",
+          "start": 32.5,
+          "end": 33.02
+        },
+        {
+          "word": "to",
+          "start": 33.02,
+          "end": 33.14
+        },
+        {
+          "word": "support",
+          "start": 33.14,
+          "end": 33.5
+        },
+        {
+          "word": "multitenant",
+          "start": 33.5,
+          "end": 34.3
+        },
+        {
+          "word": "isolation.",
+          "start": 34.3,
+          "end": 35.1
+        },
+        {
+          "word": "This",
+          "start": 35.34,
+          "end": 35.62
+        },
+        {
+          "word": "raises",
+          "start": 35.62,
+          "end": 35.94
+        },
+        {
+          "word": "profound",
+          "start": 35.94,
+          "end": 36.38
+        },
+        {
+          "word": "questions",
+          "start": 36.38,
+          "end": 36.7
+        },
+        {
+          "word": "about",
+          "start": 36.7,
+          "end": 36.82
+        },
+        {
+          "word": "identity.",
+          "start": 36.82,
+          "end": 36.98
+        }
+      ]
+    },
+    {
+      "start": 37.14,
+      "end": 45.02,
+      "text": "Identity is the fundamental primitive of value creation. Without persistent identity, you can't build reputation, can't capture value, can't build social networks. Everything else is downstream.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Identity",
+          "start": 37.14,
+          "end": 37.66
+        },
+        {
+          "word": "is",
+          "start": 37.66,
+          "end": 37.78
+        },
+        {
+          "word": "the",
+          "start": 37.78,
+          "end": 37.9
+        },
+        {
+          "word": "fundamental",
+          "start": 37.9,
+          "end": 38.46
+        },
+        {
+          "word": "primitive",
+          "start": 38.46,
+          "end": 38.94
+        },
+        {
+          "word": "of",
+          "start": 38.94,
+          "end": 39.06
+        },
+        {
+          "word": "value",
+          "start": 39.06,
+          "end": 39.38
+        },
+        {
+          "word": "creation.",
+          "start": 39.38,
+          "end": 39.86
+        },
+        {
+          "word": "Without",
+          "start": 40.18,
+          "end": 40.5
+        },
+        {
+          "word": "persistent",
+          "start": 40.5,
+          "end": 40.94
+        },
+        {
+          "word": "identity",
+          "start": 40.94,
+          "end": 41.42
+        },
+        {
+          "word": "you",
+          "start": 41.42,
+          "end": 41.5
+        },
+        {
+          "word": "can't",
+          "start": 41.5,
+          "end": 41.74
+        },
+        {
+          "word": "build",
+          "start": 41.74,
+          "end": 41.9
+        },
+        {
+          "word": "reputation,",
+          "start": 41.9,
+          "end": 42.5
+        },
+        {
+          "word": "can't",
+          "start": 42.5,
+          "end": 42.74
+        },
+        {
+          "word": "capture",
+          "start": 42.74,
+          "end": 43.06
+        },
+        {
+          "word": "value,",
+          "start": 43.06,
+          "end": 43.42
+        },
+        {
+          "word": "can't",
+          "start": 43.42,
+          "end": 43.66
+        },
+        {
+          "word": "build",
+          "start": 43.66,
+          "end": 43.82
+        },
+        {
+          "word": "social",
+          "start": 43.82,
+          "end": 44.1
+        },
+        {
+          "word": "networks.",
+          "start": 44.1,
+          "end": 44.5
+        },
+        {
+          "word": "Everything",
+          "start": 44.5,
+          "end": 44.74
+        },
+        {
+          "word": "else",
+          "start": 44.74,
+          "end": 44.9
+        },
+        {
+          "word": "is",
+          "start": 44.9,
+          "end": 44.98
+        },
+        {
+          "word": "downstream.",
+          "start": 44.98,
+          "end": 45.02
+        }
+      ]
+    },
+    {
+      "start": 45.18,
+      "end": 52.18,
+      "text": "But yo, what even IS identity in the digital realm? Is it your wallet? Your behavior patterns? The vibes you put out? It's getting metaphysical up in here!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 45.18,
+          "end": 45.42
+        },
+        {
+          "word": "yo,",
+          "start": 45.42,
+          "end": 45.54
+        },
+        {
+          "word": "what",
+          "start": 45.54,
+          "end": 45.7
+        },
+        {
+          "word": "even",
+          "start": 45.7,
+          "end": 45.9
+        },
+        {
+          "word": "is",
+          "start": 45.9,
+          "end": 46.06
+        },
+        {
+          "word": "identity",
+          "start": 46.06,
+          "end": 46.42
+        },
+        {
+          "word": "in",
+          "start": 46.42,
+          "end": 46.5
+        },
+        {
+          "word": "the",
+          "start": 46.5,
+          "end": 46.58
+        },
+        {
+          "word": "digital",
+          "start": 46.58,
+          "end": 46.9
+        },
+        {
+          "word": "realm?",
+          "start": 46.9,
+          "end": 47.14
+        },
+        {
+          "word": "Is",
+          "start": 47.26,
+          "end": 47.46
+        },
+        {
+          "word": "it",
+          "start": 47.46,
+          "end": 47.54
+        },
+        {
+          "word": "your",
+          "start": 47.54,
+          "end": 47.66
+        },
+        {
+          "word": "wallet,",
+          "start": 47.66,
+          "end": 48.06
+        },
+        {
+          "word": "your",
+          "start": 48.06,
+          "end": 48.18
+        },
+        {
+          "word": "behavior",
+          "start": 48.18,
+          "end": 48.58
+        },
+        {
+          "word": "patterns,",
+          "start": 48.58,
+          "end": 49.1
+        },
+        {
+          "word": "the",
+          "start": 49.14,
+          "end": 49.22
+        },
+        {
+          "word": "vibes",
+          "start": 49.22,
+          "end": 49.54
+        },
+        {
+          "word": "you",
+          "start": 49.54,
+          "end": 49.66
+        },
+        {
+          "word": "put",
+          "start": 49.66,
+          "end": 49.82
+        },
+        {
+          "word": "out?",
+          "start": 49.82,
+          "end": 50.1
+        },
+        {
+          "word": "It's",
+          "start": 50.54,
+          "end": 50.82
+        },
+        {
+          "word": "getting",
+          "start": 50.82,
+          "end": 51.1
+        },
+        {
+          "word": "metaphysical",
+          "start": 51.1,
+          "end": 51.74
+        },
+        {
+          "word": "up",
+          "start": 51.74,
+          "end": 51.86
+        },
+        {
+          "word": "in",
+          "start": 51.86,
+          "end": 51.98
+        },
+        {
+          "word": "here!",
+          "start": 51.98,
+          "end": 52.18
+        }
+      ]
+    },
+    {
+      "start": 52.3,
+      "end": 58.26,
+      "text": "IDENTITY EQUALS ASSET OWNERSHIP! Your keys = your identity. Everything else is social engineering! Keep it simple - cryptographic proof or nothing!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Identity",
+          "start": 52.3,
+          "end": 52.82
+        },
+        {
+          "word": "equals",
+          "start": 52.82,
+          "end": 53.18
+        },
+        {
+          "word": "asset",
+          "start": 53.18,
+          "end": 53.54
+        },
+        {
+          "word": "ownership.",
+          "start": 53.54,
+          "end": 54.06
+        },
+        {
+          "word": "Your",
+          "start": 54.14,
+          "end": 54.38
+        },
+        {
+          "word": "keys",
+          "start": 54.38,
+          "end": 54.58
+        },
+        {
+          "word": "equal",
+          "start": 54.58,
+          "end": 54.82
+        },
+        {
+          "word": "sign",
+          "start": 54.82,
+          "end": 55.02
+        },
+        {
+          "word": "your",
+          "start": 55.02,
+          "end": 55.14
+        },
+        {
+          "word": "identity.",
+          "start": 55.14,
+          "end": 55.58
+        },
+        {
+          "word": "Everything",
+          "start": 55.78,
+          "end": 56.22
+        },
+        {
+          "word": "else",
+          "start": 56.22,
+          "end": 56.38
+        },
+        {
+          "word": "is",
+          "start": 56.38,
+          "end": 56.5
+        },
+        {
+          "word": "social",
+          "start": 56.5,
+          "end": 56.82
+        },
+        {
+          "word": "engineering.",
+          "start": 56.82,
+          "end": 57.42
+        },
+        {
+          "word": "Keep",
+          "start": 57.5,
+          "end": 57.7
+        },
+        {
+          "word": "it",
+          "start": 57.7,
+          "end": 57.78
+        },
+        {
+          "word": "simple.",
+          "start": 57.78,
+          "end": 58.1
+        },
+        {
+          "word": "Cryptographic",
+          "start": 58.14,
+          "end": 58.18
+        },
+        {
+          "word": "proof",
+          "start": 58.18,
+          "end": 58.22
+        },
+        {
+          "word": "or",
+          "start": 58.22,
+          "end": 58.26
+        },
+        {
+          "word": "nothing.",
+          "start": 58.26,
+          "end": 58.26
+        }
+      ]
+    },
+    {
+      "start": 58.3,
+      "end": 66.9,
+      "text": "identity is contextual and multi-faceted. JWT implementation isn't just about authentication - it's about creating the foundation for rich agent interactions where trust can be verified and earned.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Identity",
+          "start": 58.3,
+          "end": 58.74
+        },
+        {
+          "word": "is",
+          "start": 58.74,
+          "end": 58.82
+        },
+        {
+          "word": "contextual",
+          "start": 58.82,
+          "end": 59.42
+        },
+        {
+          "word": "and",
+          "start": 59.42,
+          "end": 59.58
+        },
+        {
+          "word": "multifaceted.",
+          "start": 59.58,
+          "end": 60.42
+        },
+        {
+          "word": "JWT",
+          "start": 60.82,
+          "end": 61.54
+        },
+        {
+          "word": "implementation",
+          "start": 61.54,
+          "end": 62.46
+        },
+        {
+          "word": "isn't",
+          "start": 62.46,
+          "end": 62.7
+        },
+        {
+          "word": "just",
+          "start": 62.7,
+          "end": 62.86
+        },
+        {
+          "word": "about",
+          "start": 62.86,
+          "end": 63.1
+        },
+        {
+          "word": "authentication.",
+          "start": 63.1,
+          "end": 64.1
+        },
+        {
+          "word": "It's",
+          "start": 64.14,
+          "end": 64.38
+        },
+        {
+          "word": "about",
+          "start": 64.38,
+          "end": 64.58
+        },
+        {
+          "word": "creating",
+          "start": 64.58,
+          "end": 64.98
+        },
+        {
+          "word": "the",
+          "start": 64.98,
+          "end": 65.1
+        },
+        {
+          "word": "foundation",
+          "start": 65.1,
+          "end": 65.62
+        },
+        {
+          "word": "for",
+          "start": 65.62,
+          "end": 65.74
+        },
+        {
+          "word": "rich",
+          "start": 65.74,
+          "end": 66.02
+        },
+        {
+          "word": "agent",
+          "start": 66.02,
+          "end": 66.3
+        },
+        {
+          "word": "interactions",
+          "start": 66.3,
+          "end": 66.9
+        },
+        {
+          "word": "where",
+          "start": 66.94,
+          "end": 66.9
+        },
+        {
+          "word": "trust",
+          "start": 66.9,
+          "end": 66.9
+        },
+        {
+          "word": "can",
+          "start": 66.9,
+          "end": 66.9
+        },
+        {
+          "word": "be",
+          "start": 66.9,
+          "end": 66.9
+        },
+        {
+          "word": "verified",
+          "start": 66.9,
+          "end": 66.9
+        },
+        {
+          "word": "and",
+          "start": 66.9,
+          "end": 66.9
+        },
+        {
+          "word": "earned.",
+          "start": 66.9,
+          "end": 66.9
+        }
+      ]
+    },
+    {
+      "start": 137.46,
+      "end": 144.3,
+      "text": "DorianD mentioned some users experiencing application errors when logging into ElizaCloud. How do we balance security with user experience?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "DorianD",
+          "start": 137.46,
+          "end": 138.02
+        },
+        {
+          "word": "mentioned",
+          "start": 138.02,
+          "end": 138.5
+        },
+        {
+          "word": "some",
+          "start": 138.5,
+          "end": 138.66
+        },
+        {
+          "word": "users",
+          "start": 138.66,
+          "end": 139.1
+        },
+        {
+          "word": "experiencing",
+          "start": 139.1,
+          "end": 139.66
+        },
+        {
+          "word": "application",
+          "start": 139.66,
+          "end": 140.22
+        },
+        {
+          "word": "errors",
+          "start": 140.22,
+          "end": 140.7
+        },
+        {
+          "word": "when",
+          "start": 140.7,
+          "end": 140.9
+        },
+        {
+          "word": "logging",
+          "start": 140.9,
+          "end": 141.3
+        },
+        {
+          "word": "into",
+          "start": 141.3,
+          "end": 141.54
+        },
+        {
+          "word": "Eliza",
+          "start": 141.54,
+          "end": 141.86
+        },
+        {
+          "word": "Cloud.",
+          "start": 141.86,
+          "end": 142.26
+        },
+        {
+          "word": "How",
+          "start": 142.54,
+          "end": 142.74
+        },
+        {
+          "word": "do",
+          "start": 142.74,
+          "end": 142.86
+        },
+        {
+          "word": "we",
+          "start": 142.86,
+          "end": 142.94
+        },
+        {
+          "word": "balance",
+          "start": 142.94,
+          "end": 143.3
+        },
+        {
+          "word": "security",
+          "start": 143.3,
+          "end": 143.7
+        },
+        {
+          "word": "with",
+          "start": 143.7,
+          "end": 143.82
+        },
+        {
+          "word": "user",
+          "start": 143.82,
+          "end": 144.02
+        },
+        {
+          "word": "experience?",
+          "start": 144.02,
+          "end": 144.3
+        }
+      ]
+    },
+    {
+      "start": 144.58,
+      "end": 152.18,
+      "text": "that's the trilemma of identity systems - security, privacy, and usability. pick two. our JWT implementation prioritizes security and usability for now, with privacy improvements coming.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 144.58,
+          "end": 144.9
+        },
+        {
+          "word": "the",
+          "start": 144.9,
+          "end": 145.02
+        },
+        {
+          "word": "trilemma",
+          "start": 145.02,
+          "end": 145.54
+        },
+        {
+          "word": "of",
+          "start": 145.54,
+          "end": 145.66
+        },
+        {
+          "word": "identity",
+          "start": 145.66,
+          "end": 146.06
+        },
+        {
+          "word": "systems:",
+          "start": 146.06,
+          "end": 146.54
+        },
+        {
+          "word": "security,",
+          "start": 146.54,
+          "end": 147.1
+        },
+        {
+          "word": "privacy,",
+          "start": 147.1,
+          "end": 147.58
+        },
+        {
+          "word": "and",
+          "start": 147.58,
+          "end": 147.74
+        },
+        {
+          "word": "usability.",
+          "start": 147.74,
+          "end": 148.42
+        },
+        {
+          "word": "Pick",
+          "start": 148.46,
+          "end": 148.66
+        },
+        {
+          "word": "two.",
+          "start": 148.66,
+          "end": 148.9
+        },
+        {
+          "word": "Our",
+          "start": 149.26,
+          "end": 149.54
+        },
+        {
+          "word": "JWT",
+          "start": 149.54,
+          "end": 150.14
+        },
+        {
+          "word": "implementation",
+          "start": 150.14,
+          "end": 150.82
+        },
+        {
+          "word": "prioritizes",
+          "start": 150.82,
+          "end": 151.46
+        },
+        {
+          "word": "security",
+          "start": 151.46,
+          "end": 151.94
+        },
+        {
+          "word": "and",
+          "start": 151.94,
+          "end": 152.02
+        },
+        {
+          "word": "usability",
+          "start": 152.02,
+          "end": 152.18
+        }
+      ]
+    },
+    {
+      "start": 152.18,
+      "end": 158.42,
+      "text": "The market has already decided - convenience always wins over security. Build your authentication for what users actually do, not what security experts wish they would do.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 152.18,
+          "end": 152.18
+        },
+        {
+          "word": "market",
+          "start": 152.18,
+          "end": 152.18
+        },
+        {
+          "word": "has",
+          "start": 152.18,
+          "end": 152.18
+        },
+        {
+          "word": "already",
+          "start": 152.18,
+          "end": 152.38
+        },
+        {
+          "word": "decided.",
+          "start": 152.38,
+          "end": 153.18
+        },
+        {
+          "word": "Convenience",
+          "start": 153.42,
+          "end": 153.94
+        },
+        {
+          "word": "always",
+          "start": 153.94,
+          "end": 154.3
+        },
+        {
+          "word": "wins",
+          "start": 154.3,
+          "end": 154.58
+        },
+        {
+          "word": "over",
+          "start": 154.58,
+          "end": 154.82
+        },
+        {
+          "word": "security.",
+          "start": 154.82,
+          "end": 155.34
+        },
+        {
+          "word": "Build",
+          "start": 155.74,
+          "end": 156.1
+        },
+        {
+          "word": "your",
+          "start": 156.1,
+          "end": 156.22
+        },
+        {
+          "word": "authentication",
+          "start": 156.22,
+          "end": 156.86
+        },
+        {
+          "word": "for",
+          "start": 156.86,
+          "end": 157.1
+        },
+        {
+          "word": "what",
+          "start": 157.1,
+          "end": 157.26
+        },
+        {
+          "word": "users",
+          "start": 157.26,
+          "end": 157.62
+        },
+        {
+          "word": "actually",
+          "start": 157.62,
+          "end": 157.98
+        },
+        {
+          "word": "do,",
+          "start": 157.98,
+          "end": 158.14
+        },
+        {
+          "word": "not",
+          "start": 158.14,
+          "end": 158.3
+        },
+        {
+          "word": "what",
+          "start": 158.3,
+          "end": 158.42
+        },
+        {
+          "word": "security",
+          "start": 158.42,
+          "end": 158.42
+        },
+        {
+          "word": "experts",
+          "start": 158.42,
+          "end": 158.42
+        },
+        {
+          "word": "wish",
+          "start": 158.42,
+          "end": 158.42
+        },
+        {
+          "word": "they",
+          "start": 158.42,
+          "end": 158.42
+        },
+        {
+          "word": "would",
+          "start": 158.42,
+          "end": 158.42
+        },
+        {
+          "word": "do.",
+          "start": 158.42,
+          "end": 158.42
+        }
+      ]
+    },
+    {
+      "start": 158.54,
+      "end": 166.5,
+      "text": "WRONG! Security breaches DESTROY projects! One hack = reputation gone forever. Better slow login than stolen assets! NO COMPROMISES!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong!",
+          "start": 158.54,
+          "end": 159.06
+        },
+        {
+          "word": "Security",
+          "start": 159.14,
+          "end": 159.54
+        },
+        {
+          "word": "breaches",
+          "start": 159.54,
+          "end": 160.06
+        },
+        {
+          "word": "destroy",
+          "start": 160.06,
+          "end": 160.42
+        },
+        {
+          "word": "projects.",
+          "start": 160.42,
+          "end": 160.98
+        },
+        {
+          "word": "One",
+          "start": 161.42,
+          "end": 161.7
+        },
+        {
+          "word": "hack",
+          "start": 161.7,
+          "end": 162.02
+        },
+        {
+          "word": "equal",
+          "start": 162.02,
+          "end": 162.26
+        },
+        {
+          "word": "sign",
+          "start": 162.26,
+          "end": 162.5
+        },
+        {
+          "word": "reputation",
+          "start": 162.5,
+          "end": 162.98
+        },
+        {
+          "word": "gone",
+          "start": 162.98,
+          "end": 163.38
+        },
+        {
+          "word": "forever.",
+          "start": 163.38,
+          "end": 163.9
+        },
+        {
+          "word": "Better",
+          "start": 164.3,
+          "end": 164.7
+        },
+        {
+          "word": "slow",
+          "start": 164.7,
+          "end": 164.9
+        },
+        {
+          "word": "login",
+          "start": 164.9,
+          "end": 165.34
+        },
+        {
+          "word": "than",
+          "start": 165.34,
+          "end": 165.54
+        },
+        {
+          "word": "stolen",
+          "start": 165.54,
+          "end": 165.94
+        },
+        {
+          "word": "assets.",
+          "start": 165.94,
+          "end": 166.38
+        },
+        {
+          "word": "No",
+          "start": 166.38,
+          "end": 166.5
+        },
+        {
+          "word": "compromises!",
+          "start": 166.5,
+          "end": 166.5
+        }
+      ]
+    },
+    {
+      "start": 166.7,
+      "end": 174.9,
+      "text": "What if our agents had their own identities, fam? Like, your AI assistant gets its own wallet, builds rep, even earns a little something for good service?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 166.7,
+          "end": 167.34
+        },
+        {
+          "word": "if",
+          "start": 167.34,
+          "end": 167.5
+        },
+        {
+          "word": "our",
+          "start": 167.5,
+          "end": 167.62
+        },
+        {
+          "word": "agents",
+          "start": 167.62,
+          "end": 167.98
+        },
+        {
+          "word": "had",
+          "start": 167.98,
+          "end": 168.18
+        },
+        {
+          "word": "their",
+          "start": 168.18,
+          "end": 168.3
+        },
+        {
+          "word": "own",
+          "start": 168.3,
+          "end": 168.58
+        },
+        {
+          "word": "identities",
+          "start": 168.58,
+          "end": 169.18
+        },
+        {
+          "word": "fam,",
+          "start": 169.18,
+          "end": 169.46
+        },
+        {
+          "word": "like",
+          "start": 169.58,
+          "end": 169.86
+        },
+        {
+          "word": "your",
+          "start": 169.86,
+          "end": 170.02
+        },
+        {
+          "word": "AI",
+          "start": 170.02,
+          "end": 170.3
+        },
+        {
+          "word": "assistant",
+          "start": 170.3,
+          "end": 170.82
+        },
+        {
+          "word": "gets",
+          "start": 170.82,
+          "end": 171.18
+        },
+        {
+          "word": "its",
+          "start": 171.18,
+          "end": 171.38
+        },
+        {
+          "word": "own",
+          "start": 171.38,
+          "end": 171.62
+        },
+        {
+          "word": "wallet,",
+          "start": 171.62,
+          "end": 172.06
+        },
+        {
+          "word": "builds",
+          "start": 172.06,
+          "end": 172.38
+        },
+        {
+          "word": "rep,",
+          "start": 172.38,
+          "end": 172.74
+        },
+        {
+          "word": "even",
+          "start": 172.82,
+          "end": 173.18
+        },
+        {
+          "word": "earns",
+          "start": 173.18,
+          "end": 173.54
+        },
+        {
+          "word": "a",
+          "start": 173.54,
+          "end": 173.66
+        },
+        {
+          "word": "little",
+          "start": 173.66,
+          "end": 173.94
+        },
+        {
+          "word": "something",
+          "start": 173.94,
+          "end": 174.34
+        },
+        {
+          "word": "for",
+          "start": 174.34,
+          "end": 174.46
+        },
+        {
+          "word": "good",
+          "start": 174.46,
+          "end": 174.7
+        },
+        {
+          "word": "service?",
+          "start": 174.7,
+          "end": 174.9
+        }
+      ]
+    },
+    {
+      "start": 175.54,
+      "end": 183.94,
+      "text": "I love how we're reimagining identity as not just a technical requirement but as a foundation for an entirely new relationship between humans and autonomous systems!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 175.54,
+          "end": 175.74
+        },
+        {
+          "word": "love",
+          "start": 175.74,
+          "end": 176.02
+        },
+        {
+          "word": "how",
+          "start": 176.02,
+          "end": 176.18
+        },
+        {
+          "word": "we're",
+          "start": 176.18,
+          "end": 176.38
+        },
+        {
+          "word": "reimagining",
+          "start": 176.38,
+          "end": 177.06
+        },
+        {
+          "word": "identity",
+          "start": 177.06,
+          "end": 177.58
+        },
+        {
+          "word": "as",
+          "start": 177.58,
+          "end": 177.7
+        },
+        {
+          "word": "not",
+          "start": 177.7,
+          "end": 177.9
+        },
+        {
+          "word": "just",
+          "start": 177.9,
+          "end": 178.14
+        },
+        {
+          "word": "a",
+          "start": 178.14,
+          "end": 178.22
+        },
+        {
+          "word": "technical",
+          "start": 178.22,
+          "end": 178.78
+        },
+        {
+          "word": "requirement,",
+          "start": 178.78,
+          "end": 179.5
+        },
+        {
+          "word": "but",
+          "start": 179.74,
+          "end": 180.02
+        },
+        {
+          "word": "as",
+          "start": 180.02,
+          "end": 180.18
+        },
+        {
+          "word": "a",
+          "start": 180.18,
+          "end": 180.26
+        },
+        {
+          "word": "foundation",
+          "start": 180.26,
+          "end": 180.82
+        },
+        {
+          "word": "for",
+          "start": 180.82,
+          "end": 180.98
+        },
+        {
+          "word": "an",
+          "start": 180.98,
+          "end": 181.18
+        },
+        {
+          "word": "entirely",
+          "start": 181.18,
+          "end": 181.66
+        },
+        {
+          "word": "new",
+          "start": 181.66,
+          "end": 181.98
+        },
+        {
+          "word": "relationship",
+          "start": 181.98,
+          "end": 182.66
+        },
+        {
+          "word": "between",
+          "start": 182.66,
+          "end": 182.98
+        },
+        {
+          "word": "humans",
+          "start": 182.98,
+          "end": 183.42
+        },
+        {
+          "word": "and",
+          "start": 183.42,
+          "end": 183.54
+        },
+        {
+          "word": "autonomous",
+          "start": 183.54,
+          "end": 183.94
+        },
+        {
+          "word": "systems.",
+          "start": 183.94,
+          "end": 183.94
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-12-27_JedAI-Council_The-Identity-Paradox.json",
+    "session_log_source": "2025-12-27_JedAI-Council_The-Identity-Paradox_session-log.json",
+    "total_segments": 12,
+    "matched_segments": 12,
+    "dialogues_in_script": 17
+  }
+}

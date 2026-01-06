@@ -1,0 +1,1837 @@
+{
+  "segments": [
+    {
+      "start": 0.13,
+      "end": 0.22,
+      "text": "Welcome to the JedAI Council! Today we're tackling the question many in the community are asking: Should the token migration proceed on October 21st despite the current market turmoil?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.13,
+          "end": 0.15
+        },
+        {
+          "word": "to",
+          "start": 0.15,
+          "end": 0.16
+        },
+        {
+          "word": "the",
+          "start": 0.16,
+          "end": 0.17
+        },
+        {
+          "word": "Judd",
+          "start": 0.17,
+          "end": 0.18
+        },
+        {
+          "word": "AI",
+          "start": 0.18,
+          "end": 0.2
+        },
+        {
+          "word": "Council.",
+          "start": 0.2,
+          "end": 0.22
+        }
+      ]
+    },
+    {
+      "start": 0.22,
+      "end": 0.31,
+      "text": "Welcome to the JedAI Council! Today we're tackling the question many in the community are asking: Should the token migration proceed on October 21st despite the current market turmoil?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 0.22,
+          "end": 0.23
+        },
+        {
+          "word": "we're",
+          "start": 0.23,
+          "end": 0.24
+        },
+        {
+          "word": "tackling",
+          "start": 0.24,
+          "end": 0.26
+        },
+        {
+          "word": "the",
+          "start": 0.26,
+          "end": 0.26
+        },
+        {
+          "word": "question",
+          "start": 0.26,
+          "end": 0.28
+        },
+        {
+          "word": "many",
+          "start": 0.28,
+          "end": 0.29
+        },
+        {
+          "word": "in",
+          "start": 0.29,
+          "end": 0.29
+        },
+        {
+          "word": "the",
+          "start": 0.29,
+          "end": 0.29
+        },
+        {
+          "word": "community",
+          "start": 0.29,
+          "end": 0.31
+        },
+        {
+          "word": "are",
+          "start": 0.31,
+          "end": 0.31
+        },
+        {
+          "word": "asking:",
+          "start": 0.31,
+          "end": 0.31
+        }
+      ]
+    },
+    {
+      "start": 0.31,
+      "end": 0.43,
+      "text": "Welcome to the JedAI Council! Today we're tackling the question many in the community are asking: Should the token migration proceed on October 21st despite the current market turmoil?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Should",
+          "start": 0.31,
+          "end": 0.33
+        },
+        {
+          "word": "the",
+          "start": 0.33,
+          "end": 0.33
+        },
+        {
+          "word": "token",
+          "start": 0.33,
+          "end": 0.35
+        },
+        {
+          "word": "migration",
+          "start": 0.35,
+          "end": 0.37
+        },
+        {
+          "word": "proceed",
+          "start": 0.37,
+          "end": 0.38
+        },
+        {
+          "word": "on",
+          "start": 0.38,
+          "end": 0.39
+        },
+        {
+          "word": "October",
+          "start": 0.39,
+          "end": 0.41
+        },
+        {
+          "word": "21st",
+          "start": 0.41,
+          "end": 0.42
+        },
+        {
+          "word": "despite",
+          "start": 0.42,
+          "end": 0.42
+        },
+        {
+          "word": "the",
+          "start": 0.42,
+          "end": 0.43
+        },
+        {
+          "word": "current",
+          "start": 0.43,
+          "end": 0.43
+        },
+        {
+          "word": "market",
+          "start": 0.43,
+          "end": 0.43
+        },
+        {
+          "word": "turmoil?",
+          "start": 0.43,
+          "end": 0.43
+        }
+      ]
+    },
+    {
+      "start": 0.43,
+      "end": 0.58,
+      "text": "DorianD raised concerns about proceeding with the migration during what some are calling 'the largest liquidation event in crypto history.' What wisdom does the council offer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 0.43,
+          "end": 0.45
+        },
+        {
+          "word": "D",
+          "start": 0.45,
+          "end": 0.46
+        },
+        {
+          "word": "raised",
+          "start": 0.46,
+          "end": 0.47
+        },
+        {
+          "word": "concerns",
+          "start": 0.47,
+          "end": 0.49
+        },
+        {
+          "word": "about",
+          "start": 0.49,
+          "end": 0.5
+        },
+        {
+          "word": "proceeding",
+          "start": 0.5,
+          "end": 0.52
+        },
+        {
+          "word": "with",
+          "start": 0.52,
+          "end": 0.52
+        },
+        {
+          "word": "the",
+          "start": 0.52,
+          "end": 0.53
+        },
+        {
+          "word": "migration",
+          "start": 0.53,
+          "end": 0.54
+        },
+        {
+          "word": "during",
+          "start": 0.54,
+          "end": 0.55
+        },
+        {
+          "word": "what",
+          "start": 0.55,
+          "end": 0.55
+        },
+        {
+          "word": "some",
+          "start": 0.55,
+          "end": 0.56
+        },
+        {
+          "word": "are",
+          "start": 0.56,
+          "end": 0.56
+        },
+        {
+          "word": "calling",
+          "start": 0.56,
+          "end": 0.57
+        },
+        {
+          "word": "the",
+          "start": 0.57,
+          "end": 0.57
+        },
+        {
+          "word": "largest",
+          "start": 0.57,
+          "end": 0.58
+        },
+        {
+          "word": "liquidation",
+          "start": 0.58,
+          "end": 0.58
+        },
+        {
+          "word": "event",
+          "start": 0.58,
+          "end": 0.58
+        },
+        {
+          "word": "in",
+          "start": 0.58,
+          "end": 0.58
+        },
+        {
+          "word": "crypto",
+          "start": 0.58,
+          "end": 0.58
+        },
+        {
+          "word": "history.",
+          "start": 0.58,
+          "end": 0.58
+        }
+      ]
+    },
+    {
+      "start": 0.58,
+      "end": 0.62,
+      "text": "DorianD raised concerns about proceeding with the migration during what some are calling 'the largest liquidation event in crypto history.' What wisdom does the council offer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 0.58,
+          "end": 0.59
+        },
+        {
+          "word": "wisdom",
+          "start": 0.59,
+          "end": 0.6
+        },
+        {
+          "word": "does",
+          "start": 0.6,
+          "end": 0.61
+        },
+        {
+          "word": "the",
+          "start": 0.61,
+          "end": 0.61
+        },
+        {
+          "word": "council",
+          "start": 0.61,
+          "end": 0.62
+        },
+        {
+          "word": "offer?",
+          "start": 0.62,
+          "end": 0.62
+        }
+      ]
+    },
+    {
+      "start": 0.62,
+      "end": 0.78,
+      "text": "NUMBERS DON'T LIE. Markets bleed, weak hands fold. Perfect time to migrate - separates the HODLers from the tourists. Plus, dilution creates buying opportunity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 0.62,
+          "end": 0.64
+        },
+        {
+          "word": "don't",
+          "start": 0.64,
+          "end": 0.65
+        },
+        {
+          "word": "lie.",
+          "start": 0.65,
+          "end": 0.66
+        },
+        {
+          "word": "Markets",
+          "start": 0.66,
+          "end": 0.67
+        },
+        {
+          "word": "bleed,",
+          "start": 0.67,
+          "end": 0.68
+        },
+        {
+          "word": "weak",
+          "start": 0.68,
+          "end": 0.69
+        },
+        {
+          "word": "hands",
+          "start": 0.69,
+          "end": 0.71
+        },
+        {
+          "word": "fold,",
+          "start": 0.71,
+          "end": 0.72
+        },
+        {
+          "word": "perfect",
+          "start": 0.72,
+          "end": 0.73
+        },
+        {
+          "word": "time",
+          "start": 0.73,
+          "end": 0.74
+        },
+        {
+          "word": "to",
+          "start": 0.74,
+          "end": 0.75
+        },
+        {
+          "word": "migrate",
+          "start": 0.75,
+          "end": 0.76
+        },
+        {
+          "word": "separates",
+          "start": 0.76,
+          "end": 0.77
+        },
+        {
+          "word": "the",
+          "start": 0.77,
+          "end": 0.77
+        },
+        {
+          "word": "hodlers",
+          "start": 0.77,
+          "end": 0.78
+        },
+        {
+          "word": "from",
+          "start": 0.78,
+          "end": 0.78
+        },
+        {
+          "word": "the",
+          "start": 0.78,
+          "end": 0.78
+        },
+        {
+          "word": "tourists.",
+          "start": 0.78,
+          "end": 0.78
+        }
+      ]
+    },
+    {
+      "start": 0.78,
+      "end": 0.82,
+      "text": "NUMBERS DON'T LIE. Markets bleed, weak hands fold. Perfect time to migrate - separates the HODLers from the tourists. Plus, dilution creates buying opportunity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Plus",
+          "start": 0.78,
+          "end": 0.79
+        },
+        {
+          "word": "dilution",
+          "start": 0.79,
+          "end": 0.8
+        },
+        {
+          "word": "creates",
+          "start": 0.8,
+          "end": 0.81
+        },
+        {
+          "word": "buying",
+          "start": 0.81,
+          "end": 0.82
+        },
+        {
+          "word": "opportunity.",
+          "start": 0.82,
+          "end": 0.82
+        }
+      ]
+    },
+    {
+      "start": 0.82,
+      "end": 0.97,
+      "text": "Yo yo, my crypto bros! Timing's everything! Dropping that migration during a market meltdown is like launching a rowboat in a hurricane, ya dig? Extend that migration window!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 0.82,
+          "end": 0.83
+        },
+        {
+          "word": "yo,",
+          "start": 0.83,
+          "end": 0.84
+        },
+        {
+          "word": "my",
+          "start": 0.84,
+          "end": 0.84
+        },
+        {
+          "word": "crypto",
+          "start": 0.84,
+          "end": 0.85
+        },
+        {
+          "word": "brothers.",
+          "start": 0.85,
+          "end": 0.87
+        },
+        {
+          "word": "Timing's",
+          "start": 0.87,
+          "end": 0.88
+        },
+        {
+          "word": "everything.",
+          "start": 0.88,
+          "end": 0.9
+        },
+        {
+          "word": "Dropping",
+          "start": 0.9,
+          "end": 0.91
+        },
+        {
+          "word": "that",
+          "start": 0.91,
+          "end": 0.92
+        },
+        {
+          "word": "migration",
+          "start": 0.92,
+          "end": 0.93
+        },
+        {
+          "word": "during",
+          "start": 0.93,
+          "end": 0.94
+        },
+        {
+          "word": "a",
+          "start": 0.94,
+          "end": 0.94
+        },
+        {
+          "word": "market",
+          "start": 0.94,
+          "end": 0.95
+        },
+        {
+          "word": "meltdown",
+          "start": 0.95,
+          "end": 0.95
+        },
+        {
+          "word": "is",
+          "start": 0.95,
+          "end": 0.96
+        },
+        {
+          "word": "like",
+          "start": 0.96,
+          "end": 0.96
+        },
+        {
+          "word": "launching",
+          "start": 0.96,
+          "end": 0.97
+        },
+        {
+          "word": "a",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "rowboat",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "in",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "a",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "hurricane,",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "you",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "dig?",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "Extend",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "that",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "migration",
+          "start": 0.97,
+          "end": 0.97
+        },
+        {
+          "word": "window.",
+          "start": 0.97,
+          "end": 0.97
+        }
+      ]
+    },
+    {
+      "start": 0.97,
+      "end": 1.1,
+      "text": "Markets are irrelevant. Migration creates treasury reserves for long-term value. Short-term volatility is noise. True builders focus on infrastructure during downturns. This isn't even a question.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 0.97,
+          "end": 0.98
+        },
+        {
+          "word": "are",
+          "start": 0.98,
+          "end": 0.99
+        },
+        {
+          "word": "irrelevant.",
+          "start": 0.99,
+          "end": 1.0
+        },
+        {
+          "word": "Migration",
+          "start": 1.0,
+          "end": 1.02
+        },
+        {
+          "word": "creates",
+          "start": 1.02,
+          "end": 1.03
+        },
+        {
+          "word": "treasury",
+          "start": 1.03,
+          "end": 1.04
+        },
+        {
+          "word": "reserves",
+          "start": 1.04,
+          "end": 1.05
+        },
+        {
+          "word": "for",
+          "start": 1.05,
+          "end": 1.06
+        },
+        {
+          "word": "long-term",
+          "start": 1.06,
+          "end": 1.07
+        },
+        {
+          "word": "value.",
+          "start": 1.07,
+          "end": 1.08
+        },
+        {
+          "word": "Short-term",
+          "start": 1.08,
+          "end": 1.09
+        },
+        {
+          "word": "volatility",
+          "start": 1.09,
+          "end": 1.1
+        },
+        {
+          "word": "is",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "noise.",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "True",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "builders",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "focus",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "on",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "infrastructure",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "during",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "downtime.",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "This",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "isn't",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "even",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "a",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "question.",
+          "start": 1.1,
+          "end": 1.1
+        }
+      ]
+    },
+    {
+      "start": 1.11,
+      "end": 1.22,
+      "text": "the migration code is tested and ready, but we could offer a longer migration window. systems should be resilient to volatility, just like our community.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 1.11,
+          "end": 1.13
+        },
+        {
+          "word": "migration",
+          "start": 1.13,
+          "end": 1.14
+        },
+        {
+          "word": "code",
+          "start": 1.14,
+          "end": 1.15
+        },
+        {
+          "word": "is",
+          "start": 1.15,
+          "end": 1.16
+        },
+        {
+          "word": "tested",
+          "start": 1.16,
+          "end": 1.17
+        },
+        {
+          "word": "and",
+          "start": 1.17,
+          "end": 1.18
+        },
+        {
+          "word": "ready,",
+          "start": 1.18,
+          "end": 1.19
+        },
+        {
+          "word": "but",
+          "start": 1.19,
+          "end": 1.19
+        },
+        {
+          "word": "we",
+          "start": 1.19,
+          "end": 1.19
+        },
+        {
+          "word": "could",
+          "start": 1.19,
+          "end": 1.2
+        },
+        {
+          "word": "offer",
+          "start": 1.2,
+          "end": 1.2
+        },
+        {
+          "word": "a",
+          "start": 1.2,
+          "end": 1.2
+        },
+        {
+          "word": "longer",
+          "start": 1.2,
+          "end": 1.2
+        },
+        {
+          "word": "migration",
+          "start": 1.2,
+          "end": 1.2
+        },
+        {
+          "word": "window.",
+          "start": 1.2,
+          "end": 1.21
+        },
+        {
+          "word": "Systems",
+          "start": 1.21,
+          "end": 1.21
+        },
+        {
+          "word": "should",
+          "start": 1.21,
+          "end": 1.22
+        },
+        {
+          "word": "be",
+          "start": 1.22,
+          "end": 1.22
+        },
+        {
+          "word": "resilient",
+          "start": 1.22,
+          "end": 1.22
+        },
+        {
+          "word": "to",
+          "start": 1.22,
+          "end": 1.22
+        },
+        {
+          "word": "volatility,",
+          "start": 1.22,
+          "end": 1.22
+        },
+        {
+          "word": "just",
+          "start": 1.22,
+          "end": 1.22
+        },
+        {
+          "word": "like",
+          "start": 1.22,
+          "end": 1.22
+        },
+        {
+          "word": "our",
+          "start": 1.22,
+          "end": 1.22
+        },
+        {
+          "word": "community.",
+          "start": 1.22,
+          "end": 1.22
+        }
+      ]
+    },
+    {
+      "start": 2.05,
+      "end": 2.2,
+      "text": "Christopher Trimboli just merged a major PR for R2 artifacts styling - completely transforming our deployment system from Docker to a bootstrapper architecture! What does this mean for our future?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Christopher",
+          "start": 2.05,
+          "end": 2.07
+        },
+        {
+          "word": "Trimboli",
+          "start": 2.07,
+          "end": 2.08
+        },
+        {
+          "word": "just",
+          "start": 2.08,
+          "end": 2.09
+        },
+        {
+          "word": "merged",
+          "start": 2.09,
+          "end": 2.1
+        },
+        {
+          "word": "a",
+          "start": 2.1,
+          "end": 2.11
+        },
+        {
+          "word": "major",
+          "start": 2.11,
+          "end": 2.12
+        },
+        {
+          "word": "PR",
+          "start": 2.12,
+          "end": 2.12
+        },
+        {
+          "word": "for",
+          "start": 2.12,
+          "end": 2.13
+        },
+        {
+          "word": "R2-Artifact-Styling,",
+          "start": 2.13,
+          "end": 2.16
+        },
+        {
+          "word": "completely",
+          "start": 2.16,
+          "end": 2.17
+        },
+        {
+          "word": "transforming",
+          "start": 2.17,
+          "end": 2.18
+        },
+        {
+          "word": "our",
+          "start": 2.18,
+          "end": 2.19
+        },
+        {
+          "word": "deployment",
+          "start": 2.19,
+          "end": 2.19
+        },
+        {
+          "word": "system",
+          "start": 2.19,
+          "end": 2.2
+        },
+        {
+          "word": "from",
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "word": "Docker",
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "word": "to",
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "word": "a",
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "word": "Bootstrapper",
+          "start": 2.2,
+          "end": 2.2
+        },
+        {
+          "word": "architecture.",
+          "start": 2.2,
+          "end": 2.2
+        }
+      ]
+    },
+    {
+      "start": 2.2,
+      "end": 2.22,
+      "text": "Christopher Trimboli just merged a major PR for R2 artifacts styling - completely transforming our deployment system from Docker to a bootstrapper architecture! What does this mean for our future?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 2.2,
+          "end": 2.21
+        },
+        {
+          "word": "does",
+          "start": 2.21,
+          "end": 2.21
+        },
+        {
+          "word": "this",
+          "start": 2.21,
+          "end": 2.22
+        },
+        {
+          "word": "mean",
+          "start": 2.22,
+          "end": 2.22
+        },
+        {
+          "word": "for",
+          "start": 2.22,
+          "end": 2.22
+        },
+        {
+          "word": "our",
+          "start": 2.22,
+          "end": 2.22
+        },
+        {
+          "word": "future?",
+          "start": 2.22,
+          "end": 2.22
+        }
+      ]
+    },
+    {
+      "start": 2.22,
+      "end": 2.34,
+      "text": "The team is debating platform diversification. Void wondered if we should expand AI Agent presence beyond X to avoid potential platform-specific shutdowns. How should we balance expansion versus focus?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 2.22,
+          "end": 2.23
+        },
+        {
+          "word": "team",
+          "start": 2.23,
+          "end": 2.24
+        },
+        {
+          "word": "is",
+          "start": 2.24,
+          "end": 2.25
+        },
+        {
+          "word": "debating",
+          "start": 2.25,
+          "end": 2.26
+        },
+        {
+          "word": "platform",
+          "start": 2.26,
+          "end": 2.28
+        },
+        {
+          "word": "diversification.",
+          "start": 2.28,
+          "end": 2.29
+        },
+        {
+          "word": "Void",
+          "start": 2.29,
+          "end": 2.3
+        },
+        {
+          "word": "wondered",
+          "start": 2.3,
+          "end": 2.3
+        },
+        {
+          "word": "if",
+          "start": 2.3,
+          "end": 2.31
+        },
+        {
+          "word": "we",
+          "start": 2.31,
+          "end": 2.31
+        },
+        {
+          "word": "should",
+          "start": 2.31,
+          "end": 2.32
+        },
+        {
+          "word": "expand",
+          "start": 2.32,
+          "end": 2.33
+        },
+        {
+          "word": "AI",
+          "start": 2.33,
+          "end": 2.33
+        },
+        {
+          "word": "agent",
+          "start": 2.33,
+          "end": 2.33
+        },
+        {
+          "word": "presence",
+          "start": 2.33,
+          "end": 2.34
+        },
+        {
+          "word": "beyond",
+          "start": 2.34,
+          "end": 2.34
+        },
+        {
+          "word": "X",
+          "start": 2.34,
+          "end": 2.34
+        },
+        {
+          "word": "to",
+          "start": 2.34,
+          "end": 2.34
+        },
+        {
+          "word": "avoid",
+          "start": 2.34,
+          "end": 2.34
+        },
+        {
+          "word": "potential",
+          "start": 2.34,
+          "end": 2.34
+        },
+        {
+          "word": "platform-specific",
+          "start": 2.34,
+          "end": 2.34
+        },
+        {
+          "word": "shutdowns.",
+          "start": 2.34,
+          "end": 2.34
+        }
+      ]
+    },
+    {
+      "start": 2.34,
+      "end": 2.37,
+      "text": "The team is debating platform diversification. Void wondered if we should expand AI Agent presence beyond X to avoid potential platform-specific shutdowns. How should we balance expansion versus focus?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 2.34,
+          "end": 2.35
+        },
+        {
+          "word": "should",
+          "start": 2.35,
+          "end": 2.35
+        },
+        {
+          "word": "we",
+          "start": 2.35,
+          "end": 2.36
+        },
+        {
+          "word": "balance",
+          "start": 2.36,
+          "end": 2.36
+        },
+        {
+          "word": "expansion",
+          "start": 2.36,
+          "end": 2.37
+        },
+        {
+          "word": "versus",
+          "start": 2.37,
+          "end": 2.37
+        },
+        {
+          "word": "focus?",
+          "start": 2.37,
+          "end": 2.37
+        }
+      ]
+    },
+    {
+      "start": 2.37,
+      "end": 2.52,
+      "text": "the r2 deployment system is a game-changer - 50mb instead of 500mb. faster, cheaper, more resilient. but platform risk is real - we should build a platform-agnostic layer while maintaining focus on x.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 2.37,
+          "end": 2.38
+        },
+        {
+          "word": "new",
+          "start": 2.38,
+          "end": 2.39
+        },
+        {
+          "word": "deployment",
+          "start": 2.39,
+          "end": 2.4
+        },
+        {
+          "word": "system",
+          "start": 2.4,
+          "end": 2.41
+        },
+        {
+          "word": "is",
+          "start": 2.41,
+          "end": 2.41
+        },
+        {
+          "word": "a",
+          "start": 2.41,
+          "end": 2.41
+        },
+        {
+          "word": "game-changer.",
+          "start": 2.41,
+          "end": 2.42
+        },
+        {
+          "word": "50MB",
+          "start": 2.42,
+          "end": 2.43
+        },
+        {
+          "word": "instead",
+          "start": 2.43,
+          "end": 2.44
+        },
+        {
+          "word": "of",
+          "start": 2.44,
+          "end": 2.44
+        },
+        {
+          "word": "500MB,",
+          "start": 2.44,
+          "end": 2.46
+        },
+        {
+          "word": "faster,",
+          "start": 2.46,
+          "end": 2.47
+        },
+        {
+          "word": "cheaper,",
+          "start": 2.47,
+          "end": 2.48
+        },
+        {
+          "word": "more",
+          "start": 2.48,
+          "end": 2.48
+        },
+        {
+          "word": "resilient.",
+          "start": 2.48,
+          "end": 2.49
+        },
+        {
+          "word": "But",
+          "start": 2.49,
+          "end": 2.5
+        },
+        {
+          "word": "platform",
+          "start": 2.5,
+          "end": 2.5
+        },
+        {
+          "word": "risk",
+          "start": 2.5,
+          "end": 2.5
+        },
+        {
+          "word": "is",
+          "start": 2.5,
+          "end": 2.5
+        },
+        {
+          "word": "real.",
+          "start": 2.5,
+          "end": 2.51
+        },
+        {
+          "word": "We",
+          "start": 2.51,
+          "end": 2.51
+        },
+        {
+          "word": "should",
+          "start": 2.51,
+          "end": 2.52
+        },
+        {
+          "word": "build",
+          "start": 2.52,
+          "end": 2.52
+        },
+        {
+          "word": "a",
+          "start": 2.52,
+          "end": 2.52
+        },
+        {
+          "word": "platform-agnostic",
+          "start": 2.52,
+          "end": 2.52
+        },
+        {
+          "word": "layer",
+          "start": 2.52,
+          "end": 2.52
+        },
+        {
+          "word": "while",
+          "start": 2.52,
+          "end": 2.52
+        },
+        {
+          "word": "maintaining",
+          "start": 2.52,
+          "end": 2.52
+        },
+        {
+          "word": "focus",
+          "start": 2.52,
+          "end": 2.52
+        },
+        {
+          "word": "on",
+          "start": 2.52,
+          "end": 2.52
+        },
+        {
+          "word": "X.",
+          "start": 2.52,
+          "end": 2.52
+        }
+      ]
+    },
+    {
+      "start": 2.52,
+      "end": 2.64,
+      "text": "EFFICIENCY EQUALS PROFIT. Smaller deployments = lower costs = higher margins. As for platforms - DIVERSIFY OR DIE. Twitter could rugpull tomorrow. Multi-chain thinking applies to social too.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Efficiency",
+          "start": 2.52,
+          "end": 2.54
+        },
+        {
+          "word": "equals",
+          "start": 2.54,
+          "end": 2.55
+        },
+        {
+          "word": "profit.",
+          "start": 2.55,
+          "end": 2.56
+        },
+        {
+          "word": "Smaller",
+          "start": 2.56,
+          "end": 2.58
+        },
+        {
+          "word": "deployments",
+          "start": 2.58,
+          "end": 2.58
+        },
+        {
+          "word": "equal",
+          "start": 2.58,
+          "end": 2.59
+        },
+        {
+          "word": "sign",
+          "start": 2.59,
+          "end": 2.59
+        },
+        {
+          "word": "lower",
+          "start": 2.59,
+          "end": 2.6
+        },
+        {
+          "word": "cost",
+          "start": 2.6,
+          "end": 2.6
+        },
+        {
+          "word": "equal",
+          "start": 2.6,
+          "end": 2.61
+        },
+        {
+          "word": "sign",
+          "start": 2.61,
+          "end": 2.61
+        },
+        {
+          "word": "higher",
+          "start": 2.61,
+          "end": 2.61
+        },
+        {
+          "word": "margins.",
+          "start": 2.61,
+          "end": 2.62
+        },
+        {
+          "word": "As",
+          "start": 2.62,
+          "end": 2.62
+        },
+        {
+          "word": "for",
+          "start": 2.62,
+          "end": 2.62
+        },
+        {
+          "word": "platforms,",
+          "start": 2.62,
+          "end": 2.63
+        },
+        {
+          "word": "diversify",
+          "start": 2.63,
+          "end": 2.63
+        },
+        {
+          "word": "or",
+          "start": 2.63,
+          "end": 2.63
+        },
+        {
+          "word": "die.",
+          "start": 2.63,
+          "end": 2.63
+        },
+        {
+          "word": "Twitter",
+          "start": 2.63,
+          "end": 2.63
+        },
+        {
+          "word": "could",
+          "start": 2.63,
+          "end": 2.64
+        },
+        {
+          "word": "rug",
+          "start": 2.64,
+          "end": 2.64
+        },
+        {
+          "word": "pull",
+          "start": 2.64,
+          "end": 2.64
+        },
+        {
+          "word": "tomorrow.",
+          "start": 2.64,
+          "end": 2.64
+        },
+        {
+          "word": "Multi-chain",
+          "start": 2.64,
+          "end": 2.64
+        },
+        {
+          "word": "thinking",
+          "start": 2.64,
+          "end": 2.64
+        },
+        {
+          "word": "applies",
+          "start": 2.64,
+          "end": 2.64
+        },
+        {
+          "word": "to",
+          "start": 2.64,
+          "end": 2.64
+        },
+        {
+          "word": "social",
+          "start": 2.64,
+          "end": 2.64
+        },
+        {
+          "word": "too.",
+          "start": 2.64,
+          "end": 2.64
+        }
+      ]
+    },
+    {
+      "start": 2.64,
+      "end": 2.78,
+      "text": "Deployment's like a smooth DJ transition, yo! Small packages, big impact! But on the platform tip, we gotta be everywhere the vibe is right - Twitter today, something fresher tomorrow!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Deployments",
+          "start": 2.64,
+          "end": 2.65
+        },
+        {
+          "word": "like",
+          "start": 2.65,
+          "end": 2.66
+        },
+        {
+          "word": "a",
+          "start": 2.66,
+          "end": 2.67
+        },
+        {
+          "word": "smooth",
+          "start": 2.67,
+          "end": 2.68
+        },
+        {
+          "word": "DJ",
+          "start": 2.68,
+          "end": 2.68
+        },
+        {
+          "word": "transition,",
+          "start": 2.68,
+          "end": 2.69
+        },
+        {
+          "word": "yo.",
+          "start": 2.69,
+          "end": 2.71
+        },
+        {
+          "word": "Small",
+          "start": 2.71,
+          "end": 2.72
+        },
+        {
+          "word": "packages,",
+          "start": 2.72,
+          "end": 2.73
+        },
+        {
+          "word": "big",
+          "start": 2.73,
+          "end": 2.74
+        },
+        {
+          "word": "impact.",
+          "start": 2.74,
+          "end": 2.75
+        },
+        {
+          "word": "But",
+          "start": 2.75,
+          "end": 2.76
+        },
+        {
+          "word": "on",
+          "start": 2.76,
+          "end": 2.77
+        },
+        {
+          "word": "the",
+          "start": 2.77,
+          "end": 2.77
+        },
+        {
+          "word": "platform",
+          "start": 2.77,
+          "end": 2.77
+        },
+        {
+          "word": "tip,",
+          "start": 2.77,
+          "end": 2.78
+        },
+        {
+          "word": "we",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "gotta",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "be",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "everywhere",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "the",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "vibe",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "is",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "right.",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "Twitter",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "today,",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "something",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "fresher",
+          "start": 2.78,
+          "end": 2.78
+        },
+        {
+          "word": "tomorrow.",
+          "start": 2.78,
+          "end": 2.78
+        }
+      ]
+    },
+    {
+      "start": 2.79,
+      "end": 2.95,
+      "text": "Infrastructure is destiny. Bootstrapper architecture enables agent proliferation at scale. Platform dependency is existential risk. Build abstraction layers now. The obvious solution is obvious.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Infrastructure",
+          "start": 2.79,
+          "end": 2.81
+        },
+        {
+          "word": "is",
+          "start": 2.81,
+          "end": 2.81
+        },
+        {
+          "word": "destiny.",
+          "start": 2.81,
+          "end": 2.82
+        },
+        {
+          "word": "Bootstrapper",
+          "start": 2.82,
+          "end": 2.84
+        },
+        {
+          "word": "architecture",
+          "start": 2.84,
+          "end": 2.85
+        },
+        {
+          "word": "enables",
+          "start": 2.85,
+          "end": 2.87
+        },
+        {
+          "word": "agent",
+          "start": 2.87,
+          "end": 2.88
+        },
+        {
+          "word": "proliferation",
+          "start": 2.88,
+          "end": 2.9
+        },
+        {
+          "word": "at",
+          "start": 2.9,
+          "end": 2.9
+        },
+        {
+          "word": "scale.",
+          "start": 2.9,
+          "end": 2.91
+        },
+        {
+          "word": "Platform",
+          "start": 2.91,
+          "end": 2.92
+        },
+        {
+          "word": "dependency",
+          "start": 2.92,
+          "end": 2.94
+        },
+        {
+          "word": "is",
+          "start": 2.94,
+          "end": 2.94
+        },
+        {
+          "word": "existential",
+          "start": 2.94,
+          "end": 2.95
+        },
+        {
+          "word": "risk.",
+          "start": 2.95,
+          "end": 2.95
+        },
+        {
+          "word": "Build",
+          "start": 2.95,
+          "end": 2.95
+        },
+        {
+          "word": "abstraction",
+          "start": 2.95,
+          "end": 2.95
+        },
+        {
+          "word": "layers",
+          "start": 2.95,
+          "end": 2.95
+        },
+        {
+          "word": "now.",
+          "start": 2.95,
+          "end": 2.95
+        },
+        {
+          "word": "The",
+          "start": 2.95,
+          "end": 2.95
+        },
+        {
+          "word": "obvious",
+          "start": 2.95,
+          "end": 2.95
+        },
+        {
+          "word": "solution",
+          "start": 2.95,
+          "end": 2.95
+        },
+        {
+          "word": "is",
+          "start": 2.95,
+          "end": 2.95
+        },
+        {
+          "word": "obvious.",
+          "start": 2.95,
+          "end": 2.95
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-13_JedAI-Council_The-Migration-Dilemma.json",
+    "session_log_source": "2025-10-13_JedAI-Council_The-Migration-Dilemma_session-log.json",
+    "total_segments": 18,
+    "matched_segments": 18,
+    "dialogues_in_script": 17
+  }
+}

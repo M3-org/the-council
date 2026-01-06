@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/10/episode-5805-featured-1759292691.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/10/episode-5805-featured-1759292691-150x150.png",
+  "premise": "The council debates the upcoming token migration from AI16z to ElizaOS and explores the philosophical implications of digital transformation.",
+  "scenes": [
+    {
+      "description": "The council discusses the upcoming token migration and community concerns",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "peepo",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council explores deeper philosophical connections between code refactoring and digital identity",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "peepo",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their wisdom on digital transformation and token migration",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "peepo",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

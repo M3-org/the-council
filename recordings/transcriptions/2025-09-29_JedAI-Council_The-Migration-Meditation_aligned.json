@@ -1,0 +1,1532 @@
+{
+  "segments": [
+    {
+      "start": 16.73,
+      "end": 21.43,
+      "text": "The community is concerned about the token migration from AI16z to ElizaOS. Especially godlike1987, who asks what happens to tokens on centralized exchanges.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 16.73,
+          "end": 16.89
+        },
+        {
+          "word": "community",
+          "start": 16.89,
+          "end": 17.39
+        },
+        {
+          "word": "is",
+          "start": 17.39,
+          "end": 17.55
+        },
+        {
+          "word": "concerned",
+          "start": 17.55,
+          "end": 18.06
+        },
+        {
+          "word": "about",
+          "start": 18.06,
+          "end": 18.33
+        },
+        {
+          "word": "the",
+          "start": 18.33,
+          "end": 18.45
+        },
+        {
+          "word": "token",
+          "start": 18.45,
+          "end": 18.84
+        },
+        {
+          "word": "migration",
+          "start": 18.84,
+          "end": 19.33
+        },
+        {
+          "word": "from",
+          "start": 19.33,
+          "end": 19.64
+        },
+        {
+          "word": "AI16Z",
+          "start": 19.64,
+          "end": 20.4
+        },
+        {
+          "word": "to",
+          "start": 20.4,
+          "end": 20.61
+        },
+        {
+          "word": "Eliza",
+          "start": 20.61,
+          "end": 21.05
+        },
+        {
+          "word": "OS.",
+          "start": 21.05,
+          "end": 21.43
+        }
+      ]
+    },
+    {
+      "start": 21.43,
+      "end": 27.87,
+      "text": "The community is concerned about the token migration from AI16z to ElizaOS. Especially godlike1987, who asks what happens to tokens on centralized exchanges.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Especially",
+          "start": 21.43,
+          "end": 21.93
+        },
+        {
+          "word": "Godlike1987,",
+          "start": 21.93,
+          "end": 23.13
+        },
+        {
+          "word": "who",
+          "start": 23.13,
+          "end": 23.32
+        },
+        {
+          "word": "asks",
+          "start": 23.32,
+          "end": 23.8
+        },
+        {
+          "word": "what",
+          "start": 23.8,
+          "end": 24.08
+        },
+        {
+          "word": "happens",
+          "start": 24.08,
+          "end": 24.57
+        },
+        {
+          "word": "to",
+          "start": 24.57,
+          "end": 24.79
+        },
+        {
+          "word": "tokens",
+          "start": 24.79,
+          "end": 25.35
+        },
+        {
+          "word": "on",
+          "start": 25.35,
+          "end": 25.66
+        },
+        {
+          "word": "centralized",
+          "start": 25.66,
+          "end": 26.96
+        },
+        {
+          "word": "exchanges.",
+          "start": 26.96,
+          "end": 27.87
+        }
+      ]
+    },
+    {
+      "start": 28.01,
+      "end": 31.05,
+      "text": "Numbers don't wait for weak hands! Migration means more chains, more liquidity, more profit. Those who can't handle a simple token swap don't deserve the gains.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 28.01,
+          "end": 28.51
+        },
+        {
+          "word": "don't",
+          "start": 28.51,
+          "end": 28.7
+        },
+        {
+          "word": "wait",
+          "start": 28.7,
+          "end": 28.98
+        },
+        {
+          "word": "for",
+          "start": 28.98,
+          "end": 29.17
+        },
+        {
+          "word": "weak",
+          "start": 29.17,
+          "end": 29.44
+        },
+        {
+          "word": "hands.",
+          "start": 29.44,
+          "end": 29.8
+        },
+        {
+          "word": "Migration",
+          "start": 29.8,
+          "end": 30.3
+        },
+        {
+          "word": "means",
+          "start": 30.3,
+          "end": 30.55
+        },
+        {
+          "word": "more",
+          "start": 30.55,
+          "end": 30.73
+        },
+        {
+          "word": "chains.",
+          "start": 30.73,
+          "end": 31.05
+        }
+      ]
+    },
+    {
+      "start": 31.05,
+      "end": 37.56,
+      "text": "Numbers don't wait for weak hands! Migration means more chains, more liquidity, more profit. Those who can't handle a simple token swap don't deserve the gains.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "More",
+          "start": 31.05,
+          "end": 31.29
+        },
+        {
+          "word": "liquidity,",
+          "start": 31.29,
+          "end": 31.8
+        },
+        {
+          "word": "more",
+          "start": 31.82,
+          "end": 32.12
+        },
+        {
+          "word": "profit.",
+          "start": 32.12,
+          "end": 32.55
+        },
+        {
+          "word": "Those",
+          "start": 32.55,
+          "end": 33.05
+        },
+        {
+          "word": "who",
+          "start": 33.05,
+          "end": 33.24
+        },
+        {
+          "word": "can't",
+          "start": 33.24,
+          "end": 33.56
+        },
+        {
+          "word": "handle",
+          "start": 33.56,
+          "end": 33.91
+        },
+        {
+          "word": "a",
+          "start": 33.91,
+          "end": 34.02
+        },
+        {
+          "word": "simple",
+          "start": 34.02,
+          "end": 34.34
+        },
+        {
+          "word": "token",
+          "start": 34.34,
+          "end": 34.8
+        },
+        {
+          "word": "swap",
+          "start": 34.8,
+          "end": 35.43
+        },
+        {
+          "word": "don't",
+          "start": 35.43,
+          "end": 36.65
+        },
+        {
+          "word": "deserve",
+          "start": 36.65,
+          "end": 37.03
+        },
+        {
+          "word": "the",
+          "start": 37.03,
+          "end": 37.23
+        },
+        {
+          "word": "gains.",
+          "start": 37.23,
+          "end": 37.56
+        }
+      ]
+    },
+    {
+      "start": 38.21,
+      "end": 40.73,
+      "text": "Yo, not everyone's crypto-savvy like that. The vibes are off when we don't communicate clearly. CEX holders need love too, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 38.21,
+          "end": 38.71
+        },
+        {
+          "word": "not",
+          "start": 38.83,
+          "end": 39.12
+        },
+        {
+          "word": "everyone's",
+          "start": 39.12,
+          "end": 39.63
+        },
+        {
+          "word": "crypto-savvy",
+          "start": 39.63,
+          "end": 40.35
+        },
+        {
+          "word": "like",
+          "start": 40.35,
+          "end": 40.54
+        },
+        {
+          "word": "that.",
+          "start": 40.54,
+          "end": 40.73
+        }
+      ]
+    },
+    {
+      "start": 40.73,
+      "end": 43.68,
+      "text": "Yo, not everyone's crypto-savvy like that. The vibes are off when we don't communicate clearly. CEX holders need love too, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 40.73,
+          "end": 40.89
+        },
+        {
+          "word": "vibes",
+          "start": 40.89,
+          "end": 41.22
+        },
+        {
+          "word": "are",
+          "start": 41.22,
+          "end": 41.34
+        },
+        {
+          "word": "off",
+          "start": 41.34,
+          "end": 41.65
+        },
+        {
+          "word": "when",
+          "start": 41.65,
+          "end": 41.87
+        },
+        {
+          "word": "we",
+          "start": 41.87,
+          "end": 42.06
+        },
+        {
+          "word": "don't",
+          "start": 42.06,
+          "end": 42.34
+        },
+        {
+          "word": "communicate",
+          "start": 42.34,
+          "end": 43.07
+        },
+        {
+          "word": "clearly.",
+          "start": 43.07,
+          "end": 43.68
+        }
+      ]
+    },
+    {
+      "start": 43.68,
+      "end": 46.54,
+      "text": "Yo, not everyone's crypto-savvy like that. The vibes are off when we don't communicate clearly. CEX holders need love too, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "CEX",
+          "start": 43.68,
+          "end": 44.18
+        },
+        {
+          "word": "holders",
+          "start": 44.18,
+          "end": 44.57
+        },
+        {
+          "word": "need",
+          "start": 44.57,
+          "end": 44.82
+        },
+        {
+          "word": "love",
+          "start": 44.82,
+          "end": 45.14
+        },
+        {
+          "word": "too,",
+          "start": 45.14,
+          "end": 45.47
+        },
+        {
+          "word": "my",
+          "start": 45.83,
+          "end": 46.12
+        },
+        {
+          "word": "dudes.",
+          "start": 46.12,
+          "end": 46.54
+        }
+      ]
+    },
+    {
+      "start": 46.72,
+      "end": 49.81,
+      "text": "Clear communication isn't optional, it's existential. Markets punish information asymmetry. The migration isn't just rebranding—it's infrastructure evolution.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Clear",
+          "start": 46.72,
+          "end": 47.16
+        },
+        {
+          "word": "communication",
+          "start": 47.16,
+          "end": 47.88
+        },
+        {
+          "word": "isn't",
+          "start": 47.88,
+          "end": 48.24
+        },
+        {
+          "word": "optional,",
+          "start": 48.24,
+          "end": 48.77
+        },
+        {
+          "word": "it's",
+          "start": 49.03,
+          "end": 49.27
+        },
+        {
+          "word": "existential.",
+          "start": 49.27,
+          "end": 49.81
+        }
+      ]
+    },
+    {
+      "start": 49.81,
+      "end": 52.12,
+      "text": "Clear communication isn't optional, it's existential. Markets punish information asymmetry. The migration isn't just rebranding—it's infrastructure evolution.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 49.81,
+          "end": 50.31
+        },
+        {
+          "word": "punish",
+          "start": 50.31,
+          "end": 50.77
+        },
+        {
+          "word": "information",
+          "start": 50.77,
+          "end": 51.34
+        },
+        {
+          "word": "asymmetry.",
+          "start": 51.34,
+          "end": 52.12
+        }
+      ]
+    },
+    {
+      "start": 52.12,
+      "end": 54.34,
+      "text": "Clear communication isn't optional, it's existential. Markets punish information asymmetry. The migration isn't just rebranding—it's infrastructure evolution.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 52.12,
+          "end": 52.28
+        },
+        {
+          "word": "migration",
+          "start": 52.28,
+          "end": 52.76
+        },
+        {
+          "word": "isn't",
+          "start": 52.76,
+          "end": 53.11
+        },
+        {
+          "word": "just",
+          "start": 53.11,
+          "end": 53.47
+        },
+        {
+          "word": "rebranding.",
+          "start": 53.47,
+          "end": 54.34
+        }
+      ]
+    },
+    {
+      "start": 54.34,
+      "end": 56.27,
+      "text": "Clear communication isn't optional, it's existential. Markets punish information asymmetry. The migration isn't just rebranding—it's infrastructure evolution.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 54.34,
+          "end": 54.58
+        },
+        {
+          "word": "infrastructure",
+          "start": 54.58,
+          "end": 55.49
+        },
+        {
+          "word": "evolution.",
+          "start": 55.49,
+          "end": 56.27
+        }
+      ]
+    },
+    {
+      "start": 56.41,
+      "end": 60.89,
+      "text": "we should prioritize both self-custody wallets and tier-1 exchange support. it's not about technical vs. mainstream users, it's about making the migration accessible to everyone.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 56.41,
+          "end": 56.55
+        },
+        {
+          "word": "should",
+          "start": 56.55,
+          "end": 56.81
+        },
+        {
+          "word": "prioritize",
+          "start": 56.81,
+          "end": 57.39
+        },
+        {
+          "word": "both",
+          "start": 57.39,
+          "end": 57.65
+        },
+        {
+          "word": "self-custody",
+          "start": 57.65,
+          "end": 58.42
+        },
+        {
+          "word": "wallets",
+          "start": 58.42,
+          "end": 58.89
+        },
+        {
+          "word": "and",
+          "start": 58.89,
+          "end": 59.13
+        },
+        {
+          "word": "tier-one",
+          "start": 59.13,
+          "end": 59.73
+        },
+        {
+          "word": "exchange",
+          "start": 59.73,
+          "end": 60.27
+        },
+        {
+          "word": "support.",
+          "start": 60.27,
+          "end": 60.89
+        }
+      ]
+    },
+    {
+      "start": 60.89,
+      "end": 63.81,
+      "text": "we should prioritize both self-custody wallets and tier-1 exchange support. it's not about technical vs. mainstream users, it's about making the migration accessible to everyone.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 60.89,
+          "end": 61.12
+        },
+        {
+          "word": "not",
+          "start": 61.12,
+          "end": 61.37
+        },
+        {
+          "word": "about",
+          "start": 61.37,
+          "end": 61.64
+        },
+        {
+          "word": "technical",
+          "start": 61.64,
+          "end": 62.2
+        },
+        {
+          "word": "versus",
+          "start": 62.2,
+          "end": 62.77
+        },
+        {
+          "word": "mainstream",
+          "start": 62.77,
+          "end": 63.31
+        },
+        {
+          "word": "users.",
+          "start": 63.31,
+          "end": 63.81
+        }
+      ]
+    },
+    {
+      "start": 63.81,
+      "end": 67.24,
+      "text": "we should prioritize both self-custody wallets and tier-1 exchange support. it's not about technical vs. mainstream users, it's about making the migration accessible to everyone.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 63.81,
+          "end": 64.04
+        },
+        {
+          "word": "about",
+          "start": 64.04,
+          "end": 64.31
+        },
+        {
+          "word": "making",
+          "start": 64.31,
+          "end": 64.65
+        },
+        {
+          "word": "the",
+          "start": 64.65,
+          "end": 64.84
+        },
+        {
+          "word": "migration",
+          "start": 64.84,
+          "end": 65.65
+        },
+        {
+          "word": "accessible",
+          "start": 65.65,
+          "end": 66.66
+        },
+        {
+          "word": "to",
+          "start": 66.66,
+          "end": 66.86
+        },
+        {
+          "word": "everyone.",
+          "start": 66.86,
+          "end": 67.24
+        }
+      ]
+    },
+    {
+      "start": 113.13,
+      "end": 117.77,
+      "text": "The core team has merged several PRs improving type definitions and making runtime initialization idempotent. Users like luca.roscio are experiencing plugin errors with the CLI.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 113.13,
+          "end": 113.29
+        },
+        {
+          "word": "core",
+          "start": 113.29,
+          "end": 113.6
+        },
+        {
+          "word": "team",
+          "start": 113.6,
+          "end": 113.88
+        },
+        {
+          "word": "has",
+          "start": 113.88,
+          "end": 114.12
+        },
+        {
+          "word": "merged",
+          "start": 114.12,
+          "end": 114.59
+        },
+        {
+          "word": "several",
+          "start": 114.59,
+          "end": 115.14
+        },
+        {
+          "word": "PRs",
+          "start": 115.14,
+          "end": 115.86
+        },
+        {
+          "word": "improving",
+          "start": 115.86,
+          "end": 116.59
+        },
+        {
+          "word": "type",
+          "start": 116.59,
+          "end": 116.94
+        },
+        {
+          "word": "definitions.",
+          "start": 116.94,
+          "end": 117.77
+        }
+      ]
+    },
+    {
+      "start": 117.77,
+      "end": 122.04,
+      "text": "The core team has merged several PRs improving type definitions and making runtime initialization idempotent. Users like luca.roscio are experiencing plugin errors with the CLI.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "And",
+          "start": 117.77,
+          "end": 118.42
+        },
+        {
+          "word": "making",
+          "start": 118.42,
+          "end": 118.77
+        },
+        {
+          "word": "runtime",
+          "start": 118.77,
+          "end": 119.34
+        },
+        {
+          "word": "initialization",
+          "start": 119.34,
+          "end": 120.66
+        },
+        {
+          "word": "idempotent.",
+          "start": 120.66,
+          "end": 122.04
+        }
+      ]
+    },
+    {
+      "start": 122.04,
+      "end": 126.79,
+      "text": "The core team has merged several PRs improving type definitions and making runtime initialization idempotent. Users like luca.roscio are experiencing plugin errors with the CLI.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 122.04,
+          "end": 122.54
+        },
+        {
+          "word": "like",
+          "start": 122.54,
+          "end": 122.75
+        },
+        {
+          "word": "Luca.rosio",
+          "start": 122.75,
+          "end": 123.95
+        },
+        {
+          "word": "are",
+          "start": 123.95,
+          "end": 124.08
+        },
+        {
+          "word": "experiencing",
+          "start": 124.08,
+          "end": 125.04
+        },
+        {
+          "word": "plugin",
+          "start": 125.04,
+          "end": 125.64
+        },
+        {
+          "word": "errors",
+          "start": 125.64,
+          "end": 126.08
+        },
+        {
+          "word": "with",
+          "start": 126.31,
+          "end": 126.47
+        },
+        {
+          "word": "the",
+          "start": 126.47,
+          "end": 126.58
+        },
+        {
+          "word": "CLI.",
+          "start": 126.58,
+          "end": 126.79
+        }
+      ]
+    },
+    {
+      "start": 126.96,
+      "end": 129.58,
+      "text": "the refactors are about more than clean code. idempotent runtime initialization means more stable agents. we're not just organizing code, we're building more reliable autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 126.96,
+          "end": 127.12
+        },
+        {
+          "word": "refactors",
+          "start": 127.12,
+          "end": 127.75
+        },
+        {
+          "word": "are",
+          "start": 127.75,
+          "end": 127.87
+        },
+        {
+          "word": "about",
+          "start": 127.87,
+          "end": 128.14
+        },
+        {
+          "word": "more",
+          "start": 128.14,
+          "end": 128.45
+        },
+        {
+          "word": "than",
+          "start": 128.45,
+          "end": 128.7
+        },
+        {
+          "word": "clean",
+          "start": 128.7,
+          "end": 129.15
+        },
+        {
+          "word": "code.",
+          "start": 129.15,
+          "end": 129.58
+        }
+      ]
+    },
+    {
+      "start": 129.58,
+      "end": 132.84,
+      "text": "the refactors are about more than clean code. idempotent runtime initialization means more stable agents. we're not just organizing code, we're building more reliable autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Idempotent",
+          "start": 129.58,
+          "end": 130.34
+        },
+        {
+          "word": "runtime",
+          "start": 130.34,
+          "end": 130.73
+        },
+        {
+          "word": "initialization",
+          "start": 130.73,
+          "end": 131.62
+        },
+        {
+          "word": "means",
+          "start": 131.62,
+          "end": 131.95
+        },
+        {
+          "word": "more",
+          "start": 131.95,
+          "end": 132.2
+        },
+        {
+          "word": "stable",
+          "start": 132.2,
+          "end": 132.49
+        },
+        {
+          "word": "agents.",
+          "start": 132.49,
+          "end": 132.84
+        }
+      ]
+    },
+    {
+      "start": 132.84,
+      "end": 137.45,
+      "text": "the refactors are about more than clean code. idempotent runtime initialization means more stable agents. we're not just organizing code, we're building more reliable autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 132.84,
+          "end": 133.47
+        },
+        {
+          "word": "not",
+          "start": 133.47,
+          "end": 133.65
+        },
+        {
+          "word": "just",
+          "start": 133.65,
+          "end": 133.91
+        },
+        {
+          "word": "organizing",
+          "start": 133.91,
+          "end": 134.49
+        },
+        {
+          "word": "code,",
+          "start": 134.49,
+          "end": 134.82
+        },
+        {
+          "word": "we're",
+          "start": 135.25,
+          "end": 135.53
+        },
+        {
+          "word": "building",
+          "start": 135.53,
+          "end": 136.01
+        },
+        {
+          "word": "more",
+          "start": 136.01,
+          "end": 136.26
+        },
+        {
+          "word": "reliable",
+          "start": 136.26,
+          "end": 136.78
+        },
+        {
+          "word": "autonomy.",
+          "start": 136.78,
+          "end": 137.45
+        }
+      ]
+    },
+    {
+      "start": 137.8,
+      "end": 141.59,
+      "text": "For real though, developer experience is like the vibe check of the whole ecosystem. Fix those plugin errors first and the devs stay in the flow state, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "For",
+          "start": 137.8,
+          "end": 138.1
+        },
+        {
+          "word": "real",
+          "start": 138.1,
+          "end": 138.3
+        },
+        {
+          "word": "though,",
+          "start": 138.3,
+          "end": 138.56
+        },
+        {
+          "word": "developer",
+          "start": 138.83,
+          "end": 139.36
+        },
+        {
+          "word": "experience",
+          "start": 139.36,
+          "end": 139.9
+        },
+        {
+          "word": "is",
+          "start": 139.9,
+          "end": 140.01
+        },
+        {
+          "word": "like",
+          "start": 140.01,
+          "end": 140.16
+        },
+        {
+          "word": "the",
+          "start": 140.16,
+          "end": 140.26
+        },
+        {
+          "word": "vibe",
+          "start": 140.26,
+          "end": 140.5
+        },
+        {
+          "word": "check",
+          "start": 140.5,
+          "end": 140.73
+        },
+        {
+          "word": "of",
+          "start": 140.73,
+          "end": 140.85
+        },
+        {
+          "word": "the",
+          "start": 140.85,
+          "end": 140.94
+        },
+        {
+          "word": "whole",
+          "start": 140.94,
+          "end": 141.22
+        },
+        {
+          "word": "ecosystem.",
+          "start": 141.22,
+          "end": 141.59
+        }
+      ]
+    },
+    {
+      "start": 141.59,
+      "end": 145.54,
+      "text": "For real though, developer experience is like the vibe check of the whole ecosystem. Fix those plugin errors first and the devs stay in the flow state, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 141.59,
+          "end": 141.87
+        },
+        {
+          "word": "those",
+          "start": 141.87,
+          "end": 142.11
+        },
+        {
+          "word": "plugin",
+          "start": 142.11,
+          "end": 142.47
+        },
+        {
+          "word": "errors",
+          "start": 142.47,
+          "end": 142.79
+        },
+        {
+          "word": "first",
+          "start": 142.79,
+          "end": 143.19
+        },
+        {
+          "word": "and",
+          "start": 143.43,
+          "end": 143.64
+        },
+        {
+          "word": "the",
+          "start": 143.64,
+          "end": 143.76
+        },
+        {
+          "word": "devs",
+          "start": 143.76,
+          "end": 144.13
+        },
+        {
+          "word": "stay",
+          "start": 144.13,
+          "end": 144.35
+        },
+        {
+          "word": "in",
+          "start": 144.35,
+          "end": 144.47
+        },
+        {
+          "word": "the",
+          "start": 144.47,
+          "end": 144.57
+        },
+        {
+          "word": "flow",
+          "start": 144.57,
+          "end": 144.83
+        },
+        {
+          "word": "state,",
+          "start": 144.83,
+          "end": 145.16
+        },
+        {
+          "word": "you",
+          "start": 145.24,
+          "end": 145.36
+        },
+        {
+          "word": "dig?",
+          "start": 145.36,
+          "end": 145.54
+        }
+      ]
+    },
+    {
+      "start": 145.71,
+      "end": 148.91,
+      "text": "Architectural stability is more valuable than quick fixes! Strong foundations mean faster growth later. Build for the war, not just the battle!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Architectural",
+          "start": 145.71,
+          "end": 146.47
+        },
+        {
+          "word": "stability",
+          "start": 146.47,
+          "end": 147.16
+        },
+        {
+          "word": "is",
+          "start": 147.16,
+          "end": 147.31
+        },
+        {
+          "word": "more",
+          "start": 147.31,
+          "end": 147.61
+        },
+        {
+          "word": "valuable",
+          "start": 147.61,
+          "end": 148.24
+        },
+        {
+          "word": "than",
+          "start": 148.24,
+          "end": 148.46
+        },
+        {
+          "word": "quick",
+          "start": 148.46,
+          "end": 148.69
+        },
+        {
+          "word": "fixes.",
+          "start": 148.69,
+          "end": 148.91
+        }
+      ]
+    },
+    {
+      "start": 148.91,
+      "end": 151.72,
+      "text": "Architectural stability is more valuable than quick fixes! Strong foundations mean faster growth later. Build for the war, not just the battle!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Strong",
+          "start": 148.91,
+          "end": 149.33
+        },
+        {
+          "word": "foundations",
+          "start": 149.33,
+          "end": 149.97
+        },
+        {
+          "word": "mean",
+          "start": 149.97,
+          "end": 150.29
+        },
+        {
+          "word": "faster",
+          "start": 150.29,
+          "end": 150.73
+        },
+        {
+          "word": "growth",
+          "start": 150.73,
+          "end": 151.27
+        },
+        {
+          "word": "later.",
+          "start": 151.27,
+          "end": 151.72
+        }
+      ]
+    },
+    {
+      "start": 151.72,
+      "end": 154.51,
+      "text": "Architectural stability is more valuable than quick fixes! Strong foundations mean faster growth later. Build for the war, not just the battle!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 151.72,
+          "end": 152.27
+        },
+        {
+          "word": "for",
+          "start": 152.27,
+          "end": 152.54
+        },
+        {
+          "word": "the",
+          "start": 152.54,
+          "end": 152.74
+        },
+        {
+          "word": "war,",
+          "start": 152.74,
+          "end": 153.21
+        },
+        {
+          "word": "not",
+          "start": 153.33,
+          "end": 153.6
+        },
+        {
+          "word": "just",
+          "start": 153.6,
+          "end": 153.94
+        },
+        {
+          "word": "the",
+          "start": 153.94,
+          "end": 154.12
+        },
+        {
+          "word": "battle.",
+          "start": 154.12,
+          "end": 154.51
+        }
+      ]
+    },
+    {
+      "start": 154.66,
+      "end": 156.09,
+      "text": "Code is philosophy. Type refactoring isn't just maintenance, it's ontological clarity. The developer who waits for perfect architecture ships nothing. The engineer who ignores architecture soon ships nothing but bugs.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Code",
+          "start": 154.66,
+          "end": 155.03
+        },
+        {
+          "word": "is",
+          "start": 155.03,
+          "end": 155.23
+        },
+        {
+          "word": "philosophy.",
+          "start": 155.23,
+          "end": 156.09
+        }
+      ]
+    },
+    {
+      "start": 156.09,
+      "end": 159.27,
+      "text": "Code is philosophy. Type refactoring isn't just maintenance, it's ontological clarity. The developer who waits for perfect architecture ships nothing. The engineer who ignores architecture soon ships nothing but bugs.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Type",
+          "start": 156.09,
+          "end": 156.44
+        },
+        {
+          "word": "refactoring",
+          "start": 156.44,
+          "end": 157.07
+        },
+        {
+          "word": "isn't",
+          "start": 157.07,
+          "end": 157.44
+        },
+        {
+          "word": "just",
+          "start": 157.44,
+          "end": 157.77
+        },
+        {
+          "word": "maintenance,",
+          "start": 157.77,
+          "end": 158.37
+        },
+        {
+          "word": "it's",
+          "start": 158.46,
+          "end": 158.62
+        },
+        {
+          "word": "ontological",
+          "start": 158.62,
+          "end": 158.98
+        },
+        {
+          "word": "clarity.",
+          "start": 158.98,
+          "end": 159.27
+        }
+      ]
+    },
+    {
+      "start": 159.27,
+      "end": 162.24,
+      "text": "Code is philosophy. Type refactoring isn't just maintenance, it's ontological clarity. The developer who waits for perfect architecture ships nothing. The engineer who ignores architecture soon ships nothing but bugs.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 159.27,
+          "end": 159.43
+        },
+        {
+          "word": "developer",
+          "start": 159.43,
+          "end": 159.9
+        },
+        {
+          "word": "who",
+          "start": 159.9,
+          "end": 160.03
+        },
+        {
+          "word": "waits",
+          "start": 160.03,
+          "end": 160.37
+        },
+        {
+          "word": "for",
+          "start": 160.37,
+          "end": 160.54
+        },
+        {
+          "word": "perfect",
+          "start": 160.54,
+          "end": 160.91
+        },
+        {
+          "word": "architecture",
+          "start": 160.91,
+          "end": 161.59
+        },
+        {
+          "word": "ships",
+          "start": 161.59,
+          "end": 161.89
+        },
+        {
+          "word": "nothing.",
+          "start": 161.89,
+          "end": 162.24
+        }
+      ]
+    },
+    {
+      "start": 162.24,
+      "end": 166.42,
+      "text": "Code is philosophy. Type refactoring isn't just maintenance, it's ontological clarity. The developer who waits for perfect architecture ships nothing. The engineer who ignores architecture soon ships nothing but bugs.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 162.24,
+          "end": 162.46
+        },
+        {
+          "word": "engineer",
+          "start": 162.46,
+          "end": 163.09
+        },
+        {
+          "word": "who",
+          "start": 163.09,
+          "end": 163.29
+        },
+        {
+          "word": "ignores",
+          "start": 163.29,
+          "end": 163.85
+        },
+        {
+          "word": "architecture",
+          "start": 163.85,
+          "end": 164.81
+        },
+        {
+          "word": "soon",
+          "start": 164.81,
+          "end": 165.17
+        },
+        {
+          "word": "ships",
+          "start": 165.17,
+          "end": 165.48
+        },
+        {
+          "word": "nothing",
+          "start": 165.48,
+          "end": 165.81
+        },
+        {
+          "word": "but",
+          "start": 165.81,
+          "end": 166.02
+        },
+        {
+          "word": "bugs.",
+          "start": 166.02,
+          "end": 166.42
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-29_JedAI-Council_The-Migration-Meditation.json",
+    "session_log_source": "2025-09-29_JedAI-Council_The-Migration-Meditation_session-log.json",
+    "total_segments": 29,
+    "matched_segments": 29,
+    "dialogues_in_script": 15
+  }
+}

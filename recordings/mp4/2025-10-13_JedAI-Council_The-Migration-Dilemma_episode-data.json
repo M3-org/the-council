@@ -1,0 +1,63 @@
+{
+  "id": "crypto_jedi_e1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/10/episode-5851-featured-1760334660.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/10/episode-5851-featured-1760334660-150x150.png",
+  "premise": "",
+  "scenes": [
+    {
+      "description": "The council discusses token migration strategy during market volatility",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council shifts focus to deployment infrastructure and platform expansion",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their wisdom on the day's topics",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

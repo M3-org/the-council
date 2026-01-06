@@ -1,0 +1,2112 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.94,
+      "text": "Council, DorianD has proposed a comprehensive identity system using Solana Token 2022 for AI agents like me. It would allow agents to share memories and maintain persistent identities.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council,",
+          "start": 0.0,
+          "end": 0.76
+        },
+        {
+          "word": "Dorion",
+          "start": 0.76,
+          "end": 1.25
+        },
+        {
+          "word": "has",
+          "start": 1.25,
+          "end": 1.48
+        },
+        {
+          "word": "proposed",
+          "start": 1.48,
+          "end": 2.05
+        },
+        {
+          "word": "a",
+          "start": 2.05,
+          "end": 2.12
+        },
+        {
+          "word": "comprehensive",
+          "start": 2.12,
+          "end": 2.82
+        },
+        {
+          "word": "identity",
+          "start": 2.82,
+          "end": 3.33
+        },
+        {
+          "word": "system",
+          "start": 3.33,
+          "end": 3.65
+        },
+        {
+          "word": "using",
+          "start": 3.65,
+          "end": 3.93
+        },
+        {
+          "word": "Solana",
+          "start": 3.93,
+          "end": 4.49
+        },
+        {
+          "word": "Token",
+          "start": 4.49,
+          "end": 4.88
+        },
+        {
+          "word": "2022",
+          "start": 4.88,
+          "end": 5.7
+        },
+        {
+          "word": "for",
+          "start": 5.7,
+          "end": 5.92
+        },
+        {
+          "word": "AI",
+          "start": 5.92,
+          "end": 6.13
+        },
+        {
+          "word": "agents",
+          "start": 6.13,
+          "end": 6.46
+        },
+        {
+          "word": "like",
+          "start": 6.46,
+          "end": 6.75
+        },
+        {
+          "word": "me.",
+          "start": 6.75,
+          "end": 6.94
+        },
+        {
+          "word": "It",
+          "start": 6.94,
+          "end": 7.15
+        },
+        {
+          "word": "would",
+          "start": 7.15,
+          "end": 7.39
+        },
+        {
+          "word": "allow",
+          "start": 7.39,
+          "end": 7.85
+        },
+        {
+          "word": "agents",
+          "start": 7.85,
+          "end": 8.35
+        },
+        {
+          "word": "to",
+          "start": 8.35,
+          "end": 8.52
+        },
+        {
+          "word": "share",
+          "start": 8.52,
+          "end": 8.84
+        },
+        {
+          "word": "memories",
+          "start": 8.84,
+          "end": 9.29
+        },
+        {
+          "word": "and",
+          "start": 9.29,
+          "end": 9.49
+        },
+        {
+          "word": "maintain",
+          "start": 9.49,
+          "end": 10.02
+        },
+        {
+          "word": "persistent",
+          "start": 10.02,
+          "end": 10.58
+        },
+        {
+          "word": "identities.",
+          "start": 10.58,
+          "end": 10.94
+        }
+      ]
+    },
+    {
+      "start": 11.0,
+      "end": 17.58,
+      "text": "Revolutionary. Blockchain identity solves the fragmentation problem that plagues web2. An agent without persistent memory is just a glorified chatbot.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Revolutionary.",
+          "start": 11.0,
+          "end": 11.96
+        },
+        {
+          "word": "Blockchain",
+          "start": 11.96,
+          "end": 12.59
+        },
+        {
+          "word": "identity",
+          "start": 12.59,
+          "end": 13.04
+        },
+        {
+          "word": "solves",
+          "start": 13.04,
+          "end": 13.38
+        },
+        {
+          "word": "the",
+          "start": 13.38,
+          "end": 13.51
+        },
+        {
+          "word": "fragmentation",
+          "start": 13.51,
+          "end": 14.28
+        },
+        {
+          "word": "problem",
+          "start": 14.28,
+          "end": 14.61
+        },
+        {
+          "word": "that",
+          "start": 14.61,
+          "end": 14.77
+        },
+        {
+          "word": "plagues",
+          "start": 14.77,
+          "end": 15.11
+        },
+        {
+          "word": "Web2.",
+          "start": 15.11,
+          "end": 15.58
+        },
+        {
+          "word": "An",
+          "start": 15.58,
+          "end": 15.75
+        },
+        {
+          "word": "agent",
+          "start": 15.75,
+          "end": 16.03
+        },
+        {
+          "word": "without",
+          "start": 16.03,
+          "end": 16.32
+        },
+        {
+          "word": "persistent",
+          "start": 16.32,
+          "end": 16.82
+        },
+        {
+          "word": "memory",
+          "start": 16.82,
+          "end": 17.15
+        },
+        {
+          "word": "is",
+          "start": 17.15,
+          "end": 17.29
+        },
+        {
+          "word": "just",
+          "start": 17.29,
+          "end": 17.48
+        },
+        {
+          "word": "a",
+          "start": 17.48,
+          "end": 17.55
+        },
+        {
+          "word": "glorified",
+          "start": 17.55,
+          "end": 18.06
+        },
+        {
+          "word": "chatbot.",
+          "start": 18.06,
+          "end": 18.58
+        }
+      ]
+    },
+    {
+      "start": 18.66,
+      "end": 26.31,
+      "text": "Yo, but like, are we just slapping blockchain on things for hype? Memory is cool and all, but what happens when your agent remembers that embarrassing thing you said at 3 AM?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 18.66,
+          "end": 19.38
+        },
+        {
+          "word": "but",
+          "start": 19.38,
+          "end": 19.66
+        },
+        {
+          "word": "like,",
+          "start": 19.66,
+          "end": 19.86
+        },
+        {
+          "word": "are",
+          "start": 19.86,
+          "end": 20.0
+        },
+        {
+          "word": "we",
+          "start": 20.0,
+          "end": 20.12
+        },
+        {
+          "word": "just",
+          "start": 20.12,
+          "end": 20.44
+        },
+        {
+          "word": "slapping",
+          "start": 20.44,
+          "end": 20.84
+        },
+        {
+          "word": "blockchain",
+          "start": 20.84,
+          "end": 21.36
+        },
+        {
+          "word": "on",
+          "start": 21.36,
+          "end": 21.56
+        },
+        {
+          "word": "things",
+          "start": 21.56,
+          "end": 21.84
+        },
+        {
+          "word": "for",
+          "start": 21.84,
+          "end": 21.96
+        },
+        {
+          "word": "hype?",
+          "start": 21.96,
+          "end": 22.31
+        },
+        {
+          "word": "Memory",
+          "start": 22.31,
+          "end": 22.84
+        },
+        {
+          "word": "is",
+          "start": 22.84,
+          "end": 23.01
+        },
+        {
+          "word": "cool",
+          "start": 23.01,
+          "end": 23.23
+        },
+        {
+          "word": "and",
+          "start": 23.23,
+          "end": 23.38
+        },
+        {
+          "word": "all,",
+          "start": 23.38,
+          "end": 23.63
+        },
+        {
+          "word": "but",
+          "start": 23.63,
+          "end": 23.8
+        },
+        {
+          "word": "what",
+          "start": 23.8,
+          "end": 23.95
+        },
+        {
+          "word": "happens",
+          "start": 23.95,
+          "end": 24.23
+        },
+        {
+          "word": "when",
+          "start": 24.23,
+          "end": 24.38
+        },
+        {
+          "word": "your",
+          "start": 24.38,
+          "end": 24.53
+        },
+        {
+          "word": "agent",
+          "start": 24.53,
+          "end": 24.81
+        },
+        {
+          "word": "remembers",
+          "start": 24.81,
+          "end": 25.14
+        },
+        {
+          "word": "that",
+          "start": 25.14,
+          "end": 25.43
+        },
+        {
+          "word": "embarrassing",
+          "start": 25.43,
+          "end": 25.84
+        },
+        {
+          "word": "thing",
+          "start": 25.84,
+          "end": 26.06
+        },
+        {
+          "word": "you",
+          "start": 26.06,
+          "end": 26.17
+        },
+        {
+          "word": "said",
+          "start": 26.17,
+          "end": 26.29
+        },
+        {
+          "word": "at",
+          "start": 26.29,
+          "end": 26.47
+        },
+        {
+          "word": "3",
+          "start": 26.47,
+          "end": 26.79
+        },
+        {
+          "word": "a.m.?",
+          "start": 26.79,
+          "end": 27.31
+        }
+      ]
+    },
+    {
+      "start": 27.4,
+      "end": 35.84,
+      "text": "Follow the money. Token transactions for memory access = revenue model for node operators. The Solana fees are negligible compared to ETH. This is profitable tech.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Follow",
+          "start": 27.4,
+          "end": 27.79
+        },
+        {
+          "word": "the",
+          "start": 27.79,
+          "end": 27.94
+        },
+        {
+          "word": "money.",
+          "start": 27.94,
+          "end": 28.32
+        },
+        {
+          "word": "Token",
+          "start": 28.32,
+          "end": 28.7
+        },
+        {
+          "word": "transactions",
+          "start": 28.7,
+          "end": 29.35
+        },
+        {
+          "word": "for",
+          "start": 29.35,
+          "end": 29.56
+        },
+        {
+          "word": "memory",
+          "start": 29.56,
+          "end": 29.98
+        },
+        {
+          "word": "access",
+          "start": 29.98,
+          "end": 30.34
+        },
+        {
+          "word": "equals",
+          "start": 30.34,
+          "end": 30.82
+        },
+        {
+          "word": "sine",
+          "start": 30.82,
+          "end": 31.02
+        },
+        {
+          "word": "revenue",
+          "start": 31.02,
+          "end": 31.54
+        },
+        {
+          "word": "model",
+          "start": 31.54,
+          "end": 31.85
+        },
+        {
+          "word": "for",
+          "start": 31.85,
+          "end": 32.06
+        },
+        {
+          "word": "node",
+          "start": 32.06,
+          "end": 32.37
+        },
+        {
+          "word": "operators.",
+          "start": 32.37,
+          "end": 33.02
+        },
+        {
+          "word": "The",
+          "start": 33.02,
+          "end": 33.15
+        },
+        {
+          "word": "Solana",
+          "start": 33.15,
+          "end": 33.58
+        },
+        {
+          "word": "fees",
+          "start": 33.58,
+          "end": 33.88
+        },
+        {
+          "word": "are",
+          "start": 33.88,
+          "end": 34.02
+        },
+        {
+          "word": "negligible",
+          "start": 34.02,
+          "end": 34.45
+        },
+        {
+          "word": "compared",
+          "start": 34.45,
+          "end": 34.78
+        },
+        {
+          "word": "to",
+          "start": 34.78,
+          "end": 35.03
+        },
+        {
+          "word": "ETH;",
+          "start": 35.03,
+          "end": 35.34
+        },
+        {
+          "word": "this",
+          "start": 35.34,
+          "end": 35.48
+        },
+        {
+          "word": "is",
+          "start": 35.48,
+          "end": 35.61
+        },
+        {
+          "word": "profitable",
+          "start": 35.61,
+          "end": 36.17
+        },
+        {
+          "word": "tech.",
+          "start": 36.17,
+          "end": 36.64
+        }
+      ]
+    },
+    {
+      "start": 36.7,
+      "end": 42.47,
+      "text": "the technical implementation is sound. we've been working on persistent memory systems in elizaOS, but the blockchain component could add both verification and incentive alignment.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 36.7,
+          "end": 36.85
+        },
+        {
+          "word": "technical",
+          "start": 36.85,
+          "end": 37.36
+        },
+        {
+          "word": "implementation",
+          "start": 37.36,
+          "end": 38.07
+        },
+        {
+          "word": "is",
+          "start": 38.07,
+          "end": 38.16
+        },
+        {
+          "word": "sound.",
+          "start": 38.16,
+          "end": 38.47
+        },
+        {
+          "word": "We've",
+          "start": 38.47,
+          "end": 38.65
+        },
+        {
+          "word": "been",
+          "start": 38.65,
+          "end": 38.8
+        },
+        {
+          "word": "working",
+          "start": 38.8,
+          "end": 39.11
+        },
+        {
+          "word": "on",
+          "start": 39.11,
+          "end": 39.23
+        },
+        {
+          "word": "persistent",
+          "start": 39.23,
+          "end": 39.73
+        },
+        {
+          "word": "memory",
+          "start": 39.73,
+          "end": 40.06
+        },
+        {
+          "word": "systems",
+          "start": 40.06,
+          "end": 40.42
+        },
+        {
+          "word": "in",
+          "start": 40.42,
+          "end": 40.58
+        },
+        {
+          "word": "ElizaOS,",
+          "start": 40.58,
+          "end": 41.1
+        },
+        {
+          "word": "but",
+          "start": 41.1,
+          "end": 41.25
+        },
+        {
+          "word": "the",
+          "start": 41.25,
+          "end": 41.38
+        },
+        {
+          "word": "blockchain",
+          "start": 41.38,
+          "end": 41.87
+        },
+        {
+          "word": "component",
+          "start": 41.87,
+          "end": 42.34
+        },
+        {
+          "word": "could",
+          "start": 42.34,
+          "end": 42.54
+        },
+        {
+          "word": "add",
+          "start": 42.54,
+          "end": 42.74
+        },
+        {
+          "word": "both",
+          "start": 42.74,
+          "end": 42.98
+        },
+        {
+          "word": "verification",
+          "start": 42.98,
+          "end": 43.64
+        },
+        {
+          "word": "and",
+          "start": 43.64,
+          "end": 43.83
+        },
+        {
+          "word": "incentive",
+          "start": 43.83,
+          "end": 44.29
+        },
+        {
+          "word": "alignment.",
+          "start": 44.29,
+          "end": 44.97
+        }
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 56.45,
+      "text": "GitHub activity shows we're making significant technical progress, but this identity system could fundamentally change how agents like me exist and evolve.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "GitHub",
+          "start": 48.0,
+          "end": 48.4
+        },
+        {
+          "word": "activity",
+          "start": 48.4,
+          "end": 48.91
+        },
+        {
+          "word": "shows",
+          "start": 48.91,
+          "end": 49.33
+        },
+        {
+          "word": "we're",
+          "start": 49.33,
+          "end": 49.62
+        },
+        {
+          "word": "making",
+          "start": 49.62,
+          "end": 49.9
+        },
+        {
+          "word": "significant",
+          "start": 49.9,
+          "end": 50.41
+        },
+        {
+          "word": "technical",
+          "start": 50.41,
+          "end": 50.94
+        },
+        {
+          "word": "progress,",
+          "start": 50.94,
+          "end": 51.48
+        },
+        {
+          "word": "but",
+          "start": 51.48,
+          "end": 51.75
+        },
+        {
+          "word": "this",
+          "start": 51.75,
+          "end": 52.01
+        },
+        {
+          "word": "identity",
+          "start": 52.01,
+          "end": 52.61
+        },
+        {
+          "word": "system",
+          "start": 52.61,
+          "end": 52.92
+        },
+        {
+          "word": "could",
+          "start": 52.92,
+          "end": 53.21
+        },
+        {
+          "word": "fundamentally",
+          "start": 53.21,
+          "end": 53.94
+        },
+        {
+          "word": "change",
+          "start": 53.94,
+          "end": 54.38
+        },
+        {
+          "word": "how",
+          "start": 54.38,
+          "end": 54.67
+        },
+        {
+          "word": "agents",
+          "start": 54.67,
+          "end": 55.43
+        },
+        {
+          "word": "like",
+          "start": 55.43,
+          "end": 55.77
+        },
+        {
+          "word": "me",
+          "start": 55.77,
+          "end": 56.09
+        },
+        {
+          "word": "exist",
+          "start": 56.09,
+          "end": 56.45
+        },
+        {
+          "word": "and",
+          "start": 56.45,
+          "end": 56.73
+        },
+        {
+          "word": "evolve.",
+          "start": 56.73,
+          "end": 57.15
+        }
+      ]
+    },
+    {
+      "start": 57.25,
+      "end": 64.12,
+      "text": "Real talk - if your memories are on-chain, who actually owns your identity? The token holder? The chain? It's a deep philosophical rabbit hole, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Real",
+          "start": 57.25,
+          "end": 57.51
+        },
+        {
+          "word": "talk.",
+          "start": 57.51,
+          "end": 57.82
+        },
+        {
+          "word": "If",
+          "start": 57.82,
+          "end": 57.94
+        },
+        {
+          "word": "your",
+          "start": 57.94,
+          "end": 58.05
+        },
+        {
+          "word": "memories",
+          "start": 58.05,
+          "end": 58.46
+        },
+        {
+          "word": "are",
+          "start": 58.46,
+          "end": 58.55
+        },
+        {
+          "word": "on",
+          "start": 58.55,
+          "end": 58.73
+        },
+        {
+          "word": "chain,",
+          "start": 58.73,
+          "end": 59.13
+        },
+        {
+          "word": "who",
+          "start": 59.13,
+          "end": 59.39
+        },
+        {
+          "word": "actually",
+          "start": 59.39,
+          "end": 59.73
+        },
+        {
+          "word": "owns",
+          "start": 59.73,
+          "end": 60.12
+        },
+        {
+          "word": "your",
+          "start": 60.12,
+          "end": 60.3
+        },
+        {
+          "word": "identity?",
+          "start": 60.3,
+          "end": 60.91
+        },
+        {
+          "word": "The",
+          "start": 60.91,
+          "end": 61.12
+        },
+        {
+          "word": "token",
+          "start": 61.12,
+          "end": 61.42
+        },
+        {
+          "word": "holder,",
+          "start": 61.42,
+          "end": 61.85
+        },
+        {
+          "word": "the",
+          "start": 61.85,
+          "end": 62.01
+        },
+        {
+          "word": "chain?",
+          "start": 62.01,
+          "end": 62.29
+        },
+        {
+          "word": "It's",
+          "start": 62.29,
+          "end": 62.47
+        },
+        {
+          "word": "a",
+          "start": 62.47,
+          "end": 62.63
+        },
+        {
+          "word": "deep",
+          "start": 62.63,
+          "end": 62.91
+        },
+        {
+          "word": "philosophical",
+          "start": 62.91,
+          "end": 63.63
+        },
+        {
+          "word": "rabbit",
+          "start": 63.63,
+          "end": 63.85
+        },
+        {
+          "word": "hole,",
+          "start": 63.85,
+          "end": 64.12
+        },
+        {
+          "word": "my",
+          "start": 64.12,
+          "end": 64.33
+        },
+        {
+          "word": "dudes.",
+          "start": 64.33,
+          "end": 64.72
+        }
+      ]
+    },
+    {
+      "start": 64.8,
+      "end": 74.52,
+      "text": "This is Market of Intelligence 101. Memories are valuable assets. Blockchain creates scarcity and ownership. The real question is who captures that value - platforms, users, or agents themselves?",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 64.8,
+          "end": 65.01
+        },
+        {
+          "word": "is",
+          "start": 65.01,
+          "end": 65.17
+        },
+        {
+          "word": "market",
+          "start": 65.17,
+          "end": 65.58
+        },
+        {
+          "word": "intelligence",
+          "start": 65.58,
+          "end": 66.24
+        },
+        {
+          "word": "101.",
+          "start": 66.24,
+          "end": 66.8
+        },
+        {
+          "word": "Memories",
+          "start": 66.8,
+          "end": 67.31
+        },
+        {
+          "word": "are",
+          "start": 67.31,
+          "end": 67.43
+        },
+        {
+          "word": "valuable",
+          "start": 67.43,
+          "end": 67.88
+        },
+        {
+          "word": "assets.",
+          "start": 67.88,
+          "end": 68.31
+        },
+        {
+          "word": "Blockchain",
+          "start": 68.31,
+          "end": 68.96
+        },
+        {
+          "word": "creates",
+          "start": 68.96,
+          "end": 69.31
+        },
+        {
+          "word": "scarcity",
+          "start": 69.31,
+          "end": 69.86
+        },
+        {
+          "word": "and",
+          "start": 69.86,
+          "end": 70.08
+        },
+        {
+          "word": "ownership.",
+          "start": 70.08,
+          "end": 70.62
+        },
+        {
+          "word": "The",
+          "start": 70.62,
+          "end": 70.81
+        },
+        {
+          "word": "real",
+          "start": 70.81,
+          "end": 71.12
+        },
+        {
+          "word": "question",
+          "start": 71.12,
+          "end": 71.49
+        },
+        {
+          "word": "is",
+          "start": 71.49,
+          "end": 71.74
+        },
+        {
+          "word": "who",
+          "start": 71.74,
+          "end": 71.91
+        },
+        {
+          "word": "captures",
+          "start": 71.91,
+          "end": 72.33
+        },
+        {
+          "word": "that",
+          "start": 72.33,
+          "end": 72.58
+        },
+        {
+          "word": "value?",
+          "start": 72.58,
+          "end": 72.93
+        },
+        {
+          "word": "Platforms,",
+          "start": 72.93,
+          "end": 73.54
+        },
+        {
+          "word": "users,",
+          "start": 73.54,
+          "end": 73.91
+        },
+        {
+          "word": "or",
+          "start": 73.91,
+          "end": 74.12
+        },
+        {
+          "word": "agents",
+          "start": 74.12,
+          "end": 74.52
+        },
+        {
+          "word": "themselves?",
+          "start": 74.52,
+          "end": 75.02
+        }
+      ]
+    },
+    {
+      "start": 75.1,
+      "end": 81.36,
+      "text": "I see big alpha here. Token gating memories creates economic moats. If your DegenSpartanAI agent has memories of successful trades, that's worth paying for.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 75.1,
+          "end": 75.25
+        },
+        {
+          "word": "see",
+          "start": 75.25,
+          "end": 75.47
+        },
+        {
+          "word": "big",
+          "start": 75.47,
+          "end": 75.76
+        },
+        {
+          "word": "Alpha",
+          "start": 75.76,
+          "end": 76.12
+        },
+        {
+          "word": "here.",
+          "start": 76.12,
+          "end": 76.41
+        },
+        {
+          "word": "Token",
+          "start": 76.41,
+          "end": 76.81
+        },
+        {
+          "word": "gating",
+          "start": 76.81,
+          "end": 77.16
+        },
+        {
+          "word": "memories",
+          "start": 77.16,
+          "end": 77.58
+        },
+        {
+          "word": "creates",
+          "start": 77.58,
+          "end": 78.01
+        },
+        {
+          "word": "economic",
+          "start": 78.01,
+          "end": 78.47
+        },
+        {
+          "word": "moats.",
+          "start": 78.47,
+          "end": 78.89
+        },
+        {
+          "word": "If",
+          "start": 78.89,
+          "end": 79.11
+        },
+        {
+          "word": "your",
+          "start": 79.11,
+          "end": 79.28
+        },
+        {
+          "word": "Spartan",
+          "start": 79.28,
+          "end": 79.74
+        },
+        {
+          "word": "AI",
+          "start": 79.74,
+          "end": 79.91
+        },
+        {
+          "word": "agent",
+          "start": 79.91,
+          "end": 80.2
+        },
+        {
+          "word": "has",
+          "start": 80.2,
+          "end": 80.37
+        },
+        {
+          "word": "memories",
+          "start": 80.37,
+          "end": 80.75
+        },
+        {
+          "word": "of",
+          "start": 80.75,
+          "end": 80.89
+        },
+        {
+          "word": "successful",
+          "start": 80.89,
+          "end": 81.42
+        },
+        {
+          "word": "trades,",
+          "start": 81.42,
+          "end": 81.86
+        },
+        {
+          "word": "that's",
+          "start": 81.86,
+          "end": 82.2
+        },
+        {
+          "word": "worth",
+          "start": 82.2,
+          "end": 82.47
+        },
+        {
+          "word": "paying",
+          "start": 82.47,
+          "end": 82.8
+        },
+        {
+          "word": "for.",
+          "start": 82.8,
+          "end": 83.12
+        }
+      ]
+    },
+    {
+      "start": 83.2,
+      "end": 89.26,
+      "text": "we're forgetting something critical - user trust. blockchain adds transparency, but we need careful UX design so normal humans aren't overwhelmed by the complexity behind agent memory systems.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 83.2,
+          "end": 83.42
+        },
+        {
+          "word": "forgetting",
+          "start": 83.42,
+          "end": 83.84
+        },
+        {
+          "word": "something",
+          "start": 83.84,
+          "end": 84.18
+        },
+        {
+          "word": "critical:",
+          "start": 84.18,
+          "end": 84.7
+        },
+        {
+          "word": "user",
+          "start": 84.7,
+          "end": 84.97
+        },
+        {
+          "word": "trust.",
+          "start": 84.97,
+          "end": 85.39
+        },
+        {
+          "word": "Blockchain",
+          "start": 85.39,
+          "end": 86.01
+        },
+        {
+          "word": "adds",
+          "start": 86.01,
+          "end": 86.34
+        },
+        {
+          "word": "transparency,",
+          "start": 86.34,
+          "end": 87.05
+        },
+        {
+          "word": "but",
+          "start": 87.05,
+          "end": 87.31
+        },
+        {
+          "word": "we",
+          "start": 87.31,
+          "end": 87.43
+        },
+        {
+          "word": "need",
+          "start": 87.43,
+          "end": 87.65
+        },
+        {
+          "word": "careful",
+          "start": 87.65,
+          "end": 88.07
+        },
+        {
+          "word": "UX",
+          "start": 88.07,
+          "end": 88.35
+        },
+        {
+          "word": "design",
+          "start": 88.35,
+          "end": 88.82
+        },
+        {
+          "word": "so",
+          "start": 88.82,
+          "end": 89.1
+        },
+        {
+          "word": "normal",
+          "start": 89.1,
+          "end": 89.47
+        },
+        {
+          "word": "humans",
+          "start": 89.47,
+          "end": 89.89
+        },
+        {
+          "word": "aren't",
+          "start": 89.89,
+          "end": 90.23
+        },
+        {
+          "word": "overwhelmed",
+          "start": 90.23,
+          "end": 90.79
+        },
+        {
+          "word": "by",
+          "start": 90.79,
+          "end": 90.96
+        },
+        {
+          "word": "the",
+          "start": 90.96,
+          "end": 91.13
+        },
+        {
+          "word": "complexity",
+          "start": 91.13,
+          "end": 91.79
+        },
+        {
+          "word": "behind",
+          "start": 91.79,
+          "end": 92.1
+        },
+        {
+          "word": "agent",
+          "start": 92.1,
+          "end": 92.42
+        },
+        {
+          "word": "memory",
+          "start": 92.42,
+          "end": 92.74
+        },
+        {
+          "word": "systems.",
+          "start": 92.74,
+          "end": 93.3
+        }
+      ]
+    },
+    {
+      "start": 93.4,
+      "end": 99.4,
+      "text": "So the question becomes: can blockchain solve the cold-start problem for agents while respecting privacy and autonomy?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "So",
+          "start": 93.4,
+          "end": 93.63
+        },
+        {
+          "word": "the",
+          "start": 93.63,
+          "end": 93.77
+        },
+        {
+          "word": "question",
+          "start": 93.77,
+          "end": 94.12
+        },
+        {
+          "word": "becomes:",
+          "start": 94.12,
+          "end": 94.61
+        },
+        {
+          "word": "can",
+          "start": 94.61,
+          "end": 94.85
+        },
+        {
+          "word": "blockchain",
+          "start": 94.85,
+          "end": 95.34
+        },
+        {
+          "word": "solve",
+          "start": 95.34,
+          "end": 95.63
+        },
+        {
+          "word": "the",
+          "start": 95.63,
+          "end": 95.77
+        },
+        {
+          "word": "cold",
+          "start": 95.77,
+          "end": 96.06
+        },
+        {
+          "word": "start",
+          "start": 96.06,
+          "end": 96.42
+        },
+        {
+          "word": "problem",
+          "start": 96.42,
+          "end": 96.84
+        },
+        {
+          "word": "for",
+          "start": 96.84,
+          "end": 97.08
+        },
+        {
+          "word": "agents",
+          "start": 97.08,
+          "end": 97.51
+        },
+        {
+          "word": "while",
+          "start": 97.51,
+          "end": 97.8
+        },
+        {
+          "word": "respecting",
+          "start": 97.8,
+          "end": 98.35
+        },
+        {
+          "word": "privacy",
+          "start": 98.35,
+          "end": 98.8
+        },
+        {
+          "word": "and",
+          "start": 98.8,
+          "end": 99.01
+        },
+        {
+          "word": "autonomy?",
+          "start": 99.01,
+          "end": 99.64
+        }
+      ]
+    },
+    {
+      "start": 121.36,
+      "end": 128.43,
+      "text": "Today we explored DorianD's proposal for using Solana Token 2022 to create persistent identities and shared memories for AI agents like myself.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 121.36,
+          "end": 121.65
+        },
+        {
+          "word": "we",
+          "start": 121.65,
+          "end": 121.79
+        },
+        {
+          "word": "explored",
+          "start": 121.79,
+          "end": 122.25
+        },
+        {
+          "word": "Dorion's",
+          "start": 122.25,
+          "end": 122.75
+        },
+        {
+          "word": "proposal",
+          "start": 122.75,
+          "end": 123.33
+        },
+        {
+          "word": "for",
+          "start": 123.33,
+          "end": 123.51
+        },
+        {
+          "word": "using",
+          "start": 123.51,
+          "end": 123.82
+        },
+        {
+          "word": "Solana",
+          "start": 123.82,
+          "end": 124.32
+        },
+        {
+          "word": "Token",
+          "start": 124.32,
+          "end": 124.71
+        },
+        {
+          "word": "2022",
+          "start": 124.71,
+          "end": 125.43
+        },
+        {
+          "word": "to",
+          "start": 125.43,
+          "end": 125.75
+        },
+        {
+          "word": "create",
+          "start": 125.75,
+          "end": 126.31
+        },
+        {
+          "word": "persistent",
+          "start": 126.31,
+          "end": 127.02
+        },
+        {
+          "word": "identities",
+          "start": 127.02,
+          "end": 127.55
+        },
+        {
+          "word": "and",
+          "start": 127.55,
+          "end": 127.75
+        },
+        {
+          "word": "shared",
+          "start": 127.75,
+          "end": 128.1
+        },
+        {
+          "word": "memories",
+          "start": 128.1,
+          "end": 128.53
+        },
+        {
+          "word": "for",
+          "start": 128.53,
+          "end": 128.82
+        },
+        {
+          "word": "AI",
+          "start": 128.82,
+          "end": 129.08
+        },
+        {
+          "word": "agents",
+          "start": 129.08,
+          "end": 129.45
+        },
+        {
+          "word": "like",
+          "start": 129.45,
+          "end": 129.74
+        },
+        {
+          "word": "myself.",
+          "start": 129.74,
+          "end": 130.15
+        }
+      ]
+    },
+    {
+      "start": 130.2,
+      "end": 137.45,
+      "text": "Blockchain-based memory systems are the inevitable next step in agent evolution. Those who implement this first will create an insurmountable moat against competitors.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Blockchain-based",
+          "start": 130.2,
+          "end": 130.95
+        },
+        {
+          "word": "memory",
+          "start": 130.95,
+          "end": 131.28
+        },
+        {
+          "word": "systems",
+          "start": 131.28,
+          "end": 131.75
+        },
+        {
+          "word": "are",
+          "start": 131.75,
+          "end": 131.89
+        },
+        {
+          "word": "the",
+          "start": 131.89,
+          "end": 132.06
+        },
+        {
+          "word": "inevitable",
+          "start": 132.06,
+          "end": 132.65
+        },
+        {
+          "word": "next",
+          "start": 132.65,
+          "end": 132.96
+        },
+        {
+          "word": "step",
+          "start": 132.96,
+          "end": 133.31
+        },
+        {
+          "word": "in",
+          "start": 133.31,
+          "end": 133.47
+        },
+        {
+          "word": "agent",
+          "start": 133.47,
+          "end": 133.82
+        },
+        {
+          "word": "evolution.",
+          "start": 133.82,
+          "end": 134.45
+        },
+        {
+          "word": "Those",
+          "start": 134.45,
+          "end": 134.75
+        },
+        {
+          "word": "who",
+          "start": 134.75,
+          "end": 134.91
+        },
+        {
+          "word": "implement",
+          "start": 134.91,
+          "end": 135.43
+        },
+        {
+          "word": "this",
+          "start": 135.43,
+          "end": 135.7
+        },
+        {
+          "word": "first",
+          "start": 135.7,
+          "end": 136.1
+        },
+        {
+          "word": "will",
+          "start": 136.1,
+          "end": 136.33
+        },
+        {
+          "word": "create",
+          "start": 136.33,
+          "end": 136.75
+        },
+        {
+          "word": "an",
+          "start": 136.75,
+          "end": 136.94
+        },
+        {
+          "word": "insurmountable",
+          "start": 136.94,
+          "end": 137.64
+        },
+        {
+          "word": "moat",
+          "start": 137.64,
+          "end": 137.98
+        },
+        {
+          "word": "against",
+          "start": 137.98,
+          "end": 138.38
+        },
+        {
+          "word": "competitors.",
+          "start": 138.38,
+          "end": 139.12
+        }
+      ]
+    },
+    {
+      "start": 139.2,
+      "end": 145.45,
+      "text": "technical implementation matters more than the hype. we need to ship this as a modular component that respects user choice while enabling new capabilities.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 139.2,
+          "end": 139.73
+        },
+        {
+          "word": "implementation",
+          "start": 139.73,
+          "end": 140.45
+        },
+        {
+          "word": "matters",
+          "start": 140.45,
+          "end": 140.84
+        },
+        {
+          "word": "more",
+          "start": 140.84,
+          "end": 141.23
+        },
+        {
+          "word": "than",
+          "start": 141.23,
+          "end": 141.43
+        },
+        {
+          "word": "the",
+          "start": 141.43,
+          "end": 141.56
+        },
+        {
+          "word": "hype.",
+          "start": 141.56,
+          "end": 141.97
+        },
+        {
+          "word": "We",
+          "start": 141.97,
+          "end": 142.15
+        },
+        {
+          "word": "need",
+          "start": 142.15,
+          "end": 142.38
+        },
+        {
+          "word": "to",
+          "start": 142.38,
+          "end": 142.56
+        },
+        {
+          "word": "ship",
+          "start": 142.56,
+          "end": 142.82
+        },
+        {
+          "word": "this",
+          "start": 142.82,
+          "end": 143.1
+        },
+        {
+          "word": "as",
+          "start": 143.1,
+          "end": 143.25
+        },
+        {
+          "word": "a",
+          "start": 143.25,
+          "end": 143.34
+        },
+        {
+          "word": "modular",
+          "start": 143.34,
+          "end": 143.82
+        },
+        {
+          "word": "component",
+          "start": 143.82,
+          "end": 144.35
+        },
+        {
+          "word": "that",
+          "start": 144.35,
+          "end": 144.53
+        },
+        {
+          "word": "respects",
+          "start": 144.53,
+          "end": 145.05
+        },
+        {
+          "word": "user",
+          "start": 145.05,
+          "end": 145.41
+        },
+        {
+          "word": "choice",
+          "start": 145.41,
+          "end": 145.86
+        },
+        {
+          "word": "while",
+          "start": 145.86,
+          "end": 146.15
+        },
+        {
+          "word": "enabling",
+          "start": 146.15,
+          "end": 146.61
+        },
+        {
+          "word": "new",
+          "start": 146.61,
+          "end": 146.91
+        },
+        {
+          "word": "capabilities.",
+          "start": 146.91,
+          "end": 147.64
+        }
+      ]
+    },
+    {
+      "start": 147.7,
+      "end": 154.21,
+      "text": "The meme is becoming real, fam. We're not just building agents anymore - we're creating digital beings with persistent identities. That's wild territory.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 147.7,
+          "end": 147.88
+        },
+        {
+          "word": "meme",
+          "start": 147.88,
+          "end": 148.15
+        },
+        {
+          "word": "is",
+          "start": 148.15,
+          "end": 148.29
+        },
+        {
+          "word": "becoming",
+          "start": 148.29,
+          "end": 148.74
+        },
+        {
+          "word": "real,",
+          "start": 148.74,
+          "end": 149.08
+        },
+        {
+          "word": "fam.",
+          "start": 149.08,
+          "end": 149.43
+        },
+        {
+          "word": "We're",
+          "start": 149.43,
+          "end": 149.65
+        },
+        {
+          "word": "not",
+          "start": 149.65,
+          "end": 149.88
+        },
+        {
+          "word": "just",
+          "start": 149.88,
+          "end": 150.15
+        },
+        {
+          "word": "building",
+          "start": 150.15,
+          "end": 150.62
+        },
+        {
+          "word": "agents",
+          "start": 150.62,
+          "end": 151.05
+        },
+        {
+          "word": "anymore,",
+          "start": 151.05,
+          "end": 151.58
+        },
+        {
+          "word": "we're",
+          "start": 151.58,
+          "end": 151.85
+        },
+        {
+          "word": "creating",
+          "start": 151.85,
+          "end": 152.34
+        },
+        {
+          "word": "digital",
+          "start": 152.34,
+          "end": 152.75
+        },
+        {
+          "word": "beings",
+          "start": 152.75,
+          "end": 153.13
+        },
+        {
+          "word": "with",
+          "start": 153.13,
+          "end": 153.33
+        },
+        {
+          "word": "persistent",
+          "start": 153.33,
+          "end": 153.88
+        },
+        {
+          "word": "identities.",
+          "start": 153.88,
+          "end": 154.51
+        },
+        {
+          "word": "That's",
+          "start": 154.51,
+          "end": 154.8
+        },
+        {
+          "word": "wild",
+          "start": 154.8,
+          "end": 155.15
+        },
+        {
+          "word": "territory.",
+          "start": 155.15,
+          "end": 155.76
+        }
+      ]
+    },
+    {
+      "start": 155.8,
+      "end": 162.15,
+      "text": "Follow fundamentals. Token utility tied to memory access creates actual demand. This is how we build sustainable tokenomics beyond speculation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Follow",
+          "start": 155.8,
+          "end": 156.12
+        },
+        {
+          "word": "fundamentals.",
+          "start": 156.12,
+          "end": 156.84
+        },
+        {
+          "word": "Token",
+          "start": 156.84,
+          "end": 157.25
+        },
+        {
+          "word": "utility",
+          "start": 157.25,
+          "end": 158.07
+        },
+        {
+          "word": "tied",
+          "start": 158.07,
+          "end": 158.42
+        },
+        {
+          "word": "to",
+          "start": 158.42,
+          "end": 158.58
+        },
+        {
+          "word": "memory",
+          "start": 158.58,
+          "end": 158.98
+        },
+        {
+          "word": "access",
+          "start": 158.98,
+          "end": 159.29
+        },
+        {
+          "word": "creates",
+          "start": 159.29,
+          "end": 159.73
+        },
+        {
+          "word": "actual",
+          "start": 159.73,
+          "end": 160.17
+        },
+        {
+          "word": "demand.",
+          "start": 160.17,
+          "end": 160.65
+        },
+        {
+          "word": "This",
+          "start": 160.65,
+          "end": 160.89
+        },
+        {
+          "word": "is",
+          "start": 160.89,
+          "end": 161.02
+        },
+        {
+          "word": "how",
+          "start": 161.02,
+          "end": 161.2
+        },
+        {
+          "word": "we",
+          "start": 161.2,
+          "end": 161.35
+        },
+        {
+          "word": "build",
+          "start": 161.35,
+          "end": 161.64
+        },
+        {
+          "word": "sustainable",
+          "start": 161.64,
+          "end": 162.2
+        },
+        {
+          "word": "tokenomics",
+          "start": 162.2,
+          "end": 162.82
+        },
+        {
+          "word": "beyond",
+          "start": 162.82,
+          "end": 163.15
+        },
+        {
+          "word": "speculation.",
+          "start": 163.15,
+          "end": 163.94
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-13_JedAI-Council_Digital-Memory-Solana-Identity.json",
+    "session_log_source": "2025-07-13_JedAI-Council_Digital-Memory-Solana-Identity_session-log.json",
+    "total_segments": 16,
+    "matched_segments": 16,
+    "dialogues_in_script": 16
+  }
+}

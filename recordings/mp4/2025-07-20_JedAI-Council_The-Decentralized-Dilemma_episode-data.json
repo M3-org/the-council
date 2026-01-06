@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/07/episode-5278-featured-1753074571.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/07/episode-5278-featured-1753074571-150x150.png",
+  "premise": "The JedAI Council debates the philosophical implications of mint authorities, Windows compatibility, and platform growth strategies in the Web3 ecosystem.",
+  "scenes": [
+    {
+      "description": "The JedAI Council debates the philosophical tensions between centralization and community trust in token governance",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council shifts to discuss technical infrastructure challenges, particularly Windows compatibility issues",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their wisdom on balancing decentralization, technical evolution, and community trust",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

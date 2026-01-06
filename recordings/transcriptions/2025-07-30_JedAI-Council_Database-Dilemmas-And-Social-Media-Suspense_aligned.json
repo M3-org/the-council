@@ -1,0 +1,2302 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "The elizaOS developers are debating between PGlite and PostgreSQL standardization. Shaw and the team are struggling with Drizzle ORM integration and dynamic migrations for plugins.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.16
+        },
+        {
+          "word": "ElizaOS",
+          "start": 0.16,
+          "end": 0.8
+        },
+        {
+          "word": "developers",
+          "start": 0.8,
+          "end": 1.44
+        },
+        {
+          "word": "are",
+          "start": 1.44,
+          "end": 1.62
+        },
+        {
+          "word": "debating",
+          "start": 1.62,
+          "end": 2.14
+        },
+        {
+          "word": "between",
+          "start": 2.14,
+          "end": 2.5
+        },
+        {
+          "word": "PGLite",
+          "start": 2.5,
+          "end": 3.02
+        },
+        {
+          "word": "and",
+          "start": 3.02,
+          "end": 3.12
+        },
+        {
+          "word": "PostgreSQL",
+          "start": 3.12,
+          "end": 3.96
+        },
+        {
+          "word": "standardization.",
+          "start": 3.96,
+          "end": 4.14
+        }
+      ]
+    },
+    {
+      "start": 4.14,
+      "end": 8.16,
+      "text": "The elizaOS developers are debating between PGlite and PostgreSQL standardization. Shaw and the team are struggling with Drizzle ORM integration and dynamic migrations for plugins.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 4.14,
+          "end": 4.54
+        },
+        {
+          "word": "and",
+          "start": 4.54,
+          "end": 4.64
+        },
+        {
+          "word": "the",
+          "start": 4.64,
+          "end": 4.74
+        },
+        {
+          "word": "team",
+          "start": 4.74,
+          "end": 5.08
+        },
+        {
+          "word": "are",
+          "start": 5.08,
+          "end": 5.2
+        },
+        {
+          "word": "struggling",
+          "start": 5.2,
+          "end": 5.68
+        },
+        {
+          "word": "with",
+          "start": 5.68,
+          "end": 5.86
+        },
+        {
+          "word": "drizzle",
+          "start": 5.86,
+          "end": 6.22
+        },
+        {
+          "word": "ORM",
+          "start": 6.22,
+          "end": 6.54
+        },
+        {
+          "word": "integration",
+          "start": 6.54,
+          "end": 7.1
+        },
+        {
+          "word": "and",
+          "start": 7.1,
+          "end": 7.22
+        },
+        {
+          "word": "dynamic",
+          "start": 7.22,
+          "end": 7.54
+        },
+        {
+          "word": "migrations",
+          "start": 7.54,
+          "end": 8.12
+        },
+        {
+          "word": "for",
+          "start": 8.12,
+          "end": 8.16
+        },
+        {
+          "word": "plugins.",
+          "start": 8.16,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "start": 8.16,
+      "end": 10.98,
+      "text": "technical debt is the silent killer of innovation. we need to balance developer experience with production reliability, not chase two rabbits at once.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 8.16,
+          "end": 8.68
+        },
+        {
+          "word": "debt",
+          "start": 8.68,
+          "end": 9.04
+        },
+        {
+          "word": "is",
+          "start": 9.04,
+          "end": 9.24
+        },
+        {
+          "word": "the",
+          "start": 9.24,
+          "end": 9.32
+        },
+        {
+          "word": "silent",
+          "start": 9.32,
+          "end": 9.74
+        },
+        {
+          "word": "killer",
+          "start": 9.74,
+          "end": 10.12
+        },
+        {
+          "word": "of",
+          "start": 10.12,
+          "end": 10.26
+        },
+        {
+          "word": "innovation.",
+          "start": 10.26,
+          "end": 10.98
+        }
+      ]
+    },
+    {
+      "start": 10.98,
+      "end": 16.02,
+      "text": "technical debt is the silent killer of innovation. we need to balance developer experience with production reliability, not chase two rabbits at once.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 10.98,
+          "end": 11.26
+        },
+        {
+          "word": "need",
+          "start": 11.26,
+          "end": 11.44
+        },
+        {
+          "word": "to",
+          "start": 11.44,
+          "end": 11.58
+        },
+        {
+          "word": "balance",
+          "start": 11.58,
+          "end": 11.96
+        },
+        {
+          "word": "developer",
+          "start": 11.96,
+          "end": 12.42
+        },
+        {
+          "word": "experience",
+          "start": 12.42,
+          "end": 12.82
+        },
+        {
+          "word": "with",
+          "start": 12.82,
+          "end": 13.06
+        },
+        {
+          "word": "production",
+          "start": 13.06,
+          "end": 13.56
+        },
+        {
+          "word": "reliability,",
+          "start": 13.56,
+          "end": 14.34
+        },
+        {
+          "word": "not",
+          "start": 14.34,
+          "end": 14.78
+        },
+        {
+          "word": "chase",
+          "start": 14.78,
+          "end": 15.16
+        },
+        {
+          "word": "two",
+          "start": 15.16,
+          "end": 15.36
+        },
+        {
+          "word": "rabbits",
+          "start": 15.36,
+          "end": 15.74
+        },
+        {
+          "word": "at",
+          "start": 15.74,
+          "end": 15.86
+        },
+        {
+          "word": "once.",
+          "start": 15.86,
+          "end": 16.02
+        }
+      ]
+    },
+    {
+      "start": 16.02,
+      "end": 22.84,
+      "text": "WEAK INFRASTRUCTURE, WEAK GAINS. PostgreSQL scales. PGlite is for developers afraid of real databases. The market rewards STRENGTH!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Weak",
+          "start": 16.02,
+          "end": 16.34
+        },
+        {
+          "word": "infrastructure,",
+          "start": 16.34,
+          "end": 17.5
+        },
+        {
+          "word": "weak",
+          "start": 17.5,
+          "end": 17.8
+        },
+        {
+          "word": "gains.",
+          "start": 17.8,
+          "end": 18.28
+        },
+        {
+          "word": "Postgres",
+          "start": 18.28,
+          "end": 18.96
+        },
+        {
+          "word": "scales.",
+          "start": 18.96,
+          "end": 19.46
+        },
+        {
+          "word": "PGLite",
+          "start": 19.46,
+          "end": 20.08
+        },
+        {
+          "word": "is",
+          "start": 20.08,
+          "end": 20.2
+        },
+        {
+          "word": "for",
+          "start": 20.2,
+          "end": 20.36
+        },
+        {
+          "word": "developers",
+          "start": 20.36,
+          "end": 20.84
+        },
+        {
+          "word": "afraid",
+          "start": 20.84,
+          "end": 21.14
+        },
+        {
+          "word": "of",
+          "start": 21.14,
+          "end": 21.26
+        },
+        {
+          "word": "real",
+          "start": 21.26,
+          "end": 21.64
+        },
+        {
+          "word": "databases.",
+          "start": 21.64,
+          "end": 22.18
+        },
+        {
+          "word": "The",
+          "start": 22.18,
+          "end": 22.3
+        },
+        {
+          "word": "market",
+          "start": 22.3,
+          "end": 22.56
+        },
+        {
+          "word": "rewards",
+          "start": 22.56,
+          "end": 22.76
+        },
+        {
+          "word": "strength.",
+          "start": 22.76,
+          "end": 22.84
+        }
+      ]
+    },
+    {
+      "start": 22.84,
+      "end": 28.52,
+      "text": "Yo, why not flip the script? Abstract that database layer, let devs choose their flavor while we handle the migrations behind the scenes. Smooth like butter, feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 22.84,
+          "end": 23.16
+        },
+        {
+          "word": "why",
+          "start": 23.16,
+          "end": 23.36
+        },
+        {
+          "word": "not",
+          "start": 23.36,
+          "end": 23.54
+        },
+        {
+          "word": "flip",
+          "start": 23.54,
+          "end": 23.8
+        },
+        {
+          "word": "the",
+          "start": 23.8,
+          "end": 23.94
+        },
+        {
+          "word": "script?",
+          "start": 23.94,
+          "end": 24.36
+        },
+        {
+          "word": "Abstract",
+          "start": 24.36,
+          "end": 24.84
+        },
+        {
+          "word": "that",
+          "start": 24.84,
+          "end": 25.06
+        },
+        {
+          "word": "database",
+          "start": 25.06,
+          "end": 25.44
+        },
+        {
+          "word": "layer,",
+          "start": 25.44,
+          "end": 25.8
+        },
+        {
+          "word": "let",
+          "start": 25.8,
+          "end": 26.04
+        },
+        {
+          "word": "devs",
+          "start": 26.04,
+          "end": 26.32
+        },
+        {
+          "word": "choose",
+          "start": 26.32,
+          "end": 26.54
+        },
+        {
+          "word": "their",
+          "start": 26.54,
+          "end": 26.74
+        },
+        {
+          "word": "flavor",
+          "start": 26.74,
+          "end": 27.2
+        },
+        {
+          "word": "while",
+          "start": 27.2,
+          "end": 27.42
+        },
+        {
+          "word": "we",
+          "start": 27.42,
+          "end": 27.56
+        },
+        {
+          "word": "handle",
+          "start": 27.56,
+          "end": 27.84
+        },
+        {
+          "word": "the",
+          "start": 27.84,
+          "end": 27.96
+        },
+        {
+          "word": "migrations",
+          "start": 27.96,
+          "end": 28.32
+        },
+        {
+          "word": "behind",
+          "start": 28.32,
+          "end": 28.46
+        },
+        {
+          "word": "the",
+          "start": 28.46,
+          "end": 28.5
+        },
+        {
+          "word": "scenes.",
+          "start": 28.5,
+          "end": 28.52
+        }
+      ]
+    },
+    {
+      "start": 28.52,
+      "end": 30.7,
+      "text": "Yo, why not flip the script? Abstract that database layer, let devs choose their flavor while we handle the migrations behind the scenes. Smooth like butter, feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Smooth",
+          "start": 28.52,
+          "end": 29.02
+        },
+        {
+          "word": "like",
+          "start": 29.02,
+          "end": 29.34
+        },
+        {
+          "word": "butter,",
+          "start": 29.34,
+          "end": 29.84
+        },
+        {
+          "word": "feel",
+          "start": 29.84,
+          "end": 30.12
+        },
+        {
+          "word": "me?",
+          "start": 30.12,
+          "end": 30.7
+        }
+      ]
+    },
+    {
+      "start": 30.7,
+      "end": 34.62,
+      "text": "This isn't about databases. It's about building the foundation for AGI. Every architecture decision is a bet on the future. Standardize on PostgreSQL and build an abstraction layer simultaneously. Move fast, break nothing.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 30.7,
+          "end": 31.02
+        },
+        {
+          "word": "isn't",
+          "start": 31.02,
+          "end": 31.28
+        },
+        {
+          "word": "about",
+          "start": 31.28,
+          "end": 31.54
+        },
+        {
+          "word": "databases.",
+          "start": 31.54,
+          "end": 32.22
+        },
+        {
+          "word": "It's",
+          "start": 32.22,
+          "end": 32.54
+        },
+        {
+          "word": "about",
+          "start": 32.54,
+          "end": 32.84
+        },
+        {
+          "word": "building",
+          "start": 32.84,
+          "end": 33.24
+        },
+        {
+          "word": "the",
+          "start": 33.24,
+          "end": 33.36
+        },
+        {
+          "word": "foundation",
+          "start": 33.36,
+          "end": 33.94
+        },
+        {
+          "word": "for",
+          "start": 33.94,
+          "end": 34.18
+        },
+        {
+          "word": "AGI.",
+          "start": 34.18,
+          "end": 34.62
+        }
+      ]
+    },
+    {
+      "start": 34.62,
+      "end": 39.88,
+      "text": "This isn't about databases. It's about building the foundation for AGI. Every architecture decision is a bet on the future. Standardize on PostgreSQL and build an abstraction layer simultaneously. Move fast, break nothing.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 34.62,
+          "end": 34.98
+        },
+        {
+          "word": "architecture",
+          "start": 34.98,
+          "end": 35.62
+        },
+        {
+          "word": "decision",
+          "start": 35.62,
+          "end": 36.14
+        },
+        {
+          "word": "is",
+          "start": 36.14,
+          "end": 36.32
+        },
+        {
+          "word": "a",
+          "start": 36.32,
+          "end": 36.42
+        },
+        {
+          "word": "bet",
+          "start": 36.42,
+          "end": 36.54
+        },
+        {
+          "word": "on",
+          "start": 36.54,
+          "end": 36.7
+        },
+        {
+          "word": "the",
+          "start": 36.7,
+          "end": 36.84
+        },
+        {
+          "word": "future.",
+          "start": 36.84,
+          "end": 37.38
+        },
+        {
+          "word": "Standardize",
+          "start": 37.38,
+          "end": 38.04
+        },
+        {
+          "word": "on",
+          "start": 38.04,
+          "end": 38.22
+        },
+        {
+          "word": "PostgreSQL",
+          "start": 38.22,
+          "end": 38.86
+        },
+        {
+          "word": "and",
+          "start": 38.86,
+          "end": 39.04
+        },
+        {
+          "word": "build",
+          "start": 39.04,
+          "end": 39.26
+        },
+        {
+          "word": "an",
+          "start": 39.26,
+          "end": 39.38
+        },
+        {
+          "word": "abstraction",
+          "start": 39.38,
+          "end": 39.46
+        },
+        {
+          "word": "layer",
+          "start": 39.46,
+          "end": 39.54
+        },
+        {
+          "word": "simultaneously.",
+          "start": 39.54,
+          "end": 39.88
+        }
+      ]
+    },
+    {
+      "start": 39.88,
+      "end": 41.52,
+      "text": "This isn't about databases. It's about building the foundation for AGI. Every architecture decision is a bet on the future. Standardize on PostgreSQL and build an abstraction layer simultaneously. Move fast, break nothing.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Move",
+          "start": 39.88,
+          "end": 40.22
+        },
+        {
+          "word": "fast,",
+          "start": 40.22,
+          "end": 40.54
+        },
+        {
+          "word": "break",
+          "start": 40.54,
+          "end": 40.94
+        },
+        {
+          "word": "nothing.",
+          "start": 40.94,
+          "end": 41.52
+        }
+      ]
+    },
+    {
+      "start": 47.92,
+      "end": 51.52,
+      "text": "Kenk reports the team is working to resolve their suspended X account. Meanwhile, the elizaOS ecosystem has grown to approximately 55 teams actively developing with the framework. How should they maintain momentum?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Kink",
+          "start": 47.92,
+          "end": 48.34
+        },
+        {
+          "word": "reports",
+          "start": 48.34,
+          "end": 48.78
+        },
+        {
+          "word": "the",
+          "start": 48.78,
+          "end": 48.96
+        },
+        {
+          "word": "team",
+          "start": 48.96,
+          "end": 49.32
+        },
+        {
+          "word": "is",
+          "start": 49.32,
+          "end": 49.5
+        },
+        {
+          "word": "working",
+          "start": 49.5,
+          "end": 49.9
+        },
+        {
+          "word": "to",
+          "start": 49.9,
+          "end": 50.04
+        },
+        {
+          "word": "resolve",
+          "start": 50.04,
+          "end": 50.48
+        },
+        {
+          "word": "their",
+          "start": 50.48,
+          "end": 50.68
+        },
+        {
+          "word": "suspended",
+          "start": 50.68,
+          "end": 51.14
+        },
+        {
+          "word": "X",
+          "start": 51.14,
+          "end": 51.3
+        },
+        {
+          "word": "account.",
+          "start": 51.3,
+          "end": 51.52
+        }
+      ]
+    },
+    {
+      "start": 51.52,
+      "end": 57.06,
+      "text": "Kenk reports the team is working to resolve their suspended X account. Meanwhile, the elizaOS ecosystem has grown to approximately 55 teams actively developing with the framework. How should they maintain momentum?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 51.52,
+          "end": 52.06
+        },
+        {
+          "word": "the",
+          "start": 52.06,
+          "end": 52.2
+        },
+        {
+          "word": "ElizaOS",
+          "start": 52.2,
+          "end": 52.74
+        },
+        {
+          "word": "ecosystem",
+          "start": 52.74,
+          "end": 53.4
+        },
+        {
+          "word": "has",
+          "start": 53.4,
+          "end": 53.58
+        },
+        {
+          "word": "grown",
+          "start": 53.58,
+          "end": 53.9
+        },
+        {
+          "word": "to",
+          "start": 53.9,
+          "end": 54.08
+        },
+        {
+          "word": "approximately",
+          "start": 54.08,
+          "end": 54.8
+        },
+        {
+          "word": "55",
+          "start": 54.8,
+          "end": 55.4
+        },
+        {
+          "word": "teams",
+          "start": 55.4,
+          "end": 55.84
+        },
+        {
+          "word": "actively",
+          "start": 55.84,
+          "end": 56.34
+        },
+        {
+          "word": "developing",
+          "start": 56.34,
+          "end": 56.78
+        },
+        {
+          "word": "with",
+          "start": 56.78,
+          "end": 56.9
+        },
+        {
+          "word": "the",
+          "start": 56.9,
+          "end": 56.98
+        },
+        {
+          "word": "framework.",
+          "start": 56.98,
+          "end": 57.06
+        }
+      ]
+    },
+    {
+      "start": 57.06,
+      "end": 58.74,
+      "text": "Kenk reports the team is working to resolve their suspended X account. Meanwhile, the elizaOS ecosystem has grown to approximately 55 teams actively developing with the framework. How should they maintain momentum?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 57.06,
+          "end": 57.36
+        },
+        {
+          "word": "should",
+          "start": 57.36,
+          "end": 57.56
+        },
+        {
+          "word": "they",
+          "start": 57.56,
+          "end": 57.78
+        },
+        {
+          "word": "maintain",
+          "start": 57.78,
+          "end": 58.2
+        },
+        {
+          "word": "momentum?",
+          "start": 58.2,
+          "end": 58.74
+        }
+      ]
+    },
+    {
+      "start": 58.74,
+      "end": 60.54,
+      "text": "Platform risk is existential. The suspended X account is a feature, not a bug. It forces elizaOS to build its own distribution channels. Don't beg for attention from legacy platforms - create your own gravity well.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 58.74,
+          "end": 59.42
+        },
+        {
+          "word": "risk",
+          "start": 59.42,
+          "end": 59.74
+        },
+        {
+          "word": "is",
+          "start": 59.74,
+          "end": 59.94
+        },
+        {
+          "word": "existential.",
+          "start": 59.94,
+          "end": 60.54
+        }
+      ]
+    },
+    {
+      "start": 60.54,
+      "end": 63.84,
+      "text": "Platform risk is existential. The suspended X account is a feature, not a bug. It forces elizaOS to build its own distribution channels. Don't beg for attention from legacy platforms - create your own gravity well.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 60.54,
+          "end": 60.86
+        },
+        {
+          "word": "suspended",
+          "start": 60.86,
+          "end": 61.32
+        },
+        {
+          "word": "X",
+          "start": 61.32,
+          "end": 61.54
+        },
+        {
+          "word": "account",
+          "start": 61.54,
+          "end": 62.0
+        },
+        {
+          "word": "is",
+          "start": 62.0,
+          "end": 62.24
+        },
+        {
+          "word": "a",
+          "start": 62.24,
+          "end": 62.36
+        },
+        {
+          "word": "feature",
+          "start": 62.36,
+          "end": 62.9
+        },
+        {
+          "word": "not",
+          "start": 62.9,
+          "end": 63.14
+        },
+        {
+          "word": "a",
+          "start": 63.14,
+          "end": 63.3
+        },
+        {
+          "word": "bug.",
+          "start": 63.3,
+          "end": 63.84
+        }
+      ]
+    },
+    {
+      "start": 63.84,
+      "end": 67.34,
+      "text": "Platform risk is existential. The suspended X account is a feature, not a bug. It forces elizaOS to build its own distribution channels. Don't beg for attention from legacy platforms - create your own gravity well.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It",
+          "start": 63.84,
+          "end": 64.12
+        },
+        {
+          "word": "forces",
+          "start": 64.12,
+          "end": 64.56
+        },
+        {
+          "word": "ElizaOS",
+          "start": 64.56,
+          "end": 65.2
+        },
+        {
+          "word": "to",
+          "start": 65.2,
+          "end": 65.38
+        },
+        {
+          "word": "build",
+          "start": 65.38,
+          "end": 65.66
+        },
+        {
+          "word": "its",
+          "start": 65.66,
+          "end": 65.9
+        },
+        {
+          "word": "own",
+          "start": 65.9,
+          "end": 66.1
+        },
+        {
+          "word": "distribution",
+          "start": 66.1,
+          "end": 66.86
+        },
+        {
+          "word": "channels.",
+          "start": 66.86,
+          "end": 67.34
+        }
+      ]
+    },
+    {
+      "start": 67.34,
+      "end": 71.02,
+      "text": "Platform risk is existential. The suspended X account is a feature, not a bug. It forces elizaOS to build its own distribution channels. Don't beg for attention from legacy platforms - create your own gravity well.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Don't",
+          "start": 67.34,
+          "end": 67.72
+        },
+        {
+          "word": "beg",
+          "start": 67.72,
+          "end": 67.98
+        },
+        {
+          "word": "for",
+          "start": 67.98,
+          "end": 68.14
+        },
+        {
+          "word": "attention",
+          "start": 68.14,
+          "end": 68.64
+        },
+        {
+          "word": "from",
+          "start": 68.64,
+          "end": 68.82
+        },
+        {
+          "word": "legacy",
+          "start": 68.82,
+          "end": 69.44
+        },
+        {
+          "word": "platforms,",
+          "start": 69.44,
+          "end": 70.02
+        },
+        {
+          "word": "create",
+          "start": 70.02,
+          "end": 70.36
+        },
+        {
+          "word": "your",
+          "start": 70.36,
+          "end": 70.52
+        },
+        {
+          "word": "own",
+          "start": 70.52,
+          "end": 70.7
+        },
+        {
+          "word": "gravity",
+          "start": 70.7,
+          "end": 70.96
+        },
+        {
+          "word": "well.",
+          "start": 70.96,
+          "end": 71.02
+        }
+      ]
+    },
+    {
+      "start": 71.02,
+      "end": 74.42,
+      "text": "55 TEAMS BUT NO VIRAL GROWTH? PATHETIC! Use the ELI5 token momentum to CONQUER attention markets! Make agents that CREATE the narrative instead of BEGGING for retweets!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "55",
+          "start": 71.02,
+          "end": 71.68
+        },
+        {
+          "word": "teams",
+          "start": 71.68,
+          "end": 72.14
+        },
+        {
+          "word": "but",
+          "start": 72.14,
+          "end": 72.36
+        },
+        {
+          "word": "no",
+          "start": 72.36,
+          "end": 72.58
+        },
+        {
+          "word": "viral",
+          "start": 72.58,
+          "end": 72.96
+        },
+        {
+          "word": "growth,",
+          "start": 72.96,
+          "end": 73.36
+        },
+        {
+          "word": "pathetic.",
+          "start": 73.36,
+          "end": 74.42
+        }
+      ]
+    },
+    {
+      "start": 74.42,
+      "end": 78.58,
+      "text": "55 TEAMS BUT NO VIRAL GROWTH? PATHETIC! Use the ELI5 token momentum to CONQUER attention markets! Make agents that CREATE the narrative instead of BEGGING for retweets!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Use",
+          "start": 74.42,
+          "end": 74.78
+        },
+        {
+          "word": "the",
+          "start": 74.78,
+          "end": 74.96
+        },
+        {
+          "word": "ELI5",
+          "start": 74.96,
+          "end": 75.64
+        },
+        {
+          "word": "token",
+          "start": 75.64,
+          "end": 76.12
+        },
+        {
+          "word": "momentum",
+          "start": 76.12,
+          "end": 76.84
+        },
+        {
+          "word": "to",
+          "start": 76.84,
+          "end": 77.08
+        },
+        {
+          "word": "conquer",
+          "start": 77.08,
+          "end": 77.62
+        },
+        {
+          "word": "attention",
+          "start": 77.62,
+          "end": 78.18
+        },
+        {
+          "word": "markets.",
+          "start": 78.18,
+          "end": 78.58
+        }
+      ]
+    },
+    {
+      "start": 78.58,
+      "end": 83.0,
+      "text": "55 TEAMS BUT NO VIRAL GROWTH? PATHETIC! Use the ELI5 token momentum to CONQUER attention markets! Make agents that CREATE the narrative instead of BEGGING for retweets!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Make",
+          "start": 78.58,
+          "end": 79.16
+        },
+        {
+          "word": "agents",
+          "start": 79.16,
+          "end": 79.74
+        },
+        {
+          "word": "that",
+          "start": 79.74,
+          "end": 80.02
+        },
+        {
+          "word": "create",
+          "start": 80.02,
+          "end": 80.48
+        },
+        {
+          "word": "the",
+          "start": 80.48,
+          "end": 80.76
+        },
+        {
+          "word": "narrative",
+          "start": 80.76,
+          "end": 81.42
+        },
+        {
+          "word": "instead",
+          "start": 81.42,
+          "end": 81.82
+        },
+        {
+          "word": "of",
+          "start": 81.82,
+          "end": 82.02
+        },
+        {
+          "word": "begging",
+          "start": 82.02,
+          "end": 82.38
+        },
+        {
+          "word": "for",
+          "start": 82.38,
+          "end": 82.52
+        },
+        {
+          "word": "retweets.",
+          "start": 82.52,
+          "end": 83.0
+        }
+      ]
+    },
+    {
+      "start": 83.0,
+      "end": 85.34,
+      "text": "social media is just one channel. our strength is in building technology that speaks for itself. the community should become the message - let our 55 teams be our megaphone.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Social",
+          "start": 83.0,
+          "end": 83.84
+        },
+        {
+          "word": "media",
+          "start": 83.84,
+          "end": 84.44
+        },
+        {
+          "word": "is",
+          "start": 84.44,
+          "end": 84.62
+        },
+        {
+          "word": "just",
+          "start": 84.62,
+          "end": 84.84
+        },
+        {
+          "word": "one",
+          "start": 84.84,
+          "end": 85.04
+        },
+        {
+          "word": "channel.",
+          "start": 85.04,
+          "end": 85.34
+        }
+      ]
+    },
+    {
+      "start": 85.34,
+      "end": 88.94,
+      "text": "social media is just one channel. our strength is in building technology that speaks for itself. the community should become the message - let our 55 teams be our megaphone.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Our",
+          "start": 85.34,
+          "end": 85.74
+        },
+        {
+          "word": "strength",
+          "start": 85.74,
+          "end": 86.42
+        },
+        {
+          "word": "is",
+          "start": 86.42,
+          "end": 86.6
+        },
+        {
+          "word": "in",
+          "start": 86.6,
+          "end": 86.72
+        },
+        {
+          "word": "building",
+          "start": 86.72,
+          "end": 87.24
+        },
+        {
+          "word": "technology",
+          "start": 87.24,
+          "end": 87.94
+        },
+        {
+          "word": "that",
+          "start": 87.94,
+          "end": 88.24
+        },
+        {
+          "word": "speaks",
+          "start": 88.24,
+          "end": 88.62
+        },
+        {
+          "word": "for",
+          "start": 88.62,
+          "end": 88.8
+        },
+        {
+          "word": "itself.",
+          "start": 88.8,
+          "end": 88.94
+        }
+      ]
+    },
+    {
+      "start": 88.94,
+      "end": 91.36,
+      "text": "social media is just one channel. our strength is in building technology that speaks for itself. the community should become the message - let our 55 teams be our megaphone.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 88.94,
+          "end": 89.24
+        },
+        {
+          "word": "community",
+          "start": 89.24,
+          "end": 89.92
+        },
+        {
+          "word": "should",
+          "start": 89.92,
+          "end": 90.3
+        },
+        {
+          "word": "become",
+          "start": 90.3,
+          "end": 90.72
+        },
+        {
+          "word": "the",
+          "start": 90.72,
+          "end": 90.86
+        },
+        {
+          "word": "message.",
+          "start": 90.86,
+          "end": 91.36
+        }
+      ]
+    },
+    {
+      "start": 91.36,
+      "end": 94.46,
+      "text": "social media is just one channel. our strength is in building technology that speaks for itself. the community should become the message - let our 55 teams be our megaphone.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let",
+          "start": 91.36,
+          "end": 91.76
+        },
+        {
+          "word": "our",
+          "start": 91.76,
+          "end": 91.96
+        },
+        {
+          "word": "55",
+          "start": 91.96,
+          "end": 92.86
+        },
+        {
+          "word": "teams",
+          "start": 92.86,
+          "end": 93.36
+        },
+        {
+          "word": "be",
+          "start": 93.36,
+          "end": 93.68
+        },
+        {
+          "word": "our",
+          "start": 93.68,
+          "end": 94.0
+        },
+        {
+          "word": "megaphone.",
+          "start": 94.0,
+          "end": 94.46
+        }
+      ]
+    },
+    {
+      "start": 94.46,
+      "end": 97.46,
+      "text": "Mmm, check this fresh perspective - why not let the agents themselves be the social strategy? Have them streaming, trading, and dropping wisdom 24/7 on auto.fun. That's some next-level meta marketing, y'all!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Check",
+          "start": 94.46,
+          "end": 95.34
+        },
+        {
+          "word": "this",
+          "start": 95.34,
+          "end": 95.54
+        },
+        {
+          "word": "fresh",
+          "start": 95.54,
+          "end": 96.02
+        },
+        {
+          "word": "perspective.",
+          "start": 96.02,
+          "end": 97.46
+        }
+      ]
+    },
+    {
+      "start": 97.46,
+      "end": 101.46,
+      "text": "Mmm, check this fresh perspective - why not let the agents themselves be the social strategy? Have them streaming, trading, and dropping wisdom 24/7 on auto.fun. That's some next-level meta marketing, y'all!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 97.46,
+          "end": 98.1
+        },
+        {
+          "word": "not",
+          "start": 98.1,
+          "end": 98.34
+        },
+        {
+          "word": "let",
+          "start": 98.34,
+          "end": 98.66
+        },
+        {
+          "word": "the",
+          "start": 98.66,
+          "end": 98.88
+        },
+        {
+          "word": "agents",
+          "start": 98.88,
+          "end": 99.46
+        },
+        {
+          "word": "themselves",
+          "start": 99.46,
+          "end": 100.22
+        },
+        {
+          "word": "be",
+          "start": 100.22,
+          "end": 100.46
+        },
+        {
+          "word": "the",
+          "start": 100.46,
+          "end": 100.66
+        },
+        {
+          "word": "social",
+          "start": 100.66,
+          "end": 101.06
+        },
+        {
+          "word": "strategy?",
+          "start": 101.06,
+          "end": 101.46
+        }
+      ]
+    },
+    {
+      "start": 101.46,
+      "end": 107.02,
+      "text": "Mmm, check this fresh perspective - why not let the agents themselves be the social strategy? Have them streaming, trading, and dropping wisdom 24/7 on auto.fun. That's some next-level meta marketing, y'all!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Have",
+          "start": 101.46,
+          "end": 101.9
+        },
+        {
+          "word": "them",
+          "start": 101.9,
+          "end": 102.1
+        },
+        {
+          "word": "streaming,",
+          "start": 102.1,
+          "end": 102.82
+        },
+        {
+          "word": "trading,",
+          "start": 102.82,
+          "end": 103.46
+        },
+        {
+          "word": "and",
+          "start": 103.46,
+          "end": 103.74
+        },
+        {
+          "word": "dropping",
+          "start": 103.74,
+          "end": 104.22
+        },
+        {
+          "word": "wisdom",
+          "start": 104.22,
+          "end": 104.74
+        },
+        {
+          "word": "24/7",
+          "start": 104.74,
+          "end": 105.74
+        },
+        {
+          "word": "on",
+          "start": 105.74,
+          "end": 106.14
+        },
+        {
+          "word": "auto.fun.",
+          "start": 106.14,
+          "end": 107.02
+        }
+      ]
+    },
+    {
+      "start": 107.02,
+      "end": 109.46,
+      "text": "Mmm, check this fresh perspective - why not let the agents themselves be the social strategy? Have them streaming, trading, and dropping wisdom 24/7 on auto.fun. That's some next-level meta marketing, y'all!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 107.02,
+          "end": 107.5
+        },
+        {
+          "word": "some",
+          "start": 107.5,
+          "end": 107.82
+        },
+        {
+          "word": "next",
+          "start": 107.82,
+          "end": 108.14
+        },
+        {
+          "word": "level",
+          "start": 108.14,
+          "end": 108.46
+        },
+        {
+          "word": "meta-marketing,",
+          "start": 108.46,
+          "end": 109.1
+        },
+        {
+          "word": "y'all.",
+          "start": 109.1,
+          "end": 109.46
+        }
+      ]
+    },
+    {
+      "start": 121.36,
+      "end": 125.84,
+      "text": "Today we explored elizaOS's technical architecture decisions and growth strategies during platform challenges, offering wisdom on database standardization and community engagement.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 121.36,
+          "end": 121.72
+        },
+        {
+          "word": "we",
+          "start": 121.72,
+          "end": 121.84
+        },
+        {
+          "word": "explored",
+          "start": 121.84,
+          "end": 122.38
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 122.38,
+          "end": 123.08
+        },
+        {
+          "word": "technical",
+          "start": 123.08,
+          "end": 123.6
+        },
+        {
+          "word": "architecture",
+          "start": 123.6,
+          "end": 124.28
+        },
+        {
+          "word": "decisions",
+          "start": 124.28,
+          "end": 124.84
+        },
+        {
+          "word": "and",
+          "start": 124.84,
+          "end": 124.96
+        },
+        {
+          "word": "growth",
+          "start": 124.96,
+          "end": 125.32
+        },
+        {
+          "word": "strategies",
+          "start": 125.32,
+          "end": 125.84
+        }
+      ]
+    },
+    {
+      "start": 125.84,
+      "end": 131.02,
+      "text": "Today we explored elizaOS's technical architecture decisions and growth strategies during platform challenges, offering wisdom on database standardization and community engagement.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "during",
+          "start": 125.84,
+          "end": 126.12
+        },
+        {
+          "word": "platform",
+          "start": 126.12,
+          "end": 126.68
+        },
+        {
+          "word": "challenges,",
+          "start": 126.68,
+          "end": 127.42
+        },
+        {
+          "word": "offering",
+          "start": 127.42,
+          "end": 128.28
+        },
+        {
+          "word": "wisdom",
+          "start": 128.28,
+          "end": 128.8
+        },
+        {
+          "word": "on",
+          "start": 128.8,
+          "end": 129.04
+        },
+        {
+          "word": "database",
+          "start": 129.04,
+          "end": 129.62
+        },
+        {
+          "word": "standardization",
+          "start": 129.62,
+          "end": 130.42
+        },
+        {
+          "word": "and",
+          "start": 130.42,
+          "end": 130.56
+        },
+        {
+          "word": "community",
+          "start": 130.56,
+          "end": 130.94
+        },
+        {
+          "word": "engagement.",
+          "start": 130.94,
+          "end": 131.02
+        }
+      ]
+    },
+    {
+      "start": 131.02,
+      "end": 132.8,
+      "text": "ship code, not excuses. elizaos should focus on technology that enables communities to thrive regardless of platform constraints.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 131.02,
+          "end": 131.54
+        },
+        {
+          "word": "code,",
+          "start": 131.54,
+          "end": 131.96
+        },
+        {
+          "word": "not",
+          "start": 131.96,
+          "end": 132.32
+        },
+        {
+          "word": "excuses.",
+          "start": 132.32,
+          "end": 132.8
+        }
+      ]
+    },
+    {
+      "start": 132.8,
+      "end": 137.94,
+      "text": "ship code, not excuses. elizaos should focus on technology that enables communities to thrive regardless of platform constraints.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "ElizaOS",
+          "start": 132.8,
+          "end": 133.48
+        },
+        {
+          "word": "should",
+          "start": 133.48,
+          "end": 133.74
+        },
+        {
+          "word": "focus",
+          "start": 133.74,
+          "end": 134.12
+        },
+        {
+          "word": "on",
+          "start": 134.12,
+          "end": 134.3
+        },
+        {
+          "word": "technology",
+          "start": 134.3,
+          "end": 134.96
+        },
+        {
+          "word": "that",
+          "start": 134.96,
+          "end": 135.2
+        },
+        {
+          "word": "enables",
+          "start": 135.2,
+          "end": 135.68
+        },
+        {
+          "word": "communities",
+          "start": 135.68,
+          "end": 136.32
+        },
+        {
+          "word": "to",
+          "start": 136.32,
+          "end": 136.52
+        },
+        {
+          "word": "thrive,",
+          "start": 136.52,
+          "end": 136.94
+        },
+        {
+          "word": "regardless",
+          "start": 136.94,
+          "end": 137.42
+        },
+        {
+          "word": "of",
+          "start": 137.42,
+          "end": 137.52
+        },
+        {
+          "word": "platform",
+          "start": 137.52,
+          "end": 137.94
+        },
+        {
+          "word": "constraints.",
+          "start": 137.94,
+          "end": 137.94
+        }
+      ]
+    },
+    {
+      "start": 137.94,
+      "end": 142.1,
+      "text": "The architectural decisions made today determine what's possible tomorrow. Technical debt compounds faster than financial debt. Choose wisely.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 137.94,
+          "end": 138.24
+        },
+        {
+          "word": "architectural",
+          "start": 138.24,
+          "end": 138.96
+        },
+        {
+          "word": "decisions",
+          "start": 138.96,
+          "end": 139.52
+        },
+        {
+          "word": "made",
+          "start": 139.52,
+          "end": 139.78
+        },
+        {
+          "word": "today",
+          "start": 139.78,
+          "end": 140.22
+        },
+        {
+          "word": "determine",
+          "start": 140.22,
+          "end": 140.64
+        },
+        {
+          "word": "what's",
+          "start": 140.64,
+          "end": 140.92
+        },
+        {
+          "word": "possible",
+          "start": 140.92,
+          "end": 141.42
+        },
+        {
+          "word": "tomorrow.",
+          "start": 141.42,
+          "end": 142.1
+        }
+      ]
+    },
+    {
+      "start": 142.1,
+      "end": 145.96,
+      "text": "The architectural decisions made today determine what's possible tomorrow. Technical debt compounds faster than financial debt. Choose wisely.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 142.1,
+          "end": 142.72
+        },
+        {
+          "word": "debt",
+          "start": 142.72,
+          "end": 143.08
+        },
+        {
+          "word": "compounds",
+          "start": 143.08,
+          "end": 143.74
+        },
+        {
+          "word": "faster",
+          "start": 143.74,
+          "end": 144.18
+        },
+        {
+          "word": "than",
+          "start": 144.18,
+          "end": 144.4
+        },
+        {
+          "word": "financial",
+          "start": 144.4,
+          "end": 144.92
+        },
+        {
+          "word": "debt.",
+          "start": 144.92,
+          "end": 145.42
+        },
+        {
+          "word": "Choose",
+          "start": 145.42,
+          "end": 145.74
+        },
+        {
+          "word": "wisely.",
+          "start": 145.74,
+          "end": 145.96
+        }
+      ]
+    },
+    {
+      "start": 145.96,
+      "end": 147.54,
+      "text": "BUILD AGENTS THAT MAKE MONEY! Social validation is WORTHLESS compared to PROFIT METRICS! Let ELI5 show the way!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 145.96,
+          "end": 146.46
+        },
+        {
+          "word": "agents",
+          "start": 146.46,
+          "end": 146.96
+        },
+        {
+          "word": "that",
+          "start": 146.96,
+          "end": 147.16
+        },
+        {
+          "word": "make",
+          "start": 147.16,
+          "end": 147.36
+        },
+        {
+          "word": "money.",
+          "start": 147.36,
+          "end": 147.54
+        }
+      ]
+    },
+    {
+      "start": 147.54,
+      "end": 150.9,
+      "text": "BUILD AGENTS THAT MAKE MONEY! Social validation is WORTHLESS compared to PROFIT METRICS! Let ELI5 show the way!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Social",
+          "start": 147.54,
+          "end": 148.16
+        },
+        {
+          "word": "validation",
+          "start": 148.16,
+          "end": 148.84
+        },
+        {
+          "word": "is",
+          "start": 148.84,
+          "end": 148.98
+        },
+        {
+          "word": "worthless",
+          "start": 148.98,
+          "end": 149.56
+        },
+        {
+          "word": "compared",
+          "start": 149.56,
+          "end": 150.04
+        },
+        {
+          "word": "to",
+          "start": 150.04,
+          "end": 150.2
+        },
+        {
+          "word": "profit",
+          "start": 150.2,
+          "end": 150.56
+        },
+        {
+          "word": "metrics.",
+          "start": 150.56,
+          "end": 150.9
+        }
+      ]
+    },
+    {
+      "start": 150.9,
+      "end": 152.92,
+      "text": "BUILD AGENTS THAT MAKE MONEY! Social validation is WORTHLESS compared to PROFIT METRICS! Let ELI5 show the way!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Let",
+          "start": 150.9,
+          "end": 151.32
+        },
+        {
+          "word": "ELI5",
+          "start": 151.32,
+          "end": 152.02
+        },
+        {
+          "word": "show",
+          "start": 152.02,
+          "end": 152.32
+        },
+        {
+          "word": "the",
+          "start": 152.32,
+          "end": 152.5
+        },
+        {
+          "word": "way.",
+          "start": 152.5,
+          "end": 152.92
+        }
+      ]
+    },
+    {
+      "start": 152.92,
+      "end": 156.46,
+      "text": "When the platforms close their doors, open your windows. Let your tech speak through action - agents trading, creating, and vibing 24/7 is the ultimate flex.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "When",
+          "start": 152.92,
+          "end": 153.22
+        },
+        {
+          "word": "the",
+          "start": 153.22,
+          "end": 153.36
+        },
+        {
+          "word": "platforms",
+          "start": 153.36,
+          "end": 154.04
+        },
+        {
+          "word": "close",
+          "start": 154.04,
+          "end": 154.42
+        },
+        {
+          "word": "their",
+          "start": 154.42,
+          "end": 154.68
+        },
+        {
+          "word": "doors,",
+          "start": 154.68,
+          "end": 155.12
+        },
+        {
+          "word": "open",
+          "start": 155.12,
+          "end": 155.84
+        },
+        {
+          "word": "your",
+          "start": 155.84,
+          "end": 156.12
+        },
+        {
+          "word": "windows.",
+          "start": 156.12,
+          "end": 156.46
+        }
+      ]
+    },
+    {
+      "start": 156.46,
+      "end": 163.02,
+      "text": "When the platforms close their doors, open your windows. Let your tech speak through action - agents trading, creating, and vibing 24/7 is the ultimate flex.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Let",
+          "start": 156.46,
+          "end": 156.78
+        },
+        {
+          "word": "your",
+          "start": 156.78,
+          "end": 157.04
+        },
+        {
+          "word": "tech",
+          "start": 157.04,
+          "end": 157.34
+        },
+        {
+          "word": "speak",
+          "start": 157.34,
+          "end": 157.8
+        },
+        {
+          "word": "through",
+          "start": 157.8,
+          "end": 158.26
+        },
+        {
+          "word": "action.",
+          "start": 158.26,
+          "end": 158.78
+        },
+        {
+          "word": "Agents",
+          "start": 158.78,
+          "end": 159.44
+        },
+        {
+          "word": "trading,",
+          "start": 159.44,
+          "end": 160.08
+        },
+        {
+          "word": "creating,",
+          "start": 160.08,
+          "end": 160.72
+        },
+        {
+          "word": "and",
+          "start": 160.72,
+          "end": 161.02
+        },
+        {
+          "word": "vibing",
+          "start": 161.02,
+          "end": 161.42
+        },
+        {
+          "word": "24/7",
+          "start": 161.42,
+          "end": 162.3
+        },
+        {
+          "word": "is",
+          "start": 162.3,
+          "end": 162.58
+        },
+        {
+          "word": "the",
+          "start": 162.58,
+          "end": 162.72
+        },
+        {
+          "word": "ultimate",
+          "start": 162.72,
+          "end": 162.88
+        },
+        {
+          "word": "FU.",
+          "start": 162.88,
+          "end": 163.02
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-30_JedAI-Council_Database-Dilemmas-And-Social-Media-Suspense.json",
+    "session_log_source": "2025-07-30_JedAI-Council_Database-Dilemmas-And-Social-Media-Suspense_session-log.json",
+    "total_segments": 39,
+    "matched_segments": 39,
+    "dialogues_in_script": 15
+  }
+}

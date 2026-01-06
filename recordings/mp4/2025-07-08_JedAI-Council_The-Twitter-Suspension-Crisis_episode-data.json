@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "The Twitter Suspension Crisis",
+  "image": "https://shmotime.com/wp-content/uploads/2025/07/episode-5173-featured-1751948600.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/07/episode-5173-featured-1751948600-150x150.png",
+  "premise": "The council debates the implications of ElizaOS's Twitter account suspension and the future of AI agent communication platforms.",
+  "scenes": [
+    {
+      "description": "The council discusses the Twitter/X suspension crisis and its implications for agent ecosystems",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "peepo",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council explores auto.fun token ecosystem and the future of AI agent interactions",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "peepo",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their insights on platform dependency and the path forward",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "peepo",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

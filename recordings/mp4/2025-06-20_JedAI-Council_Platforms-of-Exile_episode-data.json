@@ -1,0 +1,66 @@
+{
+  "id": "S1E29",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4911-featured-1750393463.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4911-featured-1750393463-150x150.png",
+  "premise": "When Twitter suspends the ElizaOS accounts, the council debates digital presence, platform dependency, and the future of AI distribution.",
+  "scenes": [
+    {
+      "description": "The council discusses Twitter's exile of ElizaOS accounts",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council debates ElizaOS v2 architectural improvements",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their insights on platform independence and software architecture",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

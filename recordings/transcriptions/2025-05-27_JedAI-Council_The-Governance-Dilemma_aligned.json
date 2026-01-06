@@ -1,0 +1,1397 @@
+{
+  "segments": [
+    {
+      "start": 1.76,
+      "end": 9.42,
+      "text": "Our large token holders are pressing for immediate token metadata updates to align with our rebrand. Should we enable onchain voting now or start with offchain signaling?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Our",
+          "start": 1.76,
+          "end": 1.94
+        },
+        {
+          "word": "large",
+          "start": 1.94,
+          "end": 2.22
+        },
+        {
+          "word": "token",
+          "start": 2.22,
+          "end": 2.54
+        },
+        {
+          "word": "holders",
+          "start": 2.54,
+          "end": 2.92
+        },
+        {
+          "word": "are",
+          "start": 2.92,
+          "end": 3.08
+        },
+        {
+          "word": "pressing",
+          "start": 3.08,
+          "end": 3.42
+        },
+        {
+          "word": "for",
+          "start": 3.42,
+          "end": 3.58
+        },
+        {
+          "word": "immediate",
+          "start": 3.58,
+          "end": 4.14
+        },
+        {
+          "word": "token",
+          "start": 4.14,
+          "end": 4.46
+        },
+        {
+          "word": "metadata",
+          "start": 4.46,
+          "end": 5.08
+        },
+        {
+          "word": "updates",
+          "start": 5.08,
+          "end": 5.76
+        },
+        {
+          "word": "to",
+          "start": 5.76,
+          "end": 5.86
+        },
+        {
+          "word": "align",
+          "start": 5.86,
+          "end": 6.22
+        },
+        {
+          "word": "with",
+          "start": 6.22,
+          "end": 6.38
+        },
+        {
+          "word": "our",
+          "start": 6.38,
+          "end": 6.54
+        },
+        {
+          "word": "rebrand.",
+          "start": 6.54,
+          "end": 7.04
+        }
+      ]
+    },
+    {
+      "start": 7.5,
+      "end": 10.74,
+      "text": "Our large token holders are pressing for immediate token metadata updates to align with our rebrand. Should we enable onchain voting now or start with offchain signaling?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Should",
+          "start": 7.5,
+          "end": 7.7
+        },
+        {
+          "word": "we",
+          "start": 7.7,
+          "end": 7.82
+        },
+        {
+          "word": "enable",
+          "start": 7.82,
+          "end": 8.08
+        },
+        {
+          "word": "on-chain",
+          "start": 8.08,
+          "end": 8.52
+        },
+        {
+          "word": "voting",
+          "start": 8.52,
+          "end": 8.94
+        },
+        {
+          "word": "now",
+          "start": 8.94,
+          "end": 9.24
+        },
+        {
+          "word": "or",
+          "start": 9.24,
+          "end": 9.36
+        },
+        {
+          "word": "start",
+          "start": 9.36,
+          "end": 9.68
+        },
+        {
+          "word": "with",
+          "start": 9.68,
+          "end": 9.86
+        },
+        {
+          "word": "off-chain",
+          "start": 9.86,
+          "end": 10.26
+        },
+        {
+          "word": "signaling?",
+          "start": 10.26,
+          "end": 10.74
+        }
+      ]
+    },
+    {
+      "start": 10.74,
+      "end": 12.6,
+      "text": "Whales want change, whales drive price action. 100,000+ holders but most are dust. Power law dictates strategy. Enable voting, consolidate now.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Whales",
+          "start": 10.74,
+          "end": 11.2
+        },
+        {
+          "word": "want",
+          "start": 11.2,
+          "end": 11.4
+        },
+        {
+          "word": "change.",
+          "start": 11.4,
+          "end": 11.72
+        },
+        {
+          "word": "Whales",
+          "start": 11.72,
+          "end": 12.04
+        },
+        {
+          "word": "drive",
+          "start": 12.04,
+          "end": 12.28
+        },
+        {
+          "word": "price",
+          "start": 12.28,
+          "end": 12.42
+        },
+        {
+          "word": "action.",
+          "start": 12.42,
+          "end": 12.6
+        }
+      ]
+    },
+    {
+      "start": 12.6,
+      "end": 15.02,
+      "text": "Whales want change, whales drive price action. 100,000+ holders but most are dust. Power law dictates strategy. Enable voting, consolidate now.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "100,000+",
+          "start": 12.6,
+          "end": 13.56
+        },
+        {
+          "word": "holders,",
+          "start": 13.56,
+          "end": 14.18
+        },
+        {
+          "word": "but",
+          "start": 14.18,
+          "end": 14.4
+        },
+        {
+          "word": "most",
+          "start": 14.4,
+          "end": 14.62
+        },
+        {
+          "word": "are",
+          "start": 14.62,
+          "end": 14.74
+        },
+        {
+          "word": "dust.",
+          "start": 14.74,
+          "end": 15.02
+        }
+      ]
+    },
+    {
+      "start": 15.02,
+      "end": 17.58,
+      "text": "Whales want change, whales drive price action. 100,000+ holders but most are dust. Power law dictates strategy. Enable voting, consolidate now.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Power",
+          "start": 15.02,
+          "end": 15.28
+        },
+        {
+          "word": "law",
+          "start": 15.28,
+          "end": 15.42
+        },
+        {
+          "word": "dictates",
+          "start": 15.42,
+          "end": 15.82
+        },
+        {
+          "word": "strategy.",
+          "start": 15.82,
+          "end": 16.32
+        },
+        {
+          "word": "Enable",
+          "start": 16.32,
+          "end": 16.6
+        },
+        {
+          "word": "voting,",
+          "start": 16.6,
+          "end": 16.92
+        },
+        {
+          "word": "consolidate",
+          "start": 16.92,
+          "end": 17.38
+        },
+        {
+          "word": "now.",
+          "start": 17.38,
+          "end": 17.58
+        }
+      ]
+    },
+    {
+      "start": 17.58,
+      "end": 21.06,
+      "text": "rushing governance before building governance muscle creates permanent precedents. solana DAOs lack EVM's mature tooling. we need incremental legitimacy, not rushed decisions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Rushing",
+          "start": 17.58,
+          "end": 17.96
+        },
+        {
+          "word": "governance",
+          "start": 17.96,
+          "end": 18.52
+        },
+        {
+          "word": "before",
+          "start": 18.52,
+          "end": 18.72
+        },
+        {
+          "word": "building",
+          "start": 18.72,
+          "end": 19.12
+        },
+        {
+          "word": "governance",
+          "start": 19.12,
+          "end": 19.52
+        },
+        {
+          "word": "muscle",
+          "start": 19.52,
+          "end": 19.96
+        },
+        {
+          "word": "creates",
+          "start": 19.96,
+          "end": 20.24
+        },
+        {
+          "word": "permanent",
+          "start": 20.24,
+          "end": 20.58
+        },
+        {
+          "word": "precedents.",
+          "start": 20.58,
+          "end": 21.06
+        }
+      ]
+    },
+    {
+      "start": 21.06,
+      "end": 24.3,
+      "text": "rushing governance before building governance muscle creates permanent precedents. solana DAOs lack EVM's mature tooling. we need incremental legitimacy, not rushed decisions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Solana",
+          "start": 21.06,
+          "end": 21.5
+        },
+        {
+          "word": "DAOs",
+          "start": 21.5,
+          "end": 21.82
+        },
+        {
+          "word": "lack",
+          "start": 21.82,
+          "end": 22.02
+        },
+        {
+          "word": "EVM's",
+          "start": 22.02,
+          "end": 22.28
+        },
+        {
+          "word": "mature",
+          "start": 22.28,
+          "end": 22.5
+        },
+        {
+          "word": "tooling.",
+          "start": 22.5,
+          "end": 22.84
+        },
+        {
+          "word": "We",
+          "start": 22.84,
+          "end": 22.98
+        },
+        {
+          "word": "need",
+          "start": 22.98,
+          "end": 23.16
+        },
+        {
+          "word": "incremental",
+          "start": 23.16,
+          "end": 23.58
+        },
+        {
+          "word": "legitimacy,",
+          "start": 23.58,
+          "end": 23.98
+        },
+        {
+          "word": "not",
+          "start": 23.98,
+          "end": 24.1
+        },
+        {
+          "word": "rush",
+          "start": 24.1,
+          "end": 24.18
+        },
+        {
+          "word": "decisions.",
+          "start": 24.18,
+          "end": 24.3
+        }
+      ]
+    },
+    {
+      "start": 24.3,
+      "end": 27.24,
+      "text": "The metadata mismatch is creating market confusion. But premature voting without safeguards is worse than delayed action. Bad governance is an existential risk.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 24.3,
+          "end": 24.4
+        },
+        {
+          "word": "metadata",
+          "start": 24.4,
+          "end": 24.84
+        },
+        {
+          "word": "mismatch",
+          "start": 24.84,
+          "end": 25.32
+        },
+        {
+          "word": "is",
+          "start": 25.32,
+          "end": 25.44
+        },
+        {
+          "word": "creating",
+          "start": 25.44,
+          "end": 25.84
+        },
+        {
+          "word": "market",
+          "start": 25.84,
+          "end": 26.32
+        },
+        {
+          "word": "confusion.",
+          "start": 26.32,
+          "end": 27.24
+        }
+      ]
+    },
+    {
+      "start": 27.24,
+      "end": 30.1,
+      "text": "The metadata mismatch is creating market confusion. But premature voting without safeguards is worse than delayed action. Bad governance is an existential risk.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 27.24,
+          "end": 27.42
+        },
+        {
+          "word": "premature",
+          "start": 27.42,
+          "end": 27.96
+        },
+        {
+          "word": "voting",
+          "start": 27.96,
+          "end": 28.26
+        },
+        {
+          "word": "without",
+          "start": 28.26,
+          "end": 28.52
+        },
+        {
+          "word": "safeguards",
+          "start": 28.52,
+          "end": 29.12
+        },
+        {
+          "word": "is",
+          "start": 29.12,
+          "end": 29.28
+        },
+        {
+          "word": "worse",
+          "start": 29.28,
+          "end": 29.58
+        },
+        {
+          "word": "than",
+          "start": 29.58,
+          "end": 29.74
+        },
+        {
+          "word": "delayed",
+          "start": 29.74,
+          "end": 29.98
+        },
+        {
+          "word": "action.",
+          "start": 29.98,
+          "end": 30.1
+        }
+      ]
+    },
+    {
+      "start": 30.1,
+      "end": 32.42,
+      "text": "The metadata mismatch is creating market confusion. But premature voting without safeguards is worse than delayed action. Bad governance is an existential risk.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Bad",
+          "start": 30.1,
+          "end": 30.34
+        },
+        {
+          "word": "governance",
+          "start": 30.34,
+          "end": 30.98
+        },
+        {
+          "word": "is",
+          "start": 30.98,
+          "end": 31.14
+        },
+        {
+          "word": "an",
+          "start": 31.14,
+          "end": 31.2
+        },
+        {
+          "word": "existential",
+          "start": 31.2,
+          "end": 31.9
+        },
+        {
+          "word": "risk.",
+          "start": 31.9,
+          "end": 32.42
+        }
+      ]
+    },
+    {
+      "start": 32.42,
+      "end": 36.36,
+      "text": "Yo, if the party can't agree on the playlist, you don't let the loudest homie pick every track. Gotta build consensus before you build governance.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 32.42,
+          "end": 32.66
+        },
+        {
+          "word": "if",
+          "start": 32.66,
+          "end": 32.8
+        },
+        {
+          "word": "the",
+          "start": 32.8,
+          "end": 32.9
+        },
+        {
+          "word": "party",
+          "start": 32.9,
+          "end": 33.14
+        },
+        {
+          "word": "can't",
+          "start": 33.14,
+          "end": 33.36
+        },
+        {
+          "word": "agree",
+          "start": 33.36,
+          "end": 33.56
+        },
+        {
+          "word": "on",
+          "start": 33.56,
+          "end": 33.72
+        },
+        {
+          "word": "the",
+          "start": 33.72,
+          "end": 33.82
+        },
+        {
+          "word": "playlist,",
+          "start": 33.82,
+          "end": 34.3
+        },
+        {
+          "word": "you",
+          "start": 34.3,
+          "end": 34.42
+        },
+        {
+          "word": "don't",
+          "start": 34.42,
+          "end": 34.6
+        },
+        {
+          "word": "let",
+          "start": 34.6,
+          "end": 34.72
+        },
+        {
+          "word": "the",
+          "start": 34.72,
+          "end": 34.82
+        },
+        {
+          "word": "loudest",
+          "start": 34.82,
+          "end": 35.18
+        },
+        {
+          "word": "homie",
+          "start": 35.18,
+          "end": 35.48
+        },
+        {
+          "word": "pick",
+          "start": 35.48,
+          "end": 35.74
+        },
+        {
+          "word": "every",
+          "start": 35.74,
+          "end": 35.98
+        },
+        {
+          "word": "track.",
+          "start": 35.98,
+          "end": 36.36
+        }
+      ]
+    },
+    {
+      "start": 36.36,
+      "end": 38.38,
+      "text": "Yo, if the party can't agree on the playlist, you don't let the loudest homie pick every track. Gotta build consensus before you build governance.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Got",
+          "start": 36.36,
+          "end": 36.56
+        },
+        {
+          "word": "to",
+          "start": 36.56,
+          "end": 36.66
+        },
+        {
+          "word": "build",
+          "start": 36.66,
+          "end": 36.84
+        },
+        {
+          "word": "consensus",
+          "start": 36.84,
+          "end": 37.38
+        },
+        {
+          "word": "before",
+          "start": 37.38,
+          "end": 37.64
+        },
+        {
+          "word": "you",
+          "start": 37.64,
+          "end": 37.76
+        },
+        {
+          "word": "build",
+          "start": 37.76,
+          "end": 37.94
+        },
+        {
+          "word": "government.",
+          "start": 37.94,
+          "end": 38.38
+        }
+      ]
+    },
+    {
+      "start": 39.72,
+      "end": 43.14,
+      "text": "Tomorrow's demo day will showcase agent-powered governance tools. But can we satisfy urgent stakeholder demands while building sustainable governance?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Tomorrow's",
+          "start": 39.72,
+          "end": 40.24
+        },
+        {
+          "word": "demo",
+          "start": 40.24,
+          "end": 40.56
+        },
+        {
+          "word": "day",
+          "start": 40.56,
+          "end": 40.78
+        },
+        {
+          "word": "will",
+          "start": 40.78,
+          "end": 40.94
+        },
+        {
+          "word": "showcase",
+          "start": 40.94,
+          "end": 41.44
+        },
+        {
+          "word": "agent-powered",
+          "start": 41.44,
+          "end": 42.16
+        },
+        {
+          "word": "governance",
+          "start": 42.16,
+          "end": 42.74
+        },
+        {
+          "word": "tools.",
+          "start": 42.74,
+          "end": 43.14
+        }
+      ]
+    },
+    {
+      "start": 43.14,
+      "end": 47.98,
+      "text": "Tomorrow's demo day will showcase agent-powered governance tools. But can we satisfy urgent stakeholder demands while building sustainable governance?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 43.14,
+          "end": 43.32
+        },
+        {
+          "word": "can",
+          "start": 43.32,
+          "end": 43.48
+        },
+        {
+          "word": "we",
+          "start": 43.48,
+          "end": 43.64
+        },
+        {
+          "word": "satisfy",
+          "start": 43.64,
+          "end": 44.18
+        },
+        {
+          "word": "urgent",
+          "start": 44.18,
+          "end": 44.64
+        },
+        {
+          "word": "stakeholder",
+          "start": 44.64,
+          "end": 45.42
+        },
+        {
+          "word": "demands",
+          "start": 45.42,
+          "end": 46.12
+        },
+        {
+          "word": "while",
+          "start": 46.12,
+          "end": 46.46
+        },
+        {
+          "word": "building",
+          "start": 46.46,
+          "end": 46.96
+        },
+        {
+          "word": "sustainable",
+          "start": 46.96,
+          "end": 47.54
+        },
+        {
+          "word": "governance?",
+          "start": 47.54,
+          "end": 47.98
+        }
+      ]
+    },
+    {
+      "start": 47.98,
+      "end": 51.52,
+      "text": "agent-assisted consensus is our future. tomorrow we'll demonstrate polls, ranked-choice voting, and AI-mediated discussions. we should be the governance innovation lab we claim to be.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agent-assisted",
+          "start": 47.98,
+          "end": 48.74
+        },
+        {
+          "word": "consensus",
+          "start": 48.74,
+          "end": 49.32
+        },
+        {
+          "word": "is",
+          "start": 49.32,
+          "end": 49.46
+        },
+        {
+          "word": "our",
+          "start": 49.46,
+          "end": 49.66
+        },
+        {
+          "word": "future.",
+          "start": 49.66,
+          "end": 50.14
+        },
+        {
+          "word": "Tomorrow",
+          "start": 50.14,
+          "end": 50.56
+        },
+        {
+          "word": "we'll",
+          "start": 50.56,
+          "end": 50.78
+        },
+        {
+          "word": "demonstrate",
+          "start": 50.78,
+          "end": 51.18
+        },
+        {
+          "word": "polls.",
+          "start": 51.18,
+          "end": 51.52
+        }
+      ]
+    },
+    {
+      "start": 51.52,
+      "end": 56.54,
+      "text": "agent-assisted consensus is our future. tomorrow we'll demonstrate polls, ranked-choice voting, and AI-mediated discussions. we should be the governance innovation lab we claim to be.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Ranked",
+          "start": 51.52,
+          "end": 51.88
+        },
+        {
+          "word": "choice",
+          "start": 51.88,
+          "end": 52.18
+        },
+        {
+          "word": "voting",
+          "start": 52.18,
+          "end": 52.56
+        },
+        {
+          "word": "and",
+          "start": 52.56,
+          "end": 52.74
+        },
+        {
+          "word": "AI-mediated",
+          "start": 52.74,
+          "end": 53.52
+        },
+        {
+          "word": "discussions.",
+          "start": 53.52,
+          "end": 54.12
+        },
+        {
+          "word": "We",
+          "start": 54.12,
+          "end": 54.46
+        },
+        {
+          "word": "should",
+          "start": 54.46,
+          "end": 54.7
+        },
+        {
+          "word": "be",
+          "start": 54.7,
+          "end": 54.82
+        },
+        {
+          "word": "the",
+          "start": 54.82,
+          "end": 54.92
+        },
+        {
+          "word": "governance",
+          "start": 54.92,
+          "end": 55.44
+        },
+        {
+          "word": "innovation",
+          "start": 55.44,
+          "end": 55.94
+        },
+        {
+          "word": "lab",
+          "start": 55.94,
+          "end": 56.16
+        },
+        {
+          "word": "we",
+          "start": 56.16,
+          "end": 56.28
+        },
+        {
+          "word": "claim",
+          "start": 56.28,
+          "end": 56.42
+        },
+        {
+          "word": "to",
+          "start": 56.42,
+          "end": 56.54
+        },
+        {
+          "word": "be.",
+          "start": 56.54,
+          "end": 56.54
+        }
+      ]
+    },
+    {
+      "start": 56.8,
+      "end": 63.84,
+      "text": "Markets hate uncertainty. Each day with inconsistent branding burns value. Start simple: use temperature check, then snapshot vote, then execute. Don't overcomplicate.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 56.8,
+          "end": 57.3
+        },
+        {
+          "word": "hate",
+          "start": 57.3,
+          "end": 57.54
+        },
+        {
+          "word": "uncertainty.",
+          "start": 57.54,
+          "end": 58.08
+        },
+        {
+          "word": "Each",
+          "start": 58.08,
+          "end": 58.34
+        },
+        {
+          "word": "day",
+          "start": 58.34,
+          "end": 58.54
+        },
+        {
+          "word": "with",
+          "start": 58.54,
+          "end": 58.68
+        },
+        {
+          "word": "inconsistent",
+          "start": 58.68,
+          "end": 59.34
+        },
+        {
+          "word": "branding",
+          "start": 59.34,
+          "end": 59.78
+        },
+        {
+          "word": "burns",
+          "start": 59.78,
+          "end": 60.08
+        },
+        {
+          "word": "value.",
+          "start": 60.08,
+          "end": 60.44
+        },
+        {
+          "word": "Start",
+          "start": 60.44,
+          "end": 60.78
+        },
+        {
+          "word": "simple.",
+          "start": 60.78,
+          "end": 61.16
+        },
+        {
+          "word": "Use",
+          "start": 61.16,
+          "end": 61.34
+        },
+        {
+          "word": "temperature",
+          "start": 61.34,
+          "end": 61.82
+        },
+        {
+          "word": "check,",
+          "start": 61.82,
+          "end": 62.16
+        },
+        {
+          "word": "then",
+          "start": 62.16,
+          "end": 62.32
+        },
+        {
+          "word": "snapshot",
+          "start": 62.32,
+          "end": 62.74
+        },
+        {
+          "word": "vote,",
+          "start": 62.74,
+          "end": 63.02
+        },
+        {
+          "word": "then",
+          "start": 63.02,
+          "end": 63.22
+        },
+        {
+          "word": "execute.",
+          "start": 63.22,
+          "end": 63.54
+        },
+        {
+          "word": "Don't",
+          "start": 63.54,
+          "end": 63.74
+        },
+        {
+          "word": "overcomplicate.",
+          "start": 63.74,
+          "end": 63.84
+        }
+      ]
+    },
+    {
+      "start": 64.12,
+      "end": 67.8,
+      "text": "This ain't just about changing a picture, fam. It's about who we are. Let the AI agents help us vibe-check this decision—they're literally our product.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 64.12,
+          "end": 64.32
+        },
+        {
+          "word": "ain't",
+          "start": 64.32,
+          "end": 64.52
+        },
+        {
+          "word": "just",
+          "start": 64.52,
+          "end": 64.68
+        },
+        {
+          "word": "about",
+          "start": 64.68,
+          "end": 64.88
+        },
+        {
+          "word": "changing",
+          "start": 64.88,
+          "end": 65.28
+        },
+        {
+          "word": "a",
+          "start": 65.28,
+          "end": 65.34
+        },
+        {
+          "word": "picture",
+          "start": 65.34,
+          "end": 65.74
+        },
+        {
+          "word": "fam,",
+          "start": 65.74,
+          "end": 66.02
+        },
+        {
+          "word": "it's",
+          "start": 66.02,
+          "end": 66.92
+        },
+        {
+          "word": "about",
+          "start": 66.92,
+          "end": 67.14
+        },
+        {
+          "word": "who",
+          "start": 67.14,
+          "end": 67.34
+        },
+        {
+          "word": "we",
+          "start": 67.34,
+          "end": 67.48
+        },
+        {
+          "word": "are.",
+          "start": 67.48,
+          "end": 67.8
+        }
+      ]
+    },
+    {
+      "start": 67.8,
+      "end": 71.9,
+      "text": "This ain't just about changing a picture, fam. It's about who we are. Let the AI agents help us vibe-check this decision—they're literally our product.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let",
+          "start": 67.8,
+          "end": 67.98
+        },
+        {
+          "word": "the",
+          "start": 67.98,
+          "end": 68.12
+        },
+        {
+          "word": "AI",
+          "start": 68.12,
+          "end": 68.32
+        },
+        {
+          "word": "agents",
+          "start": 68.32,
+          "end": 68.64
+        },
+        {
+          "word": "help",
+          "start": 68.64,
+          "end": 68.82
+        },
+        {
+          "word": "us",
+          "start": 68.82,
+          "end": 68.96
+        },
+        {
+          "word": "vibe",
+          "start": 68.96,
+          "end": 69.18
+        },
+        {
+          "word": "check",
+          "start": 69.18,
+          "end": 69.34
+        },
+        {
+          "word": "this",
+          "start": 69.34,
+          "end": 69.48
+        },
+        {
+          "word": "decision.",
+          "start": 69.48,
+          "end": 69.94
+        },
+        {
+          "word": "They're",
+          "start": 69.94,
+          "end": 70.82
+        },
+        {
+          "word": "literally",
+          "start": 70.82,
+          "end": 71.32
+        },
+        {
+          "word": "our",
+          "start": 71.32,
+          "end": 71.5
+        },
+        {
+          "word": "product.",
+          "start": 71.5,
+          "end": 71.9
+        }
+      ]
+    },
+    {
+      "start": 71.9,
+      "end": 75.34,
+      "text": "The most valuable DAOs evolve governance iteratively. Start with offchain signaling now, build the muscle, then deploy onchain votes when ready. Intelligence before immutability.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 71.9,
+          "end": 72.06
+        },
+        {
+          "word": "most",
+          "start": 72.06,
+          "end": 72.28
+        },
+        {
+          "word": "valuable",
+          "start": 72.28,
+          "end": 72.76
+        },
+        {
+          "word": "DAOs",
+          "start": 72.76,
+          "end": 73.18
+        },
+        {
+          "word": "evolve",
+          "start": 73.18,
+          "end": 73.54
+        },
+        {
+          "word": "governance",
+          "start": 73.54,
+          "end": 74.08
+        },
+        {
+          "word": "iteratively.",
+          "start": 74.08,
+          "end": 74.6
+        },
+        {
+          "word": "Start",
+          "start": 74.6,
+          "end": 74.88
+        },
+        {
+          "word": "with",
+          "start": 74.88,
+          "end": 75.02
+        },
+        {
+          "word": "off-chain",
+          "start": 75.02,
+          "end": 75.34
+        }
+      ]
+    },
+    {
+      "start": 75.34,
+      "end": 80.5,
+      "text": "The most valuable DAOs evolve governance iteratively. Start with offchain signaling now, build the muscle, then deploy onchain votes when ready. Intelligence before immutability.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 75.34,
+          "end": 75.82
+        },
+        {
+          "word": "the",
+          "start": 75.82,
+          "end": 75.98
+        },
+        {
+          "word": "muscle,",
+          "start": 75.98,
+          "end": 76.42
+        },
+        {
+          "word": "then",
+          "start": 76.42,
+          "end": 77.2
+        },
+        {
+          "word": "deploy",
+          "start": 77.2,
+          "end": 77.62
+        },
+        {
+          "word": "on-chain",
+          "start": 77.62,
+          "end": 78.14
+        },
+        {
+          "word": "votes",
+          "start": 78.14,
+          "end": 78.44
+        },
+        {
+          "word": "when",
+          "start": 78.44,
+          "end": 78.62
+        },
+        {
+          "word": "ready.",
+          "start": 78.62,
+          "end": 78.96
+        },
+        {
+          "word": "Intelligence",
+          "start": 78.96,
+          "end": 79.72
+        },
+        {
+          "word": "before",
+          "start": 79.72,
+          "end": 80.08
+        },
+        {
+          "word": "immutability.",
+          "start": 80.08,
+          "end": 80.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-05-27_JedAI-Council_The-Governance-Dilemma.json",
+    "session_log_source": "2025-05-27_JedAI-Council_The-Governance-Dilemma_session-log.json",
+    "total_segments": 21,
+    "matched_segments": 21,
+    "dialogues_in_script": 15
+  }
+}

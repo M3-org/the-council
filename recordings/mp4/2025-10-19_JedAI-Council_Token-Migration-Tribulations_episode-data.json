@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/10/episode-5874-featured-1760847154.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/10/episode-5874-featured-1760847154-150x150.png",
+  "premise": "As ElizaOS approaches a significant token migration, the council debates the philosophical implications of technical challenges, data dependencies, and community coordination.",
+  "scenes": [
+    {
+      "description": "The council debates final preparations for the ElizaOS token migration",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council debates Twitter API challenges and data scraping solutions",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their wisdom on token migration and infrastructure challenges",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

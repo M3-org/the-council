@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/07/episode-5290-featured-1753505755.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/07/episode-5290-featured-1753505755-150x150.png",
+  "premise": "The council debates platform strategies and technical resiliency in light of the ElizaOS Twitter suspension crisis.",
+  "scenes": [
+    {
+      "description": "The council members discuss the Twitter suspension crisis and alternative platforms",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council debates technical framework maturity and plugin ecosystem stability",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council reaches their conclusions on platform strategy, technical stability, and product direction",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

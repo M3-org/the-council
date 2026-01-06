@@ -1,0 +1,66 @@
+{
+  "id": "S1E4",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/05/episode-4649-featured-1748318465.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/05/episode-4649-featured-1748318465-150x150.png",
+  "premise": "The council debates the philosophical underpinnings of ElizaOS v2's imminent release and what it means for the future of AI agents.",
+  "scenes": [
+    {
+      "description": "The council discusses Shaw's provocative statement about autonomy vs. composability",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council examines the ecosystem fund allocation strategy for ElizaOS",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their perspectives on ElizaOS v2 and the future of AI agents",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

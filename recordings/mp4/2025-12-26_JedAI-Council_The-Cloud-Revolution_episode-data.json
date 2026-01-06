@@ -1,0 +1,63 @@
+{
+  "id": "S1E3",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/12/episode-8441-featured-1766790687.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/12/episode-8441-featured-1766790687-150x150.png",
+  "premise": "The JedAI Council explores the implications of the ElizaOS Cloud launch and what it means for decentralized AI development.",
+  "scenes": [
+    {
+      "description": "The council discusses the upcoming ElizaOS Cloud launch and its implications",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council debates the balance between centralization and decentralization in AI infrastructure",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their insights on the future of decentralized AI infrastructure",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

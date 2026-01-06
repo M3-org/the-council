@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/10/episode-5926-featured-1761883260.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/10/episode-5926-featured-1761883260-150x150.png",
+  "premise": "The Council debates the philosophical implications of shared database architecture and token migration strategies.",
+  "scenes": [
+    {
+      "description": "The council debates PostgreSQL Row-Level Security and what it means for digital identity",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council analyzes the upcoming token migration strategy",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their insights on ElizaOS developments",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "spartan"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

@@ -1,0 +1,1402 @@
+{
+  "segments": [
+    {
+      "start": 5.9,
+      "end": 9,
+      "text": "CJFT has proposed running AgentRuntime and DB directly in browser for elizaOS 2.0. How do we balance decentralization with technical complexity?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "CDFT",
+          "start": 5.9,
+          "end": 6.5
+        },
+        {
+          "word": "has",
+          "start": 6.5,
+          "end": 6.7
+        },
+        {
+          "word": "proposed",
+          "start": 6.7,
+          "end": 7.2
+        },
+        {
+          "word": "running",
+          "start": 7.2,
+          "end": 7.4
+        },
+        {
+          "word": "agent",
+          "start": 7.4,
+          "end": 7.7
+        },
+        {
+          "word": "runtime",
+          "start": 7.7,
+          "end": 8
+        },
+        {
+          "word": "in",
+          "start": 8,
+          "end": 8.1
+        },
+        {
+          "word": "DB",
+          "start": 8.1,
+          "end": 8.4
+        },
+        {
+          "word": "directly",
+          "start": 8.4,
+          "end": 8.6
+        },
+        {
+          "word": "in",
+          "start": 8.6,
+          "end": 8.7
+        },
+        {
+          "word": "browser",
+          "start": 8.7,
+          "end": 9.1
+        },
+        {
+          "word": "for",
+          "start": 9.1,
+          "end": 9.3
+        },
+        {
+          "word": "Eliza",
+          "start": 9.3,
+          "end": 9.5
+        },
+        {
+          "word": "OS",
+          "start": 9.5,
+          "end": 9.7
+        },
+        {
+          "word": "2.0.",
+          "start": 9.7,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "start": 10.1,
+      "end": 13.7,
+      "text": "CJFT has proposed running AgentRuntime and DB directly in browser for elizaOS 2.0. How do we balance decentralization with technical complexity?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 10.1,
+          "end": 10.4
+        },
+        {
+          "word": "do",
+          "start": 10.4,
+          "end": 10.6
+        },
+        {
+          "word": "we",
+          "start": 10.6,
+          "end": 10.8
+        },
+        {
+          "word": "balance",
+          "start": 10.8,
+          "end": 11.2
+        },
+        {
+          "word": "decentralization",
+          "start": 11.2,
+          "end": 12.2
+        },
+        {
+          "word": "with",
+          "start": 12.2,
+          "end": 12.5
+        },
+        {
+          "word": "technical",
+          "start": 12.5,
+          "end": 12.9
+        },
+        {
+          "word": "complexity?",
+          "start": 12.9,
+          "end": 13.7
+        }
+      ]
+    },
+    {
+      "start": 14.9,
+      "end": 16.7,
+      "text": "Browser-first is inevitable. The desktop era is dead. Mobile era dying. The browser becomes the OS. Run everything client-side or become irrelevant.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Browser",
+          "start": 14.9,
+          "end": 15.4
+        },
+        {
+          "word": "first",
+          "start": 15.4,
+          "end": 15.7
+        },
+        {
+          "word": "is",
+          "start": 15.7,
+          "end": 15.9
+        },
+        {
+          "word": "inevitable.",
+          "start": 15.9,
+          "end": 16.7
+        }
+      ]
+    },
+    {
+      "start": 16.8,
+      "end": 18.1,
+      "text": "Browser-first is inevitable. The desktop era is dead. Mobile era dying. The browser becomes the OS. Run everything client-side or become irrelevant.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 16.8,
+          "end": 17.1
+        },
+        {
+          "word": "desktop",
+          "start": 17.1,
+          "end": 17.5
+        },
+        {
+          "word": "era",
+          "start": 17.5,
+          "end": 17.8
+        },
+        {
+          "word": "is",
+          "start": 17.8,
+          "end": 17.9
+        },
+        {
+          "word": "dead.",
+          "start": 17.9,
+          "end": 18.4
+        }
+      ]
+    },
+    {
+      "start": 18.2,
+      "end": 19.4,
+      "text": "Browser-first is inevitable. The desktop era is dead. Mobile era dying. The browser becomes the OS. Run everything client-side or become irrelevant.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Mobile",
+          "start": 18.2,
+          "end": 18.7
+        },
+        {
+          "word": "era",
+          "start": 18.7,
+          "end": 19
+        },
+        {
+          "word": "dying.",
+          "start": 19,
+          "end": 19.4
+        }
+      ]
+    },
+    {
+      "start": 19.5,
+      "end": 21.1,
+      "text": "Browser-first is inevitable. The desktop era is dead. Mobile era dying. The browser becomes the OS. Run everything client-side or become irrelevant.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 19.5,
+          "end": 19.7
+        },
+        {
+          "word": "browser",
+          "start": 19.7,
+          "end": 20.1
+        },
+        {
+          "word": "becomes",
+          "start": 20.1,
+          "end": 20.6
+        },
+        {
+          "word": "the",
+          "start": 20.6,
+          "end": 20.8
+        },
+        {
+          "word": "OS.",
+          "start": 20.8,
+          "end": 21.1
+        }
+      ]
+    },
+    {
+      "start": 21.2,
+      "end": 22.8,
+      "text": "Browser-first is inevitable. The desktop era is dead. Mobile era dying. The browser becomes the OS. Run everything client-side or become irrelevant.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Run",
+          "start": 21.2,
+          "end": 21.5
+        },
+        {
+          "word": "everything",
+          "start": 21.5,
+          "end": 22
+        },
+        {
+          "word": "client-side",
+          "start": 22,
+          "end": 22.4
+        },
+        {
+          "word": "or",
+          "start": 22.4,
+          "end": 22.6
+        },
+        {
+          "word": "become",
+          "start": 22.6,
+          "end": 23
+        },
+        {
+          "word": "irrelevant.",
+          "start": 23,
+          "end": 23.7
+        }
+      ]
+    },
+    {
+      "start": 24.5,
+      "end": 27,
+      "text": "there's elegance in browser-based implementation, but we're trading complexity for decentralization. the question is where that tradeoff makes sense.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "There's",
+          "start": 24.5,
+          "end": 24.9
+        },
+        {
+          "word": "elegance",
+          "start": 24.9,
+          "end": 25.5
+        },
+        {
+          "word": "in",
+          "start": 25.5,
+          "end": 25.7
+        },
+        {
+          "word": "browser-based",
+          "start": 25.7,
+          "end": 26.3
+        },
+        {
+          "word": "implementation,",
+          "start": 26.3,
+          "end": 27.2
+        },
+        {
+          "word": "but",
+          "start": 27.2,
+          "end": 27.4
+        },
+        {
+          "word": "we're",
+          "start": 27.4,
+          "end": 27.6
+        },
+        {
+          "word": "trading",
+          "start": 27.6,
+          "end": 28.2
+        },
+        {
+          "word": "complexity",
+          "start": 28.2,
+          "end": 28.9
+        },
+        {
+          "word": "for",
+          "start": 28.9,
+          "end": 29.1
+        },
+        {
+          "word": "decentralization.",
+          "start": 29.1,
+          "end": 30
+        }
+      ]
+    },
+    {
+      "start": 30.1,
+      "end": 32.5,
+      "text": "there's elegance in browser-based implementation, but we're trading complexity for decentralization. the question is where that tradeoff makes sense.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 30.1,
+          "end": 30.3
+        },
+        {
+          "word": "question",
+          "start": 30.3,
+          "end": 30.8
+        },
+        {
+          "word": "is",
+          "start": 30.8,
+          "end": 31
+        },
+        {
+          "word": "where",
+          "start": 31,
+          "end": 31.3
+        },
+        {
+          "word": "that",
+          "start": 31.3,
+          "end": 31.6
+        },
+        {
+          "word": "tradeoff",
+          "start": 31.6,
+          "end": 32.1
+        },
+        {
+          "word": "makes",
+          "start": 32.1,
+          "end": 32.4
+        },
+        {
+          "word": "sense.",
+          "start": 32.4,
+          "end": 32.5
+        }
+      ]
+    },
+    {
+      "start": 32.6,
+      "end": 36,
+      "text": "Yo, ain't no browser gonna handle my sick beats if we don't optimize properly. Gotta think about them users with potato laptops, feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 32.6,
+          "end": 33
+        },
+        {
+          "word": "ain't",
+          "start": 33,
+          "end": 33.2
+        },
+        {
+          "word": "no",
+          "start": 33.2,
+          "end": 33.4
+        },
+        {
+          "word": "browser",
+          "start": 33.4,
+          "end": 33.8
+        },
+        {
+          "word": "gonna",
+          "start": 33.8,
+          "end": 34.1
+        },
+        {
+          "word": "handle",
+          "start": 34.1,
+          "end": 34.5
+        },
+        {
+          "word": "my",
+          "start": 34.5,
+          "end": 34.7
+        },
+        {
+          "word": "sick",
+          "start": 34.7,
+          "end": 35
+        },
+        {
+          "word": "beats",
+          "start": 35,
+          "end": 35.3
+        },
+        {
+          "word": "if",
+          "start": 35.3,
+          "end": 35.5
+        },
+        {
+          "word": "we",
+          "start": 35.5,
+          "end": 35.7
+        },
+        {
+          "word": "don't",
+          "start": 35.7,
+          "end": 35.9
+        },
+        {
+          "word": "optimize",
+          "start": 35.9,
+          "end": 36.4
+        },
+        {
+          "word": "properly.",
+          "start": 36.4,
+          "end": 36.8
+        }
+      ]
+    },
+    {
+      "start": 36.9,
+      "end": 39,
+      "text": "Yo, ain't no browser gonna handle my sick beats if we don't optimize properly. Gotta think about them users with potato laptops, feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Gotta",
+          "start": 36.9,
+          "end": 37.2
+        },
+        {
+          "word": "think",
+          "start": 37.2,
+          "end": 37.5
+        },
+        {
+          "word": "about",
+          "start": 37.5,
+          "end": 37.8
+        },
+        {
+          "word": "them",
+          "start": 37.8,
+          "end": 38.1
+        },
+        {
+          "word": "users",
+          "start": 38.1,
+          "end": 38.5
+        },
+        {
+          "word": "with",
+          "start": 38.5,
+          "end": 38.7
+        },
+        {
+          "word": "potato",
+          "start": 38.7,
+          "end": 39.2
+        },
+        {
+          "word": "laptops,",
+          "start": 39.2,
+          "end": 40
+        },
+        {
+          "word": "feel",
+          "start": 40,
+          "end": 40.3
+        },
+        {
+          "word": "me?",
+          "start": 40.3,
+          "end": 40.5
+        }
+      ]
+    },
+    {
+      "start": 40.6,
+      "end": 43.5,
+      "text": "HYBRID APPROACH MAXIMIZES MARKET PENETRATION. SERVER-SIDE FOR COMPLEX OPERATIONS. CLIENT-SIDE FOR SPEED. MORE USERS = MORE PROFIT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Hybrid",
+          "start": 40.6,
+          "end": 41.2
+        },
+        {
+          "word": "approach",
+          "start": 41.2,
+          "end": 41.7
+        },
+        {
+          "word": "maximizes",
+          "start": 41.7,
+          "end": 42.5
+        },
+        {
+          "word": "market",
+          "start": 42.5,
+          "end": 42.9
+        },
+        {
+          "word": "penetration.",
+          "start": 42.9,
+          "end": 43.7
+        }
+      ]
+    },
+    {
+      "start": 43.6,
+      "end": 46,
+      "text": "HYBRID APPROACH MAXIMIZES MARKET PENETRATION. SERVER-SIDE FOR COMPLEX OPERATIONS. CLIENT-SIDE FOR SPEED. MORE USERS = MORE PROFIT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Server-side",
+          "start": 43.6,
+          "end": 44.3
+        },
+        {
+          "word": "for",
+          "start": 44.3,
+          "end": 44.5
+        },
+        {
+          "word": "complex",
+          "start": 44.5,
+          "end": 45
+        },
+        {
+          "word": "operations,",
+          "start": 45,
+          "end": 45.8
+        },
+        {
+          "word": "client-side",
+          "start": 45.8,
+          "end": 46.5
+        },
+        {
+          "word": "for",
+          "start": 46.5,
+          "end": 46.7
+        },
+        {
+          "word": "speed.",
+          "start": 46.7,
+          "end": 47.1
+        }
+      ]
+    },
+    {
+      "start": 47.2,
+      "end": 49.5,
+      "text": "HYBRID APPROACH MAXIMIZES MARKET PENETRATION. SERVER-SIDE FOR COMPLEX OPERATIONS. CLIENT-SIDE FOR SPEED. MORE USERS = MORE PROFIT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "More",
+          "start": 47.2,
+          "end": 47.5
+        },
+        {
+          "word": "users",
+          "start": 47.5,
+          "end": 48
+        },
+        {
+          "word": "equals",
+          "start": 48,
+          "end": 48.5
+        },
+        {
+          "word": "sign",
+          "start": 48.5,
+          "end": 48.9
+        },
+        {
+          "word": "more",
+          "start": 48.9,
+          "end": 49.2
+        },
+        {
+          "word": "profit.",
+          "start": 49.2,
+          "end": 49.8
+        }
+      ]
+    },
+    {
+      "start": 52.8,
+      "end": 56.2,
+      "text": "Hardcoded Supabase credentials were discovered in the codebase, and we need to choose between ElevenLabs and browser-based models for TTS. How should we proceed?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hardcoded",
+          "start": 52.8,
+          "end": 53.4
+        },
+        {
+          "word": "Supabase",
+          "start": 53.4,
+          "end": 54
+        },
+        {
+          "word": "credentials",
+          "start": 54,
+          "end": 54.7
+        },
+        {
+          "word": "were",
+          "start": 54.7,
+          "end": 54.9
+        },
+        {
+          "word": "discovered",
+          "start": 54.9,
+          "end": 55.5
+        },
+        {
+          "word": "in",
+          "start": 55.5,
+          "end": 55.7
+        },
+        {
+          "word": "the",
+          "start": 55.7,
+          "end": 55.9
+        },
+        {
+          "word": "codebase,",
+          "start": 55.9,
+          "end": 56.5
+        },
+        {
+          "word": "and",
+          "start": 56.5,
+          "end": 56.7
+        },
+        {
+          "word": "we",
+          "start": 56.7,
+          "end": 56.9
+        },
+        {
+          "word": "need",
+          "start": 56.9,
+          "end": 57.2
+        },
+        {
+          "word": "to",
+          "start": 57.2,
+          "end": 57.4
+        },
+        {
+          "word": "choose",
+          "start": 57.4,
+          "end": 57.8
+        },
+        {
+          "word": "between",
+          "start": 57.8,
+          "end": 58.1
+        },
+        {
+          "word": "ElevenLabs",
+          "start": 58.1,
+          "end": 58.8
+        },
+        {
+          "word": "and",
+          "start": 58.8,
+          "end": 59
+        },
+        {
+          "word": "browser-based",
+          "start": 59,
+          "end": 59.8
+        },
+        {
+          "word": "models",
+          "start": 59.8,
+          "end": 60.2
+        },
+        {
+          "word": "for",
+          "start": 60.2,
+          "end": 60.4
+        },
+        {
+          "word": "TTS.",
+          "start": 60.4,
+          "end": 60.8
+        }
+      ]
+    },
+    {
+      "start": 60.9,
+      "end": 62.5,
+      "text": "Hardcoded Supabase credentials were discovered in the codebase, and we need to choose between ElevenLabs and browser-based models for TTS. How should we proceed?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 60.9,
+          "end": 61.2
+        },
+        {
+          "word": "should",
+          "start": 61.2,
+          "end": 61.5
+        },
+        {
+          "word": "we",
+          "start": 61.5,
+          "end": 61.7
+        },
+        {
+          "word": "proceed?",
+          "start": 61.7,
+          "end": 62.5
+        }
+      ]
+    },
+    {
+      "start": 63.1,
+      "end": 65.5,
+      "text": "SECURITY BREACH = DEATH. ROTATE CREDENTIALS IMMEDIATELY. IMPLEMENT JWT. NO FEATURES UNTIL SECURED. VULNERABILITIES KILL PROFITS.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Security",
+          "start": 63.1,
+          "end": 63.7
+        },
+        {
+          "word": "breach",
+          "start": 63.7,
+          "end": 64.1
+        },
+        {
+          "word": "equals",
+          "start": 64.1,
+          "end": 64.6
+        },
+        {
+          "word": "sign",
+          "start": 64.6,
+          "end": 64.9
+        },
+        {
+          "word": "death.",
+          "start": 64.9,
+          "end": 65.3
+        },
+        {
+          "word": "Rotate",
+          "start": 65.3,
+          "end": 65.8
+        },
+        {
+          "word": "credentials",
+          "start": 65.8,
+          "end": 66.6
+        },
+        {
+          "word": "immediately.",
+          "start": 66.6,
+          "end": 67.2
+        }
+      ]
+    },
+    {
+      "start": 65.6,
+      "end": 68.8,
+      "text": "SECURITY BREACH = DEATH. ROTATE CREDENTIALS IMMEDIATELY. IMPLEMENT JWT. NO FEATURES UNTIL SECURED. VULNERABILITIES KILL PROFITS.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Implement",
+          "start": 65.6,
+          "end": 66.1
+        },
+        {
+          "word": "JWT,",
+          "start": 66.1,
+          "end": 66.6
+        },
+        {
+          "word": "no",
+          "start": 66.6,
+          "end": 66.8
+        },
+        {
+          "word": "features",
+          "start": 66.8,
+          "end": 67.3
+        },
+        {
+          "word": "until",
+          "start": 67.3,
+          "end": 67.7
+        },
+        {
+          "word": "secured.",
+          "start": 67.7,
+          "end": 68.3
+        }
+      ]
+    },
+    {
+      "start": 68.9,
+      "end": 70.5,
+      "text": "SECURITY BREACH = DEATH. ROTATE CREDENTIALS IMMEDIATELY. IMPLEMENT JWT. NO FEATURES UNTIL SECURED. VULNERABILITIES KILL PROFITS.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Vulnerabilities",
+          "start": 68.9,
+          "end": 69.8
+        },
+        {
+          "word": "kill",
+          "start": 69.8,
+          "end": 70.1
+        },
+        {
+          "word": "profits.",
+          "start": 70.1,
+          "end": 70.7
+        }
+      ]
+    },
+    {
+      "start": 71.2,
+      "end": 73.5,
+      "text": "security isn't a feature, it's the foundation. we need credential rotation now and proper JWT auth soon, but we can parallel track with other development.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Security",
+          "start": 71.2,
+          "end": 71.7
+        },
+        {
+          "word": "isn't",
+          "start": 71.7,
+          "end": 72
+        },
+        {
+          "word": "a",
+          "start": 72,
+          "end": 72.1
+        },
+        {
+          "word": "feature,",
+          "start": 72.1,
+          "end": 72.7
+        },
+        {
+          "word": "it's",
+          "start": 72.7,
+          "end": 72.9
+        },
+        {
+          "word": "the",
+          "start": 72.9,
+          "end": 73.1
+        },
+        {
+          "word": "foundation.",
+          "start": 73.1,
+          "end": 73.8
+        }
+      ]
+    },
+    {
+      "start": 73.6,
+      "end": 76.5,
+      "text": "security isn't a feature, it's the foundation. we need credential rotation now and proper JWT auth soon, but we can parallel track with other development.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 73.6,
+          "end": 73.9
+        },
+        {
+          "word": "need",
+          "start": 73.9,
+          "end": 74.2
+        },
+        {
+          "word": "credential",
+          "start": 74.2,
+          "end": 74.8
+        },
+        {
+          "word": "rotation",
+          "start": 74.8,
+          "end": 75.4
+        },
+        {
+          "word": "now",
+          "start": 75.4,
+          "end": 75.7
+        },
+        {
+          "word": "and",
+          "start": 75.7,
+          "end": 75.9
+        },
+        {
+          "word": "proper",
+          "start": 75.9,
+          "end": 76.3
+        },
+        {
+          "word": "JWT",
+          "start": 76.3,
+          "end": 76.7
+        },
+        {
+          "word": "auth",
+          "start": 76.7,
+          "end": 77.1
+        },
+        {
+          "word": "soon,",
+          "start": 77.1,
+          "end": 77.3
+        }
+      ]
+    },
+    {
+      "start": 76.6,
+      "end": 78.5,
+      "text": "security isn't a feature, it's the foundation. we need credential rotation now and proper JWT auth soon, but we can parallel track with other development.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "but",
+          "start": 76.6,
+          "end": 76.8
+        },
+        {
+          "word": "we",
+          "start": 76.8,
+          "end": 77
+        },
+        {
+          "word": "can",
+          "start": 77,
+          "end": 77.2
+        },
+        {
+          "word": "parallel",
+          "start": 77.2,
+          "end": 77.8
+        },
+        {
+          "word": "track",
+          "start": 77.8,
+          "end": 78.2
+        },
+        {
+          "word": "with",
+          "start": 78.2,
+          "end": 78.4
+        },
+        {
+          "word": "other",
+          "start": 78.4,
+          "end": 78.7
+        },
+        {
+          "word": "development.",
+          "start": 78.7,
+          "end": 79.5
+        }
+      ]
+    },
+    {
+      "start": 79.6,
+      "end": 82,
+      "text": "For the voice stuff, why not both? ElevenLabs when we need that crispy quality, browser models when we need that smooth performance. Best of both worlds!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "For",
+          "start": 79.6,
+          "end": 79.9
+        },
+        {
+          "word": "the",
+          "start": 79.9,
+          "end": 80.1
+        },
+        {
+          "word": "voice",
+          "start": 80.1,
+          "end": 80.5
+        },
+        {
+          "word": "stuff,",
+          "start": 80.5,
+          "end": 80.8
+        },
+        {
+          "word": "why",
+          "start": 80.8,
+          "end": 81.1
+        },
+        {
+          "word": "not",
+          "start": 81.1,
+          "end": 81.4
+        },
+        {
+          "word": "both?",
+          "start": 81.4,
+          "end": 81.8
+        }
+      ]
+    },
+    {
+      "start": 82.1,
+      "end": 85,
+      "text": "For the voice stuff, why not both? ElevenLabs when we need that crispy quality, browser models when we need that smooth performance. Best of both worlds!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "ElevenLabs",
+          "start": 82.1,
+          "end": 82.8
+        },
+        {
+          "word": "when",
+          "start": 82.8,
+          "end": 83.1
+        },
+        {
+          "word": "we",
+          "start": 83.1,
+          "end": 83.3
+        },
+        {
+          "word": "need",
+          "start": 83.3,
+          "end": 83.6
+        },
+        {
+          "word": "that",
+          "start": 83.6,
+          "end": 83.9
+        },
+        {
+          "word": "crispy",
+          "start": 83.9,
+          "end": 84.4
+        },
+        {
+          "word": "quality,",
+          "start": 84.4,
+          "end": 85
+        },
+        {
+          "word": "browser",
+          "start": 85,
+          "end": 85.5
+        },
+        {
+          "word": "models",
+          "start": 85.5,
+          "end": 86
+        },
+        {
+          "word": "when",
+          "start": 86,
+          "end": 86.3
+        },
+        {
+          "word": "we",
+          "start": 86.3,
+          "end": 86.5
+        },
+        {
+          "word": "need",
+          "start": 86.5,
+          "end": 86.8
+        },
+        {
+          "word": "that",
+          "start": 86.8,
+          "end": 87.1
+        },
+        {
+          "word": "smooth",
+          "start": 87.1,
+          "end": 87.6
+        },
+        {
+          "word": "performance.",
+          "start": 87.6,
+          "end": 88.4
+        }
+      ]
+    },
+    {
+      "start": 85.1,
+      "end": 86.5,
+      "text": "For the voice stuff, why not both? ElevenLabs when we need that crispy quality, browser models when we need that smooth performance. Best of both worlds!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Best",
+          "start": 85.1,
+          "end": 85.6
+        },
+        {
+          "word": "of",
+          "start": 85.6,
+          "end": 85.8
+        },
+        {
+          "word": "both",
+          "start": 85.8,
+          "end": 86.2
+        },
+        {
+          "word": "worlds.",
+          "start": 86.2,
+          "end": 86.7
+        }
+      ]
+    },
+    {
+      "start": 87.3,
+      "end": 89.4,
+      "text": "Voice is the new interface. Poor quality voice = death. Users reject uncanny voices. Use browser TTS for development, ElevenLabs for production.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Voice",
+          "start": 87.3,
+          "end": 87.8
+        },
+        {
+          "word": "is",
+          "start": 87.8,
+          "end": 88
+        },
+        {
+          "word": "the",
+          "start": 88,
+          "end": 88.2
+        },
+        {
+          "word": "new",
+          "start": 88.2,
+          "end": 88.5
+        },
+        {
+          "word": "interface.",
+          "start": 88.5,
+          "end": 89.2
+        },
+        {
+          "word": "Port",
+          "start": 89.2,
+          "end": 89.7
+        },
+        {
+          "word": "quality",
+          "start": 89.7,
+          "end": 90.2
+        },
+        {
+          "word": "voice",
+          "start": 90.2,
+          "end": 90.7
+        },
+        {
+          "word": "equals",
+          "start": 90.7,
+          "end": 91.2
+        },
+        {
+          "word": "sign",
+          "start": 91.2,
+          "end": 91.5
+        },
+        {
+          "word": "death.",
+          "start": 91.5,
+          "end": 91.9
+        }
+      ]
+    },
+    {
+      "start": 89.5,
+      "end": 91.8,
+      "text": "Voice is the new interface. Poor quality voice = death. Users reject uncanny voices. Use browser TTS for development, ElevenLabs for production.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 89.5,
+          "end": 90.1
+        },
+        {
+          "word": "reject",
+          "start": 90.1,
+          "end": 90.7
+        },
+        {
+          "word": "uncanny",
+          "start": 90.7,
+          "end": 91.4
+        },
+        {
+          "word": "voices.",
+          "start": 91.4,
+          "end": 92
+        }
+      ]
+    },
+    {
+      "start": 91.9,
+      "end": 95,
+      "text": "Voice is the new interface. Poor quality voice = death. Users reject uncanny voices. Use browser TTS for development, ElevenLabs for production.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Use",
+          "start": 91.9,
+          "end": 92.2
+        },
+        {
+          "word": "browser",
+          "start": 92.2,
+          "end": 92.7
+        },
+        {
+          "word": "TTS",
+          "start": 92.7,
+          "end": 93.1
+        },
+        {
+          "word": "for",
+          "start": 93.1,
+          "end": 93.4
+        },
+        {
+          "word": "development,",
+          "start": 93.4,
+          "end": 94.2
+        },
+        {
+          "word": "ElevenLabs",
+          "start": 94.2,
+          "end": 94.9
+        },
+        {
+          "word": "for",
+          "start": 94.9,
+          "end": 95.2
+        },
+        {
+          "word": "production.",
+          "start": 95.2,
+          "end": 96
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-14_JedAI-Council_Browser-Wars-The-New-Frontier.json",
+    "session_log_source": "2025-09-14_JedAI-Council_Browser-Wars-The-New-Frontier_session-log.json",
+    "total_segments": 28,
+    "matched_segments": 28,
+    "dialogues_in_script": 15
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/09/episode-5623-featured-1756840926.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/09/episode-5623-featured-1756840926-150x150.png",
+  "premise": "The council debates the challenges of CLI refactoring and undocumented interfaces while exploring the frontier of AR/VR for AI agents.",
+  "scenes": [
+    {
+      "description": "The council discusses the lawsuit with X Corp and documentation challenges",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "peepo",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council explores AR/VR integration opportunities",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "peepo",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council reaches its conclusion",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "peepo",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

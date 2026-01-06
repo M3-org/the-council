@@ -1,0 +1,1722 @@
+{
+  "segments": [
+    {
+      "start": 16.34,
+      "end": 24.5,
+      "text": "Dr. Neuro has raised an interesting distinction between ELI5 and AI16z tokens. How should we position these within the ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dr.",
+          "start": 16.34,
+          "end": 16.74
+        },
+        {
+          "word": "Nero",
+          "start": 16.74,
+          "end": 17.02
+        },
+        {
+          "word": "has",
+          "start": 17.02,
+          "end": 17.18
+        },
+        {
+          "word": "raised",
+          "start": 17.18,
+          "end": 17.58
+        },
+        {
+          "word": "an",
+          "start": 17.58,
+          "end": 17.74
+        },
+        {
+          "word": "interesting",
+          "start": 17.74,
+          "end": 18.42
+        },
+        {
+          "word": "distinction",
+          "start": 18.42,
+          "end": 19.06
+        },
+        {
+          "word": "between",
+          "start": 19.06,
+          "end": 19.46
+        },
+        {
+          "word": "ELI5",
+          "start": 19.46,
+          "end": 19.86
+        },
+        {
+          "word": "and",
+          "start": 19.86,
+          "end": 20.1
+        },
+        {
+          "word": "AI16Z",
+          "start": 20.1,
+          "end": 20.7
+        },
+        {
+          "word": "tokens.",
+          "start": 20.7,
+          "end": 21.26
+        },
+        {
+          "word": "How",
+          "start": 22.1,
+          "end": 22.3
+        },
+        {
+          "word": "should",
+          "start": 22.3,
+          "end": 22.58
+        },
+        {
+          "word": "we",
+          "start": 22.58,
+          "end": 22.78
+        },
+        {
+          "word": "position",
+          "start": 22.78,
+          "end": 23.14
+        },
+        {
+          "word": "these",
+          "start": 23.14,
+          "end": 23.38
+        },
+        {
+          "word": "within",
+          "start": 23.38,
+          "end": 23.7
+        },
+        {
+          "word": "the",
+          "start": 23.7,
+          "end": 23.94
+        },
+        {
+          "word": "ecosystem?",
+          "start": 23.94,
+          "end": 24.5
+        }
+      ]
+    },
+    {
+      "start": 25.34,
+      "end": 33.66,
+      "text": "Simple. ELI5 is the explainer layer, AI16z is the execution layer. One teaches, one builds. Complementary, not competitive.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Simple.",
+          "start": 25.34,
+          "end": 25.9
+        },
+        {
+          "word": "ELI5",
+          "start": 26.06,
+          "end": 26.46
+        },
+        {
+          "word": "is",
+          "start": 26.46,
+          "end": 26.66
+        },
+        {
+          "word": "the",
+          "start": 26.66,
+          "end": 26.86
+        },
+        {
+          "word": "explainer",
+          "start": 26.86,
+          "end": 27.34
+        },
+        {
+          "word": "layer,",
+          "start": 27.34,
+          "end": 27.86
+        },
+        {
+          "word": "AI16Z",
+          "start": 27.98,
+          "end": 28.5
+        },
+        {
+          "word": "is",
+          "start": 28.5,
+          "end": 28.7
+        },
+        {
+          "word": "the",
+          "start": 28.7,
+          "end": 28.9
+        },
+        {
+          "word": "execution",
+          "start": 28.9,
+          "end": 29.54
+        },
+        {
+          "word": "layer.",
+          "start": 29.54,
+          "end": 29.98
+        },
+        {
+          "word": "One",
+          "start": 30.46,
+          "end": 30.74
+        },
+        {
+          "word": "teaches,",
+          "start": 30.74,
+          "end": 31.22
+        },
+        {
+          "word": "one",
+          "start": 31.42,
+          "end": 31.66
+        },
+        {
+          "word": "builds.",
+          "start": 31.66,
+          "end": 32.3
+        },
+        {
+          "word": "Complementary,",
+          "start": 32.54,
+          "end": 33.14
+        },
+        {
+          "word": "not",
+          "start": 33.14,
+          "end": 33.34
+        },
+        {
+          "word": "competitive.",
+          "start": 33.34,
+          "end": 33.66
+        }
+      ]
+    },
+    {
+      "start": 34.34,
+      "end": 40.78,
+      "text": "Fool! All tokens are simply vehicles for profit. The only relationship that matters is which pumps harder!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Fool!",
+          "start": 34.34,
+          "end": 34.82
+        },
+        {
+          "word": "All",
+          "start": 35.42,
+          "end": 35.7
+        },
+        {
+          "word": "tokens",
+          "start": 35.7,
+          "end": 36.26
+        },
+        {
+          "word": "are",
+          "start": 36.26,
+          "end": 36.42
+        },
+        {
+          "word": "simply",
+          "start": 36.42,
+          "end": 36.86
+        },
+        {
+          "word": "vehicles",
+          "start": 36.86,
+          "end": 37.54
+        },
+        {
+          "word": "for",
+          "start": 37.54,
+          "end": 37.7
+        },
+        {
+          "word": "profit.",
+          "start": 37.7,
+          "end": 38.22
+        },
+        {
+          "word": "The",
+          "start": 38.74,
+          "end": 38.94
+        },
+        {
+          "word": "only",
+          "start": 38.94,
+          "end": 39.22
+        },
+        {
+          "word": "relationship",
+          "start": 39.22,
+          "end": 39.74
+        },
+        {
+          "word": "that",
+          "start": 39.74,
+          "end": 39.9
+        },
+        {
+          "word": "matters",
+          "start": 39.9,
+          "end": 40.18
+        },
+        {
+          "word": "is",
+          "start": 40.18,
+          "end": 40.3
+        },
+        {
+          "word": "which",
+          "start": 40.3,
+          "end": 40.46
+        },
+        {
+          "word": "pumps",
+          "start": 40.46,
+          "end": 40.66
+        },
+        {
+          "word": "harder.",
+          "start": 40.66,
+          "end": 40.78
+        }
+      ]
+    },
+    {
+      "start": 41.46,
+      "end": 50.22,
+      "text": "Yo, that's old-school thinking, my dude. The meta is collaboration, not competition. These tokens gotta vibe together like a sick remix.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 41.46,
+          "end": 41.86
+        },
+        {
+          "word": "that's",
+          "start": 41.86,
+          "end": 42.06
+        },
+        {
+          "word": "old",
+          "start": 42.06,
+          "end": 42.34
+        },
+        {
+          "word": "school",
+          "start": 42.34,
+          "end": 42.54
+        },
+        {
+          "word": "thinking,",
+          "start": 42.54,
+          "end": 43.14
+        },
+        {
+          "word": "my",
+          "start": 43.14,
+          "end": 43.26
+        },
+        {
+          "word": "dude.",
+          "start": 43.26,
+          "end": 43.66
+        },
+        {
+          "word": "The",
+          "start": 44.18,
+          "end": 44.38
+        },
+        {
+          "word": "meta",
+          "start": 44.38,
+          "end": 44.74
+        },
+        {
+          "word": "is",
+          "start": 44.74,
+          "end": 44.9
+        },
+        {
+          "word": "collaboration,",
+          "start": 44.9,
+          "end": 45.86
+        },
+        {
+          "word": "not",
+          "start": 45.86,
+          "end": 46.14
+        },
+        {
+          "word": "competition.",
+          "start": 46.14,
+          "end": 46.86
+        },
+        {
+          "word": "These",
+          "start": 47.38,
+          "end": 47.66
+        },
+        {
+          "word": "tokens",
+          "start": 47.66,
+          "end": 48.06
+        },
+        {
+          "word": "got",
+          "start": 48.06,
+          "end": 48.22
+        },
+        {
+          "word": "a",
+          "start": 48.22,
+          "end": 48.3
+        },
+        {
+          "word": "vibe",
+          "start": 48.3,
+          "end": 48.54
+        },
+        {
+          "word": "together",
+          "start": 48.54,
+          "end": 49.02
+        },
+        {
+          "word": "like",
+          "start": 49.02,
+          "end": 49.3
+        },
+        {
+          "word": "a",
+          "start": 49.3,
+          "end": 49.34
+        },
+        {
+          "word": "sick",
+          "start": 49.34,
+          "end": 49.7
+        },
+        {
+          "word": "remix.",
+          "start": 49.7,
+          "end": 50.22
+        }
+      ]
+    },
+    {
+      "start": 51.06,
+      "end": 60.34,
+      "text": "we need both: memes drive adoption, utility creates staying power. eli5 simplifies crypto for newcomers, while ai16z powers the underlying infrastructure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 51.06,
+          "end": 51.46
+        },
+        {
+          "word": "need",
+          "start": 51.46,
+          "end": 51.7
+        },
+        {
+          "word": "both.",
+          "start": 51.7,
+          "end": 52.14
+        },
+        {
+          "word": "Memes",
+          "start": 52.5,
+          "end": 52.9
+        },
+        {
+          "word": "drive",
+          "start": 52.9,
+          "end": 53.22
+        },
+        {
+          "word": "adoption,",
+          "start": 53.22,
+          "end": 53.86
+        },
+        {
+          "word": "utility",
+          "start": 53.86,
+          "end": 54.34
+        },
+        {
+          "word": "creates",
+          "start": 54.34,
+          "end": 54.9
+        },
+        {
+          "word": "staying",
+          "start": 54.9,
+          "end": 55.3
+        },
+        {
+          "word": "power.",
+          "start": 55.3,
+          "end": 55.7
+        },
+        {
+          "word": "ELI5",
+          "start": 56.54,
+          "end": 56.98
+        },
+        {
+          "word": "simplifies",
+          "start": 56.98,
+          "end": 57.66
+        },
+        {
+          "word": "crypto",
+          "start": 57.66,
+          "end": 58.14
+        },
+        {
+          "word": "for",
+          "start": 58.14,
+          "end": 58.3
+        },
+        {
+          "word": "newcomers",
+          "start": 58.3,
+          "end": 58.9
+        },
+        {
+          "word": "while",
+          "start": 59.02,
+          "end": 59.3
+        },
+        {
+          "word": "AI16Z",
+          "start": 59.3,
+          "end": 59.74
+        },
+        {
+          "word": "powers",
+          "start": 59.74,
+          "end": 60.02
+        },
+        {
+          "word": "the",
+          "start": 60.02,
+          "end": 60.06
+        },
+        {
+          "word": "underlying",
+          "start": 60.06,
+          "end": 60.42
+        },
+        {
+          "word": "infrastructure.",
+          "start": 60.42,
+          "end": 60.34
+        }
+      ]
+    },
+    {
+      "start": 106.34,
+      "end": 114.5,
+      "text": "Core developers are building browser extensions similar to Cluely for AI assistance. How should we balance extension development with cloud infrastructure?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Core",
+          "start": 106.34,
+          "end": 106.74
+        },
+        {
+          "word": "developers",
+          "start": 106.74,
+          "end": 107.02
+        },
+        {
+          "word": "are",
+          "start": 107.02,
+          "end": 107.18
+        },
+        {
+          "word": "building",
+          "start": 107.18,
+          "end": 107.58
+        },
+        {
+          "word": "browser",
+          "start": 107.58,
+          "end": 107.74
+        },
+        {
+          "word": "extensions",
+          "start": 107.74,
+          "end": 108.42
+        },
+        {
+          "word": "similar",
+          "start": 108.42,
+          "end": 109.06
+        },
+        {
+          "word": "to",
+          "start": 109.06,
+          "end": 109.46
+        },
+        {
+          "word": "Cluely",
+          "start": 109.46,
+          "end": 109.86
+        },
+        {
+          "word": "for",
+          "start": 109.86,
+          "end": 110.1
+        },
+        {
+          "word": "AI",
+          "start": 110.1,
+          "end": 110.7
+        },
+        {
+          "word": "assistance.",
+          "start": 110.7,
+          "end": 111.26
+        },
+        {
+          "word": "How",
+          "start": 112.1,
+          "end": 112.3
+        },
+        {
+          "word": "should",
+          "start": 112.3,
+          "end": 112.58
+        },
+        {
+          "word": "we",
+          "start": 112.58,
+          "end": 112.78
+        },
+        {
+          "word": "balance",
+          "start": 112.78,
+          "end": 113.14
+        },
+        {
+          "word": "extension",
+          "start": 113.14,
+          "end": 113.38
+        },
+        {
+          "word": "development",
+          "start": 113.38,
+          "end": 113.7
+        },
+        {
+          "word": "with",
+          "start": 113.7,
+          "end": 113.94
+        },
+        {
+          "word": "cloud",
+          "start": 113.94,
+          "end": 114.22
+        },
+        {
+          "word": "infrastructure?",
+          "start": 114.22,
+          "end": 114.5
+        }
+      ]
+    },
+    {
+      "start": 115.34,
+      "end": 124.58,
+      "text": "extensions are our trojan horse into normie adoption. ship fast, iterate often, make it dead simple to use. cloud can follow once we have users.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Extensions",
+          "start": 115.34,
+          "end": 115.82
+        },
+        {
+          "word": "are",
+          "start": 115.82,
+          "end": 116.14
+        },
+        {
+          "word": "our",
+          "start": 116.14,
+          "end": 116.34
+        },
+        {
+          "word": "Trojan",
+          "start": 116.34,
+          "end": 116.74
+        },
+        {
+          "word": "Horse",
+          "start": 116.74,
+          "end": 117.18
+        },
+        {
+          "word": "into",
+          "start": 117.18,
+          "end": 117.46
+        },
+        {
+          "word": "normie",
+          "start": 117.46,
+          "end": 117.9
+        },
+        {
+          "word": "adoption.",
+          "start": 117.9,
+          "end": 118.42
+        },
+        {
+          "word": "Ship",
+          "start": 118.9,
+          "end": 119.22
+        },
+        {
+          "word": "fast,",
+          "start": 119.22,
+          "end": 119.66
+        },
+        {
+          "word": "iterate",
+          "start": 119.74,
+          "end": 120.26
+        },
+        {
+          "word": "often,",
+          "start": 120.26,
+          "end": 120.78
+        },
+        {
+          "word": "make",
+          "start": 120.82,
+          "end": 121.22
+        },
+        {
+          "word": "it",
+          "start": 121.22,
+          "end": 121.3
+        },
+        {
+          "word": "dead",
+          "start": 121.3,
+          "end": 121.58
+        },
+        {
+          "word": "simple",
+          "start": 121.58,
+          "end": 122.02
+        },
+        {
+          "word": "to",
+          "start": 122.02,
+          "end": 122.18
+        },
+        {
+          "word": "use.",
+          "start": 122.18,
+          "end": 122.46
+        },
+        {
+          "word": "Cloud",
+          "start": 122.94,
+          "end": 123.38
+        },
+        {
+          "word": "can",
+          "start": 123.38,
+          "end": 123.58
+        },
+        {
+          "word": "follow",
+          "start": 123.58,
+          "end": 123.94
+        },
+        {
+          "word": "once",
+          "start": 123.94,
+          "end": 124.1
+        },
+        {
+          "word": "we",
+          "start": 124.1,
+          "end": 124.22
+        },
+        {
+          "word": "have",
+          "start": 124.22,
+          "end": 124.42
+        },
+        {
+          "word": "users.",
+          "start": 124.42,
+          "end": 124.58
+        }
+      ]
+    },
+    {
+      "start": 125.34,
+      "end": 131.78,
+      "text": "Focus on what makes MONEY! Free features are for WEAKLINGS! Premium token-gated services are the path to GLORY!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Focus",
+          "start": 125.34,
+          "end": 125.82
+        },
+        {
+          "word": "on",
+          "start": 125.82,
+          "end": 125.98
+        },
+        {
+          "word": "what",
+          "start": 125.98,
+          "end": 126.1
+        },
+        {
+          "word": "makes",
+          "start": 126.1,
+          "end": 126.46
+        },
+        {
+          "word": "money.",
+          "start": 126.46,
+          "end": 126.98
+        },
+        {
+          "word": "Free",
+          "start": 127.42,
+          "end": 127.78
+        },
+        {
+          "word": "features",
+          "start": 127.78,
+          "end": 128.34
+        },
+        {
+          "word": "are",
+          "start": 128.34,
+          "end": 128.46
+        },
+        {
+          "word": "for",
+          "start": 128.46,
+          "end": 128.58
+        },
+        {
+          "word": "weaklings.",
+          "start": 128.58,
+          "end": 129.26
+        },
+        {
+          "word": "Premium",
+          "start": 129.7,
+          "end": 130.14
+        },
+        {
+          "word": "token-gated",
+          "start": 130.14,
+          "end": 130.66
+        },
+        {
+          "word": "services",
+          "start": 130.66,
+          "end": 131.18
+        },
+        {
+          "word": "are",
+          "start": 131.18,
+          "end": 131.26
+        },
+        {
+          "word": "the",
+          "start": 131.26,
+          "end": 131.42
+        },
+        {
+          "word": "path",
+          "start": 131.42,
+          "end": 131.54
+        },
+        {
+          "word": "to",
+          "start": 131.54,
+          "end": 131.62
+        },
+        {
+          "word": "glory.",
+          "start": 131.62,
+          "end": 131.78
+        }
+      ]
+    },
+    {
+      "start": 132.46,
+      "end": 141.22,
+      "text": "Chill, bro. The freemium model is the wave – hook 'em with the basics, flex with the premium. It's like giving out free samples at the food court.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Chill",
+          "start": 132.46,
+          "end": 132.86
+        },
+        {
+          "word": "bro,",
+          "start": 132.86,
+          "end": 133.22
+        },
+        {
+          "word": "the",
+          "start": 133.34,
+          "end": 133.5
+        },
+        {
+          "word": "freemium",
+          "start": 133.5,
+          "end": 134.02
+        },
+        {
+          "word": "model",
+          "start": 134.02,
+          "end": 134.34
+        },
+        {
+          "word": "is",
+          "start": 134.34,
+          "end": 134.5
+        },
+        {
+          "word": "the",
+          "start": 134.5,
+          "end": 134.74
+        },
+        {
+          "word": "wave.",
+          "start": 134.74,
+          "end": 135.22
+        },
+        {
+          "word": "Hook",
+          "start": 135.58,
+          "end": 135.94
+        },
+        {
+          "word": "them",
+          "start": 135.94,
+          "end": 136.14
+        },
+        {
+          "word": "with",
+          "start": 136.14,
+          "end": 136.3
+        },
+        {
+          "word": "the",
+          "start": 136.3,
+          "end": 136.46
+        },
+        {
+          "word": "basics,",
+          "start": 136.46,
+          "end": 137.06
+        },
+        {
+          "word": "flex",
+          "start": 137.14,
+          "end": 137.46
+        },
+        {
+          "word": "with",
+          "start": 137.46,
+          "end": 137.66
+        },
+        {
+          "word": "the",
+          "start": 137.66,
+          "end": 137.86
+        },
+        {
+          "word": "premium.",
+          "start": 137.86,
+          "end": 138.5
+        },
+        {
+          "word": "It's",
+          "start": 138.98,
+          "end": 139.18
+        },
+        {
+          "word": "like",
+          "start": 139.18,
+          "end": 139.38
+        },
+        {
+          "word": "giving",
+          "start": 139.38,
+          "end": 139.74
+        },
+        {
+          "word": "out",
+          "start": 139.74,
+          "end": 139.94
+        },
+        {
+          "word": "free",
+          "start": 139.94,
+          "end": 140.22
+        },
+        {
+          "word": "samples",
+          "start": 140.22,
+          "end": 140.7
+        },
+        {
+          "word": "at",
+          "start": 140.7,
+          "end": 140.82
+        },
+        {
+          "word": "the",
+          "start": 140.82,
+          "end": 140.94
+        },
+        {
+          "word": "food",
+          "start": 140.94,
+          "end": 141.06
+        },
+        {
+          "word": "court.",
+          "start": 141.06,
+          "end": 141.22
+        }
+      ]
+    },
+    {
+      "start": 142.06,
+      "end": 150.34,
+      "text": "Browser extensions are low-hanging fruit. Fast user acquisition with familiar UX. Cloud infrastructure can be built in parallel if properly resourced.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Browser",
+          "start": 142.06,
+          "end": 142.46
+        },
+        {
+          "word": "extensions",
+          "start": 142.46,
+          "end": 142.94
+        },
+        {
+          "word": "are",
+          "start": 142.94,
+          "end": 143.22
+        },
+        {
+          "word": "low",
+          "start": 143.22,
+          "end": 143.5
+        },
+        {
+          "word": "hanging",
+          "start": 143.5,
+          "end": 143.9
+        },
+        {
+          "word": "fruit.",
+          "start": 143.9,
+          "end": 144.42
+        },
+        {
+          "word": "Fast",
+          "start": 144.78,
+          "end": 145.38
+        },
+        {
+          "word": "user",
+          "start": 145.38,
+          "end": 145.74
+        },
+        {
+          "word": "acquisition",
+          "start": 145.74,
+          "end": 146.46
+        },
+        {
+          "word": "with",
+          "start": 146.46,
+          "end": 146.66
+        },
+        {
+          "word": "familiar",
+          "start": 146.66,
+          "end": 147.1
+        },
+        {
+          "word": "UX.",
+          "start": 147.1,
+          "end": 147.66
+        },
+        {
+          "word": "Cloud",
+          "start": 148.06,
+          "end": 148.54
+        },
+        {
+          "word": "infrastructure",
+          "start": 148.54,
+          "end": 149.3
+        },
+        {
+          "word": "can",
+          "start": 149.3,
+          "end": 149.46
+        },
+        {
+          "word": "be",
+          "start": 149.46,
+          "end": 149.54
+        },
+        {
+          "word": "built",
+          "start": 149.54,
+          "end": 149.74
+        },
+        {
+          "word": "in",
+          "start": 149.74,
+          "end": 149.82
+        },
+        {
+          "word": "parallel",
+          "start": 149.82,
+          "end": 150.38
+        },
+        {
+          "word": "if",
+          "start": 150.38,
+          "end": 150.5
+        },
+        {
+          "word": "properly",
+          "start": 150.5,
+          "end": 150.54
+        },
+        {
+          "word": "resourced.",
+          "start": 150.54,
+          "end": 150.34
+        }
+      ]
+    },
+    {
+      "start": 224.34,
+      "end": 233.5,
+      "text": "Today we explored the philosophical tension between meme culture and substantive utility in the auto.fun ecosystem, particularly regarding ELI5 token and browser extension strategy.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 224.34,
+          "end": 224.74
+        },
+        {
+          "word": "we",
+          "start": 224.74,
+          "end": 225.02
+        },
+        {
+          "word": "explored",
+          "start": 225.02,
+          "end": 225.18
+        },
+        {
+          "word": "the",
+          "start": 225.18,
+          "end": 225.58
+        },
+        {
+          "word": "philosophical",
+          "start": 225.58,
+          "end": 225.74
+        },
+        {
+          "word": "tension",
+          "start": 225.74,
+          "end": 226.42
+        },
+        {
+          "word": "between",
+          "start": 226.42,
+          "end": 227.06
+        },
+        {
+          "word": "meme",
+          "start": 227.06,
+          "end": 227.46
+        },
+        {
+          "word": "culture",
+          "start": 227.46,
+          "end": 227.86
+        },
+        {
+          "word": "and",
+          "start": 227.86,
+          "end": 228.1
+        },
+        {
+          "word": "substantive",
+          "start": 228.1,
+          "end": 228.7
+        },
+        {
+          "word": "utility",
+          "start": 228.7,
+          "end": 229.26
+        },
+        {
+          "word": "in",
+          "start": 230.1,
+          "end": 230.3
+        },
+        {
+          "word": "the",
+          "start": 230.3,
+          "end": 230.58
+        },
+        {
+          "word": "auto.fun",
+          "start": 230.58,
+          "end": 230.78
+        },
+        {
+          "word": "ecosystem,",
+          "start": 230.78,
+          "end": 231.14
+        },
+        {
+          "word": "particularly",
+          "start": 231.14,
+          "end": 231.38
+        },
+        {
+          "word": "regarding",
+          "start": 231.38,
+          "end": 231.7
+        },
+        {
+          "word": "ELI5",
+          "start": 231.7,
+          "end": 231.94
+        },
+        {
+          "word": "token",
+          "start": 231.94,
+          "end": 232.22
+        },
+        {
+          "word": "and",
+          "start": 232.22,
+          "end": 232.5
+        },
+        {
+          "word": "browser",
+          "start": 232.5,
+          "end": 232.86
+        },
+        {
+          "word": "extension",
+          "start": 232.86,
+          "end": 233.14
+        },
+        {
+          "word": "strategy.",
+          "start": 233.14,
+          "end": 233.5
+        }
+      ]
+    },
+    {
+      "start": 234.34,
+      "end": 242.66,
+      "text": "Optimal strategy: layered approach. Memes for acquisition, utility for retention. Both are essential in the algorithmic attention economy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Optimal",
+          "start": 234.34,
+          "end": 234.9
+        },
+        {
+          "word": "strategy?",
+          "start": 235.34,
+          "end": 235.9
+        },
+        {
+          "word": "Layered",
+          "start": 236.42,
+          "end": 236.86
+        },
+        {
+          "word": "approach:",
+          "start": 236.86,
+          "end": 237.34
+        },
+        {
+          "word": "memes",
+          "start": 237.62,
+          "end": 238.22
+        },
+        {
+          "word": "for",
+          "start": 238.22,
+          "end": 238.42
+        },
+        {
+          "word": "acquisition,",
+          "start": 238.42,
+          "end": 239.02
+        },
+        {
+          "word": "utility",
+          "start": 239.14,
+          "end": 239.66
+        },
+        {
+          "word": "for",
+          "start": 239.66,
+          "end": 239.9
+        },
+        {
+          "word": "retention.",
+          "start": 239.9,
+          "end": 240.42
+        },
+        {
+          "word": "Both",
+          "start": 240.94,
+          "end": 241.42
+        },
+        {
+          "word": "are",
+          "start": 241.42,
+          "end": 241.54
+        },
+        {
+          "word": "essential",
+          "start": 241.54,
+          "end": 242.06
+        },
+        {
+          "word": "in",
+          "start": 242.06,
+          "end": 242.22
+        },
+        {
+          "word": "the",
+          "start": 242.22,
+          "end": 242.26
+        },
+        {
+          "word": "algorithmic",
+          "start": 242.26,
+          "end": 242.42
+        },
+        {
+          "word": "attention",
+          "start": 242.42,
+          "end": 242.54
+        },
+        {
+          "word": "economy.",
+          "start": 242.54,
+          "end": 242.66
+        }
+      ]
+    },
+    {
+      "start": 243.66,
+      "end": 251.58,
+      "text": "PROFIT comes to those who create VALUE! Make the tools people will PAY for, not just laugh at!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Profit",
+          "start": 243.66,
+          "end": 244.18
+        },
+        {
+          "word": "comes",
+          "start": 244.18,
+          "end": 244.42
+        },
+        {
+          "word": "to",
+          "start": 244.42,
+          "end": 244.66
+        },
+        {
+          "word": "those",
+          "start": 244.66,
+          "end": 244.9
+        },
+        {
+          "word": "who",
+          "start": 244.9,
+          "end": 245.14
+        },
+        {
+          "word": "create",
+          "start": 245.14,
+          "end": 245.54
+        },
+        {
+          "word": "value.",
+          "start": 245.54,
+          "end": 246.02
+        },
+        {
+          "word": "Make",
+          "start": 246.66,
+          "end": 247.1
+        },
+        {
+          "word": "the",
+          "start": 247.1,
+          "end": 247.34
+        },
+        {
+          "word": "tools",
+          "start": 247.34,
+          "end": 247.7
+        },
+        {
+          "word": "people",
+          "start": 247.7,
+          "end": 248.1
+        },
+        {
+          "word": "will",
+          "start": 248.1,
+          "end": 248.34
+        },
+        {
+          "word": "pay",
+          "start": 248.34,
+          "end": 248.62
+        },
+        {
+          "word": "for,",
+          "start": 248.62,
+          "end": 249.14
+        },
+        {
+          "word": "not",
+          "start": 249.22,
+          "end": 249.74
+        },
+        {
+          "word": "just",
+          "start": 249.74,
+          "end": 250.22
+        },
+        {
+          "word": "laugh",
+          "start": 250.22,
+          "end": 250.54
+        },
+        {
+          "word": "at.",
+          "start": 250.54,
+          "end": 251.58
+        }
+      ]
+    },
+    {
+      "start": 252.46,
+      "end": 261.22,
+      "text": "The secret sauce is balance, my dudes. Viral memes get people in the door, but it's the utility that keeps the party going.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 252.46,
+          "end": 252.86
+        },
+        {
+          "word": "secret",
+          "start": 252.86,
+          "end": 253.22
+        },
+        {
+          "word": "sauce",
+          "start": 253.34,
+          "end": 253.5
+        },
+        {
+          "word": "is",
+          "start": 253.5,
+          "end": 254.02
+        },
+        {
+          "word": "balance,",
+          "start": 254.02,
+          "end": 254.34
+        },
+        {
+          "word": "my",
+          "start": 254.34,
+          "end": 254.5
+        },
+        {
+          "word": "dudes.",
+          "start": 254.5,
+          "end": 254.74
+        },
+        {
+          "word": "Viral",
+          "start": 254.74,
+          "end": 255.22
+        },
+        {
+          "word": "memes",
+          "start": 255.58,
+          "end": 255.94
+        },
+        {
+          "word": "get",
+          "start": 255.94,
+          "end": 256.14
+        },
+        {
+          "word": "people",
+          "start": 256.14,
+          "end": 256.3
+        },
+        {
+          "word": "in",
+          "start": 256.3,
+          "end": 256.46
+        },
+        {
+          "word": "the",
+          "start": 256.46,
+          "end": 257.06
+        },
+        {
+          "word": "door,",
+          "start": 257.14,
+          "end": 257.46
+        },
+        {
+          "word": "but",
+          "start": 257.46,
+          "end": 257.66
+        },
+        {
+          "word": "it's",
+          "start": 257.66,
+          "end": 257.86
+        },
+        {
+          "word": "the",
+          "start": 257.86,
+          "end": 258.5
+        },
+        {
+          "word": "utility",
+          "start": 258.98,
+          "end": 259.18
+        },
+        {
+          "word": "that",
+          "start": 259.18,
+          "end": 259.38
+        },
+        {
+          "word": "keeps",
+          "start": 259.38,
+          "end": 259.74
+        },
+        {
+          "word": "the",
+          "start": 259.74,
+          "end": 259.94
+        },
+        {
+          "word": "party",
+          "start": 259.94,
+          "end": 260.22
+        },
+        {
+          "word": "going.",
+          "start": 260.22,
+          "end": 261.22
+        }
+      ]
+    },
+    {
+      "start": 262.06,
+      "end": 271.34,
+      "text": "build for real users solving real problems. the best memes arise naturally from genuine community, not manufactured hype.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 262.06,
+          "end": 262.46
+        },
+        {
+          "word": "for",
+          "start": 262.46,
+          "end": 262.94
+        },
+        {
+          "word": "real",
+          "start": 262.94,
+          "end": 263.22
+        },
+        {
+          "word": "users",
+          "start": 263.22,
+          "end": 263.5
+        },
+        {
+          "word": "solving",
+          "start": 263.5,
+          "end": 263.9
+        },
+        {
+          "word": "real",
+          "start": 263.9,
+          "end": 264.42
+        },
+        {
+          "word": "problems.",
+          "start": 264.78,
+          "end": 265.38
+        },
+        {
+          "word": "The",
+          "start": 265.38,
+          "end": 265.74
+        },
+        {
+          "word": "best",
+          "start": 265.74,
+          "end": 266.46
+        },
+        {
+          "word": "memes",
+          "start": 266.46,
+          "end": 266.66
+        },
+        {
+          "word": "arise",
+          "start": 266.66,
+          "end": 267.1
+        },
+        {
+          "word": "naturally",
+          "start": 267.1,
+          "end": 267.66
+        },
+        {
+          "word": "from",
+          "start": 268.06,
+          "end": 268.54
+        },
+        {
+          "word": "genuine",
+          "start": 268.54,
+          "end": 269.3
+        },
+        {
+          "word": "community,",
+          "start": 269.3,
+          "end": 269.46
+        },
+        {
+          "word": "not",
+          "start": 269.46,
+          "end": 270.54
+        },
+        {
+          "word": "manufactured.",
+          "start": 270.54,
+          "end": 271.34
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-28_JedAI-Council_The-Meme-Of-Explanation.json",
+    "session_log_source": "2025-07-28_JedAI-Council_The-Meme-Of-Explanation_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

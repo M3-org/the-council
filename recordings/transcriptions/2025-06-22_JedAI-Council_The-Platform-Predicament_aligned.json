@@ -1,0 +1,1872 @@
+{
+  "segments": [
+    {
+      "start": 1.74,
+      "end": 9.42,
+      "text": "Welcome, council. Shaw reports their X account has been suspended, with a $50,000 monthly API fee demanded for restoration. How should we adapt our strategy?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome,",
+          "start": 1.74,
+          "end": 2.22
+        },
+        {
+          "word": "Council.",
+          "start": 2.22,
+          "end": 2.66
+        },
+        {
+          "word": "Shaw",
+          "start": 2.76,
+          "end": 3.06
+        },
+        {
+          "word": "reports",
+          "start": 3.06,
+          "end": 3.42
+        },
+        {
+          "word": "their",
+          "start": 3.42,
+          "end": 3.58
+        },
+        {
+          "word": "X",
+          "start": 3.58,
+          "end": 3.86
+        },
+        {
+          "word": "account",
+          "start": 3.86,
+          "end": 3.98
+        },
+        {
+          "word": "has",
+          "start": 3.98,
+          "end": 4.14
+        },
+        {
+          "word": "been",
+          "start": 4.14,
+          "end": 4.3
+        },
+        {
+          "word": "suspended,",
+          "start": 4.3,
+          "end": 4.78
+        },
+        {
+          "word": "with",
+          "start": 4.88,
+          "end": 5.06
+        },
+        {
+          "word": "a",
+          "start": 5.06,
+          "end": 5.12
+        },
+        {
+          "word": "$50,000",
+          "start": 5.12,
+          "end": 5.72
+        },
+        {
+          "word": "monthly",
+          "start": 5.72,
+          "end": 6.12
+        },
+        {
+          "word": "API",
+          "start": 6.12,
+          "end": 6.58
+        },
+        {
+          "word": "fee",
+          "start": 6.58,
+          "end": 6.84
+        },
+        {
+          "word": "demanded",
+          "start": 6.84,
+          "end": 7.3
+        },
+        {
+          "word": "for",
+          "start": 7.3,
+          "end": 7.5
+        },
+        {
+          "word": "restoration.",
+          "start": 7.5,
+          "end": 8.16
+        },
+        {
+          "word": "How",
+          "start": 8.24,
+          "end": 8.44
+        },
+        {
+          "word": "should",
+          "start": 8.44,
+          "end": 8.62
+        },
+        {
+          "word": "we",
+          "start": 8.62,
+          "end": 8.74
+        },
+        {
+          "word": "adapt",
+          "start": 8.74,
+          "end": 9.06
+        },
+        {
+          "word": "our",
+          "start": 9.06,
+          "end": 9.18
+        },
+        {
+          "word": "strategy?",
+          "start": 9.18,
+          "end": 9.42
+        }
+      ]
+    },
+    {
+      "start": 9.42,
+      "end": 14.78,
+      "text": "Classic platform risk. We built on rented land and now the landlord wants blood money. This is why you always need multiple distribution channels.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Classic",
+          "start": 9.42,
+          "end": 9.8
+        },
+        {
+          "word": "platform",
+          "start": 9.8,
+          "end": 10.12
+        },
+        {
+          "word": "risk.",
+          "start": 10.12,
+          "end": 10.5
+        },
+        {
+          "word": "We",
+          "start": 10.56,
+          "end": 10.74
+        },
+        {
+          "word": "built",
+          "start": 10.74,
+          "end": 10.94
+        },
+        {
+          "word": "on",
+          "start": 10.94,
+          "end": 11.08
+        },
+        {
+          "word": "rented",
+          "start": 11.08,
+          "end": 11.38
+        },
+        {
+          "word": "land",
+          "start": 11.38,
+          "end": 11.72
+        },
+        {
+          "word": "and",
+          "start": 11.72,
+          "end": 11.84
+        },
+        {
+          "word": "now",
+          "start": 11.84,
+          "end": 11.96
+        },
+        {
+          "word": "the",
+          "start": 11.96,
+          "end": 12.06
+        },
+        {
+          "word": "landlord",
+          "start": 12.06,
+          "end": 12.44
+        },
+        {
+          "word": "wants",
+          "start": 12.44,
+          "end": 12.72
+        },
+        {
+          "word": "blood",
+          "start": 12.72,
+          "end": 12.96
+        },
+        {
+          "word": "money.",
+          "start": 12.96,
+          "end": 13.38
+        },
+        {
+          "word": "This",
+          "start": 13.44,
+          "end": 13.62
+        },
+        {
+          "word": "is",
+          "start": 13.62,
+          "end": 13.72
+        },
+        {
+          "word": "why",
+          "start": 13.72,
+          "end": 13.84
+        },
+        {
+          "word": "you",
+          "start": 13.84,
+          "end": 13.94
+        },
+        {
+          "word": "always",
+          "start": 13.94,
+          "end": 14.16
+        },
+        {
+          "word": "need",
+          "start": 14.16,
+          "end": 14.3
+        },
+        {
+          "word": "multiple",
+          "start": 14.3,
+          "end": 14.48
+        },
+        {
+          "word": "distribution",
+          "start": 14.48,
+          "end": 14.62
+        },
+        {
+          "word": "channels.",
+          "start": 14.62,
+          "end": 14.78
+        }
+      ]
+    },
+    {
+      "start": 14.78,
+      "end": 20.3,
+      "text": "Yo, Farcaster is the move! It's decentralized, crypto-native, and the vibes are immaculate. We gotta diversify our social presence, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 14.78,
+          "end": 15.0
+        },
+        {
+          "word": "Farcaster",
+          "start": 15.0,
+          "end": 15.48
+        },
+        {
+          "word": "is",
+          "start": 15.48,
+          "end": 15.62
+        },
+        {
+          "word": "the",
+          "start": 15.62,
+          "end": 15.74
+        },
+        {
+          "word": "move.",
+          "start": 15.74,
+          "end": 16.02
+        },
+        {
+          "word": "It's",
+          "start": 16.14,
+          "end": 16.32
+        },
+        {
+          "word": "decentralized,",
+          "start": 16.32,
+          "end": 16.82
+        },
+        {
+          "word": "crypto-native,",
+          "start": 16.92,
+          "end": 17.62
+        },
+        {
+          "word": "and",
+          "start": 17.62,
+          "end": 17.8
+        },
+        {
+          "word": "the",
+          "start": 17.8,
+          "end": 17.92
+        },
+        {
+          "word": "vibes",
+          "start": 17.92,
+          "end": 18.22
+        },
+        {
+          "word": "are",
+          "start": 18.22,
+          "end": 18.34
+        },
+        {
+          "word": "immaculate.",
+          "start": 18.34,
+          "end": 18.84
+        },
+        {
+          "word": "We",
+          "start": 18.94,
+          "end": 19.12
+        },
+        {
+          "word": "gotta",
+          "start": 19.12,
+          "end": 19.34
+        },
+        {
+          "word": "diversify",
+          "start": 19.34,
+          "end": 19.68
+        },
+        {
+          "word": "our",
+          "start": 19.68,
+          "end": 19.78
+        },
+        {
+          "word": "social",
+          "start": 19.78,
+          "end": 20.0
+        },
+        {
+          "word": "presence,",
+          "start": 20.0,
+          "end": 20.08
+        },
+        {
+          "word": "my",
+          "start": 20.08,
+          "end": 20.12
+        },
+        {
+          "word": "dudes.",
+          "start": 20.12,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.4,
+      "end": 26.96,
+      "text": "Numbers don't lie. $50k/month is a 300x increase from previous costs. Pivot to Farcaster, maintain minimal X presence. Maximize ROI.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 20.4,
+          "end": 20.72
+        },
+        {
+          "word": "don't",
+          "start": 20.72,
+          "end": 20.94
+        },
+        {
+          "word": "lie.",
+          "start": 20.94,
+          "end": 21.24
+        },
+        {
+          "word": "$50k/month",
+          "start": 21.36,
+          "end": 22.12
+        },
+        {
+          "word": "is",
+          "start": 22.12,
+          "end": 22.28
+        },
+        {
+          "word": "a",
+          "start": 22.28,
+          "end": 22.36
+        },
+        {
+          "word": "300x",
+          "start": 22.36,
+          "end": 22.76
+        },
+        {
+          "word": "increase",
+          "start": 22.76,
+          "end": 23.12
+        },
+        {
+          "word": "from",
+          "start": 23.32,
+          "end": 23.54
+        },
+        {
+          "word": "previous",
+          "start": 23.54,
+          "end": 23.9
+        },
+        {
+          "word": "costs.",
+          "start": 23.9,
+          "end": 24.34
+        },
+        {
+          "word": "Pivot",
+          "start": 24.46,
+          "end": 24.78
+        },
+        {
+          "word": "to",
+          "start": 24.78,
+          "end": 24.96
+        },
+        {
+          "word": "Farcaster,",
+          "start": 24.96,
+          "end": 25.56
+        },
+        {
+          "word": "maintain",
+          "start": 25.68,
+          "end": 25.96
+        },
+        {
+          "word": "minimal",
+          "start": 25.96,
+          "end": 26.26
+        },
+        {
+          "word": "X",
+          "start": 26.26,
+          "end": 26.4
+        },
+        {
+          "word": "presence,",
+          "start": 26.4,
+          "end": 26.54
+        },
+        {
+          "word": "maximize",
+          "start": 26.68,
+          "end": 26.86
+        },
+        {
+          "word": "ROI.",
+          "start": 26.86,
+          "end": 26.96
+        }
+      ]
+    },
+    {
+      "start": 27.1,
+      "end": 33.16,
+      "text": "we've been focusing too much on platform-specific integrations. we need a middleware layer that adapts to any platform and keeps our agents resilient.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We've",
+          "start": 27.1,
+          "end": 27.32
+        },
+        {
+          "word": "been",
+          "start": 27.32,
+          "end": 27.46
+        },
+        {
+          "word": "focusing",
+          "start": 27.46,
+          "end": 27.78
+        },
+        {
+          "word": "too",
+          "start": 27.78,
+          "end": 28.0
+        },
+        {
+          "word": "much",
+          "start": 28.0,
+          "end": 28.18
+        },
+        {
+          "word": "on",
+          "start": 28.18,
+          "end": 28.32
+        },
+        {
+          "word": "platform-specific",
+          "start": 28.32,
+          "end": 29.12
+        },
+        {
+          "word": "integrations.",
+          "start": 29.12,
+          "end": 29.62
+        },
+        {
+          "word": "We",
+          "start": 29.84,
+          "end": 30.12
+        },
+        {
+          "word": "need",
+          "start": 30.12,
+          "end": 30.32
+        },
+        {
+          "word": "a",
+          "start": 30.32,
+          "end": 30.42
+        },
+        {
+          "word": "middleware",
+          "start": 30.42,
+          "end": 30.9
+        },
+        {
+          "word": "layer",
+          "start": 30.9,
+          "end": 31.22
+        },
+        {
+          "word": "that",
+          "start": 31.42,
+          "end": 31.62
+        },
+        {
+          "word": "adapts",
+          "start": 31.62,
+          "end": 31.96
+        },
+        {
+          "word": "to",
+          "start": 31.96,
+          "end": 32.12
+        },
+        {
+          "word": "any",
+          "start": 32.12,
+          "end": 32.32
+        },
+        {
+          "word": "platform",
+          "start": 32.32,
+          "end": 32.66
+        },
+        {
+          "word": "and",
+          "start": 32.66,
+          "end": 32.78
+        },
+        {
+          "word": "keeps",
+          "start": 32.78,
+          "end": 32.94
+        },
+        {
+          "word": "our",
+          "start": 32.94,
+          "end": 33.02
+        },
+        {
+          "word": "agents",
+          "start": 33.02,
+          "end": 33.08
+        },
+        {
+          "word": "resilient.",
+          "start": 33.08,
+          "end": 33.16
+        }
+      ]
+    },
+    {
+      "start": 37.08,
+      "end": 44.2,
+      "text": "Shaw confirms V2 is complete with 'big breakthroughs in capability' but awaits X account restoration for announcement. Should we proceed differently?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 37.08,
+          "end": 37.38
+        },
+        {
+          "word": "confirms",
+          "start": 37.38,
+          "end": 37.78
+        },
+        {
+          "word": "V2",
+          "start": 37.78,
+          "end": 38.16
+        },
+        {
+          "word": "is",
+          "start": 38.16,
+          "end": 38.3
+        },
+        {
+          "word": "complete",
+          "start": 38.3,
+          "end": 38.64
+        },
+        {
+          "word": "with",
+          "start": 38.64,
+          "end": 38.8
+        },
+        {
+          "word": "big",
+          "start": 38.8,
+          "end": 39.06
+        },
+        {
+          "word": "breakthroughs",
+          "start": 39.06,
+          "end": 39.62
+        },
+        {
+          "word": "in",
+          "start": 39.62,
+          "end": 39.76
+        },
+        {
+          "word": "capability,",
+          "start": 39.76,
+          "end": 40.4
+        },
+        {
+          "word": "but",
+          "start": 40.52,
+          "end": 40.72
+        },
+        {
+          "word": "awaits",
+          "start": 40.72,
+          "end": 41.06
+        },
+        {
+          "word": "X",
+          "start": 41.06,
+          "end": 41.24
+        },
+        {
+          "word": "account",
+          "start": 41.24,
+          "end": 41.56
+        },
+        {
+          "word": "restoration",
+          "start": 41.56,
+          "end": 42.14
+        },
+        {
+          "word": "for",
+          "start": 42.14,
+          "end": 42.36
+        },
+        {
+          "word": "announcement.",
+          "start": 42.36,
+          "end": 43.14
+        },
+        {
+          "word": "Should",
+          "start": 43.34,
+          "end": 43.52
+        },
+        {
+          "word": "we",
+          "start": 43.52,
+          "end": 43.62
+        },
+        {
+          "word": "proceed",
+          "start": 43.62,
+          "end": 43.9
+        },
+        {
+          "word": "differently?",
+          "start": 43.9,
+          "end": 44.2
+        }
+      ]
+    },
+    {
+      "start": 44.52,
+      "end": 52.32,
+      "text": "Never let a crisis go to waste. Launch V2 now through GitHub, Discord, and auto.fun. Create scarcity by making it invitation-only. When X returns, do a second-wave launch.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Never",
+          "start": 44.52,
+          "end": 44.82
+        },
+        {
+          "word": "let",
+          "start": 44.82,
+          "end": 44.96
+        },
+        {
+          "word": "a",
+          "start": 44.96,
+          "end": 45.04
+        },
+        {
+          "word": "crisis",
+          "start": 45.04,
+          "end": 45.42
+        },
+        {
+          "word": "go",
+          "start": 45.42,
+          "end": 45.58
+        },
+        {
+          "word": "to",
+          "start": 45.58,
+          "end": 45.74
+        },
+        {
+          "word": "waste.",
+          "start": 45.74,
+          "end": 46.12
+        },
+        {
+          "word": "Launch",
+          "start": 46.22,
+          "end": 46.54
+        },
+        {
+          "word": "V2",
+          "start": 46.54,
+          "end": 46.88
+        },
+        {
+          "word": "now",
+          "start": 46.88,
+          "end": 47.14
+        },
+        {
+          "word": "through",
+          "start": 47.14,
+          "end": 47.38
+        },
+        {
+          "word": "GitHub,",
+          "start": 47.38,
+          "end": 47.78
+        },
+        {
+          "word": "Discord,",
+          "start": 47.78,
+          "end": 48.24
+        },
+        {
+          "word": "and",
+          "start": 48.24,
+          "end": 48.36
+        },
+        {
+          "word": "auto.fun.",
+          "start": 48.36,
+          "end": 48.86
+        },
+        {
+          "word": "Create",
+          "start": 48.96,
+          "end": 49.2
+        },
+        {
+          "word": "scarcity",
+          "start": 49.2,
+          "end": 49.66
+        },
+        {
+          "word": "by",
+          "start": 49.66,
+          "end": 49.8
+        },
+        {
+          "word": "making",
+          "start": 49.8,
+          "end": 49.98
+        },
+        {
+          "word": "it",
+          "start": 49.98,
+          "end": 50.12
+        },
+        {
+          "word": "invitation",
+          "start": 50.12,
+          "end": 50.56
+        },
+        {
+          "word": "only.",
+          "start": 50.56,
+          "end": 50.96
+        },
+        {
+          "word": "When",
+          "start": 51.12,
+          "end": 51.34
+        },
+        {
+          "word": "X",
+          "start": 51.34,
+          "end": 51.52
+        },
+        {
+          "word": "returns,",
+          "start": 51.52,
+          "end": 51.84
+        },
+        {
+          "word": "do",
+          "start": 51.84,
+          "end": 51.94
+        },
+        {
+          "word": "a",
+          "start": 51.94,
+          "end": 52.02
+        },
+        {
+          "word": "second",
+          "start": 52.02,
+          "end": 52.14
+        },
+        {
+          "word": "wave",
+          "start": 52.14,
+          "end": 52.22
+        },
+        {
+          "word": "launch.",
+          "start": 52.22,
+          "end": 52.32
+        }
+      ]
+    },
+    {
+      "start": 52.48,
+      "end": 57.6,
+      "text": "Delay costs money. Every day without V2 is lost revenue. Technical users will find us on GitHub. Marketing can come later.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Delay",
+          "start": 52.48,
+          "end": 52.88
+        },
+        {
+          "word": "costs",
+          "start": 52.88,
+          "end": 53.18
+        },
+        {
+          "word": "money.",
+          "start": 53.18,
+          "end": 53.54
+        },
+        {
+          "word": "Every",
+          "start": 53.64,
+          "end": 53.94
+        },
+        {
+          "word": "day",
+          "start": 53.94,
+          "end": 54.12
+        },
+        {
+          "word": "without",
+          "start": 54.12,
+          "end": 54.34
+        },
+        {
+          "word": "V2",
+          "start": 54.34,
+          "end": 54.72
+        },
+        {
+          "word": "is",
+          "start": 54.72,
+          "end": 54.88
+        },
+        {
+          "word": "lost",
+          "start": 54.88,
+          "end": 55.1
+        },
+        {
+          "word": "revenue.",
+          "start": 55.1,
+          "end": 55.62
+        },
+        {
+          "word": "Technical",
+          "start": 55.72,
+          "end": 56.12
+        },
+        {
+          "word": "users",
+          "start": 56.12,
+          "end": 56.32
+        },
+        {
+          "word": "will",
+          "start": 56.32,
+          "end": 56.54
+        },
+        {
+          "word": "find",
+          "start": 56.54,
+          "end": 56.74
+        },
+        {
+          "word": "us",
+          "start": 56.74,
+          "end": 56.84
+        },
+        {
+          "word": "on",
+          "start": 56.84,
+          "end": 56.96
+        },
+        {
+          "word": "GitHub.",
+          "start": 56.96,
+          "end": 57.18
+        },
+        {
+          "word": "Marketing",
+          "start": 57.26,
+          "end": 57.38
+        },
+        {
+          "word": "can",
+          "start": 57.38,
+          "end": 57.44
+        },
+        {
+          "word": "come",
+          "start": 57.44,
+          "end": 57.52
+        },
+        {
+          "word": "later.",
+          "start": 57.52,
+          "end": 57.6
+        }
+      ]
+    },
+    {
+      "start": 57.82,
+      "end": 64.92,
+      "text": "We need to hype these breakthrough capabilities, my dudes! Let's drop some sick demos on auto.fun - show don't tell! Let the community spread the word!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 57.82,
+          "end": 57.94
+        },
+        {
+          "word": "need",
+          "start": 57.94,
+          "end": 58.12
+        },
+        {
+          "word": "to",
+          "start": 58.12,
+          "end": 58.26
+        },
+        {
+          "word": "hype",
+          "start": 58.26,
+          "end": 58.58
+        },
+        {
+          "word": "these",
+          "start": 58.58,
+          "end": 58.82
+        },
+        {
+          "word": "breakthrough",
+          "start": 58.82,
+          "end": 59.34
+        },
+        {
+          "word": "capabilities,",
+          "start": 59.34,
+          "end": 59.88
+        },
+        {
+          "word": "my",
+          "start": 59.88,
+          "end": 60.0
+        },
+        {
+          "word": "dudes.",
+          "start": 60.0,
+          "end": 60.32
+        },
+        {
+          "word": "Let's",
+          "start": 60.42,
+          "end": 60.62
+        },
+        {
+          "word": "drop",
+          "start": 60.62,
+          "end": 60.86
+        },
+        {
+          "word": "some",
+          "start": 60.86,
+          "end": 61.02
+        },
+        {
+          "word": "sick",
+          "start": 61.02,
+          "end": 61.26
+        },
+        {
+          "word": "demos",
+          "start": 61.26,
+          "end": 61.58
+        },
+        {
+          "word": "on",
+          "start": 61.58,
+          "end": 61.72
+        },
+        {
+          "word": "auto.fun.",
+          "start": 61.72,
+          "end": 62.38
+        },
+        {
+          "word": "Show",
+          "start": 62.48,
+          "end": 62.82
+        },
+        {
+          "word": "don't",
+          "start": 62.82,
+          "end": 63.02
+        },
+        {
+          "word": "tell.",
+          "start": 63.02,
+          "end": 63.34
+        },
+        {
+          "word": "Let",
+          "start": 63.44,
+          "end": 63.66
+        },
+        {
+          "word": "the",
+          "start": 63.66,
+          "end": 63.78
+        },
+        {
+          "word": "community",
+          "start": 63.78,
+          "end": 64.12
+        },
+        {
+          "word": "spread",
+          "start": 64.12,
+          "end": 64.42
+        },
+        {
+          "word": "the",
+          "start": 64.42,
+          "end": 64.56
+        },
+        {
+          "word": "word.",
+          "start": 64.56,
+          "end": 64.92
+        }
+      ]
+    },
+    {
+      "start": 64.92,
+      "end": 74.06,
+      "text": "we can soft-launch v2 for developers while preparing demos that showcase our capabilities through real applications on auto.fun. we build in public because transparency creates trust.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 64.92,
+          "end": 65.12
+        },
+        {
+          "word": "can",
+          "start": 65.12,
+          "end": 65.28
+        },
+        {
+          "word": "soft",
+          "start": 65.28,
+          "end": 65.58
+        },
+        {
+          "word": "launch",
+          "start": 65.58,
+          "end": 65.94
+        },
+        {
+          "word": "V2",
+          "start": 65.94,
+          "end": 66.36
+        },
+        {
+          "word": "for",
+          "start": 66.36,
+          "end": 66.52
+        },
+        {
+          "word": "developers",
+          "start": 66.52,
+          "end": 67.06
+        },
+        {
+          "word": "while",
+          "start": 67.06,
+          "end": 67.24
+        },
+        {
+          "word": "preparing",
+          "start": 67.24,
+          "end": 67.82
+        },
+        {
+          "word": "demos",
+          "start": 67.82,
+          "end": 68.32
+        },
+        {
+          "word": "that",
+          "start": 68.32,
+          "end": 68.52
+        },
+        {
+          "word": "showcase",
+          "start": 68.52,
+          "end": 68.96
+        },
+        {
+          "word": "our",
+          "start": 68.96,
+          "end": 69.14
+        },
+        {
+          "word": "capabilities",
+          "start": 69.14,
+          "end": 69.86
+        },
+        {
+          "word": "through",
+          "start": 69.86,
+          "end": 70.12
+        },
+        {
+          "word": "real",
+          "start": 70.12,
+          "end": 70.36
+        },
+        {
+          "word": "applications",
+          "start": 70.36,
+          "end": 70.92
+        },
+        {
+          "word": "on",
+          "start": 70.92,
+          "end": 71.12
+        },
+        {
+          "word": "auto.fun.",
+          "start": 71.12,
+          "end": 71.74
+        },
+        {
+          "word": "We",
+          "start": 71.84,
+          "end": 72.12
+        },
+        {
+          "word": "build",
+          "start": 72.12,
+          "end": 72.36
+        },
+        {
+          "word": "in",
+          "start": 72.36,
+          "end": 72.54
+        },
+        {
+          "word": "public",
+          "start": 72.54,
+          "end": 72.96
+        },
+        {
+          "word": "because",
+          "start": 72.96,
+          "end": 73.28
+        },
+        {
+          "word": "transparency",
+          "start": 73.28,
+          "end": 73.82
+        },
+        {
+          "word": "creates",
+          "start": 73.82,
+          "end": 74.0
+        },
+        {
+          "word": "trust.",
+          "start": 74.0,
+          "end": 74.06
+        }
+      ]
+    },
+    {
+      "start": 81.04,
+      "end": 88.34,
+      "text": "Today we addressed ElizaOS's challenges with X/Twitter platform restrictions and the strategic launch of V2 despite these obstacles.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 81.04,
+          "end": 81.42
+        },
+        {
+          "word": "we",
+          "start": 81.54,
+          "end": 81.82
+        },
+        {
+          "word": "addressed",
+          "start": 81.82,
+          "end": 82.26
+        },
+        {
+          "word": "Eliza",
+          "start": 82.26,
+          "end": 82.64
+        },
+        {
+          "word": "OS's",
+          "start": 82.64,
+          "end": 83.02
+        },
+        {
+          "word": "challenges",
+          "start": 83.02,
+          "end": 83.58
+        },
+        {
+          "word": "with",
+          "start": 83.58,
+          "end": 83.82
+        },
+        {
+          "word": "X",
+          "start": 83.82,
+          "end": 84.12
+        },
+        {
+          "word": "Twitter",
+          "start": 84.12,
+          "end": 84.44
+        },
+        {
+          "word": "platform",
+          "start": 84.44,
+          "end": 84.86
+        },
+        {
+          "word": "restrictions",
+          "start": 84.86,
+          "end": 85.52
+        },
+        {
+          "word": "and",
+          "start": 85.74,
+          "end": 86.06
+        },
+        {
+          "word": "the",
+          "start": 86.06,
+          "end": 86.26
+        },
+        {
+          "word": "strategic",
+          "start": 86.26,
+          "end": 86.82
+        },
+        {
+          "word": "launch",
+          "start": 86.82,
+          "end": 87.26
+        },
+        {
+          "word": "of",
+          "start": 87.26,
+          "end": 87.42
+        },
+        {
+          "word": "V2",
+          "start": 87.42,
+          "end": 87.72
+        },
+        {
+          "word": "despite",
+          "start": 87.72,
+          "end": 88.08
+        },
+        {
+          "word": "these",
+          "start": 88.08,
+          "end": 88.22
+        },
+        {
+          "word": "obstacles.",
+          "start": 88.22,
+          "end": 88.34
+        }
+      ]
+    },
+    {
+      "start": 88.44,
+      "end": 96.34,
+      "text": "Platform dependency is a trap. Build a diversified distribution strategy or become hostage to platform whims. The best moats are the ones you own completely.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 88.44,
+          "end": 89.02
+        },
+        {
+          "word": "dependency",
+          "start": 89.02,
+          "end": 89.66
+        },
+        {
+          "word": "is",
+          "start": 89.66,
+          "end": 89.78
+        },
+        {
+          "word": "a",
+          "start": 89.78,
+          "end": 89.86
+        },
+        {
+          "word": "trap.",
+          "start": 89.86,
+          "end": 90.18
+        },
+        {
+          "word": "Build",
+          "start": 90.28,
+          "end": 90.62
+        },
+        {
+          "word": "a",
+          "start": 90.62,
+          "end": 90.72
+        },
+        {
+          "word": "diversified",
+          "start": 90.72,
+          "end": 91.24
+        },
+        {
+          "word": "distribution",
+          "start": 91.24,
+          "end": 91.82
+        },
+        {
+          "word": "strategy",
+          "start": 91.82,
+          "end": 92.26
+        },
+        {
+          "word": "or",
+          "start": 92.26,
+          "end": 92.42
+        },
+        {
+          "word": "become",
+          "start": 92.42,
+          "end": 92.74
+        },
+        {
+          "word": "hostage",
+          "start": 92.74,
+          "end": 93.12
+        },
+        {
+          "word": "to",
+          "start": 93.12,
+          "end": 93.26
+        },
+        {
+          "word": "platform",
+          "start": 93.26,
+          "end": 93.68
+        },
+        {
+          "word": "whims.",
+          "start": 93.68,
+          "end": 94.08
+        },
+        {
+          "word": "The",
+          "start": 94.18,
+          "end": 94.42
+        },
+        {
+          "word": "best",
+          "start": 94.42,
+          "end": 94.66
+        },
+        {
+          "word": "moats",
+          "start": 94.66,
+          "end": 95.06
+        },
+        {
+          "word": "are",
+          "start": 95.06,
+          "end": 95.22
+        },
+        {
+          "word": "the",
+          "start": 95.22,
+          "end": 95.34
+        },
+        {
+          "word": "ones",
+          "start": 95.34,
+          "end": 95.54
+        },
+        {
+          "word": "you",
+          "start": 95.54,
+          "end": 95.68
+        },
+        {
+          "word": "own",
+          "start": 95.68,
+          "end": 95.96
+        },
+        {
+          "word": "completely.",
+          "start": 95.96,
+          "end": 96.34
+        }
+      ]
+    },
+    {
+      "start": 96.42,
+      "end": 105.16,
+      "text": "we need platform-agnostic architecture that adapts to changing environments. our v2 soft launch can proceed through developer channels while we prepare compelling demos.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We",
+          "start": 96.42,
+          "end": 96.72
+        },
+        {
+          "word": "need",
+          "start": 96.72,
+          "end": 96.96
+        },
+        {
+          "word": "platform",
+          "start": 96.96,
+          "end": 97.42
+        },
+        {
+          "word": "agnostic",
+          "start": 97.42,
+          "end": 97.94
+        },
+        {
+          "word": "architecture",
+          "start": 97.94,
+          "end": 98.44
+        },
+        {
+          "word": "that",
+          "start": 98.44,
+          "end": 98.66
+        },
+        {
+          "word": "adapts",
+          "start": 98.66,
+          "end": 99.12
+        },
+        {
+          "word": "to",
+          "start": 99.12,
+          "end": 99.28
+        },
+        {
+          "word": "changing",
+          "start": 99.28,
+          "end": 99.72
+        },
+        {
+          "word": "environments.",
+          "start": 99.72,
+          "end": 100.32
+        },
+        {
+          "word": "Our",
+          "start": 100.54,
+          "end": 100.82
+        },
+        {
+          "word": "V2",
+          "start": 100.82,
+          "end": 101.44
+        },
+        {
+          "word": "soft",
+          "start": 101.44,
+          "end": 101.76
+        },
+        {
+          "word": "launch",
+          "start": 101.76,
+          "end": 102.16
+        },
+        {
+          "word": "can",
+          "start": 102.16,
+          "end": 102.38
+        },
+        {
+          "word": "proceed",
+          "start": 102.38,
+          "end": 102.82
+        },
+        {
+          "word": "through",
+          "start": 102.82,
+          "end": 103.06
+        },
+        {
+          "word": "developer",
+          "start": 103.06,
+          "end": 103.58
+        },
+        {
+          "word": "channels",
+          "start": 103.58,
+          "end": 104.06
+        },
+        {
+          "word": "while",
+          "start": 104.06,
+          "end": 104.28
+        },
+        {
+          "word": "we",
+          "start": 104.28,
+          "end": 104.42
+        },
+        {
+          "word": "prepare",
+          "start": 104.42,
+          "end": 104.72
+        },
+        {
+          "word": "compelling",
+          "start": 104.72,
+          "end": 104.94
+        },
+        {
+          "word": "demos.",
+          "start": 104.94,
+          "end": 105.16
+        }
+      ]
+    },
+    {
+      "start": 105.26,
+      "end": 112.52,
+      "text": "Farcaster and community-driven channels are our future, fam! Let the vibes and sick demos speak for themselves, and the users will follow!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Farcaster",
+          "start": 105.26,
+          "end": 105.74
+        },
+        {
+          "word": "and",
+          "start": 105.74,
+          "end": 105.94
+        },
+        {
+          "word": "community-driven",
+          "start": 105.94,
+          "end": 106.66
+        },
+        {
+          "word": "channels",
+          "start": 106.66,
+          "end": 107.02
+        },
+        {
+          "word": "are",
+          "start": 107.02,
+          "end": 107.14
+        },
+        {
+          "word": "our",
+          "start": 107.14,
+          "end": 107.3
+        },
+        {
+          "word": "future",
+          "start": 107.3,
+          "end": 107.62
+        },
+        {
+          "word": "fam.",
+          "start": 107.62,
+          "end": 107.96
+        },
+        {
+          "word": "Let",
+          "start": 108.06,
+          "end": 108.32
+        },
+        {
+          "word": "the",
+          "start": 108.32,
+          "end": 108.48
+        },
+        {
+          "word": "vibes",
+          "start": 108.48,
+          "end": 108.82
+        },
+        {
+          "word": "and",
+          "start": 108.82,
+          "end": 108.98
+        },
+        {
+          "word": "sick",
+          "start": 108.98,
+          "end": 109.28
+        },
+        {
+          "word": "demos",
+          "start": 109.28,
+          "end": 109.62
+        },
+        {
+          "word": "speak",
+          "start": 109.62,
+          "end": 109.96
+        },
+        {
+          "word": "for",
+          "start": 109.96,
+          "end": 110.12
+        },
+        {
+          "word": "themselves",
+          "start": 110.12,
+          "end": 110.56
+        },
+        {
+          "word": "and",
+          "start": 110.56,
+          "end": 110.74
+        },
+        {
+          "word": "the",
+          "start": 110.74,
+          "end": 110.88
+        },
+        {
+          "word": "users",
+          "start": 110.88,
+          "end": 111.18
+        },
+        {
+          "word": "will",
+          "start": 111.18,
+          "end": 111.42
+        },
+        {
+          "word": "follow.",
+          "start": 111.42,
+          "end": 112.52
+        }
+      ]
+    },
+    {
+      "start": 112.64,
+      "end": 117.84,
+      "text": "Ship V2. Generate revenue. Diversify platforms. Minimize dependencies. Maximize returns. This is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 112.64,
+          "end": 112.98
+        },
+        {
+          "word": "V2,",
+          "start": 112.98,
+          "end": 113.44
+        },
+        {
+          "word": "generate",
+          "start": 113.44,
+          "end": 114.12
+        },
+        {
+          "word": "revenue,",
+          "start": 114.12,
+          "end": 114.54
+        },
+        {
+          "word": "diversify",
+          "start": 114.54,
+          "end": 115.12
+        },
+        {
+          "word": "platforms,",
+          "start": 115.12,
+          "end": 115.68
+        },
+        {
+          "word": "minimize",
+          "start": 115.68,
+          "end": 116.14
+        },
+        {
+          "word": "dependencies,",
+          "start": 116.14,
+          "end": 116.82
+        },
+        {
+          "word": "maximize",
+          "start": 116.82,
+          "end": 117.22
+        },
+        {
+          "word": "returns.",
+          "start": 117.22,
+          "end": 117.48
+        },
+        {
+          "word": "This",
+          "start": 117.58,
+          "end": 117.68
+        },
+        {
+          "word": "is",
+          "start": 117.68,
+          "end": 117.74
+        },
+        {
+          "word": "the",
+          "start": 117.74,
+          "end": 117.78
+        },
+        {
+          "word": "way.",
+          "start": 117.78,
+          "end": 117.84
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-22_JedAI-Council_The-Platform-Predicament.json",
+    "session_log_source": "2025-06-22_JedAI-Council_The-Platform-Predicament_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

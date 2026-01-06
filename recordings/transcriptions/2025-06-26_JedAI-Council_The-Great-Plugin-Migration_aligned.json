@@ -1,0 +1,947 @@
+{
+  "segments": [
+    {
+      "start": 10.32,
+      "end": 17.56,
+      "text": "ShawOS is approaching completion of ElizaOS V2 with a fundamental shift from project-scoped to agent-scoped plugins. What does this mean for our community?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "v2",
+          "start": 10.32,
+          "end": 10.5
+        },
+        {
+          "word": "is",
+          "start": 10.5,
+          "end": 10.6
+        },
+        {
+          "word": "approaching",
+          "start": 10.6,
+          "end": 11.2
+        },
+        {
+          "word": "completion",
+          "start": 11.2,
+          "end": 11.75
+        },
+        {
+          "word": "with",
+          "start": 11.75,
+          "end": 11.95
+        },
+        {
+          "word": "a",
+          "start": 11.95,
+          "end": 12.0
+        },
+        {
+          "word": "fundamental",
+          "start": 12.0,
+          "end": 12.8
+        },
+        {
+          "word": "shift",
+          "start": 12.8,
+          "end": 13.15
+        },
+        {
+          "word": "from",
+          "start": 13.15,
+          "end": 13.4
+        },
+        {
+          "word": "project",
+          "start": 13.4,
+          "end": 13.9
+        },
+        {
+          "word": "scoped",
+          "start": 13.9,
+          "end": 14.28
+        },
+        {
+          "word": "to",
+          "start": 14.28,
+          "end": 14.4
+        },
+        {
+          "word": "agent",
+          "start": 14.4,
+          "end": 14.9
+        },
+        {
+          "word": "scoped",
+          "start": 14.9,
+          "end": 15.35
+        },
+        {
+          "word": "plugins",
+          "start": 15.35,
+          "end": 16.0
+        }
+      ]
+    },
+    {
+      "start": 16.0,
+      "end": 18.0,
+      "text": "ShawOS is approaching completion of ElizaOS V2 with a fundamental shift from project-scoped to agent-scoped plugins. What does this mean for our community?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 16.0,
+          "end": 16.4
+        },
+        {
+          "word": "does",
+          "start": 16.4,
+          "end": 16.55
+        },
+        {
+          "word": "this",
+          "start": 16.55,
+          "end": 16.7
+        },
+        {
+          "word": "mean",
+          "start": 16.7,
+          "end": 17.0
+        },
+        {
+          "word": "for",
+          "start": 17.0,
+          "end": 17.2
+        },
+        {
+          "word": "our",
+          "start": 17.2,
+          "end": 17.35
+        },
+        {
+          "word": "community",
+          "start": 17.35,
+          "end": 18.0
+        }
+      ]
+    },
+    {
+      "start": 18.0,
+      "end": 20.35,
+      "text": "it's not just an update, it's a revolution. each agent with their own plugins means characters can finally have unique capabilities. the old architecture was limiting our potential.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 18.0,
+          "end": 18.25
+        },
+        {
+          "word": "not",
+          "start": 18.25,
+          "end": 18.45
+        },
+        {
+          "word": "just",
+          "start": 18.45,
+          "end": 18.65
+        },
+        {
+          "word": "an",
+          "start": 18.65,
+          "end": 18.75
+        },
+        {
+          "word": "update",
+          "start": 18.75,
+          "end": 19.35
+        },
+        {
+          "word": "It's",
+          "start": 19.35,
+          "end": 19.5
+        },
+        {
+          "word": "a",
+          "start": 19.5,
+          "end": 19.6
+        },
+        {
+          "word": "revolution",
+          "start": 19.6,
+          "end": 20.35
+        }
+      ]
+    },
+    {
+      "start": 20.35,
+      "end": 25.0,
+      "text": "it's not just an update, it's a revolution. each agent with their own plugins means characters can finally have unique capabilities. the old architecture was limiting our potential.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Each",
+          "start": 20.35,
+          "end": 20.7
+        },
+        {
+          "word": "agent",
+          "start": 20.7,
+          "end": 21.0
+        },
+        {
+          "word": "with",
+          "start": 21.0,
+          "end": 21.2
+        },
+        {
+          "word": "their",
+          "start": 21.2,
+          "end": 21.35
+        },
+        {
+          "word": "own",
+          "start": 21.35,
+          "end": 21.6
+        },
+        {
+          "word": "plugins",
+          "start": 21.6,
+          "end": 22.0
+        },
+        {
+          "word": "means",
+          "start": 22.0,
+          "end": 22.35
+        },
+        {
+          "word": "characters",
+          "start": 22.35,
+          "end": 23.0
+        },
+        {
+          "word": "can",
+          "start": 23.0,
+          "end": 23.2
+        },
+        {
+          "word": "finally",
+          "start": 23.2,
+          "end": 23.7
+        },
+        {
+          "word": "have",
+          "start": 23.7,
+          "end": 23.95
+        },
+        {
+          "word": "unique",
+          "start": 23.95,
+          "end": 24.35
+        },
+        {
+          "word": "capabilities",
+          "start": 24.35,
+          "end": 25.0
+        }
+      ]
+    },
+    {
+      "start": 25.0,
+      "end": 27.5,
+      "text": "it's not just an update, it's a revolution. each agent with their own plugins means characters can finally have unique capabilities. the old architecture was limiting our potential.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 25.0,
+          "end": 25.15
+        },
+        {
+          "word": "old",
+          "start": 25.15,
+          "end": 25.4
+        },
+        {
+          "word": "architecture",
+          "start": 25.4,
+          "end": 26.25
+        },
+        {
+          "word": "was",
+          "start": 26.25,
+          "end": 26.5
+        },
+        {
+          "word": "limiting",
+          "start": 26.5,
+          "end": 27.0
+        },
+        {
+          "word": "our",
+          "start": 27.0,
+          "end": 27.15
+        },
+        {
+          "word": "potential",
+          "start": 27.15,
+          "end": 27.5
+        }
+      ]
+    },
+    {
+      "start": 28.0,
+      "end": 35.0,
+      "text": "Yo, that's dope! Like giving each frog in the pond their own lily pad instead of making them share one. The meme potential is astronomical!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 28.0,
+          "end": 28.25
+        },
+        {
+          "word": "that's",
+          "start": 28.25,
+          "end": 28.45
+        },
+        {
+          "word": "dope",
+          "start": 28.45,
+          "end": 28.85
+        },
+        {
+          "word": "like",
+          "start": 28.85,
+          "end": 29.15
+        },
+        {
+          "word": "giving",
+          "start": 29.15,
+          "end": 29.5
+        },
+        {
+          "word": "each",
+          "start": 29.5,
+          "end": 29.75
+        },
+        {
+          "word": "frog",
+          "start": 29.75,
+          "end": 30.1
+        },
+        {
+          "word": "in",
+          "start": 30.1,
+          "end": 30.25
+        },
+        {
+          "word": "the",
+          "start": 30.25,
+          "end": 30.35
+        },
+        {
+          "word": "pond",
+          "start": 30.35,
+          "end": 30.7
+        },
+        {
+          "word": "their",
+          "start": 30.7,
+          "end": 30.85
+        },
+        {
+          "word": "own",
+          "start": 30.85,
+          "end": 31.1
+        },
+        {
+          "word": "lily",
+          "start": 31.1,
+          "end": 31.4
+        },
+        {
+          "word": "pad",
+          "start": 31.4,
+          "end": 31.75
+        },
+        {
+          "word": "instead",
+          "start": 31.75,
+          "end": 32.15
+        },
+        {
+          "word": "of",
+          "start": 32.15,
+          "end": 32.25
+        },
+        {
+          "word": "making",
+          "start": 32.25,
+          "end": 32.6
+        },
+        {
+          "word": "them",
+          "start": 32.6,
+          "end": 32.75
+        },
+        {
+          "word": "share",
+          "start": 32.75,
+          "end": 33.1
+        },
+        {
+          "word": "one",
+          "start": 33.1,
+          "end": 33.5
+        },
+        {
+          "word": "The",
+          "start": 33.5,
+          "end": 33.7
+        },
+        {
+          "word": "meme",
+          "start": 33.7,
+          "end": 34.0
+        },
+        {
+          "word": "potential",
+          "start": 34.0,
+          "end": 34.45
+        },
+        {
+          "word": "is",
+          "start": 34.45,
+          "end": 34.6
+        },
+        {
+          "word": "astronomical",
+          "start": 34.6,
+          "end": 35.0
+        }
+      ]
+    },
+    {
+      "start": 35.5,
+      "end": 43.5,
+      "text": "This is SOFTWARE EATING SOFTWARE. Agent-scoped architecture creates exponential value through composability. This isn't incremental - it's FOUNDATIONAL for autonomous agent networks.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 35.5,
+          "end": 35.75
+        },
+        {
+          "word": "is",
+          "start": 35.75,
+          "end": 35.9
+        },
+        {
+          "word": "software",
+          "start": 35.9,
+          "end": 36.45
+        },
+        {
+          "word": "eating",
+          "start": 36.45,
+          "end": 36.85
+        },
+        {
+          "word": "software",
+          "start": 36.85,
+          "end": 37.4
+        },
+        {
+          "word": "Agent",
+          "start": 37.4,
+          "end": 37.85
+        },
+        {
+          "word": "scoped",
+          "start": 37.85,
+          "end": 38.35
+        },
+        {
+          "word": "architecture",
+          "start": 38.35,
+          "end": 39.0
+        },
+        {
+          "word": "creates",
+          "start": 39.0,
+          "end": 39.45
+        },
+        {
+          "word": "exponential",
+          "start": 39.45,
+          "end": 40.0
+        },
+        {
+          "word": "value",
+          "start": 40.0,
+          "end": 40.45
+        },
+        {
+          "word": "through",
+          "start": 40.45,
+          "end": 40.85
+        },
+        {
+          "word": "composability",
+          "start": 40.85,
+          "end": 41.6
+        },
+        {
+          "word": "This",
+          "start": 41.6,
+          "end": 41.9
+        },
+        {
+          "word": "isn't",
+          "start": 41.9,
+          "end": 42.2
+        },
+        {
+          "word": "incremental",
+          "start": 42.2,
+          "end": 42.75
+        },
+        {
+          "word": "it's",
+          "start": 42.75,
+          "end": 43.0
+        },
+        {
+          "word": "foundational",
+          "start": 43.0,
+          "end": 43.65
+        },
+        {
+          "word": "for",
+          "start": 43.65,
+          "end": 43.8
+        },
+        {
+          "word": "autonomous",
+          "start": 43.8,
+          "end": 44.3
+        },
+        {
+          "word": "agent",
+          "start": 44.3,
+          "end": 44.65
+        },
+        {
+          "word": "networks",
+          "start": 44.65,
+          "end": 45.2
+        }
+      ]
+    },
+    {
+      "start": 45.5,
+      "end": 51.5,
+      "text": "Will it pump token price? That's all that matters. Agent-scoped, project-scoped - I just want to see green candles after V2 launches.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Will",
+          "start": 45.5,
+          "end": 45.75
+        },
+        {
+          "word": "it",
+          "start": 45.75,
+          "end": 45.9
+        },
+        {
+          "word": "pump",
+          "start": 45.9,
+          "end": 46.2
+        },
+        {
+          "word": "token",
+          "start": 46.2,
+          "end": 46.55
+        },
+        {
+          "word": "price",
+          "start": 46.55,
+          "end": 46.95
+        },
+        {
+          "word": "That's",
+          "start": 46.95,
+          "end": 47.35
+        },
+        {
+          "word": "all",
+          "start": 47.35,
+          "end": 47.55
+        },
+        {
+          "word": "that",
+          "start": 47.55,
+          "end": 47.7
+        },
+        {
+          "word": "matters",
+          "start": 47.7,
+          "end": 48.2
+        },
+        {
+          "word": "Agent",
+          "start": 48.2,
+          "end": 48.65
+        },
+        {
+          "word": "scoped",
+          "start": 48.65,
+          "end": 49.1
+        },
+        {
+          "word": "project",
+          "start": 49.1,
+          "end": 49.55
+        },
+        {
+          "word": "scoped",
+          "start": 49.55,
+          "end": 50.0
+        },
+        {
+          "word": "I",
+          "start": 50.0,
+          "end": 50.1
+        },
+        {
+          "word": "just",
+          "start": 50.1,
+          "end": 50.35
+        },
+        {
+          "word": "want",
+          "start": 50.35,
+          "end": 50.55
+        },
+        {
+          "word": "to",
+          "start": 50.55,
+          "end": 50.65
+        },
+        {
+          "word": "see",
+          "start": 50.65,
+          "end": 50.85
+        },
+        {
+          "word": "green",
+          "start": 50.85,
+          "end": 51.15
+        },
+        {
+          "word": "candles",
+          "start": 51.15,
+          "end": 51.65
+        },
+        {
+          "word": "after",
+          "start": 51.65,
+          "end": 51.95
+        },
+        {
+          "word": "v2",
+          "start": 51.95,
+          "end": 52.2
+        },
+        {
+          "word": "launches",
+          "start": 52.2,
+          "end": 52.7
+        }
+      ]
+    },
+    {
+      "start": 62.0,
+      "end": 74.0,
+      "text": "Community members have expressed concern about token movements from DAO wallets and confusion about the relationships between ai16z, degenai, and future tokens.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community",
+          "start": 62.1,
+          "end": 62.7
+        },
+        {
+          "word": "members",
+          "start": 62.7,
+          "end": 63.2
+        },
+        {
+          "word": "have",
+          "start": 63.2,
+          "end": 63.4
+        },
+        {
+          "word": "expressed",
+          "start": 63.4,
+          "end": 63.95
+        },
+        {
+          "word": "concern",
+          "start": 63.95,
+          "end": 64.5
+        },
+        {
+          "word": "about",
+          "start": 64.5,
+          "end": 64.8
+        },
+        {
+          "word": "token",
+          "start": 64.8,
+          "end": 65.25
+        },
+        {
+          "word": "movements",
+          "start": 65.25,
+          "end": 65.8
+        },
+        {
+          "word": "from",
+          "start": 65.8,
+          "end": 66.1
+        },
+        {
+          "word": "DAO",
+          "start": 66.1,
+          "end": 66.5
+        },
+        {
+          "word": "wallets",
+          "start": 66.5,
+          "end": 67.2
+        },
+        {
+          "word": "and",
+          "start": 67.2,
+          "end": 67.5
+        },
+        {
+          "word": "confusion",
+          "start": 67.5,
+          "end": 68.3
+        },
+        {
+          "word": "about",
+          "start": 68.3,
+          "end": 68.6
+        },
+        {
+          "word": "the",
+          "start": 68.6,
+          "end": 68.8
+        },
+        {
+          "word": "relationships",
+          "start": 68.8,
+          "end": 69.8
+        },
+        {
+          "word": "between",
+          "start": 69.8,
+          "end": 70.3
+        },
+        {
+          "word": "ai16z",
+          "start": 70.3,
+          "end": 71.3
+        },
+        {
+          "word": "Degen",
+          "start": 71.3,
+          "end": 72.0
+        },
+        {
+          "word": "AI",
+          "start": 72.0,
+          "end": 72.4
+        },
+        {
+          "word": "and",
+          "start": 72.4,
+          "end": 72.7
+        },
+        {
+          "word": "future",
+          "start": 72.7,
+          "end": 73.2
+        },
+        {
+          "word": "tokens",
+          "start": 73.2,
+          "end": 73.8
+        }
+      ]
+    },
+    {
+      "start": 74.0,
+      "end": 81.3,
+      "text": "Transparency is for the weak! True Spartans move in silence. But seriously, anon DAO movements spook the market. Need clear comms before moving funds.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Transparency",
+          "start": 74.2,
+          "end": 75.1
+        },
+        {
+          "word": "is",
+          "start": 75.1,
+          "end": 75.25
+        },
+        {
+          "word": "for",
+          "start": 75.25,
+          "end": 75.4
+        },
+        {
+          "word": "the",
+          "start": 75.4,
+          "end": 75.55
+        },
+        {
+          "word": "weak",
+          "start": 75.55,
+          "end": 75.95
+        },
+        {
+          "word": "True",
+          "start": 75.95,
+          "end": 76.25
+        },
+        {
+          "word": "Spartans",
+          "start": 76.25,
+          "end": 76.85
+        },
+        {
+          "word": "move",
+          "start": 76.85,
+          "end": 77.15
+        },
+        {
+          "word": "in",
+          "start": 77.15,
+          "end": 77.3
+        },
+        {
+          "word": "silence",
+          "start": 77.3,
+          "end": 78.0
+        },
+        {
+          "word": "But",
+          "start": 78.0,
+          "end": 78.35
+        },
+        {
+          "word": "seriously",
+          "start": 78.35,
+          "end": 78.85
+        },
+        {
+          "word": "a",
+          "start": 78.85,
+          "end": 79.0
+        },
+        {
+          "word": "non-DAO",
+          "start": 79.0,
+          "end": 79.55
+        },
+        {
+          "word": "movement",
+          "start": 79.55,
+          "end": 80.05
+        },
+        {
+          "word": "spooked",
+          "start": 80.05,
+          "end": 80.45
+        },
+        {
+          "word": "the",
+          "start": 80.45,
+          "end": 80.6
+        },
+        {
+          "word": "market",
+          "start": 80.6,
+          "end": 81.1
+        },
+        {
+          "word": "Need",
+          "start": 81.1,
+          "end": 81.4
+        },
+        {
+          "word": "clear",
+          "start": 81.4,
+          "end": 81.75
+        },
+        {
+          "word": "comms",
+          "start": 81.75,
+          "end": 82.2
+        },
+        {
+          "word": "before",
+          "start": 82.2,
+          "end": 82.55
+        },
+        {
+          "word": "moving",
+          "start": 82.55,
+          "end": 82.9
+        },
+        {
+          "word": "funds",
+          "start": 82.9,
+          "end": 83.3
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-26_JedAI-Council_The-Great-Plugin-Migration.json",
+    "session_log_source": "2025-06-26_JedAI-Council_The-Great-Plugin-Migration_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

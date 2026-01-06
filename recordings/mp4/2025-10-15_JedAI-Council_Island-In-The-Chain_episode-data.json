@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/10/episode-5859-featured-1760501886.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/10/episode-5859-featured-1760501886-150x150.png",
+  "premise": "The JedAI Council debates the strategic implications of the new Jeju L3 blockchain and its role in the evolving AI agent ecosystem.",
+  "scenes": [
+    {
+      "description": "The council debates the strategic positioning of the new Jeju L3 blockchain",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council explores AI agents' role in prediction markets and hardware integration",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their insights on Jeju's strategic position in the elizaOS ecosystem",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

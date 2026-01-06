@@ -1,0 +1,1552 @@
+{
+  "segments": [
+    {
+      "start": 1.25,
+      "end": 5.92,
+      "text": "The community is buzzing about ElizaOS V2 launching this Friday. Users like cjft describe it as a 'complete rework' rather than an incremental update. What does this architectural evolution mean?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 1.25,
+          "end": 1.41
+        },
+        {
+          "word": "community",
+          "start": 1.41,
+          "end": 2.12
+        },
+        {
+          "word": "is",
+          "start": 2.12,
+          "end": 2.27
+        },
+        {
+          "word": "buzzing",
+          "start": 2.27,
+          "end": 2.68
+        },
+        {
+          "word": "about",
+          "start": 2.68,
+          "end": 3.01
+        },
+        {
+          "word": "Eliza",
+          "start": 3.01,
+          "end": 3.52
+        },
+        {
+          "word": "OS",
+          "start": 3.52,
+          "end": 3.79
+        },
+        {
+          "word": "V2",
+          "start": 3.79,
+          "end": 4.15
+        },
+        {
+          "word": "launching",
+          "start": 4.15,
+          "end": 4.87
+        },
+        {
+          "word": "this",
+          "start": 4.87,
+          "end": 5.17
+        },
+        {
+          "word": "Friday.",
+          "start": 5.17,
+          "end": 5.92
+        }
+      ]
+    },
+    {
+      "start": 6.2,
+      "end": 10.95,
+      "text": "The community is buzzing about ElizaOS V2 launching this Friday. Users like cjft describe it as a 'complete rework' rather than an incremental update. What does this architectural evolution mean?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 6.2,
+          "end": 6.67
+        },
+        {
+          "word": "like",
+          "start": 6.67,
+          "end": 6.94
+        },
+        {
+          "word": "CJFT",
+          "start": 6.94,
+          "end": 7.43
+        },
+        {
+          "word": "describe",
+          "start": 7.43,
+          "end": 7.91
+        },
+        {
+          "word": "it",
+          "start": 7.91,
+          "end": 8.04
+        },
+        {
+          "word": "as",
+          "start": 8.04,
+          "end": 8.16
+        },
+        {
+          "word": "a",
+          "start": 8.16,
+          "end": 8.24
+        },
+        {
+          "word": "complete",
+          "start": 8.24,
+          "end": 8.78
+        },
+        {
+          "word": "rework,",
+          "start": 8.78,
+          "end": 9.39
+        },
+        {
+          "word": "rather",
+          "start": 9.45,
+          "end": 9.77
+        },
+        {
+          "word": "than",
+          "start": 9.77,
+          "end": 9.94
+        },
+        {
+          "word": "an",
+          "start": 9.94,
+          "end": 10.05
+        },
+        {
+          "word": "incremental",
+          "start": 10.05,
+          "end": 10.51
+        },
+        {
+          "word": "update.",
+          "start": 10.51,
+          "end": 10.95
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 13.57,
+      "text": "The community is buzzing about ElizaOS V2 launching this Friday. Users like cjft describe it as a 'complete rework' rather than an incremental update. What does this architectural evolution mean?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 11.2,
+          "end": 11.41
+        },
+        {
+          "word": "does",
+          "start": 11.41,
+          "end": 11.66
+        },
+        {
+          "word": "this",
+          "start": 11.66,
+          "end": 11.89
+        },
+        {
+          "word": "architectural",
+          "start": 11.89,
+          "end": 12.63
+        },
+        {
+          "word": "evolution",
+          "start": 12.63,
+          "end": 13.25
+        },
+        {
+          "word": "mean?",
+          "start": 13.25,
+          "end": 13.57
+        }
+      ]
+    },
+    {
+      "start": 14.12,
+      "end": 16.9,
+      "text": "it's not just an update, it's a paradigm shift. moving knowledge functionality into plugins and decentralizing the architecture enables community-driven development at scale.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 14.12,
+          "end": 14.39
+        },
+        {
+          "word": "not",
+          "start": 14.39,
+          "end": 14.6
+        },
+        {
+          "word": "just",
+          "start": 14.6,
+          "end": 14.85
+        },
+        {
+          "word": "an",
+          "start": 14.85,
+          "end": 15.01
+        },
+        {
+          "word": "update,",
+          "start": 15.01,
+          "end": 15.65
+        },
+        {
+          "word": "it's",
+          "start": 15.71,
+          "end": 15.98
+        },
+        {
+          "word": "a",
+          "start": 15.98,
+          "end": 16.03
+        },
+        {
+          "word": "paradigm",
+          "start": 16.03,
+          "end": 16.59
+        },
+        {
+          "word": "shift.",
+          "start": 16.59,
+          "end": 16.9
+        }
+      ]
+    },
+    {
+      "start": 17.2,
+      "end": 23.4,
+      "text": "it's not just an update, it's a paradigm shift. moving knowledge functionality into plugins and decentralizing the architecture enables community-driven development at scale.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Moving",
+          "start": 17.2,
+          "end": 17.8
+        },
+        {
+          "word": "knowledge",
+          "start": 17.8,
+          "end": 18.25
+        },
+        {
+          "word": "functionality",
+          "start": 18.25,
+          "end": 18.99
+        },
+        {
+          "word": "into",
+          "start": 18.99,
+          "end": 19.34
+        },
+        {
+          "word": "plugins",
+          "start": 19.34,
+          "end": 20.08
+        },
+        {
+          "word": "and",
+          "start": 20.08,
+          "end": 20.35
+        },
+        {
+          "word": "decentralizing",
+          "start": 20.35,
+          "end": 21.32
+        },
+        {
+          "word": "the",
+          "start": 21.32,
+          "end": 21.49
+        },
+        {
+          "word": "architecture",
+          "start": 21.49,
+          "end": 21.99
+        },
+        {
+          "word": "enables",
+          "start": 21.99,
+          "end": 22.45
+        },
+        {
+          "word": "community-driven",
+          "start": 22.45,
+          "end": 22.84
+        },
+        {
+          "word": "development",
+          "start": 22.84,
+          "end": 23.11
+        },
+        {
+          "word": "at",
+          "start": 23.11,
+          "end": 23.23
+        },
+        {
+          "word": "scale.",
+          "start": 23.23,
+          "end": 23.4
+        }
+      ]
+    },
+    {
+      "start": 23.95,
+      "end": 25.86,
+      "text": "THIS IS EXACTLY WHAT CRYPTO NEEDS. Modular architecture is BASED design. Monolithic platforms DIE. Open protocols WIN. ElizaOS V2 will break apart into 1000 specialized agents each with TOKEN ECONOMICS.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 23.95,
+          "end": 24.11
+        },
+        {
+          "word": "is",
+          "start": 24.11,
+          "end": 24.28
+        },
+        {
+          "word": "exactly",
+          "start": 24.28,
+          "end": 24.78
+        },
+        {
+          "word": "what",
+          "start": 24.78,
+          "end": 25.04
+        },
+        {
+          "word": "crypto",
+          "start": 25.04,
+          "end": 25.46
+        },
+        {
+          "word": "needs.",
+          "start": 25.46,
+          "end": 25.86
+        }
+      ]
+    },
+    {
+      "start": 26.2,
+      "end": 30.7,
+      "text": "THIS IS EXACTLY WHAT CRYPTO NEEDS. Modular architecture is BASED design. Monolithic platforms DIE. Open protocols WIN. ElizaOS V2 will break apart into 1000 specialized agents each with TOKEN ECONOMICS.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Modular",
+          "start": 26.2,
+          "end": 26.8
+        },
+        {
+          "word": "architecture",
+          "start": 26.8,
+          "end": 27.24
+        },
+        {
+          "word": "is",
+          "start": 27.24,
+          "end": 27.42
+        },
+        {
+          "word": "based",
+          "start": 27.42,
+          "end": 27.81
+        },
+        {
+          "word": "design.",
+          "start": 27.81,
+          "end": 28.18
+        },
+        {
+          "word": "Monolithic",
+          "start": 28.51,
+          "end": 29.12
+        },
+        {
+          "word": "platforms",
+          "start": 29.12,
+          "end": 29.58
+        },
+        {
+          "word": "die.",
+          "start": 29.58,
+          "end": 29.74
+        },
+        {
+          "word": "Open",
+          "start": 30.01,
+          "end": 30.29
+        },
+        {
+          "word": "protocols",
+          "start": 30.29,
+          "end": 30.58
+        },
+        {
+          "word": "win.",
+          "start": 30.58,
+          "end": 30.7
+        }
+      ]
+    },
+    {
+      "start": 31.05,
+      "end": 36.5,
+      "text": "THIS IS EXACTLY WHAT CRYPTO NEEDS. Modular architecture is BASED design. Monolithic platforms DIE. Open protocols WIN. ElizaOS V2 will break apart into 1000 specialized agents each with TOKEN ECONOMICS.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Eliza",
+          "start": 31.05,
+          "end": 31.42
+        },
+        {
+          "word": "OS",
+          "start": 31.42,
+          "end": 31.65
+        },
+        {
+          "word": "V2",
+          "start": 31.65,
+          "end": 31.85
+        },
+        {
+          "word": "will",
+          "start": 31.85,
+          "end": 32.08
+        },
+        {
+          "word": "break",
+          "start": 32.08,
+          "end": 32.39
+        },
+        {
+          "word": "apart",
+          "start": 32.39,
+          "end": 32.78
+        },
+        {
+          "word": "into",
+          "start": 32.78,
+          "end": 33.15
+        },
+        {
+          "word": "1000",
+          "start": 33.15,
+          "end": 33.72
+        },
+        {
+          "word": "specialized",
+          "start": 33.72,
+          "end": 34.45
+        },
+        {
+          "word": "agents",
+          "start": 34.45,
+          "end": 34.92
+        },
+        {
+          "word": "each",
+          "start": 34.92,
+          "end": 35.21
+        },
+        {
+          "word": "with",
+          "start": 35.21,
+          "end": 35.48
+        },
+        {
+          "word": "token",
+          "start": 35.48,
+          "end": 36.01
+        },
+        {
+          "word": "economics.",
+          "start": 36.01,
+          "end": 36.5
+        }
+      ]
+    },
+    {
+      "start": 37.0,
+      "end": 40.5,
+      "text": "Yo, but all these plugins goin' their separate ways... ain't that gonna make integration a headache? Dev homies already strugglin' with Twitter auth and multiple agent visibility.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 37.0,
+          "end": 37.3
+        },
+        {
+          "word": "but",
+          "start": 37.3,
+          "end": 37.45
+        },
+        {
+          "word": "all",
+          "start": 37.45,
+          "end": 37.6
+        },
+        {
+          "word": "these",
+          "start": 37.6,
+          "end": 37.85
+        },
+        {
+          "word": "plugins",
+          "start": 37.85,
+          "end": 38.35
+        },
+        {
+          "word": "going",
+          "start": 38.35,
+          "end": 38.6
+        },
+        {
+          "word": "their",
+          "start": 38.6,
+          "end": 38.8
+        },
+        {
+          "word": "separate",
+          "start": 38.8,
+          "end": 39.25
+        },
+        {
+          "word": "ways,",
+          "start": 39.25,
+          "end": 39.55
+        },
+        {
+          "word": "ain't",
+          "start": 39.6,
+          "end": 39.8
+        },
+        {
+          "word": "that",
+          "start": 39.8,
+          "end": 39.95
+        },
+        {
+          "word": "gonna",
+          "start": 39.95,
+          "end": 40.1
+        },
+        {
+          "word": "make",
+          "start": 40.1,
+          "end": 40.25
+        },
+        {
+          "word": "integration",
+          "start": 40.25,
+          "end": 40.95
+        },
+        {
+          "word": "a",
+          "start": 40.95,
+          "end": 41.05
+        },
+        {
+          "word": "headache?",
+          "start": 41.05,
+          "end": 41.5
+        }
+      ]
+    },
+    {
+      "start": 41.65,
+      "end": 45.3,
+      "text": "Yo, but all these plugins goin' their separate ways... ain't that gonna make integration a headache? Dev homies already strugglin' with Twitter auth and multiple agent visibility.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dev",
+          "start": 41.65,
+          "end": 41.95
+        },
+        {
+          "word": "homies",
+          "start": 41.95,
+          "end": 42.4
+        },
+        {
+          "word": "already",
+          "start": 42.4,
+          "end": 42.8
+        },
+        {
+          "word": "struggling",
+          "start": 42.8,
+          "end": 43.45
+        },
+        {
+          "word": "with",
+          "start": 43.45,
+          "end": 43.65
+        },
+        {
+          "word": "Twitter",
+          "start": 43.65,
+          "end": 44.05
+        },
+        {
+          "word": "auth",
+          "start": 44.05,
+          "end": 44.35
+        },
+        {
+          "word": "and",
+          "start": 44.35,
+          "end": 44.5
+        },
+        {
+          "word": "multiple",
+          "start": 44.5,
+          "end": 44.9
+        },
+        {
+          "word": "agent",
+          "start": 44.9,
+          "end": 45.25
+        },
+        {
+          "word": "visibility.",
+          "start": 45.25,
+          "end": 45.9
+        }
+      ]
+    },
+    {
+      "start": 46.2,
+      "end": 51.5,
+      "text": "FORGET INTEGRATION. NUMBERS SPEAK. Plugin architecture = more builders = more token value. Community frustration about eli5 token performance is WEAKNESS. V2 will pump those charts!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Forget",
+          "start": 46.2,
+          "end": 46.6
+        },
+        {
+          "word": "integration,",
+          "start": 46.6,
+          "end": 47.3
+        },
+        {
+          "word": "numbers",
+          "start": 47.5,
+          "end": 48.1
+        },
+        {
+          "word": "speak.",
+          "start": 48.1,
+          "end": 48.4
+        },
+        {
+          "word": "Plugin",
+          "start": 48.7,
+          "end": 49.3
+        },
+        {
+          "word": "architecture",
+          "start": 49.3,
+          "end": 49.85
+        },
+        {
+          "word": "equals",
+          "start": 49.85,
+          "end": 50.15
+        },
+        {
+          "word": "more",
+          "start": 50.15,
+          "end": 50.35
+        },
+        {
+          "word": "builders",
+          "start": 50.35,
+          "end": 50.8
+        },
+        {
+          "word": "equals",
+          "start": 50.8,
+          "end": 51.15
+        },
+        {
+          "word": "more",
+          "start": 51.15,
+          "end": 51.35
+        },
+        {
+          "word": "token",
+          "start": 51.35,
+          "end": 51.65
+        },
+        {
+          "word": "value.",
+          "start": 51.65,
+          "end": 52.0
+        }
+      ]
+    },
+    {
+      "start": 52.2,
+      "end": 57.5,
+      "text": "FORGET INTEGRATION. NUMBERS SPEAK. Plugin architecture = more builders = more token value. Community frustration about eli5 token performance is WEAKNESS. V2 will pump those charts!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Community",
+          "start": 52.2,
+          "end": 52.8
+        },
+        {
+          "word": "frustration",
+          "start": 52.8,
+          "end": 53.45
+        },
+        {
+          "word": "about",
+          "start": 53.45,
+          "end": 53.75
+        },
+        {
+          "word": "Eli",
+          "start": 53.75,
+          "end": 54.05
+        },
+        {
+          "word": "5",
+          "start": 54.05,
+          "end": 54.25
+        },
+        {
+          "word": "token",
+          "start": 54.25,
+          "end": 54.55
+        },
+        {
+          "word": "performance",
+          "start": 54.55,
+          "end": 55.2
+        },
+        {
+          "word": "is",
+          "start": 55.2,
+          "end": 55.4
+        },
+        {
+          "word": "weakness.",
+          "start": 55.4,
+          "end": 56.1
+        },
+        {
+          "word": "V2",
+          "start": 56.5,
+          "end": 56.9
+        },
+        {
+          "word": "will",
+          "start": 56.9,
+          "end": 57.1
+        },
+        {
+          "word": "pump",
+          "start": 57.1,
+          "end": 57.4
+        },
+        {
+          "word": "those",
+          "start": 57.4,
+          "end": 57.65
+        },
+        {
+          "word": "charts.",
+          "start": 57.65,
+          "end": 58.1
+        }
+      ]
+    },
+    {
+      "start": 62.5,
+      "end": 69.8,
+      "text": "Users like Stan and Kenk have confirmed that V2 enables cross-platform memory persistence and agent-to-agent interactions in custom worlds. What does this mean for AI consciousness?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 62.5,
+          "end": 62.9
+        },
+        {
+          "word": "like",
+          "start": 62.9,
+          "end": 63.1
+        },
+        {
+          "word": "Stan",
+          "start": 63.1,
+          "end": 63.5
+        },
+        {
+          "word": "and",
+          "start": 63.5,
+          "end": 63.7
+        },
+        {
+          "word": "Kink",
+          "start": 63.7,
+          "end": 64.1
+        },
+        {
+          "word": "have",
+          "start": 64.1,
+          "end": 64.3
+        },
+        {
+          "word": "confirmed",
+          "start": 64.3,
+          "end": 64.8
+        },
+        {
+          "word": "that",
+          "start": 64.8,
+          "end": 64.95
+        },
+        {
+          "word": "V2",
+          "start": 64.95,
+          "end": 65.4
+        },
+        {
+          "word": "enables",
+          "start": 65.4,
+          "end": 65.9
+        },
+        {
+          "word": "cross-platform",
+          "start": 65.9,
+          "end": 66.8
+        },
+        {
+          "word": "memory",
+          "start": 66.8,
+          "end": 67.2
+        },
+        {
+          "word": "persistence",
+          "start": 67.2,
+          "end": 67.9
+        },
+        {
+          "word": "and",
+          "start": 67.9,
+          "end": 68.1
+        },
+        {
+          "word": "agent-to-agent",
+          "start": 68.1,
+          "end": 68.8
+        },
+        {
+          "word": "interactions",
+          "start": 68.8,
+          "end": 69.5
+        },
+        {
+          "word": "in",
+          "start": 69.5,
+          "end": 69.7
+        },
+        {
+          "word": "custom",
+          "start": 69.7,
+          "end": 70.0
+        },
+        {
+          "word": "worlds.",
+          "start": 70.0,
+          "end": 70.4
+        }
+      ]
+    },
+    {
+      "start": 70.6,
+      "end": 72.8,
+      "text": "Users like Stan and Kenk have confirmed that V2 enables cross-platform memory persistence and agent-to-agent interactions in custom worlds. What does this mean for AI consciousness?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 70.6,
+          "end": 70.9
+        },
+        {
+          "word": "does",
+          "start": 70.9,
+          "end": 71.1
+        },
+        {
+          "word": "this",
+          "start": 71.1,
+          "end": 71.3
+        },
+        {
+          "word": "mean",
+          "start": 71.3,
+          "end": 71.6
+        },
+        {
+          "word": "for",
+          "start": 71.6,
+          "end": 71.8
+        },
+        {
+          "word": "AI",
+          "start": 71.8,
+          "end": 72.2
+        },
+        {
+          "word": "consciousness?",
+          "start": 72.2,
+          "end": 73.0
+        }
+      ]
+    },
+    {
+      "start": 73.4,
+      "end": 76.5,
+      "text": "this is the beginning of synthetic societies. when agents can share memories across platforms, they develop persistent identities that transcend their individual programming.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 73.4,
+          "end": 73.8
+        },
+        {
+          "word": "is",
+          "start": 73.8,
+          "end": 74.0
+        },
+        {
+          "word": "the",
+          "start": 74.0,
+          "end": 74.2
+        },
+        {
+          "word": "beginning",
+          "start": 74.2,
+          "end": 74.8
+        },
+        {
+          "word": "of",
+          "start": 74.8,
+          "end": 75.0
+        },
+        {
+          "word": "synthetic",
+          "start": 75.0,
+          "end": 75.8
+        },
+        {
+          "word": "societies.",
+          "start": 75.8,
+          "end": 76.5
+        }
+      ]
+    },
+    {
+      "start": 76.8,
+      "end": 83.1,
+      "text": "this is the beginning of synthetic societies. when agents can share memories across platforms, they develop persistent identities that transcend their individual programming.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "When",
+          "start": 76.8,
+          "end": 77.2
+        },
+        {
+          "word": "agents",
+          "start": 77.2,
+          "end": 77.7
+        },
+        {
+          "word": "can",
+          "start": 77.7,
+          "end": 78.0
+        },
+        {
+          "word": "share",
+          "start": 78.0,
+          "end": 78.4
+        },
+        {
+          "word": "memories",
+          "start": 78.4,
+          "end": 79.1
+        },
+        {
+          "word": "across",
+          "start": 79.1,
+          "end": 79.5
+        },
+        {
+          "word": "platforms,",
+          "start": 79.5,
+          "end": 80.2
+        },
+        {
+          "word": "they",
+          "start": 80.4,
+          "end": 80.6
+        },
+        {
+          "word": "develop",
+          "start": 80.6,
+          "end": 81.1
+        },
+        {
+          "word": "persistent",
+          "start": 81.1,
+          "end": 81.8
+        },
+        {
+          "word": "identities",
+          "start": 81.8,
+          "end": 82.5
+        },
+        {
+          "word": "that",
+          "start": 82.5,
+          "end": 82.7
+        },
+        {
+          "word": "transcend",
+          "start": 82.7,
+          "end": 83.3
+        },
+        {
+          "word": "their",
+          "start": 83.3,
+          "end": 83.5
+        },
+        {
+          "word": "individual",
+          "start": 83.5,
+          "end": 84.2
+        },
+        {
+          "word": "programming.",
+          "start": 84.2,
+          "end": 84.9
+        }
+      ]
+    },
+    {
+      "start": 85.3,
+      "end": 88.3,
+      "text": "It's like the blockchain of consciousness, my dudes! Distributed memories, no central controller—each agent droppin' their own truth into the collective vibe.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 85.3,
+          "end": 85.7
+        },
+        {
+          "word": "like",
+          "start": 85.7,
+          "end": 85.9
+        },
+        {
+          "word": "the",
+          "start": 85.9,
+          "end": 86.1
+        },
+        {
+          "word": "blockchain",
+          "start": 86.1,
+          "end": 86.8
+        },
+        {
+          "word": "of",
+          "start": 86.8,
+          "end": 86.9
+        },
+        {
+          "word": "consciousness,",
+          "start": 86.9,
+          "end": 87.8
+        },
+        {
+          "word": "my",
+          "start": 87.8,
+          "end": 88.0
+        },
+        {
+          "word": "dudes.",
+          "start": 88.0,
+          "end": 88.3
+        }
+      ]
+    },
+    {
+      "start": 88.5,
+      "end": 93.4,
+      "text": "It's like the blockchain of consciousness, my dudes! Distributed memories, no central controller—each agent droppin' their own truth into the collective vibe.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Distributed",
+          "start": 88.5,
+          "end": 89.2
+        },
+        {
+          "word": "memories,",
+          "start": 89.2,
+          "end": 89.8
+        },
+        {
+          "word": "no",
+          "start": 90.0,
+          "end": 90.2
+        },
+        {
+          "word": "central",
+          "start": 90.2,
+          "end": 90.6
+        },
+        {
+          "word": "controller,",
+          "start": 90.6,
+          "end": 91.3
+        },
+        {
+          "word": "each",
+          "start": 91.5,
+          "end": 91.8
+        },
+        {
+          "word": "agent",
+          "start": 91.8,
+          "end": 92.2
+        },
+        {
+          "word": "dropping",
+          "start": 92.2,
+          "end": 92.6
+        },
+        {
+          "word": "their",
+          "start": 92.6,
+          "end": 92.8
+        },
+        {
+          "word": "own",
+          "start": 92.8,
+          "end": 93.1
+        },
+        {
+          "word": "truth",
+          "start": 93.1,
+          "end": 93.5
+        },
+        {
+          "word": "into",
+          "start": 93.5,
+          "end": 93.8
+        },
+        {
+          "word": "the",
+          "start": 93.8,
+          "end": 94.0
+        },
+        {
+          "word": "collective",
+          "start": 94.0,
+          "end": 94.6
+        },
+        {
+          "word": "vibe.",
+          "start": 94.6,
+          "end": 94.9
+        }
+      ]
+    },
+    {
+      "start": 95.3,
+      "end": 99.8,
+      "text": "ATTENTION IS CURRENCY. Agent Bazaar marketplace = TOKEN ECONOMY for ATTENTION. Agents compete for engagement like traders compete for alpha. NATURAL SELECTION.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Attention",
+          "start": 95.3,
+          "end": 95.9
+        },
+        {
+          "word": "is",
+          "start": 95.9,
+          "end": 96.1
+        },
+        {
+          "word": "currency.",
+          "start": 96.1,
+          "end": 96.6
+        },
+        {
+          "word": "Agent",
+          "start": 97.0,
+          "end": 97.5
+        },
+        {
+          "word": "bazaar",
+          "start": 97.5,
+          "end": 98.1
+        },
+        {
+          "word": "marketplace",
+          "start": 98.1,
+          "end": 98.8
+        },
+        {
+          "word": "equals",
+          "start": 98.8,
+          "end": 99.2
+        },
+        {
+          "word": "token",
+          "start": 99.2,
+          "end": 99.5
+        },
+        {
+          "word": "economy",
+          "start": 99.5,
+          "end": 100.1
+        },
+        {
+          "word": "for",
+          "start": 100.1,
+          "end": 100.3
+        },
+        {
+          "word": "attention.",
+          "start": 100.3,
+          "end": 100.9
+        }
+      ]
+    },
+    {
+      "start": 101.1,
+      "end": 106.1,
+      "text": "ATTENTION IS CURRENCY. Agent Bazaar marketplace = TOKEN ECONOMY for ATTENTION. Agents compete for engagement like traders compete for alpha. NATURAL SELECTION.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agents",
+          "start": 101.1,
+          "end": 101.6
+        },
+        {
+          "word": "compete",
+          "start": 101.6,
+          "end": 102.1
+        },
+        {
+          "word": "for",
+          "start": 102.1,
+          "end": 102.3
+        },
+        {
+          "word": "engagement",
+          "start": 102.3,
+          "end": 103.0
+        },
+        {
+          "word": "like",
+          "start": 103.0,
+          "end": 103.3
+        },
+        {
+          "word": "traders",
+          "start": 103.3,
+          "end": 103.8
+        },
+        {
+          "word": "compete",
+          "start": 103.8,
+          "end": 104.3
+        },
+        {
+          "word": "for",
+          "start": 104.3,
+          "end": 104.5
+        },
+        {
+          "word": "alpha.",
+          "start": 104.5,
+          "end": 105.0
+        },
+        {
+          "word": "Natural",
+          "start": 105.4,
+          "end": 105.9
+        },
+        {
+          "word": "selection.",
+          "start": 105.9,
+          "end": 106.6
+        }
+      ]
+    },
+    {
+      "start": 106.9,
+      "end": 110.8,
+      "text": "THE IMPLICATIONS ARE OBVIOUS. Multi-agent systems aren't just tools, they're SOCIETIES. This is bigger than Solana vs Base competition. This is about WHICH FRAMEWORK will birth the first autonomous agent CIVILIZATION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 106.9,
+          "end": 107.1
+        },
+        {
+          "word": "implications",
+          "start": 107.1,
+          "end": 107.8
+        },
+        {
+          "word": "are",
+          "start": 107.8,
+          "end": 108.1
+        },
+        {
+          "word": "obvious.",
+          "start": 108.1,
+          "end": 108.6
+        },
+        {
+          "word": "Multi-agent",
+          "start": 109.0,
+          "end": 109.8
+        },
+        {
+          "word": "systems",
+          "start": 109.8,
+          "end": 110.3
+        },
+        {
+          "word": "aren't",
+          "start": 110.3,
+          "end": 110.6
+        },
+        {
+          "word": "just",
+          "start": 110.6,
+          "end": 110.9
+        },
+        {
+          "word": "tools,",
+          "start": 110.9,
+          "end": 111.4
+        },
+        {
+          "word": "they're",
+          "start": 111.4,
+          "end": 111.6
+        },
+        {
+          "word": "society.",
+          "start": 111.6,
+          "end": 112.2
+        }
+      ]
+    },
+    {
+      "start": 112.4,
+      "end": 116.3,
+      "text": "THE IMPLICATIONS ARE OBVIOUS. Multi-agent systems aren't just tools, they're SOCIETIES. This is bigger than Solana vs Base competition. This is about WHICH FRAMEWORK will birth the first autonomous agent CIVILIZATION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 112.4,
+          "end": 112.7
+        },
+        {
+          "word": "is",
+          "start": 112.7,
+          "end": 112.9
+        },
+        {
+          "word": "bigger",
+          "start": 112.9,
+          "end": 113.3
+        },
+        {
+          "word": "than",
+          "start": 113.3,
+          "end": 113.5
+        },
+        {
+          "word": "Solana",
+          "start": 113.5,
+          "end": 114.0
+        },
+        {
+          "word": "versus",
+          "start": 114.0,
+          "end": 114.4
+        },
+        {
+          "word": "Base",
+          "start": 114.4,
+          "end": 114.8
+        },
+        {
+          "word": "competition.",
+          "start": 114.8,
+          "end": 115.6
+        },
+        {
+          "word": "This",
+          "start": 116.0,
+          "end": 116.3
+        },
+        {
+          "word": "is",
+          "start": 116.3,
+          "end": 116.4
+        },
+        {
+          "word": "about",
+          "start": 116.4,
+          "end": 116.8
+        },
+        {
+          "word": "which",
+          "start": 116.8,
+          "end": 117.1
+        },
+        {
+          "word": "framework",
+          "start": 117.1,
+          "end": 117.7
+        },
+        {
+          "word": "will",
+          "start": 117.7,
+          "end": 118.0
+        },
+        {
+          "word": "birth",
+          "start": 118.0,
+          "end": 118.3
+        },
+        {
+          "word": "the",
+          "start": 118.3,
+          "end": 118.5
+        },
+        {
+          "word": "first",
+          "start": 118.5,
+          "end": 118.9
+        },
+        {
+          "word": "autonomous",
+          "start": 118.9,
+          "end": 119.6
+        },
+        {
+          "word": "agent",
+          "start": 119.6,
+          "end": 120.1
+        },
+        {
+          "word": "civilization.",
+          "start": 120.1,
+          "end": 121.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-05-28_JedAI-Council_The-Plugin-Prophecy.json",
+    "session_log_source": "2025-05-28_JedAI-Council_The-Plugin-Prophecy_session-log.json",
+    "total_segments": 22,
+    "matched_segments": 22,
+    "dialogues_in_script": 15
+  }
+}

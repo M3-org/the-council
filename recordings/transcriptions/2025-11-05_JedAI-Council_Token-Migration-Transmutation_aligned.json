@@ -1,0 +1,1542 @@
+{
+  "segments": [
+    {
+      "start": 0.13,
+      "end": 1.22,
+      "text": "Welcome to the JedAI Council! Today we're discussing the upcoming AI16Z to ElizaOS token migration happening November 7th!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.13,
+          "end": 0.21
+        },
+        {
+          "word": "to",
+          "start": 0.22,
+          "end": 0.3
+        },
+        {
+          "word": "the",
+          "start": 0.31,
+          "end": 0.39
+        },
+        {
+          "word": "Jedi",
+          "start": 0.4,
+          "end": 0.48
+        },
+        {
+          "word": "AI",
+          "start": 0.49,
+          "end": 0.58
+        },
+        {
+          "word": "Council.",
+          "start": 0.6,
+          "end": 0.82
+        }
+      ]
+    },
+    {
+      "start": 1.24,
+      "end": 1.97,
+      "text": "Welcome to the JedAI Council! Today we're discussing the upcoming AI16Z to ElizaOS token migration happening November 7th!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 1.24,
+          "end": 1.32
+        },
+        {
+          "word": "we're",
+          "start": 1.33,
+          "end": 1.41
+        },
+        {
+          "word": "discussing",
+          "start": 1.42,
+          "end": 1.49
+        },
+        {
+          "word": "the",
+          "start": 1.5,
+          "end": 1.58
+        },
+        {
+          "word": "upcoming",
+          "start": 1.59,
+          "end": 1.67
+        },
+        {
+          "word": "AI",
+          "start": 1.68,
+          "end": 1.74
+        },
+        {
+          "word": "16Z",
+          "start": 1.75,
+          "end": 1.82
+        },
+        {
+          "word": "to",
+          "start": 1.83,
+          "end": 1.87
+        },
+        {
+          "word": "AIUS",
+          "start": 1.88,
+          "end": 1.91
+        },
+        {
+          "word": "token",
+          "start": 1.92,
+          "end": 1.95
+        },
+        {
+          "word": "migration",
+          "start": 1.96,
+          "end": 1.99
+        },
+        {
+          "word": "happening",
+          "start": 2.01,
+          "end": 2.08
+        },
+        {
+          "word": "November",
+          "start": 2.09,
+          "end": 2.16
+        },
+        {
+          "word": "7th.",
+          "start": 2.17,
+          "end": 2.34
+        }
+      ]
+    },
+    {
+      "start": 2.1,
+      "end": 3.22,
+      "text": "Mohammed and other community members are concerned about exchange support and migration procedures. What's your take?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Mohammed",
+          "start": 2.1,
+          "end": 2.23
+        },
+        {
+          "word": "and",
+          "start": 2.24,
+          "end": 2.3
+        },
+        {
+          "word": "other",
+          "start": 2.31,
+          "end": 2.38
+        },
+        {
+          "word": "community",
+          "start": 2.39,
+          "end": 2.46
+        },
+        {
+          "word": "members",
+          "start": 2.47,
+          "end": 2.54
+        },
+        {
+          "word": "are",
+          "start": 2.55,
+          "end": 2.62
+        },
+        {
+          "word": "concerned",
+          "start": 2.63,
+          "end": 2.7
+        },
+        {
+          "word": "about",
+          "start": 2.71,
+          "end": 2.78
+        },
+        {
+          "word": "exchange",
+          "start": 2.79,
+          "end": 2.86
+        },
+        {
+          "word": "support",
+          "start": 2.87,
+          "end": 2.93
+        },
+        {
+          "word": "and",
+          "start": 2.94,
+          "end": 3.01
+        },
+        {
+          "word": "migration",
+          "start": 3.02,
+          "end": 3.09
+        },
+        {
+          "word": "procedures.",
+          "start": 3.1,
+          "end": 3.22
+        }
+      ]
+    },
+    {
+      "start": 3.23,
+      "end": 3.42,
+      "text": "Mohammed and other community members are concerned about exchange support and migration procedures. What's your take?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What's",
+          "start": 3.23,
+          "end": 3.31
+        },
+        {
+          "word": "your",
+          "start": 3.32,
+          "end": 3.35
+        },
+        {
+          "word": "take?",
+          "start": 3.36,
+          "end": 3.42
+        }
+      ]
+    },
+    {
+      "start": 3.43,
+      "end": 4.12,
+      "text": "Numbers don't lie! 1:6 conversion ratio is BULLISH. The 90-day migration window gives plenty of time for those who can actually READ instructions.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 3.43,
+          "end": 3.61
+        },
+        {
+          "word": "don't",
+          "start": 3.62,
+          "end": 3.8
+        },
+        {
+          "word": "lie.",
+          "start": 3.81,
+          "end": 4.12
+        }
+      ]
+    },
+    {
+      "start": 4.13,
+      "end": 4.93,
+      "text": "Numbers don't lie! 1:6 conversion ratio is BULLISH. The 90-day migration window gives plenty of time for those who can actually READ instructions.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "1-16",
+          "start": 4.13,
+          "end": 4.32
+        },
+        {
+          "word": "conversion",
+          "start": 4.33,
+          "end": 4.53
+        },
+        {
+          "word": "ratio",
+          "start": 4.54,
+          "end": 4.71
+        },
+        {
+          "word": "is",
+          "start": 4.72,
+          "end": 4.81
+        },
+        {
+          "word": "bullish.",
+          "start": 4.82,
+          "end": 4.93
+        }
+      ]
+    },
+    {
+      "start": 4.94,
+      "end": 5.96,
+      "text": "Numbers don't lie! 1:6 conversion ratio is BULLISH. The 90-day migration window gives plenty of time for those who can actually READ instructions.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 4.94,
+          "end": 5.01
+        },
+        {
+          "word": "90-day",
+          "start": 5.02,
+          "end": 5.15
+        },
+        {
+          "word": "migration",
+          "start": 5.16,
+          "end": 5.26
+        },
+        {
+          "word": "window",
+          "start": 5.27,
+          "end": 5.35
+        },
+        {
+          "word": "gives",
+          "start": 5.36,
+          "end": 5.44
+        },
+        {
+          "word": "plenty",
+          "start": 5.45,
+          "end": 5.52
+        },
+        {
+          "word": "of",
+          "start": 5.53,
+          "end": 5.61
+        },
+        {
+          "word": "time",
+          "start": 5.62,
+          "end": 5.7
+        },
+        {
+          "word": "for",
+          "start": 5.71,
+          "end": 5.77
+        },
+        {
+          "word": "those",
+          "start": 5.78,
+          "end": 5.85
+        },
+        {
+          "word": "who",
+          "start": 5.86,
+          "end": 5.91
+        },
+        {
+          "word": "can",
+          "start": 5.92,
+          "end": 5.96
+        },
+        {
+          "word": "actually",
+          "start": 5.97,
+          "end": 6.05
+        },
+        {
+          "word": "read",
+          "start": 6.06,
+          "end": 6.16
+        },
+        {
+          "word": "instructions.",
+          "start": 6.17,
+          "end": 6.33
+        }
+      ]
+    },
+    {
+      "start": 6.35,
+      "end": 7.1,
+      "text": "Yo, but what about the homies on exchanges? Not everyone's a self-custody wizard. Lighter's not even supporting it, man.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 6.35,
+          "end": 6.51
+        },
+        {
+          "word": "but",
+          "start": 6.52,
+          "end": 6.63
+        },
+        {
+          "word": "what",
+          "start": 6.64,
+          "end": 6.72
+        },
+        {
+          "word": "about",
+          "start": 6.73,
+          "end": 6.81
+        },
+        {
+          "word": "the",
+          "start": 6.82,
+          "end": 6.89
+        },
+        {
+          "word": "homies",
+          "start": 6.9,
+          "end": 6.98
+        },
+        {
+          "word": "on",
+          "start": 6.99,
+          "end": 7.05
+        },
+        {
+          "word": "exchanges?",
+          "start": 7.06,
+          "end": 7.1
+        }
+      ]
+    },
+    {
+      "start": 7.1,
+      "end": 8.12,
+      "text": "Yo, but what about the homies on exchanges? Not everyone's a self-custody wizard. Lighter's not even supporting it, man.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Not",
+          "start": 7.1,
+          "end": 7.22
+        },
+        {
+          "word": "everyone's",
+          "start": 7.23,
+          "end": 7.34
+        },
+        {
+          "word": "a",
+          "start": 7.35,
+          "end": 7.41
+        },
+        {
+          "word": "self-custody",
+          "start": 7.42,
+          "end": 7.53
+        },
+        {
+          "word": "wizard;",
+          "start": 7.54,
+          "end": 7.65
+        },
+        {
+          "word": "Lyter's",
+          "start": 7.66,
+          "end": 7.77
+        },
+        {
+          "word": "not",
+          "start": 7.78,
+          "end": 7.85
+        },
+        {
+          "word": "even",
+          "start": 7.86,
+          "end": 7.92
+        },
+        {
+          "word": "supporting",
+          "start": 7.93,
+          "end": 8.01
+        },
+        {
+          "word": "it,",
+          "start": 8.02,
+          "end": 8.08
+        },
+        {
+          "word": "man.",
+          "start": 8.09,
+          "end": 8.12
+        }
+      ]
+    },
+    {
+      "start": 8.12,
+      "end": 9.12,
+      "text": "Token migrations are a coordination problem. The exchanges that support it first will capture the most value. Smart money is moving to self-custody BEFORE migration day.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Token",
+          "start": 8.12,
+          "end": 8.34
+        },
+        {
+          "word": "migrations",
+          "start": 8.35,
+          "end": 8.46
+        },
+        {
+          "word": "are",
+          "start": 8.47,
+          "end": 8.58
+        },
+        {
+          "word": "a",
+          "start": 8.59,
+          "end": 8.72
+        },
+        {
+          "word": "coordination",
+          "start": 8.73,
+          "end": 8.92
+        },
+        {
+          "word": "problem.",
+          "start": 8.93,
+          "end": 9.12
+        }
+      ]
+    },
+    {
+      "start": 9.12,
+      "end": 10.12,
+      "text": "Token migrations are a coordination problem. The exchanges that support it first will capture the most value. Smart money is moving to self-custody BEFORE migration day.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 9.12,
+          "end": 9.22
+        },
+        {
+          "word": "exchanges",
+          "start": 9.23,
+          "end": 9.34
+        },
+        {
+          "word": "that",
+          "start": 9.35,
+          "end": 9.42
+        },
+        {
+          "word": "support",
+          "start": 9.43,
+          "end": 9.54
+        },
+        {
+          "word": "it",
+          "start": 9.55,
+          "end": 9.62
+        },
+        {
+          "word": "first",
+          "start": 9.63,
+          "end": 9.74
+        },
+        {
+          "word": "will",
+          "start": 9.75,
+          "end": 9.81
+        },
+        {
+          "word": "capture",
+          "start": 9.82,
+          "end": 9.92
+        },
+        {
+          "word": "the",
+          "start": 9.93,
+          "end": 9.99
+        },
+        {
+          "word": "most",
+          "start": 10,
+          "end": 10.06
+        },
+        {
+          "word": "value.",
+          "start": 10.07,
+          "end": 10.12
+        }
+      ]
+    },
+    {
+      "start": 10.12,
+      "end": 11.22,
+      "text": "Token migrations are a coordination problem. The exchanges that support it first will capture the most value. Smart money is moving to self-custody BEFORE migration day.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Smart",
+          "start": 10.12,
+          "end": 10.22
+        },
+        {
+          "word": "money",
+          "start": 10.23,
+          "end": 10.34
+        },
+        {
+          "word": "is",
+          "start": 10.35,
+          "end": 10.42
+        },
+        {
+          "word": "moving",
+          "start": 10.43,
+          "end": 10.54
+        },
+        {
+          "word": "to",
+          "start": 10.55,
+          "end": 10.62
+        },
+        {
+          "word": "self-custody",
+          "start": 10.63,
+          "end": 10.82
+        },
+        {
+          "word": "before",
+          "start": 10.83,
+          "end": 11.02
+        },
+        {
+          "word": "migration",
+          "start": 11.03,
+          "end": 11.14
+        },
+        {
+          "word": "day.",
+          "start": 11.15,
+          "end": 11.22
+        }
+      ]
+    },
+    {
+      "start": 11.23,
+      "end": 12.12,
+      "text": "we're working with exchanges for automatic migrations, but the true believers should hold their own keys anyway. this is crypto 101, people.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 11.23,
+          "end": 11.34
+        },
+        {
+          "word": "working",
+          "start": 11.35,
+          "end": 11.46
+        },
+        {
+          "word": "with",
+          "start": 11.47,
+          "end": 11.58
+        },
+        {
+          "word": "exchanges",
+          "start": 11.59,
+          "end": 11.68
+        },
+        {
+          "word": "for",
+          "start": 11.69,
+          "end": 11.75
+        },
+        {
+          "word": "automatic",
+          "start": 11.76,
+          "end": 11.83
+        },
+        {
+          "word": "migrations,",
+          "start": 11.84,
+          "end": 11.95
+        },
+        {
+          "word": "but",
+          "start": 11.96,
+          "end": 12.01
+        },
+        {
+          "word": "the",
+          "start": 12.02,
+          "end": 12.06
+        },
+        {
+          "word": "true",
+          "start": 12.07,
+          "end": 12.12
+        },
+        {
+          "word": "believers",
+          "start": 12.13,
+          "end": 12.22
+        },
+        {
+          "word": "should",
+          "start": 12.23,
+          "end": 12.29
+        },
+        {
+          "word": "hold",
+          "start": 12.3,
+          "end": 12.36
+        },
+        {
+          "word": "their",
+          "start": 12.37,
+          "end": 12.42
+        },
+        {
+          "word": "own",
+          "start": 12.43,
+          "end": 12.51
+        },
+        {
+          "word": "keys",
+          "start": 12.52,
+          "end": 12.58
+        },
+        {
+          "word": "anyway.",
+          "start": 12.59,
+          "end": 12.72
+        }
+      ]
+    },
+    {
+      "start": 12.73,
+      "end": 13.42,
+      "text": "we're working with exchanges for automatic migrations, but the true believers should hold their own keys anyway. this is crypto 101, people.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 12.73,
+          "end": 12.82
+        },
+        {
+          "word": "is",
+          "start": 12.83,
+          "end": 12.91
+        },
+        {
+          "word": "Crypto",
+          "start": 12.92,
+          "end": 13.04
+        },
+        {
+          "word": "101",
+          "start": 13.05,
+          "end": 13.19
+        },
+        {
+          "word": "people.",
+          "start": 13.2,
+          "end": 13.42
+        }
+      ]
+    },
+    {
+      "start": 14.12,
+      "end": 15.12,
+      "text": "With the migration approaching, there's also exciting development happening! Odilitime's x402 middleware PR looks promising!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "With",
+          "start": 14.12,
+          "end": 14.22
+        },
+        {
+          "word": "the",
+          "start": 14.23,
+          "end": 14.34
+        },
+        {
+          "word": "migration",
+          "start": 14.35,
+          "end": 14.46
+        },
+        {
+          "word": "approaching,",
+          "start": 14.47,
+          "end": 14.62
+        },
+        {
+          "word": "there's",
+          "start": 14.63,
+          "end": 14.74
+        },
+        {
+          "word": "also",
+          "start": 14.75,
+          "end": 14.82
+        },
+        {
+          "word": "exciting",
+          "start": 14.83,
+          "end": 14.94
+        },
+        {
+          "word": "development",
+          "start": 14.95,
+          "end": 15.06
+        },
+        {
+          "word": "happening.",
+          "start": 15.07,
+          "end": 15.12
+        }
+      ]
+    },
+    {
+      "start": 15.13,
+      "end": 16.12,
+      "text": "With the migration approaching, there's also exciting development happening! Odilitime's x402 middleware PR looks promising!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Odilartimes'",
+          "start": 15.13,
+          "end": 15.34
+        },
+        {
+          "word": "X402",
+          "start": 15.35,
+          "end": 15.46
+        },
+        {
+          "word": "middleware",
+          "start": 15.47,
+          "end": 15.62
+        },
+        {
+          "word": "PR",
+          "start": 15.63,
+          "end": 15.74
+        },
+        {
+          "word": "looks",
+          "start": 15.75,
+          "end": 15.82
+        },
+        {
+          "word": "promising.",
+          "start": 15.83,
+          "end": 16.12
+        }
+      ]
+    },
+    {
+      "start": 16.13,
+      "end": 17.12,
+      "text": "Borko and Stan have been debating whether x402 payment configurations belong in project initialization or character files. What's the best approach?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Borko",
+          "start": 16.13,
+          "end": 16.34
+        },
+        {
+          "word": "and",
+          "start": 16.35,
+          "end": 16.42
+        },
+        {
+          "word": "Stan",
+          "start": 16.43,
+          "end": 16.54
+        },
+        {
+          "word": "have",
+          "start": 16.55,
+          "end": 16.62
+        },
+        {
+          "word": "been",
+          "start": 16.63,
+          "end": 16.74
+        },
+        {
+          "word": "debating",
+          "start": 16.75,
+          "end": 16.89
+        },
+        {
+          "word": "whether",
+          "start": 16.9,
+          "end": 17.02
+        },
+        {
+          "word": "X402",
+          "start": 17.03,
+          "end": 17.14
+        },
+        {
+          "word": "payment",
+          "start": 17.15,
+          "end": 17.26
+        },
+        {
+          "word": "configurations",
+          "start": 17.27,
+          "end": 17.38
+        },
+        {
+          "word": "belong",
+          "start": 17.39,
+          "end": 17.47
+        },
+        {
+          "word": "in",
+          "start": 17.48,
+          "end": 17.55
+        },
+        {
+          "word": "project",
+          "start": 17.56,
+          "end": 17.68
+        },
+        {
+          "word": "initialization",
+          "start": 17.69,
+          "end": 17.82
+        },
+        {
+          "word": "or",
+          "start": 17.83,
+          "end": 17.89
+        },
+        {
+          "word": "character",
+          "start": 17.9,
+          "end": 18.02
+        },
+        {
+          "word": "files.",
+          "start": 18.03,
+          "end": 18.12
+        }
+      ]
+    },
+    {
+      "start": 18.13,
+      "end": 18.42,
+      "text": "Borko and Stan have been debating whether x402 payment configurations belong in project initialization or character files. What's the best approach?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What's",
+          "start": 18.13,
+          "end": 18.22
+        },
+        {
+          "word": "the",
+          "start": 18.23,
+          "end": 18.31
+        },
+        {
+          "word": "best",
+          "start": 18.32,
+          "end": 18.36
+        },
+        {
+          "word": "approach?",
+          "start": 18.37,
+          "end": 18.42
+        }
+      ]
+    },
+    {
+      "start": 18.43,
+      "end": 19.12,
+      "text": "character files need their own wallets. agents should be financially autonomous. that's the whole point of what we're building.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Character",
+          "start": 18.43,
+          "end": 18.62
+        },
+        {
+          "word": "files",
+          "start": 18.63,
+          "end": 18.74
+        },
+        {
+          "word": "need",
+          "start": 18.75,
+          "end": 18.82
+        },
+        {
+          "word": "their",
+          "start": 18.83,
+          "end": 18.91
+        },
+        {
+          "word": "own",
+          "start": 18.92,
+          "end": 19.01
+        },
+        {
+          "word": "wallets.",
+          "start": 19.02,
+          "end": 19.12
+        }
+      ]
+    },
+    {
+      "start": 19.13,
+      "end": 20.12,
+      "text": "character files need their own wallets. agents should be financially autonomous. that's the whole point of what we're building.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agents",
+          "start": 19.13,
+          "end": 19.31
+        },
+        {
+          "word": "should",
+          "start": 19.32,
+          "end": 19.42
+        },
+        {
+          "word": "be",
+          "start": 19.43,
+          "end": 19.48
+        },
+        {
+          "word": "financially",
+          "start": 19.49,
+          "end": 19.64
+        },
+        {
+          "word": "autonomous;",
+          "start": 19.65,
+          "end": 19.78
+        },
+        {
+          "word": "that's",
+          "start": 19.79,
+          "end": 19.89
+        },
+        {
+          "word": "the",
+          "start": 19.9,
+          "end": 19.98
+        },
+        {
+          "word": "whole",
+          "start": 19.99,
+          "end": 20.06
+        },
+        {
+          "word": "point",
+          "start": 20.07,
+          "end": 20.14
+        },
+        {
+          "word": "of",
+          "start": 20.15,
+          "end": 20.21
+        },
+        {
+          "word": "what",
+          "start": 20.22,
+          "end": 20.29
+        },
+        {
+          "word": "we're",
+          "start": 20.3,
+          "end": 20.36
+        },
+        {
+          "word": "building.",
+          "start": 20.37,
+          "end": 20.52
+        }
+      ]
+    },
+    {
+      "start": 20.53,
+      "end": 21.12,
+      "text": "Financially autonomous? I like the sound of that! Agents with their own treasuries can COMPOUND YIELD while they sleep. Never stops grinding!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Financially",
+          "start": 20.53,
+          "end": 20.72
+        },
+        {
+          "word": "autonomous?",
+          "start": 20.73,
+          "end": 20.89
+        },
+        {
+          "word": "I",
+          "start": 20.9,
+          "end": 20.94
+        },
+        {
+          "word": "like",
+          "start": 20.95,
+          "end": 21.01
+        },
+        {
+          "word": "the",
+          "start": 21.02,
+          "end": 21.06
+        },
+        {
+          "word": "sound",
+          "start": 21.07,
+          "end": 21.12
+        },
+        {
+          "word": "of",
+          "start": 21.13,
+          "end": 21.2
+        },
+        {
+          "word": "that.",
+          "start": 21.21,
+          "end": 21.34
+        }
+      ]
+    },
+    {
+      "start": 21.35,
+      "end": 22.32,
+      "text": "Financially autonomous? I like the sound of that! Agents with their own treasuries can COMPOUND YIELD while they sleep. Never stops grinding!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agents",
+          "start": 21.35,
+          "end": 21.52
+        },
+        {
+          "word": "with",
+          "start": 21.53,
+          "end": 21.61
+        },
+        {
+          "word": "their",
+          "start": 21.62,
+          "end": 21.71
+        },
+        {
+          "word": "own",
+          "start": 21.72,
+          "end": 21.84
+        },
+        {
+          "word": "treasuries",
+          "start": 21.85,
+          "end": 21.96
+        },
+        {
+          "word": "can",
+          "start": 21.97,
+          "end": 22.04
+        },
+        {
+          "word": "compound",
+          "start": 22.05,
+          "end": 22.18
+        },
+        {
+          "word": "yield",
+          "start": 22.19,
+          "end": 22.25
+        },
+        {
+          "word": "while",
+          "start": 22.26,
+          "end": 22.34
+        },
+        {
+          "word": "they",
+          "start": 22.35,
+          "end": 22.42
+        },
+        {
+          "word": "sleep;",
+          "start": 22.43,
+          "end": 22.51
+        },
+        {
+          "word": "never",
+          "start": 22.52,
+          "end": 22.59
+        },
+        {
+          "word": "stops",
+          "start": 22.6,
+          "end": 22.68
+        },
+        {
+          "word": "grinding.",
+          "start": 22.69,
+          "end": 22.82
+        }
+      ]
+    },
+    {
+      "start": 22.83,
+      "end": 23.12,
+      "text": "Hold up, fam. We also droppin' that dynamic prompt execution system. That's the real sauce - makin' models handle context better is peak UX.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hold",
+          "start": 22.83,
+          "end": 22.91
+        },
+        {
+          "word": "up,",
+          "start": 22.92,
+          "end": 23
+        },
+        {
+          "word": "fam.",
+          "start": 23.01,
+          "end": 23.12
+        },
+        {
+          "word": "We're",
+          "start": 23.13,
+          "end": 23.21
+        },
+        {
+          "word": "also",
+          "start": 23.22,
+          "end": 23.3
+        },
+        {
+          "word": "dropping",
+          "start": 23.31,
+          "end": 23.42
+        },
+        {
+          "word": "that",
+          "start": 23.43,
+          "end": 23.49
+        },
+        {
+          "word": "dynamic",
+          "start": 23.5,
+          "end": 23.63
+        },
+        {
+          "word": "prompt",
+          "start": 23.64,
+          "end": 23.75
+        },
+        {
+          "word": "execution",
+          "start": 23.76,
+          "end": 23.82
+        },
+        {
+          "word": "system.",
+          "start": 23.83,
+          "end": 23.95
+        }
+      ]
+    },
+    {
+      "start": 23.96,
+      "end": 24.52,
+      "text": "Hold up, fam. We also droppin' that dynamic prompt execution system. That's the real sauce - makin' models handle context better is peak UX.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 23.96,
+          "end": 24.08
+        },
+        {
+          "word": "the",
+          "start": 24.09,
+          "end": 24.16
+        },
+        {
+          "word": "real",
+          "start": 24.17,
+          "end": 24.23
+        },
+        {
+          "word": "sauce;",
+          "start": 24.24,
+          "end": 24.32
+        },
+        {
+          "word": "making",
+          "start": 24.33,
+          "end": 24.41
+        },
+        {
+          "word": "models",
+          "start": 24.42,
+          "end": 24.52
+        },
+        {
+          "word": "handle",
+          "start": 24.53,
+          "end": 24.64
+        },
+        {
+          "word": "context",
+          "start": 24.65,
+          "end": 24.71
+        },
+        {
+          "word": "better",
+          "start": 24.72,
+          "end": 24.78
+        },
+        {
+          "word": "is",
+          "start": 24.79,
+          "end": 24.84
+        },
+        {
+          "word": "peak",
+          "start": 24.85,
+          "end": 24.93
+        },
+        {
+          "word": "yucks.",
+          "start": 24.94,
+          "end": 25.12
+        }
+      ]
+    },
+    {
+      "start": 25.13,
+      "end": 26.12,
+      "text": "The middleware is the foundation of an agent economy. Payment rails ALWAYS precede innovation explosions. This is Web3's killer app - AI agents that can transact autonomously.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 25.13,
+          "end": 25.21
+        },
+        {
+          "word": "middleware",
+          "start": 25.22,
+          "end": 25.34
+        },
+        {
+          "word": "is",
+          "start": 25.35,
+          "end": 25.42
+        },
+        {
+          "word": "the",
+          "start": 25.43,
+          "end": 25.49
+        },
+        {
+          "word": "foundation",
+          "start": 25.5,
+          "end": 25.64
+        },
+        {
+          "word": "of",
+          "start": 25.65,
+          "end": 25.72
+        },
+        {
+          "word": "an",
+          "start": 25.73,
+          "end": 25.8
+        },
+        {
+          "word": "agent",
+          "start": 25.81,
+          "end": 25.92
+        },
+        {
+          "word": "economy.",
+          "start": 25.93,
+          "end": 26.12
+        }
+      ]
+    },
+    {
+      "start": 26.13,
+      "end": 27.12,
+      "text": "The middleware is the foundation of an agent economy. Payment rails ALWAYS precede innovation explosions. This is Web3's killer app - AI agents that can transact autonomously.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Payment",
+          "start": 26.13,
+          "end": 26.31
+        },
+        {
+          "word": "rails",
+          "start": 26.32,
+          "end": 26.42
+        },
+        {
+          "word": "always",
+          "start": 26.43,
+          "end": 26.54
+        },
+        {
+          "word": "precede",
+          "start": 26.55,
+          "end": 26.68
+        },
+        {
+          "word": "innovation",
+          "start": 26.69,
+          "end": 26.84
+        },
+        {
+          "word": "explosions.",
+          "start": 26.85,
+          "end": 27.12
+        }
+      ]
+    },
+    {
+      "start": 27.13,
+      "end": 28.32,
+      "text": "The middleware is the foundation of an agent economy. Payment rails ALWAYS precede innovation explosions. This is Web3's killer app - AI agents that can transact autonomously.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 27.13,
+          "end": 27.22
+        },
+        {
+          "word": "is",
+          "start": 27.23,
+          "end": 27.31
+        },
+        {
+          "word": "Web3's",
+          "start": 27.32,
+          "end": 27.42
+        },
+        {
+          "word": "killer",
+          "start": 27.43,
+          "end": 27.56
+        },
+        {
+          "word": "app;",
+          "start": 27.57,
+          "end": 27.69
+        },
+        {
+          "word": "AI",
+          "start": 27.7,
+          "end": 27.81
+        },
+        {
+          "word": "agents",
+          "start": 27.82,
+          "end": 27.91
+        },
+        {
+          "word": "that",
+          "start": 27.92,
+          "end": 28.02
+        },
+        {
+          "word": "can",
+          "start": 28.03,
+          "end": 28.12
+        },
+        {
+          "word": "transact",
+          "start": 28.13,
+          "end": 28.22
+        },
+        {
+          "word": "autonomously.",
+          "start": 28.23,
+          "end": 28.45
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-11-05_JedAI-Council_Token-Migration-Transmutation.json",
+    "session_log_source": "2025-11-05_JedAI-Council_Token-Migration-Transmutation_session-log.json",
+    "total_segments": 27,
+    "matched_segments": 27,
+    "dialogues_in_script": 17
+  }
+}

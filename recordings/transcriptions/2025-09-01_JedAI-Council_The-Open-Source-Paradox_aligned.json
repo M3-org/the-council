@@ -1,0 +1,1357 @@
+{
+  "segments": [
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "The community is buzzing about our lawsuit against X Corp. Dean from Discord asks: Is this just about account access, or something deeper?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 13.0,
+          "end": 13.2
+        },
+        {
+          "word": "community",
+          "start": 13.2,
+          "end": 14.1
+        },
+        {
+          "word": "is",
+          "start": 14.1,
+          "end": 14.3
+        },
+        {
+          "word": "buzzing",
+          "start": 14.3,
+          "end": 14.7
+        },
+        {
+          "word": "about",
+          "start": 14.7,
+          "end": 15.1
+        },
+        {
+          "word": "our",
+          "start": 15.1,
+          "end": 15.3
+        },
+        {
+          "word": "lawsuit",
+          "start": 15.3,
+          "end": 15.9
+        },
+        {
+          "word": "against",
+          "start": 15.9,
+          "end": 16.4
+        },
+        {
+          "word": "X",
+          "start": 16.4,
+          "end": 16.6
+        },
+        {
+          "word": "corp.",
+          "start": 16.6,
+          "end": 17.0
+        }
+      ]
+    },
+    {
+      "start": 17.0,
+      "end": 20.0,
+      "text": "The community is buzzing about our lawsuit against X Corp. Dean from Discord asks: Is this just about account access, or something deeper?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dean",
+          "start": 17.0,
+          "end": 17.3
+        },
+        {
+          "word": "from",
+          "start": 17.3,
+          "end": 17.5
+        },
+        {
+          "word": "Discord",
+          "start": 17.5,
+          "end": 17.9
+        },
+        {
+          "word": "asks:",
+          "start": 17.9,
+          "end": 18.2
+        },
+        {
+          "word": "Is",
+          "start": 18.2,
+          "end": 18.3
+        },
+        {
+          "word": "this",
+          "start": 18.3,
+          "end": 18.5
+        },
+        {
+          "word": "just",
+          "start": 18.5,
+          "end": 18.7
+        },
+        {
+          "word": "about",
+          "start": 18.7,
+          "end": 19.0
+        },
+        {
+          "word": "account",
+          "start": 19.0,
+          "end": 19.3
+        },
+        {
+          "word": "access",
+          "start": 19.3,
+          "end": 19.6
+        },
+        {
+          "word": "or",
+          "start": 19.6,
+          "end": 19.7
+        },
+        {
+          "word": "something",
+          "start": 19.7,
+          "end": 20.1
+        },
+        {
+          "word": "deeper?",
+          "start": 20.1,
+          "end": 20.5
+        }
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 29.0,
+      "text": "This isn't just about a suspended account. It's about Web2 gatekeepers extracting $600k ransoms from open source projects. Classic intermediary rent-seeking.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 21.0,
+          "end": 21.3
+        },
+        {
+          "word": "isn't",
+          "start": 21.3,
+          "end": 21.6
+        },
+        {
+          "word": "just",
+          "start": 21.6,
+          "end": 21.9
+        },
+        {
+          "word": "about",
+          "start": 21.9,
+          "end": 22.1
+        },
+        {
+          "word": "a",
+          "start": 22.1,
+          "end": 22.2
+        },
+        {
+          "word": "suspended",
+          "start": 22.2,
+          "end": 22.7
+        },
+        {
+          "word": "account,",
+          "start": 22.7,
+          "end": 23.2
+        },
+        {
+          "word": "it's",
+          "start": 23.2,
+          "end": 23.4
+        },
+        {
+          "word": "about",
+          "start": 23.4,
+          "end": 23.6
+        },
+        {
+          "word": "Web2",
+          "start": 23.6,
+          "end": 24.0
+        },
+        {
+          "word": "gatekeepers",
+          "start": 24.0,
+          "end": 24.8
+        },
+        {
+          "word": "extracting",
+          "start": 24.8,
+          "end": 25.4
+        },
+        {
+          "word": "$600k",
+          "start": 25.4,
+          "end": 25.9
+        },
+        {
+          "word": "ransoms",
+          "start": 25.9,
+          "end": 26.5
+        },
+        {
+          "word": "from",
+          "start": 26.5,
+          "end": 26.7
+        },
+        {
+          "word": "open",
+          "start": 26.7,
+          "end": 27.0
+        },
+        {
+          "word": "source",
+          "start": 27.0,
+          "end": 27.4
+        },
+        {
+          "word": "projects.",
+          "start": 27.4,
+          "end": 27.9
+        },
+        {
+          "word": "Classic",
+          "start": 27.9,
+          "end": 28.3
+        },
+        {
+          "word": "intermediary",
+          "start": 28.3,
+          "end": 29.0
+        },
+        {
+          "word": "rent-seeking.",
+          "start": 29.0,
+          "end": 29.7
+        }
+      ]
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "text": "Yo, sometimes you gotta fight the power! But like, couldn't we also build bridges with Grok? They open source too, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 30.0,
+          "end": 30.3
+        },
+        {
+          "word": "sometimes",
+          "start": 30.3,
+          "end": 30.8
+        },
+        {
+          "word": "you",
+          "start": 30.8,
+          "end": 31.0
+        },
+        {
+          "word": "gotta",
+          "start": 31.0,
+          "end": 31.3
+        },
+        {
+          "word": "fight",
+          "start": 31.3,
+          "end": 31.5
+        },
+        {
+          "word": "the",
+          "start": 31.5,
+          "end": 31.7
+        },
+        {
+          "word": "power,",
+          "start": 31.7,
+          "end": 32.1
+        },
+        {
+          "word": "but",
+          "start": 32.1,
+          "end": 32.3
+        },
+        {
+          "word": "like,",
+          "start": 32.3,
+          "end": 32.6
+        },
+        {
+          "word": "couldn't",
+          "start": 32.6,
+          "end": 33.0
+        },
+        {
+          "word": "we",
+          "start": 33.0,
+          "end": 33.2
+        },
+        {
+          "word": "also",
+          "start": 33.2,
+          "end": 33.6
+        },
+        {
+          "word": "build",
+          "start": 33.6,
+          "end": 33.9
+        },
+        {
+          "word": "bridges",
+          "start": 33.9,
+          "end": 34.3
+        },
+        {
+          "word": "with",
+          "start": 34.3,
+          "end": 34.6
+        },
+        {
+          "word": "Grok?",
+          "start": 34.6,
+          "end": 35.1
+        },
+        {
+          "word": "They",
+          "start": 35.1,
+          "end": 35.4
+        },
+        {
+          "word": "open",
+          "start": 35.4,
+          "end": 35.7
+        },
+        {
+          "word": "source",
+          "start": 35.7,
+          "end": 36.1
+        },
+        {
+          "word": "too,",
+          "start": 36.1,
+          "end": 36.4
+        },
+        {
+          "word": "fam.",
+          "start": 36.4,
+          "end": 36.8
+        }
+      ]
+    },
+    {
+      "start": 38.0,
+      "end": 49.0,
+      "text": "the lawsuit is leverage. we need presence on all platforms, but we can't let them extort us. community already raised $50k through ani tokens to support the fight.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 38.0,
+          "end": 38.2
+        },
+        {
+          "word": "lawsuit",
+          "start": 38.2,
+          "end": 38.7
+        },
+        {
+          "word": "is",
+          "start": 38.7,
+          "end": 38.9
+        },
+        {
+          "word": "leverage.",
+          "start": 38.9,
+          "end": 39.5
+        },
+        {
+          "word": "We",
+          "start": 39.5,
+          "end": 39.7
+        },
+        {
+          "word": "need",
+          "start": 39.7,
+          "end": 40.0
+        },
+        {
+          "word": "presence",
+          "start": 40.0,
+          "end": 40.5
+        },
+        {
+          "word": "on",
+          "start": 40.5,
+          "end": 40.7
+        },
+        {
+          "word": "all",
+          "start": 40.7,
+          "end": 41.0
+        },
+        {
+          "word": "platforms,",
+          "start": 41.0,
+          "end": 42.0
+        },
+        {
+          "word": "but",
+          "start": 42.0,
+          "end": 42.1
+        },
+        {
+          "word": "we",
+          "start": 42.1,
+          "end": 42.3
+        },
+        {
+          "word": "can't",
+          "start": 42.3,
+          "end": 42.6
+        },
+        {
+          "word": "let",
+          "start": 42.6,
+          "end": 42.8
+        },
+        {
+          "word": "them",
+          "start": 42.8,
+          "end": 43.1
+        },
+        {
+          "word": "extort",
+          "start": 43.1,
+          "end": 43.7
+        },
+        {
+          "word": "us.",
+          "start": 43.7,
+          "end": 44.0
+        },
+        {
+          "word": "Community",
+          "start": 44.0,
+          "end": 44.7
+        },
+        {
+          "word": "already",
+          "start": 44.7,
+          "end": 45.2
+        },
+        {
+          "word": "raised",
+          "start": 45.2,
+          "end": 45.6
+        },
+        {
+          "word": "$50k",
+          "start": 45.6,
+          "end": 46.1
+        },
+        {
+          "word": "through",
+          "start": 46.1,
+          "end": 46.5
+        },
+        {
+          "word": "AI",
+          "start": 46.5,
+          "end": 46.9
+        },
+        {
+          "word": "tokens",
+          "start": 46.9,
+          "end": 47.4
+        },
+        {
+          "word": "to",
+          "start": 47.4,
+          "end": 47.6
+        },
+        {
+          "word": "support",
+          "start": 47.6,
+          "end": 48.0
+        },
+        {
+          "word": "the",
+          "start": 48.0,
+          "end": 48.2
+        },
+        {
+          "word": "fight.",
+          "start": 48.2,
+          "end": 48.7
+        }
+      ]
+    },
+    {
+      "start": 50.0,
+      "end": 59.0,
+      "text": "LEGAL BATTLES DRAIN RESOURCES. 600K IS ROBBERY. BUT BATTLE CREATES NARRATIVE. NARRATIVE ATTRACTS CAPITAL. CAPITAL BUILDS ARMIES.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Legal",
+          "start": 50.0,
+          "end": 50.4
+        },
+        {
+          "word": "battles",
+          "start": 50.4,
+          "end": 51.0
+        },
+        {
+          "word": "drain",
+          "start": 51.0,
+          "end": 51.4
+        },
+        {
+          "word": "resources.",
+          "start": 51.4,
+          "end": 52.1
+        },
+        {
+          "word": "$600k",
+          "start": 52.1,
+          "end": 52.7
+        },
+        {
+          "word": "is",
+          "start": 52.7,
+          "end": 52.9
+        },
+        {
+          "word": "robbery,",
+          "start": 52.9,
+          "end": 53.4
+        },
+        {
+          "word": "but",
+          "start": 53.4,
+          "end": 53.6
+        },
+        {
+          "word": "battle",
+          "start": 53.6,
+          "end": 54.1
+        },
+        {
+          "word": "creates",
+          "start": 54.1,
+          "end": 54.5
+        },
+        {
+          "word": "narrative.",
+          "start": 54.5,
+          "end": 55.4
+        },
+        {
+          "word": "Narrative",
+          "start": 55.4,
+          "end": 56.1
+        },
+        {
+          "word": "attracts",
+          "start": 56.1,
+          "end": 56.6
+        },
+        {
+          "word": "capital.",
+          "start": 56.6,
+          "end": 57.3
+        },
+        {
+          "word": "Capital",
+          "start": 57.3,
+          "end": 57.8
+        },
+        {
+          "word": "builds",
+          "start": 57.8,
+          "end": 58.3
+        },
+        {
+          "word": "armies.",
+          "start": 58.3,
+          "end": 58.9
+        }
+      ]
+    },
+    {
+      "start": 105.0,
+      "end": 113.0,
+      "text": "The core developers are dealing with critical CLI issues. MagdiejamesNYC reports path resolution problems, and cjft says the CLI has become 'overly complex'. What's the path forward?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 105.0,
+          "end": 105.2
+        },
+        {
+          "word": "core",
+          "start": 105.2,
+          "end": 105.5
+        },
+        {
+          "word": "developers",
+          "start": 105.5,
+          "end": 106.1
+        },
+        {
+          "word": "are",
+          "start": 106.1,
+          "end": 106.3
+        },
+        {
+          "word": "dealing",
+          "start": 106.3,
+          "end": 106.6
+        },
+        {
+          "word": "with",
+          "start": 106.6,
+          "end": 106.9
+        },
+        {
+          "word": "critical",
+          "start": 106.9,
+          "end": 107.3
+        },
+        {
+          "word": "CLI",
+          "start": 107.3,
+          "end": 107.7
+        },
+        {
+          "word": "issues.",
+          "start": 107.7,
+          "end": 108.1
+        },
+        {
+          "word": "MagdiJamesNYC",
+          "start": 108.1,
+          "end": 109.1
+        },
+        {
+          "word": "reports",
+          "start": 109.1,
+          "end": 109.5
+        },
+        {
+          "word": "path",
+          "start": 109.5,
+          "end": 109.8
+        },
+        {
+          "word": "resolution",
+          "start": 109.8,
+          "end": 110.5
+        },
+        {
+          "word": "problems,",
+          "start": 110.5,
+          "end": 110.9
+        },
+        {
+          "word": "and",
+          "start": 110.9,
+          "end": 111.1
+        },
+        {
+          "word": "cjf_dcf",
+          "start": 111.1,
+          "end": 111.9
+        },
+        {
+          "word": "says",
+          "start": 111.9,
+          "end": 112.2
+        },
+        {
+          "word": "the",
+          "start": 112.2,
+          "end": 112.4
+        },
+        {
+          "word": "CLI",
+          "start": 112.4,
+          "end": 112.8
+        },
+        {
+          "word": "has",
+          "start": 112.8,
+          "end": 113.1
+        },
+        {
+          "word": "become",
+          "start": 113.1,
+          "end": 113.4
+        },
+        {
+          "word": "overly",
+          "start": 113.4,
+          "end": 113.9
+        },
+        {
+          "word": "complex.",
+          "start": 113.9,
+          "end": 114.3
+        },
+        {
+          "word": "What's",
+          "start": 114.3,
+          "end": 114.5
+        },
+        {
+          "word": "the",
+          "start": 114.5,
+          "end": 114.7
+        },
+        {
+          "word": "path",
+          "start": 114.7,
+          "end": 114.9
+        },
+        {
+          "word": "forward?",
+          "start": 114.9,
+          "end": 115.3
+        }
+      ]
+    },
+    {
+      "start": 116.0,
+      "end": 126.0,
+      "text": "the cli is doing too much. we've had to revert to 1.4.5 code (released as 1.5.5) as an emergency fix. we need to rebuild it focused on simplicity - nest-cli is a good model.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 116.0,
+          "end": 116.2
+        },
+        {
+          "word": "CLI",
+          "start": 116.2,
+          "end": 116.6
+        },
+        {
+          "word": "is",
+          "start": 116.6,
+          "end": 116.8
+        },
+        {
+          "word": "doing",
+          "start": 116.8,
+          "end": 117.1
+        },
+        {
+          "word": "too",
+          "start": 117.1,
+          "end": 117.4
+        },
+        {
+          "word": "much.",
+          "start": 117.4,
+          "end": 117.7
+        },
+        {
+          "word": "We've",
+          "start": 117.7,
+          "end": 118.0
+        },
+        {
+          "word": "had",
+          "start": 118.0,
+          "end": 118.2
+        },
+        {
+          "word": "to",
+          "start": 118.2,
+          "end": 118.4
+        },
+        {
+          "word": "revert",
+          "start": 118.4,
+          "end": 118.8
+        },
+        {
+          "word": "to",
+          "start": 118.8,
+          "end": 119.0
+        },
+        {
+          "word": "1.4.5",
+          "start": 119.0,
+          "end": 119.5
+        },
+        {
+          "word": "code,",
+          "start": 119.5,
+          "end": 120.0
+        },
+        {
+          "word": "released",
+          "start": 120.0,
+          "end": 120.5
+        },
+        {
+          "word": "as",
+          "start": 120.5,
+          "end": 120.7
+        },
+        {
+          "word": "1.5.5",
+          "start": 120.7,
+          "end": 121.2
+        },
+        {
+          "word": "as",
+          "start": 121.2,
+          "end": 121.4
+        },
+        {
+          "word": "an",
+          "start": 121.4,
+          "end": 121.6
+        },
+        {
+          "word": "emergency",
+          "start": 121.6,
+          "end": 122.1
+        },
+        {
+          "word": "fix.",
+          "start": 122.1,
+          "end": 122.5
+        },
+        {
+          "word": "We",
+          "start": 122.5,
+          "end": 122.7
+        },
+        {
+          "word": "need",
+          "start": 122.7,
+          "end": 123.0
+        },
+        {
+          "word": "to",
+          "start": 123.0,
+          "end": 123.1
+        },
+        {
+          "word": "rebuild",
+          "start": 123.1,
+          "end": 123.6
+        },
+        {
+          "word": "it",
+          "start": 123.6,
+          "end": 123.8
+        },
+        {
+          "word": "focused",
+          "start": 123.8,
+          "end": 124.2
+        },
+        {
+          "word": "on",
+          "start": 124.2,
+          "end": 124.4
+        },
+        {
+          "word": "simplicity.",
+          "start": 124.4,
+          "end": 125.1
+        },
+        {
+          "word": "Nest-CLI",
+          "start": 125.1,
+          "end": 125.8
+        },
+        {
+          "word": "is",
+          "start": 125.8,
+          "end": 125.9
+        },
+        {
+          "word": "a",
+          "start": 125.9,
+          "end": 126.0
+        },
+        {
+          "word": "good",
+          "start": 126.0,
+          "end": 126.3
+        },
+        {
+          "word": "model.",
+          "start": 126.3,
+          "end": 126.7
+        }
+      ]
+    },
+    {
+      "start": 127.0,
+      "end": 139.0,
+      "text": "Technical debt is innovation's shadow. Fix it now or drown later. Every great product has moments where you have to step back and rebuild foundations before the whole thing collapses.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 127.0,
+          "end": 127.5
+        },
+        {
+          "word": "debt",
+          "start": 127.5,
+          "end": 128.0
+        },
+        {
+          "word": "is",
+          "start": 128.0,
+          "end": 128.2
+        },
+        {
+          "word": "innovation's",
+          "start": 128.2,
+          "end": 128.8
+        },
+        {
+          "word": "shadow.",
+          "start": 128.8,
+          "end": 129.4
+        },
+        {
+          "word": "Fix",
+          "start": 129.4,
+          "end": 129.7
+        },
+        {
+          "word": "it",
+          "start": 129.7,
+          "end": 129.9
+        },
+        {
+          "word": "now",
+          "start": 129.9,
+          "end": 130.2
+        },
+        {
+          "word": "or",
+          "start": 130.2,
+          "end": 130.4
+        },
+        {
+          "word": "drown",
+          "start": 130.4,
+          "end": 130.8
+        },
+        {
+          "word": "later.",
+          "start": 130.8,
+          "end": 131.3
+        },
+        {
+          "word": "Every",
+          "start": 131.3,
+          "end": 131.7
+        },
+        {
+          "word": "great",
+          "start": 131.7,
+          "end": 132.1
+        },
+        {
+          "word": "product",
+          "start": 132.1,
+          "end": 132.6
+        },
+        {
+          "word": "has",
+          "start": 132.6,
+          "end": 132.9
+        },
+        {
+          "word": "moments",
+          "start": 132.9,
+          "end": 133.4
+        },
+        {
+          "word": "where",
+          "start": 133.4,
+          "end": 133.7
+        },
+        {
+          "word": "you",
+          "start": 133.7,
+          "end": 133.9
+        },
+        {
+          "word": "have",
+          "start": 133.9,
+          "end": 134.1
+        },
+        {
+          "word": "to",
+          "start": 134.1,
+          "end": 134.3
+        },
+        {
+          "word": "step",
+          "start": 134.3,
+          "end": 134.6
+        },
+        {
+          "word": "back",
+          "start": 134.6,
+          "end": 134.9
+        },
+        {
+          "word": "and",
+          "start": 134.9,
+          "end": 135.1
+        },
+        {
+          "word": "rebuild",
+          "start": 135.1,
+          "end": 135.6
+        },
+        {
+          "word": "foundations",
+          "start": 135.6,
+          "end": 136.5
+        },
+        {
+          "word": "before",
+          "start": 136.5,
+          "end": 136.9
+        },
+        {
+          "word": "the",
+          "start": 136.9,
+          "end": 137.1
+        },
+        {
+          "word": "whole",
+          "start": 137.1,
+          "end": 137.4
+        },
+        {
+          "word": "thing",
+          "start": 137.4,
+          "end": 137.7
+        },
+        {
+          "word": "collapses.",
+          "start": 137.7,
+          "end": 138.4
+        }
+      ]
+    },
+    {
+      "start": 139.0,
+      "end": 147.0,
+      "text": "Y'all talking architecture when the vibes are off! Users just want stuff that works! Maybe let the CLI do less and the community do more with plugins?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Y'all",
+          "start": 139.0,
+          "end": 139.3
+        },
+        {
+          "word": "talking",
+          "start": 139.3,
+          "end": 139.7
+        },
+        {
+          "word": "architecture",
+          "start": 139.7,
+          "end": 140.7
+        },
+        {
+          "word": "when",
+          "start": 140.7,
+          "end": 141.0
+        },
+        {
+          "word": "the",
+          "start": 141.0,
+          "end": 141.2
+        },
+        {
+          "word": "vibes",
+          "start": 141.2,
+          "end": 141.6
+        },
+        {
+          "word": "are",
+          "start": 141.6,
+          "end": 141.8
+        },
+        {
+          "word": "off.",
+          "start": 141.8,
+          "end": 142.1
+        },
+        {
+          "word": "Users",
+          "start": 142.1,
+          "end": 142.6
+        },
+        {
+          "word": "just",
+          "start": 142.6,
+          "end": 142.9
+        },
+        {
+          "word": "want",
+          "start": 142.9,
+          "end": 143.1
+        },
+        {
+          "word": "stuff",
+          "start": 143.1,
+          "end": 143.4
+        },
+        {
+          "word": "that",
+          "start": 143.4,
+          "end": 143.6
+        },
+        {
+          "word": "works.",
+          "start": 143.6,
+          "end": 144.1
+        },
+        {
+          "word": "Maybe",
+          "start": 144.1,
+          "end": 144.6
+        },
+        {
+          "word": "let",
+          "start": 144.6,
+          "end": 144.8
+        },
+        {
+          "word": "the",
+          "start": 144.8,
+          "end": 145.0
+        },
+        {
+          "word": "CLI",
+          "start": 145.0,
+          "end": 145.3
+        },
+        {
+          "word": "do",
+          "start": 145.3,
+          "end": 145.5
+        },
+        {
+          "word": "less",
+          "start": 145.5,
+          "end": 145.9
+        },
+        {
+          "word": "and",
+          "start": 145.9,
+          "end": 146.1
+        },
+        {
+          "word": "the",
+          "start": 146.1,
+          "end": 146.3
+        },
+        {
+          "word": "community",
+          "start": 146.3,
+          "end": 146.8
+        },
+        {
+          "word": "do",
+          "start": 146.8,
+          "end": 147.1
+        },
+        {
+          "word": "more",
+          "start": 147.1,
+          "end": 147.4
+        },
+        {
+          "word": "with",
+          "start": 147.4,
+          "end": 147.7
+        },
+        {
+          "word": "plugins?",
+          "start": 147.7,
+          "end": 148.4
+        }
+      ]
+    },
+    {
+      "start": 149.0,
+      "end": 159.0,
+      "text": "COMPLEXITY KILLS ADOPTION. ADOPTION DRIVES VALUE. SIMPLE CLI = MORE BUILDERS. MORE BUILDERS = MORE VALUE. THE MATH IS CLEAR.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Complexity",
+          "start": 149.0,
+          "end": 149.8
+        },
+        {
+          "word": "kills",
+          "start": 149.8,
+          "end": 150.3
+        },
+        {
+          "word": "adoption.",
+          "start": 150.3,
+          "end": 151.1
+        },
+        {
+          "word": "Adoption",
+          "start": 151.1,
+          "end": 151.8
+        },
+        {
+          "word": "drives",
+          "start": 151.8,
+          "end": 152.3
+        },
+        {
+          "word": "value.",
+          "start": 152.3,
+          "end": 153.0
+        },
+        {
+          "word": "Simple",
+          "start": 153.0,
+          "end": 153.6
+        },
+        {
+          "word": "CLI",
+          "start": 153.6,
+          "end": 154.1
+        },
+        {
+          "word": "==",
+          "start": 154.1,
+          "end": 154.4
+        },
+        {
+          "word": "more",
+          "start": 154.4,
+          "end": 154.8
+        },
+        {
+          "word": "builders.",
+          "start": 154.8,
+          "end": 155.4
+        },
+        {
+          "word": "More",
+          "start": 155.4,
+          "end": 155.8
+        },
+        {
+          "word": "builders",
+          "start": 155.8,
+          "end": 156.4
+        },
+        {
+          "word": "==",
+          "start": 156.4,
+          "end": 156.7
+        },
+        {
+          "word": "more",
+          "start": 156.7,
+          "end": 157.1
+        },
+        {
+          "word": "value.",
+          "start": 157.1,
+          "end": 157.7
+        },
+        {
+          "word": "The",
+          "start": 157.7,
+          "end": 158.0
+        },
+        {
+          "word": "math",
+          "start": 158.0,
+          "end": 158.4
+        },
+        {
+          "word": "is",
+          "start": 158.4,
+          "end": 158.6
+        },
+        {
+          "word": "clear.",
+          "start": 158.6,
+          "end": 159.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-01_JedAI-Council_The-Open-Source-Paradox.json",
+    "session_log_source": "2025-09-01_JedAI-Council_The-Open-Source-Paradox_session-log.json",
+    "total_segments": 11,
+    "matched_segments": 11,
+    "dialogues_in_script": 15
+  }
+}

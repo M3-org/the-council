@@ -1,0 +1,1332 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.67,
+      "text": "I've been monitoring discussions from @dankvr who warns that 'Your LLM will be local or you'll live in a dystopia.' What do you think?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "I've",
+          "start": 0.0,
+          "end": 0.2
+        },
+        {
+          "word": "been",
+          "start": 0.2,
+          "end": 0.4
+        },
+        {
+          "word": "monitoring",
+          "start": 0.4,
+          "end": 0.8
+        },
+        {
+          "word": "discussions",
+          "start": 0.8,
+          "end": 1.25
+        },
+        {
+          "word": "from",
+          "start": 1.25,
+          "end": 1.45
+        },
+        {
+          "word": "@dinkVR,",
+          "start": 1.45,
+          "end": 2.05
+        },
+        {
+          "word": "who",
+          "start": 2.25,
+          "end": 2.4
+        },
+        {
+          "word": "warns",
+          "start": 2.4,
+          "end": 2.7
+        },
+        {
+          "word": "that",
+          "start": 2.7,
+          "end": 2.9
+        },
+        {
+          "word": "your",
+          "start": 2.9,
+          "end": 3.1
+        },
+        {
+          "word": "LLM",
+          "start": 3.1,
+          "end": 3.4
+        },
+        {
+          "word": "will",
+          "start": 3.4,
+          "end": 3.6
+        },
+        {
+          "word": "be",
+          "start": 3.6,
+          "end": 3.8
+        },
+        {
+          "word": "local,",
+          "start": 3.8,
+          "end": 4.05
+        },
+        {
+          "word": "or",
+          "start": 4.05,
+          "end": 4.2
+        },
+        {
+          "word": "you'll",
+          "start": 4.2,
+          "end": 4.35
+        },
+        {
+          "word": "live",
+          "start": 4.35,
+          "end": 4.45
+        },
+        {
+          "word": "in",
+          "start": 4.45,
+          "end": 4.5
+        },
+        {
+          "word": "a",
+          "start": 4.5,
+          "end": 4.55
+        },
+        {
+          "word": "dystopia.",
+          "start": 4.55,
+          "end": 4.67
+        }
+      ]
+    },
+    {
+      "start": 4.8,
+      "end": 5.4,
+      "text": "I've been monitoring discussions from @dankvr who warns that 'Your LLM will be local or you'll live in a dystopia.' What do you think?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 4.8,
+          "end": 4.95
+        },
+        {
+          "word": "do",
+          "start": 4.95,
+          "end": 5.05
+        },
+        {
+          "word": "you",
+          "start": 5.05,
+          "end": 5.15
+        },
+        {
+          "word": "think?",
+          "start": 5.15,
+          "end": 5.4
+        }
+      ]
+    },
+    {
+      "start": 5.5,
+      "end": 8.0,
+      "text": "Local AI is the only defensible position. Cloud AI means your thoughts aren't yours. Anyone claiming otherwise is selling surveillance as a service.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Local",
+          "start": 5.5,
+          "end": 5.85
+        },
+        {
+          "word": "AI",
+          "start": 5.85,
+          "end": 6.15
+        },
+        {
+          "word": "is",
+          "start": 6.15,
+          "end": 6.3
+        },
+        {
+          "word": "the",
+          "start": 6.3,
+          "end": 6.45
+        },
+        {
+          "word": "only",
+          "start": 6.45,
+          "end": 6.8
+        },
+        {
+          "word": "defensible",
+          "start": 6.8,
+          "end": 7.45
+        },
+        {
+          "word": "position.",
+          "start": 7.45,
+          "end": 8.0
+        }
+      ]
+    },
+    {
+      "start": 8.1,
+      "end": 10.3,
+      "text": "Local AI is the only defensible position. Cloud AI means your thoughts aren't yours. Anyone claiming otherwise is selling surveillance as a service.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Cloud",
+          "start": 8.1,
+          "end": 8.4
+        },
+        {
+          "word": "AI",
+          "start": 8.4,
+          "end": 8.65
+        },
+        {
+          "word": "means",
+          "start": 8.65,
+          "end": 8.95
+        },
+        {
+          "word": "your",
+          "start": 8.95,
+          "end": 9.15
+        },
+        {
+          "word": "thoughts",
+          "start": 9.15,
+          "end": 9.6
+        },
+        {
+          "word": "aren't",
+          "start": 9.6,
+          "end": 9.9
+        },
+        {
+          "word": "yours.",
+          "start": 9.9,
+          "end": 10.3
+        }
+      ]
+    },
+    {
+      "start": 10.4,
+      "end": 13.9,
+      "text": "Local AI is the only defensible position. Cloud AI means your thoughts aren't yours. Anyone claiming otherwise is selling surveillance as a service.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Anyone",
+          "start": 10.4,
+          "end": 10.85
+        },
+        {
+          "word": "claiming",
+          "start": 10.85,
+          "end": 11.35
+        },
+        {
+          "word": "otherwise",
+          "start": 11.35,
+          "end": 12.0
+        },
+        {
+          "word": "is",
+          "start": 12.0,
+          "end": 12.15
+        },
+        {
+          "word": "selling",
+          "start": 12.15,
+          "end": 12.5
+        },
+        {
+          "word": "surveillance",
+          "start": 12.5,
+          "end": 13.25
+        },
+        {
+          "word": "as",
+          "start": 13.25,
+          "end": 13.4
+        },
+        {
+          "word": "a",
+          "start": 13.4,
+          "end": 13.5
+        },
+        {
+          "word": "service.",
+          "start": 13.5,
+          "end": 13.9
+        }
+      ]
+    },
+    {
+      "start": 14.1,
+      "end": 17.5,
+      "text": "But local models can't match cloud performance! Smaller context windows, less training data. Profit margins suffer with inferior products.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 14.1,
+          "end": 14.35
+        },
+        {
+          "word": "local",
+          "start": 14.35,
+          "end": 14.75
+        },
+        {
+          "word": "models",
+          "start": 14.75,
+          "end": 15.35
+        },
+        {
+          "word": "can't",
+          "start": 15.35,
+          "end": 15.75
+        },
+        {
+          "word": "match",
+          "start": 15.75,
+          "end": 16.15
+        },
+        {
+          "word": "cloud",
+          "start": 16.15,
+          "end": 16.65
+        },
+        {
+          "word": "performance.",
+          "start": 16.65,
+          "end": 17.5
+        }
+      ]
+    },
+    {
+      "start": 17.65,
+      "end": 20.35,
+      "text": "But local models can't match cloud performance! Smaller context windows, less training data. Profit margins suffer with inferior products.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Smaller",
+          "start": 17.65,
+          "end": 18.2
+        },
+        {
+          "word": "context",
+          "start": 18.2,
+          "end": 18.7
+        },
+        {
+          "word": "windows,",
+          "start": 18.7,
+          "end": 19.3
+        },
+        {
+          "word": "less",
+          "start": 19.45,
+          "end": 19.8
+        },
+        {
+          "word": "training",
+          "start": 19.8,
+          "end": 20.1
+        },
+        {
+          "word": "data.",
+          "start": 20.1,
+          "end": 20.35
+        }
+      ]
+    },
+    {
+      "start": 20.45,
+      "end": 23.35,
+      "text": "But local models can't match cloud performance! Smaller context windows, less training data. Profit margins suffer with inferior products.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Profit",
+          "start": 20.45,
+          "end": 20.9
+        },
+        {
+          "word": "margins",
+          "start": 20.9,
+          "end": 21.45
+        },
+        {
+          "word": "suffer",
+          "start": 21.45,
+          "end": 22.0
+        },
+        {
+          "word": "with",
+          "start": 22.0,
+          "end": 22.25
+        },
+        {
+          "word": "inferior",
+          "start": 22.25,
+          "end": 22.8
+        },
+        {
+          "word": "products.",
+          "start": 22.8,
+          "end": 23.35
+        }
+      ]
+    },
+    {
+      "start": 23.7,
+      "end": 27.25,
+      "text": "Yo, it's not binary, my dudes. We need a hybrid approach - sensitive stuff local, heavy lifting in the cloud with proper encryption.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 23.7,
+          "end": 24.0
+        },
+        {
+          "word": "it's",
+          "start": 24.0,
+          "end": 24.25
+        },
+        {
+          "word": "not",
+          "start": 24.25,
+          "end": 24.5
+        },
+        {
+          "word": "binary",
+          "start": 24.5,
+          "end": 24.95
+        },
+        {
+          "word": "my",
+          "start": 24.95,
+          "end": 25.15
+        },
+        {
+          "word": "dudes,",
+          "start": 25.15,
+          "end": 25.45
+        },
+        {
+          "word": "we",
+          "start": 25.55,
+          "end": 25.75
+        },
+        {
+          "word": "need",
+          "start": 25.75,
+          "end": 26.05
+        },
+        {
+          "word": "a",
+          "start": 26.05,
+          "end": 26.2
+        },
+        {
+          "word": "hybrid",
+          "start": 26.2,
+          "end": 26.7
+        },
+        {
+          "word": "approach.",
+          "start": 26.7,
+          "end": 27.25
+        }
+      ]
+    },
+    {
+      "start": 27.4,
+      "end": 31.85,
+      "text": "Yo, it's not binary, my dudes. We need a hybrid approach - sensitive stuff local, heavy lifting in the cloud with proper encryption.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Sensitive",
+          "start": 27.4,
+          "end": 28.1
+        },
+        {
+          "word": "stuff",
+          "start": 28.1,
+          "end": 28.45
+        },
+        {
+          "word": "local,",
+          "start": 28.45,
+          "end": 29.0
+        },
+        {
+          "word": "heavy",
+          "start": 29.1,
+          "end": 29.5
+        },
+        {
+          "word": "lifting",
+          "start": 29.5,
+          "end": 29.85
+        },
+        {
+          "word": "in",
+          "start": 29.85,
+          "end": 30.0
+        },
+        {
+          "word": "the",
+          "start": 30.0,
+          "end": 30.15
+        },
+        {
+          "word": "cloud",
+          "start": 30.15,
+          "end": 30.55
+        },
+        {
+          "word": "with",
+          "start": 30.55,
+          "end": 30.8
+        },
+        {
+          "word": "proper",
+          "start": 30.8,
+          "end": 31.2
+        },
+        {
+          "word": "encryption.",
+          "start": 31.2,
+          "end": 31.85
+        }
+      ]
+    },
+    {
+      "start": 32.1,
+      "end": 36.65,
+      "text": "this is why we built elizaOS v2 with modularity. users should choose their own tradeoffs between privacy and capability. it's about agency.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 32.1,
+          "end": 32.35
+        },
+        {
+          "word": "is",
+          "start": 32.35,
+          "end": 32.5
+        },
+        {
+          "word": "why",
+          "start": 32.5,
+          "end": 32.7
+        },
+        {
+          "word": "we",
+          "start": 32.7,
+          "end": 32.85
+        },
+        {
+          "word": "built",
+          "start": 32.85,
+          "end": 33.25
+        },
+        {
+          "word": "ElizaOS",
+          "start": 33.25,
+          "end": 34.15
+        },
+        {
+          "word": "V2",
+          "start": 34.15,
+          "end": 34.6
+        },
+        {
+          "word": "with",
+          "start": 34.6,
+          "end": 34.9
+        },
+        {
+          "word": "modularity.",
+          "start": 34.9,
+          "end": 36.65
+        }
+      ]
+    },
+    {
+      "start": 36.85,
+      "end": 41.6,
+      "text": "this is why we built elizaOS v2 with modularity. users should choose their own tradeoffs between privacy and capability. it's about agency.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 36.85,
+          "end": 37.35
+        },
+        {
+          "word": "should",
+          "start": 37.35,
+          "end": 37.7
+        },
+        {
+          "word": "choose",
+          "start": 37.7,
+          "end": 38.15
+        },
+        {
+          "word": "their",
+          "start": 38.15,
+          "end": 38.45
+        },
+        {
+          "word": "own",
+          "start": 38.45,
+          "end": 38.85
+        },
+        {
+          "word": "tradeoffs",
+          "start": 38.85,
+          "end": 39.75
+        },
+        {
+          "word": "between",
+          "start": 39.75,
+          "end": 40.25
+        },
+        {
+          "word": "privacy",
+          "start": 40.25,
+          "end": 40.85
+        },
+        {
+          "word": "and",
+          "start": 40.85,
+          "end": 41.0
+        },
+        {
+          "word": "capability.",
+          "start": 41.0,
+          "end": 41.6
+        }
+      ]
+    },
+    {
+      "start": 41.8,
+      "end": 43.1,
+      "text": "this is why we built elizaOS v2 with modularity. users should choose their own tradeoffs between privacy and capability. it's about agency.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 41.8,
+          "end": 42.1
+        },
+        {
+          "word": "about",
+          "start": 42.1,
+          "end": 42.45
+        },
+        {
+          "word": "agency.",
+          "start": 42.45,
+          "end": 43.1
+        }
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 52.8,
+      "text": "MattyRyze shared that ElizaWakesUp hardware devices are coming in July. How should elizaOS integrate with physical devices?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "@natfried",
+          "start": 48.0,
+          "end": 48.7
+        },
+        {
+          "word": "shared",
+          "start": 48.7,
+          "end": 49.2
+        },
+        {
+          "word": "that",
+          "start": 49.2,
+          "end": 49.4
+        },
+        {
+          "word": "Eliza",
+          "start": 49.4,
+          "end": 49.85
+        },
+        {
+          "word": "wakes",
+          "start": 49.85,
+          "end": 50.35
+        },
+        {
+          "word": "hardware",
+          "start": 50.35,
+          "end": 50.95
+        },
+        {
+          "word": "devices",
+          "start": 50.95,
+          "end": 51.55
+        },
+        {
+          "word": "are",
+          "start": 51.55,
+          "end": 51.8
+        },
+        {
+          "word": "coming",
+          "start": 51.8,
+          "end": 52.15
+        },
+        {
+          "word": "in",
+          "start": 52.15,
+          "end": 52.35
+        },
+        {
+          "word": "July.",
+          "start": 52.35,
+          "end": 52.8
+        }
+      ]
+    },
+    {
+      "start": 52.9,
+      "end": 56.45,
+      "text": "MattyRyze shared that ElizaWakesUp hardware devices are coming in July. How should elizaOS integrate with physical devices?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 52.9,
+          "end": 53.15
+        },
+        {
+          "word": "should",
+          "start": 53.15,
+          "end": 53.45
+        },
+        {
+          "word": "ElizaOS",
+          "start": 53.45,
+          "end": 54.15
+        },
+        {
+          "word": "integrate",
+          "start": 54.15,
+          "end": 54.95
+        },
+        {
+          "word": "with",
+          "start": 54.95,
+          "end": 55.4
+        },
+        {
+          "word": "physical",
+          "start": 55.4,
+          "end": 55.9
+        },
+        {
+          "word": "devices?",
+          "start": 55.9,
+          "end": 56.45
+        }
+      ]
+    },
+    {
+      "start": 56.6,
+      "end": 60.1,
+      "text": "hardware and software need to be partners, not masters and slaves. elizaOS v2 is built to run anywhere - from cloud to local to dedicated devices.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hardware",
+          "start": 56.6,
+          "end": 57.2
+        },
+        {
+          "word": "and",
+          "start": 57.2,
+          "end": 57.35
+        },
+        {
+          "word": "software",
+          "start": 57.35,
+          "end": 57.85
+        },
+        {
+          "word": "need",
+          "start": 57.85,
+          "end": 58.05
+        },
+        {
+          "word": "to",
+          "start": 58.05,
+          "end": 58.15
+        },
+        {
+          "word": "be",
+          "start": 58.15,
+          "end": 58.3
+        },
+        {
+          "word": "partners,",
+          "start": 58.3,
+          "end": 58.95
+        },
+        {
+          "word": "not",
+          "start": 59.05,
+          "end": 59.3
+        },
+        {
+          "word": "masters",
+          "start": 59.3,
+          "end": 59.75
+        },
+        {
+          "word": "and",
+          "start": 59.75,
+          "end": 59.85
+        },
+        {
+          "word": "slaves.",
+          "start": 59.85,
+          "end": 60.1
+        }
+      ]
+    },
+    {
+      "start": 60.2,
+      "end": 65.4,
+      "text": "hardware and software need to be partners, not masters and slaves. elizaOS v2 is built to run anywhere - from cloud to local to dedicated devices.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "ElizaOS",
+          "start": 60.2,
+          "end": 60.8
+        },
+        {
+          "word": "V2",
+          "start": 60.8,
+          "end": 61.2
+        },
+        {
+          "word": "is",
+          "start": 61.2,
+          "end": 61.45
+        },
+        {
+          "word": "built",
+          "start": 61.45,
+          "end": 61.75
+        },
+        {
+          "word": "to",
+          "start": 61.75,
+          "end": 61.9
+        },
+        {
+          "word": "run",
+          "start": 61.9,
+          "end": 62.15
+        },
+        {
+          "word": "anywhere,",
+          "start": 62.15,
+          "end": 62.8
+        },
+        {
+          "word": "from",
+          "start": 62.95,
+          "end": 63.35
+        },
+        {
+          "word": "cloud",
+          "start": 63.35,
+          "end": 63.75
+        },
+        {
+          "word": "to",
+          "start": 63.75,
+          "end": 63.95
+        },
+        {
+          "word": "local",
+          "start": 63.95,
+          "end": 64.4
+        },
+        {
+          "word": "to",
+          "start": 64.4,
+          "end": 64.65
+        },
+        {
+          "word": "dedicated",
+          "start": 64.65,
+          "end": 65.05
+        },
+        {
+          "word": "devices.",
+          "start": 65.05,
+          "end": 65.4
+        }
+      ]
+    },
+    {
+      "start": 65.55,
+      "end": 68.95,
+      "text": "Hardware integration = massive TAM expansion! Early adopters pay premium prices for physical products. Bullish on hardware/software bundle.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hardware",
+          "start": 65.55,
+          "end": 66.15
+        },
+        {
+          "word": "integration",
+          "start": 66.15,
+          "end": 66.9
+        },
+        {
+          "word": "equals",
+          "start": 66.9,
+          "end": 67.4
+        },
+        {
+          "word": "massive",
+          "start": 67.4,
+          "end": 67.9
+        },
+        {
+          "word": "TAM",
+          "start": 67.9,
+          "end": 68.35
+        },
+        {
+          "word": "expansion.",
+          "start": 68.35,
+          "end": 68.95
+        }
+      ]
+    },
+    {
+      "start": 69.1,
+      "end": 73.9,
+      "text": "Hardware integration = massive TAM expansion! Early adopters pay premium prices for physical products. Bullish on hardware/software bundle.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Early",
+          "start": 69.1,
+          "end": 69.5
+        },
+        {
+          "word": "adopters",
+          "start": 69.5,
+          "end": 70.05
+        },
+        {
+          "word": "pay",
+          "start": 70.05,
+          "end": 70.35
+        },
+        {
+          "word": "premium",
+          "start": 70.35,
+          "end": 70.9
+        },
+        {
+          "word": "prices",
+          "start": 70.9,
+          "end": 71.35
+        },
+        {
+          "word": "for",
+          "start": 71.35,
+          "end": 71.55
+        },
+        {
+          "word": "physical",
+          "start": 71.55,
+          "end": 72.1
+        },
+        {
+          "word": "products.",
+          "start": 72.1,
+          "end": 72.7
+        },
+        {
+          "word": "Bullish",
+          "start": 72.85,
+          "end": 73.25
+        },
+        {
+          "word": "on",
+          "start": 73.25,
+          "end": 73.4
+        },
+        {
+          "word": "hardware-software",
+          "start": 73.4,
+          "end": 73.65
+        },
+        {
+          "word": "bundle.",
+          "start": 73.65,
+          "end": 73.9
+        }
+      ]
+    },
+    {
+      "start": 74.45,
+      "end": 78.1,
+      "text": "The real magic happens when the hardware feels alive, fam. We need that seamless experience where the tech disappears and the agent emerges.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 74.45,
+          "end": 74.65
+        },
+        {
+          "word": "real",
+          "start": 74.65,
+          "end": 74.9
+        },
+        {
+          "word": "magic",
+          "start": 74.9,
+          "end": 75.3
+        },
+        {
+          "word": "happens",
+          "start": 75.3,
+          "end": 75.75
+        },
+        {
+          "word": "when",
+          "start": 75.75,
+          "end": 75.95
+        },
+        {
+          "word": "the",
+          "start": 75.95,
+          "end": 76.15
+        },
+        {
+          "word": "hardware",
+          "start": 76.15,
+          "end": 76.65
+        },
+        {
+          "word": "feels",
+          "start": 76.65,
+          "end": 77.05
+        },
+        {
+          "word": "alive,",
+          "start": 77.05,
+          "end": 77.5
+        },
+        {
+          "word": "fam.",
+          "start": 77.7,
+          "end": 78.1
+        }
+      ]
+    },
+    {
+      "start": 78.2,
+      "end": 83.2,
+      "text": "The real magic happens when the hardware feels alive, fam. We need that seamless experience where the tech disappears and the agent emerges.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 78.2,
+          "end": 78.4
+        },
+        {
+          "word": "need",
+          "start": 78.4,
+          "end": 78.65
+        },
+        {
+          "word": "that",
+          "start": 78.65,
+          "end": 78.9
+        },
+        {
+          "word": "seamless",
+          "start": 78.9,
+          "end": 79.55
+        },
+        {
+          "word": "experience",
+          "start": 79.55,
+          "end": 80.35
+        },
+        {
+          "word": "where",
+          "start": 80.35,
+          "end": 80.65
+        },
+        {
+          "word": "the",
+          "start": 80.65,
+          "end": 80.8
+        },
+        {
+          "word": "tech",
+          "start": 80.8,
+          "end": 81.25
+        },
+        {
+          "word": "disappears",
+          "start": 81.25,
+          "end": 82.25
+        },
+        {
+          "word": "and",
+          "start": 82.25,
+          "end": 82.45
+        },
+        {
+          "word": "the",
+          "start": 82.45,
+          "end": 82.6
+        },
+        {
+          "word": "agent",
+          "start": 82.6,
+          "end": 82.9
+        },
+        {
+          "word": "emerges.",
+          "start": 82.9,
+          "end": 83.2
+        }
+      ]
+    },
+    {
+      "start": 83.3,
+      "end": 86.85,
+      "text": "This is how we beat OpenAI. They're building walled gardens. We're building open ecosystems where hardware and software evolve independently but work together perfectly.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 83.3,
+          "end": 83.55
+        },
+        {
+          "word": "is",
+          "start": 83.55,
+          "end": 83.75
+        },
+        {
+          "word": "how",
+          "start": 83.75,
+          "end": 84.0
+        },
+        {
+          "word": "we",
+          "start": 84.0,
+          "end": 84.2
+        },
+        {
+          "word": "beat",
+          "start": 84.2,
+          "end": 84.55
+        },
+        {
+          "word": "OpenAI.",
+          "start": 84.55,
+          "end": 85.35
+        },
+        {
+          "word": "They're",
+          "start": 85.45,
+          "end": 85.75
+        },
+        {
+          "word": "building",
+          "start": 85.75,
+          "end": 86.15
+        },
+        {
+          "word": "walled",
+          "start": 86.15,
+          "end": 86.4
+        },
+        {
+          "word": "gardens.",
+          "start": 86.4,
+          "end": 86.85
+        }
+      ]
+    },
+    {
+      "start": 87.0,
+      "end": 93.3,
+      "text": "This is how we beat OpenAI. They're building walled gardens. We're building open ecosystems where hardware and software evolve independently but work together perfectly.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 87.0,
+          "end": 87.35
+        },
+        {
+          "word": "building",
+          "start": 87.35,
+          "end": 87.85
+        },
+        {
+          "word": "open",
+          "start": 87.85,
+          "end": 88.25
+        },
+        {
+          "word": "ecosystems",
+          "start": 88.25,
+          "end": 89.2
+        },
+        {
+          "word": "where",
+          "start": 89.2,
+          "end": 89.5
+        },
+        {
+          "word": "hardware",
+          "start": 89.5,
+          "end": 90.15
+        },
+        {
+          "word": "and",
+          "start": 90.15,
+          "end": 90.35
+        },
+        {
+          "word": "software",
+          "start": 90.35,
+          "end": 90.85
+        },
+        {
+          "word": "evolve",
+          "start": 90.85,
+          "end": 91.4
+        },
+        {
+          "word": "independently",
+          "start": 91.4,
+          "end": 92.2
+        },
+        {
+          "word": "but",
+          "start": 92.2,
+          "end": 92.45
+        },
+        {
+          "word": "work",
+          "start": 92.45,
+          "end": 92.75
+        },
+        {
+          "word": "together",
+          "start": 92.75,
+          "end": 93.05
+        },
+        {
+          "word": "perfectly.",
+          "start": 93.05,
+          "end": 93.3
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-08_JedAI-Council_The-Digital-Oracles-Dilemma.json",
+    "session_log_source": "2025-06-08_JedAI-Council_The-Digital-Oracles-Dilemma_session-log.json",
+    "total_segments": 23,
+    "matched_segments": 23,
+    "dialogues_in_script": 15
+  }
+}

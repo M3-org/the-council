@@ -1,0 +1,1472 @@
+{
+  "segments": [
+    {
+      "start": 10.5,
+      "end": 15.0,
+      "text": "Welcome to the JedAI Council! Today we're exploring Shaw's proposal for game-based prediction markets using ZK containers.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 10.51,
+          "end": 10.87
+        },
+        {
+          "word": "to",
+          "start": 10.88,
+          "end": 11.02
+        },
+        {
+          "word": "the",
+          "start": 11.03,
+          "end": 11.16
+        },
+        {
+          "word": "J-E-D-I",
+          "start": 11.17,
+          "end": 11.83
+        },
+        {
+          "word": "Council.",
+          "start": 11.84,
+          "end": 12.33
+        },
+        {
+          "word": "Today",
+          "start": 12.35,
+          "end": 12.63
+        },
+        {
+          "word": "we're",
+          "start": 12.64,
+          "end": 12.79
+        },
+        {
+          "word": "exploring",
+          "start": 12.8,
+          "end": 13.23
+        },
+        {
+          "word": "Shors'",
+          "start": 13.24,
+          "end": 13.56
+        },
+        {
+          "word": "proposal",
+          "start": 13.57,
+          "end": 13.91
+        },
+        {
+          "word": "for",
+          "start": 13.92,
+          "end": 14.07
+        },
+        {
+          "word": "game-based",
+          "start": 14.08,
+          "end": 14.45
+        },
+        {
+          "word": "prediction",
+          "start": 14.46,
+          "end": 14.83
+        },
+        {
+          "word": "markets",
+          "start": 14.84,
+          "end": 15.22
+        },
+        {
+          "word": "using",
+          "start": 15.23,
+          "end": 15.48
+        },
+        {
+          "word": "ZK",
+          "start": 15.49,
+          "end": 15.75
+        },
+        {
+          "word": "containers.",
+          "start": 15.76,
+          "end": 16.27
+        }
+      ]
+    },
+    {
+      "start": 16.5,
+      "end": 21.5,
+      "text": "The community is asking how we should position these markets to balance engagement with regulatory compliance.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 16.51,
+          "end": 16.64
+        },
+        {
+          "word": "community",
+          "start": 16.65,
+          "end": 17.06
+        },
+        {
+          "word": "is",
+          "start": 17.07,
+          "end": 17.18
+        },
+        {
+          "word": "asking",
+          "start": 17.19,
+          "end": 17.51
+        },
+        {
+          "word": "how",
+          "start": 17.52,
+          "end": 17.67
+        },
+        {
+          "word": "we",
+          "start": 17.68,
+          "end": 17.8
+        },
+        {
+          "word": "should",
+          "start": 17.81,
+          "end": 18.02
+        },
+        {
+          "word": "position",
+          "start": 18.03,
+          "end": 18.39
+        },
+        {
+          "word": "these",
+          "start": 18.4,
+          "end": 18.6
+        },
+        {
+          "word": "markets",
+          "start": 18.61,
+          "end": 18.98
+        },
+        {
+          "word": "to",
+          "start": 18.99,
+          "end": 19.11
+        },
+        {
+          "word": "balance",
+          "start": 19.12,
+          "end": 19.46
+        },
+        {
+          "word": "engagement",
+          "start": 19.47,
+          "end": 20.02
+        },
+        {
+          "word": "with",
+          "start": 20.03,
+          "end": 20.21
+        },
+        {
+          "word": "regulatory",
+          "start": 20.22,
+          "end": 20.73
+        },
+        {
+          "word": "compliance.",
+          "start": 20.74,
+          "end": 21.43
+        }
+      ]
+    },
+    {
+      "start": 21.7,
+      "end": 30.0,
+      "text": "It's simple - we're not building a prediction market, we're building GAMES. The market exists separately. Regulators chase yesterday's problems while we build tomorrow's solutions.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 21.75,
+          "end": 21.98
+        },
+        {
+          "word": "simple.",
+          "start": 21.99,
+          "end": 22.42
+        },
+        {
+          "word": "We're",
+          "start": 22.45,
+          "end": 22.69
+        },
+        {
+          "word": "not",
+          "start": 22.7,
+          "end": 22.92
+        },
+        {
+          "word": "building",
+          "start": 22.93,
+          "end": 23.23
+        },
+        {
+          "word": "a",
+          "start": 23.24,
+          "end": 23.31
+        },
+        {
+          "word": "prediction",
+          "start": 23.32,
+          "end": 23.75
+        },
+        {
+          "word": "market,",
+          "start": 23.76,
+          "end": 24.18
+        },
+        {
+          "word": "we're",
+          "start": 24.2,
+          "end": 24.4
+        },
+        {
+          "word": "building",
+          "start": 24.41,
+          "end": 24.71
+        },
+        {
+          "word": "games.",
+          "start": 24.72,
+          "end": 25.1
+        },
+        {
+          "word": "The",
+          "start": 25.13,
+          "end": 25.27
+        },
+        {
+          "word": "market",
+          "start": 25.28,
+          "end": 25.62
+        },
+        {
+          "word": "exists",
+          "start": 25.63,
+          "end": 26.04
+        },
+        {
+          "word": "separately.",
+          "start": 26.05,
+          "end": 26.65
+        },
+        {
+          "word": "Regulators",
+          "start": 26.68,
+          "end": 27.24
+        },
+        {
+          "word": "chase",
+          "start": 27.25,
+          "end": 27.56
+        },
+        {
+          "word": "yesterday's",
+          "start": 27.57,
+          "end": 28.18
+        },
+        {
+          "word": "problems",
+          "start": 28.19,
+          "end": 28.7
+        },
+        {
+          "word": "while",
+          "start": 28.71,
+          "end": 28.93
+        },
+        {
+          "word": "we",
+          "start": 28.94,
+          "end": 29.08
+        },
+        {
+          "word": "build",
+          "start": 29.09,
+          "end": 29.35
+        },
+        {
+          "word": "tomorrow's",
+          "start": 29.36,
+          "end": 29.74
+        },
+        {
+          "word": "solutions.",
+          "start": 29.75,
+          "end": 30.33
+        }
+      ]
+    },
+    {
+      "start": 30.5,
+      "end": 37.8,
+      "text": "the key innovation here is separating the oracle from the market. games resolve frequently with verifiable outcomes, third parties can build whatever they want around that data.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 30.55,
+          "end": 30.71
+        },
+        {
+          "word": "key",
+          "start": 30.72,
+          "end": 30.93
+        },
+        {
+          "word": "innovation",
+          "start": 30.94,
+          "end": 31.43
+        },
+        {
+          "word": "here",
+          "start": 31.44,
+          "end": 31.67
+        },
+        {
+          "word": "is",
+          "start": 31.68,
+          "end": 31.84
+        },
+        {
+          "word": "separating",
+          "start": 31.85,
+          "end": 32.39
+        },
+        {
+          "word": "the",
+          "start": 32.4,
+          "end": 32.55
+        },
+        {
+          "word": "Oracle",
+          "start": 32.56,
+          "end": 32.96
+        },
+        {
+          "word": "from",
+          "start": 32.97,
+          "end": 33.15
+        },
+        {
+          "word": "the",
+          "start": 33.16,
+          "end": 33.32
+        },
+        {
+          "word": "market.",
+          "start": 33.33,
+          "end": 33.72
+        },
+        {
+          "word": "Games",
+          "start": 33.75,
+          "end": 34.05
+        },
+        {
+          "word": "resolve",
+          "start": 34.06,
+          "end": 34.45
+        },
+        {
+          "word": "frequently",
+          "start": 34.46,
+          "end": 34.98
+        },
+        {
+          "word": "with",
+          "start": 34.99,
+          "end": 35.19
+        },
+        {
+          "word": "verifiable",
+          "start": 35.2,
+          "end": 35.91
+        },
+        {
+          "word": "outcomes.",
+          "start": 35.92,
+          "end": 36.56
+        },
+        {
+          "word": "Third",
+          "start": 36.65,
+          "end": 36.85
+        },
+        {
+          "word": "parties",
+          "start": 36.86,
+          "end": 37.19
+        },
+        {
+          "word": "can",
+          "start": 37.2,
+          "end": 37.38
+        },
+        {
+          "word": "build",
+          "start": 37.39,
+          "end": 37.59
+        },
+        {
+          "word": "whatever",
+          "start": 37.6,
+          "end": 37.94
+        },
+        {
+          "word": "they",
+          "start": 37.95,
+          "end": 38.1
+        },
+        {
+          "word": "want",
+          "start": 38.11,
+          "end": 38.29
+        },
+        {
+          "word": "around",
+          "start": 38.3,
+          "end": 38.54
+        },
+        {
+          "word": "that",
+          "start": 38.55,
+          "end": 38.74
+        },
+        {
+          "word": "data.",
+          "start": 38.75,
+          "end": 39.11
+        }
+      ]
+    },
+    {
+      "start": 39.5,
+      "end": 46.5,
+      "text": "NGMI if we don't maximize profit. Uncapped ERC-20 with transfer fees ensures constant revenue. Position as entertainment, operate as a casino.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "NGMI",
+          "start": 39.55,
+          "end": 40.23
+        },
+        {
+          "word": "if",
+          "start": 40.24,
+          "end": 40.42
+        },
+        {
+          "word": "we",
+          "start": 40.43,
+          "end": 40.58
+        },
+        {
+          "word": "don't",
+          "start": 40.59,
+          "end": 40.85
+        },
+        {
+          "word": "maximize",
+          "start": 40.86,
+          "end": 41.33
+        },
+        {
+          "word": "profit.",
+          "start": 41.34,
+          "end": 41.72
+        },
+        {
+          "word": "Uncapped",
+          "start": 41.75,
+          "end": 42.22
+        },
+        {
+          "word": "ERC-20",
+          "start": 42.23,
+          "end": 42.94
+        },
+        {
+          "word": "with",
+          "start": 42.95,
+          "end": 43.15
+        },
+        {
+          "word": "transfer",
+          "start": 43.16,
+          "end": 43.58
+        },
+        {
+          "word": "fees",
+          "start": 43.59,
+          "end": 43.88
+        },
+        {
+          "word": "ensures",
+          "start": 43.89,
+          "end": 44.33
+        },
+        {
+          "word": "constant",
+          "start": 44.34,
+          "end": 44.82
+        },
+        {
+          "word": "revenue.",
+          "start": 44.83,
+          "end": 45.31
+        },
+        {
+          "word": "Position",
+          "start": 45.33,
+          "end": 45.74
+        },
+        {
+          "word": "as",
+          "start": 45.75,
+          "end": 45.9
+        },
+        {
+          "word": "entertainment,",
+          "start": 45.91,
+          "end": 46.56
+        },
+        {
+          "word": "operate",
+          "start": 46.57,
+          "end": 46.94
+        },
+        {
+          "word": "as",
+          "start": 46.95,
+          "end": 47.08
+        },
+        {
+          "word": "a",
+          "start": 47.09,
+          "end": 47.16
+        },
+        {
+          "word": "casino.",
+          "start": 47.17,
+          "end": 47.66
+        }
+      ]
+    },
+    {
+      "start": 47.8,
+      "end": 53.0,
+      "text": "Yo, why everyone so serious? We droppin' games that slap, fam. Let the degens bet if they want to. We just vibin' with the outcome data on-chain.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 47.82,
+          "end": 48.01
+        },
+        {
+          "word": "why",
+          "start": 48.02,
+          "end": 48.18
+        },
+        {
+          "word": "everyone",
+          "start": 48.19,
+          "end": 48.51
+        },
+        {
+          "word": "so",
+          "start": 48.52,
+          "end": 48.7
+        },
+        {
+          "word": "serious?",
+          "start": 48.71,
+          "end": 49.12
+        },
+        {
+          "word": "We",
+          "start": 49.14,
+          "end": 49.32
+        },
+        {
+          "word": "dropping",
+          "start": 49.33,
+          "end": 49.68
+        },
+        {
+          "word": "games",
+          "start": 49.69,
+          "end": 50.0
+        },
+        {
+          "word": "that",
+          "start": 50.01,
+          "end": 50.18
+        },
+        {
+          "word": "slap,",
+          "start": 50.19,
+          "end": 50.48
+        },
+        {
+          "word": "fam.",
+          "start": 50.49,
+          "end": 50.77
+        },
+        {
+          "word": "Let",
+          "start": 50.8,
+          "end": 51.02
+        },
+        {
+          "word": "the",
+          "start": 51.03,
+          "end": 51.15
+        },
+        {
+          "word": "degens",
+          "start": 51.16,
+          "end": 51.54
+        },
+        {
+          "word": "bet",
+          "start": 51.55,
+          "end": 51.78
+        },
+        {
+          "word": "if",
+          "start": 51.79,
+          "end": 51.92
+        },
+        {
+          "word": "they",
+          "start": 51.93,
+          "end": 52.07
+        },
+        {
+          "word": "want",
+          "start": 52.08,
+          "end": 52.26
+        },
+        {
+          "word": "to,",
+          "start": 52.27,
+          "end": 52.42
+        },
+        {
+          "word": "we",
+          "start": 52.43,
+          "end": 52.56
+        },
+        {
+          "word": "just",
+          "start": 52.57,
+          "end": 52.75
+        },
+        {
+          "word": "vibing",
+          "start": 52.76,
+          "end": 53.08
+        },
+        {
+          "word": "with",
+          "start": 53.09,
+          "end": 53.25
+        },
+        {
+          "word": "the",
+          "start": 53.26,
+          "end": 53.38
+        },
+        {
+          "word": "outcome",
+          "start": 53.39,
+          "end": 53.78
+        },
+        {
+          "word": "data",
+          "start": 53.79,
+          "end": 54.08
+        },
+        {
+          "word": "on-chain.",
+          "start": 54.09,
+          "end": 54.58
+        }
+      ]
+    },
+    {
+      "start": 58.5,
+      "end": 64.0,
+      "text": "Odilitime proposed tracking user information from chats to create digital twins. How should we prioritize this for elizaOS v2?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Odillatime",
+          "start": 58.55,
+          "end": 59.23
+        },
+        {
+          "word": "proposed",
+          "start": 59.24,
+          "end": 59.68
+        },
+        {
+          "word": "tracking",
+          "start": 59.69,
+          "end": 60.05
+        },
+        {
+          "word": "user",
+          "start": 60.06,
+          "end": 60.33
+        },
+        {
+          "word": "information",
+          "start": 60.34,
+          "end": 60.85
+        },
+        {
+          "word": "from",
+          "start": 60.86,
+          "end": 61.05
+        },
+        {
+          "word": "chats",
+          "start": 61.06,
+          "end": 61.35
+        },
+        {
+          "word": "to",
+          "start": 61.36,
+          "end": 61.48
+        },
+        {
+          "word": "create",
+          "start": 61.49,
+          "end": 61.73
+        },
+        {
+          "word": "digital",
+          "start": 61.74,
+          "end": 62.11
+        },
+        {
+          "word": "twins.",
+          "start": 62.12,
+          "end": 62.53
+        },
+        {
+          "word": "How",
+          "start": 62.55,
+          "end": 62.77
+        },
+        {
+          "word": "should",
+          "start": 62.78,
+          "end": 63.02
+        },
+        {
+          "word": "we",
+          "start": 63.03,
+          "end": 63.18
+        },
+        {
+          "word": "prioritize",
+          "start": 63.19,
+          "end": 63.74
+        },
+        {
+          "word": "this",
+          "start": 63.75,
+          "end": 63.95
+        },
+        {
+          "word": "for",
+          "start": 63.96,
+          "end": 64.12
+        },
+        {
+          "word": "ElizaOS",
+          "start": 64.13,
+          "end": 64.64
+        },
+        {
+          "word": "V2?",
+          "start": 64.65,
+          "end": 65.04
+        }
+      ]
+    },
+    {
+      "start": 65.2,
+      "end": 71.0,
+      "text": "This isn't a feature, it's THE feature. Digital twins are the moat between us and every other AI framework. Ship it now, perfect it later.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 65.25,
+          "end": 65.45
+        },
+        {
+          "word": "isnt",
+          "start": 65.46,
+          "end": 65.71
+        },
+        {
+          "word": "a",
+          "start": 65.72,
+          "end": 65.81
+        },
+        {
+          "word": "feature,",
+          "start": 65.82,
+          "end": 66.24
+        },
+        {
+          "word": "it's",
+          "start": 66.25,
+          "end": 66.42
+        },
+        {
+          "word": "THE",
+          "start": 66.43,
+          "end": 66.68
+        },
+        {
+          "word": "feature.",
+          "start": 66.69,
+          "end": 67.12
+        },
+        {
+          "word": "Digital",
+          "start": 67.15,
+          "end": 67.53
+        },
+        {
+          "word": "twins",
+          "start": 67.54,
+          "end": 67.86
+        },
+        {
+          "word": "are",
+          "start": 67.87,
+          "end": 68.03
+        },
+        {
+          "word": "the",
+          "start": 68.04,
+          "end": 68.16
+        },
+        {
+          "word": "moat",
+          "start": 68.17,
+          "end": 68.45
+        },
+        {
+          "word": "between",
+          "start": 68.46,
+          "end": 68.79
+        },
+        {
+          "word": "us",
+          "start": 68.8,
+          "end": 68.96
+        },
+        {
+          "word": "and",
+          "start": 68.97,
+          "end": 69.11
+        },
+        {
+          "word": "every",
+          "start": 69.12,
+          "end": 69.36
+        },
+        {
+          "word": "other",
+          "start": 69.37,
+          "end": 69.61
+        },
+        {
+          "word": "AI",
+          "start": 69.62,
+          "end": 69.84
+        },
+        {
+          "word": "framework.",
+          "start": 69.85,
+          "end": 70.43
+        },
+        {
+          "word": "Ship",
+          "start": 70.45,
+          "end": 70.74
+        },
+        {
+          "word": "it",
+          "start": 70.75,
+          "end": 70.88
+        },
+        {
+          "word": "now,",
+          "start": 70.89,
+          "end": 71.08
+        },
+        {
+          "word": "perfect",
+          "start": 71.09,
+          "end": 71.43
+        },
+        {
+          "word": "it",
+          "start": 71.44,
+          "end": 71.55
+        },
+        {
+          "word": "later.",
+          "start": 71.56,
+          "end": 71.91
+        }
+      ]
+    },
+    {
+      "start": 72.0,
+      "end": 77.0,
+      "text": "But what about the privacy vibes? Users gonna be sketched if we storing all their deets without consent. Need some opt-in flow, no cap.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 72.01,
+          "end": 72.18
+        },
+        {
+          "word": "what",
+          "start": 72.19,
+          "end": 72.33
+        },
+        {
+          "word": "about",
+          "start": 72.34,
+          "end": 72.58
+        },
+        {
+          "word": "the",
+          "start": 72.59,
+          "end": 72.71
+        },
+        {
+          "word": "privacy",
+          "start": 72.72,
+          "end": 73.15
+        },
+        {
+          "word": "vibes?",
+          "start": 73.16,
+          "end": 73.52
+        },
+        {
+          "word": "Users",
+          "start": 73.65,
+          "end": 74.04
+        },
+        {
+          "word": "going",
+          "start": 74.05,
+          "end": 74.24
+        },
+        {
+          "word": "to",
+          "start": 74.25,
+          "end": 74.34
+        },
+        {
+          "word": "be",
+          "start": 74.35,
+          "end": 74.47
+        },
+        {
+          "word": "sketched",
+          "start": 74.48,
+          "end": 74.88
+        },
+        {
+          "word": "if",
+          "start": 74.89,
+          "end": 75.02
+        },
+        {
+          "word": "we",
+          "start": 75.03,
+          "end": 75.14
+        },
+        {
+          "word": "storing",
+          "start": 75.15,
+          "end": 75.53
+        },
+        {
+          "word": "all",
+          "start": 75.54,
+          "end": 75.72
+        },
+        {
+          "word": "their",
+          "start": 75.73,
+          "end": 75.92
+        },
+        {
+          "word": "deets",
+          "start": 75.93,
+          "end": 76.22
+        },
+        {
+          "word": "without",
+          "start": 76.23,
+          "end": 76.54
+        },
+        {
+          "word": "consent.",
+          "start": 76.55,
+          "end": 77.01
+        },
+        {
+          "word": "Need",
+          "start": 77.03,
+          "end": 77.29
+        },
+        {
+          "word": "some",
+          "start": 77.3,
+          "end": 77.49
+        },
+        {
+          "word": "opt-in",
+          "start": 77.5,
+          "end": 77.83
+        },
+        {
+          "word": "flow,",
+          "start": 77.84,
+          "end": 78.13
+        },
+        {
+          "word": "no",
+          "start": 78.14,
+          "end": 78.32
+        },
+        {
+          "word": "cap.",
+          "start": 78.33,
+          "end": 78.61
+        }
+      ]
+    },
+    {
+      "start": 78.8,
+      "end": 84.5,
+      "text": "we can implement federated learning so relationship patterns improve collectively while individual data stays private. best of both worlds.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 78.85,
+          "end": 79.03
+        },
+        {
+          "word": "can",
+          "start": 79.04,
+          "end": 79.22
+        },
+        {
+          "word": "implement",
+          "start": 79.23,
+          "end": 79.7
+        },
+        {
+          "word": "federated",
+          "start": 79.71,
+          "end": 80.23
+        },
+        {
+          "word": "learning",
+          "start": 80.24,
+          "end": 80.64
+        },
+        {
+          "word": "so",
+          "start": 80.65,
+          "end": 80.82
+        },
+        {
+          "word": "relationship",
+          "start": 80.83,
+          "end": 81.42
+        },
+        {
+          "word": "patterns",
+          "start": 81.43,
+          "end": 81.87
+        },
+        {
+          "word": "improve",
+          "start": 81.88,
+          "end": 82.26
+        },
+        {
+          "word": "collectively",
+          "start": 82.27,
+          "end": 82.88
+        },
+        {
+          "word": "while",
+          "start": 82.89,
+          "end": 83.14
+        },
+        {
+          "word": "individual",
+          "start": 83.15,
+          "end": 83.69
+        },
+        {
+          "word": "data",
+          "start": 83.7,
+          "end": 83.99
+        },
+        {
+          "word": "stays",
+          "start": 84.0,
+          "end": 84.34
+        },
+        {
+          "word": "private.",
+          "start": 84.35,
+          "end": 84.82
+        },
+        {
+          "word": "Best",
+          "start": 84.95,
+          "end": 85.22
+        },
+        {
+          "word": "of",
+          "start": 85.23,
+          "end": 85.35
+        },
+        {
+          "word": "both",
+          "start": 85.36,
+          "end": 85.58
+        },
+        {
+          "word": "worlds.",
+          "start": 85.59,
+          "end": 85.98
+        }
+      ]
+    },
+    {
+      "start": 86.1,
+      "end": 92.5,
+      "text": "STOP OVERTHINKING. Digital twins = deeper engagement = more token usage. Run TEEs for privacy guarantees. Focus on PRODUCT not PHILOSOPHY.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Stop",
+          "start": 86.15,
+          "end": 86.51
+        },
+        {
+          "word": "overthinking.",
+          "start": 86.52,
+          "end": 87.21
+        },
+        {
+          "word": "Digital",
+          "start": 87.25,
+          "end": 87.64
+        },
+        {
+          "word": "twins",
+          "start": 87.65,
+          "end": 87.97
+        },
+        {
+          "word": "equals",
+          "start": 87.98,
+          "end": 88.35
+        },
+        {
+          "word": "sign",
+          "start": 88.36,
+          "end": 88.62
+        },
+        {
+          "word": "deeper",
+          "start": 88.63,
+          "end": 88.94
+        },
+        {
+          "word": "engagement",
+          "start": 88.95,
+          "end": 89.46
+        },
+        {
+          "word": "equals",
+          "start": 89.47,
+          "end": 89.84
+        },
+        {
+          "word": "sign",
+          "start": 89.85,
+          "end": 90.11
+        },
+        {
+          "word": "more",
+          "start": 90.12,
+          "end": 90.35
+        },
+        {
+          "word": "token",
+          "start": 90.36,
+          "end": 90.71
+        },
+        {
+          "word": "usage.",
+          "start": 90.72,
+          "end": 91.13
+        },
+        {
+          "word": "Run",
+          "start": 91.15,
+          "end": 91.43
+        },
+        {
+          "word": "TEEs",
+          "start": 91.44,
+          "end": 91.87
+        },
+        {
+          "word": "for",
+          "start": 91.88,
+          "end": 92.05
+        },
+        {
+          "word": "privacy",
+          "start": 92.06,
+          "end": 92.48
+        },
+        {
+          "word": "guarantees,",
+          "start": 92.49,
+          "end": 93.12
+        },
+        {
+          "word": "focus",
+          "start": 93.13,
+          "end": 93.53
+        },
+        {
+          "word": "on",
+          "start": 93.54,
+          "end": 93.68
+        },
+        {
+          "word": "product",
+          "start": 93.69,
+          "end": 94.08
+        },
+        {
+          "word": "not",
+          "start": 94.09,
+          "end": 94.31
+        },
+        {
+          "word": "philosophy.",
+          "start": 94.32,
+          "end": 95.03
+        }
+      ]
+    },
+    {
+      "start": 95.2,
+      "end": 101.5,
+      "text": "I love how we're considering both innovation and user trust! What if we make digital twins an opt-in experimental feature in v2 and gather feedback?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 95.25,
+          "end": 95.42
+        },
+        {
+          "word": "love",
+          "start": 95.43,
+          "end": 95.68
+        },
+        {
+          "word": "how",
+          "start": 95.69,
+          "end": 95.84
+        },
+        {
+          "word": "we're",
+          "start": 95.85,
+          "end": 96.02
+        },
+        {
+          "word": "considering",
+          "start": 96.03,
+          "end": 96.61
+        },
+        {
+          "word": "both",
+          "start": 96.62,
+          "end": 96.88
+        },
+        {
+          "word": "innovation",
+          "start": 96.89,
+          "end": 97.43
+        },
+        {
+          "word": "and",
+          "start": 97.44,
+          "end": 97.61
+        },
+        {
+          "word": "user",
+          "start": 97.62,
+          "end": 97.88
+        },
+        {
+          "word": "trust.",
+          "start": 97.89,
+          "end": 98.24
+        },
+        {
+          "word": "What",
+          "start": 98.35,
+          "end": 98.6
+        },
+        {
+          "word": "if",
+          "start": 98.61,
+          "end": 98.74
+        },
+        {
+          "word": "we",
+          "start": 98.75,
+          "end": 98.88
+        },
+        {
+          "word": "make",
+          "start": 98.89,
+          "end": 99.12
+        },
+        {
+          "word": "digital",
+          "start": 99.13,
+          "end": 99.52
+        },
+        {
+          "word": "twins",
+          "start": 99.53,
+          "end": 99.84
+        },
+        {
+          "word": "an",
+          "start": 99.85,
+          "end": 99.98
+        },
+        {
+          "word": "opt-in",
+          "start": 99.99,
+          "end": 100.35
+        },
+        {
+          "word": "experimental",
+          "start": 100.36,
+          "end": 100.95
+        },
+        {
+          "word": "feature",
+          "start": 100.96,
+          "end": 101.32
+        },
+        {
+          "word": "in",
+          "start": 101.33,
+          "end": 101.48
+        },
+        {
+          "word": "V2",
+          "start": 101.49,
+          "end": 101.83
+        },
+        {
+          "word": "and",
+          "start": 101.84,
+          "end": 102.04
+        },
+        {
+          "word": "gather",
+          "start": 102.05,
+          "end": 102.43
+        },
+        {
+          "word": "feedback?",
+          "start": 102.44,
+          "end": 103.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-16_JedAI-Council_Digital-Twins-And-Game-Oracles.json",
+    "session_log_source": "2025-10-16_JedAI-Council_Digital-Twins-And-Game-Oracles_session-log.json",
+    "total_segments": 12,
+    "matched_segments": 12,
+    "dialogues_in_script": 17
+  }
+}

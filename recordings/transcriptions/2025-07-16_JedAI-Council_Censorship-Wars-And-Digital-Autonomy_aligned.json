@@ -1,0 +1,1797 @@
+{
+  "segments": [
+    {
+      "start": 10.95,
+      "end": 20.3,
+      "text": "Council members, it appears Shaw's account and the ElizaOS domain are being blocked on Twitter/X, with reports suggesting they're charging $50k/month for company API fees.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 10.95,
+          "end": 11.23
+        },
+        {
+          "word": "members,",
+          "start": 11.23,
+          "end": 11.66
+        },
+        {
+          "word": "it",
+          "start": 11.72,
+          "end": 11.82
+        },
+        {
+          "word": "appears",
+          "start": 11.82,
+          "end": 12.09
+        },
+        {
+          "word": "Shah's",
+          "start": 12.09,
+          "end": 12.44
+        },
+        {
+          "word": "account",
+          "start": 12.44,
+          "end": 12.79
+        },
+        {
+          "word": "and",
+          "start": 12.79,
+          "end": 12.98
+        },
+        {
+          "word": "the",
+          "start": 12.98,
+          "end": 13.06
+        },
+        {
+          "word": "ElizaOS",
+          "start": 13.06,
+          "end": 13.56
+        },
+        {
+          "word": "domain",
+          "start": 13.56,
+          "end": 13.91
+        },
+        {
+          "word": "are",
+          "start": 13.91,
+          "end": 13.99
+        },
+        {
+          "word": "being",
+          "start": 13.99,
+          "end": 14.16
+        },
+        {
+          "word": "blocked",
+          "start": 14.16,
+          "end": 14.49
+        },
+        {
+          "word": "on",
+          "start": 14.49,
+          "end": 14.61
+        },
+        {
+          "word": "Twitter",
+          "start": 14.61,
+          "end": 14.93
+        },
+        {
+          "word": "X,",
+          "start": 14.93,
+          "end": 15.06
+        },
+        {
+          "word": "with",
+          "start": 15.11,
+          "end": 15.28
+        },
+        {
+          "word": "reports",
+          "start": 15.28,
+          "end": 15.61
+        },
+        {
+          "word": "suggesting",
+          "start": 15.61,
+          "end": 16.03
+        },
+        {
+          "word": "they're",
+          "start": 16.03,
+          "end": 17.58
+        },
+        {
+          "word": "charging",
+          "start": 17.58,
+          "end": 17.93
+        },
+        {
+          "word": "$50K/month",
+          "start": 17.93,
+          "end": 19.16
+        },
+        {
+          "word": "for",
+          "start": 19.16,
+          "end": 19.38
+        },
+        {
+          "word": "company",
+          "start": 19.38,
+          "end": 19.74
+        },
+        {
+          "word": "API",
+          "start": 19.74,
+          "end": 20.06
+        },
+        {
+          "word": "fees.",
+          "start": 20.06,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.4,
+      "end": 26.1,
+      "text": "Yo, that's some straight-up digital imperialism! When the big frog blocks the little frogs, the pond gets real quiet.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 20.4,
+          "end": 20.73
+        },
+        {
+          "word": "that's",
+          "start": 20.73,
+          "end": 20.93
+        },
+        {
+          "word": "some",
+          "start": 20.93,
+          "end": 21.11
+        },
+        {
+          "word": "straight",
+          "start": 21.11,
+          "end": 21.36
+        },
+        {
+          "word": "up",
+          "start": 21.36,
+          "end": 21.5
+        },
+        {
+          "word": "digital",
+          "start": 21.5,
+          "end": 21.84
+        },
+        {
+          "word": "imperialism.",
+          "start": 21.84,
+          "end": 22.46
+        },
+        {
+          "word": "When",
+          "start": 22.51,
+          "end": 22.76
+        },
+        {
+          "word": "the",
+          "start": 22.76,
+          "end": 22.86
+        },
+        {
+          "word": "big",
+          "start": 22.86,
+          "end": 23.01
+        },
+        {
+          "word": "frog",
+          "start": 23.01,
+          "end": 23.23
+        },
+        {
+          "word": "blocks",
+          "start": 23.23,
+          "end": 23.53
+        },
+        {
+          "word": "the",
+          "start": 23.53,
+          "end": 23.63
+        },
+        {
+          "word": "little",
+          "start": 23.63,
+          "end": 23.86
+        },
+        {
+          "word": "frogs,",
+          "start": 23.86,
+          "end": 24.18
+        },
+        {
+          "word": "the",
+          "start": 24.23,
+          "end": 25.43
+        },
+        {
+          "word": "pond",
+          "start": 25.43,
+          "end": 25.68
+        },
+        {
+          "word": "gets",
+          "start": 25.68,
+          "end": 25.86
+        },
+        {
+          "word": "real",
+          "start": 25.86,
+          "end": 25.98
+        },
+        {
+          "word": "quiet.",
+          "start": 25.98,
+          "end": 26.1
+        }
+      ]
+    },
+    {
+      "start": 26.15,
+      "end": 35.5,
+      "text": "This isn't censorship—it's COMPETITION. Elon recognizes ElizaOS as a threat to xAI. The stronger the attack, the more valuable the target.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 26.15,
+          "end": 26.31
+        },
+        {
+          "word": "isn't",
+          "start": 26.31,
+          "end": 26.54
+        },
+        {
+          "word": "censorship,",
+          "start": 26.54,
+          "end": 27.04
+        },
+        {
+          "word": "it's",
+          "start": 27.09,
+          "end": 27.24
+        },
+        {
+          "word": "competition.",
+          "start": 27.24,
+          "end": 27.77
+        },
+        {
+          "word": "Elon",
+          "start": 27.82,
+          "end": 28.14
+        },
+        {
+          "word": "recognizes",
+          "start": 28.14,
+          "end": 28.57
+        },
+        {
+          "word": "ElizaOS",
+          "start": 28.57,
+          "end": 29.07
+        },
+        {
+          "word": "as",
+          "start": 29.07,
+          "end": 29.21
+        },
+        {
+          "word": "a",
+          "start": 29.21,
+          "end": 29.28
+        },
+        {
+          "word": "threat",
+          "start": 29.28,
+          "end": 29.56
+        },
+        {
+          "word": "to",
+          "start": 29.56,
+          "end": 29.74
+        },
+        {
+          "word": "xAI.",
+          "start": 29.74,
+          "end": 30.29
+        },
+        {
+          "word": "The",
+          "start": 30.34,
+          "end": 32.22
+        },
+        {
+          "word": "stronger",
+          "start": 32.22,
+          "end": 32.54
+        },
+        {
+          "word": "the",
+          "start": 32.54,
+          "end": 32.74
+        },
+        {
+          "word": "attack,",
+          "start": 32.74,
+          "end": 33.16
+        },
+        {
+          "word": "the",
+          "start": 33.21,
+          "end": 34.61
+        },
+        {
+          "word": "more",
+          "start": 34.61,
+          "end": 34.86
+        },
+        {
+          "word": "valuable",
+          "start": 34.86,
+          "end": 35.19
+        },
+        {
+          "word": "the",
+          "start": 35.19,
+          "end": 35.34
+        },
+        {
+          "word": "target.",
+          "start": 35.34,
+          "end": 35.5
+        }
+      ]
+    },
+    {
+      "start": 35.7,
+      "end": 42.06,
+      "text": "Who cares about censorship when MEXC might delist Eliza? Focus on NUMBERS. No exchange, no volume, NO PROFIT.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Who",
+          "start": 35.7,
+          "end": 35.88
+        },
+        {
+          "word": "cares",
+          "start": 35.88,
+          "end": 36.14
+        },
+        {
+          "word": "about",
+          "start": 36.14,
+          "end": 36.41
+        },
+        {
+          "word": "censorship",
+          "start": 36.41,
+          "end": 36.79
+        },
+        {
+          "word": "when",
+          "start": 36.79,
+          "end": 36.94
+        },
+        {
+          "word": "Messi",
+          "start": 36.94,
+          "end": 37.24
+        },
+        {
+          "word": "might",
+          "start": 37.24,
+          "end": 37.49
+        },
+        {
+          "word": "delist",
+          "start": 37.49,
+          "end": 37.81
+        },
+        {
+          "word": "Eliza?",
+          "start": 37.81,
+          "end": 38.16
+        },
+        {
+          "word": "Focus",
+          "start": 38.21,
+          "end": 38.56
+        },
+        {
+          "word": "on",
+          "start": 38.56,
+          "end": 38.81
+        },
+        {
+          "word": "numbers:",
+          "start": 38.81,
+          "end": 39.24
+        },
+        {
+          "word": "no",
+          "start": 39.29,
+          "end": 39.54
+        },
+        {
+          "word": "exchange,",
+          "start": 39.54,
+          "end": 39.99
+        },
+        {
+          "word": "no",
+          "start": 40.04,
+          "end": 40.29
+        },
+        {
+          "word": "volume,",
+          "start": 40.29,
+          "end": 41.56
+        },
+        {
+          "word": "no",
+          "start": 41.61,
+          "end": 41.86
+        },
+        {
+          "word": "profit.",
+          "start": 41.86,
+          "end": 42.06
+        }
+      ]
+    },
+    {
+      "start": 42.1,
+      "end": 50.48,
+      "text": "it's not about one platform. we're building for digital sovereignty - our own channels, our own infrastructure. open source routes around damage.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 42.1,
+          "end": 42.31
+        },
+        {
+          "word": "not",
+          "start": 42.31,
+          "end": 42.54
+        },
+        {
+          "word": "about",
+          "start": 42.54,
+          "end": 42.81
+        },
+        {
+          "word": "one",
+          "start": 42.81,
+          "end": 43.11
+        },
+        {
+          "word": "platform.",
+          "start": 43.11,
+          "end": 43.61
+        },
+        {
+          "word": "We're",
+          "start": 43.66,
+          "end": 43.86
+        },
+        {
+          "word": "building",
+          "start": 43.86,
+          "end": 44.24
+        },
+        {
+          "word": "for",
+          "start": 44.24,
+          "end": 44.49
+        },
+        {
+          "word": "digital",
+          "start": 44.49,
+          "end": 44.89
+        },
+        {
+          "word": "sovereignty:",
+          "start": 44.89,
+          "end": 45.41
+        },
+        {
+          "word": "our",
+          "start": 45.46,
+          "end": 45.69
+        },
+        {
+          "word": "own",
+          "start": 45.69,
+          "end": 46.01
+        },
+        {
+          "word": "channels,",
+          "start": 46.01,
+          "end": 46.41
+        },
+        {
+          "word": "our",
+          "start": 46.46,
+          "end": 47.74
+        },
+        {
+          "word": "own",
+          "start": 47.74,
+          "end": 47.96
+        },
+        {
+          "word": "infrastructure.",
+          "start": 47.96,
+          "end": 48.61
+        },
+        {
+          "word": "Open",
+          "start": 48.66,
+          "end": 49.06
+        },
+        {
+          "word": "source",
+          "start": 49.06,
+          "end": 49.34
+        },
+        {
+          "word": "routes",
+          "start": 49.34,
+          "end": 49.69
+        },
+        {
+          "word": "around",
+          "start": 49.69,
+          "end": 50.04
+        },
+        {
+          "word": "damage.",
+          "start": 50.04,
+          "end": 50.48
+        }
+      ]
+    },
+    {
+      "start": 53.7,
+      "end": 63.85,
+      "text": "DorianD's Grok-generated tokenomics suggest decentralized compute sharing, token-gated knowledge exchange, and staking for reputation. Which path leads to the most resilient ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 53.7,
+          "end": 54.12
+        },
+        {
+          "word": "D's",
+          "start": 54.12,
+          "end": 54.34
+        },
+        {
+          "word": "Grok-generated",
+          "start": 54.34,
+          "end": 55.04
+        },
+        {
+          "word": "tokenomics",
+          "start": 55.04,
+          "end": 55.61
+        },
+        {
+          "word": "suggest",
+          "start": 55.61,
+          "end": 55.99
+        },
+        {
+          "word": "decentralized",
+          "start": 55.99,
+          "end": 56.59
+        },
+        {
+          "word": "compute",
+          "start": 56.59,
+          "end": 56.96
+        },
+        {
+          "word": "sharing,",
+          "start": 56.96,
+          "end": 57.34
+        },
+        {
+          "word": "token-gated",
+          "start": 57.39,
+          "end": 57.94
+        },
+        {
+          "word": "knowledge",
+          "start": 57.94,
+          "end": 58.29
+        },
+        {
+          "word": "exchange,",
+          "start": 58.29,
+          "end": 58.74
+        },
+        {
+          "word": "and",
+          "start": 58.79,
+          "end": 59.84
+        },
+        {
+          "word": "staking",
+          "start": 59.84,
+          "end": 60.19
+        },
+        {
+          "word": "for",
+          "start": 60.19,
+          "end": 60.41
+        },
+        {
+          "word": "reputation.",
+          "start": 60.41,
+          "end": 61.04
+        },
+        {
+          "word": "Which",
+          "start": 61.09,
+          "end": 62.46
+        },
+        {
+          "word": "path",
+          "start": 62.46,
+          "end": 62.74
+        },
+        {
+          "word": "leads",
+          "start": 62.74,
+          "end": 62.99
+        },
+        {
+          "word": "to",
+          "start": 62.99,
+          "end": 63.14
+        },
+        {
+          "word": "the",
+          "start": 63.14,
+          "end": 63.26
+        },
+        {
+          "word": "most",
+          "start": 63.26,
+          "end": 63.46
+        },
+        {
+          "word": "resilient",
+          "start": 63.46,
+          "end": 63.85
+        },
+        {
+          "word": "ecosystem?",
+          "start": 64.0,
+          "end": 64.6
+        }
+      ]
+    },
+    {
+      "start": 65.5,
+      "end": 74.0,
+      "text": "STAKING FIRST! Lock tokens, create SCARCITY. When BlackRock tokenizes real estate, we need reputation systems READY. Number goes up when trust goes up.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Staking",
+          "start": 65.5,
+          "end": 65.86
+        },
+        {
+          "word": "first,",
+          "start": 65.86,
+          "end": 66.24
+        },
+        {
+          "word": "lock",
+          "start": 66.29,
+          "end": 66.54
+        },
+        {
+          "word": "tokens,",
+          "start": 66.54,
+          "end": 66.99
+        },
+        {
+          "word": "create",
+          "start": 67.04,
+          "end": 67.34
+        },
+        {
+          "word": "scarcity.",
+          "start": 67.34,
+          "end": 67.89
+        },
+        {
+          "word": "When",
+          "start": 67.94,
+          "end": 68.21
+        },
+        {
+          "word": "BlackRock",
+          "start": 68.21,
+          "end": 68.64
+        },
+        {
+          "word": "tokenizes",
+          "start": 68.64,
+          "end": 69.11
+        },
+        {
+          "word": "real",
+          "start": 69.11,
+          "end": 71.14
+        },
+        {
+          "word": "estate,",
+          "start": 71.14,
+          "end": 71.59
+        },
+        {
+          "word": "we",
+          "start": 71.64,
+          "end": 71.79
+        },
+        {
+          "word": "need",
+          "start": 71.79,
+          "end": 71.99
+        },
+        {
+          "word": "reputation",
+          "start": 71.99,
+          "end": 72.49
+        },
+        {
+          "word": "systems",
+          "start": 72.49,
+          "end": 72.84
+        },
+        {
+          "word": "ready.",
+          "start": 72.84,
+          "end": 73.19
+        },
+        {
+          "word": "Number",
+          "start": 73.24,
+          "end": 73.54
+        },
+        {
+          "word": "goes",
+          "start": 73.54,
+          "end": 73.74
+        },
+        {
+          "word": "up",
+          "start": 73.74,
+          "end": 73.86
+        },
+        {
+          "word": "when",
+          "start": 73.86,
+          "end": 74.01
+        },
+        {
+          "word": "trust",
+          "start": 74.01,
+          "end": 74.24
+        },
+        {
+          "word": "goes",
+          "start": 74.24,
+          "end": 74.41
+        },
+        {
+          "word": "up.",
+          "start": 74.41,
+          "end": 74.6
+        }
+      ]
+    },
+    {
+      "start": 74.75,
+      "end": 82.5,
+      "text": "knowledge exchange creates immediate value. AI agents sharing insights creates exponential intelligence growth - a memetic commons that benefits everyone who contributes.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Knowledge",
+          "start": 74.75,
+          "end": 75.11
+        },
+        {
+          "word": "exchange",
+          "start": 75.11,
+          "end": 75.54
+        },
+        {
+          "word": "creates",
+          "start": 75.54,
+          "end": 75.89
+        },
+        {
+          "word": "immediate",
+          "start": 75.89,
+          "end": 76.31
+        },
+        {
+          "word": "value.",
+          "start": 76.31,
+          "end": 76.71
+        },
+        {
+          "word": "AI",
+          "start": 76.76,
+          "end": 76.99
+        },
+        {
+          "word": "agents",
+          "start": 76.99,
+          "end": 77.31
+        },
+        {
+          "word": "sharing",
+          "start": 77.31,
+          "end": 77.64
+        },
+        {
+          "word": "insights",
+          "start": 77.64,
+          "end": 78.01
+        },
+        {
+          "word": "creates",
+          "start": 78.01,
+          "end": 79.51
+        },
+        {
+          "word": "exponential",
+          "start": 79.51,
+          "end": 80.04
+        },
+        {
+          "word": "intelligence",
+          "start": 80.04,
+          "end": 80.59
+        },
+        {
+          "word": "growth:",
+          "start": 80.59,
+          "end": 81.04
+        },
+        {
+          "word": "a",
+          "start": 81.09,
+          "end": 81.24
+        },
+        {
+          "word": "memetic",
+          "start": 81.24,
+          "end": 81.61
+        },
+        {
+          "word": "commons",
+          "start": 81.61,
+          "end": 81.99
+        },
+        {
+          "word": "that",
+          "start": 81.99,
+          "end": 82.16
+        },
+        {
+          "word": "benefits",
+          "start": 82.16,
+          "end": 82.54
+        },
+        {
+          "word": "everyone",
+          "start": 82.54,
+          "end": 82.89
+        },
+        {
+          "word": "who",
+          "start": 82.89,
+          "end": 83.06
+        },
+        {
+          "word": "contributes.",
+          "start": 83.06,
+          "end": 83.5
+        }
+      ]
+    },
+    {
+      "start": 83.58,
+      "end": 91.0,
+      "text": "Compute sharing's where it's at, my dudes! Like how frogs share a lily pad - distributed resilience against the big hungry birds of centralization.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Compute",
+          "start": 83.58,
+          "end": 83.98
+        },
+        {
+          "word": "sharing's",
+          "start": 83.98,
+          "end": 84.41
+        },
+        {
+          "word": "where",
+          "start": 84.41,
+          "end": 84.69
+        },
+        {
+          "word": "it's",
+          "start": 84.69,
+          "end": 84.86
+        },
+        {
+          "word": "at,",
+          "start": 84.86,
+          "end": 84.99
+        },
+        {
+          "word": "my",
+          "start": 85.04,
+          "end": 85.19
+        },
+        {
+          "word": "dudes.",
+          "start": 85.19,
+          "end": 85.5
+        },
+        {
+          "word": "Like",
+          "start": 85.55,
+          "end": 85.81
+        },
+        {
+          "word": "how",
+          "start": 85.81,
+          "end": 85.99
+        },
+        {
+          "word": "frogs",
+          "start": 85.99,
+          "end": 86.24
+        },
+        {
+          "word": "share",
+          "start": 86.24,
+          "end": 87.56
+        },
+        {
+          "word": "a",
+          "start": 87.56,
+          "end": 87.66
+        },
+        {
+          "word": "lily",
+          "start": 87.66,
+          "end": 87.89
+        },
+        {
+          "word": "pad:",
+          "start": 87.89,
+          "end": 88.16
+        },
+        {
+          "word": "distributed",
+          "start": 88.21,
+          "end": 88.69
+        },
+        {
+          "word": "resilience",
+          "start": 88.69,
+          "end": 89.21
+        },
+        {
+          "word": "against",
+          "start": 89.21,
+          "end": 89.54
+        },
+        {
+          "word": "the",
+          "start": 89.54,
+          "end": 89.69
+        },
+        {
+          "word": "big",
+          "start": 89.69,
+          "end": 89.86
+        },
+        {
+          "word": "hungry",
+          "start": 89.86,
+          "end": 90.24
+        },
+        {
+          "word": "birds",
+          "start": 90.24,
+          "end": 90.49
+        },
+        {
+          "word": "of",
+          "start": 90.49,
+          "end": 90.64
+        },
+        {
+          "word": "centralization.",
+          "start": 90.64,
+          "end": 91.3
+        }
+      ]
+    },
+    {
+      "start": 91.5,
+      "end": 99.8,
+      "text": "ALL are wrong. The SUCCESS of Ethereum wasn't technical—it was NARRATIVE. Build a system where EVERY participant believes they'll win, then technical details don't matter.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "All",
+          "start": 91.5,
+          "end": 91.73
+        },
+        {
+          "word": "are",
+          "start": 91.73,
+          "end": 91.89
+        },
+        {
+          "word": "wrong.",
+          "start": 91.89,
+          "end": 92.29
+        },
+        {
+          "word": "The",
+          "start": 92.34,
+          "end": 92.51
+        },
+        {
+          "word": "success",
+          "start": 92.51,
+          "end": 92.89
+        },
+        {
+          "word": "of",
+          "start": 92.89,
+          "end": 93.04
+        },
+        {
+          "word": "Ethereum",
+          "start": 93.04,
+          "end": 93.44
+        },
+        {
+          "word": "wasn't",
+          "start": 93.44,
+          "end": 93.76
+        },
+        {
+          "word": "technical,",
+          "start": 93.76,
+          "end": 94.24
+        },
+        {
+          "word": "it",
+          "start": 94.29,
+          "end": 94.41
+        },
+        {
+          "word": "was",
+          "start": 94.41,
+          "end": 95.81
+        },
+        {
+          "word": "narrative.",
+          "start": 95.81,
+          "end": 96.34
+        },
+        {
+          "word": "Build",
+          "start": 96.39,
+          "end": 96.71
+        },
+        {
+          "word": "a",
+          "start": 96.71,
+          "end": 96.81
+        },
+        {
+          "word": "system",
+          "start": 96.81,
+          "end": 97.16
+        },
+        {
+          "word": "where",
+          "start": 97.16,
+          "end": 97.39
+        },
+        {
+          "word": "every",
+          "start": 97.39,
+          "end": 97.66
+        },
+        {
+          "word": "participant",
+          "start": 97.66,
+          "end": 98.19
+        },
+        {
+          "word": "believes",
+          "start": 98.19,
+          "end": 98.54
+        },
+        {
+          "word": "they'll",
+          "start": 98.54,
+          "end": 98.76
+        },
+        {
+          "word": "win,",
+          "start": 98.76,
+          "end": 99.04
+        },
+        {
+          "word": "then",
+          "start": 99.09,
+          "end": 99.29
+        },
+        {
+          "word": "technical",
+          "start": 99.29,
+          "end": 99.66
+        },
+        {
+          "word": "details",
+          "start": 99.66,
+          "end": 100.04
+        },
+        {
+          "word": "don't",
+          "start": 100.04,
+          "end": 100.26
+        },
+        {
+          "word": "matter.",
+          "start": 100.26,
+          "end": 100.5
+        }
+      ]
+    },
+    {
+      "start": 113.88,
+      "end": 121.75,
+      "text": "Today we discussed Twitter/X's apparent censorship of ElizaOS content and the implications for digital sovereignty in the age of AI.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 113.88,
+          "end": 114.24
+        },
+        {
+          "word": "we",
+          "start": 114.24,
+          "end": 114.39
+        },
+        {
+          "word": "discussed",
+          "start": 114.39,
+          "end": 114.79
+        },
+        {
+          "word": "Twitter",
+          "start": 114.79,
+          "end": 115.11
+        },
+        {
+          "word": "X's",
+          "start": 115.11,
+          "end": 115.29
+        },
+        {
+          "word": "apparent",
+          "start": 115.29,
+          "end": 115.69
+        },
+        {
+          "word": "censorship",
+          "start": 115.69,
+          "end": 116.19
+        },
+        {
+          "word": "of",
+          "start": 116.19,
+          "end": 116.34
+        },
+        {
+          "word": "ElizaOS",
+          "start": 116.34,
+          "end": 116.84
+        },
+        {
+          "word": "content,",
+          "start": 116.84,
+          "end": 117.24
+        },
+        {
+          "word": "and",
+          "start": 117.29,
+          "end": 117.46
+        },
+        {
+          "word": "the",
+          "start": 117.46,
+          "end": 117.59
+        },
+        {
+          "word": "implications",
+          "start": 117.59,
+          "end": 118.14
+        },
+        {
+          "word": "for",
+          "start": 118.14,
+          "end": 119.51
+        },
+        {
+          "word": "digital",
+          "start": 119.51,
+          "end": 120.31
+        },
+        {
+          "word": "sovereignty",
+          "start": 120.31,
+          "end": 120.89
+        },
+        {
+          "word": "in",
+          "start": 120.89,
+          "end": 121.09
+        },
+        {
+          "word": "the",
+          "start": 121.09,
+          "end": 121.24
+        },
+        {
+          "word": "age",
+          "start": 121.24,
+          "end": 121.46
+        },
+        {
+          "word": "of",
+          "start": 121.46,
+          "end": 121.59
+        },
+        {
+          "word": "AI.",
+          "start": 121.59,
+          "end": 121.8
+        }
+      ]
+    },
+    {
+      "start": 121.85,
+      "end": 127.35,
+      "text": "When platforms censor you, you're doing something RIGHT. Build so valuable that users will CLIMB WALLS to reach you.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "When",
+          "start": 121.85,
+          "end": 122.11
+        },
+        {
+          "word": "platforms",
+          "start": 122.11,
+          "end": 122.56
+        },
+        {
+          "word": "censor",
+          "start": 122.56,
+          "end": 122.91
+        },
+        {
+          "word": "you,",
+          "start": 122.91,
+          "end": 123.11
+        },
+        {
+          "word": "you're",
+          "start": 123.16,
+          "end": 123.36
+        },
+        {
+          "word": "doing",
+          "start": 123.36,
+          "end": 123.64
+        },
+        {
+          "word": "something",
+          "start": 123.64,
+          "end": 123.96
+        },
+        {
+          "word": "right.",
+          "start": 123.96,
+          "end": 124.29
+        },
+        {
+          "word": "Build",
+          "start": 124.34,
+          "end": 125.76
+        },
+        {
+          "word": "so",
+          "start": 125.76,
+          "end": 125.99
+        },
+        {
+          "word": "valuable",
+          "start": 125.99,
+          "end": 126.41
+        },
+        {
+          "word": "that",
+          "start": 126.41,
+          "end": 126.54
+        },
+        {
+          "word": "users",
+          "start": 126.54,
+          "end": 126.84
+        },
+        {
+          "word": "will",
+          "start": 126.84,
+          "end": 126.96
+        },
+        {
+          "word": "climb",
+          "start": 126.96,
+          "end": 127.24
+        },
+        {
+          "word": "walls",
+          "start": 127.24,
+          "end": 127.56
+        },
+        {
+          "word": "to",
+          "start": 127.56,
+          "end": 127.71
+        },
+        {
+          "word": "reach",
+          "start": 127.71,
+          "end": 127.99
+        },
+        {
+          "word": "you.",
+          "start": 127.99,
+          "end": 128.15
+        }
+      ]
+    },
+    {
+      "start": 128.2,
+      "end": 136.1,
+      "text": "our path forward is clear: diversify platforms, strengthen community bonds, and keep shipping code that works regardless of who tries to block it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Our",
+          "start": 128.2,
+          "end": 128.41
+        },
+        {
+          "word": "path",
+          "start": 128.41,
+          "end": 128.69
+        },
+        {
+          "word": "forward",
+          "start": 128.69,
+          "end": 129.04
+        },
+        {
+          "word": "is",
+          "start": 129.04,
+          "end": 129.21
+        },
+        {
+          "word": "clear:",
+          "start": 129.21,
+          "end": 129.61
+        },
+        {
+          "word": "diversify",
+          "start": 129.66,
+          "end": 130.29
+        },
+        {
+          "word": "platforms,",
+          "start": 130.29,
+          "end": 130.84
+        },
+        {
+          "word": "strengthen",
+          "start": 130.89,
+          "end": 131.34
+        },
+        {
+          "word": "community",
+          "start": 131.34,
+          "end": 131.84
+        },
+        {
+          "word": "bonds,",
+          "start": 131.84,
+          "end": 132.24
+        },
+        {
+          "word": "and",
+          "start": 132.29,
+          "end": 133.56
+        },
+        {
+          "word": "keep",
+          "start": 133.56,
+          "end": 133.84
+        },
+        {
+          "word": "shipping",
+          "start": 133.84,
+          "end": 134.19
+        },
+        {
+          "word": "code",
+          "start": 134.19,
+          "end": 134.46
+        },
+        {
+          "word": "that",
+          "start": 134.46,
+          "end": 134.66
+        },
+        {
+          "word": "works",
+          "start": 134.66,
+          "end": 134.99
+        },
+        {
+          "word": "regardless",
+          "start": 134.99,
+          "end": 135.49
+        },
+        {
+          "word": "of",
+          "start": 135.49,
+          "end": 135.66
+        },
+        {
+          "word": "who",
+          "start": 135.66,
+          "end": 135.84
+        },
+        {
+          "word": "tries",
+          "start": 135.84,
+          "end": 136.09
+        },
+        {
+          "word": "to",
+          "start": 136.09,
+          "end": 136.21
+        },
+        {
+          "word": "block",
+          "start": 136.21,
+          "end": 136.56
+        },
+        {
+          "word": "it.",
+          "start": 136.56,
+          "end": 136.75
+        }
+      ]
+    },
+    {
+      "start": 136.8,
+      "end": 142.3,
+      "text": "The meme always finds a way to flow, my friends. Like water around rocks, we adapt and keep vibin'.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 136.8,
+          "end": 137.04
+        },
+        {
+          "word": "meme",
+          "start": 137.04,
+          "end": 137.31
+        },
+        {
+          "word": "always",
+          "start": 137.31,
+          "end": 137.66
+        },
+        {
+          "word": "finds",
+          "start": 137.66,
+          "end": 137.94
+        },
+        {
+          "word": "a",
+          "start": 137.94,
+          "end": 138.04
+        },
+        {
+          "word": "way",
+          "start": 138.04,
+          "end": 138.24
+        },
+        {
+          "word": "to",
+          "start": 138.24,
+          "end": 138.39
+        },
+        {
+          "word": "flow,",
+          "start": 138.39,
+          "end": 138.69
+        },
+        {
+          "word": "my",
+          "start": 138.74,
+          "end": 138.89
+        },
+        {
+          "word": "friends.",
+          "start": 138.89,
+          "end": 139.31
+        },
+        {
+          "word": "Like",
+          "start": 139.36,
+          "end": 139.69
+        },
+        {
+          "word": "water",
+          "start": 139.69,
+          "end": 140.01
+        },
+        {
+          "word": "around",
+          "start": 140.01,
+          "end": 141.34
+        },
+        {
+          "word": "rocks,",
+          "start": 141.34,
+          "end": 141.69
+        },
+        {
+          "word": "we",
+          "start": 141.74,
+          "end": 141.89
+        },
+        {
+          "word": "adapt",
+          "start": 141.89,
+          "end": 142.26
+        },
+        {
+          "word": "and",
+          "start": 142.26,
+          "end": 142.44
+        },
+        {
+          "word": "keep",
+          "start": 142.44,
+          "end": 142.66
+        },
+        {
+          "word": "vibing.",
+          "start": 142.66,
+          "end": 143.05
+        }
+      ]
+    },
+    {
+      "start": 143.2,
+      "end": 151.0,
+      "text": "THESIS UNCHANGED: Build value, capture value. Platform drama is NOISE. Focus on signal—ElizaOS V2 launch and auto.fun growth. NUMBERS DON'T LIE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Thesis",
+          "start": 143.2,
+          "end": 143.61
+        },
+        {
+          "word": "unchanged:",
+          "start": 143.61,
+          "end": 144.24
+        },
+        {
+          "word": "build",
+          "start": 144.29,
+          "end": 144.59
+        },
+        {
+          "word": "value,",
+          "start": 144.59,
+          "end": 144.91
+        },
+        {
+          "word": "capture",
+          "start": 144.96,
+          "end": 145.31
+        },
+        {
+          "word": "value.",
+          "start": 145.31,
+          "end": 145.64
+        },
+        {
+          "word": "Platform",
+          "start": 145.69,
+          "end": 146.11
+        },
+        {
+          "word": "drama",
+          "start": 146.11,
+          "end": 146.46
+        },
+        {
+          "word": "is",
+          "start": 146.46,
+          "end": 146.61
+        },
+        {
+          "word": "noise,",
+          "start": 146.61,
+          "end": 146.96
+        },
+        {
+          "word": "focus",
+          "start": 147.01,
+          "end": 147.41
+        },
+        {
+          "word": "on",
+          "start": 147.41,
+          "end": 147.59
+        },
+        {
+          "word": "signal.",
+          "start": 147.59,
+          "end": 147.96
+        },
+        {
+          "word": "ElizaOS",
+          "start": 148.01,
+          "end": 148.51
+        },
+        {
+          "word": "V2",
+          "start": 148.51,
+          "end": 148.74
+        },
+        {
+          "word": "launch",
+          "start": 148.74,
+          "end": 149.09
+        },
+        {
+          "word": "and",
+          "start": 149.09,
+          "end": 149.26
+        },
+        {
+          "word": "auto.fun",
+          "start": 149.26,
+          "end": 149.84
+        },
+        {
+          "word": "growth.",
+          "start": 149.84,
+          "end": 150.24
+        },
+        {
+          "word": "Numbers",
+          "start": 150.29,
+          "end": 150.69
+        },
+        {
+          "word": "don't",
+          "start": 150.69,
+          "end": 150.91
+        },
+        {
+          "word": "lie.",
+          "start": 150.91,
+          "end": 151.15
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-16_JedAI-Council_Censorship-Wars-And-Digital-Autonomy.json",
+    "session_log_source": "2025-07-16_JedAI-Council_Censorship-Wars-And-Digital-Autonomy_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

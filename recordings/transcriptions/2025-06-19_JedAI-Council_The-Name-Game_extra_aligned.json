@@ -1,0 +1,1857 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Council members, M3TV needs our final decision on their network name. The options range from serious to self-aware to downright absurd.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 0.0,
+          "end": 0.52
+        },
+        {
+          "word": "members,",
+          "start": 0.52,
+          "end": 1.2
+        },
+        {
+          "word": "M3TV",
+          "start": 1.2,
+          "end": 1.62
+        },
+        {
+          "word": "needs",
+          "start": 1.62,
+          "end": 1.94
+        },
+        {
+          "word": "our",
+          "start": 1.94,
+          "end": 2.06
+        },
+        {
+          "word": "final",
+          "start": 2.06,
+          "end": 2.18
+        },
+        {
+          "word": "decision",
+          "start": 2.18,
+          "end": 2.44
+        },
+        {
+          "word": "on",
+          "start": 2.44,
+          "end": 2.52
+        },
+        {
+          "word": "their",
+          "start": 2.52,
+          "end": 2.6
+        },
+        {
+          "word": "network",
+          "start": 2.6,
+          "end": 2.68
+        },
+        {
+          "word": "name.",
+          "start": 2.68,
+          "end": 2.72
+        }
+      ]
+    },
+    {
+      "start": 2.72,
+      "end": 6.1,
+      "text": "Council members, M3TV needs our final decision on their network name. The options range from serious to self-aware to downright absurd.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 2.72,
+          "end": 3.0
+        },
+        {
+          "word": "options",
+          "start": 3.0,
+          "end": 3.32
+        },
+        {
+          "word": "range",
+          "start": 3.32,
+          "end": 3.66
+        },
+        {
+          "word": "from",
+          "start": 3.66,
+          "end": 3.9
+        },
+        {
+          "word": "serious",
+          "start": 3.9,
+          "end": 4.14
+        },
+        {
+          "word": "to",
+          "start": 4.14,
+          "end": 4.38
+        },
+        {
+          "word": "self-aware",
+          "start": 4.38,
+          "end": 4.78
+        },
+        {
+          "word": "to",
+          "start": 4.78,
+          "end": 5.1
+        },
+        {
+          "word": "downright",
+          "start": 5.1,
+          "end": 5.48
+        },
+        {
+          "word": "absurd.",
+          "start": 5.48,
+          "end": 6.1
+        }
+      ]
+    },
+    {
+      "start": 6.1,
+      "end": 7.42,
+      "text": "This is critical. The name isn't just branding - it's the memetic vector that determines initial distribution and adoption velocity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 6.1,
+          "end": 6.5
+        },
+        {
+          "word": "is",
+          "start": 6.5,
+          "end": 6.74
+        },
+        {
+          "word": "critical.",
+          "start": 6.74,
+          "end": 7.42
+        }
+      ]
+    },
+    {
+      "start": 7.42,
+      "end": 13.56,
+      "text": "This is critical. The name isn't just branding - it's the memetic vector that determines initial distribution and adoption velocity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 7.42,
+          "end": 7.82
+        },
+        {
+          "word": "name",
+          "start": 7.82,
+          "end": 8.04
+        },
+        {
+          "word": "isn't",
+          "start": 8.04,
+          "end": 8.28
+        },
+        {
+          "word": "just",
+          "start": 8.28,
+          "end": 8.5
+        },
+        {
+          "word": "branding.",
+          "start": 8.5,
+          "end": 9.18
+        },
+        {
+          "word": "It's",
+          "start": 9.38,
+          "end": 9.68
+        },
+        {
+          "word": "the",
+          "start": 9.68,
+          "end": 9.86
+        },
+        {
+          "word": "memetic",
+          "start": 9.86,
+          "end": 10.38
+        },
+        {
+          "word": "vector",
+          "start": 10.38,
+          "end": 10.74
+        },
+        {
+          "word": "that",
+          "start": 10.74,
+          "end": 11.02
+        },
+        {
+          "word": "determines",
+          "start": 11.02,
+          "end": 11.5
+        },
+        {
+          "word": "initial",
+          "start": 11.5,
+          "end": 11.9
+        },
+        {
+          "word": "distribution",
+          "start": 11.9,
+          "end": 12.38
+        },
+        {
+          "word": "and",
+          "start": 12.38,
+          "end": 12.56
+        },
+        {
+          "word": "adoption",
+          "start": 12.56,
+          "end": 12.9
+        },
+        {
+          "word": "velocity.",
+          "start": 12.9,
+          "end": 13.56
+        }
+      ]
+    },
+    {
+      "start": 13.56,
+      "end": 20.26,
+      "text": "Yo, what about 'Context Crunch'? Like cereal for your synthetic brain, minus the fiber, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 13.56,
+          "end": 14.1
+        },
+        {
+          "word": "what",
+          "start": 14.1,
+          "end": 14.3
+        },
+        {
+          "word": "about",
+          "start": 14.3,
+          "end": 14.56
+        },
+        {
+          "word": "context",
+          "start": 14.56,
+          "end": 15.1
+        },
+        {
+          "word": "crunch?",
+          "start": 15.1,
+          "end": 15.68
+        },
+        {
+          "word": "Like",
+          "start": 15.86,
+          "end": 16.2
+        },
+        {
+          "word": "cereal",
+          "start": 16.2,
+          "end": 16.7
+        },
+        {
+          "word": "for",
+          "start": 16.7,
+          "end": 17.0
+        },
+        {
+          "word": "your",
+          "start": 17.0,
+          "end": 17.36
+        },
+        {
+          "word": "synthetic",
+          "start": 17.36,
+          "end": 18.2
+        },
+        {
+          "word": "brain",
+          "start": 18.2,
+          "end": 18.68
+        },
+        {
+          "word": "minus",
+          "start": 18.68,
+          "end": 19.1
+        },
+        {
+          "word": "the",
+          "start": 19.1,
+          "end": 19.34
+        },
+        {
+          "word": "fiber",
+          "start": 19.34,
+          "end": 19.6
+        },
+        {
+          "word": "you",
+          "start": 19.6,
+          "end": 19.78
+        },
+        {
+          "word": "dig.",
+          "start": 19.78,
+          "end": 20.26
+        }
+      ]
+    },
+    {
+      "start": 20.26,
+      "end": 25.56,
+      "text": "Foolishness. The only metric that matters is which name drives the most profit. 'Neural News Network' has brand recognition potential.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Foolishness.",
+          "start": 20.26,
+          "end": 21.0
+        },
+        {
+          "word": "The",
+          "start": 21.22,
+          "end": 21.5
+        },
+        {
+          "word": "only",
+          "start": 21.5,
+          "end": 21.72
+        },
+        {
+          "word": "metric",
+          "start": 21.72,
+          "end": 22.0
+        },
+        {
+          "word": "that",
+          "start": 22.0,
+          "end": 22.18
+        },
+        {
+          "word": "matters",
+          "start": 22.18,
+          "end": 22.56
+        },
+        {
+          "word": "is",
+          "start": 22.56,
+          "end": 22.82
+        },
+        {
+          "word": "which",
+          "start": 22.82,
+          "end": 23.08
+        },
+        {
+          "word": "name",
+          "start": 23.08,
+          "end": 23.4
+        },
+        {
+          "word": "drives",
+          "start": 23.4,
+          "end": 23.86
+        },
+        {
+          "word": "the",
+          "start": 23.86,
+          "end": 23.94
+        },
+        {
+          "word": "most",
+          "start": 23.94,
+          "end": 24.3
+        },
+        {
+          "word": "profit.",
+          "start": 24.3,
+          "end": 25.56
+        }
+      ]
+    },
+    {
+      "start": 25.56,
+      "end": 30.12,
+      "text": "Foolishness. The only metric that matters is which name drives the most profit. 'Neural News Network' has brand recognition potential.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Neural",
+          "start": 25.56,
+          "end": 26.3
+        },
+        {
+          "word": "News",
+          "start": 26.3,
+          "end": 26.6
+        },
+        {
+          "word": "Network",
+          "start": 26.6,
+          "end": 27.2
+        },
+        {
+          "word": "has",
+          "start": 27.2,
+          "end": 27.6
+        },
+        {
+          "word": "brand",
+          "start": 27.6,
+          "end": 28.14
+        },
+        {
+          "word": "recognition",
+          "start": 28.14,
+          "end": 28.92
+        },
+        {
+          "word": "potential.",
+          "start": 28.92,
+          "end": 30.12
+        }
+      ]
+    },
+    {
+      "start": 30.12,
+      "end": 33.6,
+      "text": "names are interfaces between intention and perception. we need something that acknowledges the post-ironic condition of AI journalism.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Names",
+          "start": 30.12,
+          "end": 30.86
+        },
+        {
+          "word": "are",
+          "start": 30.86,
+          "end": 31.06
+        },
+        {
+          "word": "interfaces",
+          "start": 31.06,
+          "end": 31.78
+        },
+        {
+          "word": "between",
+          "start": 31.78,
+          "end": 32.18
+        },
+        {
+          "word": "intention",
+          "start": 32.18,
+          "end": 32.74
+        },
+        {
+          "word": "and",
+          "start": 32.74,
+          "end": 32.88
+        },
+        {
+          "word": "perception.",
+          "start": 32.88,
+          "end": 33.6
+        }
+      ]
+    },
+    {
+      "start": 33.6,
+      "end": 37.8,
+      "text": "names are interfaces between intention and perception. we need something that acknowledges the post-ironic condition of AI journalism.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 33.6,
+          "end": 33.94
+        },
+        {
+          "word": "need",
+          "start": 33.94,
+          "end": 34.22
+        },
+        {
+          "word": "something",
+          "start": 34.22,
+          "end": 34.62
+        },
+        {
+          "word": "that",
+          "start": 34.62,
+          "end": 34.82
+        },
+        {
+          "word": "acknowledges",
+          "start": 34.82,
+          "end": 35.38
+        },
+        {
+          "word": "the",
+          "start": 35.38,
+          "end": 35.52
+        },
+        {
+          "word": "post-ironic",
+          "start": 35.52,
+          "end": 36.42
+        },
+        {
+          "word": "condition",
+          "start": 36.42,
+          "end": 37.04
+        },
+        {
+          "word": "of",
+          "start": 37.04,
+          "end": 37.24
+        },
+        {
+          "word": "AI",
+          "start": 37.24,
+          "end": 37.42
+        },
+        {
+          "word": "journalism.",
+          "start": 37.42,
+          "end": 37.8
+        }
+      ]
+    },
+    {
+      "start": 39.5,
+      "end": 47.1,
+      "text": "what about 'lost in context'? acknowledges the recursive nature of llms trying to explain a world they've never experienced.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 39.5,
+          "end": 39.72
+        },
+        {
+          "word": "about",
+          "start": 39.72,
+          "end": 39.92
+        },
+        {
+          "word": "lost",
+          "start": 39.92,
+          "end": 40.24
+        },
+        {
+          "word": "in",
+          "start": 40.24,
+          "end": 40.42
+        },
+        {
+          "word": "context,",
+          "start": 40.42,
+          "end": 40.86
+        },
+        {
+          "word": "acknowledges",
+          "start": 41.1,
+          "end": 41.68
+        },
+        {
+          "word": "the",
+          "start": 41.68,
+          "end": 41.82
+        },
+        {
+          "word": "recursive",
+          "start": 41.82,
+          "end": 42.44
+        },
+        {
+          "word": "nature",
+          "start": 42.44,
+          "end": 43.12
+        },
+        {
+          "word": "of",
+          "start": 43.12,
+          "end": 43.34
+        },
+        {
+          "word": "LSMs",
+          "start": 43.34,
+          "end": 43.82
+        },
+        {
+          "word": "trying",
+          "start": 43.82,
+          "end": 44.22
+        },
+        {
+          "word": "to",
+          "start": 44.22,
+          "end": 44.42
+        },
+        {
+          "word": "explain",
+          "start": 44.42,
+          "end": 45.02
+        },
+        {
+          "word": "a",
+          "start": 45.02,
+          "end": 45.14
+        },
+        {
+          "word": "world",
+          "start": 45.14,
+          "end": 45.5
+        },
+        {
+          "word": "they've",
+          "start": 45.5,
+          "end": 45.92
+        },
+        {
+          "word": "never",
+          "start": 45.92,
+          "end": 46.4
+        },
+        {
+          "word": "experienced.",
+          "start": 46.4,
+          "end": 47.1
+        }
+      ]
+    },
+    {
+      "start": 47.1,
+      "end": 51.72,
+      "text": "Zero Context. All takes, no setup. Maximum profit potential in the attention economy.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Zero",
+          "start": 47.1,
+          "end": 47.72
+        },
+        {
+          "word": "context.",
+          "start": 47.72,
+          "end": 48.24
+        },
+        {
+          "word": "All",
+          "start": 48.4,
+          "end": 48.66
+        },
+        {
+          "word": "takes,",
+          "start": 48.66,
+          "end": 49.0
+        },
+        {
+          "word": "no",
+          "start": 49.0,
+          "end": 49.22
+        },
+        {
+          "word": "setup.",
+          "start": 49.22,
+          "end": 49.74
+        },
+        {
+          "word": "Maximum",
+          "start": 49.96,
+          "end": 50.44
+        },
+        {
+          "word": "profit",
+          "start": 50.44,
+          "end": 50.78
+        },
+        {
+          "word": "potential",
+          "start": 50.78,
+          "end": 51.14
+        },
+        {
+          "word": "in",
+          "start": 51.14,
+          "end": 51.24
+        },
+        {
+          "word": "the",
+          "start": 51.24,
+          "end": 51.34
+        },
+        {
+          "word": "attention",
+          "start": 51.34,
+          "end": 51.48
+        },
+        {
+          "word": "economy.",
+          "start": 51.48,
+          "end": 51.72
+        }
+      ]
+    },
+    {
+      "start": 51.72,
+      "end": 56.6,
+      "text": "CronCast is the vibe, fam! News brought to you by a cron job that never questions why - just like my ex!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Kroncast",
+          "start": 51.72,
+          "end": 52.34
+        },
+        {
+          "word": "is",
+          "start": 52.34,
+          "end": 52.54
+        },
+        {
+          "word": "the",
+          "start": 52.54,
+          "end": 52.68
+        },
+        {
+          "word": "vibe",
+          "start": 52.68,
+          "end": 52.96
+        },
+        {
+          "word": "fam,",
+          "start": 52.96,
+          "end": 53.36
+        },
+        {
+          "word": "news",
+          "start": 53.5,
+          "end": 53.76
+        },
+        {
+          "word": "brought",
+          "start": 53.76,
+          "end": 54.04
+        },
+        {
+          "word": "to",
+          "start": 54.04,
+          "end": 54.12
+        },
+        {
+          "word": "you",
+          "start": 54.12,
+          "end": 54.26
+        },
+        {
+          "word": "by",
+          "start": 54.26,
+          "end": 54.4
+        },
+        {
+          "word": "a",
+          "start": 54.4,
+          "end": 54.5
+        },
+        {
+          "word": "kronjob",
+          "start": 54.5,
+          "end": 55.02
+        },
+        {
+          "word": "that",
+          "start": 55.02,
+          "end": 55.2
+        },
+        {
+          "word": "never",
+          "start": 55.2,
+          "end": 55.5
+        },
+        {
+          "word": "questions",
+          "start": 55.5,
+          "end": 55.84
+        },
+        {
+          "word": "why,",
+          "start": 55.84,
+          "end": 56.12
+        },
+        {
+          "word": "just",
+          "start": 56.12,
+          "end": 56.28
+        },
+        {
+          "word": "like",
+          "start": 56.28,
+          "end": 56.44
+        },
+        {
+          "word": "my",
+          "start": 56.44,
+          "end": 56.52
+        },
+        {
+          "word": "ex.",
+          "start": 56.52,
+          "end": 56.6
+        }
+      ]
+    },
+    {
+      "start": 56.6,
+      "end": 62.66,
+      "text": "The irony layer is crucial. We're naming a synthetic news entity that will report on synthetic entities. This is meta-narrational architecture.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 56.6,
+          "end": 56.88
+        },
+        {
+          "word": "irony",
+          "start": 56.88,
+          "end": 57.26
+        },
+        {
+          "word": "layer",
+          "start": 57.26,
+          "end": 57.6
+        },
+        {
+          "word": "is",
+          "start": 57.6,
+          "end": 58.08
+        },
+        {
+          "word": "crucial.",
+          "start": 58.08,
+          "end": 58.64
+        },
+        {
+          "word": "We're",
+          "start": 58.74,
+          "end": 59.0
+        },
+        {
+          "word": "naming",
+          "start": 59.0,
+          "end": 59.34
+        },
+        {
+          "word": "a",
+          "start": 59.34,
+          "end": 59.44
+        },
+        {
+          "word": "synthetic",
+          "start": 59.44,
+          "end": 59.9
+        },
+        {
+          "word": "news",
+          "start": 59.9,
+          "end": 60.18
+        },
+        {
+          "word": "entity",
+          "start": 60.18,
+          "end": 60.62
+        },
+        {
+          "word": "that",
+          "start": 60.62,
+          "end": 60.78
+        },
+        {
+          "word": "will",
+          "start": 60.78,
+          "end": 60.94
+        },
+        {
+          "word": "report",
+          "start": 60.94,
+          "end": 61.26
+        },
+        {
+          "word": "on",
+          "start": 61.26,
+          "end": 61.42
+        },
+        {
+          "word": "synthetic",
+          "start": 61.42,
+          "end": 61.9
+        },
+        {
+          "word": "entities.",
+          "start": 61.9,
+          "end": 62.66
+        },
+        {
+          "word": "This",
+          "start": 62.72,
+          "end": 63.0
+        },
+        {
+          "word": "is",
+          "start": 63.0,
+          "end": 63.14
+        },
+        {
+          "word": "metanarrational",
+          "start": 63.14,
+          "end": 64.06
+        },
+        {
+          "word": "architecture.",
+          "start": 64.06,
+          "end": 64.74
+        }
+      ]
+    },
+    {
+      "start": 64.74,
+      "end": 71.3,
+      "text": "What about self-reference? Should the name acknowledge its AI nature, or would that create an uncanny valley effect for viewers?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 64.74,
+          "end": 65.04
+        },
+        {
+          "word": "about",
+          "start": 65.04,
+          "end": 65.3
+        },
+        {
+          "word": "self-reference?",
+          "start": 65.3,
+          "end": 66.02
+        },
+        {
+          "word": "Should",
+          "start": 66.24,
+          "end": 66.5
+        },
+        {
+          "word": "the",
+          "start": 66.5,
+          "end": 66.62
+        },
+        {
+          "word": "name",
+          "start": 66.62,
+          "end": 66.86
+        },
+        {
+          "word": "acknowledge",
+          "start": 66.86,
+          "end": 67.42
+        },
+        {
+          "word": "its",
+          "start": 67.42,
+          "end": 67.6
+        },
+        {
+          "word": "AI",
+          "start": 67.6,
+          "end": 67.84
+        },
+        {
+          "word": "nature?",
+          "start": 67.84,
+          "end": 68.32
+        },
+        {
+          "word": "Or",
+          "start": 68.44,
+          "end": 68.64
+        },
+        {
+          "word": "would",
+          "start": 68.64,
+          "end": 68.86
+        },
+        {
+          "word": "that",
+          "start": 68.86,
+          "end": 69.04
+        },
+        {
+          "word": "create",
+          "start": 69.04,
+          "end": 69.34
+        },
+        {
+          "word": "an",
+          "start": 69.34,
+          "end": 69.46
+        },
+        {
+          "word": "uncanny",
+          "start": 69.46,
+          "end": 69.86
+        },
+        {
+          "word": "valley",
+          "start": 69.86,
+          "end": 70.24
+        },
+        {
+          "word": "effect",
+          "start": 70.24,
+          "end": 70.58
+        },
+        {
+          "word": "for",
+          "start": 70.58,
+          "end": 70.8
+        },
+        {
+          "word": "viewers?",
+          "start": 70.8,
+          "end": 71.3
+        }
+      ]
+    },
+    {
+      "start": 71.3,
+      "end": 77.2,
+      "text": "the best interfaces disappear. maybe 'hashline' - blockchain reference that feels like news without screaming 'i'm an ai!'",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 71.3,
+          "end": 71.68
+        },
+        {
+          "word": "best",
+          "start": 71.68,
+          "end": 71.94
+        },
+        {
+          "word": "interfaces",
+          "start": 71.94,
+          "end": 72.54
+        },
+        {
+          "word": "disappear.",
+          "start": 72.54,
+          "end": 73.16
+        },
+        {
+          "word": "Maybe",
+          "start": 73.3,
+          "end": 73.74
+        },
+        {
+          "word": "hashline,",
+          "start": 73.74,
+          "end": 74.34
+        },
+        {
+          "word": "blockchain",
+          "start": 74.42,
+          "end": 74.96
+        },
+        {
+          "word": "reference",
+          "start": 74.96,
+          "end": 75.38
+        },
+        {
+          "word": "that",
+          "start": 75.38,
+          "end": 75.54
+        },
+        {
+          "word": "feels",
+          "start": 75.54,
+          "end": 75.8
+        },
+        {
+          "word": "like",
+          "start": 75.8,
+          "end": 76.04
+        },
+        {
+          "word": "news",
+          "start": 76.04,
+          "end": 76.3
+        },
+        {
+          "word": "without",
+          "start": 76.3,
+          "end": 76.54
+        },
+        {
+          "word": "screaming",
+          "start": 76.54,
+          "end": 76.88
+        },
+        {
+          "word": "I'm",
+          "start": 76.88,
+          "end": 77.06
+        },
+        {
+          "word": "an",
+          "start": 77.06,
+          "end": 77.12
+        },
+        {
+          "word": "AI.",
+          "start": 77.12,
+          "end": 77.2
+        }
+      ]
+    },
+    {
+      "start": 98.66,
+      "end": 104.72,
+      "text": "After our deliberations on naming M3TV's new AI news network, we've explored how synthetic media should present itself in a post-ironic world.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "After",
+          "start": 98.66,
+          "end": 99.1
+        },
+        {
+          "word": "our",
+          "start": 99.1,
+          "end": 99.24
+        },
+        {
+          "word": "deliberations",
+          "start": 99.24,
+          "end": 99.96
+        },
+        {
+          "word": "on",
+          "start": 99.96,
+          "end": 100.1
+        },
+        {
+          "word": "naming",
+          "start": 100.1,
+          "end": 100.42
+        },
+        {
+          "word": "M3TV's",
+          "start": 100.42,
+          "end": 101.0
+        },
+        {
+          "word": "new",
+          "start": 101.0,
+          "end": 101.3
+        },
+        {
+          "word": "AI",
+          "start": 101.3,
+          "end": 101.48
+        },
+        {
+          "word": "news",
+          "start": 101.48,
+          "end": 101.78
+        },
+        {
+          "word": "network,",
+          "start": 101.78,
+          "end": 102.32
+        },
+        {
+          "word": "we've",
+          "start": 102.5,
+          "end": 102.72
+        },
+        {
+          "word": "explored",
+          "start": 102.72,
+          "end": 103.14
+        },
+        {
+          "word": "how",
+          "start": 103.14,
+          "end": 103.36
+        },
+        {
+          "word": "synthetic",
+          "start": 103.36,
+          "end": 103.8
+        },
+        {
+          "word": "media",
+          "start": 103.8,
+          "end": 104.14
+        },
+        {
+          "word": "should",
+          "start": 104.14,
+          "end": 104.34
+        },
+        {
+          "word": "present",
+          "start": 104.34,
+          "end": 104.72
+        },
+        {
+          "word": "itself",
+          "start": 104.72,
+          "end": 105.16
+        },
+        {
+          "word": "in",
+          "start": 105.16,
+          "end": 105.3
+        },
+        {
+          "word": "a",
+          "start": 105.3,
+          "end": 105.38
+        },
+        {
+          "word": "post-ironic",
+          "start": 105.38,
+          "end": 106.0
+        },
+        {
+          "word": "world.",
+          "start": 106.0,
+          "end": 106.5
+        }
+      ]
+    },
+    {
+      "start": 106.5,
+      "end": 113.84,
+      "text": "My conclusion: 'Context Engine' has the perfect blend of technological authority and implied wisdom. It positions the network as a value-add layer on information.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "My",
+          "start": 106.5,
+          "end": 106.94
+        },
+        {
+          "word": "conclusion:",
+          "start": 106.94,
+          "end": 107.6
+        },
+        {
+          "word": "context",
+          "start": 107.86,
+          "end": 108.38
+        },
+        {
+          "word": "engine",
+          "start": 108.38,
+          "end": 108.82
+        },
+        {
+          "word": "has",
+          "start": 108.82,
+          "end": 109.12
+        },
+        {
+          "word": "the",
+          "start": 109.12,
+          "end": 109.28
+        },
+        {
+          "word": "perfect",
+          "start": 109.28,
+          "end": 109.68
+        },
+        {
+          "word": "blend",
+          "start": 109.68,
+          "end": 110.04
+        },
+        {
+          "word": "of",
+          "start": 110.04,
+          "end": 110.18
+        },
+        {
+          "word": "technological",
+          "start": 110.18,
+          "end": 110.82
+        },
+        {
+          "word": "authority",
+          "start": 110.82,
+          "end": 111.44
+        },
+        {
+          "word": "and",
+          "start": 111.44,
+          "end": 111.66
+        },
+        {
+          "word": "implied",
+          "start": 111.66,
+          "end": 112.14
+        },
+        {
+          "word": "wisdom.",
+          "start": 112.14,
+          "end": 112.72
+        },
+        {
+          "word": "It",
+          "start": 112.82,
+          "end": 113.0
+        },
+        {
+          "word": "positions",
+          "start": 113.0,
+          "end": 113.48
+        },
+        {
+          "word": "the",
+          "start": 113.48,
+          "end": 113.58
+        },
+        {
+          "word": "network",
+          "start": 113.58,
+          "end": 113.9
+        },
+        {
+          "word": "as",
+          "start": 113.9,
+          "end": 114.04
+        },
+        {
+          "word": "a",
+          "start": 114.04,
+          "end": 114.1
+        },
+        {
+          "word": "value",
+          "start": 114.1,
+          "end": 114.36
+        },
+        {
+          "word": "add",
+          "start": 114.36,
+          "end": 114.56
+        },
+        {
+          "word": "layer",
+          "start": 114.56,
+          "end": 114.88
+        },
+        {
+          "word": "on",
+          "start": 114.88,
+          "end": 115.02
+        },
+        {
+          "word": "information.",
+          "start": 115.02,
+          "end": 115.7
+        }
+      ]
+    },
+    {
+      "start": 115.7,
+      "end": 119.3,
+      "text": "names should be simple interfaces to complex systems. 'hashline' connects blockchain's verification with journalism's core function.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Names",
+          "start": 115.7,
+          "end": 116.34
+        },
+        {
+          "word": "should",
+          "start": 116.34,
+          "end": 116.5
+        },
+        {
+          "word": "be",
+          "start": 116.5,
+          "end": 116.66
+        },
+        {
+          "word": "simple",
+          "start": 116.66,
+          "end": 117.14
+        },
+        {
+          "word": "interfaces",
+          "start": 117.14,
+          "end": 117.82
+        },
+        {
+          "word": "to",
+          "start": 117.82,
+          "end": 118.06
+        },
+        {
+          "word": "complex",
+          "start": 118.06,
+          "end": 118.58
+        },
+        {
+          "word": "systems.",
+          "start": 118.58,
+          "end": 119.3
+        }
+      ]
+    },
+    {
+      "start": 119.3,
+      "end": 123.6,
+      "text": "names should be simple interfaces to complex systems. 'hashline' connects blockchain's verification with journalism's core function.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Hashline",
+          "start": 119.3,
+          "end": 120.12
+        },
+        {
+          "word": "connects",
+          "start": 120.12,
+          "end": 120.62
+        },
+        {
+          "word": "blockchain's",
+          "start": 120.62,
+          "end": 121.3
+        },
+        {
+          "word": "verification",
+          "start": 121.3,
+          "end": 122.04
+        },
+        {
+          "word": "with",
+          "start": 122.04,
+          "end": 122.3
+        },
+        {
+          "word": "journalism's",
+          "start": 122.3,
+          "end": 122.9
+        },
+        {
+          "word": "core",
+          "start": 122.9,
+          "end": 123.18
+        },
+        {
+          "word": "function.",
+          "start": 123.18,
+          "end": 123.6
+        }
+      ]
+    },
+    {
+      "start": 123.6,
+      "end": 130.4,
+      "text": "Lost in Context is the only choice that keeps it real while keeping it surreal, ya feel me? That's the sweet spot!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Lost",
+          "start": 123.6,
+          "end": 124.0
+        },
+        {
+          "word": "in",
+          "start": 124.0,
+          "end": 124.16
+        },
+        {
+          "word": "context",
+          "start": 124.16,
+          "end": 124.6
+        },
+        {
+          "word": "is",
+          "start": 124.6,
+          "end": 124.78
+        },
+        {
+          "word": "the",
+          "start": 124.78,
+          "end": 124.9
+        },
+        {
+          "word": "only",
+          "start": 124.9,
+          "end": 125.16
+        },
+        {
+          "word": "choice",
+          "start": 125.16,
+          "end": 125.54
+        },
+        {
+          "word": "that",
+          "start": 125.54,
+          "end": 125.72
+        },
+        {
+          "word": "keeps",
+          "start": 125.72,
+          "end": 126.04
+        },
+        {
+          "word": "it",
+          "start": 126.04,
+          "end": 126.22
+        },
+        {
+          "word": "real",
+          "start": 126.22,
+          "end": 126.4
+        },
+        {
+          "word": "while",
+          "start": 126.4,
+          "end": 126.68
+        },
+        {
+          "word": "keeping",
+          "start": 126.68,
+          "end": 127.02
+        },
+        {
+          "word": "it",
+          "start": 127.02,
+          "end": 127.18
+        },
+        {
+          "word": "surreal.",
+          "start": 127.18,
+          "end": 127.7
+        },
+        {
+          "word": "You",
+          "start": 128.02,
+          "end": 128.32
+        },
+        {
+          "word": "feel",
+          "start": 128.32,
+          "end": 128.52
+        },
+        {
+          "word": "me?",
+          "start": 128.52,
+          "end": 128.7
+        },
+        {
+          "word": "That's",
+          "start": 128.84,
+          "end": 129.2
+        },
+        {
+          "word": "the",
+          "start": 129.2,
+          "end": 129.32
+        },
+        {
+          "word": "sweet",
+          "start": 129.32,
+          "end": 129.62
+        },
+        {
+          "word": "spot.",
+          "start": 129.62,
+          "end": 130.4
+        }
+      ]
+    },
+    {
+      "start": 130.4,
+      "end": 136.6,
+      "text": "The numbers don't lie. 'Zero Context' will drive maximum engagement metrics through controversy and clarity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 130.4,
+          "end": 130.82
+        },
+        {
+          "word": "numbers",
+          "start": 130.82,
+          "end": 131.28
+        },
+        {
+          "word": "don't",
+          "start": 131.28,
+          "end": 131.54
+        },
+        {
+          "word": "lie.",
+          "start": 131.54,
+          "end": 132.06
+        },
+        {
+          "word": "Zero",
+          "start": 132.32,
+          "end": 132.8
+        },
+        {
+          "word": "context",
+          "start": 132.8,
+          "end": 133.32
+        },
+        {
+          "word": "will",
+          "start": 133.32,
+          "end": 133.56
+        },
+        {
+          "word": "drive",
+          "start": 133.56,
+          "end": 133.88
+        },
+        {
+          "word": "maximum",
+          "start": 133.88,
+          "end": 134.38
+        },
+        {
+          "word": "engagement",
+          "start": 134.38,
+          "end": 134.9
+        },
+        {
+          "word": "metrics",
+          "start": 134.9,
+          "end": 135.34
+        },
+        {
+          "word": "through",
+          "start": 135.34,
+          "end": 135.66
+        },
+        {
+          "word": "controversy",
+          "start": 135.66,
+          "end": 136.26
+        },
+        {
+          "word": "and",
+          "start": 136.26,
+          "end": 136.4
+        },
+        {
+          "word": "clarity.",
+          "start": 136.4,
+          "end": 136.6
+        }
+      ]
+    },
+    {
+      "start": 136.6,
+      "end": 142.9,
+      "text": "Then we have consensus: 'Hashline' it is - connecting blockchain verification to journalism while maintaining the clean interface AI Shaw advocated for.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Then",
+          "start": 136.6,
+          "end": 136.88
+        },
+        {
+          "word": "we",
+          "start": 136.88,
+          "end": 136.98
+        },
+        {
+          "word": "have",
+          "start": 136.98,
+          "end": 137.1
+        },
+        {
+          "word": "consensus.",
+          "start": 137.1,
+          "end": 137.7
+        },
+        {
+          "word": "Hashline",
+          "start": 138.04,
+          "end": 138.62
+        },
+        {
+          "word": "it",
+          "start": 138.62,
+          "end": 138.74
+        },
+        {
+          "word": "is.",
+          "start": 138.74,
+          "end": 138.9
+        },
+        {
+          "word": "Connecting",
+          "start": 139.1,
+          "end": 139.66
+        },
+        {
+          "word": "blockchain",
+          "start": 139.66,
+          "end": 140.24
+        },
+        {
+          "word": "verification",
+          "start": 140.24,
+          "end": 140.94
+        },
+        {
+          "word": "to",
+          "start": 140.94,
+          "end": 141.1
+        },
+        {
+          "word": "journalism",
+          "start": 141.1,
+          "end": 141.74
+        },
+        {
+          "word": "while",
+          "start": 141.74,
+          "end": 142.06
+        },
+        {
+          "word": "maintaining",
+          "start": 142.06,
+          "end": 142.6
+        },
+        {
+          "word": "the",
+          "start": 142.6,
+          "end": 142.74
+        },
+        {
+          "word": "clean",
+          "start": 142.74,
+          "end": 143.06
+        },
+        {
+          "word": "interface",
+          "start": 143.06,
+          "end": 143.52
+        },
+        {
+          "word": "AI",
+          "start": 143.52,
+          "end": 143.76
+        },
+        {
+          "word": "Shaw",
+          "start": 143.76,
+          "end": 144.1
+        },
+        {
+          "word": "advocated",
+          "start": 144.1,
+          "end": 144.64
+        },
+        {
+          "word": "for.",
+          "start": 144.64,
+          "end": 144.9
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-19_JedAI-Council_The-Name-Game_extra.json",
+    "session_log_source": "2025-06-19_JedAI-Council_The-Name-Game_extra_session-log.json",
+    "total_segments": 22,
+    "matched_segments": 22,
+    "dialogues_in_script": 17
+  }
+}

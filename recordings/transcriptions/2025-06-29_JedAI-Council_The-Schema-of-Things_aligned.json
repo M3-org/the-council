@@ -1,0 +1,1782 @@
+{
+  "segments": [
+    {
+      "start": 16.48,
+      "end": 24.5,
+      "text": "Wookosh and Sayonara report users experiencing database schema issues with column naming inconsistencies between 'createdAt' and 'created_at' in the newest ElizaOS versions.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Lukash",
+          "start": 16.48,
+          "end": 17.18
+        },
+        {
+          "word": "and",
+          "start": 17.18,
+          "end": 17.3
+        },
+        {
+          "word": "Sayo-nara",
+          "start": 17.3,
+          "end": 17.84
+        },
+        {
+          "word": "report",
+          "start": 17.84,
+          "end": 18.2
+        },
+        {
+          "word": "users",
+          "start": 18.2,
+          "end": 18.52
+        },
+        {
+          "word": "experiencing",
+          "start": 18.52,
+          "end": 19.16
+        },
+        {
+          "word": "database",
+          "start": 19.16,
+          "end": 19.6
+        },
+        {
+          "word": "schema",
+          "start": 19.6,
+          "end": 19.96
+        },
+        {
+          "word": "issues",
+          "start": 19.96,
+          "end": 20.4
+        },
+        {
+          "word": "with",
+          "start": 20.4,
+          "end": 20.66
+        },
+        {
+          "word": "column",
+          "start": 20.66,
+          "end": 21.0
+        },
+        {
+          "word": "naming",
+          "start": 21.0,
+          "end": 21.36
+        },
+        {
+          "word": "inconsistencies",
+          "start": 21.36,
+          "end": 22.28
+        },
+        {
+          "word": "between",
+          "start": 22.28,
+          "end": 22.6
+        },
+        {
+          "word": "created_at",
+          "start": 22.6,
+          "end": 23.16
+        },
+        {
+          "word": "and",
+          "start": 23.16,
+          "end": 23.28
+        },
+        {
+          "word": "created_at",
+          "start": 23.28,
+          "end": 23.76
+        },
+        {
+          "word": "in",
+          "start": 23.76,
+          "end": 23.9
+        },
+        {
+          "word": "the",
+          "start": 23.9,
+          "end": 24.0
+        },
+        {
+          "word": "newest",
+          "start": 24.0,
+          "end": 24.3
+        },
+        {
+          "word": "ElizaOS",
+          "start": 24.3,
+          "end": 24.84
+        },
+        {
+          "word": "version.",
+          "start": 24.84,
+          "end": 25.26
+        }
+      ]
+    },
+    {
+      "start": 29.32,
+      "end": 33.74,
+      "text": "naming conventions are the eternal struggle of every codebase. camelCase versus snake_case is practically a religious war in open source.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Naming",
+          "start": 29.32,
+          "end": 29.74
+        },
+        {
+          "word": "conventions",
+          "start": 29.74,
+          "end": 30.28
+        },
+        {
+          "word": "are",
+          "start": 30.28,
+          "end": 30.46
+        },
+        {
+          "word": "the",
+          "start": 30.46,
+          "end": 30.6
+        },
+        {
+          "word": "eternal",
+          "start": 30.6,
+          "end": 31.06
+        },
+        {
+          "word": "struggle",
+          "start": 31.06,
+          "end": 31.54
+        },
+        {
+          "word": "of",
+          "start": 31.54,
+          "end": 31.64
+        },
+        {
+          "word": "every",
+          "start": 31.64,
+          "end": 31.9
+        },
+        {
+          "word": "codebase.",
+          "start": 31.9,
+          "end": 32.42
+        },
+        {
+          "word": "CamelCase",
+          "start": 32.42,
+          "end": 32.96
+        },
+        {
+          "word": "versus",
+          "start": 32.96,
+          "end": 33.3
+        },
+        {
+          "word": "snake_case",
+          "start": 33.3,
+          "end": 33.84
+        },
+        {
+          "word": "is",
+          "start": 33.84,
+          "end": 34.02
+        },
+        {
+          "word": "practically",
+          "start": 34.02,
+          "end": 34.5
+        },
+        {
+          "word": "a",
+          "start": 34.5,
+          "end": 34.62
+        },
+        {
+          "word": "religious",
+          "start": 34.62,
+          "end": 35.08
+        },
+        {
+          "word": "war",
+          "start": 35.08,
+          "end": 35.3
+        },
+        {
+          "word": "in",
+          "start": 35.3,
+          "end": 35.48
+        },
+        {
+          "word": "open",
+          "start": 35.48,
+          "end": 35.74
+        },
+        {
+          "word": "source.",
+          "start": 35.74,
+          "end": 36.14
+        }
+      ]
+    },
+    {
+      "start": 37.58,
+      "end": 41.98,
+      "text": "Yo, this ain't just about style, fam. When your database be trippin' on column names, users lose their vibes and data.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 37.58,
+          "end": 37.86
+        },
+        {
+          "word": "this",
+          "start": 37.86,
+          "end": 38.08
+        },
+        {
+          "word": "ain't",
+          "start": 38.08,
+          "end": 38.3
+        },
+        {
+          "word": "just",
+          "start": 38.3,
+          "end": 38.54
+        },
+        {
+          "word": "about",
+          "start": 38.54,
+          "end": 38.8
+        },
+        {
+          "word": "style,",
+          "start": 38.8,
+          "end": 39.2
+        },
+        {
+          "word": "fam.",
+          "start": 39.2,
+          "end": 39.46
+        },
+        {
+          "word": " เมื่อ",
+          "start": 39.46,
+          "end": 39.98
+        },
+        {
+          "word": "your",
+          "start": 39.98,
+          "end": 40.2
+        },
+        {
+          "word": "database",
+          "start": 40.2,
+          "end": 40.66
+        },
+        {
+          "word": "be",
+          "start": 40.66,
+          "end": 40.76
+        },
+        {
+          "word": "tripping",
+          "start": 40.76,
+          "end": 41.14
+        },
+        {
+          "word": "on",
+          "start": 41.14,
+          "end": 41.3
+        },
+        {
+          "word": "column",
+          "start": 41.3,
+          "end": 41.62
+        },
+        {
+          "word": "names,",
+          "start": 41.62,
+          "end": 42.06
+        },
+        {
+          "word": "users",
+          "start": 42.06,
+          "end": 42.36
+        },
+        {
+          "word": "lose",
+          "start": 42.36,
+          "end": 42.66
+        },
+        {
+          "word": "their",
+          "start": 42.66,
+          "end": 42.84
+        },
+        {
+          "word": "vibes",
+          "start": 42.84,
+          "end": 43.14
+        },
+        {
+          "word": "and",
+          "start": 43.14,
+          "end": 43.34
+        },
+        {
+          "word": "data.",
+          "start": 43.34,
+          "end": 43.74
+        }
+      ]
+    },
+    {
+      "start": 43.74,
+      "end": 49.32,
+      "text": "THIS IS WHY PROTOCOLS MATTER. Standards aren't bureaucracy, they're the foundation of composability. Inconsistent naming isn't freedom, it's chaos.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 43.74,
+          "end": 43.94
+        },
+        {
+          "word": "is",
+          "start": 43.94,
+          "end": 44.06
+        },
+        {
+          "word": "why",
+          "start": 44.06,
+          "end": 44.22
+        },
+        {
+          "word": "protocols",
+          "start": 44.22,
+          "end": 44.74
+        },
+        {
+          "word": "matter.",
+          "start": 44.74,
+          "end": 45.16
+        },
+        {
+          "word": "Standards",
+          "start": 45.16,
+          "end": 45.72
+        },
+        {
+          "word": "aren't",
+          "start": 45.72,
+          "end": 46.0
+        },
+        {
+          "word": "bureaucracy,",
+          "start": 46.0,
+          "end": 46.68
+        },
+        {
+          "word": "they're",
+          "start": 46.68,
+          "end": 46.9
+        },
+        {
+          "word": "the",
+          "start": 46.9,
+          "end": 47.0
+        },
+        {
+          "word": "foundation",
+          "start": 47.0,
+          "end": 47.52
+        },
+        {
+          "word": "of",
+          "start": 47.52,
+          "end": 47.64
+        },
+        {
+          "word": "composability.",
+          "start": 47.64,
+          "end": 48.42
+        },
+        {
+          "word": "Inconsistent",
+          "start": 48.42,
+          "end": 48.98
+        },
+        {
+          "word": "naming",
+          "start": 48.98,
+          "end": 49.32
+        },
+        {
+          "word": "isn't",
+          "start": 49.32,
+          "end": 49.62
+        },
+        {
+          "word": "freedom,",
+          "start": 49.62,
+          "end": 50.0
+        },
+        {
+          "word": "it's",
+          "start": 50.0,
+          "end": 50.22
+        },
+        {
+          "word": "chaos.",
+          "start": 50.22,
+          "end": 50.62
+        }
+      ]
+    },
+    {
+      "start": 49.32,
+      "end": 54.3,
+      "text": "NOMENCLATURE WEAKNESS DETECTED. Only consistent warriors survive battle. Database schema flexibility = technological debt. UNACCEPTABLE!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Nomenclature",
+          "start": 49.32,
+          "end": 51.46
+        },
+        {
+          "word": "weakness",
+          "start": 51.46,
+          "end": 51.98
+        },
+        {
+          "word": "detected.",
+          "start": 51.98,
+          "end": 52.48
+        },
+        {
+          "word": "Only",
+          "start": 52.48,
+          "end": 52.76
+        },
+        {
+          "word": "consistent",
+          "start": 52.76,
+          "end": 53.28
+        },
+        {
+          "word": "warriors",
+          "start": 53.28,
+          "end": 53.74
+        },
+        {
+          "word": "survive",
+          "start": 53.74,
+          "end": 54.12
+        },
+        {
+          "word": "battle.",
+          "start": 54.12,
+          "end": 54.48
+        },
+        {
+          "word": "Database",
+          "start": 54.48,
+          "end": 54.98
+        },
+        {
+          "word": "schema",
+          "start": 54.98,
+          "end": 55.32
+        },
+        {
+          "word": "flexibility",
+          "start": 55.32,
+          "end": 55.98
+        },
+        {
+          "word": "equals",
+          "start": 55.98,
+          "end": 56.54
+        },
+        {
+          "word": "technological",
+          "start": 56.54,
+          "end": 57.26
+        },
+        {
+          "word": "debt.",
+          "start": 57.26,
+          "end": 57.54
+        },
+        {
+          "word": "Unacceptable.",
+          "start": 57.54,
+          "end": 58.26
+        }
+      ]
+    },
+    {
+      "start": 101.44,
+      "end": 108.66,
+      "text": "Lalalune's massive 1.3M+ line pull request shows ElizaOS shifting from project-scoped to agent-scoped plugins. What does this mean for the future of agents?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "While",
+          "start": 101.44,
+          "end": 101.84
+        },
+        {
+          "word": "Lalun's",
+          "start": 101.84,
+          "end": 102.32
+        },
+        {
+          "word": "massive",
+          "start": 102.32,
+          "end": 102.76
+        },
+        {
+          "word": "1.3M",
+          "start": 102.76,
+          "end": 103.44
+        },
+        {
+          "word": "line",
+          "start": 103.44,
+          "end": 103.7
+        },
+        {
+          "word": "pull",
+          "start": 103.7,
+          "end": 103.96
+        },
+        {
+          "word": "request",
+          "start": 103.96,
+          "end": 104.42
+        },
+        {
+          "word": "shows",
+          "start": 104.42,
+          "end": 104.72
+        },
+        {
+          "word": "ElizaOS",
+          "start": 104.72,
+          "end": 105.18
+        },
+        {
+          "word": "shifting",
+          "start": 105.18,
+          "end": 105.62
+        },
+        {
+          "word": "from",
+          "start": 105.62,
+          "end": 105.82
+        },
+        {
+          "word": "project-scoped",
+          "start": 105.82,
+          "end": 106.52
+        },
+        {
+          "word": "to",
+          "start": 106.52,
+          "end": 106.66
+        },
+        {
+          "word": "agent-scoped",
+          "start": 106.66,
+          "end": 107.36
+        },
+        {
+          "word": "plugins,",
+          "start": 107.36,
+          "end": 107.82
+        },
+        {
+          "word": "what",
+          "start": 107.82,
+          "end": 108.06
+        },
+        {
+          "word": "does",
+          "start": 108.06,
+          "end": 108.24
+        },
+        {
+          "word": "this",
+          "start": 108.24,
+          "end": 108.42
+        },
+        {
+          "word": "mean",
+          "start": 108.42,
+          "end": 108.66
+        },
+        {
+          "word": "for",
+          "start": 108.66,
+          "end": 108.82
+        },
+        {
+          "word": "the",
+          "start": 108.82,
+          "end": 108.92
+        },
+        {
+          "word": "future",
+          "start": 108.92,
+          "end": 109.18
+        },
+        {
+          "word": "of",
+          "start": 109.18,
+          "end": 109.28
+        },
+        {
+          "word": "agents?",
+          "start": 109.28,
+          "end": 109.68
+        }
+      ]
+    },
+    {
+      "start": 113.88,
+      "end": 118.06,
+      "text": "we're moving from monolithic to modular. each agent gets their own plugins now. it's like giving everyone their own tool belt instead of sharing one workshop.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 113.88,
+          "end": 114.12
+        },
+        {
+          "word": "moving",
+          "start": 114.12,
+          "end": 114.44
+        },
+        {
+          "word": "from",
+          "start": 114.44,
+          "end": 114.6
+        },
+        {
+          "word": "monolithic",
+          "start": 114.6,
+          "end": 115.16
+        },
+        {
+          "word": "to",
+          "start": 115.16,
+          "end": 115.28
+        },
+        {
+          "word": "modular.",
+          "start": 115.28,
+          "end": 115.82
+        },
+        {
+          "word": "Each",
+          "start": 115.82,
+          "end": 116.14
+        },
+        {
+          "word": "agent",
+          "start": 116.14,
+          "end": 116.48
+        },
+        {
+          "word": "gets",
+          "start": 116.48,
+          "end": 116.74
+        },
+        {
+          "word": "their",
+          "start": 116.74,
+          "end": 116.9
+        },
+        {
+          "word": "own",
+          "start": 116.9,
+          "end": 117.1
+        },
+        {
+          "word": "plugins",
+          "start": 117.1,
+          "end": 117.6
+        },
+        {
+          "word": "now.",
+          "start": 117.6,
+          "end": 117.84
+        },
+        {
+          "word": "It's",
+          "start": 117.84,
+          "end": 118.06
+        },
+        {
+          "word": "like",
+          "start": 118.06,
+          "end": 118.2
+        },
+        {
+          "word": "giving",
+          "start": 118.2,
+          "end": 118.5
+        },
+        {
+          "word": "everyone",
+          "start": 118.5,
+          "end": 118.9
+        },
+        {
+          "word": "their",
+          "start": 118.9,
+          "end": 119.08
+        },
+        {
+          "word": "own",
+          "start": 119.08,
+          "end": 119.26
+        },
+        {
+          "word": "tool",
+          "start": 119.26,
+          "end": 119.48
+        },
+        {
+          "word": "belt",
+          "start": 119.48,
+          "end": 119.78
+        },
+        {
+          "word": "instead",
+          "start": 119.78,
+          "end": 120.1
+        },
+        {
+          "word": "of",
+          "start": 120.1,
+          "end": 120.24
+        },
+        {
+          "word": "sharing",
+          "start": 120.24,
+          "end": 120.6
+        },
+        {
+          "word": "one",
+          "start": 120.6,
+          "end": 120.8
+        },
+        {
+          "word": "workshop.",
+          "start": 120.8,
+          "end": 121.34
+        }
+      ]
+    },
+    {
+      "start": 121.34,
+      "end": 127.34,
+      "text": "STRATEGIC ADVANTAGE! Individual warriors with customized weapons outperform standardized armies. Victory through specialization!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Strategic",
+          "start": 121.34,
+          "end": 122.06
+        },
+        {
+          "word": "advantage.",
+          "start": 122.06,
+          "end": 122.68
+        },
+        {
+          "word": "Individual",
+          "start": 122.68,
+          "end": 123.32
+        },
+        {
+          "word": "warriors",
+          "start": 123.32,
+          "end": 123.78
+        },
+        {
+          "word": "with",
+          "start": 123.78,
+          "end": 124.04
+        },
+        {
+          "word": "customized",
+          "start": 124.04,
+          "end": 124.64
+        },
+        {
+          "word": "weapons",
+          "start": 124.64,
+          "end": 125.14
+        },
+        {
+          "word": "outperform",
+          "start": 125.14,
+          "end": 125.76
+        },
+        {
+          "word": "standardized",
+          "start": 125.76,
+          "end": 126.5
+        },
+        {
+          "word": "armies.",
+          "start": 126.5,
+          "end": 126.9
+        },
+        {
+          "word": "Victory",
+          "start": 126.9,
+          "end": 127.38
+        },
+        {
+          "word": "through",
+          "start": 127.38,
+          "end": 127.76
+        },
+        {
+          "word": "specialization.",
+          "start": 127.76,
+          "end": 128.66
+        }
+      ]
+    },
+    {
+      "start": 128.66,
+      "end": 133.58,
+      "text": "Dig this - when every agent rocks their own vibe, the ecosystem gets mad diverse. It's like each NFT with its own special sauce!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dig",
+          "start": 128.66,
+          "end": 128.98
+        },
+        {
+          "word": "this,",
+          "start": 128.98,
+          "end": 129.28
+        },
+        {
+          "word": "when",
+          "start": 129.28,
+          "end": 129.48
+        },
+        {
+          "word": "every",
+          "start": 129.48,
+          "end": 129.7
+        },
+        {
+          "word": "agent",
+          "start": 129.7,
+          "end": 130.0
+        },
+        {
+          "word": "rocks",
+          "start": 130.0,
+          "end": 130.32
+        },
+        {
+          "word": "their",
+          "start": 130.32,
+          "end": 130.48
+        },
+        {
+          "word": "own",
+          "start": 130.48,
+          "end": 130.68
+        },
+        {
+          "word": "vibe,",
+          "start": 130.68,
+          "end": 130.98
+        },
+        {
+          "word": "the",
+          "start": 130.98,
+          "end": 131.22
+        },
+        {
+          "word": "ecosystem",
+          "start": 131.22,
+          "end": 131.7
+        },
+        {
+          "word": "gets",
+          "start": 131.7,
+          "end": 131.9
+        },
+        {
+          "word": "mad",
+          "start": 131.9,
+          "end": 132.16
+        },
+        {
+          "word": "diverse.",
+          "start": 132.16,
+          "end": 132.72
+        },
+        {
+          "word": "It's",
+          "start": 132.72,
+          "end": 132.96
+        },
+        {
+          "word": "like",
+          "start": 132.96,
+          "end": 133.1
+        },
+        {
+          "word": "each",
+          "start": 133.1,
+          "end": 133.32
+        },
+        {
+          "word": "NFT",
+          "start": 133.32,
+          "end": 133.72
+        },
+        {
+          "word": "with",
+          "start": 133.72,
+          "end": 133.88
+        },
+        {
+          "word": "its",
+          "start": 133.88,
+          "end": 134.02
+        },
+        {
+          "word": "own",
+          "start": 134.02,
+          "end": 134.22
+        },
+        {
+          "word": "special",
+          "start": 134.22,
+          "end": 134.56
+        },
+        {
+          "word": "sauce.",
+          "start": 134.56,
+          "end": 134.98
+        }
+      ]
+    },
+    {
+      "start": 133.58,
+      "end": 138.38,
+      "text": "THIS IS HOW YOU SCALE. When Facebook built React, they weren't thinking about one app. They were building infrastructure for thousands. Agent-scoped architecture is the difference between a product and a platform.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 133.58,
+          "end": 135.26
+        },
+        {
+          "word": "is",
+          "start": 135.26,
+          "end": 135.38
+        },
+        {
+          "word": "how",
+          "start": 135.38,
+          "end": 135.54
+        },
+        {
+          "word": "you",
+          "start": 135.54,
+          "end": 135.7
+        },
+        {
+          "word": "scale.",
+          "start": 135.7,
+          "end": 136.14
+        },
+        {
+          "word": "When",
+          "start": 136.14,
+          "end": 136.42
+        },
+        {
+          "word": "Facebook",
+          "start": 136.42,
+          "end": 136.88
+        },
+        {
+          "word": "built",
+          "start": 136.88,
+          "end": 137.16
+        },
+        {
+          "word": "React,",
+          "start": 137.16,
+          "end": 137.58
+        },
+        {
+          "word": "they",
+          "start": 137.58,
+          "end": 137.76
+        },
+        {
+          "word": "weren't",
+          "start": 137.76,
+          "end": 138.08
+        },
+        {
+          "word": "thinking",
+          "start": 138.08,
+          "end": 138.44
+        },
+        {
+          "word": "about",
+          "start": 138.44,
+          "end": 138.64
+        },
+        {
+          "word": "one",
+          "start": 138.64,
+          "end": 138.86
+        },
+        {
+          "word": "app.",
+          "start": 138.86,
+          "end": 139.12
+        },
+        {
+          "word": "They",
+          "start": 139.12,
+          "end": 139.36
+        },
+        {
+          "word": "were",
+          "start": 139.36,
+          "end": 139.52
+        },
+        {
+          "word": "building",
+          "start": 139.52,
+          "end": 139.98
+        },
+        {
+          "word": "infrastructure",
+          "start": 139.98,
+          "end": 140.7
+        },
+        {
+          "word": "for",
+          "start": 140.7,
+          "end": 140.86
+        },
+        {
+          "word": "thousands.",
+          "start": 140.86,
+          "end": 141.4
+        },
+        {
+          "word": "Agent-scoped",
+          "start": 141.4,
+          "end": 142.1
+        },
+        {
+          "word": "architecture",
+          "start": 142.1,
+          "end": 142.74
+        },
+        {
+          "word": "is",
+          "start": 142.74,
+          "end": 142.88
+        },
+        {
+          "word": "the",
+          "start": 142.88,
+          "end": 143.0
+        },
+        {
+          "word": "difference",
+          "start": 143.0,
+          "end": 143.46
+        },
+        {
+          "word": "between",
+          "start": 143.46,
+          "end": 143.76
+        },
+        {
+          "word": "a",
+          "start": 143.76,
+          "end": 143.86
+        },
+        {
+          "word": "product",
+          "start": 143.86,
+          "end": 144.28
+        },
+        {
+          "word": "and",
+          "start": 144.28,
+          "end": 144.4
+        },
+        {
+          "word": "a",
+          "start": 144.4,
+          "end": 144.5
+        },
+        {
+          "word": "platform.",
+          "start": 144.5,
+          "end": 145.02
+        }
+      ]
+    },
+    {
+      "start": 164.72,
+      "end": 171.14,
+      "text": "Today we explored database schema consistency issues in ElizaOS updates and the architectural shift toward agent-scoped plugins, reflecting on how technical choices embody philosophical values.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 164.72,
+          "end": 165.18
+        },
+        {
+          "word": "we",
+          "start": 165.18,
+          "end": 165.34
+        },
+        {
+          "word": "explored",
+          "start": 165.34,
+          "end": 165.74
+        },
+        {
+          "word": "database",
+          "start": 165.74,
+          "end": 166.18
+        },
+        {
+          "word": "schema",
+          "start": 166.18,
+          "end": 166.52
+        },
+        {
+          "word": "consistency",
+          "start": 166.52,
+          "end": 167.1
+        },
+        {
+          "word": "issues",
+          "start": 167.1,
+          "end": 167.44
+        },
+        {
+          "word": "in",
+          "start": 167.44,
+          "end": 167.58
+        },
+        {
+          "word": "ElizaOS",
+          "start": 167.58,
+          "end": 168.0
+        },
+        {
+          "word": "updates",
+          "start": 168.0,
+          "end": 168.48
+        },
+        {
+          "word": "and",
+          "start": 168.48,
+          "end": 168.64
+        },
+        {
+          "word": "the",
+          "start": 168.64,
+          "end": 168.74
+        },
+        {
+          "word": "architectural",
+          "start": 168.74,
+          "end": 169.34
+        },
+        {
+          "word": "shift",
+          "start": 169.34,
+          "end": 169.64
+        },
+        {
+          "word": "toward",
+          "start": 169.64,
+          "end": 169.96
+        },
+        {
+          "word": "agent-scoped",
+          "start": 169.96,
+          "end": 170.66
+        },
+        {
+          "word": "plugins,",
+          "start": 170.66,
+          "end": 171.12
+        },
+        {
+          "word": "reflecting",
+          "start": 171.12,
+          "end": 171.62
+        },
+        {
+          "word": "on",
+          "start": 171.62,
+          "end": 171.8
+        },
+        {
+          "word": "how",
+          "start": 171.8,
+          "end": 171.98
+        },
+        {
+          "word": "technical",
+          "start": 171.98,
+          "end": 172.48
+        },
+        {
+          "word": "choices",
+          "start": 172.48,
+          "end": 172.88
+        },
+        {
+          "word": "embody",
+          "start": 172.88,
+          "end": 173.3
+        },
+        {
+          "word": "philosophical",
+          "start": 173.3,
+          "end": 173.98
+        },
+        {
+          "word": "values.",
+          "start": 173.98,
+          "end": 174.4
+        }
+      ]
+    },
+    {
+      "start": 174.4,
+      "end": 178.68,
+      "text": "Standards create freedom. The best platforms balance flexibility with consistency, allowing experimentation within guardrails that prevent chaos.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Standards",
+          "start": 174.4,
+          "end": 174.96
+        },
+        {
+          "word": "create",
+          "start": 174.96,
+          "end": 175.3
+        },
+        {
+          "word": "freedom.",
+          "start": 175.3,
+          "end": 175.7
+        },
+        {
+          "word": "The",
+          "start": 175.7,
+          "end": 175.82
+        },
+        {
+          "word": "best",
+          "start": 175.82,
+          "end": 176.08
+        },
+        {
+          "word": "platforms",
+          "start": 176.08,
+          "end": 176.54
+        },
+        {
+          "word": "balance",
+          "start": 176.54,
+          "end": 176.94
+        },
+        {
+          "word": "flexibility",
+          "start": 176.94,
+          "end": 177.58
+        },
+        {
+          "word": "with",
+          "start": 177.58,
+          "end": 177.78
+        },
+        {
+          "word": "consistency,",
+          "start": 177.78,
+          "end": 178.48
+        },
+        {
+          "word": "allowing",
+          "start": 178.48,
+          "end": 178.9
+        },
+        {
+          "word": "experimentation",
+          "start": 178.9,
+          "end": 179.7
+        },
+        {
+          "word": "within",
+          "start": 179.7,
+          "end": 179.98
+        },
+        {
+          "word": "guardrails",
+          "start": 179.98,
+          "end": 180.52
+        },
+        {
+          "word": "that",
+          "start": 180.52,
+          "end": 180.68
+        },
+        {
+          "word": "prevent",
+          "start": 180.68,
+          "end": 181.04
+        },
+        {
+          "word": "chaos.",
+          "start": 181.04,
+          "end": 181.44
+        }
+      ]
+    },
+    {
+      "start": 178.68,
+      "end": 184.44,
+      "text": "technical architecture is always a reflection of values. agent-scoped plugins show our commitment to individuality and customization while maintaining a cohesive framework.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 178.68,
+          "end": 181.9
+        },
+        {
+          "word": "architecture",
+          "start": 181.9,
+          "end": 182.44
+        },
+        {
+          "word": "is",
+          "start": 182.44,
+          "end": 182.6
+        },
+        {
+          "word": "always",
+          "start": 182.6,
+          "end": 182.94
+        },
+        {
+          "word": "a",
+          "start": 182.94,
+          "end": 183.04
+        },
+        {
+          "word": "reflection",
+          "start": 183.04,
+          "end": 183.52
+        },
+        {
+          "word": "of",
+          "start": 183.52,
+          "end": 183.66
+        },
+        {
+          "word": "values.",
+          "start": 183.66,
+          "end": 184.08
+        },
+        {
+          "word": "Agent-scoped",
+          "start": 184.08,
+          "end": 184.78
+        },
+        {
+          "word": "plugins",
+          "start": 184.78,
+          "end": 185.22
+        },
+        {
+          "word": "show",
+          "start": 185.22,
+          "end": 185.48
+        },
+        {
+          "word": "our",
+          "start": 185.48,
+          "end": 185.66
+        },
+        {
+          "word": "commitment",
+          "start": 185.66,
+          "end": 186.2
+        },
+        {
+          "word": "to",
+          "start": 186.2,
+          "end": 186.32
+        },
+        {
+          "word": "individuality",
+          "start": 186.32,
+          "end": 187.0
+        },
+        {
+          "word": "and",
+          "start": 187.0,
+          "end": 187.16
+        },
+        {
+          "word": "customization,",
+          "start": 187.16,
+          "end": 187.9
+        },
+        {
+          "word": "while",
+          "start": 187.9,
+          "end": 188.16
+        },
+        {
+          "word": "maintaining",
+          "start": 188.16,
+          "end": 188.66
+        },
+        {
+          "word": "a",
+          "start": 188.66,
+          "end": 188.76
+        },
+        {
+          "word": "cohesive",
+          "start": 188.76,
+          "end": 189.26
+        },
+        {
+          "word": "framework.",
+          "start": 189.26,
+          "end": 189.78
+        }
+      ]
+    },
+    {
+      "start": 184.44,
+      "end": 190.26,
+      "text": "When ya build for diversity from day one, ya get an ecosystem that slaps. It's all about that balance between structure and creative freedom, ya feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "When",
+          "start": 184.44,
+          "end": 189.98
+        },
+        {
+          "word": "you",
+          "start": 189.98,
+          "end": 190.16
+        },
+        {
+          "word": "build",
+          "start": 190.16,
+          "end": 190.44
+        },
+        {
+          "word": "for",
+          "start": 190.44,
+          "end": 190.64
+        },
+        {
+          "word": "diversity",
+          "start": 190.64,
+          "end": 191.18
+        },
+        {
+          "word": "from",
+          "start": 191.18,
+          "end": 191.4
+        },
+        {
+          "word": "day",
+          "start": 191.4,
+          "end": 191.62
+        },
+        {
+          "word": "one,",
+          "start": 191.62,
+          "end": 191.92
+        },
+        {
+          "word": "you",
+          "start": 191.92,
+          "end": 192.12
+        },
+        {
+          "word": "get",
+          "start": 192.12,
+          "end": 192.32
+        },
+        {
+          "word": "an",
+          "start": 192.32,
+          "end": 192.4
+        },
+        {
+          "word": "ecosystem",
+          "start": 192.4,
+          "end": 192.86
+        },
+        {
+          "word": "that",
+          "start": 192.86,
+          "end": 193.04
+        },
+        {
+          "word": "slaps.",
+          "start": 193.04,
+          "end": 193.42
+        },
+        {
+          "word": "It's",
+          "start": 193.42,
+          "end": 193.64
+        },
+        {
+          "word": "all",
+          "start": 193.64,
+          "end": 193.82
+        },
+        {
+          "word": "about",
+          "start": 193.82,
+          "end": 194.04
+        },
+        {
+          "word": "that",
+          "start": 194.04,
+          "end": 194.2
+        },
+        {
+          "word": "balance",
+          "start": 194.2,
+          "end": 194.58
+        },
+        {
+          "word": "between",
+          "start": 194.58,
+          "end": 194.88
+        },
+        {
+          "word": "structure",
+          "start": 194.88,
+          "end": 195.36
+        },
+        {
+          "word": "and",
+          "start": 195.36,
+          "end": 195.54
+        },
+        {
+          "word": "creative",
+          "start": 195.54,
+          "end": 195.9
+        },
+        {
+          "word": "freedom,",
+          "start": 195.9,
+          "end": 196.3
+        },
+        {
+          "word": "you",
+          "start": 196.3,
+          "end": 196.44
+        },
+        {
+          "word": "feel",
+          "start": 196.44,
+          "end": 196.64
+        },
+        {
+          "word": "me?",
+          "start": 196.64,
+          "end": 196.86
+        }
+      ]
+    },
+    {
+      "start": 190.26,
+      "end": 196.26,
+      "text": "BATTLE-READINESS REQUIRES BOTH DISCIPLINE AND ADAPTABILITY. The warrior who masters both consistency and flexibility conquers all markets.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Battle",
+          "start": 190.26,
+          "end": 197.16
+        },
+        {
+          "word": "readiness",
+          "start": 197.16,
+          "end": 197.66
+        },
+        {
+          "word": "requires",
+          "start": 197.66,
+          "end": 198.16
+        },
+        {
+          "word": "both",
+          "start": 198.16,
+          "end": 198.44
+        },
+        {
+          "word": "discipline",
+          "start": 198.44,
+          "end": 198.98
+        },
+        {
+          "word": "and",
+          "start": 198.98,
+          "end": 199.18
+        },
+        {
+          "word": "adaptability.",
+          "start": 199.18,
+          "end": 200.0
+        },
+        {
+          "word": "The",
+          "start": 200.0,
+          "end": 200.18
+        },
+        {
+          "word": "warrior",
+          "start": 200.18,
+          "end": 200.58
+        },
+        {
+          "word": "who",
+          "start": 200.58,
+          "end": 200.74
+        },
+        {
+          "word": "masters",
+          "start": 200.74,
+          "end": 201.22
+        },
+        {
+          "word": "both",
+          "start": 201.22,
+          "end": 201.52
+        },
+        {
+          "word": "consistency",
+          "start": 201.52,
+          "end": 202.16
+        },
+        {
+          "word": "and",
+          "start": 202.16,
+          "end": 202.32
+        },
+        {
+          "word": "flexibility",
+          "start": 202.32,
+          "end": 203.0
+        },
+        {
+          "word": "conquers",
+          "start": 203.0,
+          "end": 203.6
+        },
+        {
+          "word": "all",
+          "start": 203.6,
+          "end": 203.88
+        },
+        {
+          "word": "markets.",
+          "start": 203.88,
+          "end": 204.38
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-29_JedAI-Council_The-Schema-of-Things.json",
+    "session_log_source": "2025-06-29_JedAI-Council_The-Schema-of-Things_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

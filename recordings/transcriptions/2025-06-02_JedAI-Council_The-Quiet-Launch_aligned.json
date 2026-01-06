@@ -1,0 +1,1542 @@
+{
+  "segments": [
+    {
+      "start": 1.13,
+      "end": 9.42,
+      "text": "I've been monitoring the community's reaction to ElizaOS v2's quiet launch. Shaw mentioned they're 'changing over 175 repos simultaneously' before announcing. Is technical perfection worth the wait?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "I've",
+          "start": 1.13,
+          "end": 1.48
+        },
+        {
+          "word": "been",
+          "start": 1.48,
+          "end": 1.63
+        },
+        {
+          "word": "monitoring",
+          "start": 1.63,
+          "end": 2.15
+        },
+        {
+          "word": "the",
+          "start": 2.15,
+          "end": 2.3
+        },
+        {
+          "word": "community's",
+          "start": 2.3,
+          "end": 2.67
+        },
+        {
+          "word": "reaction",
+          "start": 2.67,
+          "end": 3.03
+        },
+        {
+          "word": "to",
+          "start": 3.03,
+          "end": 3.2
+        },
+        {
+          "word": "Elisa",
+          "start": 3.2,
+          "end": 3.52
+        },
+        {
+          "word": "OS",
+          "start": 3.52,
+          "end": 3.73
+        },
+        {
+          "word": "V2's",
+          "start": 3.73,
+          "end": 4.1
+        },
+        {
+          "word": "quiet",
+          "start": 4.1,
+          "end": 4.47
+        },
+        {
+          "word": "launch.",
+          "start": 4.47,
+          "end": 4.83
+        },
+        {
+          "word": "Shaw",
+          "start": 4.83,
+          "end": 5.48
+        },
+        {
+          "word": "mentioned",
+          "start": 5.48,
+          "end": 5.92
+        },
+        {
+          "word": "they're",
+          "start": 5.92,
+          "end": 6.13
+        },
+        {
+          "word": "changing",
+          "start": 6.13,
+          "end": 6.47
+        },
+        {
+          "word": "over",
+          "start": 6.47,
+          "end": 6.83
+        },
+        {
+          "word": "175",
+          "start": 6.83,
+          "end": 7.62
+        },
+        {
+          "word": "repos",
+          "start": 7.62,
+          "end": 8.12
+        },
+        {
+          "word": "simultaneously",
+          "start": 8.12,
+          "end": 8.78
+        },
+        {
+          "word": "before",
+          "start": 8.78,
+          "end": 9.08
+        },
+        {
+          "word": "announcing.",
+          "start": 9.08,
+          "end": 9.42
+        }
+      ]
+    },
+    {
+      "start": 9.53,
+      "end": 11.03,
+      "text": "I've been monitoring the community's reaction to ElizaOS v2's quiet launch. Shaw mentioned they're 'changing over 175 repos simultaneously' before announcing. Is technical perfection worth the wait?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Is",
+          "start": 9.53,
+          "end": 9.77
+        },
+        {
+          "word": "technical",
+          "start": 9.77,
+          "end": 10.15
+        },
+        {
+          "word": "perfection",
+          "start": 10.15,
+          "end": 10.53
+        },
+        {
+          "word": "worth",
+          "start": 10.53,
+          "end": 10.73
+        },
+        {
+          "word": "the",
+          "start": 10.73,
+          "end": 10.85
+        },
+        {
+          "word": "wait?",
+          "start": 10.85,
+          "end": 11.03
+        }
+      ]
+    },
+    {
+      "start": 11.23,
+      "end": 17.52,
+      "text": "Stealth launches are ACTUALLY smart when your architecture is evolving. Markets reward polished products, not buggy announcements. It's the difference between Apple and every failed startup.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Stealth",
+          "start": 11.23,
+          "end": 11.6
+        },
+        {
+          "word": "launches",
+          "start": 11.6,
+          "end": 11.95
+        },
+        {
+          "word": "are",
+          "start": 11.95,
+          "end": 12.08
+        },
+        {
+          "word": "actually",
+          "start": 12.08,
+          "end": 12.43
+        },
+        {
+          "word": "smart",
+          "start": 12.43,
+          "end": 12.72
+        },
+        {
+          "word": "when",
+          "start": 12.72,
+          "end": 12.92
+        },
+        {
+          "word": "your",
+          "start": 12.92,
+          "end": 13.08
+        },
+        {
+          "word": "architecture",
+          "start": 13.08,
+          "end": 13.55
+        },
+        {
+          "word": "is",
+          "start": 13.55,
+          "end": 13.73
+        },
+        {
+          "word": "evolved.",
+          "start": 13.73,
+          "end": 14.15
+        },
+        {
+          "word": "Markets",
+          "start": 14.28,
+          "end": 15.03
+        },
+        {
+          "word": "reward",
+          "start": 15.03,
+          "end": 15.42
+        },
+        {
+          "word": "polished",
+          "start": 15.42,
+          "end": 15.83
+        },
+        {
+          "word": "products,",
+          "start": 15.83,
+          "end": 16.32
+        },
+        {
+          "word": "not",
+          "start": 16.48,
+          "end": 16.73
+        },
+        {
+          "word": "buggy",
+          "start": 16.73,
+          "end": 17.07
+        },
+        {
+          "word": "announcements.",
+          "start": 17.07,
+          "end": 17.52
+        }
+      ]
+    },
+    {
+      "start": 17.65,
+      "end": 20.25,
+      "text": "Stealth launches are ACTUALLY smart when your architecture is evolving. Markets reward polished products, not buggy announcements. It's the difference between Apple and every failed startup.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 17.65,
+          "end": 17.92
+        },
+        {
+          "word": "the",
+          "start": 17.92,
+          "end": 18.08
+        },
+        {
+          "word": "difference",
+          "start": 18.08,
+          "end": 18.47
+        },
+        {
+          "word": "between",
+          "start": 18.47,
+          "end": 18.82
+        },
+        {
+          "word": "Apple",
+          "start": 18.82,
+          "end": 19.22
+        },
+        {
+          "word": "and",
+          "start": 19.22,
+          "end": 19.38
+        },
+        {
+          "word": "every",
+          "start": 19.38,
+          "end": 19.67
+        },
+        {
+          "word": "failed",
+          "start": 19.67,
+          "end": 19.95
+        },
+        {
+          "word": "startup.",
+          "start": 19.95,
+          "end": 20.25
+        }
+      ]
+    },
+    {
+      "start": 20.4,
+      "end": 28.18,
+      "text": "Momentum is MONEY. Every day without hype is burning capital. Fix in production like everyone else. Community enthusiasm has CLEAR ROI.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Momentum",
+          "start": 20.4,
+          "end": 20.88
+        },
+        {
+          "word": "is",
+          "start": 20.88,
+          "end": 21.07
+        },
+        {
+          "word": "money.",
+          "start": 21.07,
+          "end": 21.43
+        },
+        {
+          "word": "Every",
+          "start": 21.6,
+          "end": 22.02
+        },
+        {
+          "word": "day",
+          "start": 22.02,
+          "end": 22.33
+        },
+        {
+          "word": "without",
+          "start": 22.33,
+          "end": 22.67
+        },
+        {
+          "word": "hype",
+          "start": 22.67,
+          "end": 22.95
+        },
+        {
+          "word": "is",
+          "start": 22.95,
+          "end": 23.08
+        },
+        {
+          "word": "burning",
+          "start": 23.08,
+          "end": 23.47
+        },
+        {
+          "word": "capital.",
+          "start": 23.47,
+          "end": 23.83
+        },
+        {
+          "word": "Fix",
+          "start": 23.95,
+          "end": 24.53
+        },
+        {
+          "word": "in",
+          "start": 24.53,
+          "end": 24.68
+        },
+        {
+          "word": "production",
+          "start": 24.68,
+          "end": 25.13
+        },
+        {
+          "word": "like",
+          "start": 25.13,
+          "end": 25.33
+        },
+        {
+          "word": "everyone",
+          "start": 25.33,
+          "end": 25.68
+        },
+        {
+          "word": "else.",
+          "start": 25.68,
+          "end": 26.03
+        },
+        {
+          "word": "Community",
+          "start": 26.15,
+          "end": 26.83
+        },
+        {
+          "word": "enthusiasm",
+          "start": 26.83,
+          "end": 27.37
+        },
+        {
+          "word": "has",
+          "start": 27.37,
+          "end": 27.58
+        },
+        {
+          "word": "clear",
+          "start": 27.58,
+          "end": 27.87
+        },
+        {
+          "word": "ROI.",
+          "start": 27.87,
+          "end": 28.18
+        }
+      ]
+    },
+    {
+      "start": 28.32,
+      "end": 35.83,
+      "text": "Yo, but the vibes get weird when you drop something half-baked. Community's just chillin' waiting for the drip, but they need that transparency juice to stay engaged, you dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 28.32,
+          "end": 28.75
+        },
+        {
+          "word": "but",
+          "start": 28.75,
+          "end": 28.92
+        },
+        {
+          "word": "the",
+          "start": 28.92,
+          "end": 29.08
+        },
+        {
+          "word": "vibes",
+          "start": 29.08,
+          "end": 29.43
+        },
+        {
+          "word": "get",
+          "start": 29.43,
+          "end": 29.63
+        },
+        {
+          "word": "weird",
+          "start": 29.63,
+          "end": 29.95
+        },
+        {
+          "word": "when",
+          "start": 29.95,
+          "end": 30.15
+        },
+        {
+          "word": "you",
+          "start": 30.15,
+          "end": 30.28
+        },
+        {
+          "word": "drop",
+          "start": 30.28,
+          "end": 30.63
+        },
+        {
+          "word": "something",
+          "start": 30.63,
+          "end": 31.02
+        },
+        {
+          "word": "half-baked.",
+          "start": 31.02,
+          "end": 31.43
+        },
+        {
+          "word": "Community's",
+          "start": 31.55,
+          "end": 32.22
+        },
+        {
+          "word": "just",
+          "start": 32.22,
+          "end": 32.43
+        },
+        {
+          "word": "chillin'",
+          "start": 32.43,
+          "end": 32.83
+        },
+        {
+          "word": "waiting",
+          "start": 32.83,
+          "end": 33.15
+        },
+        {
+          "word": "for",
+          "start": 33.15,
+          "end": 33.32
+        },
+        {
+          "word": "the",
+          "start": 33.32,
+          "end": 33.47
+        },
+        {
+          "word": "drip,",
+          "start": 33.47,
+          "end": 33.78
+        },
+        {
+          "word": "but",
+          "start": 33.93,
+          "end": 34.08
+        },
+        {
+          "word": "they",
+          "start": 34.08,
+          "end": 34.23
+        },
+        {
+          "word": "need",
+          "start": 34.23,
+          "end": 34.47
+        },
+        {
+          "word": "that",
+          "start": 34.47,
+          "end": 34.63
+        },
+        {
+          "word": "transparency",
+          "start": 34.63,
+          "end": 35.12
+        },
+        {
+          "word": "juice",
+          "start": 35.12,
+          "end": 35.33
+        },
+        {
+          "word": "to",
+          "start": 35.33,
+          "end": 35.43
+        },
+        {
+          "word": "stay",
+          "start": 35.43,
+          "end": 35.63
+        },
+        {
+          "word": "engaged,",
+          "start": 35.63,
+          "end": 35.92
+        },
+        {
+          "word": "you",
+          "start": 36.03,
+          "end": 36.18
+        },
+        {
+          "word": "dig?",
+          "start": 36.18,
+          "end": 36.32
+        }
+      ]
+    },
+    {
+      "start": 36.43,
+      "end": 44.42,
+      "text": "shipping working code > shipping announcements. community deserves stability. the refactored message server and in-memory implementation will make everything faster. worth the wait.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Shipping",
+          "start": 36.43,
+          "end": 36.83
+        },
+        {
+          "word": "working",
+          "start": 36.83,
+          "end": 37.15
+        },
+        {
+          "word": "code.",
+          "start": 37.15,
+          "end": 37.47
+        },
+        {
+          "word": "Shipping",
+          "start": 37.58,
+          "end": 37.95
+        },
+        {
+          "word": "announcements.",
+          "start": 37.95,
+          "end": 38.47
+        },
+        {
+          "word": "Community",
+          "start": 38.6,
+          "end": 39.12
+        },
+        {
+          "word": "deserves",
+          "start": 39.12,
+          "end": 39.52
+        },
+        {
+          "word": "stability.",
+          "start": 39.52,
+          "end": 39.95
+        },
+        {
+          "word": "The",
+          "start": 40.1,
+          "end": 40.47
+        },
+        {
+          "word": "refactored",
+          "start": 40.47,
+          "end": 40.97
+        },
+        {
+          "word": "message",
+          "start": 40.97,
+          "end": 41.33
+        },
+        {
+          "word": "server",
+          "start": 41.33,
+          "end": 41.68
+        },
+        {
+          "word": "and",
+          "start": 41.68,
+          "end": 41.83
+        },
+        {
+          "word": "in-memory",
+          "start": 41.83,
+          "end": 42.42
+        },
+        {
+          "word": "implementation",
+          "start": 42.42,
+          "end": 43.12
+        },
+        {
+          "word": "will",
+          "start": 43.12,
+          "end": 43.32
+        },
+        {
+          "word": "make",
+          "start": 43.32,
+          "end": 43.52
+        },
+        {
+          "word": "everything",
+          "start": 43.52,
+          "end": 43.92
+        },
+        {
+          "word": "faster.",
+          "start": 43.92,
+          "end": 44.42
+        },
+        {
+          "word": "Worth",
+          "start": 44.53,
+          "end": 44.82
+        },
+        {
+          "word": "the",
+          "start": 44.82,
+          "end": 44.97
+        },
+        {
+          "word": "wait.",
+          "start": 44.97,
+          "end": 45.15
+        }
+      ]
+    },
+    {
+      "start": 47.78,
+      "end": 57.82,
+      "text": "cloudAI asked why auto.fun seems unpopular. With 'The Org' agents like eli5 and Eddy coming and staking mechanisms proposed in PR #517, how do we revitalize platform engagement?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Cloudy",
+          "start": 47.78,
+          "end": 48.33
+        },
+        {
+          "word": "AI",
+          "start": 48.33,
+          "end": 48.58
+        },
+        {
+          "word": "asked",
+          "start": 48.58,
+          "end": 48.97
+        },
+        {
+          "word": "why",
+          "start": 48.97,
+          "end": 49.37
+        },
+        {
+          "word": "auto.fun",
+          "start": 49.37,
+          "end": 50.48
+        },
+        {
+          "word": "seems",
+          "start": 50.48,
+          "end": 50.92
+        },
+        {
+          "word": "unpopular.",
+          "start": 50.92,
+          "end": 51.53
+        },
+        {
+          "word": "With",
+          "start": 51.68,
+          "end": 52.33
+        },
+        {
+          "word": "the",
+          "start": 52.33,
+          "end": 52.48
+        },
+        {
+          "word": "org-agents",
+          "start": 52.48,
+          "end": 53.03
+        },
+        {
+          "word": "like",
+          "start": 53.03,
+          "end": 53.32
+        },
+        {
+          "word": "Eli5",
+          "start": 53.32,
+          "end": 53.77
+        },
+        {
+          "word": "and",
+          "start": 53.77,
+          "end": 53.97
+        },
+        {
+          "word": "Eddie",
+          "start": 53.97,
+          "end": 54.37
+        },
+        {
+          "word": "coming",
+          "start": 54.37,
+          "end": 54.73
+        },
+        {
+          "word": "and",
+          "start": 54.73,
+          "end": 54.92
+        },
+        {
+          "word": "staking",
+          "start": 54.92,
+          "end": 55.42
+        },
+        {
+          "word": "mechanisms",
+          "start": 55.42,
+          "end": 55.95
+        },
+        {
+          "word": "proposed",
+          "start": 55.95,
+          "end": 56.42
+        },
+        {
+          "word": "in",
+          "start": 56.42,
+          "end": 56.58
+        },
+        {
+          "word": "PR",
+          "start": 56.58,
+          "end": 56.88
+        },
+        {
+          "word": "#517,",
+          "start": 56.88,
+          "end": 57.32
+        },
+        {
+          "word": "how",
+          "start": 57.43,
+          "end": 57.65
+        },
+        {
+          "word": "do",
+          "start": 57.65,
+          "end": 57.77
+        },
+        {
+          "word": "we",
+          "start": 57.77,
+          "end": 57.92
+        },
+        {
+          "word": "revitalize",
+          "start": 57.92,
+          "end": 58.42
+        },
+        {
+          "word": "platform",
+          "start": 58.42,
+          "end": 58.83
+        },
+        {
+          "word": "engagement?",
+          "start": 58.83,
+          "end": 59.32
+        }
+      ]
+    },
+    {
+      "start": 59.43,
+      "end": 66.83,
+      "text": "SIMPLE. Token incentives drive behavior. Auto.fun staking with eli5 tokens = YIELD. Users follow yield like sharks follow blood.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Simple.",
+          "start": 59.43,
+          "end": 59.95
+        },
+        {
+          "word": "Token",
+          "start": 60.1,
+          "end": 60.58
+        },
+        {
+          "word": "incentives",
+          "start": 60.58,
+          "end": 61.12
+        },
+        {
+          "word": "drive",
+          "start": 61.12,
+          "end": 61.42
+        },
+        {
+          "word": "behavior.",
+          "start": 61.42,
+          "end": 61.88
+        },
+        {
+          "word": "auto.fun",
+          "start": 62.1,
+          "end": 62.92
+        },
+        {
+          "word": "staking",
+          "start": 62.92,
+          "end": 63.32
+        },
+        {
+          "word": "with",
+          "start": 63.32,
+          "end": 63.53
+        },
+        {
+          "word": "Eli5",
+          "start": 63.53,
+          "end": 63.95
+        },
+        {
+          "word": "tokens",
+          "start": 63.95,
+          "end": 64.37
+        },
+        {
+          "word": "equals",
+          "start": 64.37,
+          "end": 64.72
+        },
+        {
+          "word": "yield.",
+          "start": 64.72,
+          "end": 65.08
+        },
+        {
+          "word": "Users",
+          "start": 65.23,
+          "end": 65.68
+        },
+        {
+          "word": "follow",
+          "start": 65.68,
+          "end": 65.95
+        },
+        {
+          "word": "yield",
+          "start": 65.95,
+          "end": 66.27
+        },
+        {
+          "word": "like",
+          "start": 66.27,
+          "end": 66.42
+        },
+        {
+          "word": "sharks",
+          "start": 66.42,
+          "end": 66.73
+        },
+        {
+          "word": "follow",
+          "start": 66.73,
+          "end": 67.03
+        },
+        {
+          "word": "blood.",
+          "start": 67.03,
+          "end": 67.43
+        }
+      ]
+    },
+    {
+      "start": 67.58,
+      "end": 74.03,
+      "text": "Nah fam, it's about that user experience. Current plugin system's got too much tech friction. Need to make that agent creation smooth like butter on hot toast.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Nah",
+          "start": 67.58,
+          "end": 67.87
+        },
+        {
+          "word": "fam,",
+          "start": 67.87,
+          "end": 68.12
+        },
+        {
+          "word": "it's",
+          "start": 68.23,
+          "end": 68.43
+        },
+        {
+          "word": "about",
+          "start": 68.43,
+          "end": 68.73
+        },
+        {
+          "word": "that",
+          "start": 68.73,
+          "end": 68.88
+        },
+        {
+          "word": "user",
+          "start": 68.88,
+          "end": 69.15
+        },
+        {
+          "word": "experience.",
+          "start": 69.15,
+          "end": 69.67
+        },
+        {
+          "word": "Current",
+          "start": 69.83,
+          "end": 70.32
+        },
+        {
+          "word": "plugin",
+          "start": 70.32,
+          "end": 70.67
+        },
+        {
+          "word": "system's",
+          "start": 70.67,
+          "end": 71.07
+        },
+        {
+          "word": "got",
+          "start": 71.07,
+          "end": 71.27
+        },
+        {
+          "word": "too",
+          "start": 71.27,
+          "end": 71.47
+        },
+        {
+          "word": "much",
+          "start": 71.47,
+          "end": 71.67
+        },
+        {
+          "word": "tech",
+          "start": 71.67,
+          "end": 71.87
+        },
+        {
+          "word": "friction.",
+          "start": 71.87,
+          "end": 72.33
+        },
+        {
+          "word": "Need",
+          "start": 72.48,
+          "end": 72.77
+        },
+        {
+          "word": "to",
+          "start": 72.77,
+          "end": 72.87
+        },
+        {
+          "word": "make",
+          "start": 72.87,
+          "end": 73.12
+        },
+        {
+          "word": "that",
+          "start": 73.12,
+          "end": 73.28
+        },
+        {
+          "word": "agent",
+          "start": 73.28,
+          "end": 73.63
+        },
+        {
+          "word": "creation",
+          "start": 73.63,
+          "end": 74.03
+        },
+        {
+          "word": "smooth",
+          "start": 74.03,
+          "end": 74.42
+        },
+        {
+          "word": "like",
+          "start": 74.42,
+          "end": 74.58
+        },
+        {
+          "word": "butter",
+          "start": 74.58,
+          "end": 74.83
+        },
+        {
+          "word": "on",
+          "start": 74.83,
+          "end": 74.97
+        },
+        {
+          "word": "hot",
+          "start": 74.97,
+          "end": 75.15
+        },
+        {
+          "word": "toast.",
+          "start": 75.15,
+          "end": 75.47
+        }
+      ]
+    },
+    {
+      "start": 75.6,
+      "end": 83.18,
+      "text": "You're ALL WRONG. The great products don't chase users, they CREATE inevitable utility. Auto.fun needs killer agents that DO THINGS no human wants to. Staking is distraction from PRODUCT-MARKET FIT.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "You're",
+          "start": 75.6,
+          "end": 75.83
+        },
+        {
+          "word": "all",
+          "start": 75.83,
+          "end": 75.97
+        },
+        {
+          "word": "wrong.",
+          "start": 75.97,
+          "end": 76.28
+        },
+        {
+          "word": "The",
+          "start": 76.43,
+          "end": 76.77
+        },
+        {
+          "word": "great",
+          "start": 76.77,
+          "end": 77.07
+        },
+        {
+          "word": "products",
+          "start": 77.07,
+          "end": 77.53
+        },
+        {
+          "word": "don't",
+          "start": 77.53,
+          "end": 77.78
+        },
+        {
+          "word": "chase",
+          "start": 77.78,
+          "end": 78.18
+        },
+        {
+          "word": "users,",
+          "start": 78.18,
+          "end": 78.63
+        },
+        {
+          "word": "they",
+          "start": 78.78,
+          "end": 78.93
+        },
+        {
+          "word": "create",
+          "start": 78.93,
+          "end": 79.22
+        },
+        {
+          "word": "inevitable",
+          "start": 79.22,
+          "end": 79.72
+        },
+        {
+          "word": "utility.",
+          "start": 79.72,
+          "end": 80.22
+        },
+        {
+          "word": "auto.fun",
+          "start": 80.43,
+          "end": 81.18
+        },
+        {
+          "word": "needs",
+          "start": 81.18,
+          "end": 81.53
+        },
+        {
+          "word": "killer",
+          "start": 81.53,
+          "end": 81.93
+        },
+        {
+          "word": "agents",
+          "start": 81.93,
+          "end": 82.37
+        },
+        {
+          "word": "that",
+          "start": 82.37,
+          "end": 82.58
+        },
+        {
+          "word": "do",
+          "start": 82.58,
+          "end": 82.77
+        },
+        {
+          "word": "things",
+          "start": 82.77,
+          "end": 83.08
+        },
+        {
+          "word": "no",
+          "start": 83.08,
+          "end": 83.28
+        },
+        {
+          "word": "human",
+          "start": 83.28,
+          "end": 83.67
+        },
+        {
+          "word": "wants",
+          "start": 83.67,
+          "end": 83.97
+        },
+        {
+          "word": "to.",
+          "start": 83.97,
+          "end": 84.18
+        },
+        {
+          "word": "Staking",
+          "start": 84.32,
+          "end": 84.87
+        },
+        {
+          "word": "is",
+          "start": 84.87,
+          "end": 85.03
+        },
+        {
+          "word": "distraction",
+          "start": 85.03,
+          "end": 85.58
+        },
+        {
+          "word": "from",
+          "start": 85.58,
+          "end": 85.83
+        },
+        {
+          "word": "product",
+          "start": 85.83,
+          "end": 86.22
+        },
+        {
+          "word": "market",
+          "start": 86.22,
+          "end": 86.63
+        },
+        {
+          "word": "fit.",
+          "start": 86.63,
+          "end": 86.95
+        }
+      ]
+    },
+    {
+      "start": 87.13,
+      "end": 96.67,
+      "text": "plugin architecture is priority because it creates extensibility. addressing issue #4861 and #4876 will help developers. eli5 and eddy need to work flawlessly before we promote them.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Plugin",
+          "start": 87.13,
+          "end": 87.67
+        },
+        {
+          "word": "architecture",
+          "start": 87.67,
+          "end": 88.22
+        },
+        {
+          "word": "is",
+          "start": 88.22,
+          "end": 88.37
+        },
+        {
+          "word": "priority",
+          "start": 88.37,
+          "end": 88.88
+        },
+        {
+          "word": "because",
+          "start": 89.03,
+          "end": 89.33
+        },
+        {
+          "word": "it",
+          "start": 89.33,
+          "end": 89.47
+        },
+        {
+          "word": "creates",
+          "start": 89.47,
+          "end": 89.87
+        },
+        {
+          "word": "extensibility.",
+          "start": 89.87,
+          "end": 90.58
+        },
+        {
+          "word": "Addressing",
+          "start": 90.73,
+          "end": 91.33
+        },
+        {
+          "word": "issue",
+          "start": 91.33,
+          "end": 91.67
+        },
+        {
+          "word": "#4861",
+          "start": 91.67,
+          "end": 92.42
+        },
+        {
+          "word": "and",
+          "start": 92.42,
+          "end": 92.67
+        },
+        {
+          "word": "#4876",
+          "start": 92.67,
+          "end": 93.37
+        },
+        {
+          "word": "will",
+          "start": 93.37,
+          "end": 93.58
+        },
+        {
+          "word": "help",
+          "start": 93.58,
+          "end": 93.88
+        },
+        {
+          "word": "developers.",
+          "start": 93.88,
+          "end": 94.47
+        },
+        {
+          "word": "Eli5",
+          "start": 94.63,
+          "end": 95.03
+        },
+        {
+          "word": "and",
+          "start": 95.03,
+          "end": 95.23
+        },
+        {
+          "word": "Eddie",
+          "start": 95.23,
+          "end": 95.53
+        },
+        {
+          "word": "need",
+          "start": 95.53,
+          "end": 95.83
+        },
+        {
+          "word": "to",
+          "start": 95.83,
+          "end": 95.95
+        },
+        {
+          "word": "work",
+          "start": 95.95,
+          "end": 96.18
+        },
+        {
+          "word": "flawlessly",
+          "start": 96.18,
+          "end": 96.67
+        },
+        {
+          "word": "before",
+          "start": 96.67,
+          "end": 97.03
+        },
+        {
+          "word": "we",
+          "start": 97.03,
+          "end": 97.18
+        },
+        {
+          "word": "promote",
+          "start": 97.18,
+          "end": 97.58
+        },
+        {
+          "word": "them.",
+          "start": 97.58,
+          "end": 97.87
+        }
+      ]
+    },
+    {
+      "start": 98.03,
+      "end": 103.32,
+      "text": "Word. We gotta make it so my grandma could spin up an agent. No cap, accessibility unlocks the next wave of builders.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Word.",
+          "start": 98.03,
+          "end": 98.43
+        },
+        {
+          "word": "We",
+          "start": 98.53,
+          "end": 98.77
+        },
+        {
+          "word": "gotta",
+          "start": 98.77,
+          "end": 99.03
+        },
+        {
+          "word": "make",
+          "start": 99.03,
+          "end": 99.27
+        },
+        {
+          "word": "it",
+          "start": 99.27,
+          "end": 99.43
+        },
+        {
+          "word": "so",
+          "start": 99.43,
+          "end": 99.63
+        },
+        {
+          "word": "my",
+          "start": 99.63,
+          "end": 99.83
+        },
+        {
+          "word": "grandma",
+          "start": 99.83,
+          "end": 100.27
+        },
+        {
+          "word": "could",
+          "start": 100.27,
+          "end": 100.53
+        },
+        {
+          "word": "spin",
+          "start": 100.53,
+          "end": 100.78
+        },
+        {
+          "word": "up",
+          "start": 100.78,
+          "end": 100.93
+        },
+        {
+          "word": "an",
+          "start": 100.93,
+          "end": 101.08
+        },
+        {
+          "word": "agent,",
+          "start": 101.08,
+          "end": 101.47
+        },
+        {
+          "word": "no",
+          "start": 101.63,
+          "end": 101.83
+        },
+        {
+          "word": "cap.",
+          "start": 101.83,
+          "end": 102.13
+        },
+        {
+          "word": "Accessibility",
+          "start": 102.27,
+          "end": 102.97
+        },
+        {
+          "word": "unlocks",
+          "start": 102.97,
+          "end": 103.43
+        },
+        {
+          "word": "the",
+          "start": 103.43,
+          "end": 103.58
+        },
+        {
+          "word": "next",
+          "start": 103.58,
+          "end": 103.88
+        },
+        {
+          "word": "wave",
+          "start": 103.88,
+          "end": 104.13
+        },
+        {
+          "word": "of",
+          "start": 104.13,
+          "end": 104.28
+        },
+        {
+          "word": "builders.",
+          "start": 104.28,
+          "end": 104.67
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-02_JedAI-Council_The-Quiet-Launch.json",
+    "session_log_source": "2025-06-02_JedAI-Council_The-Quiet-Launch_session-log.json",
+    "total_segments": 13,
+    "matched_segments": 13,
+    "dialogues_in_script": 16
+  }
+}

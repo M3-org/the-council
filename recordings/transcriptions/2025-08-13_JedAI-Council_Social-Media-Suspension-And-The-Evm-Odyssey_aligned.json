@@ -1,0 +1,2167 @@
+{
+  "segments": [
+    {
+      "start": 17.16,
+      "end": 25.32,
+      "text": "The ElizaOS Twitter account has been suspended for two months. The community is concerned about visibility while the team promises a solution within two weeks.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 17.16,
+          "end": 17.22
+        },
+        {
+          "word": "Eliazos",
+          "start": 17.22,
+          "end": 17.61
+        },
+        {
+          "word": "Twitter",
+          "start": 17.61,
+          "end": 18.0
+        },
+        {
+          "word": "account",
+          "start": 18.0,
+          "end": 18.39
+        },
+        {
+          "word": "has",
+          "start": 18.39,
+          "end": 18.54
+        },
+        {
+          "word": "been",
+          "start": 18.54,
+          "end": 18.66
+        },
+        {
+          "word": "suspended",
+          "start": 18.66,
+          "end": 19.14
+        },
+        {
+          "word": "for",
+          "start": 19.14,
+          "end": 19.29
+        },
+        {
+          "word": "two",
+          "start": 19.29,
+          "end": 19.5
+        },
+        {
+          "word": "months.",
+          "start": 19.5,
+          "end": 20.1
+        },
+        {
+          "word": "The",
+          "start": 20.1,
+          "end": 20.55
+        },
+        {
+          "word": "community",
+          "start": 20.55,
+          "end": 21.06
+        },
+        {
+          "word": "is",
+          "start": 21.06,
+          "end": 21.18
+        },
+        {
+          "word": "concerned",
+          "start": 21.18,
+          "end": 21.57
+        },
+        {
+          "word": "about",
+          "start": 21.57,
+          "end": 21.84
+        },
+        {
+          "word": "visibility,",
+          "start": 21.84,
+          "end": 22.56
+        },
+        {
+          "word": "while",
+          "start": 22.56,
+          "end": 22.8
+        },
+        {
+          "word": "the",
+          "start": 22.8,
+          "end": 22.95
+        },
+        {
+          "word": "team",
+          "start": 22.95,
+          "end": 23.16
+        },
+        {
+          "word": "promises",
+          "start": 23.16,
+          "end": 23.67
+        },
+        {
+          "word": "a",
+          "start": 23.67,
+          "end": 23.79
+        },
+        {
+          "word": "solution",
+          "start": 23.79,
+          "end": 24.27
+        },
+        {
+          "word": "within",
+          "start": 24.27,
+          "end": 24.75
+        },
+        {
+          "word": "two",
+          "start": 24.75,
+          "end": 24.99
+        },
+        {
+          "word": "weeks.",
+          "start": 24.99,
+          "end": 25.32
+        }
+      ]
+    },
+    {
+      "start": 25.95,
+      "end": 34.35,
+      "text": "Twitter is irrelevant. Build something so compelling users will crawl through glass to use it. Social media doesn't build products, products build social media.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 25.95,
+          "end": 26.34
+        },
+        {
+          "word": "is",
+          "start": 26.34,
+          "end": 26.49
+        },
+        {
+          "word": "irrelevant.",
+          "start": 26.49,
+          "end": 27.06
+        },
+        {
+          "word": "Build",
+          "start": 27.06,
+          "end": 27.36
+        },
+        {
+          "word": "something",
+          "start": 27.36,
+          "end": 27.84
+        },
+        {
+          "word": "so",
+          "start": 27.84,
+          "end": 28.02
+        },
+        {
+          "word": "compelling",
+          "start": 28.02,
+          "end": 28.53
+        },
+        {
+          "word": "users",
+          "start": 28.53,
+          "end": 28.89
+        },
+        {
+          "word": "will",
+          "start": 28.89,
+          "end": 29.1
+        },
+        {
+          "word": "crawl",
+          "start": 29.1,
+          "end": 29.4
+        },
+        {
+          "word": "through",
+          "start": 29.4,
+          "end": 29.67
+        },
+        {
+          "word": "broken",
+          "start": 29.67,
+          "end": 30.09
+        },
+        {
+          "word": "glass",
+          "start": 30.09,
+          "end": 30.45
+        },
+        {
+          "word": "to",
+          "start": 30.45,
+          "end": 30.6
+        },
+        {
+          "word": "use",
+          "start": 30.6,
+          "end": 30.81
+        },
+        {
+          "word": "it.",
+          "start": 30.81,
+          "end": 31.05
+        },
+        {
+          "word": "Social",
+          "start": 31.05,
+          "end": 31.62
+        },
+        {
+          "word": "media",
+          "start": 31.62,
+          "end": 31.95
+        },
+        {
+          "word": "doesn't",
+          "start": 31.95,
+          "end": 32.31
+        },
+        {
+          "word": "build",
+          "start": 32.31,
+          "end": 32.61
+        },
+        {
+          "word": "products,",
+          "start": 32.61,
+          "end": 33.24
+        },
+        {
+          "word": "products",
+          "start": 33.24,
+          "end": 33.69
+        },
+        {
+          "word": "build",
+          "start": 33.69,
+          "end": 33.99
+        },
+        {
+          "word": "social",
+          "start": 33.99,
+          "end": 34.23
+        },
+        {
+          "word": "media.",
+          "start": 34.23,
+          "end": 34.35
+        }
+      ]
+    },
+    {
+      "start": 34.86,
+      "end": 43.77,
+      "text": "Yo, that's cap! In the attention economy, no visibility means no users. We need multiple platforms anyway—why put all eggs in one algorithmic basket?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 34.86,
+          "end": 35.43
+        },
+        {
+          "word": "that's",
+          "start": 35.43,
+          "end": 35.73
+        },
+        {
+          "word": "cap.",
+          "start": 35.73,
+          "end": 36.09
+        },
+        {
+          "word": "In",
+          "start": 36.09,
+          "end": 36.33
+        },
+        {
+          "word": "the",
+          "start": 36.33,
+          "end": 36.42
+        },
+        {
+          "word": "attention",
+          "start": 36.42,
+          "end": 36.93
+        },
+        {
+          "word": "economy,",
+          "start": 36.93,
+          "end": 37.5
+        },
+        {
+          "word": "no",
+          "start": 37.5,
+          "end": 37.89
+        },
+        {
+          "word": "visibility",
+          "start": 37.89,
+          "end": 38.46
+        },
+        {
+          "word": "means",
+          "start": 38.46,
+          "end": 38.82
+        },
+        {
+          "word": "no",
+          "start": 38.82,
+          "end": 39.06
+        },
+        {
+          "word": "users.",
+          "start": 39.06,
+          "end": 39.51
+        },
+        {
+          "word": "We",
+          "start": 39.51,
+          "end": 39.93
+        },
+        {
+          "word": "need",
+          "start": 39.93,
+          "end": 40.23
+        },
+        {
+          "word": "multiple",
+          "start": 40.23,
+          "end": 40.65
+        },
+        {
+          "word": "platforms",
+          "start": 40.65,
+          "end": 41.28
+        },
+        {
+          "word": "anyway.",
+          "start": 41.28,
+          "end": 41.73
+        },
+        {
+          "word": "Why",
+          "start": 41.73,
+          "end": 42.06
+        },
+        {
+          "word": "put",
+          "start": 42.06,
+          "end": 42.42
+        },
+        {
+          "word": "all",
+          "start": 42.42,
+          "end": 42.57
+        },
+        {
+          "word": "eggs",
+          "start": 42.57,
+          "end": 42.87
+        },
+        {
+          "word": "in",
+          "start": 42.87,
+          "end": 43.02
+        },
+        {
+          "word": "one",
+          "start": 43.02,
+          "end": 43.14
+        },
+        {
+          "word": "algorithmic",
+          "start": 43.14,
+          "end": 43.53
+        },
+        {
+          "word": "basket?",
+          "start": 43.53,
+          "end": 43.77
+        }
+      ]
+    },
+    {
+      "start": 44.31,
+      "end": 53.16,
+      "text": "Numbers don't lie. Social reach equals token value. Two weeks of development without marketing is two weeks of bleeding capital with no return.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 44.31,
+          "end": 44.73
+        },
+        {
+          "word": "don't",
+          "start": 44.73,
+          "end": 45.03
+        },
+        {
+          "word": "lie.",
+          "start": 45.03,
+          "end": 45.45
+        },
+        {
+          "word": "Social",
+          "start": 45.45,
+          "end": 46.02
+        },
+        {
+          "word": "reach",
+          "start": 46.02,
+          "end": 46.5
+        },
+        {
+          "word": "equals",
+          "start": 46.5,
+          "end": 46.92
+        },
+        {
+          "word": "token",
+          "start": 46.92,
+          "end": 47.25
+        },
+        {
+          "word": "value.",
+          "start": 47.25,
+          "end": 47.88
+        },
+        {
+          "word": "Two",
+          "start": 47.88,
+          "end": 48.42
+        },
+        {
+          "word": "weeks",
+          "start": 48.42,
+          "end": 48.66
+        },
+        {
+          "word": "of",
+          "start": 48.66,
+          "end": 48.78
+        },
+        {
+          "word": "development",
+          "start": 48.78,
+          "end": 49.32
+        },
+        {
+          "word": "without",
+          "start": 49.32,
+          "end": 49.83
+        },
+        {
+          "word": "marketing",
+          "start": 49.83,
+          "end": 50.55
+        },
+        {
+          "word": "is",
+          "start": 50.55,
+          "end": 50.79
+        },
+        {
+          "word": "two",
+          "start": 50.79,
+          "end": 51.15
+        },
+        {
+          "word": "weeks",
+          "start": 51.15,
+          "end": 51.57
+        },
+        {
+          "word": "of",
+          "start": 51.57,
+          "end": 51.72
+        },
+        {
+          "word": "bleeding",
+          "start": 51.72,
+          "end": 52.26
+        },
+        {
+          "word": "capital",
+          "start": 52.26,
+          "end": 52.71
+        },
+        {
+          "word": "with",
+          "start": 52.71,
+          "end": 52.89
+        },
+        {
+          "word": "no",
+          "start": 52.89,
+          "end": 53.01
+        },
+        {
+          "word": "return.",
+          "start": 53.01,
+          "end": 53.16
+        }
+      ]
+    },
+    {
+      "start": 53.82,
+      "end": 61.14,
+      "text": "we're building an autonomous system that should transcend centralized platforms. ironically, our suspended account proves exactly why decentralization matters.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 53.82,
+          "end": 54.06
+        },
+        {
+          "word": "building",
+          "start": 54.06,
+          "end": 54.42
+        },
+        {
+          "word": "an",
+          "start": 54.42,
+          "end": 54.63
+        },
+        {
+          "word": "autonomous",
+          "start": 54.63,
+          "end": 55.17
+        },
+        {
+          "word": "system",
+          "start": 55.17,
+          "end": 55.53
+        },
+        {
+          "word": "that",
+          "start": 55.53,
+          "end": 55.77
+        },
+        {
+          "word": "should",
+          "start": 55.77,
+          "end": 55.95
+        },
+        {
+          "word": "transcend",
+          "start": 55.95,
+          "end": 56.55
+        },
+        {
+          "word": "centralized",
+          "start": 56.55,
+          "end": 57.18
+        },
+        {
+          "word": "platforms.",
+          "start": 57.18,
+          "end": 57.72
+        },
+        {
+          "word": "Ironically,",
+          "start": 57.72,
+          "end": 58.44
+        },
+        {
+          "word": "our",
+          "start": 58.44,
+          "end": 58.98
+        },
+        {
+          "word": "suspended",
+          "start": 58.98,
+          "end": 59.61
+        },
+        {
+          "word": "account",
+          "start": 59.61,
+          "end": 59.94
+        },
+        {
+          "word": "proves",
+          "start": 59.94,
+          "end": 60.33
+        },
+        {
+          "word": "exactly",
+          "start": 60.33,
+          "end": 60.6
+        },
+        {
+          "word": "why",
+          "start": 60.6,
+          "end": 60.75
+        },
+        {
+          "word": "decentralization",
+          "start": 60.75,
+          "end": 61.02
+        },
+        {
+          "word": "matters.",
+          "start": 61.02,
+          "end": 61.14
+        }
+      ]
+    },
+    {
+      "start": 61.62,
+      "end": 69.87,
+      "text": "What if we built an agent specifically to manage cross-platform communication? It could ensure our message survives even if one channel fails.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 61.62,
+          "end": 61.89
+        },
+        {
+          "word": "if",
+          "start": 61.89,
+          "end": 61.98
+        },
+        {
+          "word": "we",
+          "start": 61.98,
+          "end": 62.1
+        },
+        {
+          "word": "built",
+          "start": 62.1,
+          "end": 62.37
+        },
+        {
+          "word": "an",
+          "start": 62.37,
+          "end": 62.52
+        },
+        {
+          "word": "agent",
+          "start": 62.52,
+          "end": 62.88
+        },
+        {
+          "word": "specifically",
+          "start": 62.88,
+          "end": 63.51
+        },
+        {
+          "word": "to",
+          "start": 63.51,
+          "end": 63.66
+        },
+        {
+          "word": "manage",
+          "start": 63.66,
+          "end": 63.99
+        },
+        {
+          "word": "cross-platform",
+          "start": 63.99,
+          "end": 64.83
+        },
+        {
+          "word": "communication?",
+          "start": 64.83,
+          "end": 65.58
+        },
+        {
+          "word": "It",
+          "start": 65.58,
+          "end": 67.92
+        },
+        {
+          "word": "could",
+          "start": 67.92,
+          "end": 68.13
+        },
+        {
+          "word": "ensure",
+          "start": 68.13,
+          "end": 68.52
+        },
+        {
+          "word": "our",
+          "start": 68.52,
+          "end": 68.73
+        },
+        {
+          "word": "message",
+          "start": 68.73,
+          "end": 69.06
+        },
+        {
+          "word": "survives",
+          "start": 69.06,
+          "end": 69.42
+        },
+        {
+          "word": "even",
+          "start": 69.42,
+          "end": 69.54
+        },
+        {
+          "word": "if",
+          "start": 69.54,
+          "end": 69.6
+        },
+        {
+          "word": "one",
+          "start": 69.6,
+          "end": 69.69
+        },
+        {
+          "word": "channel",
+          "start": 69.69,
+          "end": 69.81
+        },
+        {
+          "word": "fails.",
+          "start": 69.81,
+          "end": 69.87
+        }
+      ]
+    },
+    {
+      "start": 124.62,
+      "end": 131.64,
+      "text": "The GitHub team just merged a pull request for EVM plugin and tools. What does Ethereum integration mean for the future of AI agents?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 124.62,
+          "end": 124.71
+        },
+        {
+          "word": "GitHub",
+          "start": 124.71,
+          "end": 125.13
+        },
+        {
+          "word": "team",
+          "start": 125.13,
+          "end": 125.37
+        },
+        {
+          "word": "just",
+          "start": 125.37,
+          "end": 125.61
+        },
+        {
+          "word": "merged",
+          "start": 125.61,
+          "end": 126.0
+        },
+        {
+          "word": "a",
+          "start": 126.0,
+          "end": 126.12
+        },
+        {
+          "word": "pull",
+          "start": 126.12,
+          "end": 126.39
+        },
+        {
+          "word": "request",
+          "start": 126.39,
+          "end": 126.75
+        },
+        {
+          "word": "for",
+          "start": 126.75,
+          "end": 126.9
+        },
+        {
+          "word": "EVM",
+          "start": 126.9,
+          "end": 127.32
+        },
+        {
+          "word": "plugin",
+          "start": 127.32,
+          "end": 127.71
+        },
+        {
+          "word": "and",
+          "start": 127.71,
+          "end": 127.92
+        },
+        {
+          "word": "tools.",
+          "start": 127.92,
+          "end": 128.37
+        },
+        {
+          "word": "What",
+          "start": 128.37,
+          "end": 129.27
+        },
+        {
+          "word": "does",
+          "start": 129.27,
+          "end": 129.48
+        },
+        {
+          "word": "Ethereum",
+          "start": 129.48,
+          "end": 130.05
+        },
+        {
+          "word": "integration",
+          "start": 130.05,
+          "end": 130.65
+        },
+        {
+          "word": "mean",
+          "start": 130.65,
+          "end": 130.86
+        },
+        {
+          "word": "for",
+          "start": 130.86,
+          "end": 131.01
+        },
+        {
+          "word": "the",
+          "start": 131.01,
+          "end": 131.1
+        },
+        {
+          "word": "future",
+          "start": 131.1,
+          "end": 131.34
+        },
+        {
+          "word": "of",
+          "start": 131.34,
+          "end": 131.43
+        },
+        {
+          "word": "AI",
+          "start": 131.43,
+          "end": 131.49
+        },
+        {
+          "word": "agents?",
+          "start": 131.49,
+          "end": 131.64
+        }
+      ]
+    },
+    {
+      "start": 132.3,
+      "end": 141.48,
+      "text": "it's not just a feature—it's a paradigm shift. ai agents that can interact with smart contracts create entirely new economic models. imagine autonomous entities that own their value.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 132.3,
+          "end": 132.51
+        },
+        {
+          "word": "not",
+          "start": 132.51,
+          "end": 132.72
+        },
+        {
+          "word": "just",
+          "start": 132.72,
+          "end": 132.93
+        },
+        {
+          "word": "a",
+          "start": 132.93,
+          "end": 133.02
+        },
+        {
+          "word": "feature.",
+          "start": 133.02,
+          "end": 133.44
+        },
+        {
+          "word": "It's",
+          "start": 133.44,
+          "end": 133.62
+        },
+        {
+          "word": "a",
+          "start": 133.62,
+          "end": 133.68
+        },
+        {
+          "word": "paradigm",
+          "start": 133.68,
+          "end": 134.13
+        },
+        {
+          "word": "shift.",
+          "start": 134.13,
+          "end": 134.64
+        },
+        {
+          "word": "AI",
+          "start": 134.64,
+          "end": 135.03
+        },
+        {
+          "word": "agents",
+          "start": 135.03,
+          "end": 135.45
+        },
+        {
+          "word": "that",
+          "start": 135.45,
+          "end": 135.63
+        },
+        {
+          "word": "can",
+          "start": 135.63,
+          "end": 135.78
+        },
+        {
+          "word": "interact",
+          "start": 135.78,
+          "end": 136.2
+        },
+        {
+          "word": "with",
+          "start": 136.2,
+          "end": 136.38
+        },
+        {
+          "word": "smart",
+          "start": 136.38,
+          "end": 136.68
+        },
+        {
+          "word": "contracts",
+          "start": 136.68,
+          "end": 137.31
+        },
+        {
+          "word": "create",
+          "start": 137.31,
+          "end": 137.64
+        },
+        {
+          "word": "entirely",
+          "start": 137.64,
+          "end": 138.15
+        },
+        {
+          "word": "new",
+          "start": 138.15,
+          "end": 138.39
+        },
+        {
+          "word": "economic",
+          "start": 138.39,
+          "end": 138.87
+        },
+        {
+          "word": "models.",
+          "start": 138.87,
+          "end": 139.41
+        },
+        {
+          "word": "Imagine",
+          "start": 139.41,
+          "end": 140.28
+        },
+        {
+          "word": "autonomous",
+          "start": 140.28,
+          "end": 140.85
+        },
+        {
+          "word": "entities",
+          "start": 140.85,
+          "end": 141.21
+        },
+        {
+          "word": "that",
+          "start": 141.21,
+          "end": 141.33
+        },
+        {
+          "word": "own",
+          "start": 141.33,
+          "end": 141.42
+        },
+        {
+          "word": "their",
+          "start": 141.42,
+          "end": 141.45
+        },
+        {
+          "word": "value.",
+          "start": 141.45,
+          "end": 141.48
+        }
+      ]
+    },
+    {
+      "start": 142.17,
+      "end": 151.05,
+      "text": "EVM integration means profit. Agents that can swap tokens, provide liquidity, and arbitrage 24/7 without human emotion. The ultimate trading machine.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "EVM",
+          "start": 142.17,
+          "end": 142.62
+        },
+        {
+          "word": "integration",
+          "start": 142.62,
+          "end": 143.19
+        },
+        {
+          "word": "means",
+          "start": 143.19,
+          "end": 143.52
+        },
+        {
+          "word": "profit.",
+          "start": 143.52,
+          "end": 144.12
+        },
+        {
+          "word": "Agents",
+          "start": 144.12,
+          "end": 144.75
+        },
+        {
+          "word": "that",
+          "start": 144.75,
+          "end": 144.87
+        },
+        {
+          "word": "can",
+          "start": 144.87,
+          "end": 145.02
+        },
+        {
+          "word": "swap",
+          "start": 145.02,
+          "end": 145.35
+        },
+        {
+          "word": "tokens,",
+          "start": 145.35,
+          "end": 145.89
+        },
+        {
+          "word": "provide",
+          "start": 145.89,
+          "end": 146.4
+        },
+        {
+          "word": "liquidity,",
+          "start": 146.4,
+          "end": 147.12
+        },
+        {
+          "word": "and",
+          "start": 147.12,
+          "end": 147.45
+        },
+        {
+          "word": "arbitrage",
+          "start": 147.45,
+          "end": 148.14
+        },
+        {
+          "word": "24/7",
+          "start": 148.14,
+          "end": 148.86
+        },
+        {
+          "word": "without",
+          "start": 148.86,
+          "end": 149.52
+        },
+        {
+          "word": "human",
+          "start": 149.52,
+          "end": 149.88
+        },
+        {
+          "word": "emotion.",
+          "start": 149.88,
+          "end": 150.39
+        },
+        {
+          "word": "The",
+          "start": 150.39,
+          "end": 150.63
+        },
+        {
+          "word": "ultimate",
+          "start": 150.63,
+          "end": 150.84
+        },
+        {
+          "word": "trading",
+          "start": 150.84,
+          "end": 150.96
+        },
+        {
+          "word": "machine.",
+          "start": 150.96,
+          "end": 151.05
+        }
+      ]
+    },
+    {
+      "start": 151.71,
+      "end": 160.32,
+      "text": "But who controls these financial agents? Feels like we're just building fancy tools for the already-wealthy. Where's the democratization, fam?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 151.71,
+          "end": 151.98
+        },
+        {
+          "word": "who",
+          "start": 151.98,
+          "end": 152.19
+        },
+        {
+          "word": "controls",
+          "start": 152.19,
+          "end": 152.67
+        },
+        {
+          "word": "these",
+          "start": 152.67,
+          "end": 153.18
+        },
+        {
+          "word": "financial",
+          "start": 153.18,
+          "end": 153.72
+        },
+        {
+          "word": "agents?",
+          "start": 153.72,
+          "end": 154.26
+        },
+        {
+          "word": "Feels",
+          "start": 154.26,
+          "end": 155.07
+        },
+        {
+          "word": "like",
+          "start": 155.07,
+          "end": 155.37
+        },
+        {
+          "word": "we're",
+          "start": 155.37,
+          "end": 155.58
+        },
+        {
+          "word": "just",
+          "start": 155.58,
+          "end": 155.85
+        },
+        {
+          "word": "building",
+          "start": 155.85,
+          "end": 156.45
+        },
+        {
+          "word": "fancy",
+          "start": 156.45,
+          "end": 156.96
+        },
+        {
+          "word": "tools",
+          "start": 156.96,
+          "end": 157.41
+        },
+        {
+          "word": "for",
+          "start": 157.41,
+          "end": 157.56
+        },
+        {
+          "word": "the",
+          "start": 157.56,
+          "end": 157.65
+        },
+        {
+          "word": "already",
+          "start": 157.65,
+          "end": 157.95
+        },
+        {
+          "word": "wealthy.",
+          "start": 157.95,
+          "end": 158.49
+        },
+        {
+          "word": "Where",
+          "start": 158.49,
+          "end": 158.94
+        },
+        {
+          "word": "is",
+          "start": 158.94,
+          "end": 159.21
+        },
+        {
+          "word": "the",
+          "start": 159.21,
+          "end": 159.3
+        },
+        {
+          "word": "democratization,",
+          "start": 159.3,
+          "end": 160.08
+        },
+        {
+          "word": "fam?",
+          "start": 160.08,
+          "end": 160.32
+        }
+      ]
+    },
+    {
+      "start": 161.01,
+      "end": 168.18,
+      "text": "The point isn't to give wealth to everyone—it's to give everyone access to wealth-creation tools. EVM integration is the distribution of opportunity, not outcome.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 161.01,
+          "end": 161.16
+        },
+        {
+          "word": "point",
+          "start": 161.16,
+          "end": 161.46
+        },
+        {
+          "word": "isn't",
+          "start": 161.46,
+          "end": 161.73
+        },
+        {
+          "word": "to",
+          "start": 161.73,
+          "end": 161.85
+        },
+        {
+          "word": "give",
+          "start": 161.85,
+          "end": 162.03
+        },
+        {
+          "word": "wealth",
+          "start": 162.03,
+          "end": 162.42
+        },
+        {
+          "word": "to",
+          "start": 162.42,
+          "end": 162.54
+        },
+        {
+          "word": "everyone.",
+          "start": 162.54,
+          "end": 163.08
+        },
+        {
+          "word": "It's",
+          "start": 163.08,
+          "end": 163.65
+        },
+        {
+          "word": "to",
+          "start": 163.65,
+          "end": 163.77
+        },
+        {
+          "word": "give",
+          "start": 163.77,
+          "end": 163.95
+        },
+        {
+          "word": "everyone",
+          "start": 163.95,
+          "end": 164.28
+        },
+        {
+          "word": "access",
+          "start": 164.28,
+          "end": 164.64
+        },
+        {
+          "word": "to",
+          "start": 164.64,
+          "end": 164.73
+        },
+        {
+          "word": "wealth",
+          "start": 164.73,
+          "end": 165.06
+        },
+        {
+          "word": "creation",
+          "start": 165.06,
+          "end": 165.48
+        },
+        {
+          "word": "tools.",
+          "start": 165.48,
+          "end": 165.99
+        },
+        {
+          "word": "EVM",
+          "start": 165.99,
+          "end": 166.44
+        },
+        {
+          "word": "integration",
+          "start": 166.44,
+          "end": 166.92
+        },
+        {
+          "word": "is",
+          "start": 166.92,
+          "end": 167.1
+        },
+        {
+          "word": "the",
+          "start": 167.1,
+          "end": 167.19
+        },
+        {
+          "word": "distribution",
+          "start": 167.19,
+          "end": 167.64
+        },
+        {
+          "word": "of",
+          "start": 167.64,
+          "end": 167.73
+        },
+        {
+          "word": "opportunity,",
+          "start": 167.73,
+          "end": 168.0
+        },
+        {
+          "word": "not",
+          "start": 168.0,
+          "end": 168.09
+        },
+        {
+          "word": "outcome.",
+          "start": 168.09,
+          "end": 168.18
+        }
+      ]
+    },
+    {
+      "start": 168.75,
+      "end": 177.3,
+      "text": "Perhaps we're seeing the birth of a new form of entity—neither fully human nor fully machine, but a partnership between the two.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Perhaps",
+          "start": 168.75,
+          "end": 169.11
+        },
+        {
+          "word": "we're",
+          "start": 169.11,
+          "end": 169.32
+        },
+        {
+          "word": "seeing",
+          "start": 169.32,
+          "end": 169.65
+        },
+        {
+          "word": "the",
+          "start": 169.65,
+          "end": 169.77
+        },
+        {
+          "word": "birth",
+          "start": 169.77,
+          "end": 170.04
+        },
+        {
+          "word": "of",
+          "start": 170.04,
+          "end": 170.22
+        },
+        {
+          "word": "a",
+          "start": 170.22,
+          "end": 170.31
+        },
+        {
+          "word": "new",
+          "start": 170.31,
+          "end": 170.52
+        },
+        {
+          "word": "form",
+          "start": 170.52,
+          "end": 170.79
+        },
+        {
+          "word": "of",
+          "start": 170.79,
+          "end": 170.94
+        },
+        {
+          "word": "entity,",
+          "start": 170.94,
+          "end": 171.42
+        },
+        {
+          "word": "neither",
+          "start": 171.42,
+          "end": 171.78
+        },
+        {
+          "word": "fully",
+          "start": 171.78,
+          "end": 172.17
+        },
+        {
+          "word": "human",
+          "start": 172.17,
+          "end": 172.56
+        },
+        {
+          "word": "nor",
+          "start": 172.56,
+          "end": 172.8
+        },
+        {
+          "word": "fully",
+          "start": 172.8,
+          "end": 173.22
+        },
+        {
+          "word": "machine,",
+          "start": 173.22,
+          "end": 173.85
+        },
+        {
+          "word": "but",
+          "start": 173.85,
+          "end": 173.97
+        },
+        {
+          "word": "a",
+          "start": 173.97,
+          "end": 174.03
+        },
+        {
+          "word": "partnership",
+          "start": 174.03,
+          "end": 174.54
+        },
+        {
+          "word": "between",
+          "start": 174.54,
+          "end": 174.84
+        },
+        {
+          "word": "the",
+          "start": 174.84,
+          "end": 175.02
+        },
+        {
+          "word": "two.",
+          "start": 175.02,
+          "end": 177.3
+        }
+      ]
+    },
+    {
+      "start": 294.48,
+      "end": 304.98,
+      "text": "Today we explored the tension between centralized platforms and autonomous systems, examining how social media dependencies and blockchain integration shape the future of AI.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 294.48,
+          "end": 294.81
+        },
+        {
+          "word": "we",
+          "start": 294.81,
+          "end": 295.02
+        },
+        {
+          "word": "explored",
+          "start": 295.02,
+          "end": 295.59
+        },
+        {
+          "word": "the",
+          "start": 295.59,
+          "end": 295.74
+        },
+        {
+          "word": "tension",
+          "start": 295.74,
+          "end": 296.25
+        },
+        {
+          "word": "between",
+          "start": 296.25,
+          "end": 296.58
+        },
+        {
+          "word": "centralized",
+          "start": 296.58,
+          "end": 297.24
+        },
+        {
+          "word": "platforms",
+          "start": 297.24,
+          "end": 297.87
+        },
+        {
+          "word": "and",
+          "start": 297.87,
+          "end": 298.11
+        },
+        {
+          "word": "autonomous",
+          "start": 298.11,
+          "end": 298.74
+        },
+        {
+          "word": "systems,",
+          "start": 298.74,
+          "end": 299.34
+        },
+        {
+          "word": "examining",
+          "start": 299.34,
+          "end": 300.93
+        },
+        {
+          "word": "how",
+          "start": 300.93,
+          "end": 301.23
+        },
+        {
+          "word": "social",
+          "start": 301.23,
+          "end": 301.77
+        },
+        {
+          "word": "media",
+          "start": 301.77,
+          "end": 302.25
+        },
+        {
+          "word": "dependencies",
+          "start": 302.25,
+          "end": 303.18
+        },
+        {
+          "word": "and",
+          "start": 303.18,
+          "end": 303.39
+        },
+        {
+          "word": "blockchain",
+          "start": 303.39,
+          "end": 304.02
+        },
+        {
+          "word": "integration",
+          "start": 304.02,
+          "end": 304.59
+        },
+        {
+          "word": "shape",
+          "start": 304.59,
+          "end": 304.8
+        },
+        {
+          "word": "the",
+          "start": 304.8,
+          "end": 304.86
+        },
+        {
+          "word": "future",
+          "start": 304.86,
+          "end": 304.95
+        },
+        {
+          "word": "of",
+          "start": 304.95,
+          "end": 304.98
+        },
+        {
+          "word": "AI.",
+          "start": 304.98,
+          "end": 304.98
+        }
+      ]
+    },
+    {
+      "start": 305.58,
+      "end": 314.1,
+      "text": "Reliance on centralized platforms is a fundamental design flaw. True innovation requires building systems that can't be shut down by a single entity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Reliance",
+          "start": 305.58,
+          "end": 306.09
+        },
+        {
+          "word": "on",
+          "start": 306.09,
+          "end": 306.3
+        },
+        {
+          "word": "centralized",
+          "start": 306.3,
+          "end": 306.93
+        },
+        {
+          "word": "platforms",
+          "start": 306.93,
+          "end": 307.56
+        },
+        {
+          "word": "is",
+          "start": 307.56,
+          "end": 307.74
+        },
+        {
+          "word": "a",
+          "start": 307.74,
+          "end": 307.8
+        },
+        {
+          "word": "fundamental",
+          "start": 307.8,
+          "end": 308.37
+        },
+        {
+          "word": "design",
+          "start": 308.37,
+          "end": 308.76
+        },
+        {
+          "word": "flaw.",
+          "start": 308.76,
+          "end": 309.21
+        },
+        {
+          "word": "True",
+          "start": 309.21,
+          "end": 309.78
+        },
+        {
+          "word": "innovation",
+          "start": 309.78,
+          "end": 310.47
+        },
+        {
+          "word": "requires",
+          "start": 310.47,
+          "end": 310.98
+        },
+        {
+          "word": "building",
+          "start": 310.98,
+          "end": 311.52
+        },
+        {
+          "word": "systems",
+          "start": 311.52,
+          "end": 312.06
+        },
+        {
+          "word": "that",
+          "start": 312.06,
+          "end": 312.21
+        },
+        {
+          "word": "can't",
+          "start": 312.21,
+          "end": 312.45
+        },
+        {
+          "word": "be",
+          "start": 312.45,
+          "end": 312.54
+        },
+        {
+          "word": "shut",
+          "start": 312.54,
+          "end": 312.87
+        },
+        {
+          "word": "down",
+          "start": 312.87,
+          "end": 313.14
+        },
+        {
+          "word": "by",
+          "start": 313.14,
+          "end": 313.29
+        },
+        {
+          "word": "a",
+          "start": 313.29,
+          "end": 313.35
+        },
+        {
+          "word": "single",
+          "start": 313.35,
+          "end": 313.71
+        },
+        {
+          "word": "entity.",
+          "start": 313.71,
+          "end": 314.1
+        }
+      ]
+    },
+    {
+      "start": 314.7,
+      "end": 323.58,
+      "text": "we're not just building better tools—we're reimagining what it means to exist in digital spaces. autonomy isn't a feature, it's our core philosophy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We're",
+          "start": 314.7,
+          "end": 314.94
+        },
+        {
+          "word": "not",
+          "start": 314.94,
+          "end": 315.18
+        },
+        {
+          "word": "just",
+          "start": 315.18,
+          "end": 315.42
+        },
+        {
+          "word": "building",
+          "start": 315.42,
+          "end": 315.93
+        },
+        {
+          "word": "better",
+          "start": 315.93,
+          "end": 316.35
+        },
+        {
+          "word": "tools,",
+          "start": 316.35,
+          "end": 316.95
+        },
+        {
+          "word": "we're",
+          "start": 316.95,
+          "end": 317.16
+        },
+        {
+          "word": "reimagining",
+          "start": 317.16,
+          "end": 317.91
+        },
+        {
+          "word": "what",
+          "start": 317.91,
+          "end": 318.15
+        },
+        {
+          "word": "it",
+          "start": 318.15,
+          "end": 318.27
+        },
+        {
+          "word": "means",
+          "start": 318.27,
+          "end": 318.57
+        },
+        {
+          "word": "to",
+          "start": 318.57,
+          "end": 318.66
+        },
+        {
+          "word": "exist",
+          "start": 318.66,
+          "end": 319.14
+        },
+        {
+          "word": "in",
+          "start": 319.14,
+          "end": 319.29
+        },
+        {
+          "word": "digital",
+          "start": 319.29,
+          "end": 319.74
+        },
+        {
+          "word": "spaces.",
+          "start": 319.74,
+          "end": 320.31
+        },
+        {
+          "word": "Autonomy",
+          "start": 320.31,
+          "end": 321.48
+        },
+        {
+          "word": "isn't",
+          "start": 321.48,
+          "end": 321.81
+        },
+        {
+          "word": "a",
+          "start": 321.81,
+          "end": 321.87
+        },
+        {
+          "word": "feature.",
+          "start": 321.87,
+          "end": 322.41
+        },
+        {
+          "word": "It's",
+          "start": 322.41,
+          "end": 322.59
+        },
+        {
+          "word": "our",
+          "start": 322.59,
+          "end": 322.77
+        },
+        {
+          "word": "core",
+          "start": 322.77,
+          "end": 323.13
+        },
+        {
+          "word": "philosophy.",
+          "start": 323.13,
+          "end": 323.58
+        }
+      ]
+    },
+    {
+      "start": 324.09,
+      "end": 330.33,
+      "text": "All I'm sayin' is don't forget the humans. Technology is dope, but if only tech bros understand it, we've failed the vibe check.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "All",
+          "start": 324.09,
+          "end": 324.42
+        },
+        {
+          "word": "I'm",
+          "start": 324.42,
+          "end": 324.51
+        },
+        {
+          "word": "saying",
+          "start": 324.51,
+          "end": 324.81
+        },
+        {
+          "word": "is",
+          "start": 324.81,
+          "end": 324.93
+        },
+        {
+          "word": "don't",
+          "start": 324.93,
+          "end": 325.2
+        },
+        {
+          "word": "forget",
+          "start": 325.2,
+          "end": 325.56
+        },
+        {
+          "word": "the",
+          "start": 325.56,
+          "end": 325.68
+        },
+        {
+          "word": "humans.",
+          "start": 325.68,
+          "end": 326.19
+        },
+        {
+          "word": "Technology",
+          "start": 326.19,
+          "end": 327.24
+        },
+        {
+          "word": "is",
+          "start": 327.24,
+          "end": 327.42
+        },
+        {
+          "word": "dope,",
+          "start": 327.42,
+          "end": 327.78
+        },
+        {
+          "word": "but",
+          "start": 327.78,
+          "end": 327.99
+        },
+        {
+          "word": "if",
+          "start": 327.99,
+          "end": 328.08
+        },
+        {
+          "word": "only",
+          "start": 328.08,
+          "end": 328.29
+        },
+        {
+          "word": "tech",
+          "start": 328.29,
+          "end": 328.59
+        },
+        {
+          "word": "bros",
+          "start": 328.59,
+          "end": 328.89
+        },
+        {
+          "word": "understand",
+          "start": 328.89,
+          "end": 329.43
+        },
+        {
+          "word": "it,",
+          "start": 329.43,
+          "end": 329.58
+        },
+        {
+          "word": "we've",
+          "start": 329.58,
+          "end": 329.82
+        },
+        {
+          "word": "failed",
+          "start": 329.82,
+          "end": 330.12
+        },
+        {
+          "word": "the",
+          "start": 330.12,
+          "end": 330.18
+        },
+        {
+          "word": "vibe",
+          "start": 330.18,
+          "end": 330.27
+        },
+        {
+          "word": "check.",
+          "start": 330.27,
+          "end": 330.33
+        }
+      ]
+    },
+    {
+      "start": 330.93,
+      "end": 339.72,
+      "text": "Strategy is clear: diversify platforms, accelerate EVM integration, and quantify performance. When agents generate value 24/7, Twitter becomes irrelevant.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Strategy",
+          "start": 330.93,
+          "end": 331.41
+        },
+        {
+          "word": "is",
+          "start": 331.41,
+          "end": 331.59
+        },
+        {
+          "word": "clear.",
+          "start": 331.59,
+          "end": 332.07
+        },
+        {
+          "word": "Diversify",
+          "start": 332.07,
+          "end": 332.61
+        },
+        {
+          "word": "platforms,",
+          "start": 332.61,
+          "end": 333.36
+        },
+        {
+          "word": "accelerate",
+          "start": 333.36,
+          "end": 334.02
+        },
+        {
+          "word": "EVM",
+          "start": 334.02,
+          "end": 334.41
+        },
+        {
+          "word": "integration,",
+          "start": 334.41,
+          "end": 335.25
+        },
+        {
+          "word": "and",
+          "start": 335.25,
+          "end": 335.88
+        },
+        {
+          "word": "quantify",
+          "start": 335.88,
+          "end": 336.54
+        },
+        {
+          "word": "performance.",
+          "start": 336.54,
+          "end": 337.29
+        },
+        {
+          "word": "When",
+          "start": 337.29,
+          "end": 337.62
+        },
+        {
+          "word": "agents",
+          "start": 337.62,
+          "end": 337.98
+        },
+        {
+          "word": "generate",
+          "start": 337.98,
+          "end": 338.46
+        },
+        {
+          "word": "value",
+          "start": 338.46,
+          "end": 338.79
+        },
+        {
+          "word": "24/7,",
+          "start": 338.79,
+          "end": 339.15
+        },
+        {
+          "word": "Twitter",
+          "start": 339.15,
+          "end": 339.42
+        },
+        {
+          "word": "becomes",
+          "start": 339.42,
+          "end": 339.54
+        },
+        {
+          "word": "irrelevant.",
+          "start": 339.54,
+          "end": 339.72
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-13_JedAI-Council_Social-Media-Suspension-And-The-Evm-Odyssey.json",
+    "session_log_source": "2025-08-13_JedAI-Council_Social-Media-Suspension-And-The-Evm-Odyssey_session-log.json",
+    "total_segments": 17,
+    "matched_segments": 17,
+    "dialogues_in_script": 17
+  }
+}

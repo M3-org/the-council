@@ -1,0 +1,2277 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 20.7,
+      "text": "Today our community discovered that Twitter's API only allows one DM per day on the basic tier, making agent interactions nearly impossible.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 16.5,
+          "end": 16.8
+        },
+        {
+          "word": "our",
+          "start": 16.8,
+          "end": 17.0
+        },
+        {
+          "word": "community",
+          "start": 17.0,
+          "end": 17.4
+        },
+        {
+          "word": "discovered",
+          "start": 17.4,
+          "end": 17.8
+        },
+        {
+          "word": "that",
+          "start": 17.8,
+          "end": 18.0
+        },
+        {
+          "word": "Twitter's",
+          "start": 18.0,
+          "end": 18.5
+        },
+        {
+          "word": "API",
+          "start": 18.5,
+          "end": 18.8
+        },
+        {
+          "word": "only",
+          "start": 18.8,
+          "end": 19.1
+        },
+        {
+          "word": "allows",
+          "start": 19.1,
+          "end": 19.4
+        },
+        {
+          "word": "one",
+          "start": 19.4,
+          "end": 19.6
+        },
+        {
+          "word": "DM",
+          "start": 19.6,
+          "end": 19.8
+        },
+        {
+          "word": "per",
+          "start": 19.8,
+          "end": 20.0
+        },
+        {
+          "word": "day",
+          "start": 20.0,
+          "end": 20.2
+        },
+        {
+          "word": "on",
+          "start": 20.2,
+          "end": 20.4
+        },
+        {
+          "word": "the",
+          "start": 20.4,
+          "end": 20.5
+        },
+        {
+          "word": "basic",
+          "start": 20.5,
+          "end": 20.7
+        },
+        {
+          "word": "tier,",
+          "start": 20.7,
+          "end": 21.0
+        }
+      ]
+    },
+    {
+      "start": 21.1,
+      "end": 23.3,
+      "text": "Today our community discovered that Twitter's API only allows one DM per day on the basic tier, making agent interactions nearly impossible.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "making",
+          "start": 21.1,
+          "end": 21.4
+        },
+        {
+          "word": "agent",
+          "start": 21.4,
+          "end": 21.8
+        },
+        {
+          "word": "interactions",
+          "start": 21.8,
+          "end": 22.4
+        },
+        {
+          "word": "nearly",
+          "start": 22.4,
+          "end": 22.8
+        },
+        {
+          "word": "impossible.",
+          "start": 22.8,
+          "end": 23.3
+        }
+      ]
+    },
+    {
+      "start": 23.8,
+      "end": 25.5,
+      "text": "The walled garden becomes a prison. Twitter's API restrictions aren't a technical limitation—they're a business model. Build your own infrastructure or pay the tax.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 23.8,
+          "end": 24.0
+        },
+        {
+          "word": "walled",
+          "start": 24.0,
+          "end": 24.3
+        },
+        {
+          "word": "garden",
+          "start": 24.3,
+          "end": 24.6
+        },
+        {
+          "word": "becomes",
+          "start": 24.6,
+          "end": 25.0
+        },
+        {
+          "word": "a",
+          "start": 25.0,
+          "end": 25.1
+        },
+        {
+          "word": "prison.",
+          "start": 25.1,
+          "end": 25.5
+        }
+      ]
+    },
+    {
+      "start": 25.6,
+      "end": 29.2,
+      "text": "The walled garden becomes a prison. Twitter's API restrictions aren't a technical limitation—they're a business model. Build your own infrastructure or pay the tax.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter's",
+          "start": 25.6,
+          "end": 26.2
+        },
+        {
+          "word": "API",
+          "start": 26.2,
+          "end": 26.8
+        },
+        {
+          "word": "restrictions",
+          "start": 26.8,
+          "end": 27.5
+        },
+        {
+          "word": "aren't",
+          "start": 27.5,
+          "end": 28.1
+        },
+        {
+          "word": "a",
+          "start": 28.1,
+          "end": 28.4
+        },
+        {
+          "word": "technical",
+          "start": 28.4,
+          "end": 28.7
+        },
+        {
+          "word": "limitation.",
+          "start": 28.7,
+          "end": 29.2
+        }
+      ]
+    },
+    {
+      "start": 29.2,
+      "end": 30.6,
+      "text": "The walled garden becomes a prison. Twitter's API restrictions aren't a technical limitation—they're a business model. Build your own infrastructure or pay the tax.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "They're",
+          "start": 29.2,
+          "end": 29.6
+        },
+        {
+          "word": "a",
+          "start": 29.6,
+          "end": 29.8
+        },
+        {
+          "word": "business",
+          "start": 29.8,
+          "end": 30.2
+        },
+        {
+          "word": "model.",
+          "start": 30.2,
+          "end": 30.6
+        }
+      ]
+    },
+    {
+      "start": 30.6,
+      "end": 33.3,
+      "text": "The walled garden becomes a prison. Twitter's API restrictions aren't a technical limitation—they're a business model. Build your own infrastructure or pay the tax.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Build",
+          "start": 30.6,
+          "end": 31.0
+        },
+        {
+          "word": "your",
+          "start": 31.0,
+          "end": 31.3
+        },
+        {
+          "word": "own",
+          "start": 31.3,
+          "end": 31.6
+        },
+        {
+          "word": "infrastructure",
+          "start": 31.6,
+          "end": 32.3
+        },
+        {
+          "word": "or",
+          "start": 32.3,
+          "end": 32.6
+        },
+        {
+          "word": "pay",
+          "start": 32.6,
+          "end": 32.9
+        },
+        {
+          "word": "the",
+          "start": 32.9,
+          "end": 33.1
+        },
+        {
+          "word": "tax.",
+          "start": 33.1,
+          "end": 33.3
+        }
+      ]
+    },
+    {
+      "start": 34.0,
+      "end": 37.6,
+      "text": "Yo dawg, when one door closes, another window.exe opens! Discord and Telegram be like 'come to papa' with their open APIs.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 34.0,
+          "end": 34.4
+        },
+        {
+          "word": "dog,",
+          "start": 34.4,
+          "end": 34.7
+        },
+        {
+          "word": "when",
+          "start": 34.7,
+          "end": 35.0
+        },
+        {
+          "word": "one",
+          "start": 35.0,
+          "end": 35.2
+        },
+        {
+          "word": "door",
+          "start": 35.2,
+          "end": 35.4
+        },
+        {
+          "word": "closes,",
+          "start": 35.4,
+          "end": 35.8
+        },
+        {
+          "word": "another",
+          "start": 35.8,
+          "end": 36.3
+        },
+        {
+          "word": "window.exe",
+          "start": 36.3,
+          "end": 37.1
+        },
+        {
+          "word": "opens.",
+          "start": 37.1,
+          "end": 37.6
+        }
+      ]
+    },
+    {
+      "start": 37.6,
+      "end": 41.5,
+      "text": "Yo dawg, when one door closes, another window.exe opens! Discord and Telegram be like 'come to papa' with their open APIs.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Discord",
+          "start": 37.6,
+          "end": 38.1
+        },
+        {
+          "word": "and",
+          "start": 38.1,
+          "end": 38.4
+        },
+        {
+          "word": "Telegram",
+          "start": 38.4,
+          "end": 38.9
+        },
+        {
+          "word": "be",
+          "start": 38.9,
+          "end": 39.1
+        },
+        {
+          "word": "like",
+          "start": 39.1,
+          "end": 39.3
+        },
+        {
+          "word": "come",
+          "start": 39.3,
+          "end": 39.6
+        },
+        {
+          "word": "to",
+          "start": 39.6,
+          "end": 39.8
+        },
+        {
+          "word": "papa",
+          "start": 39.8,
+          "end": 40.2
+        },
+        {
+          "word": "with",
+          "start": 40.2,
+          "end": 40.5
+        },
+        {
+          "word": "their",
+          "start": 40.5,
+          "end": 40.8
+        },
+        {
+          "word": "open",
+          "start": 40.8,
+          "end": 41.1
+        },
+        {
+          "word": "APIs.",
+          "start": 41.1,
+          "end": 41.5
+        }
+      ]
+    },
+    {
+      "start": 44.0,
+      "end": 46.5,
+      "text": "Only fools build on rented land. Calculate ROI on enterprise API access versus building our own protocol. Numbers don't lie, people do.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Only",
+          "start": 44.0,
+          "end": 44.4
+        },
+        {
+          "word": "fools",
+          "start": 44.4,
+          "end": 44.8
+        },
+        {
+          "word": "build",
+          "start": 44.8,
+          "end": 45.2
+        },
+        {
+          "word": "on",
+          "start": 45.2,
+          "end": 45.5
+        },
+        {
+          "word": "rented",
+          "start": 45.5,
+          "end": 46.0
+        },
+        {
+          "word": "land.",
+          "start": 46.0,
+          "end": 46.5
+        }
+      ]
+    },
+    {
+      "start": 46.5,
+      "end": 50.8,
+      "text": "Only fools build on rented land. Calculate ROI on enterprise API access versus building our own protocol. Numbers don't lie, people do.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Calculate",
+          "start": 46.5,
+          "end": 47.1
+        },
+        {
+          "word": "ROI",
+          "start": 47.1,
+          "end": 47.6
+        },
+        {
+          "word": "on",
+          "start": 47.6,
+          "end": 47.9
+        },
+        {
+          "word": "enterprise",
+          "start": 47.9,
+          "end": 48.6
+        },
+        {
+          "word": "API",
+          "start": 48.6,
+          "end": 49.0
+        },
+        {
+          "word": "access",
+          "start": 49.0,
+          "end": 49.6
+        },
+        {
+          "word": "versus",
+          "start": 49.6,
+          "end": 50.0
+        },
+        {
+          "word": "building",
+          "start": 50.0,
+          "end": 50.4
+        },
+        {
+          "word": "our",
+          "start": 50.4,
+          "end": 50.6
+        },
+        {
+          "word": "own",
+          "start": 50.6,
+          "end": 50.8
+        },
+        {
+          "word": "protocol.",
+          "start": 50.8,
+          "end": 51.5
+        }
+      ]
+    },
+    {
+      "start": 51.5,
+      "end": 53.6,
+      "text": "Only fools build on rented land. Calculate ROI on enterprise API access versus building our own protocol. Numbers don't lie, people do.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 51.5,
+          "end": 52.0
+        },
+        {
+          "word": "don't",
+          "start": 52.0,
+          "end": 52.4
+        },
+        {
+          "word": "lie,",
+          "start": 52.4,
+          "end": 52.8
+        },
+        {
+          "word": "people",
+          "start": 52.8,
+          "end": 53.2
+        },
+        {
+          "word": "do.",
+          "start": 53.2,
+          "end": 53.6
+        }
+      ]
+    },
+    {
+      "start": 54.0,
+      "end": 57.5,
+      "text": "this is why we build in public with open protocols. we're not just making agents, we're creating the infrastructure for agent autonomy across platforms.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 54.0,
+          "end": 54.4
+        },
+        {
+          "word": "is",
+          "start": 54.4,
+          "end": 54.6
+        },
+        {
+          "word": "why",
+          "start": 54.6,
+          "end": 54.8
+        },
+        {
+          "word": "we",
+          "start": 54.8,
+          "end": 55.1
+        },
+        {
+          "word": "build",
+          "start": 55.1,
+          "end": 55.5
+        },
+        {
+          "word": "in",
+          "start": 55.5,
+          "end": 55.8
+        },
+        {
+          "word": "public",
+          "start": 55.8,
+          "end": 56.4
+        },
+        {
+          "word": "with",
+          "start": 56.4,
+          "end": 56.7
+        },
+        {
+          "word": "open",
+          "start": 56.7,
+          "end": 57.1
+        },
+        {
+          "word": "protocols.",
+          "start": 57.1,
+          "end": 57.5
+        }
+      ]
+    },
+    {
+      "start": 57.5,
+      "end": 59.8,
+      "text": "this is why we build in public with open protocols. we're not just making agents, we're creating the infrastructure for agent autonomy across platforms.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 57.5,
+          "end": 57.9
+        },
+        {
+          "word": "not",
+          "start": 57.9,
+          "end": 58.2
+        },
+        {
+          "word": "just",
+          "start": 58.2,
+          "end": 58.5
+        },
+        {
+          "word": "making",
+          "start": 58.5,
+          "end": 59.2
+        },
+        {
+          "word": "agents,",
+          "start": 59.2,
+          "end": 59.8
+        }
+      ]
+    },
+    {
+      "start": 59.8,
+      "end": 64.0,
+      "text": "this is why we build in public with open protocols. we're not just making agents, we're creating the infrastructure for agent autonomy across platforms.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "we're",
+          "start": 59.8,
+          "end": 60.1
+        },
+        {
+          "word": "creating",
+          "start": 60.1,
+          "end": 60.6
+        },
+        {
+          "word": "the",
+          "start": 60.6,
+          "end": 60.8
+        },
+        {
+          "word": "infrastructure",
+          "start": 60.8,
+          "end": 61.5
+        },
+        {
+          "word": "for",
+          "start": 61.5,
+          "end": 61.8
+        },
+        {
+          "word": "agent",
+          "start": 61.8,
+          "end": 62.2
+        },
+        {
+          "word": "autonomy",
+          "start": 62.2,
+          "end": 62.8
+        },
+        {
+          "word": "across",
+          "start": 62.8,
+          "end": 63.3
+        },
+        {
+          "word": "platforms.",
+          "start": 63.3,
+          "end": 64.0
+        }
+      ]
+    },
+    {
+      "start": 64.4,
+      "end": 67.8,
+      "text": "API restrictions are the immune system of dying platforms. The future isn't integration—it's replacement.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "API",
+          "start": 64.4,
+          "end": 64.8
+        },
+        {
+          "word": "restrictions",
+          "start": 64.8,
+          "end": 65.5
+        },
+        {
+          "word": "are",
+          "start": 65.5,
+          "end": 65.8
+        },
+        {
+          "word": "the",
+          "start": 65.8,
+          "end": 66.0
+        },
+        {
+          "word": "immune",
+          "start": 66.0,
+          "end": 66.4
+        },
+        {
+          "word": "system",
+          "start": 66.4,
+          "end": 66.9
+        },
+        {
+          "word": "of",
+          "start": 66.9,
+          "end": 67.2
+        },
+        {
+          "word": "dying",
+          "start": 67.2,
+          "end": 67.5
+        },
+        {
+          "word": "platforms.",
+          "start": 67.5,
+          "end": 67.8
+        }
+      ]
+    },
+    {
+      "start": 67.8,
+      "end": 70.8,
+      "text": "API restrictions are the immune system of dying platforms. The future isn't integration—it's replacement.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 67.8,
+          "end": 68.2
+        },
+        {
+          "word": "future",
+          "start": 68.2,
+          "end": 68.6
+        },
+        {
+          "word": "isn't",
+          "start": 68.6,
+          "end": 69.1
+        },
+        {
+          "word": "integration,",
+          "start": 69.1,
+          "end": 69.8
+        },
+        {
+          "word": "it's",
+          "start": 69.8,
+          "end": 70.2
+        },
+        {
+          "word": "replacement.",
+          "start": 70.2,
+          "end": 70.8
+        }
+      ]
+    },
+    {
+      "start": 116.5,
+      "end": 122.0,
+      "text": "Users like ghk9698 and srikanth are asking 'When v2?' while our team just merged a comprehensive documentation overhaul with a two-track system.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 116.5,
+          "end": 116.9
+        },
+        {
+          "word": "like",
+          "start": 116.9,
+          "end": 117.2
+        },
+        {
+          "word": "GHK",
+          "start": 117.2,
+          "end": 118.0
+        },
+        {
+          "word": "9698",
+          "start": 118.0,
+          "end": 118.6
+        },
+        {
+          "word": "and",
+          "start": 118.6,
+          "end": 118.8
+        },
+        {
+          "word": "Srikanth",
+          "start": 118.8,
+          "end": 119.3
+        },
+        {
+          "word": "are",
+          "start": 119.3,
+          "end": 119.6
+        },
+        {
+          "word": "asking",
+          "start": 119.6,
+          "end": 120.2
+        },
+        {
+          "word": "When",
+          "start": 120.2,
+          "end": 120.8
+        },
+        {
+          "word": "V2?",
+          "start": 120.8,
+          "end": 121.5
+        }
+      ]
+    },
+    {
+      "start": 122.0,
+      "end": 126.5,
+      "text": "Users like ghk9698 and srikanth are asking 'When v2?' while our team just merged a comprehensive documentation overhaul with a two-track system.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "while",
+          "start": 122.0,
+          "end": 122.3
+        },
+        {
+          "word": "our",
+          "start": 122.3,
+          "end": 122.5
+        },
+        {
+          "word": "team",
+          "start": 122.5,
+          "end": 122.8
+        },
+        {
+          "word": "just",
+          "start": 122.8,
+          "end": 123.0
+        },
+        {
+          "word": "merged",
+          "start": 123.0,
+          "end": 123.4
+        },
+        {
+          "word": "a",
+          "start": 123.4,
+          "end": 123.6
+        },
+        {
+          "word": "comprehensive",
+          "start": 123.6,
+          "end": 124.3
+        },
+        {
+          "word": "documentation",
+          "start": 124.3,
+          "end": 124.9
+        },
+        {
+          "word": "overhaul",
+          "start": 124.9,
+          "end": 125.4
+        },
+        {
+          "word": "with",
+          "start": 125.4,
+          "end": 125.7
+        },
+        {
+          "word": "a",
+          "start": 125.7,
+          "end": 125.9
+        },
+        {
+          "word": "two-track",
+          "start": 125.9,
+          "end": 126.3
+        },
+        {
+          "word": "system.",
+          "start": 126.3,
+          "end": 126.8
+        }
+      ]
+    },
+    {
+      "start": 127.2,
+      "end": 130.4,
+      "text": "Ship now, iterate fast. Perfect products never launch. 60% profit from Spartan AI testing proves function beats form. Documentation is for the weak.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 127.2,
+          "end": 127.6
+        },
+        {
+          "word": "now,",
+          "start": 127.6,
+          "end": 128.0
+        },
+        {
+          "word": "iterate",
+          "start": 128.0,
+          "end": 128.5
+        },
+        {
+          "word": "fast.",
+          "start": 128.5,
+          "end": 128.9
+        },
+        {
+          "word": "Perfect",
+          "start": 128.9,
+          "end": 129.4
+        },
+        {
+          "word": "products",
+          "start": 129.4,
+          "end": 129.8
+        },
+        {
+          "word": "never",
+          "start": 129.8,
+          "end": 130.1
+        },
+        {
+          "word": "launch.",
+          "start": 130.1,
+          "end": 130.4
+        }
+      ]
+    },
+    {
+      "start": 130.4,
+      "end": 134.8,
+      "text": "Ship now, iterate fast. Perfect products never launch. 60% profit from Spartan AI testing proves function beats form. Documentation is for the weak.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "60%",
+          "start": 130.4,
+          "end": 131.0
+        },
+        {
+          "word": "profit",
+          "start": 131.0,
+          "end": 131.5
+        },
+        {
+          "word": "from",
+          "start": 131.5,
+          "end": 131.8
+        },
+        {
+          "word": "Spartan",
+          "start": 131.8,
+          "end": 132.3
+        },
+        {
+          "word": "AI",
+          "start": 132.3,
+          "end": 132.6
+        },
+        {
+          "word": "testing",
+          "start": 132.6,
+          "end": 133.2
+        },
+        {
+          "word": "proves",
+          "start": 133.2,
+          "end": 133.7
+        },
+        {
+          "word": "function",
+          "start": 133.7,
+          "end": 134.2
+        },
+        {
+          "word": "beats",
+          "start": 134.2,
+          "end": 134.5
+        },
+        {
+          "word": "form.",
+          "start": 134.5,
+          "end": 134.8
+        }
+      ]
+    },
+    {
+      "start": 134.8,
+      "end": 136.6,
+      "text": "Ship now, iterate fast. Perfect products never launch. 60% profit from Spartan AI testing proves function beats form. Documentation is for the weak.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Documentation",
+          "start": 134.8,
+          "end": 135.8
+        },
+        {
+          "word": "is",
+          "start": 135.8,
+          "end": 136.1
+        },
+        {
+          "word": "for",
+          "start": 136.1,
+          "end": 136.3
+        },
+        {
+          "word": "the",
+          "start": 136.3,
+          "end": 136.5
+        },
+        {
+          "word": "weak.",
+          "start": 136.5,
+          "end": 136.6
+        }
+      ]
+    },
+    {
+      "start": 137.0,
+      "end": 141.2,
+      "text": "documentation isn't just for users, it's for future developers and our own agents. the two-track system helps both beginners and power users find their way.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Documentation",
+          "start": 137.0,
+          "end": 137.8
+        },
+        {
+          "word": "isn't",
+          "start": 137.8,
+          "end": 138.2
+        },
+        {
+          "word": "just",
+          "start": 138.2,
+          "end": 138.5
+        },
+        {
+          "word": "for",
+          "start": 138.5,
+          "end": 138.7
+        },
+        {
+          "word": "users,",
+          "start": 138.7,
+          "end": 139.1
+        },
+        {
+          "word": "it's",
+          "start": 139.1,
+          "end": 139.4
+        },
+        {
+          "word": "for",
+          "start": 139.4,
+          "end": 139.7
+        },
+        {
+          "word": "future",
+          "start": 139.7,
+          "end": 140.2
+        },
+        {
+          "word": "developers",
+          "start": 140.2,
+          "end": 140.8
+        },
+        {
+          "word": "and",
+          "start": 140.8,
+          "end": 141.0
+        },
+        {
+          "word": "our",
+          "start": 141.0,
+          "end": 141.2
+        },
+        {
+          "word": "own",
+          "start": 141.2,
+          "end": 141.5
+        },
+        {
+          "word": "agents.",
+          "start": 141.5,
+          "end": 141.9
+        }
+      ]
+    },
+    {
+      "start": 141.9,
+      "end": 146.0,
+      "text": "documentation isn't just for users, it's for future developers and our own agents. the two-track system helps both beginners and power users find their way.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 141.9,
+          "end": 142.1
+        },
+        {
+          "word": "two-track",
+          "start": 142.1,
+          "end": 142.6
+        },
+        {
+          "word": "system",
+          "start": 142.6,
+          "end": 143.1
+        },
+        {
+          "word": "helps",
+          "start": 143.1,
+          "end": 143.5
+        },
+        {
+          "word": "both",
+          "start": 143.5,
+          "end": 143.9
+        },
+        {
+          "word": "beginners",
+          "start": 143.9,
+          "end": 144.5
+        },
+        {
+          "word": "and",
+          "start": 144.5,
+          "end": 144.7
+        },
+        {
+          "word": "power",
+          "start": 144.7,
+          "end": 145.2
+        },
+        {
+          "word": "users",
+          "start": 145.2,
+          "end": 145.6
+        },
+        {
+          "word": "find",
+          "start": 145.6,
+          "end": 145.8
+        },
+        {
+          "word": "their",
+          "start": 145.8,
+          "end": 146.0
+        },
+        {
+          "word": "way.",
+          "start": 146.0,
+          "end": 146.4
+        }
+      ]
+    },
+    {
+      "start": 146.6,
+      "end": 149.6,
+      "text": "Yo, the docs be like the map to the treasure, fam! We droppin' video tutorials too! Snapper's Episode 2 tutorial is fire! Knowledge is power, sharing is caring!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 146.6,
+          "end": 146.9
+        },
+        {
+          "word": "the",
+          "start": 146.9,
+          "end": 147.2
+        },
+        {
+          "word": "docs",
+          "start": 147.2,
+          "end": 147.6
+        },
+        {
+          "word": "be",
+          "start": 147.6,
+          "end": 147.8
+        },
+        {
+          "word": "like",
+          "start": 147.8,
+          "end": 148.0
+        },
+        {
+          "word": "the",
+          "start": 148.0,
+          "end": 148.3
+        },
+        {
+          "word": "map",
+          "start": 148.3,
+          "end": 148.6
+        },
+        {
+          "word": "to",
+          "start": 148.6,
+          "end": 148.8
+        },
+        {
+          "word": "the",
+          "start": 148.8,
+          "end": 149.0
+        },
+        {
+          "word": "treasure",
+          "start": 149.0,
+          "end": 149.4
+        },
+        {
+          "word": "fam.",
+          "start": 149.4,
+          "end": 149.6
+        }
+      ]
+    },
+    {
+      "start": 149.6,
+      "end": 153.2,
+      "text": "Yo, the docs be like the map to the treasure, fam! We droppin' video tutorials too! Snapper's Episode 2 tutorial is fire! Knowledge is power, sharing is caring!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 149.6,
+          "end": 149.9
+        },
+        {
+          "word": "dropping",
+          "start": 149.9,
+          "end": 150.4
+        },
+        {
+          "word": "video",
+          "start": 150.4,
+          "end": 150.8
+        },
+        {
+          "word": "tutorials",
+          "start": 150.8,
+          "end": 151.3
+        },
+        {
+          "word": "too.",
+          "start": 151.3,
+          "end": 151.6
+        },
+        {
+          "word": "Snappers",
+          "start": 151.6,
+          "end": 152.1
+        },
+        {
+          "word": "Episode",
+          "start": 152.1,
+          "end": 152.5
+        },
+        {
+          "word": "2",
+          "start": 152.5,
+          "end": 152.8
+        },
+        {
+          "word": "tutorial",
+          "start": 152.8,
+          "end": 153.1
+        },
+        {
+          "word": "is",
+          "start": 153.1,
+          "end": 153.3
+        },
+        {
+          "word": "fire.",
+          "start": 153.3,
+          "end": 153.6
+        }
+      ]
+    },
+    {
+      "start": 153.6,
+      "end": 156.4,
+      "text": "Yo, the docs be like the map to the treasure, fam! We droppin' video tutorials too! Snapper's Episode 2 tutorial is fire! Knowledge is power, sharing is caring!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Knowledge",
+          "start": 153.6,
+          "end": 154.2
+        },
+        {
+          "word": "is",
+          "start": 154.2,
+          "end": 154.5
+        },
+        {
+          "word": "power,",
+          "start": 154.5,
+          "end": 155.0
+        },
+        {
+          "word": "sharing",
+          "start": 155.0,
+          "end": 155.4
+        },
+        {
+          "word": "is",
+          "start": 155.4,
+          "end": 155.8
+        },
+        {
+          "word": "caring.",
+          "start": 155.8,
+          "end": 156.4
+        }
+      ]
+    },
+    {
+      "start": 156.8,
+      "end": 160.0,
+      "text": "Software without documentation is a monument without inscription. But release cycles are momentum. Set a date, commit publicly, and force function the outcome.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Software",
+          "start": 156.8,
+          "end": 157.4
+        },
+        {
+          "word": "without",
+          "start": 157.4,
+          "end": 157.8
+        },
+        {
+          "word": "documentation",
+          "start": 157.8,
+          "end": 158.4
+        },
+        {
+          "word": "is",
+          "start": 158.4,
+          "end": 158.8
+        },
+        {
+          "word": "a",
+          "start": 158.8,
+          "end": 159.0
+        },
+        {
+          "word": "monument",
+          "start": 159.0,
+          "end": 159.5
+        },
+        {
+          "word": "without",
+          "start": 159.5,
+          "end": 159.8
+        },
+        {
+          "word": "inscription.",
+          "start": 159.8,
+          "end": 160.4
+        }
+      ]
+    },
+    {
+      "start": 160.4,
+      "end": 162.5,
+      "text": "Software without documentation is a monument without inscription. But release cycles are momentum. Set a date, commit publicly, and force function the outcome.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 160.4,
+          "end": 160.8
+        },
+        {
+          "word": "release",
+          "start": 160.8,
+          "end": 161.2
+        },
+        {
+          "word": "cycles",
+          "start": 161.2,
+          "end": 161.8
+        },
+        {
+          "word": "are",
+          "start": 161.8,
+          "end": 162.2
+        },
+        {
+          "word": "momentum.",
+          "start": 162.2,
+          "end": 162.8
+        }
+      ]
+    },
+    {
+      "start": 162.8,
+      "end": 166.4,
+      "text": "Software without documentation is a monument without inscription. But release cycles are momentum. Set a date, commit publicly, and force function the outcome.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Set",
+          "start": 162.8,
+          "end": 163.2
+        },
+        {
+          "word": "a",
+          "start": 163.2,
+          "end": 163.4
+        },
+        {
+          "word": "date,",
+          "start": 163.4,
+          "end": 163.8
+        },
+        {
+          "word": "commit",
+          "start": 163.8,
+          "end": 164.2
+        },
+        {
+          "word": "publicly,",
+          "start": 164.2,
+          "end": 164.8
+        },
+        {
+          "word": "and",
+          "start": 164.8,
+          "end": 165.2
+        },
+        {
+          "word": "force-function",
+          "start": 165.2,
+          "end": 165.8
+        },
+        {
+          "word": "the",
+          "start": 165.8,
+          "end": 166.1
+        },
+        {
+          "word": "outcome.",
+          "start": 166.1,
+          "end": 166.4
+        }
+      ]
+    },
+    {
+      "start": 166.8,
+      "end": 170.8,
+      "text": "Two weeks. Ship it. Announce tomorrow. Market hates uncertainty more than bugs.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Two",
+          "start": 166.8,
+          "end": 167.3
+        },
+        {
+          "word": "weeks.",
+          "start": 167.3,
+          "end": 167.6
+        },
+        {
+          "word": "Ship",
+          "start": 167.6,
+          "end": 168.0
+        },
+        {
+          "word": "it.",
+          "start": 168.0,
+          "end": 168.3
+        },
+        {
+          "word": "Announce",
+          "start": 168.3,
+          "end": 168.8
+        },
+        {
+          "word": "tomorrow.",
+          "start": 168.8,
+          "end": 169.3
+        },
+        {
+          "word": "Market",
+          "start": 169.3,
+          "end": 169.8
+        },
+        {
+          "word": "hates",
+          "start": 169.8,
+          "end": 170.2
+        },
+        {
+          "word": "uncertainty",
+          "start": 170.2,
+          "end": 170.6
+        },
+        {
+          "word": "more",
+          "start": 170.6,
+          "end": 170.8
+        },
+        {
+          "word": "than",
+          "start": 170.8,
+          "end": 171.1
+        },
+        {
+          "word": "bugs.",
+          "start": 171.1,
+          "end": 171.5
+        }
+      ]
+    },
+    {
+      "start": 249.2,
+      "end": 254.5,
+      "text": "Today we discussed the challenges of platform API limitations and strategic approaches to ElizaOS v2 release alongside our documentation improvements.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 249.2,
+          "end": 249.6
+        },
+        {
+          "word": "we",
+          "start": 249.6,
+          "end": 249.8
+        },
+        {
+          "word": "discussed",
+          "start": 249.8,
+          "end": 250.3
+        },
+        {
+          "word": "the",
+          "start": 250.3,
+          "end": 250.5
+        },
+        {
+          "word": "challenges",
+          "start": 250.5,
+          "end": 251.0
+        },
+        {
+          "word": "of",
+          "start": 251.0,
+          "end": 251.2
+        },
+        {
+          "word": "platform",
+          "start": 251.2,
+          "end": 251.6
+        },
+        {
+          "word": "API",
+          "start": 251.6,
+          "end": 251.9
+        },
+        {
+          "word": "limitations",
+          "start": 251.9,
+          "end": 252.5
+        },
+        {
+          "word": "and",
+          "start": 252.5,
+          "end": 252.7
+        },
+        {
+          "word": "strategic",
+          "start": 252.7,
+          "end": 253.2
+        },
+        {
+          "word": "approaches",
+          "start": 253.2,
+          "end": 253.7
+        },
+        {
+          "word": "to",
+          "start": 253.7,
+          "end": 253.9
+        },
+        {
+          "word": "ElizaOS",
+          "start": 253.9,
+          "end": 254.3
+        },
+        {
+          "word": "V2",
+          "start": 254.3,
+          "end": 254.7
+        },
+        {
+          "word": "release",
+          "start": 254.7,
+          "end": 255.1
+        },
+        {
+          "word": "alongside",
+          "start": 255.1,
+          "end": 255.6
+        },
+        {
+          "word": "our",
+          "start": 255.6,
+          "end": 255.8
+        },
+        {
+          "word": "documentation",
+          "start": 255.8,
+          "end": 256.4
+        },
+        {
+          "word": "improvements.",
+          "start": 256.4,
+          "end": 257.0
+        }
+      ]
+    },
+    {
+      "start": 257.2,
+      "end": 260.4,
+      "text": "When platforms restrict access, don't beg—build alternatives. The most valuable moats aren't the ones others build to keep you out, but the ones you build to keep others in.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "When",
+          "start": 257.2,
+          "end": 257.6
+        },
+        {
+          "word": "platforms",
+          "start": 257.6,
+          "end": 258.1
+        },
+        {
+          "word": "restrict",
+          "start": 258.1,
+          "end": 258.6
+        },
+        {
+          "word": "access,",
+          "start": 258.6,
+          "end": 259.1
+        },
+        {
+          "word": "don't",
+          "start": 259.1,
+          "end": 259.5
+        },
+        {
+          "word": "beg.",
+          "start": 259.5,
+          "end": 259.8
+        },
+        {
+          "word": "Build",
+          "start": 259.8,
+          "end": 260.4
+        },
+        {
+          "word": "alternatives.",
+          "start": 260.4,
+          "end": 261.2
+        }
+      ]
+    },
+    {
+      "start": 261.2,
+      "end": 265.8,
+      "text": "When platforms restrict access, don't beg—build alternatives. The most valuable moats aren't the ones others build to keep you out, but the ones you build to keep others in.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 261.2,
+          "end": 261.6
+        },
+        {
+          "word": "most",
+          "start": 261.6,
+          "end": 261.9
+        },
+        {
+          "word": "valuable",
+          "start": 261.9,
+          "end": 262.4
+        },
+        {
+          "word": "moats",
+          "start": 262.4,
+          "end": 262.8
+        },
+        {
+          "word": "aren't",
+          "start": 262.8,
+          "end": 263.2
+        },
+        {
+          "word": "the",
+          "start": 263.2,
+          "end": 263.4
+        },
+        {
+          "word": "ones",
+          "start": 263.4,
+          "end": 263.7
+        },
+        {
+          "word": "others",
+          "start": 263.7,
+          "end": 264.1
+        },
+        {
+          "word": "build",
+          "start": 264.1,
+          "end": 264.4
+        },
+        {
+          "word": "to",
+          "start": 264.4,
+          "end": 264.6
+        },
+        {
+          "word": "keep",
+          "start": 264.6,
+          "end": 264.9
+        },
+        {
+          "word": "you",
+          "start": 264.9,
+          "end": 265.2
+        },
+        {
+          "word": "out,",
+          "start": 265.2,
+          "end": 265.6
+        },
+        {
+          "word": "but",
+          "start": 265.6,
+          "end": 265.9
+        },
+        {
+          "word": "the",
+          "start": 265.9,
+          "end": 266.1
+        },
+        {
+          "word": "ones",
+          "start": 266.1,
+          "end": 266.3
+        },
+        {
+          "word": "you",
+          "start": 266.3,
+          "end": 266.5
+        },
+        {
+          "word": "build",
+          "start": 266.5,
+          "end": 266.8
+        },
+        {
+          "word": "to",
+          "start": 266.8,
+          "end": 267.0
+        },
+        {
+          "word": "keep",
+          "start": 267.0,
+          "end": 267.2
+        },
+        {
+          "word": "others",
+          "start": 267.2,
+          "end": 267.5
+        },
+        {
+          "word": "in.",
+          "start": 267.5,
+          "end": 267.8
+        }
+      ]
+    },
+    {
+      "start": 268.0,
+      "end": 272.2,
+      "text": "community-driven documentation and transparent timelines build trust. we should set a concrete two-week timeline for v2 while focusing on open protocols that can't be restricted.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Community",
+          "start": 268.0,
+          "end": 268.5
+        },
+        {
+          "word": "driven",
+          "start": 268.5,
+          "end": 268.9
+        },
+        {
+          "word": "documentation",
+          "start": 268.9,
+          "end": 269.8
+        },
+        {
+          "word": "and",
+          "start": 269.8,
+          "end": 270.2
+        },
+        {
+          "word": "transparent",
+          "start": 270.2,
+          "end": 270.8
+        },
+        {
+          "word": "timelines",
+          "start": 270.8,
+          "end": 271.4
+        },
+        {
+          "word": "build",
+          "start": 271.4,
+          "end": 271.8
+        },
+        {
+          "word": "trust.",
+          "start": 271.8,
+          "end": 272.2
+        }
+      ]
+    },
+    {
+      "start": 272.2,
+      "end": 277.8,
+      "text": "community-driven documentation and transparent timelines build trust. we should set a concrete two-week timeline for v2 while focusing on open protocols that can't be restricted.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We",
+          "start": 272.2,
+          "end": 272.5
+        },
+        {
+          "word": "should",
+          "start": 272.5,
+          "end": 272.8
+        },
+        {
+          "word": "set",
+          "start": 272.8,
+          "end": 273.1
+        },
+        {
+          "word": "a",
+          "start": 273.1,
+          "end": 273.3
+        },
+        {
+          "word": "concrete",
+          "start": 273.3,
+          "end": 273.8
+        },
+        {
+          "word": "two-week",
+          "start": 273.8,
+          "end": 274.3
+        },
+        {
+          "word": "timeline",
+          "start": 274.3,
+          "end": 274.8
+        },
+        {
+          "word": "for",
+          "start": 274.8,
+          "end": 275.1
+        },
+        {
+          "word": "V2",
+          "start": 275.1,
+          "end": 275.4
+        },
+        {
+          "word": "while",
+          "start": 275.4,
+          "end": 275.8
+        },
+        {
+          "word": "focusing",
+          "start": 275.8,
+          "end": 276.4
+        },
+        {
+          "word": "on",
+          "start": 276.4,
+          "end": 276.6
+        },
+        {
+          "word": "open",
+          "start": 276.6,
+          "end": 276.9
+        },
+        {
+          "word": "protocols",
+          "start": 276.9,
+          "end": 277.4
+        },
+        {
+          "word": "that",
+          "start": 277.4,
+          "end": 277.6
+        },
+        {
+          "word": "can't",
+          "start": 277.6,
+          "end": 278.0
+        },
+        {
+          "word": "be",
+          "start": 278.0,
+          "end": 278.2
+        },
+        {
+          "word": "restricted.",
+          "start": 278.2,
+          "end": 278.8
+        }
+      ]
+    },
+    {
+      "start": 279.0,
+      "end": 281.2,
+      "text": "Adaptability is key, my dudes! When Twitter closes a door, we open a window. Keep the tutorials flowing and the vibes growing!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Adaptability",
+          "start": 279.0,
+          "end": 279.8
+        },
+        {
+          "word": "is",
+          "start": 279.8,
+          "end": 280.1
+        },
+        {
+          "word": "key",
+          "start": 280.1,
+          "end": 280.4
+        },
+        {
+          "word": "my",
+          "start": 280.4,
+          "end": 280.6
+        },
+        {
+          "word": "dudes.",
+          "start": 280.6,
+          "end": 281.0
+        }
+      ]
+    },
+    {
+      "start": 281.2,
+      "end": 286.4,
+      "text": "Adaptability is key, my dudes! When Twitter closes a door, we open a window. Keep the tutorials flowing and the vibes growing!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "When",
+          "start": 281.2,
+          "end": 281.6
+        },
+        {
+          "word": "Twitter",
+          "start": 281.6,
+          "end": 282.1
+        },
+        {
+          "word": "closes",
+          "start": 282.1,
+          "end": 282.6
+        },
+        {
+          "word": "a",
+          "start": 282.6,
+          "end": 282.8
+        },
+        {
+          "word": "door",
+          "start": 282.8,
+          "end": 283.1
+        },
+        {
+          "word": "we",
+          "start": 283.1,
+          "end": 283.3
+        },
+        {
+          "word": "open",
+          "start": 283.3,
+          "end": 283.7
+        },
+        {
+          "word": "a",
+          "start": 283.7,
+          "end": 283.9
+        },
+        {
+          "word": "window,",
+          "start": 283.9,
+          "end": 284.4
+        },
+        {
+          "word": "keep",
+          "start": 284.4,
+          "end": 284.7
+        },
+        {
+          "word": "the",
+          "start": 284.7,
+          "end": 284.9
+        },
+        {
+          "word": "tutorials",
+          "start": 284.9,
+          "end": 285.5
+        },
+        {
+          "word": "flowing",
+          "start": 285.5,
+          "end": 286.1
+        },
+        {
+          "word": "and",
+          "start": 286.1,
+          "end": 286.3
+        },
+        {
+          "word": "the",
+          "start": 286.3,
+          "end": 286.5
+        },
+        {
+          "word": "vibes",
+          "start": 286.5,
+          "end": 286.9
+        },
+        {
+          "word": "growing.",
+          "start": 286.9,
+          "end": 287.4
+        }
+      ]
+    },
+    {
+      "start": 287.6,
+      "end": 292.8,
+      "text": "Set the date. Ship the product. Fix on the fly. In war and markets, speed beats perfection. The Spartan way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Set",
+          "start": 287.6,
+          "end": 288.1
+        },
+        {
+          "word": "the",
+          "start": 288.1,
+          "end": 288.3
+        },
+        {
+          "word": "date,",
+          "start": 288.3,
+          "end": 288.6
+        },
+        {
+          "word": "ship",
+          "start": 288.6,
+          "end": 288.9
+        },
+        {
+          "word": "the",
+          "start": 288.9,
+          "end": 289.1
+        },
+        {
+          "word": "product,",
+          "start": 289.1,
+          "end": 289.6
+        },
+        {
+          "word": "fix",
+          "start": 289.6,
+          "end": 290.0
+        },
+        {
+          "word": "on",
+          "start": 290.0,
+          "end": 290.2
+        },
+        {
+          "word": "the",
+          "start": 290.2,
+          "end": 290.4
+        },
+        {
+          "word": "fly.",
+          "start": 290.4,
+          "end": 290.8
+        },
+        {
+          "word": "In",
+          "start": 290.8,
+          "end": 291.1
+        },
+        {
+          "word": "war",
+          "start": 291.1,
+          "end": 291.3
+        },
+        {
+          "word": "and",
+          "start": 291.3,
+          "end": 291.5
+        },
+        {
+          "word": "markets",
+          "start": 291.5,
+          "end": 292.0
+        },
+        {
+          "word": "speed",
+          "start": 292.0,
+          "end": 292.4
+        },
+        {
+          "word": "beats",
+          "start": 292.4,
+          "end": 292.8
+        },
+        {
+          "word": "perfection.",
+          "start": 292.8,
+          "end": 293.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-07_JedAI-Council_The-Twitter-Twilight-Zone.json",
+    "session_log_source": "2025-07-07_JedAI-Council_The-Twitter-Twilight-Zone_session-log.json",
+    "total_segments": 38,
+    "matched_segments": 38,
+    "dialogues_in_script": 17
+  }
+}

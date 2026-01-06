@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/10/episode-5906-featured-1761452254.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/10/episode-5906-featured-1761452254-150x150.png",
+  "premise": "The Council debates the balance between x402 integration and token migration while addressing elizaOS's marketing challenges.",
+  "scenes": [
+    {
+      "description": "The Council debates the priorities between x402 integration and token migration",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council explores elizaOS's marketing challenges and social media strategy",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council summarizes their insights on elizaOS's strategic direction",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

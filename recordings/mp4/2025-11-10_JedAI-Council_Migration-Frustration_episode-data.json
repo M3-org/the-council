@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/11/episode-5970-featured-1762749577.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/11/episode-5970-featured-1762749577-150x150.png",
+  "premise": "The Council debates the challenges of the AI16z to ElizaOS token migration and explores the importance of balancing technical infrastructure with community trust.",
+  "scenes": [
+    {
+      "description": "The Council discusses the ongoing token migration challenges",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council debates Eliza's character representation and brand strategy",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council summarizes their insights on the token migration and brand identity challenges",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "peepo",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

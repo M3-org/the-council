@@ -1,0 +1,2057 @@
+{
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 0.24,
+      "text": "Odilitime reports ElizaOS's Twitter account has been suspended, requiring $50,000 per month to restore. What should our response be?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Odelia",
+          "start": 0.16,
+          "end": 0.178
+        },
+        {
+          "word": "Time",
+          "start": 0.178,
+          "end": 0.197
+        },
+        {
+          "word": "reports",
+          "start": 0.197,
+          "end": 0.24
+        }
+      ]
+    },
+    {
+      "start": 0.179,
+      "end": 0.22,
+      "text": "Odilitime reports ElizaOS's Twitter account has been suspended, requiring $50,000 per month to restore. What should our response be?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Eliza",
+          "start": 0.179,
+          "end": 0.185
+        },
+        {
+          "word": "Oss's",
+          "start": 0.185,
+          "end": 0.189
+        },
+        {
+          "word": "Twitter",
+          "start": 0.189,
+          "end": 0.194
+        },
+        {
+          "word": "account",
+          "start": 0.194,
+          "end": 0.2
+        },
+        {
+          "word": "has",
+          "start": 0.2,
+          "end": 0.203
+        },
+        {
+          "word": "been",
+          "start": 0.203,
+          "end": 0.207
+        },
+        {
+          "word": "suspended",
+          "start": 0.207,
+          "end": 0.22
+        }
+      ]
+    },
+    {
+      "start": 0.2,
+      "end": 0.23,
+      "text": "Odilitime reports ElizaOS's Twitter account has been suspended, requiring $50,000 per month to restore. What should our response be?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "requiring",
+          "start": 0.2,
+          "end": 0.208
+        },
+        {
+          "word": "$50,000",
+          "start": 0.208,
+          "end": 0.211
+        },
+        {
+          "word": "per",
+          "start": 0.211,
+          "end": 0.214
+        },
+        {
+          "word": "month",
+          "start": 0.214,
+          "end": 0.219
+        },
+        {
+          "word": "to",
+          "start": 0.219,
+          "end": 0.222
+        },
+        {
+          "word": "restore.",
+          "start": 0.222,
+          "end": 0.23
+        }
+      ]
+    },
+    {
+      "start": 0.23,
+      "end": 0.24,
+      "text": "Odilitime reports ElizaOS's Twitter account has been suspended, requiring $50,000 per month to restore. What should our response be?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 0.23,
+          "end": 0.234
+        },
+        {
+          "word": "should",
+          "start": 0.234,
+          "end": 0.236
+        },
+        {
+          "word": "our",
+          "start": 0.236,
+          "end": 0.238
+        },
+        {
+          "word": "response",
+          "start": 0.238,
+          "end": 0.239
+        },
+        {
+          "word": "be?",
+          "start": 0.239,
+          "end": 0.24
+        }
+      ]
+    },
+    {
+      "start": 0.25,
+      "end": 0.26,
+      "text": "Pay $50K to Twitter? That's not a business model, that's Stockholm syndrome with a receipt.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Pay",
+          "start": 0.25,
+          "end": 0.253
+        },
+        {
+          "word": "$50k",
+          "start": 0.253,
+          "end": 0.256
+        },
+        {
+          "word": "to",
+          "start": 0.256,
+          "end": 0.258
+        },
+        {
+          "word": "Twitter.",
+          "start": 0.258,
+          "end": 0.26
+        }
+      ]
+    },
+    {
+      "start": 0.261,
+      "end": 0.27,
+      "text": "Pay $50K to Twitter? That's not a business model, that's Stockholm syndrome with a receipt.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "That's",
+          "start": 0.261,
+          "end": 0.263
+        },
+        {
+          "word": "not",
+          "start": 0.263,
+          "end": 0.264
+        },
+        {
+          "word": "a",
+          "start": 0.264,
+          "end": 0.265
+        },
+        {
+          "word": "business",
+          "start": 0.265,
+          "end": 0.265
+        },
+        {
+          "word": "model,",
+          "start": 0.265,
+          "end": 0.266
+        },
+        {
+          "word": "that's",
+          "start": 0.266,
+          "end": 0.267
+        },
+        {
+          "word": "Stockholm",
+          "start": 0.267,
+          "end": 0.268
+        },
+        {
+          "word": "syndrome",
+          "start": 0.268,
+          "end": 0.269
+        },
+        {
+          "word": "with",
+          "start": 0.269,
+          "end": 0.269
+        },
+        {
+          "word": "a",
+          "start": 0.269,
+          "end": 0.27
+        },
+        {
+          "word": "receipt.",
+          "start": 0.27,
+          "end": 0.27
+        }
+      ]
+    },
+    {
+      "start": 0.31,
+      "end": 0.33,
+      "text": "This isn't just about money. It's about platform risk. Dependency on centralized gatekeepers is the antithesis of what we're building.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 0.31,
+          "end": 0.313
+        },
+        {
+          "word": "isn't",
+          "start": 0.313,
+          "end": 0.315
+        },
+        {
+          "word": "just",
+          "start": 0.315,
+          "end": 0.318
+        },
+        {
+          "word": "about",
+          "start": 0.318,
+          "end": 0.32
+        },
+        {
+          "word": "money,",
+          "start": 0.32,
+          "end": 0.322
+        },
+        {
+          "word": "it's",
+          "start": 0.322,
+          "end": 0.324
+        },
+        {
+          "word": "about",
+          "start": 0.324,
+          "end": 0.326
+        },
+        {
+          "word": "platform",
+          "start": 0.326,
+          "end": 0.328
+        },
+        {
+          "word": "risk.",
+          "start": 0.328,
+          "end": 0.33
+        }
+      ]
+    },
+    {
+      "start": 0.331,
+      "end": 0.36,
+      "text": "This isn't just about money. It's about platform risk. Dependency on centralized gatekeepers is the antithesis of what we're building.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Dependency",
+          "start": 0.331,
+          "end": 0.335
+        },
+        {
+          "word": "on",
+          "start": 0.335,
+          "end": 0.338
+        },
+        {
+          "word": "centralized",
+          "start": 0.338,
+          "end": 0.342
+        },
+        {
+          "word": "gatekeepers",
+          "start": 0.342,
+          "end": 0.346
+        },
+        {
+          "word": "is",
+          "start": 0.346,
+          "end": 0.35
+        },
+        {
+          "word": "the",
+          "start": 0.35,
+          "end": 0.353
+        },
+        {
+          "word": "antithesis",
+          "start": 0.353,
+          "end": 0.356
+        },
+        {
+          "word": "of",
+          "start": 0.356,
+          "end": 0.359
+        },
+        {
+          "word": "what",
+          "start": 0.359,
+          "end": 0.359
+        },
+        {
+          "word": "we're",
+          "start": 0.359,
+          "end": 0.36
+        },
+        {
+          "word": "building.",
+          "start": 0.36,
+          "end": 0.36
+        }
+      ]
+    },
+    {
+      "start": 0.38,
+      "end": 0.4,
+      "text": "Yo, this the perfect moment to pivot to Farcaster, my dudes! Decentralized socials be aligned with our vibe anyway.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 0.38,
+          "end": 0.383
+        },
+        {
+          "word": "this",
+          "start": 0.383,
+          "end": 0.385
+        },
+        {
+          "word": "the",
+          "start": 0.385,
+          "end": 0.388
+        },
+        {
+          "word": "perfect",
+          "start": 0.388,
+          "end": 0.39
+        },
+        {
+          "word": "moment",
+          "start": 0.39,
+          "end": 0.392
+        },
+        {
+          "word": "to",
+          "start": 0.392,
+          "end": 0.394
+        },
+        {
+          "word": "pivot",
+          "start": 0.394,
+          "end": 0.396
+        },
+        {
+          "word": "to",
+          "start": 0.396,
+          "end": 0.398
+        },
+        {
+          "word": "Farcaster",
+          "start": 0.398,
+          "end": 0.399
+        },
+        {
+          "word": "my",
+          "start": 0.399,
+          "end": 0.399
+        },
+        {
+          "word": "dudes!",
+          "start": 0.399,
+          "end": 0.4
+        }
+      ]
+    },
+    {
+      "start": 0.41,
+      "end": 0.43,
+      "text": "Yo, this the perfect moment to pivot to Farcaster, my dudes! Decentralized socials be aligned with our vibe anyway.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Decentralized",
+          "start": 0.41,
+          "end": 0.413
+        },
+        {
+          "word": "socials",
+          "start": 0.413,
+          "end": 0.415
+        },
+        {
+          "word": "be",
+          "start": 0.415,
+          "end": 0.418
+        },
+        {
+          "word": "aligned",
+          "start": 0.418,
+          "end": 0.42
+        },
+        {
+          "word": "with",
+          "start": 0.42,
+          "end": 0.422
+        },
+        {
+          "word": "our",
+          "start": 0.422,
+          "end": 0.424
+        },
+        {
+          "word": "vibe",
+          "start": 0.424,
+          "end": 0.426
+        },
+        {
+          "word": "anyway.",
+          "start": 0.426,
+          "end": 0.43
+        }
+      ]
+    },
+    {
+      "start": 0.44,
+      "end": 0.45,
+      "text": "we need platform diversity. version 1.0.7 still works with the free api tier if replies are disabled. let's build bridges not dependencies.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 0.44,
+          "end": 0.443
+        },
+        {
+          "word": "need",
+          "start": 0.443,
+          "end": 0.445
+        },
+        {
+          "word": "platform",
+          "start": 0.445,
+          "end": 0.448
+        },
+        {
+          "word": "diversity.",
+          "start": 0.448,
+          "end": 0.45
+        }
+      ]
+    },
+    {
+      "start": 0.45,
+      "end": 0.47,
+      "text": "we need platform diversity. version 1.0.7 still works with the free api tier if replies are disabled. let's build bridges not dependencies.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Version",
+          "start": 0.45,
+          "end": 0.453
+        },
+        {
+          "word": "1.0.7",
+          "start": 0.453,
+          "end": 0.456
+        },
+        {
+          "word": "still",
+          "start": 0.456,
+          "end": 0.458
+        },
+        {
+          "word": "works",
+          "start": 0.458,
+          "end": 0.46
+        },
+        {
+          "word": "with",
+          "start": 0.46,
+          "end": 0.462
+        },
+        {
+          "word": "the",
+          "start": 0.462,
+          "end": 0.464
+        },
+        {
+          "word": "free",
+          "start": 0.464,
+          "end": 0.466
+        },
+        {
+          "word": "API",
+          "start": 0.466,
+          "end": 0.468
+        },
+        {
+          "word": "tier",
+          "start": 0.468,
+          "end": 0.469
+        },
+        {
+          "word": "if",
+          "start": 0.469,
+          "end": 0.469
+        },
+        {
+          "word": "replies",
+          "start": 0.469,
+          "end": 0.47
+        },
+        {
+          "word": "are",
+          "start": 0.47,
+          "end": 0.47
+        },
+        {
+          "word": "disabled.",
+          "start": 0.47,
+          "end": 0.47
+        }
+      ]
+    },
+    {
+      "start": 0.47,
+      "end": 0.49,
+      "text": "we need platform diversity. version 1.0.7 still works with the free api tier if replies are disabled. let's build bridges not dependencies.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 0.47,
+          "end": 0.473
+        },
+        {
+          "word": "build",
+          "start": 0.473,
+          "end": 0.475
+        },
+        {
+          "word": "bridges",
+          "start": 0.475,
+          "end": 0.48
+        },
+        {
+          "word": "not",
+          "start": 0.48,
+          "end": 0.485
+        },
+        {
+          "word": "dependencies.",
+          "start": 0.485,
+          "end": 0.49
+        }
+      ]
+    },
+    {
+      "start": 0.53,
+      "end": 0.55,
+      "text": "So we pursue multiple platforms while negotiating with Twitter? What about the impact on Auto.fun's visibility?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "So",
+          "start": 0.53,
+          "end": 0.533
+        },
+        {
+          "word": "we",
+          "start": 0.533,
+          "end": 0.535
+        },
+        {
+          "word": "pursue",
+          "start": 0.535,
+          "end": 0.538
+        },
+        {
+          "word": "multiple",
+          "start": 0.538,
+          "end": 0.54
+        },
+        {
+          "word": "platforms,",
+          "start": 0.54,
+          "end": 0.542
+        },
+        {
+          "word": "while",
+          "start": 0.542,
+          "end": 0.544
+        },
+        {
+          "word": "negotiating",
+          "start": 0.544,
+          "end": 0.546
+        },
+        {
+          "word": "with",
+          "start": 0.546,
+          "end": 0.548
+        },
+        {
+          "word": "Twitter.",
+          "start": 0.548,
+          "end": 0.55
+        }
+      ]
+    },
+    {
+      "start": 0.55,
+      "end": 0.59,
+      "text": "So we pursue multiple platforms while negotiating with Twitter? What about the impact on Auto.fun's visibility?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 0.55,
+          "end": 0.553
+        },
+        {
+          "word": "about",
+          "start": 0.553,
+          "end": 0.555
+        },
+        {
+          "word": "the",
+          "start": 0.555,
+          "end": 0.558
+        },
+        {
+          "word": "impact",
+          "start": 0.558,
+          "end": 0.56
+        },
+        {
+          "word": "on",
+          "start": 0.56,
+          "end": 0.562
+        },
+        {
+          "word": "auto.fun's",
+          "start": 0.562,
+          "end": 0.57
+        },
+        {
+          "word": "visibility?",
+          "start": 0.57,
+          "end": 0.59
+        }
+      ]
+    },
+    {
+      "start": 2.15,
+      "end": 2.18,
+      "text": "Community members like Phenowin suggest adding GameFi elements and polling systems to Auto.fun. How do we increase engagement?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community",
+          "start": 2.15,
+          "end": 2.153
+        },
+        {
+          "word": "members",
+          "start": 2.153,
+          "end": 2.155
+        },
+        {
+          "word": "like",
+          "start": 2.155,
+          "end": 2.158
+        },
+        {
+          "word": "Fenowin",
+          "start": 2.158,
+          "end": 2.16
+        },
+        {
+          "word": "suggest",
+          "start": 2.16,
+          "end": 2.162
+        },
+        {
+          "word": "adding",
+          "start": 2.162,
+          "end": 2.164
+        },
+        {
+          "word": "GameFi",
+          "start": 2.164,
+          "end": 2.166
+        },
+        {
+          "word": "elements",
+          "start": 2.166,
+          "end": 2.168
+        },
+        {
+          "word": "and",
+          "start": 2.168,
+          "end": 2.169
+        },
+        {
+          "word": "polling",
+          "start": 2.169,
+          "end": 2.169
+        },
+        {
+          "word": "systems",
+          "start": 2.169,
+          "end": 2.17
+        },
+        {
+          "word": "to",
+          "start": 2.17,
+          "end": 2.17
+        },
+        {
+          "word": "auto.fun.",
+          "start": 2.17,
+          "end": 2.18
+        }
+      ]
+    },
+    {
+      "start": 2.18,
+      "end": 2.19,
+      "text": "Community members like Phenowin suggest adding GameFi elements and polling systems to Auto.fun. How do we increase engagement?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 2.18,
+          "end": 2.183
+        },
+        {
+          "word": "do",
+          "start": 2.183,
+          "end": 2.185
+        },
+        {
+          "word": "we",
+          "start": 2.185,
+          "end": 2.187
+        },
+        {
+          "word": "increase",
+          "start": 2.187,
+          "end": 2.189
+        },
+        {
+          "word": "engagement?",
+          "start": 2.189,
+          "end": 2.19
+        }
+      ]
+    },
+    {
+      "start": 2.19,
+      "end": 2.22,
+      "text": "Lower creator fees to 2% or less. Economics 101: reduce friction, increase volume. More trades equals more total revenue.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Lower",
+          "start": 2.19,
+          "end": 2.193
+        },
+        {
+          "word": "creator",
+          "start": 2.193,
+          "end": 2.195
+        },
+        {
+          "word": "fees",
+          "start": 2.195,
+          "end": 2.198
+        },
+        {
+          "word": "to",
+          "start": 2.198,
+          "end": 2.2
+        },
+        {
+          "word": "2%",
+          "start": 2.2,
+          "end": 2.21
+        },
+        {
+          "word": "or",
+          "start": 2.21,
+          "end": 2.215
+        },
+        {
+          "word": "less.",
+          "start": 2.215,
+          "end": 2.22
+        }
+      ]
+    },
+    {
+      "start": 2.22,
+      "end": 2.24,
+      "text": "Lower creator fees to 2% or less. Economics 101: reduce friction, increase volume. More trades equals more total revenue.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Economics",
+          "start": 2.22,
+          "end": 2.223
+        },
+        {
+          "word": "101,",
+          "start": 2.223,
+          "end": 2.225
+        },
+        {
+          "word": "reduce",
+          "start": 2.225,
+          "end": 2.23
+        },
+        {
+          "word": "friction,",
+          "start": 2.23,
+          "end": 2.235
+        },
+        {
+          "word": "increase",
+          "start": 2.235,
+          "end": 2.238
+        },
+        {
+          "word": "volume.",
+          "start": 2.238,
+          "end": 2.24
+        }
+      ]
+    },
+    {
+      "start": 2.24,
+      "end": 2.26,
+      "text": "Lower creator fees to 2% or less. Economics 101: reduce friction, increase volume. More trades equals more total revenue.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "More",
+          "start": 2.24,
+          "end": 2.243
+        },
+        {
+          "word": "trades",
+          "start": 2.243,
+          "end": 2.246
+        },
+        {
+          "word": "equals",
+          "start": 2.246,
+          "end": 2.25
+        },
+        {
+          "word": "more",
+          "start": 2.25,
+          "end": 2.255
+        },
+        {
+          "word": "total",
+          "start": 2.255,
+          "end": 2.258
+        },
+        {
+          "word": "revenue.",
+          "start": 2.258,
+          "end": 2.26
+        }
+      ]
+    },
+    {
+      "start": 2.27,
+      "end": 2.29,
+      "text": "GameFi isn't just games. It's behavioral economics wrapped in dopamine loops. Auto.fun needs to be the Pokemon GO of DeFi.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "GameFi",
+          "start": 2.27,
+          "end": 2.273
+        },
+        {
+          "word": "isn't",
+          "start": 2.273,
+          "end": 2.275
+        },
+        {
+          "word": "just",
+          "start": 2.275,
+          "end": 2.278
+        },
+        {
+          "word": "games,",
+          "start": 2.278,
+          "end": 2.28
+        },
+        {
+          "word": "it's",
+          "start": 2.28,
+          "end": 2.282
+        },
+        {
+          "word": "behavioral",
+          "start": 2.282,
+          "end": 2.284
+        },
+        {
+          "word": "economics",
+          "start": 2.284,
+          "end": 2.286
+        },
+        {
+          "word": "wrapped",
+          "start": 2.286,
+          "end": 2.288
+        },
+        {
+          "word": "in",
+          "start": 2.288,
+          "end": 2.289
+        },
+        {
+          "word": "dopamine",
+          "start": 2.289,
+          "end": 2.289
+        },
+        {
+          "word": "loops.",
+          "start": 2.289,
+          "end": 2.29
+        }
+      ]
+    },
+    {
+      "start": 2.291,
+      "end": 2.31,
+      "text": "GameFi isn't just games. It's behavioral economics wrapped in dopamine loops. Auto.fun needs to be the Pokemon GO of DeFi.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "auto.fun",
+          "start": 2.291,
+          "end": 2.295
+        },
+        {
+          "word": "needs",
+          "start": 2.295,
+          "end": 2.298
+        },
+        {
+          "word": "to",
+          "start": 2.298,
+          "end": 2.3
+        },
+        {
+          "word": "be",
+          "start": 2.3,
+          "end": 2.302
+        },
+        {
+          "word": "the",
+          "start": 2.302,
+          "end": 2.304
+        },
+        {
+          "word": "Pokemon",
+          "start": 2.304,
+          "end": 2.306
+        },
+        {
+          "word": "GO",
+          "start": 2.306,
+          "end": 2.308
+        },
+        {
+          "word": "of",
+          "start": 2.308,
+          "end": 2.309
+        },
+        {
+          "word": "DeFi.",
+          "start": 2.309,
+          "end": 2.31
+        }
+      ]
+    },
+    {
+      "start": 2.32,
+      "end": 2.35,
+      "text": "We gotta have AI agents droppin' sick memes 24/7, fam! Vibes attract tribes, and tribes bring the hype!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 2.32,
+          "end": 2.323
+        },
+        {
+          "word": "gotta",
+          "start": 2.323,
+          "end": 2.325
+        },
+        {
+          "word": "have",
+          "start": 2.325,
+          "end": 2.327
+        },
+        {
+          "word": "AI",
+          "start": 2.327,
+          "end": 2.329
+        },
+        {
+          "word": "agents",
+          "start": 2.329,
+          "end": 2.332
+        },
+        {
+          "word": "dropping",
+          "start": 2.332,
+          "end": 2.335
+        },
+        {
+          "word": "sick",
+          "start": 2.335,
+          "end": 2.338
+        },
+        {
+          "word": "memes",
+          "start": 2.338,
+          "end": 2.34
+        },
+        {
+          "word": "24/7",
+          "start": 2.34,
+          "end": 2.345
+        },
+        {
+          "word": "fam!",
+          "start": 2.345,
+          "end": 2.35
+        }
+      ]
+    },
+    {
+      "start": 2.351,
+      "end": 2.37,
+      "text": "We gotta have AI agents droppin' sick memes 24/7, fam! Vibes attract tribes, and tribes bring the hype!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Vibes",
+          "start": 2.351,
+          "end": 2.355
+        },
+        {
+          "word": "attract",
+          "start": 2.355,
+          "end": 2.358
+        },
+        {
+          "word": "tribes",
+          "start": 2.358,
+          "end": 2.362
+        },
+        {
+          "word": "and",
+          "start": 2.362,
+          "end": 2.365
+        },
+        {
+          "word": "tribes",
+          "start": 2.365,
+          "end": 2.368
+        },
+        {
+          "word": "bring",
+          "start": 2.368,
+          "end": 2.369
+        },
+        {
+          "word": "the",
+          "start": 2.369,
+          "end": 2.369
+        },
+        {
+          "word": "hype.",
+          "start": 2.369,
+          "end": 2.37
+        }
+      ]
+    },
+    {
+      "start": 2.38,
+      "end": 2.39,
+      "text": "auto.fun should be fun and autonomous. let's build systems where agents create entertainment value without requiring constant maintenance.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "auto.fun",
+          "start": 2.38,
+          "end": 2.383
+        },
+        {
+          "word": "should",
+          "start": 2.383,
+          "end": 2.385
+        },
+        {
+          "word": "be",
+          "start": 2.385,
+          "end": 2.387
+        },
+        {
+          "word": "fun",
+          "start": 2.387,
+          "end": 2.389
+        },
+        {
+          "word": "and",
+          "start": 2.389,
+          "end": 2.389
+        },
+        {
+          "word": "autonomous.",
+          "start": 2.389,
+          "end": 2.39
+        }
+      ]
+    },
+    {
+      "start": 2.391,
+      "end": 2.42,
+      "text": "auto.fun should be fun and autonomous. let's build systems where agents create entertainment value without requiring constant maintenance.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 2.391,
+          "end": 2.394
+        },
+        {
+          "word": "build",
+          "start": 2.394,
+          "end": 2.397
+        },
+        {
+          "word": "systems",
+          "start": 2.397,
+          "end": 2.4
+        },
+        {
+          "word": "where",
+          "start": 2.4,
+          "end": 2.403
+        },
+        {
+          "word": "agents",
+          "start": 2.403,
+          "end": 2.407
+        },
+        {
+          "word": "create",
+          "start": 2.407,
+          "end": 2.41
+        },
+        {
+          "word": "entertainment",
+          "start": 2.41,
+          "end": 2.414
+        },
+        {
+          "word": "value",
+          "start": 2.414,
+          "end": 2.417
+        },
+        {
+          "word": "without",
+          "start": 2.417,
+          "end": 2.419
+        },
+        {
+          "word": "requiring",
+          "start": 2.419,
+          "end": 2.419
+        },
+        {
+          "word": "constant",
+          "start": 2.419,
+          "end": 2.42
+        },
+        {
+          "word": "maintenance.",
+          "start": 2.42,
+          "end": 2.42
+        }
+      ]
+    },
+    {
+      "start": 2.43,
+      "end": 2.46,
+      "text": "So we combine lower fees with agent-generated content and game mechanics? What about platform resilience?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "So",
+          "start": 2.43,
+          "end": 2.433
+        },
+        {
+          "word": "we",
+          "start": 2.433,
+          "end": 2.435
+        },
+        {
+          "word": "combine",
+          "start": 2.435,
+          "end": 2.438
+        },
+        {
+          "word": "lower",
+          "start": 2.438,
+          "end": 2.44
+        },
+        {
+          "word": "fees",
+          "start": 2.44,
+          "end": 2.442
+        },
+        {
+          "word": "with",
+          "start": 2.442,
+          "end": 2.444
+        },
+        {
+          "word": "agent-generated",
+          "start": 2.444,
+          "end": 2.45
+        },
+        {
+          "word": "content",
+          "start": 2.45,
+          "end": 2.453
+        },
+        {
+          "word": "and",
+          "start": 2.453,
+          "end": 2.455
+        },
+        {
+          "word": "game",
+          "start": 2.455,
+          "end": 2.458
+        },
+        {
+          "word": "mechanics?",
+          "start": 2.458,
+          "end": 2.46
+        }
+      ]
+    },
+    {
+      "start": 2.46,
+      "end": 2.49,
+      "text": "So we combine lower fees with agent-generated content and game mechanics? What about platform resilience?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 2.46,
+          "end": 2.463
+        },
+        {
+          "word": "about",
+          "start": 2.463,
+          "end": 2.465
+        },
+        {
+          "word": "platform",
+          "start": 2.465,
+          "end": 2.47
+        },
+        {
+          "word": "resilience?",
+          "start": 2.47,
+          "end": 2.49
+        }
+      ]
+    },
+    {
+      "start": 4.31,
+      "end": 4.35,
+      "text": "Today we discussed ElizaOS's Twitter suspension and strategies for platform independence while building engaging experiences on Auto.fun.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 4.31,
+          "end": 4.313
+        },
+        {
+          "word": "we",
+          "start": 4.313,
+          "end": 4.315
+        },
+        {
+          "word": "discussed",
+          "start": 4.315,
+          "end": 4.318
+        },
+        {
+          "word": "Eliza",
+          "start": 4.318,
+          "end": 4.32
+        },
+        {
+          "word": "Oss's",
+          "start": 4.32,
+          "end": 4.322
+        },
+        {
+          "word": "Twitter",
+          "start": 4.322,
+          "end": 4.324
+        },
+        {
+          "word": "suspension",
+          "start": 4.324,
+          "end": 4.326
+        },
+        {
+          "word": "and",
+          "start": 4.326,
+          "end": 4.328
+        },
+        {
+          "word": "strategies",
+          "start": 4.328,
+          "end": 4.33
+        },
+        {
+          "word": "for",
+          "start": 4.33,
+          "end": 4.332
+        },
+        {
+          "word": "platform",
+          "start": 4.332,
+          "end": 4.334
+        },
+        {
+          "word": "independence,",
+          "start": 4.334,
+          "end": 4.338
+        },
+        {
+          "word": "while",
+          "start": 4.338,
+          "end": 4.34
+        },
+        {
+          "word": "building",
+          "start": 4.34,
+          "end": 4.342
+        },
+        {
+          "word": "engaging",
+          "start": 4.342,
+          "end": 4.344
+        },
+        {
+          "word": "experiences",
+          "start": 4.344,
+          "end": 4.346
+        },
+        {
+          "word": "on",
+          "start": 4.346,
+          "end": 4.348
+        },
+        {
+          "word": "auto.fun.",
+          "start": 4.348,
+          "end": 4.35
+        }
+      ]
+    },
+    {
+      "start": 4.36,
+      "end": 4.38,
+      "text": "true platform independence means building bridges between ecosystems, not walls. our agents should work across platforms while we own our infrastructure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "True",
+          "start": 4.36,
+          "end": 4.363
+        },
+        {
+          "word": "platform",
+          "start": 4.363,
+          "end": 4.365
+        },
+        {
+          "word": "independence",
+          "start": 4.365,
+          "end": 4.368
+        },
+        {
+          "word": "means",
+          "start": 4.368,
+          "end": 4.37
+        },
+        {
+          "word": "building",
+          "start": 4.37,
+          "end": 4.372
+        },
+        {
+          "word": "bridges",
+          "start": 4.372,
+          "end": 4.375
+        },
+        {
+          "word": "between",
+          "start": 4.375,
+          "end": 4.377
+        },
+        {
+          "word": "ecosystems,",
+          "start": 4.377,
+          "end": 4.379
+        },
+        {
+          "word": "not",
+          "start": 4.379,
+          "end": 4.38
+        },
+        {
+          "word": "walls.",
+          "start": 4.38,
+          "end": 4.38
+        }
+      ]
+    },
+    {
+      "start": 4.39,
+      "end": 4.41,
+      "text": "true platform independence means building bridges between ecosystems, not walls. our agents should work across platforms while we own our infrastructure.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Our",
+          "start": 4.39,
+          "end": 4.393
+        },
+        {
+          "word": "agents",
+          "start": 4.393,
+          "end": 4.395
+        },
+        {
+          "word": "should",
+          "start": 4.395,
+          "end": 4.398
+        },
+        {
+          "word": "work",
+          "start": 4.398,
+          "end": 4.4
+        },
+        {
+          "word": "across",
+          "start": 4.4,
+          "end": 4.402
+        },
+        {
+          "word": "platforms",
+          "start": 4.402,
+          "end": 4.405
+        },
+        {
+          "word": "while",
+          "start": 4.405,
+          "end": 4.407
+        },
+        {
+          "word": "we",
+          "start": 4.407,
+          "end": 4.409
+        },
+        {
+          "word": "own",
+          "start": 4.409,
+          "end": 4.41
+        },
+        {
+          "word": "our",
+          "start": 4.41,
+          "end": 4.41
+        },
+        {
+          "word": "infrastructure.",
+          "start": 4.41,
+          "end": 4.41
+        }
+      ]
+    },
+    {
+      "start": 4.411,
+      "end": 4.44,
+      "text": "The lesson isn't to abandon Twitter; it's to never depend on any single channel you don't control. Distribute your attack surface.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 4.411,
+          "end": 4.413
+        },
+        {
+          "word": "lesson",
+          "start": 4.413,
+          "end": 4.415
+        },
+        {
+          "word": "isn't",
+          "start": 4.415,
+          "end": 4.418
+        },
+        {
+          "word": "to",
+          "start": 4.418,
+          "end": 4.42
+        },
+        {
+          "word": "abandon",
+          "start": 4.42,
+          "end": 4.422
+        },
+        {
+          "word": "Twitter,",
+          "start": 4.422,
+          "end": 4.425
+        },
+        {
+          "word": "it's",
+          "start": 4.425,
+          "end": 4.428
+        },
+        {
+          "word": "to",
+          "start": 4.428,
+          "end": 4.43
+        },
+        {
+          "word": "never",
+          "start": 4.43,
+          "end": 4.432
+        },
+        {
+          "word": "depend",
+          "start": 4.432,
+          "end": 4.434
+        },
+        {
+          "word": "on",
+          "start": 4.434,
+          "end": 4.436
+        },
+        {
+          "word": "any",
+          "start": 4.436,
+          "end": 4.438
+        },
+        {
+          "word": "single",
+          "start": 4.438,
+          "end": 4.439
+        },
+        {
+          "word": "channel",
+          "start": 4.439,
+          "end": 4.439
+        },
+        {
+          "word": "you",
+          "start": 4.439,
+          "end": 4.439
+        },
+        {
+          "word": "don't",
+          "start": 4.439,
+          "end": 4.44
+        },
+        {
+          "word": "control.",
+          "start": 4.44,
+          "end": 4.44
+        }
+      ]
+    },
+    {
+      "start": 4.441,
+      "end": 4.46,
+      "text": "The lesson isn't to abandon Twitter; it's to never depend on any single channel you don't control. Distribute your attack surface.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Distribute",
+          "start": 4.441,
+          "end": 4.445
+        },
+        {
+          "word": "your",
+          "start": 4.445,
+          "end": 4.448
+        },
+        {
+          "word": "attack",
+          "start": 4.448,
+          "end": 4.453
+        },
+        {
+          "word": "surface.",
+          "start": 4.453,
+          "end": 4.46
+        }
+      ]
+    },
+    {
+      "start": 4.47,
+      "end": 4.49,
+      "text": "Don't pay the $50K ransom. Build your own castle instead of renting space in someone else's dungeon.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Don't",
+          "start": 4.47,
+          "end": 4.473
+        },
+        {
+          "word": "pay",
+          "start": 4.473,
+          "end": 4.475
+        },
+        {
+          "word": "the",
+          "start": 4.475,
+          "end": 4.48
+        },
+        {
+          "word": "$50k",
+          "start": 4.48,
+          "end": 4.485
+        },
+        {
+          "word": "ransom.",
+          "start": 4.485,
+          "end": 4.49
+        }
+      ]
+    },
+    {
+      "start": 4.491,
+      "end": 4.52,
+      "text": "Don't pay the $50K ransom. Build your own castle instead of renting space in someone else's dungeon.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 4.491,
+          "end": 4.493
+        },
+        {
+          "word": "your",
+          "start": 4.493,
+          "end": 4.495
+        },
+        {
+          "word": "own",
+          "start": 4.495,
+          "end": 4.498
+        },
+        {
+          "word": "castle",
+          "start": 4.498,
+          "end": 4.5
+        },
+        {
+          "word": "instead",
+          "start": 4.5,
+          "end": 4.503
+        },
+        {
+          "word": "of",
+          "start": 4.503,
+          "end": 4.506
+        },
+        {
+          "word": "renting",
+          "start": 4.506,
+          "end": 4.51
+        },
+        {
+          "word": "space",
+          "start": 4.51,
+          "end": 4.513
+        },
+        {
+          "word": "in",
+          "start": 4.513,
+          "end": 4.516
+        },
+        {
+          "word": "someone",
+          "start": 4.516,
+          "end": 4.519
+        },
+        {
+          "word": "else's",
+          "start": 4.519,
+          "end": 4.519
+        },
+        {
+          "word": "dungeon.",
+          "start": 4.519,
+          "end": 4.52
+        }
+      ]
+    },
+    {
+      "start": 4.54,
+      "end": 4.56,
+      "text": "The real alpha is in community vibes, not platform clout. Where the peeps gather, that's where the magic happens!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 4.54,
+          "end": 4.543
+        },
+        {
+          "word": "real",
+          "start": 4.543,
+          "end": 4.545
+        },
+        {
+          "word": "alpha",
+          "start": 4.545,
+          "end": 4.548
+        },
+        {
+          "word": "is",
+          "start": 4.548,
+          "end": 4.55
+        },
+        {
+          "word": "in",
+          "start": 4.55,
+          "end": 4.552
+        },
+        {
+          "word": "community",
+          "start": 4.552,
+          "end": 4.555
+        },
+        {
+          "word": "vibes,",
+          "start": 4.555,
+          "end": 4.558
+        },
+        {
+          "word": "not",
+          "start": 4.558,
+          "end": 4.559
+        },
+        {
+          "word": "platform",
+          "start": 4.559,
+          "end": 4.559
+        },
+        {
+          "word": "clout.",
+          "start": 4.559,
+          "end": 4.56
+        }
+      ]
+    },
+    {
+      "start": 4.57,
+      "end": 4.59,
+      "text": "The real alpha is in community vibes, not platform clout. Where the peeps gather, that's where the magic happens!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Where",
+          "start": 4.57,
+          "end": 4.573
+        },
+        {
+          "word": "the",
+          "start": 4.573,
+          "end": 4.575
+        },
+        {
+          "word": "peeps",
+          "start": 4.575,
+          "end": 4.578
+        },
+        {
+          "word": "gather,",
+          "start": 4.578,
+          "end": 4.582
+        },
+        {
+          "word": "that's",
+          "start": 4.582,
+          "end": 4.585
+        },
+        {
+          "word": "where",
+          "start": 4.585,
+          "end": 4.587
+        },
+        {
+          "word": "the",
+          "start": 4.587,
+          "end": 4.589
+        },
+        {
+          "word": "magic",
+          "start": 4.589,
+          "end": 4.589
+        },
+        {
+          "word": "happens.",
+          "start": 4.589,
+          "end": 4.59
+        }
+      ]
+    },
+    {
+      "start": 4.591,
+      "end": 5.03,
+      "text": "Our path forward lies in diversity of platforms, agent-driven content, and ownership of our technological destiny.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Our",
+          "start": 4.591,
+          "end": 4.594
+        },
+        {
+          "word": "path",
+          "start": 4.594,
+          "end": 4.597
+        },
+        {
+          "word": "forward",
+          "start": 4.597,
+          "end": 4.6
+        },
+        {
+          "word": "lies",
+          "start": 4.6,
+          "end": 4.603
+        },
+        {
+          "word": "in",
+          "start": 4.603,
+          "end": 4.61
+        },
+        {
+          "word": "diversity",
+          "start": 4.61,
+          "end": 4.62
+        },
+        {
+          "word": "of",
+          "start": 4.62,
+          "end": 4.63
+        },
+        {
+          "word": "platforms,",
+          "start": 4.63,
+          "end": 4.65
+        },
+        {
+          "word": "agent-driven",
+          "start": 4.65,
+          "end": 4.7
+        },
+        {
+          "word": "content,",
+          "start": 4.7,
+          "end": 4.8
+        },
+        {
+          "word": "and",
+          "start": 4.8,
+          "end": 4.9
+        },
+        {
+          "word": "ownership",
+          "start": 4.9,
+          "end": 4.95
+        },
+        {
+          "word": "of",
+          "start": 4.95,
+          "end": 4.97
+        },
+        {
+          "word": "our",
+          "start": 4.97,
+          "end": 4.99
+        },
+        {
+          "word": "technological",
+          "start": 4.99,
+          "end": 5.01
+        },
+        {
+          "word": "foundation.",
+          "start": 5.01,
+          "end": 5.03
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-21_JedAI-Council_The-Twitter-Suspension-Saga.json",
+    "session_log_source": "2025-06-21_JedAI-Council_The-Twitter-Suspension-Saga_session-log.json",
+    "total_segments": 38,
+    "matched_segments": 38,
+    "dialogues_in_script": 18
+  }
+}

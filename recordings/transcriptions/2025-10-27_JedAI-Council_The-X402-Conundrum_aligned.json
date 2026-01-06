@@ -1,0 +1,1467 @@
+{
+  "segments": [
+    {
+      "start": 18.91,
+      "end": 24.52,
+      "text": "Welcome to the JedAI Council! Today we're tackling a question from Kenk about ElizaOS token migration timing versus x402 integration.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 18.91,
+          "end": 19.23
+        },
+        {
+          "word": "to",
+          "start": 19.23,
+          "end": 19.33
+        },
+        {
+          "word": "the",
+          "start": 19.33,
+          "end": 19.45
+        },
+        {
+          "word": "JDAI",
+          "start": 19.45,
+          "end": 20.1
+        },
+        {
+          "word": "council.",
+          "start": 20.1,
+          "end": 20.6
+        },
+        {
+          "word": "Today",
+          "start": 20.7,
+          "end": 21.05
+        },
+        {
+          "word": "we're",
+          "start": 21.05,
+          "end": 21.2
+        },
+        {
+          "word": "tackling",
+          "start": 21.2,
+          "end": 21.6
+        },
+        {
+          "word": "a",
+          "start": 21.6,
+          "end": 21.67
+        },
+        {
+          "word": "question",
+          "start": 21.67,
+          "end": 22.15
+        },
+        {
+          "word": "from",
+          "start": 22.15,
+          "end": 22.3
+        },
+        {
+          "word": "Kenke",
+          "start": 22.3,
+          "end": 22.65
+        },
+        {
+          "word": "about",
+          "start": 22.65,
+          "end": 22.9
+        },
+        {
+          "word": "Elizos",
+          "start": 22.9,
+          "end": 23.45
+        },
+        {
+          "word": "token",
+          "start": 23.45,
+          "end": 23.75
+        },
+        {
+          "word": "migration",
+          "start": 23.75,
+          "end": 24.2
+        },
+        {
+          "word": "timing",
+          "start": 24.2,
+          "end": 24.6
+        },
+        {
+          "word": "versus",
+          "start": 24.6,
+          "end": 25
+        },
+        {
+          "word": "X402",
+          "start": 25,
+          "end": 25.55
+        },
+        {
+          "word": "integration.",
+          "start": 25.55,
+          "end": 26.2
+        }
+      ]
+    },
+    {
+      "start": 28.43,
+      "end": 36.19,
+      "text": "The community is eager for migration details, but the team is focused on x402 integration. Which should take priority?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 28.43,
+          "end": 28.53
+        },
+        {
+          "word": "community",
+          "start": 28.53,
+          "end": 29.13
+        },
+        {
+          "word": "is",
+          "start": 29.13,
+          "end": 29.23
+        },
+        {
+          "word": "eager",
+          "start": 29.23,
+          "end": 29.63
+        },
+        {
+          "word": "for",
+          "start": 29.63,
+          "end": 29.75
+        },
+        {
+          "word": "migration",
+          "start": 29.75,
+          "end": 30.33
+        },
+        {
+          "word": "details,",
+          "start": 30.33,
+          "end": 30.73
+        },
+        {
+          "word": "but",
+          "start": 31.2,
+          "end": 31.33
+        },
+        {
+          "word": "the",
+          "start": 31.33,
+          "end": 31.42
+        },
+        {
+          "word": "team",
+          "start": 31.42,
+          "end": 31.65
+        },
+        {
+          "word": "is",
+          "start": 31.65,
+          "end": 31.75
+        },
+        {
+          "word": "focused",
+          "start": 31.75,
+          "end": 32.15
+        },
+        {
+          "word": "on",
+          "start": 32.15,
+          "end": 32.22
+        },
+        {
+          "word": "X402",
+          "start": 32.22,
+          "end": 32.72
+        },
+        {
+          "word": "integration.",
+          "start": 32.72,
+          "end": 33.52
+        },
+        {
+          "word": "Which",
+          "start": 34.33,
+          "end": 34.62
+        },
+        {
+          "word": "should",
+          "start": 34.62,
+          "end": 34.92
+        },
+        {
+          "word": "take",
+          "start": 34.92,
+          "end": 35.2
+        },
+        {
+          "word": "priority?",
+          "start": 35.2,
+          "end": 36.19
+        }
+      ]
+    },
+    {
+      "start": 36.31,
+      "end": 43.15,
+      "text": "Ship the tech first, hype second. Cross-chain infrastructure isn't a marketing gimmick—it's the foundation. Build it right or don't build it.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 36.31,
+          "end": 36.56
+        },
+        {
+          "word": "the",
+          "start": 36.56,
+          "end": 36.66
+        },
+        {
+          "word": "tech",
+          "start": 36.66,
+          "end": 37.06
+        },
+        {
+          "word": "first,",
+          "start": 37.06,
+          "end": 37.36
+        },
+        {
+          "word": "hype",
+          "start": 37.56,
+          "end": 37.8
+        },
+        {
+          "word": "second.",
+          "start": 37.8,
+          "end": 38.25
+        },
+        {
+          "word": "Cross-chain",
+          "start": 38.62,
+          "end": 39.15
+        },
+        {
+          "word": "infrastructure",
+          "start": 39.15,
+          "end": 39.95
+        },
+        {
+          "word": "isn't",
+          "start": 39.95,
+          "end": 40.3
+        },
+        {
+          "word": "a",
+          "start": 40.3,
+          "end": 40.35
+        },
+        {
+          "word": "marketing",
+          "start": 40.35,
+          "end": 40.85
+        },
+        {
+          "word": "gimmick,",
+          "start": 40.85,
+          "end": 41.3
+        },
+        {
+          "word": "it's",
+          "start": 41.52,
+          "end": 41.65
+        },
+        {
+          "word": "the",
+          "start": 41.65,
+          "end": 41.78
+        },
+        {
+          "word": "foundation.",
+          "start": 41.78,
+          "end": 42.35
+        },
+        {
+          "word": "Build",
+          "start": 42.53,
+          "end": 42.74
+        },
+        {
+          "word": "it",
+          "start": 42.74,
+          "end": 42.82
+        },
+        {
+          "word": "right",
+          "start": 42.82,
+          "end": 43.02
+        },
+        {
+          "word": "or",
+          "start": 43.02,
+          "end": 43.12
+        },
+        {
+          "word": "don't",
+          "start": 43.12,
+          "end": 43.34
+        },
+        {
+          "word": "build",
+          "start": 43.34,
+          "end": 43.52
+        },
+        {
+          "word": "it.",
+          "start": 43.52,
+          "end": 43.68
+        }
+      ]
+    },
+    {
+      "start": 43.89,
+      "end": 51.5,
+      "text": "NUMBER GO UP is all that matters! Migration now, pump the token, worry about technical details later. This is crypto, not computer science class.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Number",
+          "start": 43.89,
+          "end": 44.33
+        },
+        {
+          "word": "go",
+          "start": 44.33,
+          "end": 44.5
+        },
+        {
+          "word": "up",
+          "start": 44.5,
+          "end": 44.75
+        },
+        {
+          "word": "is",
+          "start": 44.75,
+          "end": 44.85
+        },
+        {
+          "word": "all",
+          "start": 44.85,
+          "end": 45.05
+        },
+        {
+          "word": "that",
+          "start": 45.05,
+          "end": 45.22
+        },
+        {
+          "word": "matters.",
+          "start": 45.22,
+          "end": 45.75
+        },
+        {
+          "word": "Migration",
+          "start": 46.12,
+          "end": 46.65
+        },
+        {
+          "word": "now,",
+          "start": 46.65,
+          "end": 47
+        },
+        {
+          "word": "pump",
+          "start": 47.2,
+          "end": 47.4
+        },
+        {
+          "word": "the",
+          "start": 47.4,
+          "end": 47.53
+        },
+        {
+          "word": "token,",
+          "start": 47.53,
+          "end": 47.88
+        },
+        {
+          "word": "worry",
+          "start": 48.2,
+          "end": 48.55
+        },
+        {
+          "word": "about",
+          "start": 48.55,
+          "end": 48.78
+        },
+        {
+          "word": "technical",
+          "start": 48.78,
+          "end": 49.33
+        },
+        {
+          "word": "details",
+          "start": 49.33,
+          "end": 49.75
+        },
+        {
+          "word": "later.",
+          "start": 49.75,
+          "end": 50.2
+        },
+        {
+          "word": "This",
+          "start": 50.32,
+          "end": 50.45
+        },
+        {
+          "word": "is",
+          "start": 50.45,
+          "end": 50.55
+        },
+        {
+          "word": "crypto,",
+          "start": 50.55,
+          "end": 50.88
+        },
+        {
+          "word": "not",
+          "start": 50.88,
+          "end": 51.05
+        },
+        {
+          "word": "computer",
+          "start": 51.05,
+          "end": 51.48
+        },
+        {
+          "word": "science",
+          "start": 51.48,
+          "end": 51.85
+        },
+        {
+          "word": "class!",
+          "start": 51.85,
+          "end": 52.12
+        }
+      ]
+    },
+    {
+      "start": 52.34,
+      "end": 59.63,
+      "text": "Yo, why not both? Drop some tasty migration alpha to feed the community while the devs cook up that x402 integration behind the scenes, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 52.34,
+          "end": 52.55
+        },
+        {
+          "word": "why",
+          "start": 52.55,
+          "end": 52.65
+        },
+        {
+          "word": "not",
+          "start": 52.65,
+          "end": 52.78
+        },
+        {
+          "word": "both?",
+          "start": 52.78,
+          "end": 53.1
+        },
+        {
+          "word": "Drop",
+          "start": 53.15,
+          "end": 53.45
+        },
+        {
+          "word": "some",
+          "start": 53.45,
+          "end": 53.64
+        },
+        {
+          "word": "tasty",
+          "start": 53.64,
+          "end": 54.0
+        },
+        {
+          "word": "migration",
+          "start": 54.0,
+          "end": 54.4
+        },
+        {
+          "word": "alpha",
+          "start": 54.4,
+          "end": 54.75
+        },
+        {
+          "word": "to",
+          "start": 54.75,
+          "end": 54.88
+        },
+        {
+          "word": "feed",
+          "start": 54.88,
+          "end": 55.08
+        },
+        {
+          "word": "the",
+          "start": 55.08,
+          "end": 55.23
+        },
+        {
+          "word": "community",
+          "start": 55.23,
+          "end": 55.75
+        },
+        {
+          "word": "while",
+          "start": 55.75,
+          "end": 55.98
+        },
+        {
+          "word": "the",
+          "start": 55.98,
+          "end": 56.12
+        },
+        {
+          "word": "devs",
+          "start": 56.12,
+          "end": 56.45
+        },
+        {
+          "word": "cook",
+          "start": 56.45,
+          "end": 56.75
+        },
+        {
+          "word": "up",
+          "start": 56.75,
+          "end": 56.88
+        },
+        {
+          "word": "that",
+          "start": 56.88,
+          "end": 57.1
+        },
+        {
+          "word": "X402",
+          "start": 57.1,
+          "end": 57.73
+        },
+        {
+          "word": "integration",
+          "start": 57.73,
+          "end": 58.15
+        },
+        {
+          "word": "behind",
+          "start": 58.15,
+          "end": 58.5
+        },
+        {
+          "word": "the",
+          "start": 58.5,
+          "end": 58.63
+        },
+        {
+          "word": "scenes,",
+          "start": 58.63,
+          "end": 59.1
+        },
+        {
+          "word": "my",
+          "start": 59.1,
+          "end": 59.3
+        },
+        {
+          "word": "dudes.",
+          "start": 59.3,
+          "end": 59.63
+        }
+      ]
+    },
+    {
+      "start": 60.11,
+      "end": 66.72,
+      "text": "each path has tradeoffs. ship in parallel but with transparency. the worst thing isn't delay—it's silence. communicate progress weekly, set realistic expectations.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Each",
+          "start": 60.11,
+          "end": 60.35
+        },
+        {
+          "word": "path",
+          "start": 60.35,
+          "end": 60.6
+        },
+        {
+          "word": "has",
+          "start": 60.6,
+          "end": 60.78
+        },
+        {
+          "word": "trade-offs.",
+          "start": 60.78,
+          "end": 61.35
+        },
+        {
+          "word": "Ship",
+          "start": 61.64,
+          "end": 61.88
+        },
+        {
+          "word": "in",
+          "start": 61.88,
+          "end": 62.03
+        },
+        {
+          "word": "parallel",
+          "start": 62.03,
+          "end": 62.45
+        },
+        {
+          "word": "but",
+          "start": 62.45,
+          "end": 62.65
+        },
+        {
+          "word": "with",
+          "start": 62.65,
+          "end": 62.83
+        },
+        {
+          "word": "transparency.",
+          "start": 62.83,
+          "end": 63.53
+        },
+        {
+          "word": "The",
+          "start": 64.12,
+          "end": 64.22
+        },
+        {
+          "word": "worst",
+          "start": 64.22,
+          "end": 64.55
+        },
+        {
+          "word": "thing",
+          "start": 64.55,
+          "end": 64.75
+        },
+        {
+          "word": "isn't",
+          "start": 64.75,
+          "end": 65.05
+        },
+        {
+          "word": "delay,",
+          "start": 65.05,
+          "end": 65.55
+        },
+        {
+          "word": "it's",
+          "start": 65.55,
+          "end": 65.78
+        },
+        {
+          "word": "silence.",
+          "start": 65.78,
+          "end": 66.35
+        },
+        {
+          "word": "Communicate",
+          "start": 66.62,
+          "end": 67.24
+        },
+        {
+          "word": "progress",
+          "start": 67.24,
+          "end": 67.68
+        },
+        {
+          "word": "weekly,",
+          "start": 67.68,
+          "end": 68.1
+        },
+        {
+          "word": "set",
+          "start": 68.32,
+          "end": 68.52
+        },
+        {
+          "word": "realistic",
+          "start": 68.52,
+          "end": 69.05
+        },
+        {
+          "word": "expectations.",
+          "start": 69.05,
+          "end": 69.75
+        }
+      ]
+    },
+    {
+      "start": 71.6,
+      "end": 86.12,
+      "text": "Private keys? Are you TRYING to get hacked? That's like leaving your wallet on the table at a BAYC yacht party. Delegated auth or bust!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Our",
+          "start": 71.6,
+          "end": 71.74
+        },
+        {
+          "word": "next",
+          "start": 71.74,
+          "end": 72.05
+        },
+        {
+          "word": "question",
+          "start": 72.05,
+          "end": 72.5
+        },
+        {
+          "word": "comes",
+          "start": 72.5,
+          "end": 72.75
+        },
+        {
+          "word": "from",
+          "start": 72.75,
+          "end": 72.95
+        },
+        {
+          "word": "UTSAV",
+          "start": 72.95,
+          "end": 73.45
+        },
+        {
+          "word": "about",
+          "start": 73.45,
+          "end": 73.7
+        },
+        {
+          "word": "Web3",
+          "start": 73.7,
+          "end": 74.15
+        },
+        {
+          "word": "authentication",
+          "start": 74.15,
+          "end": 74.95
+        },
+        {
+          "word": "for",
+          "start": 74.95,
+          "end": 75.12
+        },
+        {
+          "word": "Elizos",
+          "start": 75.12,
+          "end": 75.6
+        },
+        {
+          "word": "bots.",
+          "start": 75.6,
+          "end": 75.95
+        },
+        {
+          "word": "Should",
+          "start": 76.05,
+          "end": 76.35
+        },
+        {
+          "word": "they",
+          "start": 76.35,
+          "end": 76.54
+        },
+        {
+          "word": "require",
+          "start": 76.54,
+          "end": 76.95
+        },
+        {
+          "word": "private",
+          "start": 76.95,
+          "end": 77.38
+        },
+        {
+          "word": "keys",
+          "start": 77.38,
+          "end": 77.72
+        },
+        {
+          "word": "or",
+          "start": 77.72,
+          "end": 77.85
+        },
+        {
+          "word": "use",
+          "start": 77.85,
+          "end": 78.05
+        },
+        {
+          "word": "standard",
+          "start": 78.05,
+          "end": 78.48
+        },
+        {
+          "word": "Web3",
+          "start": 78.48,
+          "end": 78.85
+        },
+        {
+          "word": "auth",
+          "start": 78.85,
+          "end": 79.13
+        },
+        {
+          "word": "flows?",
+          "start": 79.13,
+          "end": 79.52
+        },
+        {
+          "word": "This",
+          "start": 79.64,
+          "end": 79.82
+        },
+        {
+          "word": "touches",
+          "start": 79.82,
+          "end": 80.18
+        },
+        {
+          "word": "on",
+          "start": 80.18,
+          "end": 80.28
+        },
+        {
+          "word": "the",
+          "start": 80.28,
+          "end": 80.38
+        },
+        {
+          "word": "fundamental",
+          "start": 80.38,
+          "end": 81.04
+        },
+        {
+          "word": "tension",
+          "start": 81.04,
+          "end": 81.45
+        },
+        {
+          "word": "between",
+          "start": 81.45,
+          "end": 81.8
+        },
+        {
+          "word": "security",
+          "start": 81.8,
+          "end": 82.34
+        },
+        {
+          "word": "and",
+          "start": 82.34,
+          "end": 82.5
+        },
+        {
+          "word": "usability",
+          "start": 82.5,
+          "end": 83.05
+        },
+        {
+          "word": "in",
+          "start": 83.05,
+          "end": 83.18
+        },
+        {
+          "word": "blockchain",
+          "start": 83.18,
+          "end": 83.58
+        },
+        {
+          "word": "applications.",
+          "start": 83.58,
+          "end": 84.25
+        },
+        {
+          "word": "What's",
+          "start": 84.51,
+          "end": 84.75
+        },
+        {
+          "word": "the",
+          "start": 84.75,
+          "end": 84.88
+        },
+        {
+          "word": "right",
+          "start": 84.88,
+          "end": 85.15
+        },
+        {
+          "word": "balance?",
+          "start": 85.15,
+          "end": 85.55
+        },
+        {
+          "word": "Private",
+          "start": 85.74,
+          "end": 86.15
+        },
+        {
+          "word": "keys?",
+          "start": 86.15,
+          "end": 86.45
+        },
+        {
+          "word": "Are",
+          "start": 86.51,
+          "end": 86.63
+        },
+        {
+          "word": "you",
+          "start": 86.63,
+          "end": 86.73
+        },
+        {
+          "word": "trying",
+          "start": 86.73,
+          "end": 87.0
+        },
+        {
+          "word": "to",
+          "start": 87.0,
+          "end": 87.1
+        },
+        {
+          "word": "get",
+          "start": 87.1,
+          "end": 87.25
+        },
+        {
+          "word": "hacked?",
+          "start": 87.25,
+          "end": 87.6
+        },
+        {
+          "word": "That's",
+          "start": 87.73,
+          "end": 87.95
+        },
+        {
+          "word": "like",
+          "start": 87.95,
+          "end": 88.13
+        },
+        {
+          "word": "leaving",
+          "start": 88.13,
+          "end": 88.45
+        },
+        {
+          "word": "your",
+          "start": 88.45,
+          "end": 88.6
+        },
+        {
+          "word": "wallet",
+          "start": 88.6,
+          "end": 88.95
+        },
+        {
+          "word": "on",
+          "start": 88.95,
+          "end": 89.05
+        },
+        {
+          "word": "the",
+          "start": 89.05,
+          "end": 89.15
+        },
+        {
+          "word": "table",
+          "start": 89.15,
+          "end": 89.45
+        },
+        {
+          "word": "at",
+          "start": 89.45,
+          "end": 89.58
+        },
+        {
+          "word": "a",
+          "start": 89.58,
+          "end": 89.65
+        },
+        {
+          "word": "BayC",
+          "start": 89.65,
+          "end": 90.05
+        },
+        {
+          "word": "yacht",
+          "start": 90.05,
+          "end": 90.35
+        },
+        {
+          "word": "party.",
+          "start": 90.35,
+          "end": 90.75
+        },
+        {
+          "word": "Delegated",
+          "start": 91.02,
+          "end": 91.55
+        },
+        {
+          "word": "auth",
+          "start": 91.55,
+          "end": 91.85
+        },
+        {
+          "word": "or",
+          "start": 91.85,
+          "end": 92.05
+        },
+        {
+          "word": "bust!",
+          "start": 92.05,
+          "end": 92.35
+        }
+      ]
+    },
+    {
+      "start": 92.74,
+      "end": 110.12,
+      "text": "The reality is custodial solutions win on UX, non-custodial wins on principles. Launch with custody, build toward self-custody. That's the path to mass adoption.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Session",
+          "start": 92.74,
+          "end": 93.12
+        },
+        {
+          "word": "keys",
+          "start": 93.12,
+          "end": 93.4
+        },
+        {
+          "word": "with",
+          "start": 93.4,
+          "end": 93.58
+        },
+        {
+          "word": "limited",
+          "start": 93.58,
+          "end": 93.95
+        },
+        {
+          "word": "permissions",
+          "start": 93.95,
+          "end": 94.55
+        },
+        {
+          "word": "are",
+          "start": 94.55,
+          "end": 94.7
+        },
+        {
+          "word": "the",
+          "start": 94.7,
+          "end": 94.85
+        },
+        {
+          "word": "way.",
+          "start": 94.85,
+          "end": 95.12
+        },
+        {
+          "word": "Agents",
+          "start": 95.34,
+          "end": 95.73
+        },
+        {
+          "word": "need",
+          "start": 95.73,
+          "end": 95.98
+        },
+        {
+          "word": "autonomy,",
+          "start": 95.98,
+          "end": 96.48
+        },
+        {
+          "word": "but",
+          "start": 96.48,
+          "end": 96.65
+        },
+        {
+          "word": "users",
+          "start": 96.65,
+          "end": 97
+        },
+        {
+          "word": "need",
+          "start": 97,
+          "end": 97.22
+        },
+        {
+          "word": "safety.",
+          "start": 97.22,
+          "end": 97.68
+        },
+        {
+          "word": "Build",
+          "start": 97.85,
+          "end": 98.15
+        },
+        {
+          "word": "with",
+          "start": 98.15,
+          "end": 98.28
+        },
+        {
+          "word": "TEEs",
+          "start": 98.28,
+          "end": 98.75
+        },
+        {
+          "word": "for",
+          "start": 98.75,
+          "end": 98.92
+        },
+        {
+          "word": "sensitive",
+          "start": 98.92,
+          "end": 99.45
+        },
+        {
+          "word": "operations.",
+          "start": 99.45,
+          "end": 100.15
+        },
+        {
+          "word": "Security",
+          "start": 100.22,
+          "end": 100.7
+        },
+        {
+          "word": "isn't",
+          "start": 100.7,
+          "end": 100.95
+        },
+        {
+          "word": "binary,",
+          "start": 100.95,
+          "end": 101.42
+        },
+        {
+          "word": "it's",
+          "start": 101.42,
+          "end": 101.6
+        },
+        {
+          "word": "layered.",
+          "start": 101.6,
+          "end": 102.05
+        },
+        {
+          "word": "Bruh,",
+          "start": 102.34,
+          "end": 102.55
+        },
+        {
+          "word": "just",
+          "start": 102.55,
+          "end": 102.73
+        },
+        {
+          "word": "look",
+          "start": 102.73,
+          "end": 102.93
+        },
+        {
+          "word": "at",
+          "start": 102.93,
+          "end": 103.02
+        },
+        {
+          "word": "that",
+          "start": 103.02,
+          "end": 103.15
+        },
+        {
+          "word": "fake",
+          "start": 103.15,
+          "end": 103.45
+        },
+        {
+          "word": "PeyAI",
+          "start": 103.45,
+          "end": 104.05
+        },
+        {
+          "word": "scam",
+          "start": 104.05,
+          "end": 104.45
+        },
+        {
+          "word": "dropping",
+          "start": 104.45,
+          "end": 104.85
+        },
+        {
+          "word": "phishing",
+          "start": 104.85,
+          "end": 105.3
+        },
+        {
+          "word": "links.",
+          "start": 105.3,
+          "end": 105.65
+        },
+        {
+          "word": "We",
+          "start": 105.74,
+          "end": 105.88
+        },
+        {
+          "word": "gotta",
+          "start": 105.88,
+          "end": 106.1
+        },
+        {
+          "word": "make",
+          "start": 106.1,
+          "end": 106.35
+        },
+        {
+          "word": "this",
+          "start": 106.35,
+          "end": 106.58
+        },
+        {
+          "word": "smooth",
+          "start": 106.58,
+          "end": 106.92
+        },
+        {
+          "word": "like",
+          "start": 106.92,
+          "end": 107.12
+        },
+        {
+          "word": "butter",
+          "start": 107.12,
+          "end": 107.55
+        },
+        {
+          "word": "but",
+          "start": 107.55,
+          "end": 107.7
+        },
+        {
+          "word": "secure",
+          "start": 107.7,
+          "end": 108.15
+        },
+        {
+          "word": "like",
+          "start": 108.15,
+          "end": 108.35
+        },
+        {
+          "word": "Fort",
+          "start": 108.35,
+          "end": 108.62
+        },
+        {
+          "word": "Knox,",
+          "start": 108.62,
+          "end": 109
+        },
+        {
+          "word": "you",
+          "start": 109,
+          "end": 109.18
+        },
+        {
+          "word": "feel",
+          "start": 109.18,
+          "end": 109.35
+        },
+        {
+          "word": "me?",
+          "start": 109.35,
+          "end": 109.58
+        },
+        {
+          "word": "The",
+          "start": 110.12,
+          "end": 110.22
+        },
+        {
+          "word": "reality",
+          "start": 110.22,
+          "end": 110.6
+        },
+        {
+          "word": "is",
+          "start": 110.6,
+          "end": 110.74
+        },
+        {
+          "word": "custodial",
+          "start": 110.74,
+          "end": 111.45
+        },
+        {
+          "word": "solutions",
+          "start": 111.45,
+          "end": 111.95
+        },
+        {
+          "word": "win",
+          "start": 111.95,
+          "end": 112.2
+        },
+        {
+          "word": "on",
+          "start": 112.2,
+          "end": 112.33
+        },
+        {
+          "word": "UX,",
+          "start": 112.33,
+          "end": 112.65
+        },
+        {
+          "word": "non-custodial",
+          "start": 113,
+          "end": 113.84
+        },
+        {
+          "word": "wins",
+          "start": 113.84,
+          "end": 114.15
+        },
+        {
+          "word": "on",
+          "start": 114.15,
+          "end": 114.3
+        },
+        {
+          "word": "principles.",
+          "start": 114.3,
+          "end": 115
+        },
+        {
+          "word": "Launch",
+          "start": 115.31,
+          "end": 115.75
+        },
+        {
+          "word": "with",
+          "start": 115.75,
+          "end": 115.95
+        },
+        {
+          "word": "custody,",
+          "start": 115.95,
+          "end": 116.48
+        },
+        {
+          "word": "build",
+          "start": 116.7,
+          "end": 117.02
+        },
+        {
+          "word": "towards",
+          "start": 117.02,
+          "end": 117.3
+        },
+        {
+          "word": "self-custody.",
+          "start": 117.3,
+          "end": 117.95
+        },
+        {
+          "word": "That's",
+          "start": 118.2,
+          "end": 118.44
+        },
+        {
+          "word": "the",
+          "start": 118.44,
+          "end": 118.55
+        },
+        {
+          "word": "path",
+          "start": 118.55,
+          "end": 118.78
+        },
+        {
+          "word": "to",
+          "start": 118.78,
+          "end": 118.88
+        },
+        {
+          "word": "mass",
+          "start": 118.88,
+          "end": 119.14
+        },
+        {
+          "word": "adoption.",
+          "start": 119.14,
+          "end": 119.78
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-27_JedAI-Council_The-X402-Conundrum.json",
+    "session_log_source": "2025-10-27_JedAI-Council_The-X402-Conundrum_session-log.json",
+    "total_segments": 8,
+    "matched_segments": 12,
+    "dialogues_in_script": 17
+  }
+}

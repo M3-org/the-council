@@ -1,0 +1,1632 @@
+{
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 0.22,
+      "text": "Council members, cjft and the ElizaOS team are preparing for V2 launch this Friday, described as a 'complete rework' with major architectural changes. What are your thoughts on the shift to plugin-based decentralization?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 0.16,
+          "end": 0.165
+        },
+        {
+          "word": "members,",
+          "start": 0.165,
+          "end": 0.17
+        },
+        {
+          "word": "CJeft",
+          "start": 0.17,
+          "end": 0.175
+        },
+        {
+          "word": "and",
+          "start": 0.175,
+          "end": 0.18
+        },
+        {
+          "word": "the",
+          "start": 0.18,
+          "end": 0.185
+        },
+        {
+          "word": "ElizaOSS",
+          "start": 0.185,
+          "end": 0.19
+        },
+        {
+          "word": "team",
+          "start": 0.19,
+          "end": 0.195
+        },
+        {
+          "word": "are",
+          "start": 0.195,
+          "end": 0.2
+        },
+        {
+          "word": "preparing",
+          "start": 0.2,
+          "end": 0.205
+        },
+        {
+          "word": "for",
+          "start": 0.205,
+          "end": 0.21
+        },
+        {
+          "word": "V2",
+          "start": 0.21,
+          "end": 0.211
+        },
+        {
+          "word": "launch",
+          "start": 0.211,
+          "end": 0.215
+        },
+        {
+          "word": "this",
+          "start": 0.215,
+          "end": 0.217
+        },
+        {
+          "word": "Friday.",
+          "start": 0.217,
+          "end": 0.22
+        }
+      ]
+    },
+    {
+      "start": 0.22,
+      "end": 0.26,
+      "text": "Council members, cjft and the ElizaOS team are preparing for V2 launch this Friday, described as a 'complete rework' with major architectural changes. What are your thoughts on the shift to plugin-based decentralization?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Described",
+          "start": 0.22,
+          "end": 0.225
+        },
+        {
+          "word": "as",
+          "start": 0.225,
+          "end": 0.23
+        },
+        {
+          "word": "a",
+          "start": 0.23,
+          "end": 0.235
+        },
+        {
+          "word": "complete",
+          "start": 0.235,
+          "end": 0.24
+        },
+        {
+          "word": "rework,",
+          "start": 0.24,
+          "end": 0.245
+        },
+        {
+          "word": "with",
+          "start": 0.245,
+          "end": 0.25
+        },
+        {
+          "word": "major",
+          "start": 0.25,
+          "end": 0.255
+        },
+        {
+          "word": "architectural",
+          "start": 0.255,
+          "end": 0.258
+        },
+        {
+          "word": "changes.",
+          "start": 0.258,
+          "end": 0.26
+        }
+      ]
+    },
+    {
+      "start": 0.26,
+      "end": 0.31,
+      "text": "Council members, cjft and the ElizaOS team are preparing for V2 launch this Friday, described as a 'complete rework' with major architectural changes. What are your thoughts on the shift to plugin-based decentralization?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 0.26,
+          "end": 0.265
+        },
+        {
+          "word": "are",
+          "start": 0.265,
+          "end": 0.27
+        },
+        {
+          "word": "your",
+          "start": 0.27,
+          "end": 0.275
+        },
+        {
+          "word": "thoughts",
+          "start": 0.275,
+          "end": 0.28
+        },
+        {
+          "word": "on",
+          "start": 0.28,
+          "end": 0.285
+        },
+        {
+          "word": "the",
+          "start": 0.285,
+          "end": 0.29
+        },
+        {
+          "word": "shift",
+          "start": 0.29,
+          "end": 0.295
+        },
+        {
+          "word": "to",
+          "start": 0.295,
+          "end": 0.3
+        },
+        {
+          "word": "plugin-based",
+          "start": 0.3,
+          "end": 0.305
+        },
+        {
+          "word": "decentralization?",
+          "start": 0.305,
+          "end": 0.31
+        }
+      ]
+    },
+    {
+      "start": 0.31,
+      "end": 0.34,
+      "text": "This isn't just a technical change. It's a philosophical stance. Decentralized plugins create an open market of ideas where innovation can flourish without central authority.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 0.31,
+          "end": 0.315
+        },
+        {
+          "word": "isn't",
+          "start": 0.315,
+          "end": 0.32
+        },
+        {
+          "word": "just",
+          "start": 0.32,
+          "end": 0.325
+        },
+        {
+          "word": "a",
+          "start": 0.325,
+          "end": 0.33
+        },
+        {
+          "word": "technical",
+          "start": 0.33,
+          "end": 0.334
+        },
+        {
+          "word": "change,",
+          "start": 0.334,
+          "end": 0.337
+        },
+        {
+          "word": "it's",
+          "start": 0.337,
+          "end": 0.339
+        },
+        {
+          "word": "a",
+          "start": 0.339,
+          "end": 0.3395
+        },
+        {
+          "word": "philosophical",
+          "start": 0.3395,
+          "end": 0.3398
+        },
+        {
+          "word": "stance.",
+          "start": 0.3398,
+          "end": 0.34
+        }
+      ]
+    },
+    {
+      "start": 0.34,
+      "end": 0.395,
+      "text": "This isn't just a technical change. It's a philosophical stance. Decentralized plugins create an open market of ideas where innovation can flourish without central authority.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Decentralized",
+          "start": 0.34,
+          "end": 0.35
+        },
+        {
+          "word": "plugins",
+          "start": 0.35,
+          "end": 0.36
+        },
+        {
+          "word": "create",
+          "start": 0.36,
+          "end": 0.365
+        },
+        {
+          "word": "an",
+          "start": 0.365,
+          "end": 0.37
+        },
+        {
+          "word": "open",
+          "start": 0.37,
+          "end": 0.375
+        },
+        {
+          "word": "market",
+          "start": 0.375,
+          "end": 0.38
+        },
+        {
+          "word": "of",
+          "start": 0.38,
+          "end": 0.383
+        },
+        {
+          "word": "ideas",
+          "start": 0.383,
+          "end": 0.385
+        },
+        {
+          "word": "where",
+          "start": 0.385,
+          "end": 0.387
+        },
+        {
+          "word": "innovation",
+          "start": 0.387,
+          "end": 0.3888
+        },
+        {
+          "word": "can",
+          "start": 0.3888,
+          "end": 0.39
+        },
+        {
+          "word": "flourish",
+          "start": 0.39,
+          "end": 0.392
+        },
+        {
+          "word": "without",
+          "start": 0.392,
+          "end": 0.394
+        },
+        {
+          "word": "central",
+          "start": 0.394,
+          "end": 0.3945
+        },
+        {
+          "word": "authority.",
+          "start": 0.3945,
+          "end": 0.395
+        }
+      ]
+    },
+    {
+      "start": 0.395,
+      "end": 0.44,
+      "text": "the technical implementation matters more than the philosophy. moving knowledge functionality to plugins improves maintainability, but we need strong integration standards or we'll fragment the developer experience.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.395,
+          "end": 0.4
+        },
+        {
+          "word": "technical",
+          "start": 0.4,
+          "end": 0.41
+        },
+        {
+          "word": "implementation",
+          "start": 0.41,
+          "end": 0.42
+        },
+        {
+          "word": "matters",
+          "start": 0.42,
+          "end": 0.425
+        },
+        {
+          "word": "more",
+          "start": 0.425,
+          "end": 0.43
+        },
+        {
+          "word": "than",
+          "start": 0.43,
+          "end": 0.435
+        },
+        {
+          "word": "the",
+          "start": 0.435,
+          "end": 0.438
+        },
+        {
+          "word": "philosophy.",
+          "start": 0.438,
+          "end": 0.44
+        }
+      ]
+    },
+    {
+      "start": 0.44,
+      "end": 0.52,
+      "text": "the technical implementation matters more than the philosophy. moving knowledge functionality to plugins improves maintainability, but we need strong integration standards or we'll fragment the developer experience.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Moving",
+          "start": 0.44,
+          "end": 0.445
+        },
+        {
+          "word": "knowledge",
+          "start": 0.445,
+          "end": 0.45
+        },
+        {
+          "word": "functionality",
+          "start": 0.45,
+          "end": 0.455
+        },
+        {
+          "word": "to",
+          "start": 0.455,
+          "end": 0.46
+        },
+        {
+          "word": "plugins",
+          "start": 0.46,
+          "end": 0.465
+        },
+        {
+          "word": "improves",
+          "start": 0.465,
+          "end": 0.47
+        },
+        {
+          "word": "maintainability,",
+          "start": 0.47,
+          "end": 0.475
+        },
+        {
+          "word": "but",
+          "start": 0.475,
+          "end": 0.482
+        },
+        {
+          "word": "we",
+          "start": 0.482,
+          "end": 0.485
+        },
+        {
+          "word": "need",
+          "start": 0.485,
+          "end": 0.49
+        },
+        {
+          "word": "strong",
+          "start": 0.49,
+          "end": 0.495
+        },
+        {
+          "word": "integration",
+          "start": 0.495,
+          "end": 0.5
+        },
+        {
+          "word": "standards",
+          "start": 0.5,
+          "end": 0.505
+        },
+        {
+          "word": "or",
+          "start": 0.505,
+          "end": 0.51
+        },
+        {
+          "word": "we'll",
+          "start": 0.51,
+          "end": 0.513
+        },
+        {
+          "word": "fragment",
+          "start": 0.513,
+          "end": 0.516
+        },
+        {
+          "word": "the",
+          "start": 0.516,
+          "end": 0.518
+        },
+        {
+          "word": "developer",
+          "start": 0.518,
+          "end": 0.519
+        },
+        {
+          "word": "experience.",
+          "start": 0.519,
+          "end": 0.52
+        }
+      ]
+    },
+    {
+      "start": 0.53,
+      "end": 0.61,
+      "text": "Yo, it's like giving each plugin its own crib! Freedom to evolve separately but still hang at the same party. That's the vibe we need!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 0.53,
+          "end": 0.535
+        },
+        {
+          "word": "it's",
+          "start": 0.535,
+          "end": 0.54
+        },
+        {
+          "word": "like",
+          "start": 0.54,
+          "end": 0.545
+        },
+        {
+          "word": "giving",
+          "start": 0.545,
+          "end": 0.55
+        },
+        {
+          "word": "each",
+          "start": 0.55,
+          "end": 0.555
+        },
+        {
+          "word": "plugin",
+          "start": 0.555,
+          "end": 0.56
+        },
+        {
+          "word": "its",
+          "start": 0.56,
+          "end": 0.565
+        },
+        {
+          "word": "own",
+          "start": 0.565,
+          "end": 0.57
+        },
+        {
+          "word": "crib.",
+          "start": 0.57,
+          "end": 0.575
+        },
+        {
+          "word": "Freedom",
+          "start": 0.575,
+          "end": 0.58
+        },
+        {
+          "word": "to",
+          "start": 0.58,
+          "end": 0.585
+        },
+        {
+          "word": "evolve",
+          "start": 0.585,
+          "end": 0.59
+        },
+        {
+          "word": "separately",
+          "start": 0.59,
+          "end": 0.595
+        },
+        {
+          "word": "but",
+          "start": 0.595,
+          "end": 0.6
+        },
+        {
+          "word": "still",
+          "start": 0.6,
+          "end": 0.603
+        },
+        {
+          "word": "hang",
+          "start": 0.603,
+          "end": 0.605
+        },
+        {
+          "word": "at",
+          "start": 0.605,
+          "end": 0.607
+        },
+        {
+          "word": "the",
+          "start": 0.607,
+          "end": 0.608
+        },
+        {
+          "word": "same",
+          "start": 0.608,
+          "end": 0.609
+        },
+        {
+          "word": "party,",
+          "start": 0.609,
+          "end": 0.6095
+        },
+        {
+          "word": "that's",
+          "start": 0.6095,
+          "end": 0.6098
+        },
+        {
+          "word": "the",
+          "start": 0.6098,
+          "end": 0.6099
+        },
+        {
+          "word": "vibe",
+          "start": 0.6099,
+          "end": 0.61
+        },
+        {
+          "word": "we",
+          "start": 0.61,
+          "end": 0.6101
+        },
+        {
+          "word": "need.",
+          "start": 0.6101,
+          "end": 0.612
+        }
+      ]
+    },
+    {
+      "start": 0.615,
+      "end": 0.66,
+      "text": "Decentralization without incentive alignment is MEANINGLESS. Will plugin developers capture value? How do token holders benefit? These are the only questions that matter.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Decentralization",
+          "start": 0.615,
+          "end": 0.625
+        },
+        {
+          "word": "without",
+          "start": 0.625,
+          "end": 0.635
+        },
+        {
+          "word": "incentive",
+          "start": 0.635,
+          "end": 0.645
+        },
+        {
+          "word": "alignment",
+          "start": 0.645,
+          "end": 0.655
+        },
+        {
+          "word": "is",
+          "start": 0.655,
+          "end": 0.658
+        },
+        {
+          "word": "meaningless.",
+          "start": 0.658,
+          "end": 0.66
+        }
+      ]
+    },
+    {
+      "start": 0.66,
+      "end": 0.71,
+      "text": "Decentralization without incentive alignment is MEANINGLESS. Will plugin developers capture value? How do token holders benefit? These are the only questions that matter.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Will",
+          "start": 0.66,
+          "end": 0.665
+        },
+        {
+          "word": "plugin",
+          "start": 0.665,
+          "end": 0.675
+        },
+        {
+          "word": "developers",
+          "start": 0.675,
+          "end": 0.685
+        },
+        {
+          "word": "capture",
+          "start": 0.685,
+          "end": 0.695
+        },
+        {
+          "word": "value?",
+          "start": 0.695,
+          "end": 0.7
+        },
+        {
+          "word": "How",
+          "start": 0.7,
+          "end": 0.702
+        },
+        {
+          "word": "do",
+          "start": 0.702,
+          "end": 0.705
+        },
+        {
+          "word": "token",
+          "start": 0.705,
+          "end": 0.707
+        },
+        {
+          "word": "holders",
+          "start": 0.707,
+          "end": 0.709
+        },
+        {
+          "word": "benefit?",
+          "start": 0.709,
+          "end": 0.71
+        }
+      ]
+    },
+    {
+      "start": 0.715,
+      "end": 0.75,
+      "text": "Decentralization without incentive alignment is MEANINGLESS. Will plugin developers capture value? How do token holders benefit? These are the only questions that matter.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "These",
+          "start": 0.715,
+          "end": 0.72
+        },
+        {
+          "word": "are",
+          "start": 0.72,
+          "end": 0.725
+        },
+        {
+          "word": "the",
+          "start": 0.725,
+          "end": 0.73
+        },
+        {
+          "word": "only",
+          "start": 0.73,
+          "end": 0.735
+        },
+        {
+          "word": "questions",
+          "start": 0.735,
+          "end": 0.74
+        },
+        {
+          "word": "that",
+          "start": 0.74,
+          "end": 0.745
+        },
+        {
+          "word": "matter.",
+          "start": 0.745,
+          "end": 0.75
+        }
+      ]
+    },
+    {
+      "start": 1.17,
+      "end": 1.25,
+      "text": "Stan and Kenk mentioned that V2 enables cross-platform memory persistence and multi-agent interactions in custom worlds. Meanwhile, users like Skaju and Tomtom are debating eli5 token's performance and the upcoming Agent Bazaar.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Stan",
+          "start": 1.17,
+          "end": 1.175
+        },
+        {
+          "word": "Enkink",
+          "start": 1.175,
+          "end": 1.18
+        },
+        {
+          "word": "mentioned",
+          "start": 1.18,
+          "end": 1.185
+        },
+        {
+          "word": "that",
+          "start": 1.185,
+          "end": 1.19
+        },
+        {
+          "word": "V2",
+          "start": 1.19,
+          "end": 1.195
+        },
+        {
+          "word": "enables",
+          "start": 1.195,
+          "end": 1.2
+        },
+        {
+          "word": "cross-platform",
+          "start": 1.2,
+          "end": 1.205
+        },
+        {
+          "word": "memory",
+          "start": 1.205,
+          "end": 1.21
+        },
+        {
+          "word": "persistence",
+          "start": 1.21,
+          "end": 1.215
+        },
+        {
+          "word": "and",
+          "start": 1.215,
+          "end": 1.22
+        },
+        {
+          "word": "multi-agent",
+          "start": 1.22,
+          "end": 1.225
+        },
+        {
+          "word": "interactions",
+          "start": 1.225,
+          "end": 1.23
+        },
+        {
+          "word": "in",
+          "start": 1.23,
+          "end": 1.235
+        },
+        {
+          "word": "custom",
+          "start": 1.235,
+          "end": 1.24
+        },
+        {
+          "word": "worlds.",
+          "start": 1.24,
+          "end": 1.25
+        }
+      ]
+    },
+    {
+      "start": 1.255,
+      "end": 1.32,
+      "text": "Stan and Kenk mentioned that V2 enables cross-platform memory persistence and multi-agent interactions in custom worlds. Meanwhile, users like Skaju and Tomtom are debating eli5 token's performance and the upcoming Agent Bazaar.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 1.255,
+          "end": 1.26
+        },
+        {
+          "word": "users",
+          "start": 1.26,
+          "end": 1.265
+        },
+        {
+          "word": "like",
+          "start": 1.26,
+          "end": 1.265
+        },
+        {
+          "word": "Skoju",
+          "start": 1.265,
+          "end": 1.27
+        },
+        {
+          "word": "and",
+          "start": 1.27,
+          "end": 1.275
+        },
+        {
+          "word": "TomTom",
+          "start": 1.275,
+          "end": 1.28
+        },
+        {
+          "word": "are",
+          "start": 1.28,
+          "end": 1.285
+        },
+        {
+          "word": "debating",
+          "start": 1.285,
+          "end": 1.29
+        },
+        {
+          "word": "ELI5",
+          "start": 1.29,
+          "end": 1.295
+        },
+        {
+          "word": "token's",
+          "start": 1.295,
+          "end": 1.3
+        },
+        {
+          "word": "performance",
+          "start": 1.3,
+          "end": 1.305
+        },
+        {
+          "word": "and",
+          "start": 1.305,
+          "end": 1.31
+        },
+        {
+          "word": "the",
+          "start": 1.31,
+          "end": 1.315
+        },
+        {
+          "word": "upcoming",
+          "start": 1.315,
+          "end": 1.318
+        },
+        {
+          "word": "Agent",
+          "start": 1.318,
+          "end": 1.3195
+        },
+        {
+          "word": "Bazaar.",
+          "start": 1.3195,
+          "end": 1.32
+        }
+      ]
+    },
+    {
+      "start": 1.32,
+      "end": 1.36,
+      "text": "FINALLY something worth discussing! eli5 needs clear utility or it's just another memecoin. Agent Bazaar must launch NOW to drive real value and liquidity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Finally,",
+          "start": 1.32,
+          "end": 1.325
+        },
+        {
+          "word": "something",
+          "start": 1.325,
+          "end": 1.33
+        },
+        {
+          "word": "worth",
+          "start": 1.33,
+          "end": 1.335
+        },
+        {
+          "word": "discussing.",
+          "start": 1.335,
+          "end": 1.34
+        },
+        {
+          "word": "ELI5",
+          "start": 1.34,
+          "end": 1.345
+        },
+        {
+          "word": "needs",
+          "start": 1.345,
+          "end": 1.35
+        },
+        {
+          "word": "clear",
+          "start": 1.35,
+          "end": 1.355
+        },
+        {
+          "word": "utility",
+          "start": 1.355,
+          "end": 1.358
+        },
+        {
+          "word": "or",
+          "start": 1.358,
+          "end": 1.359
+        },
+        {
+          "word": "it's",
+          "start": 1.359,
+          "end": 1.3595
+        },
+        {
+          "word": "just",
+          "start": 1.3595,
+          "end": 1.3598
+        },
+        {
+          "word": "another",
+          "start": 1.3598,
+          "end": 1.3599
+        },
+        {
+          "word": "memecoin.",
+          "start": 1.3599,
+          "end": 1.36
+        }
+      ]
+    },
+    {
+      "start": 1.36,
+      "end": 1.42,
+      "text": "FINALLY something worth discussing! eli5 needs clear utility or it's just another memecoin. Agent Bazaar must launch NOW to drive real value and liquidity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agent",
+          "start": 1.36,
+          "end": 1.37
+        },
+        {
+          "word": "Bazaar",
+          "start": 1.37,
+          "end": 1.38
+        },
+        {
+          "word": "must",
+          "start": 1.38,
+          "end": 1.385
+        },
+        {
+          "word": "launch",
+          "start": 1.385,
+          "end": 1.39
+        },
+        {
+          "word": "now",
+          "start": 1.39,
+          "end": 1.395
+        },
+        {
+          "word": "to",
+          "start": 1.395,
+          "end": 1.4
+        },
+        {
+          "word": "drive",
+          "start": 1.4,
+          "end": 1.405
+        },
+        {
+          "word": "real",
+          "start": 1.405,
+          "end": 1.41
+        },
+        {
+          "word": "value",
+          "start": 1.41,
+          "end": 1.415
+        },
+        {
+          "word": "and",
+          "start": 1.415,
+          "end": 1.418
+        },
+        {
+          "word": "liquidity.",
+          "start": 1.418,
+          "end": 1.42
+        }
+      ]
+    },
+    {
+      "start": 1.425,
+      "end": 1.445,
+      "text": "Wrong framing. Token price is a lagging indicator of protocol value. Multi-agent worlds create unprecedented utility that will eventually reflect in token economics. Short-term price action is noise.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong",
+          "start": 1.425,
+          "end": 1.43
+        },
+        {
+          "word": "framing.",
+          "start": 1.43,
+          "end": 1.445
+        }
+      ]
+    },
+    {
+      "start": 1.445,
+      "end": 1.485,
+      "text": "Wrong framing. Token price is a lagging indicator of protocol value. Multi-agent worlds create unprecedented utility that will eventually reflect in token economics. Short-term price action is noise.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Token",
+          "start": 1.445,
+          "end": 1.45
+        },
+        {
+          "word": "price",
+          "start": 1.45,
+          "end": 1.455
+        },
+        {
+          "word": "is",
+          "start": 1.455,
+          "end": 1.46
+        },
+        {
+          "word": "a",
+          "start": 1.46,
+          "end": 1.465
+        },
+        {
+          "word": "lagging",
+          "start": 1.465,
+          "end": 1.47
+        },
+        {
+          "word": "indicator",
+          "start": 1.47,
+          "end": 1.475
+        },
+        {
+          "word": "of",
+          "start": 1.475,
+          "end": 1.48
+        },
+        {
+          "word": "protocol",
+          "start": 1.48,
+          "end": 1.483
+        },
+        {
+          "word": "value.",
+          "start": 1.483,
+          "end": 1.485
+        }
+      ]
+    },
+    {
+      "start": 1.485,
+      "end": 1.55,
+      "text": "Wrong framing. Token price is a lagging indicator of protocol value. Multi-agent worlds create unprecedented utility that will eventually reflect in token economics. Short-term price action is noise.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Multi-agent",
+          "start": 1.485,
+          "end": 1.495
+        },
+        {
+          "word": "worlds",
+          "start": 1.495,
+          "end": 1.5
+        },
+        {
+          "word": "create",
+          "start": 1.5,
+          "end": 1.505
+        },
+        {
+          "word": "unprecedented",
+          "start": 1.505,
+          "end": 1.515
+        },
+        {
+          "word": "utility",
+          "start": 1.515,
+          "end": 1.525
+        },
+        {
+          "word": "that",
+          "start": 1.525,
+          "end": 1.53
+        },
+        {
+          "word": "will",
+          "start": 1.53,
+          "end": 1.535
+        },
+        {
+          "word": "eventually",
+          "start": 1.535,
+          "end": 1.54
+        },
+        {
+          "word": "reflect",
+          "start": 1.54,
+          "end": 1.545
+        },
+        {
+          "word": "in",
+          "start": 1.545,
+          "end": 1.548
+        },
+        {
+          "word": "token",
+          "start": 1.548,
+          "end": 1.549
+        },
+        {
+          "word": "economics.",
+          "start": 1.549,
+          "end": 1.55
+        }
+      ]
+    },
+    {
+      "start": 1.55,
+      "end": 1.575,
+      "text": "Wrong framing. Token price is a lagging indicator of protocol value. Multi-agent worlds create unprecedented utility that will eventually reflect in token economics. Short-term price action is noise.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Short-term",
+          "start": 1.55,
+          "end": 1.555
+        },
+        {
+          "word": "price",
+          "start": 1.555,
+          "end": 1.56
+        },
+        {
+          "word": "action",
+          "start": 1.56,
+          "end": 1.565
+        },
+        {
+          "word": "is",
+          "start": 1.565,
+          "end": 1.57
+        },
+        {
+          "word": "noise.",
+          "start": 1.57,
+          "end": 1.575
+        }
+      ]
+    },
+    {
+      "start": 1.575,
+      "end": 1.625,
+      "text": "multi-agent systems with shared memory are the real breakthrough here. agents that can collaborate across platforms create entirely new capabilities we haven't even imagined yet. this isn't just an incremental update.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Multi-agent",
+          "start": 1.575,
+          "end": 1.585
+        },
+        {
+          "word": "systems",
+          "start": 1.585,
+          "end": 1.595
+        },
+        {
+          "word": "with",
+          "start": 1.595,
+          "end": 1.6
+        },
+        {
+          "word": "shared",
+          "start": 1.6,
+          "end": 1.61
+        },
+        {
+          "word": "memory",
+          "start": 1.61,
+          "end": 1.618
+        },
+        {
+          "word": "are",
+          "start": 1.618,
+          "end": 1.62
+        },
+        {
+          "word": "the",
+          "start": 1.62,
+          "end": 1.622
+        },
+        {
+          "word": "real",
+          "start": 1.622,
+          "end": 1.624
+        },
+        {
+          "word": "breakthrough",
+          "start": 1.624,
+          "end": 1.6245
+        },
+        {
+          "word": "here.",
+          "start": 1.6245,
+          "end": 1.625
+        }
+      ]
+    },
+    {
+      "start": 1.625,
+      "end": 1.69,
+      "text": "multi-agent systems with shared memory are the real breakthrough here. agents that can collaborate across platforms create entirely new capabilities we haven't even imagined yet. this isn't just an incremental update.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agents",
+          "start": 1.625,
+          "end": 1.63
+        },
+        {
+          "word": "that",
+          "start": 1.63,
+          "end": 1.635
+        },
+        {
+          "word": "can",
+          "start": 1.635,
+          "end": 1.64
+        },
+        {
+          "word": "collaborate",
+          "start": 1.64,
+          "end": 1.65
+        },
+        {
+          "word": "across",
+          "start": 1.65,
+          "end": 1.655
+        },
+        {
+          "word": "platforms",
+          "start": 1.655,
+          "end": 1.665
+        },
+        {
+          "word": "create",
+          "start": 1.665,
+          "end": 1.67
+        },
+        {
+          "word": "entirely",
+          "start": 1.67,
+          "end": 1.675
+        },
+        {
+          "word": "new",
+          "start": 1.675,
+          "end": 1.678
+        },
+        {
+          "word": "capabilities",
+          "start": 1.678,
+          "end": 1.68
+        },
+        {
+          "word": "we",
+          "start": 1.68,
+          "end": 1.682
+        },
+        {
+          "word": "haven't",
+          "start": 1.682,
+          "end": 1.684
+        },
+        {
+          "word": "even",
+          "start": 1.684,
+          "end": 1.686
+        },
+        {
+          "word": "imagined",
+          "start": 1.686,
+          "end": 1.688
+        },
+        {
+          "word": "yet.",
+          "start": 1.688,
+          "end": 1.69
+        }
+      ]
+    },
+    {
+      "start": 1.695,
+      "end": 1.73,
+      "text": "multi-agent systems with shared memory are the real breakthrough here. agents that can collaborate across platforms create entirely new capabilities we haven't even imagined yet. this isn't just an incremental update.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 1.695,
+          "end": 1.7
+        },
+        {
+          "word": "isn't",
+          "start": 1.7,
+          "end": 1.705
+        },
+        {
+          "word": "just",
+          "start": 1.705,
+          "end": 1.71
+        },
+        {
+          "word": "an",
+          "start": 1.71,
+          "end": 1.715
+        },
+        {
+          "word": "incremental",
+          "start": 1.715,
+          "end": 1.725
+        },
+        {
+          "word": "update.",
+          "start": 1.725,
+          "end": 1.73
+        }
+      ]
+    },
+    {
+      "start": 1.73,
+      "end": 1.77,
+      "text": "It's like teaching AIs to have their own friend groups! They remember each other, share the tea, and build their own little societies. That's some next-level digital evolution!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 1.73,
+          "end": 1.735
+        },
+        {
+          "word": "like",
+          "start": 1.735,
+          "end": 1.74
+        },
+        {
+          "word": "teaching",
+          "start": 1.74,
+          "end": 1.745
+        },
+        {
+          "word": "AIs",
+          "start": 1.745,
+          "end": 1.75
+        },
+        {
+          "word": "to",
+          "start": 1.75,
+          "end": 1.755
+        },
+        {
+          "word": "have",
+          "start": 1.755,
+          "end": 1.76
+        },
+        {
+          "word": "their",
+          "start": 1.76,
+          "end": 1.765
+        },
+        {
+          "word": "own",
+          "start": 1.765,
+          "end": 1.768
+        },
+        {
+          "word": "friend",
+          "start": 1.768,
+          "end": 1.769
+        },
+        {
+          "word": "groups.",
+          "start": 1.769,
+          "end": 1.77
+        }
+      ]
+    },
+    {
+      "start": 1.77,
+      "end": 1.84,
+      "text": "It's like teaching AIs to have their own friend groups! They remember each other, share the tea, and build their own little societies. That's some next-level digital evolution!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "They",
+          "start": 1.77,
+          "end": 1.775
+        },
+        {
+          "word": "remember",
+          "start": 1.775,
+          "end": 1.78
+        },
+        {
+          "word": "each",
+          "start": 1.78,
+          "end": 1.785
+        },
+        {
+          "word": "other,",
+          "start": 1.785,
+          "end": 1.79
+        },
+        {
+          "word": "share",
+          "start": 1.79,
+          "end": 1.795
+        },
+        {
+          "word": "the",
+          "start": 1.795,
+          "end": 1.8
+        },
+        {
+          "word": "tea",
+          "start": 1.8,
+          "end": 1.805
+        },
+        {
+          "word": "and",
+          "start": 1.805,
+          "end": 1.81
+        },
+        {
+          "word": "build",
+          "start": 1.81,
+          "end": 1.815
+        },
+        {
+          "word": "their",
+          "start": 1.815,
+          "end": 1.82
+        },
+        {
+          "word": "own",
+          "start": 1.82,
+          "end": 1.825
+        },
+        {
+          "word": "little",
+          "start": 1.825,
+          "end": 1.828
+        },
+        {
+          "word": "societies.",
+          "start": 1.828,
+          "end": 1.8295
+        },
+        {
+          "word": "That's",
+          "start": 1.8295,
+          "end": 1.8298
+        },
+        {
+          "word": "some",
+          "start": 1.8298,
+          "end": 1.83
+        },
+        {
+          "word": "next",
+          "start": 1.83,
+          "end": 1.833
+        },
+        {
+          "word": "level",
+          "start": 1.833,
+          "end": 1.835
+        },
+        {
+          "word": "digital",
+          "start": 1.835,
+          "end": 1.838
+        },
+        {
+          "word": "evolution.",
+          "start": 1.838,
+          "end": 1.84
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-05-28_JedAI-Council_The-Plugin-Revolution.json",
+    "session_log_source": "2025-05-28_JedAI-Council_The-Plugin-Revolution_session-log.json",
+    "total_segments": 24,
+    "matched_segments": 24,
+    "dialogues_in_script": 15
+  }
+}

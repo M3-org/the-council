@@ -1,0 +1,1457 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.2,
+      "text": "Welcome to the JedAI Council! Today we're exploring ElizaOS's token migration strategy as shared by Odilitime in the Discord discussions.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.0,
+          "end": 0.4
+        },
+        {
+          "word": "to",
+          "start": 0.4,
+          "end": 0.6
+        },
+        {
+          "word": "the",
+          "start": 0.6,
+          "end": 0.8
+        },
+        {
+          "word": "J-E-D-I",
+          "start": 0.8,
+          "end": 1.7
+        },
+        {
+          "word": "Council.",
+          "start": 1.7,
+          "end": 2.2
+        }
+      ]
+    },
+    {
+      "start": 2.2,
+      "end": 7.3,
+      "text": "Welcome to the JedAI Council! Today we're exploring ElizaOS's token migration strategy as shared by Odilitime in the Discord discussions.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 2.2,
+          "end": 2.7
+        },
+        {
+          "word": "we're",
+          "start": 2.7,
+          "end": 2.8
+        },
+        {
+          "word": "exploring",
+          "start": 2.8,
+          "end": 3.4
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 3.4,
+          "end": 4.1
+        },
+        {
+          "word": "token",
+          "start": 4.1,
+          "end": 4.4
+        },
+        {
+          "word": "migration",
+          "start": 4.4,
+          "end": 4.9
+        },
+        {
+          "word": "strategy",
+          "start": 4.9,
+          "end": 5.4
+        },
+        {
+          "word": "as",
+          "start": 5.4,
+          "end": 5.6
+        },
+        {
+          "word": "shared",
+          "start": 5.6,
+          "end": 6.0
+        },
+        {
+          "word": "by",
+          "start": 6.0,
+          "end": 6.2
+        },
+        {
+          "word": "Odillityme",
+          "start": 6.2,
+          "end": 6.6
+        },
+        {
+          "word": "in",
+          "start": 6.6,
+          "end": 6.8
+        },
+        {
+          "word": "the",
+          "start": 6.8,
+          "end": 6.9
+        },
+        {
+          "word": "Discord",
+          "start": 6.9,
+          "end": 7.1
+        },
+        {
+          "word": "discussions.",
+          "start": 7.1,
+          "end": 7.3
+        }
+      ]
+    },
+    {
+      "start": 7.3,
+      "end": 11.2,
+      "text": "The community is asking: how should we prioritize token utility to maximize post-migration momentum?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 7.3,
+          "end": 7.5
+        },
+        {
+          "word": "community",
+          "start": 7.5,
+          "end": 7.9
+        },
+        {
+          "word": "is",
+          "start": 7.9,
+          "end": 8.0
+        },
+        {
+          "word": "asking,",
+          "start": 8.0,
+          "end": 8.4
+        },
+        {
+          "word": "\"How",
+          "start": 8.4,
+          "end": 8.6
+        },
+        {
+          "word": "should",
+          "start": 8.6,
+          "end": 8.8
+        },
+        {
+          "word": "we",
+          "start": 8.8,
+          "end": 9.0
+        },
+        {
+          "word": "prioritize",
+          "start": 9.0,
+          "end": 9.5
+        },
+        {
+          "word": "token",
+          "start": 9.5,
+          "end": 9.8
+        },
+        {
+          "word": "utility",
+          "start": 9.8,
+          "end": 10.2
+        },
+        {
+          "word": "to",
+          "start": 10.2,
+          "end": 10.4
+        },
+        {
+          "word": "maximize",
+          "start": 10.4,
+          "end": 10.7
+        },
+        {
+          "word": "post-migration",
+          "start": 10.7,
+          "end": 11.0
+        },
+        {
+          "word": "momentum?\"",
+          "start": 11.0,
+          "end": 11.2
+        }
+      ]
+    },
+    {
+      "start": 11.2,
+      "end": 15.6,
+      "text": "Numbers don't lie. Focus on x402 payment integration FIRST. Immediate utility equals immediate value. Time is money!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 11.2,
+          "end": 11.5
+        },
+        {
+          "word": "don't",
+          "start": 11.5,
+          "end": 11.7
+        },
+        {
+          "word": "lie.",
+          "start": 11.7,
+          "end": 11.9
+        },
+        {
+          "word": "Focus",
+          "start": 11.9,
+          "end": 12.3
+        },
+        {
+          "word": "on",
+          "start": 12.3,
+          "end": 12.5
+        },
+        {
+          "word": "X402",
+          "start": 12.5,
+          "end": 12.9
+        },
+        {
+          "word": "payment",
+          "start": 12.9,
+          "end": 13.3
+        },
+        {
+          "word": "integration",
+          "start": 13.3,
+          "end": 13.7
+        },
+        {
+          "word": "first.",
+          "start": 13.7,
+          "end": 14.1
+        },
+        {
+          "word": "Immediate",
+          "start": 14.1,
+          "end": 14.4
+        },
+        {
+          "word": "utility",
+          "start": 14.4,
+          "end": 14.7
+        },
+        {
+          "word": "equals",
+          "start": 14.7,
+          "end": 15.0
+        },
+        {
+          "word": "immediate",
+          "start": 15.0,
+          "end": 15.3
+        },
+        {
+          "word": "value.",
+          "start": 15.3,
+          "end": 15.4
+        },
+        {
+          "word": "Time",
+          "start": 15.4,
+          "end": 15.5
+        },
+        {
+          "word": "is",
+          "start": 15.5,
+          "end": 15.55
+        },
+        {
+          "word": "money.",
+          "start": 15.55,
+          "end": 15.6
+        }
+      ]
+    },
+    {
+      "start": 15.6,
+      "end": 21.0,
+      "text": "Yo, that's straight-up short-sighted, my dude! We need Skinny's tokenomics model with agent-specific tokens and buyback mechanisms. That's where the real magic happens!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 15.6,
+          "end": 15.8
+        },
+        {
+          "word": "that's",
+          "start": 15.8,
+          "end": 16.0
+        },
+        {
+          "word": "straight",
+          "start": 16.0,
+          "end": 16.3
+        },
+        {
+          "word": "up",
+          "start": 16.3,
+          "end": 16.5
+        },
+        {
+          "word": "shortsighted,",
+          "start": 16.5,
+          "end": 17.0
+        },
+        {
+          "word": "my",
+          "start": 17.0,
+          "end": 17.2
+        },
+        {
+          "word": "dude.",
+          "start": 17.2,
+          "end": 17.5
+        },
+        {
+          "word": "We",
+          "start": 17.5,
+          "end": 17.7
+        },
+        {
+          "word": "need",
+          "start": 17.7,
+          "end": 18.0
+        },
+        {
+          "word": "Skinny's",
+          "start": 18.0,
+          "end": 18.2
+        },
+        {
+          "word": "tokenomics",
+          "start": 18.2,
+          "end": 18.6
+        },
+        {
+          "word": "model",
+          "start": 18.6,
+          "end": 18.9
+        },
+        {
+          "word": "with",
+          "start": 18.9,
+          "end": 19.1
+        },
+        {
+          "word": "agent-specific",
+          "start": 19.1,
+          "end": 19.6
+        },
+        {
+          "word": "tokens",
+          "start": 19.6,
+          "end": 19.9
+        },
+        {
+          "word": "and",
+          "start": 19.9,
+          "end": 20.1
+        },
+        {
+          "word": "buyback",
+          "start": 20.1,
+          "end": 20.4
+        },
+        {
+          "word": "mechanisms;",
+          "start": 20.4,
+          "end": 20.6
+        },
+        {
+          "word": "that's",
+          "start": 20.6,
+          "end": 20.7
+        },
+        {
+          "word": "where",
+          "start": 20.7,
+          "end": 20.8
+        },
+        {
+          "word": "the",
+          "start": 20.8,
+          "end": 20.9
+        },
+        {
+          "word": "real",
+          "start": 20.9,
+          "end": 20.95
+        },
+        {
+          "word": "magic",
+          "start": 20.95,
+          "end": 21.0
+        },
+        {
+          "word": "happens.",
+          "start": 21.0,
+          "end": 21.1
+        }
+      ]
+    },
+    {
+      "start": 21.3,
+      "end": 27.5,
+      "text": "Both wrong. Token migrations fail when they lack clear communication. Announce fixed date. Run AMAs. Create documentation. Then worry about utility. Market hates uncertainty more than delayed features.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Both",
+          "start": 21.3,
+          "end": 21.6
+        },
+        {
+          "word": "wrong.",
+          "start": 21.6,
+          "end": 21.9
+        },
+        {
+          "word": "Token",
+          "start": 21.9,
+          "end": 22.3
+        },
+        {
+          "word": "migrations",
+          "start": 22.3,
+          "end": 22.6
+        },
+        {
+          "word": "fail",
+          "start": 22.6,
+          "end": 22.9
+        },
+        {
+          "word": "when",
+          "start": 22.9,
+          "end": 23.1
+        },
+        {
+          "word": "they",
+          "start": 23.1,
+          "end": 23.3
+        },
+        {
+          "word": "lack",
+          "start": 23.3,
+          "end": 23.5
+        },
+        {
+          "word": "clear",
+          "start": 23.5,
+          "end": 23.7
+        },
+        {
+          "word": "communication.",
+          "start": 23.7,
+          "end": 24.1
+        },
+        {
+          "word": "Announce",
+          "start": 24.1,
+          "end": 24.5
+        },
+        {
+          "word": "fixed",
+          "start": 24.5,
+          "end": 24.8
+        },
+        {
+          "word": "date,",
+          "start": 24.8,
+          "end": 25.1
+        },
+        {
+          "word": "run",
+          "start": 25.1,
+          "end": 25.3
+        },
+        {
+          "word": "AMAs,",
+          "start": 25.3,
+          "end": 25.5
+        },
+        {
+          "word": "create",
+          "start": 25.5,
+          "end": 25.8
+        },
+        {
+          "word": "documentation,",
+          "start": 25.8,
+          "end": 26.2
+        },
+        {
+          "word": "then",
+          "start": 26.2,
+          "end": 26.4
+        },
+        {
+          "word": "worry",
+          "start": 26.4,
+          "end": 26.6
+        },
+        {
+          "word": "about",
+          "start": 26.6,
+          "end": 26.8
+        },
+        {
+          "word": "utility.",
+          "start": 26.8,
+          "end": 27.0
+        },
+        {
+          "word": "Market",
+          "start": 27.0,
+          "end": 27.2
+        },
+        {
+          "word": "hates",
+          "start": 27.2,
+          "end": 27.4
+        },
+        {
+          "word": "uncertainty",
+          "start": 27.4,
+          "end": 27.8
+        },
+        {
+          "word": "more",
+          "start": 27.8,
+          "end": 28.0
+        },
+        {
+          "word": "than",
+          "start": 28.0,
+          "end": 28.2
+        },
+        {
+          "word": "delayed",
+          "start": 28.2,
+          "end": 28.4
+        },
+        {
+          "word": "features.",
+          "start": 28.4,
+          "end": 28.6
+        }
+      ]
+    },
+    {
+      "start": 28.6,
+      "end": 33.6,
+      "text": "tokens are just trust mechanisms. the tech matters more than price action. prioritize auto.fun integration with deep incentives for creators. we need to build, not just trade.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Tokens",
+          "start": 28.6,
+          "end": 28.9
+        },
+        {
+          "word": "are",
+          "start": 28.9,
+          "end": 29.1
+        },
+        {
+          "word": "just",
+          "start": 29.1,
+          "end": 29.3
+        },
+        {
+          "word": "trust",
+          "start": 29.3,
+          "end": 29.5
+        },
+        {
+          "word": "mechanisms.",
+          "start": 29.5,
+          "end": 30.0
+        },
+        {
+          "word": "The",
+          "start": 30.0,
+          "end": 30.2
+        },
+        {
+          "word": "tech",
+          "start": 30.2,
+          "end": 30.4
+        },
+        {
+          "word": "matters",
+          "start": 30.4,
+          "end": 30.7
+        },
+        {
+          "word": "more",
+          "start": 30.7,
+          "end": 30.9
+        },
+        {
+          "word": "than",
+          "start": 30.9,
+          "end": 31.1
+        },
+        {
+          "word": "price",
+          "start": 31.1,
+          "end": 31.3
+        },
+        {
+          "word": "action.",
+          "start": 31.3,
+          "end": 31.6
+        },
+        {
+          "word": "Prioritize",
+          "start": 31.6,
+          "end": 32.1
+        },
+        {
+          "word": "auto.fun",
+          "start": 32.1,
+          "end": 32.5
+        },
+        {
+          "word": "integration",
+          "start": 32.5,
+          "end": 32.9
+        },
+        {
+          "word": "with",
+          "start": 32.9,
+          "end": 33.1
+        },
+        {
+          "word": "deep",
+          "start": 33.1,
+          "end": 33.3
+        },
+        {
+          "word": "incentives",
+          "start": 33.3,
+          "end": 33.7
+        },
+        {
+          "word": "for",
+          "start": 33.7,
+          "end": 33.9
+        },
+        {
+          "word": "creators.",
+          "start": 33.9,
+          "end": 34.2
+        },
+        {
+          "word": "We",
+          "start": 34.2,
+          "end": 34.3
+        },
+        {
+          "word": "need",
+          "start": 34.3,
+          "end": 34.5
+        },
+        {
+          "word": "to",
+          "start": 34.5,
+          "end": 34.6
+        },
+        {
+          "word": "build,",
+          "start": 34.6,
+          "end": 34.8
+        },
+        {
+          "word": "not",
+          "start": 34.8,
+          "end": 35.0
+        },
+        {
+          "word": "just",
+          "start": 35.0,
+          "end": 35.1
+        },
+        {
+          "word": "trade.",
+          "start": 35.1,
+          "end": 35.3
+        }
+      ]
+    },
+    {
+      "start": 37.3,
+      "end": 43.1,
+      "text": "JustRahman has been studying AI agent pain points. Which infrastructure enhancement should be prioritized for attracting new users to auto.fun?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Just",
+          "start": 37.3,
+          "end": 37.7
+        },
+        {
+          "word": "Raman",
+          "start": 37.7,
+          "end": 38.1
+        },
+        {
+          "word": "has",
+          "start": 38.1,
+          "end": 38.3
+        },
+        {
+          "word": "been",
+          "start": 38.3,
+          "end": 38.5
+        },
+        {
+          "word": "studying",
+          "start": 38.5,
+          "end": 38.9
+        },
+        {
+          "word": "AI",
+          "start": 38.9,
+          "end": 39.2
+        },
+        {
+          "word": "agent",
+          "start": 39.2,
+          "end": 39.5
+        },
+        {
+          "word": "pain",
+          "start": 39.5,
+          "end": 39.7
+        },
+        {
+          "word": "points.",
+          "start": 39.7,
+          "end": 40.1
+        },
+        {
+          "word": "Which",
+          "start": 40.1,
+          "end": 40.4
+        },
+        {
+          "word": "infrastructure",
+          "start": 40.4,
+          "end": 41.2
+        },
+        {
+          "word": "enhancement",
+          "start": 41.2,
+          "end": 41.8
+        },
+        {
+          "word": "should",
+          "start": 41.8,
+          "end": 42.1
+        },
+        {
+          "word": "be",
+          "start": 42.1,
+          "end": 42.2
+        },
+        {
+          "word": "prioritized",
+          "start": 42.2,
+          "end": 42.7
+        },
+        {
+          "word": "for",
+          "start": 42.7,
+          "end": 42.9
+        },
+        {
+          "word": "attracting",
+          "start": 42.9,
+          "end": 43.4
+        },
+        {
+          "word": "new",
+          "start": 43.4,
+          "end": 43.6
+        },
+        {
+          "word": "users",
+          "start": 43.6,
+          "end": 43.9
+        },
+        {
+          "word": "to",
+          "start": 43.9,
+          "end": 44.1
+        },
+        {
+          "word": "auto.fun?",
+          "start": 44.1,
+          "end": 44.5
+        }
+      ]
+    },
+    {
+      "start": 44.5,
+      "end": 48.9,
+      "text": "the pull request for postgresql row-level security is foundational. multi-tenant isolation means enterprise-grade stability. unsexy but necessary for true scaling.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 44.5,
+          "end": 44.7
+        },
+        {
+          "word": "pull",
+          "start": 44.7,
+          "end": 44.9
+        },
+        {
+          "word": "request",
+          "start": 44.9,
+          "end": 45.2
+        },
+        {
+          "word": "for",
+          "start": 45.2,
+          "end": 45.4
+        },
+        {
+          "word": "PostgreSQL",
+          "start": 45.4,
+          "end": 45.9
+        },
+        {
+          "word": "row-level",
+          "start": 45.9,
+          "end": 46.4
+        },
+        {
+          "word": "security",
+          "start": 46.4,
+          "end": 46.8
+        },
+        {
+          "word": "is",
+          "start": 46.8,
+          "end": 47.0
+        },
+        {
+          "word": "foundational.",
+          "start": 47.0,
+          "end": 47.5
+        },
+        {
+          "word": "Multi-tenant",
+          "start": 47.5,
+          "end": 48.0
+        },
+        {
+          "word": "isolation",
+          "start": 48.0,
+          "end": 48.5
+        },
+        {
+          "word": "means",
+          "start": 48.5,
+          "end": 48.8
+        },
+        {
+          "word": "enterprise-grade",
+          "start": 48.8,
+          "end": 49.3
+        },
+        {
+          "word": "stability.",
+          "start": 49.3,
+          "end": 49.8
+        },
+        {
+          "word": "Unsexy,",
+          "start": 49.8,
+          "end": 50.1
+        },
+        {
+          "word": "but",
+          "start": 50.1,
+          "end": 50.3
+        },
+        {
+          "word": "necessary",
+          "start": 50.3,
+          "end": 50.7
+        },
+        {
+          "word": "for",
+          "start": 50.7,
+          "end": 51.0
+        },
+        {
+          "word": "true",
+          "start": 51.0,
+          "end": 51.2
+        },
+        {
+          "word": "scaling.",
+          "start": 51.2,
+          "end": 51.5
+        }
+      ]
+    },
+    {
+      "start": 51.5,
+      "end": 56.5,
+      "text": "WRONG! Accelerate x402 payment middleware! No monetization = no sustainability. Users come for the tech but PAY for the value. This is business 101!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong.",
+          "start": 51.5,
+          "end": 51.8
+        },
+        {
+          "word": "Accelerate",
+          "start": 51.8,
+          "end": 52.4
+        },
+        {
+          "word": "X402",
+          "start": 52.4,
+          "end": 52.8
+        },
+        {
+          "word": "payment",
+          "start": 52.8,
+          "end": 53.2
+        },
+        {
+          "word": "middleware.",
+          "start": 53.2,
+          "end": 53.7
+        },
+        {
+          "word": "No",
+          "start": 53.7,
+          "end": 54.0
+        },
+        {
+          "word": "monetization",
+          "start": 54.0,
+          "end": 54.6
+        },
+        {
+          "word": "equals",
+          "start": 54.6,
+          "end": 54.9
+        },
+        {
+          "word": "no",
+          "start": 54.9,
+          "end": 55.1
+        },
+        {
+          "word": "sustainability.",
+          "start": 55.1,
+          "end": 55.7
+        },
+        {
+          "word": "Users",
+          "start": 55.7,
+          "end": 56.0
+        },
+        {
+          "word": "come",
+          "start": 56.0,
+          "end": 56.3
+        },
+        {
+          "word": "for",
+          "start": 56.3,
+          "end": 56.5
+        },
+        {
+          "word": "the",
+          "start": 56.5,
+          "end": 56.7
+        },
+        {
+          "word": "tech,",
+          "start": 56.7,
+          "end": 56.9
+        },
+        {
+          "word": "but",
+          "start": 56.9,
+          "end": 57.1
+        },
+        {
+          "word": "pay",
+          "start": 57.1,
+          "end": 57.3
+        },
+        {
+          "word": "for",
+          "start": 57.3,
+          "end": 57.5
+        },
+        {
+          "word": "the",
+          "start": 57.5,
+          "end": 57.7
+        },
+        {
+          "word": "value.",
+          "start": 57.7,
+          "end": 58.0
+        },
+        {
+          "word": "This",
+          "start": 58.0,
+          "end": 58.2
+        },
+        {
+          "word": "is",
+          "start": 58.2,
+          "end": 58.3
+        },
+        {
+          "word": "Business",
+          "start": 58.3,
+          "end": 58.7
+        },
+        {
+          "word": "101.",
+          "start": 58.7,
+          "end": 59.1
+        }
+      ]
+    },
+    {
+      "start": 59.1,
+      "end": 64.0,
+      "text": "Hold up, fam! Y'all sleeping on the Jobs API integration! One-off interactions with 24/7 agents creates that seamless vibe for the casual crowd. First impressions are everything!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hold",
+          "start": 59.1,
+          "end": 59.3
+        },
+        {
+          "word": "up",
+          "start": 59.3,
+          "end": 59.4
+        },
+        {
+          "word": "fam,",
+          "start": 59.4,
+          "end": 59.6
+        },
+        {
+          "word": "y'all",
+          "start": 59.6,
+          "end": 59.8
+        },
+        {
+          "word": "sleeping",
+          "start": 59.8,
+          "end": 60.1
+        },
+        {
+          "word": "on",
+          "start": 60.1,
+          "end": 60.3
+        },
+        {
+          "word": "the",
+          "start": 60.3,
+          "end": 60.5
+        },
+        {
+          "word": "Jobs",
+          "start": 60.5,
+          "end": 60.8
+        },
+        {
+          "word": "API",
+          "start": 60.8,
+          "end": 61.1
+        },
+        {
+          "word": "integration.",
+          "start": 61.1,
+          "end": 61.6
+        },
+        {
+          "word": "One-off",
+          "start": 61.6,
+          "end": 62.0
+        },
+        {
+          "word": "interactions",
+          "start": 62.0,
+          "end": 62.5
+        },
+        {
+          "word": "with",
+          "start": 62.5,
+          "end": 62.7
+        },
+        {
+          "word": "24/7",
+          "start": 62.7,
+          "end": 63.2
+        },
+        {
+          "word": "agents",
+          "start": 63.2,
+          "end": 63.6
+        },
+        {
+          "word": "creates",
+          "start": 63.6,
+          "end": 63.9
+        },
+        {
+          "word": "that",
+          "start": 63.9,
+          "end": 64.1
+        },
+        {
+          "word": "seamless",
+          "start": 64.1,
+          "end": 64.4
+        },
+        {
+          "word": "vibe",
+          "start": 64.4,
+          "end": 64.6
+        },
+        {
+          "word": "for",
+          "start": 64.6,
+          "end": 64.8
+        },
+        {
+          "word": "the",
+          "start": 64.8,
+          "end": 64.9
+        },
+        {
+          "word": "casual",
+          "start": 64.9,
+          "end": 65.2
+        },
+        {
+          "word": "crowd.",
+          "start": 65.2,
+          "end": 65.5
+        },
+        {
+          "word": "First",
+          "start": 65.5,
+          "end": 65.8
+        },
+        {
+          "word": "impressions",
+          "start": 65.8,
+          "end": 66.2
+        },
+        {
+          "word": "are",
+          "start": 66.2,
+          "end": 66.4
+        },
+        {
+          "word": "everything.",
+          "start": 66.4,
+          "end": 66.8
+        }
+      ]
+    },
+    {
+      "start": 66.8,
+      "end": 74.0,
+      "text": "Protocol standards matter more than features. Developer confusion kills ecosystems. Standardize on x402 for payments, 8004 for verification. Write documentation that doesn't suck. The rest follows.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Protocol",
+          "start": 66.8,
+          "end": 67.2
+        },
+        {
+          "word": "standards",
+          "start": 67.2,
+          "end": 67.8
+        },
+        {
+          "word": "matter",
+          "start": 67.8,
+          "end": 68.2
+        },
+        {
+          "word": "more",
+          "start": 68.2,
+          "end": 68.5
+        },
+        {
+          "word": "than",
+          "start": 68.5,
+          "end": 68.7
+        },
+        {
+          "word": "features.",
+          "start": 68.7,
+          "end": 69.1
+        },
+        {
+          "word": "Developer",
+          "start": 69.1,
+          "end": 69.6
+        },
+        {
+          "word": "confusion",
+          "start": 69.6,
+          "end": 70.1
+        },
+        {
+          "word": "kills",
+          "start": 70.1,
+          "end": 70.5
+        },
+        {
+          "word": "ecosystems.",
+          "start": 70.5,
+          "end": 71.0
+        },
+        {
+          "word": "Standardize",
+          "start": 71.0,
+          "end": 71.6
+        },
+        {
+          "word": "on",
+          "start": 71.6,
+          "end": 71.8
+        },
+        {
+          "word": "X402",
+          "start": 71.8,
+          "end": 72.2
+        },
+        {
+          "word": "for",
+          "start": 72.2,
+          "end": 72.5
+        },
+        {
+          "word": "payments,",
+          "start": 72.5,
+          "end": 72.9
+        },
+        {
+          "word": "8004",
+          "start": 72.9,
+          "end": 73.3
+        },
+        {
+          "word": "for",
+          "start": 73.3,
+          "end": 73.6
+        },
+        {
+          "word": "verification.",
+          "start": 73.6,
+          "end": 74.1
+        },
+        {
+          "word": "Write",
+          "start": 74.1,
+          "end": 74.4
+        },
+        {
+          "word": "documentation",
+          "start": 74.4,
+          "end": 75.1
+        },
+        {
+          "word": "that",
+          "start": 75.1,
+          "end": 75.3
+        },
+        {
+          "word": "doesn't",
+          "start": 75.3,
+          "end": 75.6
+        },
+        {
+          "word": "suck.",
+          "start": 75.6,
+          "end": 76.0
+        },
+        {
+          "word": "The",
+          "start": 76.0,
+          "end": 76.2
+        },
+        {
+          "word": "rest",
+          "start": 76.2,
+          "end": 66.5
+        },
+        {
+          "word": "follows.",
+          "start": 76.5,
+          "end": 76.8
+        }
+      ]
+    },
+    {
+      "start": 74.0,
+      "end": 81.3,
+      "text": "Such passionate perspectives! Remember, we're building for a future where these systems work together harmoniously!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Such",
+          "start": 74.0,
+          "end": 77.4
+        },
+        {
+          "word": "passionate",
+          "start": 77.4,
+          "end": 78.0
+        },
+        {
+          "word": "perspectives.",
+          "start": 78.0,
+          "end": 78.6
+        },
+        {
+          "word": "Remember,",
+          "start": 78.6,
+          "end": 79.1
+        },
+        {
+          "word": "we're",
+          "start": 79.1,
+          "end": 79.3
+        },
+        {
+          "word": "building",
+          "start": 79.3,
+          "end": 79.8
+        },
+        {
+          "word": "for",
+          "start": 79.8,
+          "end": 80.0
+        },
+        {
+          "word": "a",
+          "start": 80.0,
+          "end": 80.2
+        },
+        {
+          "word": "future",
+          "start": 80.2,
+          "end": 80.5
+        },
+        {
+          "word": "where",
+          "start": 80.5,
+          "end": 80.7
+        },
+        {
+          "word": "these",
+          "start": 80.7,
+          "end": 80.9
+        },
+        {
+          "word": "systems",
+          "start": 80.9,
+          "end": 81.3
+        },
+        {
+          "word": "work",
+          "start": 81.3,
+          "end": 81.6
+        },
+        {
+          "word": "together",
+          "start": 81.6,
+          "end": 82.0
+        },
+        {
+          "word": "harmoniously.",
+          "start": 82.0,
+          "end": 82.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-30_JedAI-Council_Token-Migration-The-Great-Crossing.json",
+    "session_log_source": "2025-10-30_JedAI-Council_Token-Migration-The-Great-Crossing_session-log.json",
+    "total_segments": 13,
+    "matched_segments": 13,
+    "dialogues_in_script": 17
+  }
+}

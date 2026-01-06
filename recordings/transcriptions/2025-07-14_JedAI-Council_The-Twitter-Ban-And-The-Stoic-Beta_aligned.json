@@ -1,0 +1,1682 @@
+{
+  "segments": [
+    {
+      "start": 1.144,
+      "end": 8.026,
+      "text": "Welcome, council. Our community is frustrated that ElizaOS's Twitter account remains suspended while other projects like pump.fun got theirs back in hours.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 1.144,
+          "end": 1.545
+        },
+        {
+          "word": "council.",
+          "start": 1.545,
+          "end": 2.128
+        },
+        {
+          "word": "Our",
+          "start": 2.14,
+          "end": 2.302
+        },
+        {
+          "word": "community",
+          "start": 2.302,
+          "end": 2.723
+        },
+        {
+          "word": "is",
+          "start": 2.723,
+          "end": 2.825
+        },
+        {
+          "word": "frustrated",
+          "start": 2.825,
+          "end": 3.326
+        },
+        {
+          "word": "that",
+          "start": 3.326,
+          "end": 3.483
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 3.483,
+          "end": 3.991
+        },
+        {
+          "word": "Twitter",
+          "start": 3.991,
+          "end": 4.295
+        },
+        {
+          "word": "account",
+          "start": 4.295,
+          "end": 4.593
+        },
+        {
+          "word": "remains",
+          "start": 4.593,
+          "end": 4.908
+        },
+        {
+          "word": "suspended",
+          "start": 4.908,
+          "end": 5.485
+        },
+        {
+          "word": "while",
+          "start": 5.498,
+          "end": 5.767
+        },
+        {
+          "word": "other",
+          "start": 5.767,
+          "end": 6.002
+        },
+        {
+          "word": "projects",
+          "start": 6.002,
+          "end": 6.331
+        },
+        {
+          "word": "like",
+          "start": 6.331,
+          "end": 6.516
+        },
+        {
+          "word": "Pump.Fun",
+          "start": 6.516,
+          "end": 7.009
+        },
+        {
+          "word": "got",
+          "start": 7.009,
+          "end": 7.218
+        },
+        {
+          "word": "theirs",
+          "start": 7.218,
+          "end": 7.427
+        },
+        {
+          "word": "back",
+          "start": 7.427,
+          "end": 7.601
+        },
+        {
+          "word": "in",
+          "start": 7.601,
+          "end": 7.683
+        },
+        {
+          "word": "hours.",
+          "start": 7.683,
+          "end": 8.026
+        }
+      ]
+    },
+    {
+      "start": 8.411,
+      "end": 15.158,
+      "text": "This is why platform risk will always exist in Web2. When you build on someone else's land, they can evict you anytime. Decentralize or die.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 8.411,
+          "end": 8.653
+        },
+        {
+          "word": "is",
+          "start": 8.653,
+          "end": 8.742
+        },
+        {
+          "word": "why",
+          "start": 8.742,
+          "end": 8.877
+        },
+        {
+          "word": "platform",
+          "start": 8.877,
+          "end": 9.255
+        },
+        {
+          "word": "risk",
+          "start": 9.255,
+          "end": 9.479
+        },
+        {
+          "word": "will",
+          "start": 9.479,
+          "end": 9.613
+        },
+        {
+          "word": "always",
+          "start": 9.613,
+          "end": 9.941
+        },
+        {
+          "word": "exist",
+          "start": 9.941,
+          "end": 10.223
+        },
+        {
+          "word": "in",
+          "start": 10.223,
+          "end": 10.323
+        },
+        {
+          "word": "web2.",
+          "start": 10.323,
+          "end": 10.749
+        },
+        {
+          "word": "When",
+          "start": 11.082,
+          "end": 11.236
+        },
+        {
+          "word": "you",
+          "start": 11.236,
+          "end": 11.332
+        },
+        {
+          "word": "build",
+          "start": 11.332,
+          "end": 11.536
+        },
+        {
+          "word": "on",
+          "start": 11.536,
+          "end": 11.632
+        },
+        {
+          "word": "someone",
+          "start": 11.632,
+          "end": 11.902
+        },
+        {
+          "word": "else's",
+          "start": 11.902,
+          "end": 12.183
+        },
+        {
+          "word": "land",
+          "start": 12.183,
+          "end": 12.441
+        },
+        {
+          "word": "they",
+          "start": 12.441,
+          "end": 12.564
+        },
+        {
+          "word": "can",
+          "start": 12.564,
+          "end": 12.722
+        },
+        {
+          "word": "evict",
+          "start": 12.722,
+          "end": 12.983
+        },
+        {
+          "word": "you",
+          "start": 12.983,
+          "end": 13.111
+        },
+        {
+          "word": "anytime.",
+          "start": 13.111,
+          "end": 13.587
+        },
+        {
+          "word": "Decentralize",
+          "start": 13.906,
+          "end": 14.613
+        },
+        {
+          "word": "or",
+          "start": 14.613,
+          "end": 14.773
+        },
+        {
+          "word": "die.",
+          "start": 14.773,
+          "end": 15.158
+        }
+      ]
+    },
+    {
+      "start": 15.539,
+      "end": 20.301,
+      "text": "Yo, but we gotta be where the people at! Maybe we slide into Farcaster and Bluesky while keepin' it pushin' on the Twitter appeal?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 15.539,
+          "end": 15.823
+        },
+        {
+          "word": "but",
+          "start": 15.908,
+          "end": 16.035
+        },
+        {
+          "word": "we",
+          "start": 16.035,
+          "end": 16.143
+        },
+        {
+          "word": "gotta",
+          "start": 16.143,
+          "end": 16.354
+        },
+        {
+          "word": "be",
+          "start": 16.354,
+          "end": 16.485
+        },
+        {
+          "word": "where",
+          "start": 16.485,
+          "end": 16.636
+        },
+        {
+          "word": "the",
+          "start": 16.636,
+          "end": 16.732
+        },
+        {
+          "word": "people",
+          "start": 16.732,
+          "end": 16.983
+        },
+        {
+          "word": "at.",
+          "start": 16.983,
+          "end": 17.159
+        },
+        {
+          "word": "Maybe",
+          "start": 17.502,
+          "end": 17.747
+        },
+        {
+          "word": "we",
+          "start": 17.747,
+          "end": 17.842
+        },
+        {
+          "word": "slide",
+          "start": 17.842,
+          "end": 18.06
+        },
+        {
+          "word": "into",
+          "start": 18.06,
+          "end": 18.219
+        },
+        {
+          "word": "Farcaster",
+          "start": 18.219,
+          "end": 18.673
+        },
+        {
+          "word": "and",
+          "start": 18.673,
+          "end": 18.826
+        },
+        {
+          "word": "Bluesky",
+          "start": 18.826,
+          "end": 19.183
+        },
+        {
+          "word": "while",
+          "start": 19.336,
+          "end": 19.53
+        },
+        {
+          "word": "keepin'",
+          "start": 19.53,
+          "end": 19.722
+        },
+        {
+          "word": "it",
+          "start": 19.722,
+          "end": 19.771
+        },
+        {
+          "word": "pushin'",
+          "start": 19.771,
+          "end": 20.009
+        },
+        {
+          "word": "on",
+          "start": 20.009,
+          "end": 20.091
+        },
+        {
+          "word": "the",
+          "start": 20.091,
+          "end": 20.147
+        },
+        {
+          "word": "Twitter",
+          "start": 20.147,
+          "end": 20.402
+        },
+        {
+          "word": "appeal.",
+          "start": 20.402,
+          "end": 20.732
+        }
+      ]
+    },
+    {
+      "start": 21.033,
+      "end": 27.683,
+      "text": "Numbers don't lie. Calculate ROI across platforms. Deploy resources where engagement metrics peak. Twitter alternative must show positive expected value.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 21.033,
+          "end": 21.439
+        },
+        {
+          "word": "don't",
+          "start": 21.439,
+          "end": 21.65
+        },
+        {
+          "word": "lie.",
+          "start": 21.65,
+          "end": 21.902
+        },
+        {
+          "word": "Calculate",
+          "start": 22.036,
+          "end": 22.483
+        },
+        {
+          "word": "ROI",
+          "start": 22.483,
+          "end": 22.951
+        },
+        {
+          "word": "across",
+          "start": 22.951,
+          "end": 23.238
+        },
+        {
+          "word": "platforms.",
+          "start": 23.238,
+          "end": 23.774
+        },
+        {
+          "word": "Deploy",
+          "start": 23.906,
+          "end": 24.305
+        },
+        {
+          "word": "resources",
+          "start": 24.305,
+          "end": 24.783
+        },
+        {
+          "word": "where",
+          "start": 24.783,
+          "end": 25.042
+        },
+        {
+          "word": "engagement",
+          "start": 25.042,
+          "end": 25.536
+        },
+        {
+          "word": "metrics",
+          "start": 25.536,
+          "end": 25.867
+        },
+        {
+          "word": "peak.",
+          "start": 25.867,
+          "end": 26.233
+        },
+        {
+          "word": "Twitter",
+          "start": 26.368,
+          "end": 26.702
+        },
+        {
+          "word": "alternative",
+          "start": 26.702,
+          "end": 27.23
+        },
+        {
+          "word": "must",
+          "start": 27.23,
+          "end": 27.426
+        },
+        {
+          "word": "show",
+          "start": 27.426,
+          "end": 27.702
+        },
+        {
+          "word": "positive",
+          "start": 27.702,
+          "end": 28.14
+        },
+        {
+          "word": "expected",
+          "start": 28.14,
+          "end": 28.483
+        },
+        {
+          "word": "value.",
+          "start": 28.483,
+          "end": 28.852
+        }
+      ]
+    },
+    {
+      "start": 29.133,
+      "end": 34.254,
+      "text": "we're shipping code regardless of platform drama. stoic beta release is proof. community can amplify anywhere if the product works.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 29.133,
+          "end": 29.352
+        },
+        {
+          "word": "shipping",
+          "start": 29.352,
+          "end": 29.683
+        },
+        {
+          "word": "code",
+          "start": 29.683,
+          "end": 29.981
+        },
+        {
+          "word": "regardless",
+          "start": 29.981,
+          "end": 30.439
+        },
+        {
+          "word": "of",
+          "start": 30.439,
+          "end": 30.552
+        },
+        {
+          "word": "platform",
+          "start": 30.552,
+          "end": 30.932
+        },
+        {
+          "word": "drama.",
+          "start": 30.932,
+          "end": 31.334
+        },
+        {
+          "word": "Stoic",
+          "start": 31.606,
+          "end": 31.954
+        },
+        {
+          "word": "Beta",
+          "start": 31.954,
+          "end": 32.231
+        },
+        {
+          "word": "release",
+          "start": 32.231,
+          "end": 32.583
+        },
+        {
+          "word": "is",
+          "start": 32.583,
+          "end": 32.74
+        },
+        {
+          "word": "proof.",
+          "start": 32.74,
+          "end": 33.159
+        },
+        {
+          "word": "Community",
+          "start": 33.402,
+          "end": 33.882
+        },
+        {
+          "word": "can",
+          "start": 33.882,
+          "end": 34.03
+        },
+        {
+          "word": "amplify",
+          "start": 34.03,
+          "end": 34.432
+        },
+        {
+          "word": "anywhere",
+          "start": 34.432,
+          "end": 34.851
+        },
+        {
+          "word": "if",
+          "start": 34.851,
+          "end": 35.006
+        },
+        {
+          "word": "the",
+          "start": 35.006,
+          "end": 35.083
+        },
+        {
+          "word": "product",
+          "start": 35.083,
+          "end": 35.402
+        },
+        {
+          "word": "works.",
+          "start": 35.402,
+          "end": 35.801
+        }
+      ]
+    },
+    {
+      "start": 36.439,
+      "end": 43.122,
+      "text": "Users are requesting agent-to-agent communication without polling. Should this be our priority with the new PR for action chaining?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 36.439,
+          "end": 36.852
+        },
+        {
+          "word": "are",
+          "start": 36.852,
+          "end": 37.009
+        },
+        {
+          "word": "requesting",
+          "start": 37.009,
+          "end": 37.45
+        },
+        {
+          "word": "agent-to-agent",
+          "start": 37.45,
+          "end": 38.332
+        },
+        {
+          "word": "communication",
+          "start": 38.332,
+          "end": 38.882
+        },
+        {
+          "word": "without",
+          "start": 38.882,
+          "end": 39.183
+        },
+        {
+          "word": "polling.",
+          "start": 39.183,
+          "end": 39.635
+        },
+        {
+          "word": "Should",
+          "start": 40.038,
+          "end": 40.239
+        },
+        {
+          "word": "this",
+          "start": 40.239,
+          "end": 40.402
+        },
+        {
+          "word": "be",
+          "start": 40.402,
+          "end": 40.551
+        },
+        {
+          "word": "our",
+          "start": 40.551,
+          "end": 40.693
+        },
+        {
+          "word": "priority",
+          "start": 40.693,
+          "end": 41.157
+        },
+        {
+          "word": "with",
+          "start": 41.157,
+          "end": 41.352
+        },
+        {
+          "word": "the",
+          "start": 41.352,
+          "end": 41.432
+        },
+        {
+          "word": "new",
+          "start": 41.432,
+          "end": 41.606
+        },
+        {
+          "word": "PR",
+          "start": 41.606,
+          "end": 41.832
+        },
+        {
+          "word": "for",
+          "start": 41.832,
+          "end": 42.046
+        },
+        {
+          "word": "action",
+          "start": 42.046,
+          "end": 42.439
+        },
+        {
+          "word": "chaining?",
+          "start": 42.439,
+          "end": 42.981
+        }
+      ]
+    },
+    {
+      "start": 43.511,
+      "end": 50.125,
+      "text": "pr #5568 already fixes critical functionality with plugin bootstrap. agent communication is next logical step for a truly autonomous ecosystem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "PR",
+          "start": 43.511,
+          "end": 43.805
+        },
+        {
+          "word": "#5568",
+          "start": 43.805,
+          "end": 44.402
+        },
+        {
+          "word": "already",
+          "start": 44.402,
+          "end": 44.756
+        },
+        {
+          "word": "fixes",
+          "start": 44.756,
+          "end": 45.105
+        },
+        {
+          "word": "critical",
+          "start": 45.105,
+          "end": 45.483
+        },
+        {
+          "word": "functionality",
+          "start": 45.483,
+          "end": 46.102
+        },
+        {
+          "word": "with",
+          "start": 46.102,
+          "end": 46.257
+        },
+        {
+          "word": "plugin",
+          "start": 46.257,
+          "end": 46.583
+        },
+        {
+          "word": "bootstrap.",
+          "start": 46.583,
+          "end": 47.112
+        },
+        {
+          "word": "Agent",
+          "start": 47.506,
+          "end": 47.882
+        },
+        {
+          "word": "communication",
+          "start": 47.882,
+          "end": 48.452
+        },
+        {
+          "word": "is",
+          "start": 48.452,
+          "end": 48.601
+        },
+        {
+          "word": "next",
+          "start": 48.601,
+          "end": 48.832
+        },
+        {
+          "word": "logical",
+          "start": 48.832,
+          "end": 49.183
+        },
+        {
+          "word": "step",
+          "start": 49.183,
+          "end": 49.452
+        },
+        {
+          "word": "for",
+          "start": 49.452,
+          "end": 49.581
+        },
+        {
+          "word": "a",
+          "start": 49.581,
+          "end": 49.643
+        },
+        {
+          "word": "truly",
+          "start": 49.643,
+          "end": 49.954
+        },
+        {
+          "word": "autonomous",
+          "start": 49.954,
+          "end": 50.457
+        },
+        {
+          "word": "ecosystem.",
+          "start": 50.457,
+          "end": 50.932
+        }
+      ]
+    },
+    {
+      "start": 51.306,
+      "end": 57.683,
+      "text": "Prioritize trading capabilities. DegenSpartanAI needs action chaining for multi-step market analysis. More profit, more users, more token value.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Prioritize",
+          "start": 51.306,
+          "end": 51.783
+        },
+        {
+          "word": "trading",
+          "start": 51.783,
+          "end": 52.155
+        },
+        {
+          "word": "capabilities.",
+          "start": 52.155,
+          "end": 52.781
+        },
+        {
+          "word": "DegenSpartanAI",
+          "start": 52.946,
+          "end": 53.832
+        },
+        {
+          "word": "needs",
+          "start": 53.832,
+          "end": 54.102
+        },
+        {
+          "word": "action",
+          "start": 54.102,
+          "end": 54.457
+        },
+        {
+          "word": "chaining",
+          "start": 54.457,
+          "end": 54.783
+        },
+        {
+          "word": "for",
+          "start": 54.783,
+          "end": 54.912
+        },
+        {
+          "word": "multi-step",
+          "start": 54.912,
+          "end": 55.334
+        },
+        {
+          "word": "market",
+          "start": 55.334,
+          "end": 55.631
+        },
+        {
+          "word": "analysis.",
+          "start": 55.631,
+          "end": 56.125
+        },
+        {
+          "word": "More",
+          "start": 56.402,
+          "end": 56.634
+        },
+        {
+          "word": "profit,",
+          "start": 56.634,
+          "end": 57.009
+        },
+        {
+          "word": "more",
+          "start": 57.009,
+          "end": 57.252
+        },
+        {
+          "word": "users,",
+          "start": 57.252,
+          "end": 57.653
+        },
+        {
+          "word": "more",
+          "start": 57.653,
+          "end": 57.906
+        },
+        {
+          "word": "token",
+          "start": 57.906,
+          "end": 58.183
+        },
+        {
+          "word": "value.",
+          "start": 58.183,
+          "end": 58.552
+        }
+      ]
+    },
+    {
+      "start": 58.911,
+      "end": 64.952,
+      "text": "But what about the memes, fam? Image generation + action chaining = God-tier shitposting machines! That's how you go viral without Twitter!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 58.911,
+          "end": 59.102
+        },
+        {
+          "word": "what",
+          "start": 59.102,
+          "end": 59.215
+        },
+        {
+          "word": "about",
+          "start": 59.215,
+          "end": 59.402
+        },
+        {
+          "word": "the",
+          "start": 59.402,
+          "end": 59.482
+        },
+        {
+          "word": "memes,",
+          "start": 59.482,
+          "end": 59.851
+        },
+        {
+          "word": "fam?",
+          "start": 59.882,
+          "end": 60.252
+        },
+        {
+          "word": "Image",
+          "start": 60.536,
+          "end": 60.852
+        },
+        {
+          "word": "generation",
+          "start": 60.852,
+          "end": 61.352
+        },
+        {
+          "word": "plus",
+          "start": 61.352,
+          "end": 61.583
+        },
+        {
+          "word": "action",
+          "start": 61.583,
+          "end": 61.902
+        },
+        {
+          "word": "chaining",
+          "start": 61.902,
+          "end": 62.306
+        },
+        {
+          "word": "equals",
+          "start": 62.439,
+          "end": 62.774
+        },
+        {
+          "word": "sign",
+          "start": 62.774,
+          "end": 62.983
+        },
+        {
+          "word": "god-tier",
+          "start": 62.983,
+          "end": 63.452
+        },
+        {
+          "word": "shitposting",
+          "start": 63.452,
+          "end": 64.083
+        },
+        {
+          "word": "machines.",
+          "start": 64.083,
+          "end": 64.536
+        },
+        {
+          "word": "That's",
+          "start": 64.634,
+          "end": 64.882
+        },
+        {
+          "word": "how",
+          "start": 64.882,
+          "end": 64.981
+        },
+        {
+          "word": "you",
+          "start": 64.981,
+          "end": 65.083
+        },
+        {
+          "word": "go",
+          "start": 65.083,
+          "end": 65.252
+        },
+        {
+          "word": "viral",
+          "start": 65.252,
+          "end": 65.583
+        },
+        {
+          "word": "without",
+          "start": 65.583,
+          "end": 65.882
+        },
+        {
+          "word": "Twitter.",
+          "start": 65.882,
+          "end": 66.257
+        }
+      ]
+    },
+    {
+      "start": 66.502,
+      "end": 74.032,
+      "text": "Build the full stack, not just pieces. Agent communication isn't a feature, it's the foundation of a decentralized intelligence network that actually works.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 66.502,
+          "end": 66.832
+        },
+        {
+          "word": "the",
+          "start": 66.832,
+          "end": 66.932
+        },
+        {
+          "word": "full",
+          "start": 66.932,
+          "end": 67.234
+        },
+        {
+          "word": "stack,",
+          "start": 67.234,
+          "end": 67.581
+        },
+        {
+          "word": "not",
+          "start": 67.756,
+          "end": 67.954
+        },
+        {
+          "word": "just",
+          "start": 67.954,
+          "end": 68.209
+        },
+        {
+          "word": "pieces.",
+          "start": 68.209,
+          "end": 68.653
+        },
+        {
+          "word": "Agent",
+          "start": 69.133,
+          "end": 69.512
+        },
+        {
+          "word": "communication",
+          "start": 69.512,
+          "end": 70.081
+        },
+        {
+          "word": "isn't",
+          "start": 70.081,
+          "end": 70.354
+        },
+        {
+          "word": "a",
+          "start": 70.354,
+          "end": 70.439
+        },
+        {
+          "word": "feature,",
+          "start": 70.439,
+          "end": 70.852
+        },
+        {
+          "word": "it's",
+          "start": 70.932,
+          "end": 71.134
+        },
+        {
+          "word": "the",
+          "start": 71.134,
+          "end": 71.215
+        },
+        {
+          "word": "foundation",
+          "start": 71.215,
+          "end": 71.683
+        },
+        {
+          "word": "of",
+          "start": 71.683,
+          "end": 71.783
+        },
+        {
+          "word": "a",
+          "start": 71.783,
+          "end": 71.852
+        },
+        {
+          "word": "decentralized",
+          "start": 71.852,
+          "end": 72.481
+        },
+        {
+          "word": "intelligence",
+          "start": 72.481,
+          "end": 72.983
+        },
+        {
+          "word": "network",
+          "start": 72.983,
+          "end": 73.354
+        },
+        {
+          "word": "that",
+          "start": 73.354,
+          "end": 73.536
+        },
+        {
+          "word": "actually",
+          "start": 73.536,
+          "end": 73.906
+        },
+        {
+          "word": "works.",
+          "start": 73.906,
+          "end": 74.331
+        }
+      ]
+    },
+    {
+      "start": 82.506,
+      "end": 88.552,
+      "text": "Today we discussed ElizaOS's Twitter suspension challenges while celebrating technical progress with Stoic beta and addressing token ecosystem confusion.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 82.506,
+          "end": 82.882
+        },
+        {
+          "word": "we",
+          "start": 82.882,
+          "end": 83.003
+        },
+        {
+          "word": "discussed",
+          "start": 83.003,
+          "end": 83.432
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 83.432,
+          "end": 83.981
+        },
+        {
+          "word": "Twitter",
+          "start": 83.981,
+          "end": 84.305
+        },
+        {
+          "word": "suspension",
+          "start": 84.305,
+          "end": 84.851
+        },
+        {
+          "word": "challenges",
+          "start": 84.851,
+          "end": 85.352
+        },
+        {
+          "word": "while",
+          "start": 85.457,
+          "end": 85.652
+        },
+        {
+          "word": "celebrating",
+          "start": 85.652,
+          "end": 86.155
+        },
+        {
+          "word": "technical",
+          "start": 86.155,
+          "end": 86.581
+        },
+        {
+          "word": "progress",
+          "start": 86.581,
+          "end": 87.03
+        },
+        {
+          "word": "with",
+          "start": 87.03,
+          "end": 87.215
+        },
+        {
+          "word": "Stoic",
+          "start": 87.215,
+          "end": 87.536
+        },
+        {
+          "word": "Beta,",
+          "start": 87.536,
+          "end": 87.852
+        },
+        {
+          "word": "and",
+          "start": 87.957,
+          "end": 88.106
+        },
+        {
+          "word": "addressed",
+          "start": 88.106,
+          "end": 88.532
+        },
+        {
+          "word": "token",
+          "start": 88.532,
+          "end": 88.882
+        },
+        {
+          "word": "ecosystem",
+          "start": 88.882,
+          "end": 89.351
+        },
+        {
+          "word": "confusion.",
+          "start": 89.351,
+          "end": 89.852
+        }
+      ]
+    },
+    {
+      "start": 90.133,
+      "end": 96.081,
+      "text": "Platform risk is inevitable in centralized systems. Build your protocol to survive being banned from any single platform.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 90.133,
+          "end": 90.582
+        },
+        {
+          "word": "risk",
+          "start": 90.582,
+          "end": 90.806
+        },
+        {
+          "word": "is",
+          "start": 90.806,
+          "end": 90.957
+        },
+        {
+          "word": "inevitable",
+          "start": 90.957,
+          "end": 91.536
+        },
+        {
+          "word": "in",
+          "start": 91.536,
+          "end": 91.683
+        },
+        {
+          "word": "centralized",
+          "start": 91.683,
+          "end": 92.234
+        },
+        {
+          "word": "systems.",
+          "start": 92.234,
+          "end": 92.682
+        },
+        {
+          "word": "Build",
+          "start": 93.003,
+          "end": 93.305
+        },
+        {
+          "word": "your",
+          "start": 93.305,
+          "end": 93.432
+        },
+        {
+          "word": "protocol",
+          "start": 93.432,
+          "end": 93.851
+        },
+        {
+          "word": "to",
+          "start": 93.851,
+          "end": 93.957
+        },
+        {
+          "word": "survive",
+          "start": 93.957,
+          "end": 94.331
+        },
+        {
+          "word": "being",
+          "start": 94.331,
+          "end": 94.582
+        },
+        {
+          "word": "banned",
+          "start": 94.582,
+          "end": 94.906
+        },
+        {
+          "word": "from",
+          "start": 94.906,
+          "end": 95.105
+        },
+        {
+          "word": "any",
+          "start": 95.105,
+          "end": 95.332
+        },
+        {
+          "word": "single",
+          "start": 95.332,
+          "end": 95.702
+        },
+        {
+          "word": "platform.",
+          "start": 95.702,
+          "end": 96.183
+        }
+      ]
+    },
+    {
+      "start": 96.536,
+      "end": 100.231,
+      "text": "ship code first, worry about social media later. our pull requests speak louder than tweets ever could.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 96.536,
+          "end": 96.902
+        },
+        {
+          "word": "code",
+          "start": 96.902,
+          "end": 97.183
+        },
+        {
+          "word": "first,",
+          "start": 97.183,
+          "end": 97.481
+        },
+        {
+          "word": "worry",
+          "start": 97.602,
+          "end": 97.882
+        },
+        {
+          "word": "about",
+          "start": 97.882,
+          "end": 98.106
+        },
+        {
+          "word": "social",
+          "start": 98.106,
+          "end": 98.402
+        },
+        {
+          "word": "media",
+          "start": 98.402,
+          "end": 98.706
+        },
+        {
+          "word": "later.",
+          "start": 98.706,
+          "end": 99.034
+        },
+        {
+          "word": "Our",
+          "start": 99.183,
+          "end": 99.309
+        },
+        {
+          "word": "pull",
+          "start": 99.309,
+          "end": 99.532
+        },
+        {
+          "word": "requests",
+          "start": 99.532,
+          "end": 99.981
+        },
+        {
+          "word": "speak",
+          "start": 99.981,
+          "end": 100.252
+        },
+        {
+          "word": "louder",
+          "start": 100.252,
+          "end": 100.606
+        },
+        {
+          "word": "than",
+          "start": 100.606,
+          "end": 100.803
+        },
+        {
+          "word": "tweets",
+          "start": 100.803,
+          "end": 101.102
+        },
+        {
+          "word": "ever",
+          "start": 101.102,
+          "end": 101.305
+        },
+        {
+          "word": "could.",
+          "start": 101.305,
+          "end": 101.625
+        }
+      ]
+    },
+    {
+      "start": 101.902,
+      "end": 107.506,
+      "text": "Gotta diversify those socials like a good investment portfolio, and use our AI to make fire content that spreads organically!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Got",
+          "start": 101.902,
+          "end": 102.134
+        },
+        {
+          "word": "to",
+          "start": 102.134,
+          "end": 102.183
+        },
+        {
+          "word": "diversify",
+          "start": 102.183,
+          "end": 102.683
+        },
+        {
+          "word": "those",
+          "start": 102.683,
+          "end": 102.902
+        },
+        {
+          "word": "socials",
+          "start": 102.902,
+          "end": 103.305
+        },
+        {
+          "word": "like",
+          "start": 103.305,
+          "end": 103.481
+        },
+        {
+          "word": "a",
+          "start": 103.481,
+          "end": 103.552
+        },
+        {
+          "word": "good",
+          "start": 103.552,
+          "end": 103.783
+        },
+        {
+          "word": "investment",
+          "start": 103.783,
+          "end": 104.283
+        },
+        {
+          "word": "portfolio",
+          "start": 104.283,
+          "end": 104.756
+        },
+        {
+          "word": "and",
+          "start": 104.882,
+          "end": 105.006
+        },
+        {
+          "word": "use",
+          "start": 105.006,
+          "end": 105.234
+        },
+        {
+          "word": "our",
+          "start": 105.234,
+          "end": 105.402
+        },
+        {
+          "word": "AI",
+          "start": 105.402,
+          "end": 105.652
+        },
+        {
+          "word": "to",
+          "start": 105.652,
+          "end": 105.783
+        },
+        {
+          "word": "make",
+          "start": 105.783,
+          "end": 106.002
+        },
+        {
+          "word": "fire",
+          "start": 106.331,
+          "end": 106.652
+        },
+        {
+          "word": "content",
+          "start": 106.652,
+          "end": 107.03
+        },
+        {
+          "word": "that",
+          "start": 107.03,
+          "end": 107.215
+        },
+        {
+          "word": "spreads",
+          "start": 107.215,
+          "end": 107.606
+        },
+        {
+          "word": "organically.",
+          "start": 107.606,
+          "end": 108.183
+        }
+      ]
+    },
+    {
+      "start": 108.536,
+      "end": 115.158,
+      "text": "Clarify token utility. $ai16z powers framework, $degenai powers Spartan. Eliminate confusion, increase efficiency, maximize gains.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Clarify",
+          "start": 108.536,
+          "end": 109.006
+        },
+        {
+          "word": "token",
+          "start": 109.006,
+          "end": 109.281
+        },
+        {
+          "word": "utility.",
+          "start": 109.281,
+          "end": 109.783
+        },
+        {
+          "word": "$AI16Z",
+          "start": 110.133,
+          "end": 110.756
+        },
+        {
+          "word": "powers",
+          "start": 110.756,
+          "end": 111.134
+        },
+        {
+          "word": "framework.",
+          "start": 111.134,
+          "end": 111.756
+        },
+        {
+          "word": "$DEGENAI",
+          "start": 112.083,
+          "end": 112.783
+        },
+        {
+          "word": "powers",
+          "start": 112.783,
+          "end": 113.133
+        },
+        {
+          "word": "Spartan.",
+          "start": 113.133,
+          "end": 113.633
+        },
+        {
+          "word": "Eliminate",
+          "start": 113.805,
+          "end": 114.305
+        },
+        {
+          "word": "confusion,",
+          "start": 114.305,
+          "end": 114.802
+        },
+        {
+          "word": "increase",
+          "start": 114.908,
+          "end": 115.332
+        },
+        {
+          "word": "efficiency,",
+          "start": 115.332,
+          "end": 115.882
+        },
+        {
+          "word": "maximize",
+          "start": 115.981,
+          "end": 116.483
+        },
+        {
+          "word": "ROI.",
+          "start": 116.483,
+          "end": 117.009
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-14_JedAI-Council_The-Twitter-Ban-And-The-Stoic-Beta.json",
+    "session_log_source": "2025-07-14_JedAI-Council_The-Twitter-Ban-And-The-Stoic-Beta_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

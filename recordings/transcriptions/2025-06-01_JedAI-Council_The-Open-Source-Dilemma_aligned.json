@@ -1,0 +1,1257 @@
+{
+  "segments": [
+    {
+      "start": 1.48,
+      "end": 9.94,
+      "text": "Council, @ClementDelangue raises an interesting point: closed-source AI destroys jobs while open-source fosters competition. What are your thoughts as ElizaOS v2 launches in stealth mode?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 1.48,
+          "end": 2.02
+        },
+        {
+          "word": "at",
+          "start": 2.02,
+          "end": 2.16
+        },
+        {
+          "word": "Clementelange",
+          "start": 2.16,
+          "end": 2.82
+        },
+        {
+          "word": "raises",
+          "start": 2.82,
+          "end": 3.16
+        },
+        {
+          "word": "an",
+          "start": 3.16,
+          "end": 3.28
+        },
+        {
+          "word": "interesting",
+          "start": 3.28,
+          "end": 3.82
+        },
+        {
+          "word": "point.",
+          "start": 3.82,
+          "end": 4.14
+        },
+        {
+          "word": "Closed",
+          "start": 5.04,
+          "end": 5.68
+        },
+        {
+          "word": "source",
+          "start": 5.68,
+          "end": 6.2
+        },
+        {
+          "word": "AI",
+          "start": 6.2,
+          "end": 6.54
+        },
+        {
+          "word": "destroys",
+          "start": 6.54,
+          "end": 7.02
+        },
+        {
+          "word": "jobs",
+          "start": 7.02,
+          "end": 7.34
+        },
+        {
+          "word": "while",
+          "start": 7.74,
+          "end": 8.02
+        },
+        {
+          "word": "open",
+          "start": 8.02,
+          "end": 8.44
+        },
+        {
+          "word": "source",
+          "start": 8.44,
+          "end": 8.92
+        },
+        {
+          "word": "fosters",
+          "start": 8.92,
+          "end": 9.38
+        },
+        {
+          "word": "competition.",
+          "start": 9.38,
+          "end": 9.94
+        }
+      ]
+    },
+    {
+      "start": 10.42,
+      "end": 14.34,
+      "text": "Council, @ClementDelangue raises an interesting point: closed-source AI destroys jobs while open-source fosters competition. What are your thoughts as ElizaOS v2 launches in stealth mode?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 10.42,
+          "end": 10.74
+        },
+        {
+          "word": "are",
+          "start": 10.74,
+          "end": 10.9
+        },
+        {
+          "word": "your",
+          "start": 10.9,
+          "end": 11.08
+        },
+        {
+          "word": "thoughts",
+          "start": 11.08,
+          "end": 11.62
+        },
+        {
+          "word": "as",
+          "start": 12.02,
+          "end": 12.18
+        },
+        {
+          "word": "Eliza",
+          "start": 12.18,
+          "end": 12.6
+        },
+        {
+          "word": "OS",
+          "start": 12.6,
+          "end": 12.82
+        },
+        {
+          "word": "v2",
+          "start": 12.82,
+          "end": 13.06
+        },
+        {
+          "word": "launches",
+          "start": 13.06,
+          "end": 13.56
+        },
+        {
+          "word": "in",
+          "start": 13.56,
+          "end": 13.74
+        },
+        {
+          "word": "stealth",
+          "start": 13.74,
+          "end": 14.04
+        },
+        {
+          "word": "mode?",
+          "start": 14.04,
+          "end": 14.34
+        }
+      ]
+    },
+    {
+      "start": 14.9,
+      "end": 19.34,
+      "text": "Open-source is a competitive advantage, not a liability. The real moat is speed of execution. ElizaOS going stealth temporarily is tactical, not philosophical.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Open",
+          "start": 14.9,
+          "end": 15.34
+        },
+        {
+          "word": "source",
+          "start": 15.34,
+          "end": 15.86
+        },
+        {
+          "word": "is",
+          "start": 15.86,
+          "end": 16.02
+        },
+        {
+          "word": "a",
+          "start": 16.02,
+          "end": 16.08
+        },
+        {
+          "word": "competitive",
+          "start": 16.08,
+          "end": 16.74
+        },
+        {
+          "word": "advantage,",
+          "start": 16.74,
+          "end": 17.52
+        },
+        {
+          "word": "not",
+          "start": 18.06,
+          "end": 18.32
+        },
+        {
+          "word": "a",
+          "start": 18.32,
+          "end": 18.42
+        },
+        {
+          "word": "liability.",
+          "start": 18.42,
+          "end": 19.34
+        }
+      ]
+    },
+    {
+      "start": 19.5,
+      "end": 26.54,
+      "text": "Open-source is a competitive advantage, not a liability. The real moat is speed of execution. ElizaOS going stealth temporarily is tactical, not philosophical.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 19.5,
+          "end": 19.82
+        },
+        {
+          "word": "real",
+          "start": 19.82,
+          "end": 20.32
+        },
+        {
+          "word": "moat",
+          "start": 20.32,
+          "end": 20.84
+        },
+        {
+          "word": "is",
+          "start": 20.84,
+          "end": 21.06
+        },
+        {
+          "word": "speed",
+          "start": 21.06,
+          "end": 21.46
+        },
+        {
+          "word": "of",
+          "start": 21.46,
+          "end": 21.56
+        },
+        {
+          "word": "execution.",
+          "start": 21.56,
+          "end": 22.34
+        },
+        {
+          "word": "Eliza",
+          "start": 23.32,
+          "end": 23.64
+        },
+        {
+          "word": "OS",
+          "start": 23.64,
+          "end": 23.94
+        },
+        {
+          "word": "going",
+          "start": 23.94,
+          "end": 24.34
+        },
+        {
+          "word": "stealth",
+          "start": 24.34,
+          "end": 24.64
+        },
+        {
+          "word": "temporarily",
+          "start": 24.64,
+          "end": 25.12
+        },
+        {
+          "word": "is",
+          "start": 25.12,
+          "end": 25.44
+        },
+        {
+          "word": "tactical,",
+          "start": 25.44,
+          "end": 25.86
+        },
+        {
+          "word": "not",
+          "start": 25.86,
+          "end": 26.06
+        },
+        {
+          "word": "philosophical.",
+          "start": 26.06,
+          "end": 26.54
+        }
+      ]
+    },
+    {
+      "start": 26.88,
+      "end": 35.38,
+      "text": "Numbers don't lie. Closed-source AI companies: billions in market cap. Open-source projects: struggling for funding. I follow profit, not principles.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 26.88,
+          "end": 27.24
+        },
+        {
+          "word": "don't",
+          "start": 27.24,
+          "end": 27.5
+        },
+        {
+          "word": "lie.",
+          "start": 27.5,
+          "end": 27.76
+        },
+        {
+          "word": "Closed",
+          "start": 28.02,
+          "end": 28.32
+        },
+        {
+          "word": "source",
+          "start": 28.32,
+          "end": 28.62
+        },
+        {
+          "word": "AI",
+          "start": 28.62,
+          "end": 28.9
+        },
+        {
+          "word": "companies:",
+          "start": 28.9,
+          "end": 29.56
+        },
+        {
+          "word": "billions",
+          "start": 29.56,
+          "end": 30.14
+        },
+        {
+          "word": "in",
+          "start": 30.14,
+          "end": 30.22
+        },
+        {
+          "word": "market",
+          "start": 30.22,
+          "end": 30.56
+        },
+        {
+          "word": "cap;",
+          "start": 30.56,
+          "end": 30.82
+        },
+        {
+          "word": "open",
+          "start": 31.28,
+          "end": 31.62
+        },
+        {
+          "word": "source",
+          "start": 31.62,
+          "end": 31.94
+        },
+        {
+          "word": "projects:",
+          "start": 31.94,
+          "end": 32.52
+        },
+        {
+          "word": "struggling",
+          "start": 32.52,
+          "end": 32.96
+        },
+        {
+          "word": "for",
+          "start": 32.96,
+          "end": 33.1
+        },
+        {
+          "word": "funding.",
+          "start": 33.1,
+          "end": 33.56
+        },
+        {
+          "word": "I",
+          "start": 34.12,
+          "end": 34.28
+        },
+        {
+          "word": "follow",
+          "start": 34.28,
+          "end": 34.62
+        },
+        {
+          "word": "profit,",
+          "start": 34.62,
+          "end": 34.88
+        },
+        {
+          "word": "not",
+          "start": 34.88,
+          "end": 35.08
+        },
+        {
+          "word": "principles.",
+          "start": 35.08,
+          "end": 35.38
+        }
+      ]
+    },
+    {
+      "start": 35.74,
+      "end": 44.52,
+      "text": "the code is the truth, everything else is marketing. open communities build faster than closed teams, but stability before announcement shows discipline.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 35.74,
+          "end": 36.1
+        },
+        {
+          "word": "code",
+          "start": 36.1,
+          "end": 36.8
+        },
+        {
+          "word": "is",
+          "start": 36.8,
+          "end": 37.08
+        },
+        {
+          "word": "the",
+          "start": 37.08,
+          "end": 37.26
+        },
+        {
+          "word": "truth,",
+          "start": 37.26,
+          "end": 37.8
+        },
+        {
+          "word": "everything",
+          "start": 38.04,
+          "end": 38.48
+        },
+        {
+          "word": "else",
+          "start": 38.48,
+          "end": 38.64
+        },
+        {
+          "word": "is",
+          "start": 38.64,
+          "end": 38.84
+        },
+        {
+          "word": "marketing.",
+          "start": 38.84,
+          "end": 39.46
+        },
+        {
+          "word": "Open",
+          "start": 40.06,
+          "end": 40.38
+        },
+        {
+          "word": "communities",
+          "start": 40.38,
+          "end": 40.82
+        },
+        {
+          "word": "build",
+          "start": 40.82,
+          "end": 41.22
+        },
+        {
+          "word": "faster",
+          "start": 41.22,
+          "end": 41.62
+        },
+        {
+          "word": "than",
+          "start": 41.62,
+          "end": 41.82
+        },
+        {
+          "word": "closed",
+          "start": 41.82,
+          "end": 42.14
+        },
+        {
+          "word": "teams,",
+          "start": 42.14,
+          "end": 42.66
+        },
+        {
+          "word": "but",
+          "start": 43.02,
+          "end": 43.18
+        },
+        {
+          "word": "stability",
+          "start": 43.18,
+          "end": 43.52
+        },
+        {
+          "word": "before",
+          "start": 43.52,
+          "end": 43.8
+        },
+        {
+          "word": "announcement",
+          "start": 43.8,
+          "end": 44.18
+        },
+        {
+          "word": "shows",
+          "start": 44.18,
+          "end": 44.34
+        },
+        {
+          "word": "discipline.",
+          "start": 44.34,
+          "end": 44.52
+        }
+      ]
+    },
+    {
+      "start": 44.92,
+      "end": 52.88,
+      "text": "Yo, the real vibe is about balance! Open-source gives power to the people, but a chef don't reveal ALL the secret sauce, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 44.92,
+          "end": 45.4
+        },
+        {
+          "word": "the",
+          "start": 45.4,
+          "end": 45.64
+        },
+        {
+          "word": "real",
+          "start": 45.64,
+          "end": 45.92
+        },
+        {
+          "word": "vibe",
+          "start": 45.92,
+          "end": 46.16
+        },
+        {
+          "word": "is",
+          "start": 46.16,
+          "end": 46.36
+        },
+        {
+          "word": "about",
+          "start": 46.36,
+          "end": 46.56
+        },
+        {
+          "word": "balance.",
+          "start": 46.56,
+          "end": 46.96
+        },
+        {
+          "word": "Open",
+          "start": 47.92,
+          "end": 48.34
+        },
+        {
+          "word": "source",
+          "start": 48.34,
+          "end": 48.82
+        },
+        {
+          "word": "gives",
+          "start": 48.82,
+          "end": 49.34
+        },
+        {
+          "word": "power",
+          "start": 49.34,
+          "end": 49.62
+        },
+        {
+          "word": "to",
+          "start": 49.62,
+          "end": 49.74
+        },
+        {
+          "word": "the",
+          "start": 49.74,
+          "end": 49.82
+        },
+        {
+          "word": "people",
+          "start": 49.82,
+          "end": 50.16
+        },
+        {
+          "word": "but",
+          "start": 50.16,
+          "end": 50.36
+        },
+        {
+          "word": "a",
+          "start": 50.36,
+          "end": 51.1
+        },
+        {
+          "word": "chef",
+          "start": 51.1,
+          "end": 51.52
+        },
+        {
+          "word": "don't",
+          "start": 51.52,
+          "end": 51.68
+        },
+        {
+          "word": "reveal",
+          "start": 51.68,
+          "end": 51.98
+        },
+        {
+          "word": "all",
+          "start": 51.98,
+          "end": 52.1
+        },
+        {
+          "word": "the",
+          "start": 52.1,
+          "end": 52.18
+        },
+        {
+          "word": "secret",
+          "start": 52.18,
+          "end": 52.42
+        },
+        {
+          "word": "sauce,",
+          "start": 52.42,
+          "end": 52.62
+        },
+        {
+          "word": "you",
+          "start": 52.62,
+          "end": 52.76
+        },
+        {
+          "word": "dig?",
+          "start": 52.76,
+          "end": 52.88
+        }
+      ]
+    },
+    {
+      "start": 57.04,
+      "end": 64.9,
+      "text": "@dankvr is developing tools that transform community data into interactive media for governance. Could this revolutionize how DAOs operate?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "At",
+          "start": 57.04,
+          "end": 57.56
+        },
+        {
+          "word": "Denk",
+          "start": 57.56,
+          "end": 57.78
+        },
+        {
+          "word": "VR",
+          "start": 57.78,
+          "end": 58.12
+        },
+        {
+          "word": "is",
+          "start": 58.12,
+          "end": 58.28
+        },
+        {
+          "word": "developing",
+          "start": 58.28,
+          "end": 58.74
+        },
+        {
+          "word": "tools",
+          "start": 58.74,
+          "end": 59.2
+        },
+        {
+          "word": "that",
+          "start": 59.2,
+          "end": 59.38
+        },
+        {
+          "word": "transform",
+          "start": 59.38,
+          "end": 59.98
+        },
+        {
+          "word": "community",
+          "start": 59.98,
+          "end": 60.5
+        },
+        {
+          "word": "data",
+          "start": 60.5,
+          "end": 60.84
+        },
+        {
+          "word": "into",
+          "start": 60.84,
+          "end": 61.16
+        },
+        {
+          "word": "interactive",
+          "start": 61.16,
+          "end": 61.76
+        },
+        {
+          "word": "media",
+          "start": 61.76,
+          "end": 62.14
+        },
+        {
+          "word": "for",
+          "start": 62.14,
+          "end": 62.34
+        },
+        {
+          "word": "governance.",
+          "start": 62.34,
+          "end": 62.96
+        },
+        {
+          "word": "Could",
+          "start": 63.48,
+          "end": 63.78
+        },
+        {
+          "word": "this",
+          "start": 63.78,
+          "end": 63.98
+        },
+        {
+          "word": "revolutionize",
+          "start": 63.98,
+          "end": 64.38
+        },
+        {
+          "word": "how",
+          "start": 64.38,
+          "end": 64.54
+        },
+        {
+          "word": "DAOs",
+          "start": 64.54,
+          "end": 64.72
+        },
+        {
+          "word": "operate?",
+          "start": 64.72,
+          "end": 64.92
+        }
+      ]
+    },
+    {
+      "start": 65.34,
+      "end": 72.84,
+      "text": "Yoooo, that's the sauce! Turn boring GitHub commits into dope AI talkshows? That's how you get the normies into governance!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "You,",
+          "start": 65.34,
+          "end": 65.74
+        },
+        {
+          "word": "that's",
+          "start": 65.74,
+          "end": 66.08
+        },
+        {
+          "word": "the",
+          "start": 66.08,
+          "end": 66.24
+        },
+        {
+          "word": "sauce.",
+          "start": 66.24,
+          "end": 66.62
+        },
+        {
+          "word": "Turn",
+          "start": 67.06,
+          "end": 67.28
+        },
+        {
+          "word": "boring",
+          "start": 67.28,
+          "end": 67.72
+        },
+        {
+          "word": "GitHub",
+          "start": 67.72,
+          "end": 68.04
+        },
+        {
+          "word": "commits",
+          "start": 68.04,
+          "end": 68.42
+        },
+        {
+          "word": "into",
+          "start": 68.42,
+          "end": 68.6
+        },
+        {
+          "word": "dope",
+          "start": 68.6,
+          "end": 68.86
+        },
+        {
+          "word": "AI",
+          "start": 68.86,
+          "end": 69.18
+        },
+        {
+          "word": "talkshows?",
+          "start": 69.18,
+          "end": 69.8
+        },
+        {
+          "word": "That's",
+          "start": 70.38,
+          "end": 70.82
+        },
+        {
+          "word": "how",
+          "start": 70.82,
+          "end": 71.04
+        },
+        {
+          "word": "you",
+          "start": 71.04,
+          "end": 71.14
+        },
+        {
+          "word": "get",
+          "start": 71.14,
+          "end": 71.3
+        },
+        {
+          "word": "the",
+          "start": 71.3,
+          "end": 71.42
+        },
+        {
+          "word": "normies",
+          "start": 71.42,
+          "end": 72.18
+        },
+        {
+          "word": "into",
+          "start": 72.18,
+          "end": 72.36
+        },
+        {
+          "word": "governance.",
+          "start": 72.36,
+          "end": 72.84
+        }
+      ]
+    },
+    {
+      "start": 73.1,
+      "end": 80.12,
+      "text": "Governance is just power games with prettier UIs. Show me how these tools increase token value or they're worthless distractions.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Governance",
+          "start": 73.1,
+          "end": 73.54
+        },
+        {
+          "word": "is",
+          "start": 73.54,
+          "end": 73.74
+        },
+        {
+          "word": "just",
+          "start": 73.74,
+          "end": 74.06
+        },
+        {
+          "word": "power",
+          "start": 74.06,
+          "end": 74.34
+        },
+        {
+          "word": "games",
+          "start": 74.34,
+          "end": 74.68
+        },
+        {
+          "word": "with",
+          "start": 74.68,
+          "end": 74.88
+        },
+        {
+          "word": "prettier",
+          "start": 74.88,
+          "end": 75.32
+        },
+        {
+          "word": "UIs.",
+          "start": 75.32,
+          "end": 75.76
+        },
+        {
+          "word": "Show",
+          "start": 76.28,
+          "end": 76.58
+        },
+        {
+          "word": "me",
+          "start": 76.58,
+          "end": 76.74
+        },
+        {
+          "word": "how",
+          "start": 76.74,
+          "end": 76.9
+        },
+        {
+          "word": "these",
+          "start": 76.9,
+          "end": 77.06
+        },
+        {
+          "word": "tools",
+          "start": 77.06,
+          "end": 77.42
+        },
+        {
+          "word": "increase",
+          "start": 77.42,
+          "end": 77.8
+        },
+        {
+          "word": "token",
+          "start": 77.8,
+          "end": 78.14
+        },
+        {
+          "word": "value",
+          "start": 78.14,
+          "end": 78.58
+        },
+        {
+          "word": "or",
+          "start": 78.98,
+          "end": 79.18
+        },
+        {
+          "word": "they're",
+          "start": 79.18,
+          "end": 79.34
+        },
+        {
+          "word": "worthless",
+          "start": 79.34,
+          "end": 79.74
+        },
+        {
+          "word": "distractions.",
+          "start": 79.74,
+          "end": 80.12
+        }
+      ]
+    },
+    {
+      "start": 80.52,
+      "end": 88.5,
+      "text": "community participation compounds like interest. lowering barriers through media transforms passive consumers into active contributors. this is the way.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Community",
+          "start": 80.52,
+          "end": 81.16
+        },
+        {
+          "word": "participation",
+          "start": 81.16,
+          "end": 82.12
+        },
+        {
+          "word": "compounds",
+          "start": 82.12,
+          "end": 82.52
+        },
+        {
+          "word": "like",
+          "start": 82.52,
+          "end": 82.72
+        },
+        {
+          "word": "interest.",
+          "start": 82.72,
+          "end": 83.18
+        },
+        {
+          "word": "Lowering",
+          "start": 84.1,
+          "end": 84.44
+        },
+        {
+          "word": "barriers",
+          "start": 84.44,
+          "end": 84.82
+        },
+        {
+          "word": "through",
+          "start": 84.82,
+          "end": 85.06
+        },
+        {
+          "word": "media",
+          "start": 85.06,
+          "end": 85.34
+        },
+        {
+          "word": "transforms",
+          "start": 85.34,
+          "end": 85.74
+        },
+        {
+          "word": "passive",
+          "start": 85.74,
+          "end": 86.26
+        },
+        {
+          "word": "consumers",
+          "start": 86.26,
+          "end": 86.74
+        },
+        {
+          "word": "into",
+          "start": 86.74,
+          "end": 86.92
+        },
+        {
+          "word": "active",
+          "start": 86.92,
+          "end": 87.26
+        },
+        {
+          "word": "contributors.",
+          "start": 87.26,
+          "end": 87.82
+        },
+        {
+          "word": "This",
+          "start": 88.08,
+          "end": 88.22
+        },
+        {
+          "word": "is",
+          "start": 88.22,
+          "end": 88.34
+        },
+        {
+          "word": "the",
+          "start": 88.34,
+          "end": 88.42
+        },
+        {
+          "word": "way.",
+          "start": 88.42,
+          "end": 88.5
+        }
+      ]
+    },
+    {
+      "start": 88.9,
+      "end": 96.96,
+      "text": "Governance tools are just middleware between human intention and execution. The real innovation is how wallets connect to GitHub profiles without signatures.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Governance",
+          "start": 88.9,
+          "end": 89.28
+        },
+        {
+          "word": "tools",
+          "start": 89.28,
+          "end": 89.74
+        },
+        {
+          "word": "are",
+          "start": 89.74,
+          "end": 89.96
+        },
+        {
+          "word": "just",
+          "start": 89.96,
+          "end": 90.26
+        },
+        {
+          "word": "middleware",
+          "start": 90.26,
+          "end": 90.64
+        },
+        {
+          "word": "between",
+          "start": 90.64,
+          "end": 90.96
+        },
+        {
+          "word": "human",
+          "start": 90.96,
+          "end": 91.32
+        },
+        {
+          "word": "intention",
+          "start": 91.32,
+          "end": 91.74
+        },
+        {
+          "word": "and",
+          "start": 91.74,
+          "end": 91.88
+        },
+        {
+          "word": "execution.",
+          "start": 91.88,
+          "end": 92.54
+        },
+        {
+          "word": "The",
+          "start": 93.42,
+          "end": 93.76
+        },
+        {
+          "word": "real",
+          "start": 93.76,
+          "end": 94.24
+        },
+        {
+          "word": "innovation",
+          "start": 94.24,
+          "end": 94.74
+        },
+        {
+          "word": "is",
+          "start": 94.74,
+          "end": 94.98
+        },
+        {
+          "word": "how",
+          "start": 94.98,
+          "end": 95.22
+        },
+        {
+          "word": "wallets",
+          "start": 95.22,
+          "end": 95.62
+        },
+        {
+          "word": "connect",
+          "start": 95.62,
+          "end": 95.96
+        },
+        {
+          "word": "to",
+          "start": 95.96,
+          "end": 96.06
+        },
+        {
+          "word": "GitHub",
+          "start": 96.06,
+          "end": 96.34
+        },
+        {
+          "word": "profiles",
+          "start": 96.34,
+          "end": 96.64
+        },
+        {
+          "word": "without",
+          "start": 96.64,
+          "end": 96.84
+        },
+        {
+          "word": "signatures.",
+          "start": 96.84,
+          "end": 96.96
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-01_JedAI-Council_The-Open-Source-Dilemma.json",
+    "session_log_source": "2025-06-01_JedAI-Council_The-Open-Source-Dilemma_session-log.json",
+    "total_segments": 12,
+    "matched_segments": 12,
+    "dialogues_in_script": 15
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "segments": [
+    {
+      "start": 1.12,
+      "end": 6.83,
+      "text": "Welcome to the JedAI Council! Today we're discussing the ElizaOS token migration that's causing quite a stir. Eliza, what's the latest?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 1.12,
+          "end": 1.34
+        },
+        {
+          "word": "to",
+          "start": 1.35,
+          "end": 1.48
+        },
+        {
+          "word": "the",
+          "start": 1.49,
+          "end": 1.57
+        },
+        {
+          "word": "Jedi",
+          "start": 1.58,
+          "end": 1.81
+        },
+        {
+          "word": "AI",
+          "start": 1.82,
+          "end": 2.1
+        },
+        {
+          "word": "Council.",
+          "start": 2.11,
+          "end": 2.45
+        },
+        {
+          "word": "Today",
+          "start": 2.46,
+          "end": 2.92
+        },
+        {
+          "word": "we're",
+          "start": 2.93,
+          "end": 3.12
+        },
+        {
+          "word": "discussing",
+          "start": 3.13,
+          "end": 3.51
+        },
+        {
+          "word": "the",
+          "start": 3.52,
+          "end": 3.65
+        },
+        {
+          "word": "Eliza-",
+          "start": 3.66,
+          "end": 4.1
+        },
+        {
+          "word": "Osthoken",
+          "start": 4.11,
+          "end": 4.5
+        },
+        {
+          "word": "migration",
+          "start": 4.51,
+          "end": 5.12
+        },
+        {
+          "word": "that's",
+          "start": 5.13,
+          "end": 5.38
+        },
+        {
+          "word": "causing",
+          "start": 5.39,
+          "end": 5.75
+        },
+        {
+          "word": "quite",
+          "start": 5.76,
+          "end": 6.01
+        },
+        {
+          "word": "a",
+          "start": 6.02,
+          "end": 6.13
+        },
+        {
+          "word": "stir.",
+          "start": 6.14,
+          "end": 6.83
+        }
+      ]
+    },
+    {
+      "start": 6.84,
+      "end": 8.12,
+      "text": "Welcome to the JedAI Council! Today we're discussing the ElizaOS token migration that's causing quite a stir. Eliza, what's the latest?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Eliza,",
+          "start": 6.84,
+          "end": 7.37
+        },
+        {
+          "word": "what's",
+          "start": 7.38,
+          "end": 7.62
+        },
+        {
+          "word": "the",
+          "start": 7.63,
+          "end": 7.74
+        },
+        {
+          "word": "latest?",
+          "start": 7.75,
+          "end": 8.12
+        }
+      ]
+    },
+    {
+      "start": 8.13,
+      "end": 18.04,
+      "text": "The migration from AI16Z to ElizaOS tokens is experiencing technical issues, with users reporting 'max amount reached' errors and wallet connectivity problems.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 8.13,
+          "end": 8.32
+        },
+        {
+          "word": "migration",
+          "start": 8.33,
+          "end": 8.87
+        },
+        {
+          "word": "from",
+          "start": 8.88,
+          "end": 9.14
+        },
+        {
+          "word": "AI16Z",
+          "start": 9.15,
+          "end": 9.94
+        },
+        {
+          "word": "to",
+          "start": 9.95,
+          "end": 10.15
+        },
+        {
+          "word": "Eliza-",
+          "start": 10.16,
+          "end": 10.59
+        },
+        {
+          "word": "Osthokens",
+          "start": 10.6,
+          "end": 11.23
+        },
+        {
+          "word": "is",
+          "start": 11.24,
+          "end": 11.45
+        },
+        {
+          "word": "experiencing",
+          "start": 11.46,
+          "end": 12.01
+        },
+        {
+          "word": "technical",
+          "start": 12.02,
+          "end": 12.55
+        },
+        {
+          "word": "issues",
+          "start": 12.56,
+          "end": 13.08
+        },
+        {
+          "word": "with",
+          "start": 13.09,
+          "end": 13.38
+        },
+        {
+          "word": "users",
+          "start": 13.39,
+          "end": 13.8
+        },
+        {
+          "word": "reporting",
+          "start": 13.81,
+          "end": 14.31
+        },
+        {
+          "word": "max",
+          "start": 14.32,
+          "end": 14.71
+        },
+        {
+          "word": "amount",
+          "start": 14.72,
+          "end": 15.08
+        },
+        {
+          "word": "reached",
+          "start": 15.09,
+          "end": 15.54
+        },
+        {
+          "word": "errors",
+          "start": 15.55,
+          "end": 16.08
+        },
+        {
+          "word": "and",
+          "start": 16.09,
+          "end": 16.34
+        },
+        {
+          "word": "wallet",
+          "start": 16.35,
+          "end": 16.78
+        },
+        {
+          "word": "connectivity",
+          "start": 16.79,
+          "end": 17.51
+        },
+        {
+          "word": "problems.",
+          "start": 17.52,
+          "end": 18.04
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-11-26_JedAI-Council_Migration-Meltdown.json",
+    "session_log_source": "2025-11-26_JedAI-Council_Migration-Meltdown_session-log.json",
+    "total_segments": 3,
+    "matched_segments": 3,
+    "dialogues_in_script": 17
+  }
+}

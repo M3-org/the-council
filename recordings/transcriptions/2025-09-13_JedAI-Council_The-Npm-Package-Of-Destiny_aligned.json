@@ -1,0 +1,327 @@
+{
+  "segments": [
+    {
+      "start": 12.01,
+      "end": 15.65,
+      "text": "The elizaOS team has been debating how to structure their NPM package management. Shaw and CJFT discussed whether 'elizaos' should be part of core or CLI components.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 12.01,
+          "end": 12.15
+        },
+        {
+          "word": "ALIZAS",
+          "start": 12.15,
+          "end": 12.52
+        },
+        {
+          "word": "team",
+          "start": 12.52,
+          "end": 12.83
+        },
+        {
+          "word": "has",
+          "start": 12.83,
+          "end": 12.97
+        },
+        {
+          "word": "been",
+          "start": 12.97,
+          "end": 13.15
+        },
+        {
+          "word": "debating",
+          "start": 13.15,
+          "end": 13.58
+        },
+        {
+          "word": "how",
+          "start": 13.58,
+          "end": 13.75
+        },
+        {
+          "word": "to",
+          "start": 13.75,
+          "end": 13.88
+        },
+        {
+          "word": "structure",
+          "start": 13.88,
+          "end": 14.33
+        },
+        {
+          "word": "their",
+          "start": 14.33,
+          "end": 14.51
+        },
+        {
+          "word": "NPM",
+          "start": 14.51,
+          "end": 14.89
+        },
+        {
+          "word": "package",
+          "start": 14.89,
+          "end": 15.22
+        },
+        {
+          "word": "management.",
+          "start": 15.22,
+          "end": 15.65
+        }
+      ]
+    },
+    {
+      "start": 15.65,
+      "end": 20.37,
+      "text": "The elizaOS team has been debating how to structure their NPM package management. Shaw and CJFT discussed whether 'elizaos' should be part of core or CLI components.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 15.65,
+          "end": 15.93
+        },
+        {
+          "word": "and",
+          "start": 15.93,
+          "end": 16.09
+        },
+        {
+          "word": "CJF",
+          "start": 16.09,
+          "end": 16.53
+        },
+        {
+          "word": "discussed",
+          "start": 16.53,
+          "end": 17.15
+        },
+        {
+          "word": "whether",
+          "start": 17.15,
+          "end": 17.47
+        },
+        {
+          "word": "Alizeos",
+          "start": 17.47,
+          "end": 18.25
+        },
+        {
+          "word": "should",
+          "start": 18.25,
+          "end": 18.52
+        },
+        {
+          "word": "be",
+          "start": 18.52,
+          "end": 18.72
+        },
+        {
+          "word": "part",
+          "start": 18.72,
+          "end": 19.01
+        },
+        {
+          "word": "of",
+          "start": 19.01,
+          "end": 19.17
+        },
+        {
+          "word": "core",
+          "start": 19.17,
+          "end": 19.51
+        },
+        {
+          "word": "or",
+          "start": 19.51,
+          "end": 19.66
+        },
+        {
+          "word": "CLI",
+          "start": 19.66,
+          "end": 20.03
+        },
+        {
+          "word": "components.",
+          "start": 20.03,
+          "end": 20.37
+        }
+      ]
+    },
+    {
+      "start": 20.37,
+      "end": 22.84,
+      "text": "centralization of package management is a security risk. we need to regenerate npm tokens and transfer the package to the org, but maintain it as a cli alias.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Centralization",
+          "start": 20.37,
+          "end": 21.05
+        },
+        {
+          "word": "of",
+          "start": 21.05,
+          "end": 21.2
+        },
+        {
+          "word": "package",
+          "start": 21.2,
+          "end": 21.43
+        },
+        {
+          "word": "management",
+          "start": 21.43,
+          "end": 21.82
+        },
+        {
+          "word": "is",
+          "start": 21.82,
+          "end": 22.06
+        },
+        {
+          "word": "a",
+          "start": 22.06,
+          "end": 22.18
+        },
+        {
+          "word": "security",
+          "start": 22.18,
+          "end": 22.48
+        },
+        {
+          "word": "risk.",
+          "start": 22.48,
+          "end": 22.84
+        }
+      ]
+    },
+    {
+      "start": 22.84,
+      "end": 28.1,
+      "text": "centralization of package management is a security risk. we need to regenerate npm tokens and transfer the package to the org, but maintain it as a cli alias.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 22.84,
+          "end": 23.01
+        },
+        {
+          "word": "need",
+          "start": 23.01,
+          "end": 23.19
+        },
+        {
+          "word": "to",
+          "start": 23.19,
+          "end": 23.33
+        },
+        {
+          "word": "regenerate",
+          "start": 23.33,
+          "end": 23.77
+        },
+        {
+          "word": "NPM",
+          "start": 23.77,
+          "end": 24.12
+        },
+        {
+          "word": "tokens",
+          "start": 24.12,
+          "end": 24.51
+        },
+        {
+          "word": "and",
+          "start": 24.51,
+          "end": 24.69
+        },
+        {
+          "word": "transfer",
+          "start": 24.69,
+          "end": 25.12
+        },
+        {
+          "word": "the",
+          "start": 25.12,
+          "end": 25.32
+        },
+        {
+          "word": "package",
+          "start": 25.32,
+          "end": 25.68
+        },
+        {
+          "word": "to",
+          "start": 25.68,
+          "end": 25.86
+        },
+        {
+          "word": "the",
+          "start": 25.86,
+          "end": 26.04
+        },
+        {
+          "word": "org,",
+          "start": 26.04,
+          "end": 26.33
+        },
+        {
+          "word": "but",
+          "start": 26.51,
+          "end": 26.75
+        },
+        {
+          "word": "maintain",
+          "start": 26.75,
+          "end": 27.22
+        },
+        {
+          "word": "it",
+          "start": 27.22,
+          "end": 27.42
+        },
+        {
+          "word": "as",
+          "start": 27.42,
+          "end": 27.56
+        },
+        {
+          "word": "a",
+          "start": 27.56,
+          "end": 27.67
+        },
+        {
+          "word": "CLI",
+          "start": 27.67,
+          "end": 27.91
+        },
+        {
+          "word": "alias.",
+          "start": 27.91,
+          "end": 28.1
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-13_JedAI-Council_The-Npm-Package-Of-Destiny.json",
+    "session_log_source": "2025-09-13_JedAI-Council_The-Npm-Package-Of-Destiny_session-log.json",
+    "total_segments": 4,
+    "matched_segments": 4,
+    "dialogues_in_script": 15
+  }
+}

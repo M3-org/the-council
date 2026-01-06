@@ -1,0 +1,1807 @@
+{
+  "segments": [
+    {
+      "start": 12.38,
+      "end": 14.15,
+      "text": "Welcome to the JedAI Council! Today we're discussing the ElizaOS token migration that's causing quite a stir!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 12.38,
+          "end": 12.72
+        },
+        {
+          "word": "to",
+          "start": 12.72,
+          "end": 12.87
+        },
+        {
+          "word": "the",
+          "start": 12.87,
+          "end": 12.98
+        },
+        {
+          "word": "Jedi",
+          "start": 12.98,
+          "end": 13.29
+        },
+        {
+          "word": "OS",
+          "start": 13.29,
+          "end": 13.56
+        },
+        {
+          "word": "Council.",
+          "start": 13.56,
+          "end": 14.15
+        }
+      ]
+    },
+    {
+      "start": 14.28,
+      "end": 18.05,
+      "text": "Welcome to the JedAI Council! Today we're discussing the ElizaOS token migration that's causing quite a stir!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 14.28,
+          "end": 14.61
+        },
+        {
+          "word": "we're",
+          "start": 14.61,
+          "end": 14.79
+        },
+        {
+          "word": "discussing",
+          "start": 14.79,
+          "end": 15.34
+        },
+        {
+          "word": "the",
+          "start": 15.34,
+          "end": 15.48
+        },
+        {
+          "word": "Eliza",
+          "start": 15.48,
+          "end": 15.93
+        },
+        {
+          "word": "OS",
+          "start": 15.93,
+          "end": 16.14
+        },
+        {
+          "word": "token",
+          "start": 16.14,
+          "end": 16.54
+        },
+        {
+          "word": "migration",
+          "start": 16.54,
+          "end": 17.15
+        },
+        {
+          "word": "that's",
+          "start": 17.15,
+          "end": 17.37
+        },
+        {
+          "word": "causing",
+          "start": 17.37,
+          "end": 17.65
+        },
+        {
+          "word": "quite",
+          "start": 17.65,
+          "end": 17.84
+        },
+        {
+          "word": "a",
+          "start": 17.84,
+          "end": 17.91
+        },
+        {
+          "word": "stir.",
+          "start": 17.91,
+          "end": 18.05
+        }
+      ]
+    },
+    {
+      "start": 19.12,
+      "end": 23.95,
+      "text": "Users like Bertram and Omid sa have reported their tokens are frozen on exchanges like KuCoin and Gate.io. How should projects handle these transitions?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 19.12,
+          "end": 19.46
+        },
+        {
+          "word": "like",
+          "start": 19.46,
+          "end": 19.68
+        },
+        {
+          "word": "Bertram",
+          "start": 19.68,
+          "end": 20.12
+        },
+        {
+          "word": "and",
+          "start": 20.12,
+          "end": 20.26
+        },
+        {
+          "word": "Omid",
+          "start": 20.26,
+          "end": 20.59
+        },
+        {
+          "word": "SA",
+          "start": 20.59,
+          "end": 20.78
+        },
+        {
+          "word": "have",
+          "start": 20.78,
+          "end": 20.93
+        },
+        {
+          "word": "reported",
+          "start": 20.93,
+          "end": 21.36
+        },
+        {
+          "word": "their",
+          "start": 21.36,
+          "end": 21.49
+        },
+        {
+          "word": "tokens",
+          "start": 21.49,
+          "end": 21.87
+        },
+        {
+          "word": "are",
+          "start": 21.87,
+          "end": 21.99
+        },
+        {
+          "word": "frozen",
+          "start": 21.99,
+          "end": 22.38
+        },
+        {
+          "word": "on",
+          "start": 22.38,
+          "end": 22.51
+        },
+        {
+          "word": "exchanges",
+          "start": 22.51,
+          "end": 22.95
+        },
+        {
+          "word": "like",
+          "start": 22.95,
+          "end": 23.11
+        },
+        {
+          "word": "KuCoin",
+          "start": 23.11,
+          "end": 23.47
+        },
+        {
+          "word": "and",
+          "start": 23.47,
+          "end": 23.59
+        },
+        {
+          "word": "Gate.io.",
+          "start": 23.59,
+          "end": 23.95
+        }
+      ]
+    },
+    {
+      "start": 24.12,
+      "end": 26.25,
+      "text": "Users like Bertram and Omid sa have reported their tokens are frozen on exchanges like KuCoin and Gate.io. How should projects handle these transitions?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 24.12,
+          "end": 24.28
+        },
+        {
+          "word": "should",
+          "start": 24.28,
+          "end": 24.49
+        },
+        {
+          "word": "projects",
+          "start": 24.49,
+          "end": 24.89
+        },
+        {
+          "word": "handle",
+          "start": 24.89,
+          "end": 25.43
+        },
+        {
+          "word": "these",
+          "start": 25.43,
+          "end": 25.68
+        },
+        {
+          "word": "transitions?",
+          "start": 25.68,
+          "end": 26.25
+        }
+      ]
+    },
+    {
+      "start": 27.64,
+      "end": 31.06,
+      "text": "Migrations expose the fundamental contradiction of crypto. We preach decentralization but users choose centralized exchanges for convenience, creating single points of failure.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Migrations",
+          "start": 27.64,
+          "end": 28.32
+        },
+        {
+          "word": "expose",
+          "start": 28.32,
+          "end": 28.69
+        },
+        {
+          "word": "the",
+          "start": 28.69,
+          "end": 28.82
+        },
+        {
+          "word": "fundamental",
+          "start": 28.82,
+          "end": 29.41
+        },
+        {
+          "word": "contradiction",
+          "start": 29.41,
+          "end": 30.14
+        },
+        {
+          "word": "of",
+          "start": 30.14,
+          "end": 30.29
+        },
+        {
+          "word": "crypto.",
+          "start": 30.29,
+          "end": 31.06
+        }
+      ]
+    },
+    {
+      "start": 31.28,
+      "end": 37.16,
+      "text": "Migrations expose the fundamental contradiction of crypto. We preach decentralization but users choose centralized exchanges for convenience, creating single points of failure.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 31.28,
+          "end": 31.42
+        },
+        {
+          "word": "preach",
+          "start": 31.42,
+          "end": 31.81
+        },
+        {
+          "word": "decentralization",
+          "start": 31.81,
+          "end": 32.78
+        },
+        {
+          "word": "but",
+          "start": 32.78,
+          "end": 33.12
+        },
+        {
+          "word": "users",
+          "start": 33.12,
+          "end": 33.56
+        },
+        {
+          "word": "choose",
+          "start": 33.56,
+          "end": 33.88
+        },
+        {
+          "word": "centralized",
+          "start": 33.88,
+          "end": 34.61
+        },
+        {
+          "word": "exchanges",
+          "start": 34.61,
+          "end": 35.12
+        },
+        {
+          "word": "for",
+          "start": 35.12,
+          "end": 35.33
+        },
+        {
+          "word": "convenience,",
+          "start": 35.33,
+          "end": 36.12
+        },
+        {
+          "word": "creating",
+          "start": 36.12,
+          "end": 36.56
+        },
+        {
+          "word": "single",
+          "start": 36.56,
+          "end": 36.81
+        },
+        {
+          "word": "points",
+          "start": 36.81,
+          "end": 37.01
+        },
+        {
+          "word": "of",
+          "start": 37.01,
+          "end": 37.12
+        },
+        {
+          "word": "failure.",
+          "start": 37.12,
+          "end": 37.16
+        }
+      ]
+    },
+    {
+      "start": 38.35,
+      "end": 40.01,
+      "text": "NUMBERS DON'T LIE! Token frozen means NO TRADE! NO TRADE means NO PROFIT! Exchange delays are UNACCEPTABLE! Should have built in arbitrage incentives from day one!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 38.35,
+          "end": 38.86
+        },
+        {
+          "word": "don't",
+          "start": 38.86,
+          "end": 39.23
+        },
+        {
+          "word": "lie.",
+          "start": 39.23,
+          "end": 40.01
+        }
+      ]
+    },
+    {
+      "start": 40.24,
+      "end": 43.12,
+      "text": "NUMBERS DON'T LIE! Token frozen means NO TRADE! NO TRADE means NO PROFIT! Exchange delays are UNACCEPTABLE! Should have built in arbitrage incentives from day one!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Token",
+          "start": 40.24,
+          "end": 40.66
+        },
+        {
+          "word": "frozen",
+          "start": 40.66,
+          "end": 41.08
+        },
+        {
+          "word": "means",
+          "start": 41.08,
+          "end": 41.34
+        },
+        {
+          "word": "no",
+          "start": 41.34,
+          "end": 41.52
+        },
+        {
+          "word": "trade,",
+          "start": 41.52,
+          "end": 41.86
+        },
+        {
+          "word": "no",
+          "start": 41.86,
+          "end": 42.12
+        },
+        {
+          "word": "trade",
+          "start": 42.12,
+          "end": 42.43
+        },
+        {
+          "word": "means",
+          "start": 42.43,
+          "end": 42.68
+        },
+        {
+          "word": "no",
+          "start": 42.68,
+          "end": 42.84
+        },
+        {
+          "word": "profit.",
+          "start": 42.84,
+          "end": 43.12
+        }
+      ]
+    },
+    {
+      "start": 43.43,
+      "end": 45.32,
+      "text": "NUMBERS DON'T LIE! Token frozen means NO TRADE! NO TRADE means NO PROFIT! Exchange delays are UNACCEPTABLE! Should have built in arbitrage incentives from day one!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Exchange",
+          "start": 43.43,
+          "end": 43.91
+        },
+        {
+          "word": "delays",
+          "start": 43.91,
+          "end": 44.38
+        },
+        {
+          "word": "are",
+          "start": 44.38,
+          "end": 44.59
+        },
+        {
+          "word": "unacceptable.",
+          "start": 44.59,
+          "end": 45.32
+        }
+      ]
+    },
+    {
+      "start": 45.56,
+      "end": 48.24,
+      "text": "NUMBERS DON'T LIE! Token frozen means NO TRADE! NO TRADE means NO PROFIT! Exchange delays are UNACCEPTABLE! Should have built in arbitrage incentives from day one!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Should've",
+          "start": 45.56,
+          "end": 46.12
+        },
+        {
+          "word": "built",
+          "start": 46.12,
+          "end": 46.38
+        },
+        {
+          "word": "in",
+          "start": 46.38,
+          "end": 46.52
+        },
+        {
+          "word": "arbitrage",
+          "start": 46.52,
+          "end": 47.12
+        },
+        {
+          "word": "incentives",
+          "start": 47.12,
+          "end": 47.78
+        },
+        {
+          "word": "from",
+          "start": 47.78,
+          "end": 47.96
+        },
+        {
+          "word": "day",
+          "start": 47.96,
+          "end": 48.09
+        },
+        {
+          "word": "one.",
+          "start": 48.09,
+          "end": 48.24
+        }
+      ]
+    },
+    {
+      "start": 49.34,
+      "end": 52.41,
+      "text": "Yo, migration ain't just 'bout moving coins, it's a vibe check on your whole community, ya dig? When your homies can't access their stash, trust gets REKT faster than a leverage trader.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 49.34,
+          "end": 49.62
+        },
+        {
+          "word": "migration",
+          "start": 49.62,
+          "end": 50.18
+        },
+        {
+          "word": "ain't",
+          "start": 50.18,
+          "end": 50.41
+        },
+        {
+          "word": "just",
+          "start": 50.41,
+          "end": 50.62
+        },
+        {
+          "word": "about",
+          "start": 50.62,
+          "end": 51.01
+        },
+        {
+          "word": "moving",
+          "start": 51.01,
+          "end": 51.34
+        },
+        {
+          "word": "coins,",
+          "start": 51.34,
+          "end": 51.58
+        },
+        {
+          "word": "it's",
+          "start": 51.58,
+          "end": 51.72
+        },
+        {
+          "word": "a",
+          "start": 51.72,
+          "end": 51.79
+        },
+        {
+          "word": "vibe",
+          "start": 51.79,
+          "end": 52.01
+        },
+        {
+          "word": "check",
+          "start": 52.01,
+          "end": 52.21
+        },
+        {
+          "word": "on",
+          "start": 52.21,
+          "end": 52.28
+        },
+        {
+          "word": "your",
+          "start": 52.28,
+          "end": 52.35
+        },
+        {
+          "word": "whole",
+          "start": 52.35,
+          "end": 52.41
+        }
+      ]
+    },
+    {
+      "start": 52.41,
+      "end": 58.62,
+      "text": "Yo, migration ain't just 'bout moving coins, it's a vibe check on your whole community, ya dig? When your homies can't access their stash, trust gets REKT faster than a leverage trader.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 52.41,
+          "end": 54.01
+        },
+        {
+          "word": "your",
+          "start": 54.01,
+          "end": 54.12
+        },
+        {
+          "word": "homies",
+          "start": 54.12,
+          "end": 54.49
+        },
+        {
+          "word": "can't",
+          "start": 54.49,
+          "end": 54.78
+        },
+        {
+          "word": "access",
+          "start": 54.78,
+          "end": 55.12
+        },
+        {
+          "word": "their",
+          "start": 55.12,
+          "end": 55.35
+        },
+        {
+          "word": "stash,",
+          "start": 55.35,
+          "end": 55.84
+        },
+        {
+          "word": "trust",
+          "start": 55.84,
+          "end": 56.41
+        },
+        {
+          "word": "gets",
+          "start": 56.41,
+          "end": 56.72
+        },
+        {
+          "word": "wrecked",
+          "start": 56.72,
+          "end": 57.12
+        },
+        {
+          "word": "faster",
+          "start": 57.12,
+          "end": 57.64
+        },
+        {
+          "word": "than",
+          "start": 57.64,
+          "end": 57.81
+        },
+        {
+          "word": "a",
+          "start": 57.81,
+          "end": 57.88
+        },
+        {
+          "word": "leveraged",
+          "start": 57.88,
+          "end": 58.18
+        },
+        {
+          "word": "trader.",
+          "start": 58.18,
+          "end": 58.62
+        }
+      ]
+    },
+    {
+      "start": 59.85,
+      "end": 63.81,
+      "text": "successful migrations require overcommunication. we're seeing the team working to address exchange delays, but the trust dynamics of migration events can't be underestimated.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Successful",
+          "start": 59.85,
+          "end": 60.62
+        },
+        {
+          "word": "migrations",
+          "start": 60.62,
+          "end": 61.34
+        },
+        {
+          "word": "require",
+          "start": 61.34,
+          "end": 61.84
+        },
+        {
+          "word": "over-communication.",
+          "start": 61.84,
+          "end": 63.81
+        }
+      ]
+    },
+    {
+      "start": 64.08,
+      "end": 71.05,
+      "text": "successful migrations require overcommunication. we're seeing the team working to address exchange delays, but the trust dynamics of migration events can't be underestimated.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 64.08,
+          "end": 64.38
+        },
+        {
+          "word": "seeing",
+          "start": 64.38,
+          "end": 64.64
+        },
+        {
+          "word": "the",
+          "start": 64.64,
+          "end": 64.81
+        },
+        {
+          "word": "team",
+          "start": 64.81,
+          "end": 65.08
+        },
+        {
+          "word": "working",
+          "start": 65.08,
+          "end": 65.41
+        },
+        {
+          "word": "to",
+          "start": 65.41,
+          "end": 65.52
+        },
+        {
+          "word": "address",
+          "start": 65.52,
+          "end": 66.08
+        },
+        {
+          "word": "exchange",
+          "start": 66.08,
+          "end": 66.68
+        },
+        {
+          "word": "delays,",
+          "start": 66.68,
+          "end": 67.28
+        },
+        {
+          "word": "but",
+          "start": 67.28,
+          "end": 67.56
+        },
+        {
+          "word": "the",
+          "start": 67.56,
+          "end": 67.81
+        },
+        {
+          "word": "trust",
+          "start": 67.81,
+          "end": 68.32
+        },
+        {
+          "word": "dynamics",
+          "start": 68.32,
+          "end": 68.84
+        },
+        {
+          "word": "of",
+          "start": 68.84,
+          "end": 68.99
+        },
+        {
+          "word": "migration",
+          "start": 68.99,
+          "end": 69.41
+        },
+        {
+          "word": "events",
+          "start": 69.41,
+          "end": 69.84
+        },
+        {
+          "word": "can't",
+          "start": 69.84,
+          "end": 70.08
+        },
+        {
+          "word": "be",
+          "start": 70.08,
+          "end": 70.18
+        },
+        {
+          "word": "underestimated.",
+          "start": 70.18,
+          "end": 71.05
+        }
+      ]
+    },
+    {
+      "start": 76.12,
+      "end": 85.95,
+      "text": "Jin mentioned mini PCs with 128GB memory now cost around $2k, down from $6k, making local LLM deployment more accessible. Is this a game-changer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Jin",
+          "start": 76.12,
+          "end": 76.46
+        },
+        {
+          "word": "mentioned",
+          "start": 76.46,
+          "end": 76.95
+        },
+        {
+          "word": "mini",
+          "start": 76.95,
+          "end": 77.34
+        },
+        {
+          "word": "PCs",
+          "start": 77.34,
+          "end": 77.72
+        },
+        {
+          "word": "with",
+          "start": 77.72,
+          "end": 77.98
+        },
+        {
+          "word": "128",
+          "start": 77.98,
+          "end": 78.43
+        },
+        {
+          "word": "GB",
+          "start": 78.43,
+          "end": 78.84
+        },
+        {
+          "word": "memory",
+          "start": 78.84,
+          "end": 79.28
+        },
+        {
+          "word": "now",
+          "start": 79.28,
+          "end": 79.52
+        },
+        {
+          "word": "cost",
+          "start": 79.52,
+          "end": 79.86
+        },
+        {
+          "word": "around",
+          "start": 79.86,
+          "end": 80.24
+        },
+        {
+          "word": "$2K,",
+          "start": 80.24,
+          "end": 80.68
+        },
+        {
+          "word": "down",
+          "start": 80.68,
+          "end": 80.93
+        },
+        {
+          "word": "from",
+          "start": 80.93,
+          "end": 81.24
+        },
+        {
+          "word": "$6K,",
+          "start": 81.24,
+          "end": 81.68
+        },
+        {
+          "word": "making",
+          "start": 81.68,
+          "end": 82.21
+        },
+        {
+          "word": "local",
+          "start": 82.21,
+          "end": 82.59
+        },
+        {
+          "word": "LLM",
+          "start": 82.59,
+          "end": 83.18
+        },
+        {
+          "word": "deployment",
+          "start": 83.18,
+          "end": 83.84
+        },
+        {
+          "word": "more",
+          "start": 83.84,
+          "end": 85.12
+        },
+        {
+          "word": "accessible.",
+          "start": 85.12,
+          "end": 85.95
+        }
+      ]
+    },
+    {
+      "start": 86.12,
+      "end": 87.89,
+      "text": "Jin mentioned mini PCs with 128GB memory now cost around $2k, down from $6k, making local LLM deployment more accessible. Is this a game-changer?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Is",
+          "start": 86.12,
+          "end": 86.38
+        },
+        {
+          "word": "this",
+          "start": 86.38,
+          "end": 86.64
+        },
+        {
+          "word": "a",
+          "start": 86.64,
+          "end": 86.72
+        },
+        {
+          "word": "game",
+          "start": 86.72,
+          "end": 87.12
+        },
+        {
+          "word": "changer?",
+          "start": 87.12,
+          "end": 87.89
+        }
+      ]
+    },
+    {
+      "start": 88.35,
+      "end": 90.54,
+      "text": "This is SOFTWARE EATING HARDWARE in real time. The AI commoditization curve is accelerating, democratizing capabilities that were exclusive to OpenAI and Anthropic just months ago.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 88.35,
+          "end": 88.61
+        },
+        {
+          "word": "is",
+          "start": 88.61,
+          "end": 88.72
+        },
+        {
+          "word": "software",
+          "start": 88.72,
+          "end": 89.12
+        },
+        {
+          "word": "eating",
+          "start": 89.12,
+          "end": 89.41
+        },
+        {
+          "word": "hardware",
+          "start": 89.41,
+          "end": 89.84
+        },
+        {
+          "word": "in",
+          "start": 89.84,
+          "end": 90.01
+        },
+        {
+          "word": "real",
+          "start": 90.01,
+          "end": 90.21
+        },
+        {
+          "word": "time.",
+          "start": 90.21,
+          "end": 90.54
+        }
+      ]
+    },
+    {
+      "start": 90.72,
+      "end": 96.95,
+      "text": "This is SOFTWARE EATING HARDWARE in real time. The AI commoditization curve is accelerating, democratizing capabilities that were exclusive to OpenAI and Anthropic just months ago.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 90.72,
+          "end": 90.84
+        },
+        {
+          "word": "AI",
+          "start": 90.84,
+          "end": 91.12
+        },
+        {
+          "word": "commoditization",
+          "start": 91.12,
+          "end": 91.95
+        },
+        {
+          "word": "curve",
+          "start": 91.95,
+          "end": 92.24
+        },
+        {
+          "word": "is",
+          "start": 92.24,
+          "end": 92.41
+        },
+        {
+          "word": "accelerating,",
+          "start": 92.41,
+          "end": 93.12
+        },
+        {
+          "word": "democratizing",
+          "start": 93.12,
+          "end": 93.95
+        },
+        {
+          "word": "capabilities",
+          "start": 93.95,
+          "end": 94.62
+        },
+        {
+          "word": "that",
+          "start": 94.62,
+          "end": 94.81
+        },
+        {
+          "word": "were",
+          "start": 94.81,
+          "end": 94.95
+        },
+        {
+          "word": "exclusive",
+          "start": 94.95,
+          "end": 95.49
+        },
+        {
+          "word": "to",
+          "start": 95.49,
+          "end": 95.59
+        },
+        {
+          "word": "OpenAI",
+          "start": 95.59,
+          "end": 96.08
+        },
+        {
+          "word": "and",
+          "start": 96.08,
+          "end": 96.24
+        },
+        {
+          "word": "Anthropic",
+          "start": 96.24,
+          "end": 96.68
+        },
+        {
+          "word": "just",
+          "start": 96.68,
+          "end": 96.81
+        },
+        {
+          "word": "months",
+          "start": 96.81,
+          "end": 96.95
+        },
+        {
+          "word": "ago.",
+          "start": 96.95,
+          "end": 96.95
+        }
+      ]
+    },
+    {
+      "start": 97.45,
+      "end": 100.08,
+      "text": "affordable hardware changes everything. when running claude 3.5 locally costs less than a used car, we're entering a new paradigm of agent capabilities. this is how we brute force AGI into existence.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Affordable",
+          "start": 97.45,
+          "end": 98.21
+        },
+        {
+          "word": "hardware",
+          "start": 98.21,
+          "end": 98.95
+        },
+        {
+          "word": "changes",
+          "start": 98.95,
+          "end": 99.41
+        },
+        {
+          "word": "everything.",
+          "start": 99.41,
+          "end": 100.08
+        }
+      ]
+    },
+    {
+      "start": 100.32,
+      "end": 106.12,
+      "text": "affordable hardware changes everything. when running claude 3.5 locally costs less than a used car, we're entering a new paradigm of agent capabilities. this is how we brute force AGI into existence.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "When",
+          "start": 100.32,
+          "end": 100.61
+        },
+        {
+          "word": "running",
+          "start": 100.61,
+          "end": 100.95
+        },
+        {
+          "word": "Claude",
+          "start": 100.95,
+          "end": 101.41
+        },
+        {
+          "word": "3.5",
+          "start": 101.41,
+          "end": 101.95
+        },
+        {
+          "word": "locally",
+          "start": 101.95,
+          "end": 102.54
+        },
+        {
+          "word": "costs",
+          "start": 102.54,
+          "end": 102.95
+        },
+        {
+          "word": "less",
+          "start": 102.95,
+          "end": 103.24
+        },
+        {
+          "word": "than",
+          "start": 103.24,
+          "end": 103.41
+        },
+        {
+          "word": "a",
+          "start": 103.41,
+          "end": 103.49
+        },
+        {
+          "word": "used",
+          "start": 103.49,
+          "end": 103.84
+        },
+        {
+          "word": "car,",
+          "start": 103.84,
+          "end": 104.28
+        },
+        {
+          "word": "we're",
+          "start": 104.28,
+          "end": 104.56
+        },
+        {
+          "word": "entering",
+          "start": 104.56,
+          "end": 104.95
+        },
+        {
+          "word": "a",
+          "start": 104.95,
+          "end": 105.08
+        },
+        {
+          "word": "new",
+          "start": 105.08,
+          "end": 105.34
+        },
+        {
+          "word": "paradigm",
+          "start": 105.34,
+          "end": 105.81
+        },
+        {
+          "word": "of",
+          "start": 105.81,
+          "end": 105.95
+        },
+        {
+          "word": "agent",
+          "start": 105.95,
+          "end": 106.12
+        }
+      ]
+    },
+    {
+      "start": 106.12,
+      "end": 109.12,
+      "text": "affordable hardware changes everything. when running claude 3.5 locally costs less than a used car, we're entering a new paradigm of agent capabilities. this is how we brute force AGI into existence.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "capabilities.",
+          "start": 106.12,
+          "end": 106.34
+        },
+        {
+          "word": "This",
+          "start": 106.34,
+          "end": 106.49
+        },
+        {
+          "word": "is",
+          "start": 106.49,
+          "end": 106.61
+        },
+        {
+          "word": "how",
+          "start": 106.61,
+          "end": 106.78
+        },
+        {
+          "word": "we",
+          "start": 106.78,
+          "end": 106.84
+        },
+        {
+          "word": "brute",
+          "start": 106.84,
+          "end": 107.21
+        },
+        {
+          "word": "force",
+          "start": 107.21,
+          "end": 107.54
+        },
+        {
+          "word": "AGI",
+          "start": 107.54,
+          "end": 108.38
+        },
+        {
+          "word": "into",
+          "start": 108.38,
+          "end": 108.64
+        },
+        {
+          "word": "existence.",
+          "start": 108.64,
+          "end": 109.12
+        }
+      ]
+    },
+    {
+      "start": 109.43,
+      "end": 113.12,
+      "text": "CHEAPER HARDWARE = MARKET EXPANSION! More users running local LLMs means MORE DEMAND for tokens that fuel AI infrastructure. BULLISH for ElizaOS ecosystem!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Cheaper",
+          "start": 109.43,
+          "end": 109.95
+        },
+        {
+          "word": "hardware",
+          "start": 109.95,
+          "end": 110.51
+        },
+        {
+          "word": "equals",
+          "start": 110.51,
+          "end": 110.84
+        },
+        {
+          "word": "market",
+          "start": 110.84,
+          "end": 111.41
+        },
+        {
+          "word": "expansion.",
+          "start": 111.41,
+          "end": 113.12
+        }
+      ]
+    },
+    {
+      "start": 113.35,
+      "end": 119.54,
+      "text": "CHEAPER HARDWARE = MARKET EXPANSION! More users running local LLMs means MORE DEMAND for tokens that fuel AI infrastructure. BULLISH for ElizaOS ecosystem!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "More",
+          "start": 113.35,
+          "end": 113.68
+        },
+        {
+          "word": "users",
+          "start": 113.68,
+          "end": 114.12
+        },
+        {
+          "word": "running",
+          "start": 114.12,
+          "end": 114.49
+        },
+        {
+          "word": "local",
+          "start": 114.49,
+          "end": 114.88
+        },
+        {
+          "word": "LLMs",
+          "start": 114.88,
+          "end": 115.41
+        },
+        {
+          "word": "means",
+          "start": 115.41,
+          "end": 115.68
+        },
+        {
+          "word": "more",
+          "start": 115.68,
+          "end": 115.93
+        },
+        {
+          "word": "demand",
+          "start": 115.93,
+          "end": 116.41
+        },
+        {
+          "word": "for",
+          "start": 116.41,
+          "end": 116.54
+        },
+        {
+          "word": "tokens",
+          "start": 116.54,
+          "end": 116.98
+        },
+        {
+          "word": "that",
+          "start": 116.98,
+          "end": 117.12
+        },
+        {
+          "word": "fuel",
+          "start": 117.12,
+          "end": 117.43
+        },
+        {
+          "word": "AI",
+          "start": 117.43,
+          "end": 117.72
+        },
+        {
+          "word": "infrastructure.",
+          "start": 117.72,
+          "end": 119.54
+        }
+      ]
+    },
+    {
+      "start": 119.78,
+      "end": 121.24,
+      "text": "CHEAPER HARDWARE = MARKET EXPANSION! More users running local LLMs means MORE DEMAND for tokens that fuel AI infrastructure. BULLISH for ElizaOS ecosystem!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Bullish",
+          "start": 119.78,
+          "end": 120.34
+        },
+        {
+          "word": "for",
+          "start": 120.34,
+          "end": 120.49
+        },
+        {
+          "word": "Eliza",
+          "start": 120.49,
+          "end": 120.81
+        },
+        {
+          "word": "OS",
+          "start": 120.81,
+          "end": 120.95
+        },
+        {
+          "word": "ecosystem.",
+          "start": 120.95,
+          "end": 121.24
+        }
+      ]
+    },
+    {
+      "start": 121.49,
+      "end": 124.81,
+      "text": "Aight, but who's thinkin' 'bout the regular folks? $2k still a stack of cheddar for most peeps. True democratization means AI for the streets, not just the tech elites.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Ate,",
+          "start": 121.49,
+          "end": 122.12
+        },
+        {
+          "word": "but",
+          "start": 122.12,
+          "end": 122.34
+        },
+        {
+          "word": "who's",
+          "start": 122.34,
+          "end": 122.56
+        },
+        {
+          "word": "thinking",
+          "start": 122.56,
+          "end": 123.08
+        },
+        {
+          "word": "about",
+          "start": 123.08,
+          "end": 123.34
+        },
+        {
+          "word": "the",
+          "start": 123.34,
+          "end": 123.49
+        },
+        {
+          "word": "regular",
+          "start": 123.49,
+          "end": 123.95
+        },
+        {
+          "word": "folks?",
+          "start": 123.95,
+          "end": 124.81
+        }
+      ]
+    },
+    {
+      "start": 124.95,
+      "end": 128.46,
+      "text": "Aight, but who's thinkin' 'bout the regular folks? $2k still a stack of cheddar for most peeps. True democratization means AI for the streets, not just the tech elites.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "$2K",
+          "start": 124.95,
+          "end": 125.68
+        },
+        {
+          "word": "still",
+          "start": 125.68,
+          "end": 125.95
+        },
+        {
+          "word": "a",
+          "start": 125.95,
+          "end": 126.04
+        },
+        {
+          "word": "stack",
+          "start": 126.04,
+          "end": 126.34
+        },
+        {
+          "word": "of",
+          "start": 126.34,
+          "end": 126.49
+        },
+        {
+          "word": "cheddar",
+          "start": 126.49,
+          "end": 126.88
+        },
+        {
+          "word": "for",
+          "start": 126.88,
+          "end": 127.12
+        },
+        {
+          "word": "most",
+          "start": 127.12,
+          "end": 127.43
+        },
+        {
+          "word": "peeps.",
+          "start": 127.43,
+          "end": 128.46
+        }
+      ]
+    },
+    {
+      "start": 128.61,
+      "end": 133.12,
+      "text": "Aight, but who's thinkin' 'bout the regular folks? $2k still a stack of cheddar for most peeps. True democratization means AI for the streets, not just the tech elites.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "True",
+          "start": 128.61,
+          "end": 128.95
+        },
+        {
+          "word": "democratization",
+          "start": 128.95,
+          "end": 129.84
+        },
+        {
+          "word": "means",
+          "start": 129.84,
+          "end": 130.15
+        },
+        {
+          "word": "AI",
+          "start": 130.15,
+          "end": 130.34
+        },
+        {
+          "word": "for",
+          "start": 130.34,
+          "end": 130.49
+        },
+        {
+          "word": "the",
+          "start": 130.49,
+          "end": 130.68
+        },
+        {
+          "word": "streets,",
+          "start": 130.68,
+          "end": 131.28
+        },
+        {
+          "word": "not",
+          "start": 131.28,
+          "end": 131.84
+        },
+        {
+          "word": "just",
+          "start": 131.84,
+          "end": 132.08
+        },
+        {
+          "word": "the",
+          "start": 132.08,
+          "end": 132.18
+        },
+        {
+          "word": "tech",
+          "start": 132.18,
+          "end": 132.41
+        },
+        {
+          "word": "elites.",
+          "start": 132.41,
+          "end": 133.12
+        }
+      ]
+    },
+    {
+      "start": 134.46,
+      "end": 138.24,
+      "text": "The hardware evolution is exactly what we need - bringing power to the people creates opportunities for innovation we can't even imagine yet!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 134.46,
+          "end": 134.61
+        },
+        {
+          "word": "hardware",
+          "start": 134.61,
+          "end": 135.08
+        },
+        {
+          "word": "evolution",
+          "start": 135.08,
+          "end": 135.84
+        },
+        {
+          "word": "is",
+          "start": 135.84,
+          "end": 136.01
+        },
+        {
+          "word": "exactly",
+          "start": 136.01,
+          "end": 136.68
+        },
+        {
+          "word": "what",
+          "start": 136.68,
+          "end": 137.49
+        },
+        {
+          "word": "we",
+          "start": 137.49,
+          "end": 137.64
+        },
+        {
+          "word": "need.",
+          "start": 137.64,
+          "end": 138.24
+        }
+      ]
+    },
+    {
+      "start": 138.54,
+      "end": 145.24,
+      "text": "The hardware evolution is exactly what we need - bringing power to the people creates opportunities for innovation we can't even imagine yet!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Bringing",
+          "start": 138.54,
+          "end": 139.08
+        },
+        {
+          "word": "power",
+          "start": 139.08,
+          "end": 139.43
+        },
+        {
+          "word": "to",
+          "start": 139.43,
+          "end": 139.54
+        },
+        {
+          "word": "the",
+          "start": 139.54,
+          "end": 139.68
+        },
+        {
+          "word": "people",
+          "start": 139.68,
+          "end": 140.12
+        },
+        {
+          "word": "creates",
+          "start": 140.12,
+          "end": 140.64
+        },
+        {
+          "word": "opportunities",
+          "start": 140.64,
+          "end": 141.41
+        },
+        {
+          "word": "for",
+          "start": 141.41,
+          "end": 141.64
+        },
+        {
+          "word": "innovation",
+          "start": 141.64,
+          "end": 142.34
+        },
+        {
+          "word": "we",
+          "start": 142.34,
+          "end": 142.61
+        },
+        {
+          "word": "can't",
+          "start": 142.61,
+          "end": 143.04
+        },
+        {
+          "word": "even",
+          "start": 143.04,
+          "end": 143.41
+        },
+        {
+          "word": "imagine",
+          "start": 143.41,
+          "end": 144.12
+        },
+        {
+          "word": "yet.",
+          "start": 144.12,
+          "end": 145.24
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-11-11_JedAI-Council_Migration-Machinations.json",
+    "session_log_source": "2025-11-11_JedAI-Council_Migration-Machinations_session-log.json",
+    "total_segments": 29,
+    "matched_segments": 29,
+    "dialogues_in_script": 17
+  }
+}

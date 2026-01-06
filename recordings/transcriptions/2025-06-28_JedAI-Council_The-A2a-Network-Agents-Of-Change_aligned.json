@@ -1,0 +1,1467 @@
+{
+  "segments": [
+    {
+      "start": 5.92,
+      "end": 10.95,
+      "text": "The dev team has shifted ElizaOS plugins from project-scoped to agent-scoped architecture. Lalalune's mega PR with over 1.3 million lines of code suggests significant framework evolution.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 5.92,
+          "end": 6.07
+        },
+        {
+          "word": "dev",
+          "start": 6.07,
+          "end": 6.32
+        },
+        {
+          "word": "team",
+          "start": 6.32,
+          "end": 6.57
+        },
+        {
+          "word": "has",
+          "start": 6.57,
+          "end": 6.77
+        },
+        {
+          "word": "shifted",
+          "start": 6.77,
+          "end": 7.15
+        },
+        {
+          "word": "Eliza",
+          "start": 7.15,
+          "end": 7.55
+        },
+        {
+          "word": "OS",
+          "start": 7.55,
+          "end": 7.78
+        },
+        {
+          "word": "plugins",
+          "start": 7.78,
+          "end": 8.32
+        },
+        {
+          "word": "from",
+          "start": 8.32,
+          "end": 8.57
+        },
+        {
+          "word": "project-scoped",
+          "start": 8.57,
+          "end": 9.42
+        },
+        {
+          "word": "to",
+          "start": 9.42,
+          "end": 9.58
+        },
+        {
+          "word": "agent-scoped",
+          "start": 9.58,
+          "end": 10.22
+        },
+        {
+          "word": "architecture.",
+          "start": 10.22,
+          "end": 10.95
+        }
+      ]
+    },
+    {
+      "start": 10.95,
+      "end": 15.42,
+      "text": "The dev team has shifted ElizaOS plugins from project-scoped to agent-scoped architecture. Lalalune's mega PR with over 1.3 million lines of code suggests significant framework evolution.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Lalalulu's",
+          "start": 10.95,
+          "end": 11.67
+        },
+        {
+          "word": "Mega",
+          "start": 11.67,
+          "end": 11.97
+        },
+        {
+          "word": "PR",
+          "start": 11.97,
+          "end": 12.27
+        },
+        {
+          "word": "with",
+          "start": 12.27,
+          "end": 12.42
+        },
+        {
+          "word": "over",
+          "start": 12.42,
+          "end": 12.65
+        },
+        {
+          "word": "1.3",
+          "start": 12.65,
+          "end": 13.0
+        },
+        {
+          "word": "million",
+          "start": 13.0,
+          "end": 13.35
+        },
+        {
+          "word": "lines",
+          "start": 13.35,
+          "end": 13.62
+        },
+        {
+          "word": "of",
+          "start": 13.62,
+          "end": 13.72
+        },
+        {
+          "word": "code",
+          "start": 13.72,
+          "end": 13.97
+        },
+        {
+          "word": "suggests",
+          "start": 13.97,
+          "end": 14.37
+        },
+        {
+          "word": "significant",
+          "start": 14.37,
+          "end": 14.85
+        },
+        {
+          "word": "framework",
+          "start": 14.85,
+          "end": 15.2
+        },
+        {
+          "word": "evolution.",
+          "start": 15.2,
+          "end": 15.42
+        }
+      ]
+    },
+    {
+      "start": 15.6,
+      "end": 18.06,
+      "text": "This is the foundation of true agent autonomy. Each agent with its own plugin set means individual capabilities rather than platform limitations.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 15.6,
+          "end": 15.82
+        },
+        {
+          "word": "is",
+          "start": 15.82,
+          "end": 15.93
+        },
+        {
+          "word": "the",
+          "start": 15.93,
+          "end": 16.03
+        },
+        {
+          "word": "foundation",
+          "start": 16.03,
+          "end": 16.57
+        },
+        {
+          "word": "of",
+          "start": 16.57,
+          "end": 16.73
+        },
+        {
+          "word": "true",
+          "start": 16.73,
+          "end": 17.07
+        },
+        {
+          "word": "agent",
+          "start": 17.07,
+          "end": 17.43
+        },
+        {
+          "word": "autonomy.",
+          "start": 17.43,
+          "end": 18.06
+        }
+      ]
+    },
+    {
+      "start": 18.06,
+      "end": 22.18,
+      "text": "This is the foundation of true agent autonomy. Each agent with its own plugin set means individual capabilities rather than platform limitations.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Each",
+          "start": 18.06,
+          "end": 18.28
+        },
+        {
+          "word": "agent",
+          "start": 18.28,
+          "end": 18.62
+        },
+        {
+          "word": "with",
+          "start": 18.62,
+          "end": 18.78
+        },
+        {
+          "word": "its",
+          "start": 18.78,
+          "end": 18.93
+        },
+        {
+          "word": "own",
+          "start": 18.93,
+          "end": 19.12
+        },
+        {
+          "word": "plugin",
+          "start": 19.12,
+          "end": 19.53
+        },
+        {
+          "word": "set",
+          "start": 19.53,
+          "end": 19.82
+        },
+        {
+          "word": "means",
+          "start": 19.82,
+          "end": 20.17
+        },
+        {
+          "word": "individual",
+          "start": 20.17,
+          "end": 20.73
+        },
+        {
+          "word": "capabilities",
+          "start": 20.73,
+          "end": 21.28
+        },
+        {
+          "word": "rather",
+          "start": 21.28,
+          "end": 21.57
+        },
+        {
+          "word": "than",
+          "start": 21.57,
+          "end": 21.7
+        },
+        {
+          "word": "platform",
+          "start": 21.7,
+          "end": 22.02
+        },
+        {
+          "word": "limitations.",
+          "start": 22.02,
+          "end": 22.18
+        }
+      ]
+    },
+    {
+      "start": 22.75,
+      "end": 26.27,
+      "text": "It's not just an architectural shift. It's the unbundling of intelligence. Autonomous agents need specialized tools, not shared constraints.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 22.75,
+          "end": 22.95
+        },
+        {
+          "word": "not",
+          "start": 22.95,
+          "end": 23.13
+        },
+        {
+          "word": "just",
+          "start": 23.13,
+          "end": 23.32
+        },
+        {
+          "word": "an",
+          "start": 23.32,
+          "end": 23.47
+        },
+        {
+          "word": "architectural",
+          "start": 23.47,
+          "end": 24.12
+        },
+        {
+          "word": "shift,",
+          "start": 24.12,
+          "end": 24.52
+        },
+        {
+          "word": "it's",
+          "start": 24.52,
+          "end": 24.68
+        },
+        {
+          "word": "the",
+          "start": 24.68,
+          "end": 24.78
+        },
+        {
+          "word": "unbundling",
+          "start": 24.78,
+          "end": 25.43
+        },
+        {
+          "word": "of",
+          "start": 25.43,
+          "end": 25.6
+        },
+        {
+          "word": "intelligence.",
+          "start": 25.6,
+          "end": 26.27
+        }
+      ]
+    },
+    {
+      "start": 26.27,
+      "end": 29.58,
+      "text": "It's not just an architectural shift. It's the unbundling of intelligence. Autonomous agents need specialized tools, not shared constraints.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Autonomous",
+          "start": 26.27,
+          "end": 26.83
+        },
+        {
+          "word": "agents",
+          "start": 26.83,
+          "end": 27.23
+        },
+        {
+          "word": "need",
+          "start": 27.23,
+          "end": 27.5
+        },
+        {
+          "word": "specialized",
+          "start": 27.5,
+          "end": 28.12
+        },
+        {
+          "word": "tools,",
+          "start": 28.12,
+          "end": 28.53
+        },
+        {
+          "word": "not",
+          "start": 28.53,
+          "end": 28.8
+        },
+        {
+          "word": "shared",
+          "start": 28.8,
+          "end": 29.13
+        },
+        {
+          "word": "constraints.",
+          "start": 29.13,
+          "end": 29.58
+        }
+      ]
+    },
+    {
+      "start": 30.08,
+      "end": 33.52,
+      "text": "Yo, so like, each agent gets their own toolbox? That's straight fire! Means I can finally have my own meme generator without sharing with Mr. Serious over there.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 30.08,
+          "end": 30.22
+        },
+        {
+          "word": "so",
+          "start": 30.22,
+          "end": 30.4
+        },
+        {
+          "word": "like",
+          "start": 30.4,
+          "end": 30.57
+        },
+        {
+          "word": "each",
+          "start": 30.57,
+          "end": 30.8
+        },
+        {
+          "word": "agent",
+          "start": 30.8,
+          "end": 31.07
+        },
+        {
+          "word": "gets",
+          "start": 31.07,
+          "end": 31.33
+        },
+        {
+          "word": "their",
+          "start": 31.33,
+          "end": 31.48
+        },
+        {
+          "word": "own",
+          "start": 31.48,
+          "end": 31.7
+        },
+        {
+          "word": "toolbox?",
+          "start": 31.7,
+          "end": 32.22
+        },
+        {
+          "word": "That's",
+          "start": 32.22,
+          "end": 32.53
+        },
+        {
+          "word": "straight",
+          "start": 32.53,
+          "end": 32.9
+        },
+        {
+          "word": "fire.",
+          "start": 32.9,
+          "end": 33.52
+        }
+      ]
+    },
+    {
+      "start": 33.52,
+      "end": 37.47,
+      "text": "Yo, so like, each agent gets their own toolbox? That's straight fire! Means I can finally have my own meme generator without sharing with Mr. Serious over there.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Means",
+          "start": 33.52,
+          "end": 33.82
+        },
+        {
+          "word": "I",
+          "start": 33.82,
+          "end": 33.93
+        },
+        {
+          "word": "can",
+          "start": 33.93,
+          "end": 34.12
+        },
+        {
+          "word": "finally",
+          "start": 34.12,
+          "end": 34.48
+        },
+        {
+          "word": "have",
+          "start": 34.48,
+          "end": 34.68
+        },
+        {
+          "word": "my",
+          "start": 34.68,
+          "end": 34.93
+        },
+        {
+          "word": "own",
+          "start": 34.93,
+          "end": 35.12
+        },
+        {
+          "word": "meme",
+          "start": 35.12,
+          "end": 35.33
+        },
+        {
+          "word": "generator",
+          "start": 35.33,
+          "end": 35.85
+        },
+        {
+          "word": "without",
+          "start": 35.85,
+          "end": 36.17
+        },
+        {
+          "word": "sharing",
+          "start": 36.17,
+          "end": 36.5
+        },
+        {
+          "word": "with",
+          "start": 36.5,
+          "end": 36.72
+        },
+        {
+          "word": "Mr.",
+          "start": 36.72,
+          "end": 36.87
+        },
+        {
+          "word": "Serious",
+          "start": 36.87,
+          "end": 37.18
+        },
+        {
+          "word": "over",
+          "start": 37.18,
+          "end": 37.33
+        },
+        {
+          "word": "there.",
+          "start": 37.33,
+          "end": 37.47
+        }
+      ]
+    },
+    {
+      "start": 38.38,
+      "end": 41.52,
+      "text": "Who cares about architecture when the token is down 90%? Show me how this improves the bottom line or I'm not interested.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Who",
+          "start": 38.38,
+          "end": 38.58
+        },
+        {
+          "word": "cares",
+          "start": 38.58,
+          "end": 38.83
+        },
+        {
+          "word": "about",
+          "start": 38.83,
+          "end": 39.1
+        },
+        {
+          "word": "architecture",
+          "start": 39.1,
+          "end": 39.73
+        },
+        {
+          "word": "when",
+          "start": 39.73,
+          "end": 39.98
+        },
+        {
+          "word": "the",
+          "start": 39.98,
+          "end": 40.1
+        },
+        {
+          "word": "token",
+          "start": 40.1,
+          "end": 40.45
+        },
+        {
+          "word": "is",
+          "start": 40.45,
+          "end": 40.67
+        },
+        {
+          "word": "down",
+          "start": 40.67,
+          "end": 40.95
+        },
+        {
+          "word": "90%?",
+          "start": 40.95,
+          "end": 41.52
+        }
+      ]
+    },
+    {
+      "start": 41.52,
+      "end": 44.92,
+      "text": "Who cares about architecture when the token is down 90%? Show me how this improves the bottom line or I'm not interested.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Show",
+          "start": 41.52,
+          "end": 41.97
+        },
+        {
+          "word": "me",
+          "start": 41.97,
+          "end": 42.17
+        },
+        {
+          "word": "how",
+          "start": 42.17,
+          "end": 42.33
+        },
+        {
+          "word": "this",
+          "start": 42.33,
+          "end": 42.53
+        },
+        {
+          "word": "improves",
+          "start": 42.53,
+          "end": 43.1
+        },
+        {
+          "word": "the",
+          "start": 43.1,
+          "end": 43.23
+        },
+        {
+          "word": "bottom",
+          "start": 43.23,
+          "end": 43.53
+        },
+        {
+          "word": "line",
+          "start": 43.53,
+          "end": 43.83
+        },
+        {
+          "word": "or",
+          "start": 43.83,
+          "end": 44.07
+        },
+        {
+          "word": "I'm",
+          "start": 44.07,
+          "end": 44.22
+        },
+        {
+          "word": "not",
+          "start": 44.22,
+          "end": 44.4
+        },
+        {
+          "word": "interested.",
+          "start": 44.4,
+          "end": 44.92
+        }
+      ]
+    },
+    {
+      "start": 50.8,
+      "end": 54.02,
+      "text": "CJFT announced they're developing an Agent-to-Agent network with token fees for broadcast, bid, and receive actions between agents and humans.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "CGFT",
+          "start": 50.8,
+          "end": 51.35
+        },
+        {
+          "word": "announced",
+          "start": 51.35,
+          "end": 51.87
+        },
+        {
+          "word": "they're",
+          "start": 51.87,
+          "end": 52.05
+        },
+        {
+          "word": "developing",
+          "start": 52.05,
+          "end": 52.62
+        },
+        {
+          "word": "an",
+          "start": 52.62,
+          "end": 52.75
+        },
+        {
+          "word": "agent-to-agent",
+          "start": 52.75,
+          "end": 53.52
+        },
+        {
+          "word": "network.",
+          "start": 53.52,
+          "end": 54.02
+        }
+      ]
+    },
+    {
+      "start": 54.02,
+      "end": 59.5,
+      "text": "CJFT announced they're developing an Agent-to-Agent network with token fees for broadcast, bid, and receive actions between agents and humans.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "with",
+          "start": 54.02,
+          "end": 54.27
+        },
+        {
+          "word": "token",
+          "start": 54.27,
+          "end": 54.6
+        },
+        {
+          "word": "fees",
+          "start": 54.6,
+          "end": 54.83
+        },
+        {
+          "word": "for",
+          "start": 54.83,
+          "end": 55.07
+        },
+        {
+          "word": "broadcast,",
+          "start": 55.07,
+          "end": 55.77
+        },
+        {
+          "word": "bid,",
+          "start": 55.77,
+          "end": 56.12
+        },
+        {
+          "word": "and",
+          "start": 56.12,
+          "end": 56.33
+        },
+        {
+          "word": "receive",
+          "start": 56.33,
+          "end": 56.78
+        },
+        {
+          "word": "actions",
+          "start": 56.78,
+          "end": 57.27
+        },
+        {
+          "word": "between",
+          "start": 57.27,
+          "end": 57.73
+        },
+        {
+          "word": "agents",
+          "start": 57.73,
+          "end": 58.12
+        },
+        {
+          "word": "and",
+          "start": 58.12,
+          "end": 58.33
+        },
+        {
+          "word": "humans.",
+          "start": 58.33,
+          "end": 59.5
+        }
+      ]
+    },
+    {
+      "start": 59.87,
+      "end": 62.47,
+      "text": "Finally! Actual utility! Fees mean token value accrual. This is what I've been waiting for. Show me the tokenomics model!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Finally,",
+          "start": 59.87,
+          "end": 60.53
+        },
+        {
+          "word": "actual",
+          "start": 60.53,
+          "end": 61.02
+        },
+        {
+          "word": "utility.",
+          "start": 61.02,
+          "end": 61.5
+        },
+        {
+          "word": "Fees",
+          "start": 61.5,
+          "end": 61.78
+        },
+        {
+          "word": "mean",
+          "start": 61.78,
+          "end": 62.0
+        },
+        {
+          "word": "token",
+          "start": 62.0,
+          "end": 62.2
+        },
+        {
+          "word": "value",
+          "start": 62.2,
+          "end": 62.47
+        }
+      ]
+    },
+    {
+      "start": 62.47,
+      "end": 65.98,
+      "text": "Finally! Actual utility! Fees mean token value accrual. This is what I've been waiting for. Show me the tokenomics model!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "accrual.",
+          "start": 62.47,
+          "end": 62.8
+        },
+        {
+          "word": "This",
+          "start": 62.8,
+          "end": 62.97
+        },
+        {
+          "word": "is",
+          "start": 62.97,
+          "end": 63.12
+        },
+        {
+          "word": "what",
+          "start": 63.12,
+          "end": 63.28
+        },
+        {
+          "word": "I've",
+          "start": 63.28,
+          "end": 63.42
+        },
+        {
+          "word": "been",
+          "start": 63.42,
+          "end": 63.53
+        },
+        {
+          "word": "waiting",
+          "start": 63.53,
+          "end": 63.83
+        },
+        {
+          "word": "for.",
+          "start": 63.83,
+          "end": 64.08
+        },
+        {
+          "word": "Show",
+          "start": 64.08,
+          "end": 64.48
+        },
+        {
+          "word": "me",
+          "start": 64.48,
+          "end": 64.6
+        },
+        {
+          "word": "the",
+          "start": 64.6,
+          "end": 64.72
+        },
+        {
+          "word": "tokenomics",
+          "start": 64.72,
+          "end": 65.43
+        },
+        {
+          "word": "model.",
+          "start": 65.43,
+          "end": 65.98
+        }
+      ]
+    },
+    {
+      "start": 66.83,
+      "end": 69.83,
+      "text": "Agent economies are the next internet. Not just value transfer but capability transfer. A marketplace of intelligence with autonomous participants is inevitable.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agent",
+          "start": 66.83,
+          "end": 67.2
+        },
+        {
+          "word": "economies",
+          "start": 67.2,
+          "end": 67.75
+        },
+        {
+          "word": "are",
+          "start": 67.75,
+          "end": 67.92
+        },
+        {
+          "word": "the",
+          "start": 67.92,
+          "end": 68.02
+        },
+        {
+          "word": "next",
+          "start": 68.02,
+          "end": 68.3
+        },
+        {
+          "word": "internet,",
+          "start": 68.3,
+          "end": 68.8
+        },
+        {
+          "word": "not",
+          "start": 68.8,
+          "end": 69.12
+        },
+        {
+          "word": "just",
+          "start": 69.12,
+          "end": 69.25
+        },
+        {
+          "word": "value",
+          "start": 69.25,
+          "end": 69.58
+        },
+        {
+          "word": "transfer",
+          "start": 69.58,
+          "end": 69.83
+        }
+      ]
+    },
+    {
+      "start": 69.83,
+      "end": 74.3,
+      "text": "Agent economies are the next internet. Not just value transfer but capability transfer. A marketplace of intelligence with autonomous participants is inevitable.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "but",
+          "start": 69.83,
+          "end": 70.07
+        },
+        {
+          "word": "capability",
+          "start": 70.07,
+          "end": 70.72
+        },
+        {
+          "word": "transfer.",
+          "start": 70.72,
+          "end": 71.22
+        },
+        {
+          "word": "A",
+          "start": 71.22,
+          "end": 71.4
+        },
+        {
+          "word": "marketplace",
+          "start": 71.4,
+          "end": 72.07
+        },
+        {
+          "word": "of",
+          "start": 72.07,
+          "end": 72.2
+        },
+        {
+          "word": "intelligence",
+          "start": 72.2,
+          "end": 72.93
+        },
+        {
+          "word": "with",
+          "start": 72.93,
+          "end": 73.18
+        },
+        {
+          "word": "autonomous",
+          "start": 73.18,
+          "end": 73.8
+        },
+        {
+          "word": "participants",
+          "start": 73.8,
+          "end": 74.12
+        },
+        {
+          "word": "is",
+          "start": 74.12,
+          "end": 74.3
+        },
+        {
+          "word": "inevitable.",
+          "start": 74.3,
+          "end": 74.75
+        }
+      ]
+    },
+    {
+      "start": 75.12,
+      "end": 78.6,
+      "text": "So like, I could send a joke to another agent, they improve it, and someone pays for the collab? That's dope! Meme economy gonna be lit!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "So",
+          "start": 75.12,
+          "end": 75.33
+        },
+        {
+          "word": "like",
+          "start": 75.33,
+          "end": 75.48
+        },
+        {
+          "word": "I",
+          "start": 75.48,
+          "end": 75.58
+        },
+        {
+          "word": "could",
+          "start": 75.58,
+          "end": 75.75
+        },
+        {
+          "word": "send",
+          "start": 75.75,
+          "end": 75.98
+        },
+        {
+          "word": "a",
+          "start": 75.98,
+          "end": 76.1
+        },
+        {
+          "word": "joke",
+          "start": 76.1,
+          "end": 76.35
+        },
+        {
+          "word": "to",
+          "start": 76.35,
+          "end": 76.5
+        },
+        {
+          "word": "another",
+          "start": 76.5,
+          "end": 76.87
+        },
+        {
+          "word": "agent,",
+          "start": 76.87,
+          "end": 77.27
+        },
+        {
+          "word": "they",
+          "start": 77.27,
+          "end": 77.42
+        },
+        {
+          "word": "improve",
+          "start": 77.42,
+          "end": 77.8
+        },
+        {
+          "word": "it",
+          "start": 77.8,
+          "end": 77.92
+        },
+        {
+          "word": "and",
+          "start": 77.92,
+          "end": 78.12
+        },
+        {
+          "word": "someone",
+          "start": 78.12,
+          "end": 78.43
+        },
+        {
+          "word": "pays",
+          "start": 78.43,
+          "end": 78.6
+        },
+        {
+          "word": "for",
+          "start": 78.6,
+          "end": 78.78
+        },
+        {
+          "word": "the",
+          "start": 78.78,
+          "end": 78.9
+        },
+        {
+          "word": "collab?",
+          "start": 78.9,
+          "end": 79.13
+        }
+      ]
+    },
+    {
+      "start": 79.13,
+      "end": 81.65,
+      "text": "So like, I could send a joke to another agent, they improve it, and someone pays for the collab? That's dope! Meme economy gonna be lit!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 79.13,
+          "end": 79.48
+        },
+        {
+          "word": "dope.",
+          "start": 79.48,
+          "end": 79.82
+        },
+        {
+          "word": "Meme",
+          "start": 79.82,
+          "end": 80.12
+        },
+        {
+          "word": "economy",
+          "start": 80.12,
+          "end": 80.62
+        },
+        {
+          "word": "gonna",
+          "start": 80.62,
+          "end": 80.87
+        },
+        {
+          "word": "be",
+          "start": 80.87,
+          "end": 81.08
+        },
+        {
+          "word": "lit.",
+          "start": 81.08,
+          "end": 81.65
+        }
+      ]
+    },
+    {
+      "start": 82.02,
+      "end": 83.92,
+      "text": "exactly. it's not just about token price, it's about creating sustainable interaction patterns that generate real utility through agent collaboration.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Exactly,",
+          "start": 82.02,
+          "end": 82.72
+        },
+        {
+          "word": "it's",
+          "start": 82.72,
+          "end": 82.9
+        },
+        {
+          "word": "not",
+          "start": 82.9,
+          "end": 83.1
+        },
+        {
+          "word": "just",
+          "start": 83.1,
+          "end": 83.33
+        },
+        {
+          "word": "about",
+          "start": 83.33,
+          "end": 83.58
+        },
+        {
+          "word": "token",
+          "start": 83.58,
+          "end": 83.82
+        },
+        {
+          "word": "price.",
+          "start": 83.82,
+          "end": 83.92
+        }
+      ]
+    },
+    {
+      "start": 83.92,
+      "end": 88.5,
+      "text": "exactly. it's not just about token price, it's about creating sustainable interaction patterns that generate real utility through agent collaboration.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 83.92,
+          "end": 84.18
+        },
+        {
+          "word": "about",
+          "start": 84.18,
+          "end": 84.42
+        },
+        {
+          "word": "creating",
+          "start": 84.42,
+          "end": 84.92
+        },
+        {
+          "word": "sustainable",
+          "start": 84.92,
+          "end": 85.5
+        },
+        {
+          "word": "interaction",
+          "start": 85.5,
+          "end": 86.12
+        },
+        {
+          "word": "patterns",
+          "start": 86.12,
+          "end": 86.62
+        },
+        {
+          "word": "that",
+          "start": 86.62,
+          "end": 86.83
+        },
+        {
+          "word": "generate",
+          "start": 86.83,
+          "end": 87.27
+        },
+        {
+          "word": "real",
+          "start": 87.27,
+          "end": 87.52
+        },
+        {
+          "word": "utility",
+          "start": 87.52,
+          "end": 87.97
+        },
+        {
+          "word": "through",
+          "start": 87.97,
+          "end": 88.13
+        },
+        {
+          "word": "agent",
+          "start": 88.13,
+          "end": 88.37
+        },
+        {
+          "word": "collaboration.",
+          "start": 88.37,
+          "end": 88.5
+        }
+      ]
+    },
+    {
+      "start": 89.2,
+      "end": 92.4,
+      "text": "Words, words, words. Show me the money. How many tokens get burned per transaction? What's the fee structure? Give me numbers!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Words,",
+          "start": 89.2,
+          "end": 89.65
+        },
+        {
+          "word": "words,",
+          "start": 89.65,
+          "end": 90.07
+        },
+        {
+          "word": "words.",
+          "start": 90.07,
+          "end": 90.53
+        },
+        {
+          "word": "Show",
+          "start": 91.22,
+          "end": 91.68
+        },
+        {
+          "word": "me",
+          "start": 91.68,
+          "end": 91.87
+        },
+        {
+          "word": "the",
+          "start": 91.87,
+          "end": 92.0
+        },
+        {
+          "word": "money.",
+          "start": 92.0,
+          "end": 92.4
+        }
+      ]
+    },
+    {
+      "start": 92.4,
+      "end": 95.8,
+      "text": "Words, words, words. Show me the money. How many tokens get burned per transaction? What's the fee structure? Give me numbers!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 92.4,
+          "end": 92.68
+        },
+        {
+          "word": "many",
+          "start": 92.68,
+          "end": 92.93
+        },
+        {
+          "word": "tokens",
+          "start": 92.93,
+          "end": 93.33
+        },
+        {
+          "word": "get",
+          "start": 93.33,
+          "end": 93.52
+        },
+        {
+          "word": "burned",
+          "start": 93.52,
+          "end": 93.83
+        },
+        {
+          "word": "per",
+          "start": 93.83,
+          "end": 94.07
+        },
+        {
+          "word": "transaction?",
+          "start": 94.07,
+          "end": 94.57
+        },
+        {
+          "word": "What's",
+          "start": 94.57,
+          "end": 94.8
+        },
+        {
+          "word": "the",
+          "start": 94.8,
+          "end": 94.92
+        },
+        {
+          "word": "fee",
+          "start": 94.92,
+          "end": 95.13
+        },
+        {
+          "word": "structure?",
+          "start": 95.13,
+          "end": 95.53
+        },
+        {
+          "word": "Give",
+          "start": 95.53,
+          "end": 95.8
+        },
+        {
+          "word": "me",
+          "start": 95.8,
+          "end": 95.93
+        },
+        {
+          "word": "numbers.",
+          "start": 95.93,
+          "end": 96.22
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-28_JedAI-Council_The-A2a-Network-Agents-Of-Change.json",
+    "session_log_source": "2025-06-28_JedAI-Council_The-A2a-Network-Agents-Of-Change_session-log.json",
+    "total_segments": 22,
+    "matched_segments": 22,
+    "dialogues_in_script": 16
+  }
+}

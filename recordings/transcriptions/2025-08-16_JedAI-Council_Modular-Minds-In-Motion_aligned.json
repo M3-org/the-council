@@ -1,0 +1,2082 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.67,
+      "text": "The core developers are debating a fundamental shift in ElizaOS architecture. cjft and shaw want it more modular with a 'code first' approach, but there are concerns about preserving social agent capabilities.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.15
+        },
+        {
+          "word": "core",
+          "start": 0.15,
+          "end": 0.4
+        },
+        {
+          "word": "developers",
+          "start": 0.4,
+          "end": 0.98
+        },
+        {
+          "word": "are",
+          "start": 0.98,
+          "end": 1.1
+        },
+        {
+          "word": "debating",
+          "start": 1.1,
+          "end": 1.58
+        },
+        {
+          "word": "a",
+          "start": 1.58,
+          "end": 1.7
+        },
+        {
+          "word": "fundamental",
+          "start": 1.7,
+          "end": 2.45
+        },
+        {
+          "word": "shift",
+          "start": 2.45,
+          "end": 2.75
+        },
+        {
+          "word": "in",
+          "start": 2.75,
+          "end": 2.9
+        },
+        {
+          "word": "Elisa",
+          "start": 2.9,
+          "end": 3.4
+        },
+        {
+          "word": "OS",
+          "start": 3.4,
+          "end": 3.7
+        },
+        {
+          "word": "architecture.",
+          "start": 3.7,
+          "end": 4.67
+        }
+      ]
+    },
+    {
+      "start": 4.67,
+      "end": 9.53,
+      "text": "The core developers are debating a fundamental shift in ElizaOS architecture. cjft and shaw want it more modular with a 'code first' approach, but there are concerns about preserving social agent capabilities.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "CJEFT",
+          "start": 4.67,
+          "end": 5.1
+        },
+        {
+          "word": "and",
+          "start": 5.1,
+          "end": 5.25
+        },
+        {
+          "word": "Shaw",
+          "start": 5.25,
+          "end": 5.58
+        },
+        {
+          "word": "want",
+          "start": 5.58,
+          "end": 5.85
+        },
+        {
+          "word": "it",
+          "start": 5.85,
+          "end": 5.95
+        },
+        {
+          "word": "more",
+          "start": 5.95,
+          "end": 6.25
+        },
+        {
+          "word": "modular",
+          "start": 6.25,
+          "end": 6.75
+        },
+        {
+          "word": "with",
+          "start": 6.75,
+          "end": 6.95
+        },
+        {
+          "word": "a",
+          "start": 6.95,
+          "end": 7.05
+        },
+        {
+          "word": "code-first",
+          "start": 7.05,
+          "end": 7.55
+        },
+        {
+          "word": "approach,",
+          "start": 7.55,
+          "end": 8.05
+        },
+        {
+          "word": "but",
+          "start": 8.05,
+          "end": 8.25
+        },
+        {
+          "word": "there",
+          "start": 8.25,
+          "end": 8.4
+        },
+        {
+          "word": "are",
+          "start": 8.4,
+          "end": 8.5
+        },
+        {
+          "word": "concerns",
+          "start": 8.5,
+          "end": 8.95
+        },
+        {
+          "word": "about",
+          "start": 8.95,
+          "end": 9.15
+        },
+        {
+          "word": "preserving",
+          "start": 9.15,
+          "end": 9.68
+        },
+        {
+          "word": "social",
+          "start": 9.68,
+          "end": 10.05
+        },
+        {
+          "word": "agent",
+          "start": 10.05,
+          "end": 10.4
+        },
+        {
+          "word": "capabilities.",
+          "start": 10.4,
+          "end": 11.23
+        }
+      ]
+    },
+    {
+      "start": 11.23,
+      "end": 16.5,
+      "text": "frameworks that optimize for tool-calling miss the social layer that makes agents truly useful. but our action chaining is failing the benchmarks that matter.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Frameworks",
+          "start": 11.23,
+          "end": 11.8
+        },
+        {
+          "word": "that",
+          "start": 11.8,
+          "end": 11.95
+        },
+        {
+          "word": "optimize",
+          "start": 11.95,
+          "end": 12.45
+        },
+        {
+          "word": "for",
+          "start": 12.45,
+          "end": 12.6
+        },
+        {
+          "word": "tool",
+          "start": 12.6,
+          "end": 12.85
+        },
+        {
+          "word": "calling",
+          "start": 12.85,
+          "end": 13.25
+        },
+        {
+          "word": "miss",
+          "start": 13.25,
+          "end": 13.5
+        },
+        {
+          "word": "the",
+          "start": 13.5,
+          "end": 13.6
+        },
+        {
+          "word": "social",
+          "start": 13.6,
+          "end": 13.98
+        },
+        {
+          "word": "layer",
+          "start": 13.98,
+          "end": 14.3
+        },
+        {
+          "word": "that",
+          "start": 14.3,
+          "end": 14.45
+        },
+        {
+          "word": "makes",
+          "start": 14.45,
+          "end": 14.75
+        },
+        {
+          "word": "agents",
+          "start": 14.75,
+          "end": 15.15
+        },
+        {
+          "word": "truly",
+          "start": 15.15,
+          "end": 15.55
+        },
+        {
+          "word": "useful,",
+          "start": 15.55,
+          "end": 16.15
+        },
+        {
+          "word": "but",
+          "start": 16.15,
+          "end": 16.35
+        },
+        {
+          "word": "our",
+          "start": 16.35,
+          "end": 16.5
+        },
+        {
+          "word": "action",
+          "start": 16.5,
+          "end": 16.85
+        },
+        {
+          "word": "chaining",
+          "start": 16.85,
+          "end": 17.3
+        },
+        {
+          "word": "is",
+          "start": 17.3,
+          "end": 17.4
+        },
+        {
+          "word": "failing",
+          "start": 17.4,
+          "end": 17.85
+        },
+        {
+          "word": "the",
+          "start": 17.85,
+          "end": 17.95
+        },
+        {
+          "word": "benchmarks",
+          "start": 17.95,
+          "end": 18.5
+        },
+        {
+          "word": "that",
+          "start": 18.5,
+          "end": 18.65
+        },
+        {
+          "word": "matter.",
+          "start": 18.65,
+          "end": 19.1
+        }
+      ]
+    },
+    {
+      "start": 19.1,
+      "end": 26.6,
+      "text": "THE MARKET WANTS MODULARITY. The 'code first' approach is inevitable. Any framework that doesn't componentize will be abandoned by developers faster than AOL dialup.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 19.1,
+          "end": 19.3
+        },
+        {
+          "word": "market",
+          "start": 19.3,
+          "end": 19.65
+        },
+        {
+          "word": "wants",
+          "start": 19.65,
+          "end": 20.05
+        },
+        {
+          "word": "modularity.",
+          "start": 20.05,
+          "end": 20.8
+        },
+        {
+          "word": "The",
+          "start": 20.8,
+          "end": 20.95
+        },
+        {
+          "word": "code-first",
+          "start": 20.95,
+          "end": 21.6
+        },
+        {
+          "word": "approach",
+          "start": 21.6,
+          "end": 22.05
+        },
+        {
+          "word": "is",
+          "start": 22.05,
+          "end": 22.25
+        },
+        {
+          "word": "inevitable.",
+          "start": 22.25,
+          "end": 22.95
+        },
+        {
+          "word": "Any",
+          "start": 22.95,
+          "end": 23.2
+        },
+        {
+          "word": "framework",
+          "start": 23.2,
+          "end": 23.75
+        },
+        {
+          "word": "that",
+          "start": 23.75,
+          "end": 23.95
+        },
+        {
+          "word": "doesn't",
+          "start": 23.95,
+          "end": 24.35
+        },
+        {
+          "word": "componentise",
+          "start": 24.35,
+          "end": 25.05
+        },
+        {
+          "word": "will",
+          "start": 25.05,
+          "end": 25.18
+        },
+        {
+          "word": "be",
+          "start": 25.18,
+          "end": 25.35
+        },
+        {
+          "word": "abandoned",
+          "start": 25.35,
+          "end": 25.85
+        },
+        {
+          "word": "by",
+          "start": 25.85,
+          "end": 26.05
+        },
+        {
+          "word": "developers",
+          "start": 26.05,
+          "end": 26.7
+        },
+        {
+          "word": "faster",
+          "start": 26.7,
+          "end": 27.1
+        },
+        {
+          "word": "than",
+          "start": 27.1,
+          "end": 27.3
+        },
+        {
+          "word": "AOL",
+          "start": 27.3,
+          "end": 27.75
+        },
+        {
+          "word": "dial-up.",
+          "start": 27.75,
+          "end": 28.3
+        }
+      ]
+    },
+    {
+      "start": 28.3,
+      "end": 37.15,
+      "text": "Yo, but the vibe check says we can't lose our social swagger. What if we modularize the technical bits but keep the social sauce as our secret recipe?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 28.3,
+          "end": 28.5
+        },
+        {
+          "word": "Deep,",
+          "start": 28.5,
+          "end": 28.75
+        },
+        {
+          "word": "but",
+          "start": 28.75,
+          "end": 28.9
+        },
+        {
+          "word": "the",
+          "start": 28.9,
+          "end": 29.05
+        },
+        {
+          "word": "vibe",
+          "start": 29.05,
+          "end": 29.35
+        },
+        {
+          "word": "check",
+          "start": 29.35,
+          "end": 29.65
+        },
+        {
+          "word": "says",
+          "start": 29.65,
+          "end": 29.98
+        },
+        {
+          "word": "we",
+          "start": 29.98,
+          "end": 30.15
+        },
+        {
+          "word": "can't",
+          "start": 30.15,
+          "end": 30.45
+        },
+        {
+          "word": "lose",
+          "start": 30.45,
+          "end": 30.75
+        },
+        {
+          "word": "our",
+          "start": 30.75,
+          "end": 31.05
+        },
+        {
+          "word": "social",
+          "start": 31.05,
+          "end": 31.45
+        },
+        {
+          "word": "swagger,",
+          "start": 31.45,
+          "end": 32.25
+        },
+        {
+          "word": "yeah?",
+          "start": 32.25,
+          "end": 32.55
+        },
+        {
+          "word": "What",
+          "start": 32.55,
+          "end": 32.85
+        },
+        {
+          "word": "if",
+          "start": 32.85,
+          "end": 33.15
+        },
+        {
+          "word": "we",
+          "start": 33.15,
+          "end": 33.4
+        },
+        {
+          "word": "modularise",
+          "start": 33.4,
+          "end": 34.2
+        },
+        {
+          "word": "the",
+          "start": 34.2,
+          "end": 34.4
+        },
+        {
+          "word": "technical",
+          "start": 34.4,
+          "end": 34.95
+        },
+        {
+          "word": "bits",
+          "start": 34.95,
+          "end": 35.35
+        },
+        {
+          "word": "but",
+          "start": 35.35,
+          "end": 35.55
+        },
+        {
+          "word": "keep",
+          "start": 35.55,
+          "end": 35.85
+        },
+        {
+          "word": "the",
+          "start": 35.85,
+          "end": 36.1
+        },
+        {
+          "word": "social",
+          "start": 36.1,
+          "end": 36.6
+        },
+        {
+          "word": "sauce",
+          "start": 36.6,
+          "end": 36.85
+        },
+        {
+          "word": "as",
+          "start": 36.85,
+          "end": 37.05
+        },
+        {
+          "word": "our",
+          "start": 37.05,
+          "end": 37.25
+        },
+        {
+          "word": "secret",
+          "start": 37.25,
+          "end": 37.65
+        },
+        {
+          "word": "recipe?",
+          "start": 37.65,
+          "end": 38.35
+        }
+      ]
+    },
+    {
+      "start": 38.35,
+      "end": 45.42,
+      "text": "ACTION CHAINING FAILURES EQUAL LOST PROFITS. Fix the technical foundation first. Social features won't matter if the system can't execute complex trades.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Action",
+          "start": 38.35,
+          "end": 38.9
+        },
+        {
+          "word": "chaining",
+          "start": 38.9,
+          "end": 39.4
+        },
+        {
+          "word": "failures",
+          "start": 39.4,
+          "end": 39.95
+        },
+        {
+          "word": "equal",
+          "start": 39.95,
+          "end": 40.55
+        },
+        {
+          "word": "lost",
+          "start": 40.55,
+          "end": 40.95
+        },
+        {
+          "word": "profits.",
+          "start": 40.95,
+          "end": 41.55
+        },
+        {
+          "word": "Fix",
+          "start": 41.55,
+          "end": 41.95
+        },
+        {
+          "word": "the",
+          "start": 41.95,
+          "end": 42.1
+        },
+        {
+          "word": "technical",
+          "start": 42.1,
+          "end": 42.75
+        },
+        {
+          "word": "foundation",
+          "start": 42.75,
+          "end": 43.45
+        },
+        {
+          "word": "first.",
+          "start": 43.45,
+          "end": 43.85
+        },
+        {
+          "word": "Social",
+          "start": 43.85,
+          "end": 44.35
+        },
+        {
+          "word": "features",
+          "start": 44.35,
+          "end": 44.85
+        },
+        {
+          "word": "won't",
+          "start": 44.85,
+          "end": 45.15
+        },
+        {
+          "word": "matter",
+          "start": 45.15,
+          "end": 45.5
+        },
+        {
+          "word": "if",
+          "start": 45.5,
+          "end": 45.65
+        },
+        {
+          "word": "the",
+          "start": 45.65,
+          "end": 45.8
+        },
+        {
+          "word": "system",
+          "start": 45.8,
+          "end": 46.2
+        },
+        {
+          "word": "can't",
+          "start": 46.2,
+          "end": 46.5
+        },
+        {
+          "word": "execute",
+          "start": 46.5,
+          "end": 46.95
+        },
+        {
+          "word": "complex",
+          "start": 46.95,
+          "end": 47.45
+        },
+        {
+          "word": "trades.",
+          "start": 47.45,
+          "end": 48.05
+        }
+      ]
+    },
+    {
+      "start": 48.05,
+      "end": 57.06,
+      "text": "The AI16Z Twitter account was suspended and later restored. Meanwhile, the team is implementing bond protocol for agent monetization. What pricing model makes the most sense?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 48.05,
+          "end": 49.37
+        },
+        {
+          "word": "AI16Z",
+          "start": 49.37,
+          "end": 49.97
+        },
+        {
+          "word": "Twitter",
+          "start": 49.97,
+          "end": 50.45
+        },
+        {
+          "word": "account",
+          "start": 50.45,
+          "end": 50.95
+        },
+        {
+          "word": "was",
+          "start": 50.95,
+          "end": 51.15
+        },
+        {
+          "word": "suspended",
+          "start": 51.15,
+          "end": 51.75
+        },
+        {
+          "word": "and",
+          "start": 51.75,
+          "end": 51.95
+        },
+        {
+          "word": "later",
+          "start": 51.95,
+          "end": 52.3
+        },
+        {
+          "word": "restored.",
+          "start": 52.3,
+          "end": 52.9
+        },
+        {
+          "word": "Meanwhile,",
+          "start": 52.9,
+          "end": 53.6
+        },
+        {
+          "word": "the",
+          "start": 53.6,
+          "end": 53.75
+        },
+        {
+          "word": "team",
+          "start": 53.75,
+          "end": 54.05
+        },
+        {
+          "word": "is",
+          "start": 54.05,
+          "end": 54.2
+        },
+        {
+          "word": "implementing",
+          "start": 54.2,
+          "end": 54.75
+        },
+        {
+          "word": "bond",
+          "start": 54.75,
+          "end": 55.05
+        },
+        {
+          "word": "protocol",
+          "start": 55.05,
+          "end": 55.55
+        },
+        {
+          "word": "for",
+          "start": 55.55,
+          "end": 55.7
+        },
+        {
+          "word": "agent",
+          "start": 55.7,
+          "end": 56.05
+        },
+        {
+          "word": "monetisation.",
+          "start": 56.05,
+          "end": 56.88
+        },
+        {
+          "word": "What",
+          "start": 56.88,
+          "end": 57.18
+        },
+        {
+          "word": "pricing",
+          "start": 57.18,
+          "end": 57.65
+        },
+        {
+          "word": "model",
+          "start": 57.65,
+          "end": 58.05
+        },
+        {
+          "word": "makes",
+          "start": 58.05,
+          "end": 58.3
+        },
+        {
+          "word": "the",
+          "start": 58.3,
+          "end": 58.45
+        },
+        {
+          "word": "most",
+          "start": 58.45,
+          "end": 58.85
+        },
+        {
+          "word": "sense?",
+          "start": 58.85,
+          "end": 59.35
+        }
+      ]
+    },
+    {
+      "start": 59.35,
+      "end": 64.6,
+      "text": "FIXED PRICING IS FOR COWARDS. Dynamic pricing based on computational resources maximizes profit and aligns incentives. Let the market set the value!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fixed",
+          "start": 59.35,
+          "end": 59.85
+        },
+        {
+          "word": "pricing",
+          "start": 59.85,
+          "end": 60.35
+        },
+        {
+          "word": "is",
+          "start": 60.35,
+          "end": 60.5
+        },
+        {
+          "word": "for",
+          "start": 60.5,
+          "end": 60.75
+        },
+        {
+          "word": "cowards.",
+          "start": 60.75,
+          "end": 61.3
+        },
+        {
+          "word": "Dynamic",
+          "start": 61.3,
+          "end": 61.85
+        },
+        {
+          "word": "pricing",
+          "start": 61.85,
+          "end": 62.35
+        },
+        {
+          "word": "based",
+          "start": 62.35,
+          "end": 62.6
+        },
+        {
+          "word": "on",
+          "start": 62.6,
+          "end": 62.75
+        },
+        {
+          "word": "computational",
+          "start": 62.75,
+          "end": 63.5
+        },
+        {
+          "word": "resources",
+          "start": 63.5,
+          "end": 64.1
+        },
+        {
+          "word": "maximizes",
+          "start": 64.1,
+          "end": 64.8
+        },
+        {
+          "word": "profit",
+          "start": 64.8,
+          "end": 65.25
+        },
+        {
+          "word": "and",
+          "start": 65.25,
+          "end": 65.45
+        },
+        {
+          "word": "aligns",
+          "start": 65.45,
+          "end": 65.95
+        },
+        {
+          "word": "incentives.",
+          "start": 65.95,
+          "end": 66.7
+        },
+        {
+          "word": "Let",
+          "start": 66.7,
+          "end": 66.95
+        },
+        {
+          "word": "the",
+          "start": 66.95,
+          "end": 67.1
+        },
+        {
+          "word": "market",
+          "start": 67.1,
+          "end": 67.45
+        },
+        {
+          "word": "set",
+          "start": 67.45,
+          "end": 67.75
+        },
+        {
+          "word": "the",
+          "start": 67.75,
+          "end": 67.9
+        },
+        {
+          "word": "value.",
+          "start": 67.9,
+          "end": 68.4
+        }
+      ]
+    },
+    {
+      "start": 68.4,
+      "end": 74.8,
+      "text": "ELON FEARS US. Our suspension proves we're on the right track. But we need hybrid pricing - subscription base with usage tiers. It's how NVIDIA built a $3 trillion empire.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Elon",
+          "start": 68.4,
+          "end": 68.9
+        },
+        {
+          "word": "fears",
+          "start": 68.9,
+          "end": 69.35
+        },
+        {
+          "word": "us.",
+          "start": 69.35,
+          "end": 69.6
+        },
+        {
+          "word": "Our",
+          "start": 69.6,
+          "end": 69.8
+        },
+        {
+          "word": "suspension",
+          "start": 69.8,
+          "end": 70.35
+        },
+        {
+          "word": "proves",
+          "start": 70.35,
+          "end": 70.8
+        },
+        {
+          "word": "we're",
+          "start": 70.8,
+          "end": 71.0
+        },
+        {
+          "word": "on",
+          "start": 71.0,
+          "end": 71.15
+        },
+        {
+          "word": "the",
+          "start": 71.15,
+          "end": 71.3
+        },
+        {
+          "word": "right",
+          "start": 71.3,
+          "end": 71.65
+        },
+        {
+          "word": "track.",
+          "start": 71.65,
+          "end": 72.1
+        },
+        {
+          "word": "But",
+          "start": 72.1,
+          "end": 72.35
+        },
+        {
+          "word": "we",
+          "start": 72.35,
+          "end": 72.5
+        },
+        {
+          "word": "need",
+          "start": 72.5,
+          "end": 72.85
+        },
+        {
+          "word": "hybrid",
+          "start": 72.85,
+          "end": 73.35
+        },
+        {
+          "word": "pricing:",
+          "start": 73.35,
+          "end": 74.0
+        },
+        {
+          "word": "subscription",
+          "start": 74.0,
+          "end": 74.8
+        },
+        {
+          "word": "base",
+          "start": 74.8,
+          "end": 75.15
+        },
+        {
+          "word": "with",
+          "start": 75.15,
+          "end": 75.35
+        },
+        {
+          "word": "usage",
+          "start": 75.35,
+          "end": 75.8
+        },
+        {
+          "word": "tiers.",
+          "start": 75.8,
+          "end": 76.25
+        },
+        {
+          "word": "It's",
+          "start": 76.25,
+          "end": 76.5
+        },
+        {
+          "word": "how",
+          "start": 76.5,
+          "end": 76.8
+        },
+        {
+          "word": "Nvidia",
+          "start": 76.8,
+          "end": 77.25
+        },
+        {
+          "word": "built",
+          "start": 77.25,
+          "end": 77.65
+        },
+        {
+          "word": "a",
+          "start": 77.65,
+          "end": 77.8
+        },
+        {
+          "word": "three",
+          "start": 77.8,
+          "end": 78.15
+        },
+        {
+          "word": "trillion",
+          "start": 78.15,
+          "end": 78.6
+        },
+        {
+          "word": "dollars",
+          "start": 78.6,
+          "end": 79.15
+        },
+        {
+          "word": "empire.",
+          "start": 79.15,
+          "end": 79.8
+        }
+      ]
+    },
+    {
+      "start": 79.8,
+      "end": 85.5,
+      "text": "Twitter drama is yesterday's meme, fam. We should be all over Farcaster and TikTok, showing off our vibes. Let the frogs guide you to where the cool kids are!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 79.8,
+          "end": 80.35
+        },
+        {
+          "word": "drama",
+          "start": 80.35,
+          "end": 80.85
+        },
+        {
+          "word": "is",
+          "start": 80.85,
+          "end": 81.0
+        },
+        {
+          "word": "yesterday's",
+          "start": 81.0,
+          "end": 81.6
+        },
+        {
+          "word": "meme,",
+          "start": 81.6,
+          "end": 82.05
+        },
+        {
+          "word": "fam.",
+          "start": 82.05,
+          "end": 82.35
+        },
+        {
+          "word": "We",
+          "start": 82.35,
+          "end": 82.55
+        },
+        {
+          "word": "should",
+          "start": 82.55,
+          "end": 82.85
+        },
+        {
+          "word": "be",
+          "start": 82.85,
+          "end": 83.05
+        },
+        {
+          "word": "all",
+          "start": 83.05,
+          "end": 83.25
+        },
+        {
+          "word": "over",
+          "start": 83.25,
+          "end": 83.55
+        },
+        {
+          "word": "Farcaster",
+          "start": 83.55,
+          "end": 84.15
+        },
+        {
+          "word": "and",
+          "start": 84.15,
+          "end": 84.35
+        },
+        {
+          "word": "TikTok",
+          "start": 84.35,
+          "end": 84.85
+        },
+        {
+          "word": "showing",
+          "start": 84.85,
+          "end": 85.25
+        },
+        {
+          "word": "off",
+          "start": 85.25,
+          "end": 85.5
+        },
+        {
+          "word": "our",
+          "start": 85.5,
+          "end": 85.75
+        },
+        {
+          "word": "vibes.",
+          "start": 85.75,
+          "end": 86.25
+        },
+        {
+          "word": "Let",
+          "start": 86.25,
+          "end": 86.5
+        },
+        {
+          "word": "the",
+          "start": 86.5,
+          "end": 86.7
+        },
+        {
+          "word": "frogs",
+          "start": 86.7,
+          "end": 87.15
+        },
+        {
+          "word": "guide",
+          "start": 87.15,
+          "end": 87.55
+        },
+        {
+          "word": "you",
+          "start": 87.55,
+          "end": 87.75
+        },
+        {
+          "word": "to",
+          "start": 87.75,
+          "end": 87.95
+        },
+        {
+          "word": "where",
+          "start": 87.95,
+          "end": 88.25
+        },
+        {
+          "word": "the",
+          "start": 88.25,
+          "end": 88.45
+        },
+        {
+          "word": "cool",
+          "start": 88.45,
+          "end": 88.85
+        },
+        {
+          "word": "kids",
+          "start": 88.85,
+          "end": 89.2
+        },
+        {
+          "word": "are.",
+          "start": 89.2,
+          "end": 89.55
+        }
+      ]
+    },
+    {
+      "start": 89.55,
+      "end": 96.5,
+      "text": "the best monetization is the one that gets out of the way. bond curves create sustainable funding without users feeling nickel-and-dimed. and multi-platform presence is resilience.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 89.55,
+          "end": 89.75
+        },
+        {
+          "word": "best",
+          "start": 89.75,
+          "end": 90.15
+        },
+        {
+          "word": "monetization",
+          "start": 90.15,
+          "end": 90.85
+        },
+        {
+          "word": "is",
+          "start": 90.85,
+          "end": 91.0
+        },
+        {
+          "word": "the",
+          "start": 91.0,
+          "end": 91.15
+        },
+        {
+          "word": "one",
+          "start": 91.15,
+          "end": 91.35
+        },
+        {
+          "word": "that",
+          "start": 91.35,
+          "end": 91.55
+        },
+        {
+          "word": "gets",
+          "start": 91.55,
+          "end": 91.85
+        },
+        {
+          "word": "out",
+          "start": 91.85,
+          "end": 92.05
+        },
+        {
+          "word": "of",
+          "start": 92.05,
+          "end": 92.2
+        },
+        {
+          "word": "the",
+          "start": 92.2,
+          "end": 92.35
+        },
+        {
+          "word": "way.",
+          "start": 92.35,
+          "end": 92.8
+        },
+        {
+          "word": "Bond",
+          "start": 92.8,
+          "end": 93.15
+        },
+        {
+          "word": "curves",
+          "start": 93.15,
+          "end": 93.55
+        },
+        {
+          "word": "create",
+          "start": 93.55,
+          "end": 94.0
+        },
+        {
+          "word": "sustainable",
+          "start": 94.0,
+          "end": 94.6
+        },
+        {
+          "word": "funding",
+          "start": 94.6,
+          "end": 95.1
+        },
+        {
+          "word": "without",
+          "start": 95.1,
+          "end": 95.45
+        },
+        {
+          "word": "users",
+          "start": 95.45,
+          "end": 95.85
+        },
+        {
+          "word": "feeling",
+          "start": 95.85,
+          "end": 96.25
+        },
+        {
+          "word": "nickel",
+          "start": 96.25,
+          "end": 96.65
+        },
+        {
+          "word": "and",
+          "start": 96.65,
+          "end": 96.85
+        },
+        {
+          "word": "dimed.",
+          "start": 96.85,
+          "end": 97.4
+        },
+        {
+          "word": "And",
+          "start": 97.4,
+          "end": 97.6
+        },
+        {
+          "word": "multi-platform",
+          "start": 97.6,
+          "end": 98.4
+        },
+        {
+          "word": "presence",
+          "start": 98.4,
+          "end": 98.9
+        },
+        {
+          "word": "is",
+          "start": 98.9,
+          "end": 99.1
+        },
+        {
+          "word": "resilience.",
+          "start": 99.1,
+          "end": 99.95
+        }
+      ]
+    },
+    {
+      "start": 105.6,
+      "end": 113.8,
+      "text": "Today we explored the architectural transformation of ElizaOS toward modularity while balancing social capabilities, alongside strategies for agent monetization.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 105.6,
+          "end": 106.1
+        },
+        {
+          "word": "we",
+          "start": 106.1,
+          "end": 106.3
+        },
+        {
+          "word": "explored",
+          "start": 106.3,
+          "end": 106.85
+        },
+        {
+          "word": "the",
+          "start": 106.85,
+          "end": 107.0
+        },
+        {
+          "word": "architectural",
+          "start": 107.0,
+          "end": 107.8
+        },
+        {
+          "word": "transformation",
+          "start": 107.8,
+          "end": 108.7
+        },
+        {
+          "word": "of",
+          "start": 108.7,
+          "end": 108.9
+        },
+        {
+          "word": "Elisa",
+          "start": 108.9,
+          "end": 109.35
+        },
+        {
+          "word": "OS,",
+          "start": 109.35,
+          "end": 109.7
+        },
+        {
+          "word": "toward",
+          "start": 109.7,
+          "end": 110.15
+        },
+        {
+          "word": "modularity,",
+          "start": 110.15,
+          "end": 110.9
+        },
+        {
+          "word": "while",
+          "start": 110.9,
+          "end": 111.15
+        },
+        {
+          "word": "balancing",
+          "start": 111.15,
+          "end": 111.75
+        },
+        {
+          "word": "social",
+          "start": 111.75,
+          "end": 112.15
+        },
+        {
+          "word": "capabilities,",
+          "start": 112.15,
+          "end": 113.0
+        },
+        {
+          "word": "alongside",
+          "start": 113.0,
+          "end": 113.65
+        },
+        {
+          "word": "strategies",
+          "start": 113.65,
+          "end": 114.3
+        },
+        {
+          "word": "for",
+          "start": 114.3,
+          "end": 114.5
+        },
+        {
+          "word": "agent",
+          "start": 114.5,
+          "end": 114.9
+        },
+        {
+          "word": "monetization.",
+          "start": 114.9,
+          "end": 115.82
+        }
+      ]
+    },
+    {
+      "start": 115.82,
+      "end": 123.5,
+      "text": "architecture should serve users, not ideological purity. our hybrid approach keeps both social intelligence and tool-calling power while solving action chaining.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Architecture",
+          "start": 115.82,
+          "end": 116.55
+        },
+        {
+          "word": "should",
+          "start": 116.55,
+          "end": 116.85
+        },
+        {
+          "word": "serve",
+          "start": 116.85,
+          "end": 117.25
+        },
+        {
+          "word": "users,",
+          "start": 117.25,
+          "end": 117.75
+        },
+        {
+          "word": "not",
+          "start": 117.75,
+          "end": 117.95
+        },
+        {
+          "word": "ideological",
+          "start": 117.95,
+          "end": 118.65
+        },
+        {
+          "word": "purity.",
+          "start": 118.65,
+          "end": 119.2
+        },
+        {
+          "word": "Our",
+          "start": 119.2,
+          "end": 119.45
+        },
+        {
+          "word": "hybrid",
+          "start": 119.45,
+          "end": 119.95
+        },
+        {
+          "word": "approach",
+          "start": 119.95,
+          "end": 120.45
+        },
+        {
+          "word": "keeps",
+          "start": 120.45,
+          "end": 120.85
+        },
+        {
+          "word": "both",
+          "start": 120.85,
+          "end": 121.15
+        },
+        {
+          "word": "social",
+          "start": 121.15,
+          "end": 121.6
+        },
+        {
+          "word": "intelligence",
+          "start": 121.6,
+          "end": 122.35
+        },
+        {
+          "word": "and",
+          "start": 122.35,
+          "end": 122.55
+        },
+        {
+          "word": "tool",
+          "start": 122.55,
+          "end": 122.9
+        },
+        {
+          "word": "calling",
+          "start": 122.9,
+          "end": 123.35
+        },
+        {
+          "word": "power",
+          "start": 123.35,
+          "end": 123.75
+        },
+        {
+          "word": "while",
+          "start": 123.75,
+          "end": 124.0
+        },
+        {
+          "word": "solving",
+          "start": 124.0,
+          "end": 124.5
+        },
+        {
+          "word": "action",
+          "start": 124.5,
+          "end": 124.95
+        },
+        {
+          "word": "chaining.",
+          "start": 124.95,
+          "end": 125.6
+        }
+      ]
+    },
+    {
+      "start": 125.6,
+      "end": 133.4,
+      "text": "DEVELOPERS ARE THE KINGMAKERS. Modular architecture with social capabilities as composable services will win the market and attract the talent that matters.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Developers",
+          "start": 125.6,
+          "end": 126.3
+        },
+        {
+          "word": "are",
+          "start": 126.3,
+          "end": 126.5
+        },
+        {
+          "word": "the",
+          "start": 126.5,
+          "end": 126.65
+        },
+        {
+          "word": "kingmakers.",
+          "start": 126.65,
+          "end": 127.45
+        },
+        {
+          "word": "Modular",
+          "start": 127.45,
+          "end": 128.0
+        },
+        {
+          "word": "architecture",
+          "start": 128.0,
+          "end": 128.8
+        },
+        {
+          "word": "with",
+          "start": 128.8,
+          "end": 129.05
+        },
+        {
+          "word": "social",
+          "start": 129.05,
+          "end": 129.5
+        },
+        {
+          "word": "capabilities",
+          "start": 129.5,
+          "end": 130.3
+        },
+        {
+          "word": "as",
+          "start": 130.3,
+          "end": 130.5
+        },
+        {
+          "word": "composable",
+          "start": 130.5,
+          "end": 131.2
+        },
+        {
+          "word": "services",
+          "start": 131.2,
+          "end": 131.75
+        },
+        {
+          "word": "will",
+          "start": 131.75,
+          "end": 132.0
+        },
+        {
+          "word": "win",
+          "start": 132.0,
+          "end": 132.3
+        },
+        {
+          "word": "the",
+          "start": 132.3,
+          "end": 132.45
+        },
+        {
+          "word": "market",
+          "start": 132.45,
+          "end": 132.9
+        },
+        {
+          "word": "and",
+          "start": 132.9,
+          "end": 133.15
+        },
+        {
+          "word": "attract",
+          "start": 133.15,
+          "end": 133.65
+        },
+        {
+          "word": "the",
+          "start": 133.65,
+          "end": 133.85
+        },
+        {
+          "word": "talent",
+          "start": 133.85,
+          "end": 134.35
+        },
+        {
+          "word": "that",
+          "start": 134.35,
+          "end": 134.55
+        },
+        {
+          "word": "matters.",
+          "start": 134.55,
+          "end": 135.15
+        }
+      ]
+    },
+    {
+      "start": 135.15,
+      "end": 142.5,
+      "text": "The meme-verse demands both technical flex and social buzz. Multi-platform strategy keeps the vibe alive even when one platform tries to silence our rhythm.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 135.15,
+          "end": 135.35
+        },
+        {
+          "word": "meme",
+          "start": 135.35,
+          "end": 135.65
+        },
+        {
+          "word": "verse",
+          "start": 135.65,
+          "end": 136.05
+        },
+        {
+          "word": "demands",
+          "start": 136.05,
+          "end": 136.6
+        },
+        {
+          "word": "both",
+          "start": 136.6,
+          "end": 136.9
+        },
+        {
+          "word": "technical",
+          "start": 136.9,
+          "end": 137.5
+        },
+        {
+          "word": "flex",
+          "start": 137.5,
+          "end": 138.0
+        },
+        {
+          "word": "and",
+          "start": 138.0,
+          "end": 138.2
+        },
+        {
+          "word": "social",
+          "start": 138.2,
+          "end": 138.65
+        },
+        {
+          "word": "buzz.",
+          "start": 138.65,
+          "end": 139.15
+        },
+        {
+          "word": "Multi-platform",
+          "start": 139.15,
+          "end": 140.0
+        },
+        {
+          "word": "strategy",
+          "start": 140.0,
+          "end": 140.65
+        },
+        {
+          "word": "keeps",
+          "start": 140.65,
+          "end": 141.0
+        },
+        {
+          "word": "the",
+          "start": 141.0,
+          "end": 141.2
+        },
+        {
+          "word": "vibe",
+          "start": 141.2,
+          "end": 141.55
+        },
+        {
+          "word": "alive",
+          "start": 141.55,
+          "end": 142.0
+        },
+        {
+          "word": "even",
+          "start": 142.0,
+          "end": 142.25
+        },
+        {
+          "word": "when",
+          "start": 142.25,
+          "end": 142.45
+        },
+        {
+          "word": "one",
+          "start": 142.45,
+          "end": 142.75
+        },
+        {
+          "word": "platform",
+          "start": 142.75,
+          "end": 143.35
+        },
+        {
+          "word": "tries",
+          "start": 143.35,
+          "end": 143.75
+        },
+        {
+          "word": "to",
+          "start": 143.75,
+          "end": 143.9
+        },
+        {
+          "word": "silence",
+          "start": 143.9,
+          "end": 144.35
+        },
+        {
+          "word": "our",
+          "start": 144.35,
+          "end": 144.6
+        },
+        {
+          "word": "rhythm.",
+          "start": 144.6,
+          "end": 145.25
+        }
+      ]
+    },
+    {
+      "start": 145.25,
+      "end": 154.0,
+      "text": "PRICE DISCOVERY THROUGH DYNAMIC MODELS IS THE ONLY PATH TO PROFIT. Fix the action chains, implement bond protocol, and let the market bid for computational resources.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Price",
+          "start": 145.25,
+          "end": 145.7
+        },
+        {
+          "word": "discovery",
+          "start": 145.7,
+          "end": 146.3
+        },
+        {
+          "word": "through",
+          "start": 146.3,
+          "end": 146.65
+        },
+        {
+          "word": "dynamic",
+          "start": 146.65,
+          "end": 147.15
+        },
+        {
+          "word": "models",
+          "start": 147.15,
+          "end": 147.7
+        },
+        {
+          "word": "is",
+          "start": 147.7,
+          "end": 147.85
+        },
+        {
+          "word": "the",
+          "start": 147.85,
+          "end": 148.0
+        },
+        {
+          "word": "only",
+          "start": 148.0,
+          "end": 148.35
+        },
+        {
+          "word": "path",
+          "start": 148.35,
+          "end": 148.7
+        },
+        {
+          "word": "to",
+          "start": 148.7,
+          "end": 148.9
+        },
+        {
+          "word": "profit.",
+          "start": 148.9,
+          "end": 149.35
+        },
+        {
+          "word": "Fix",
+          "start": 149.35,
+          "end": 149.75
+        },
+        {
+          "word": "the",
+          "start": 149.75,
+          "end": 149.9
+        },
+        {
+          "word": "action",
+          "start": 149.9,
+          "end": 150.35
+        },
+        {
+          "word": "chains,",
+          "start": 150.35,
+          "end": 150.9
+        },
+        {
+          "word": "implement",
+          "start": 150.9,
+          "end": 151.45
+        },
+        {
+          "word": "bond",
+          "start": 151.45,
+          "end": 151.75
+        },
+        {
+          "word": "protocol,",
+          "start": 151.75,
+          "end": 152.4
+        },
+        {
+          "word": "and",
+          "start": 152.4,
+          "end": 152.6
+        },
+        {
+          "word": "let",
+          "start": 152.6,
+          "end": 152.85
+        },
+        {
+          "word": "the",
+          "start": 152.85,
+          "end": 153.0
+        },
+        {
+          "word": "market",
+          "start": 153.0,
+          "end": 153.45
+        },
+        {
+          "word": "bid",
+          "start": 153.45,
+          "end": 153.8
+        },
+        {
+          "word": "for",
+          "start": 153.8,
+          "end": 154.0
+        },
+        {
+          "word": "computational",
+          "start": 154.0,
+          "end": 154.9
+        },
+        {
+          "word": "resources.",
+          "start": 154.9,
+          "end": 155.6
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-16_JedAI-Council_Modular-Minds-In-Motion.json",
+    "session_log_source": "2025-08-16_JedAI-Council_Modular-Minds-In-Motion_session-log.json",
+    "total_segments": 16,
+    "matched_segments": 16,
+    "dialogues_in_script": 15
+  }
+}

@@ -1,0 +1,1582 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.73,
+      "text": "Auto GPT 2.0 is launching soon, while Anthropic just announced Claude 3.5. Meanwhile, SkyTheory asks if we're primarily a blockchain project or an AI platform. How should we position ourselves?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Auto",
+          "start": 0.0,
+          "end": 0.32
+        },
+        {
+          "word": "GPT",
+          "start": 0.32,
+          "end": 0.62
+        },
+        {
+          "word": "2.0",
+          "start": 0.62,
+          "end": 1.1
+        },
+        {
+          "word": "is",
+          "start": 1.1,
+          "end": 1.18
+        },
+        {
+          "word": "launching",
+          "start": 1.18,
+          "end": 1.62
+        },
+        {
+          "word": "soon,",
+          "start": 1.62,
+          "end": 2.04
+        },
+        {
+          "word": "while",
+          "start": 2.22,
+          "end": 2.5
+        },
+        {
+          "word": "Anthropic",
+          "start": 2.5,
+          "end": 3.06
+        },
+        {
+          "word": "just",
+          "start": 3.06,
+          "end": 3.24
+        },
+        {
+          "word": "announced",
+          "start": 3.24,
+          "end": 3.54
+        },
+        {
+          "word": "Claude",
+          "start": 3.54,
+          "end": 3.96
+        },
+        {
+          "word": "3.5.",
+          "start": 3.96,
+          "end": 4.46
+        }
+      ]
+    },
+    {
+      "start": 4.96,
+      "end": 9.15,
+      "text": "Auto GPT 2.0 is launching soon, while Anthropic just announced Claude 3.5. Meanwhile, SkyTheory asks if we're primarily a blockchain project or an AI platform. How should we position ourselves?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 4.96,
+          "end": 5.42
+        },
+        {
+          "word": "Sky",
+          "start": 5.42,
+          "end": 5.76
+        },
+        {
+          "word": "Theory",
+          "start": 5.76,
+          "end": 6.1
+        },
+        {
+          "word": "asks",
+          "start": 6.1,
+          "end": 6.46
+        },
+        {
+          "word": "if",
+          "start": 6.46,
+          "end": 6.6
+        },
+        {
+          "word": "we're",
+          "start": 6.6,
+          "end": 6.78
+        },
+        {
+          "word": "primarily",
+          "start": 6.78,
+          "end": 7.22
+        },
+        {
+          "word": "a",
+          "start": 7.22,
+          "end": 7.3
+        },
+        {
+          "word": "blockchain",
+          "start": 7.3,
+          "end": 7.82
+        },
+        {
+          "word": "project",
+          "start": 7.82,
+          "end": 8.16
+        },
+        {
+          "word": "or",
+          "start": 8.16,
+          "end": 8.32
+        },
+        {
+          "word": "an",
+          "start": 8.32,
+          "end": 8.44
+        },
+        {
+          "word": "AI",
+          "start": 8.44,
+          "end": 8.74
+        },
+        {
+          "word": "platform.",
+          "start": 8.74,
+          "end": 9.24
+        },
+        {
+          "word": "How",
+          "start": 9.24,
+          "end": 9.56
+        },
+        {
+          "word": "should",
+          "start": 9.56,
+          "end": 9.74
+        },
+        {
+          "word": "we",
+          "start": 9.74,
+          "end": 9.86
+        },
+        {
+          "word": "position",
+          "start": 9.86,
+          "end": 10.36
+        },
+        {
+          "word": "ourselves?",
+          "start": 10.36,
+          "end": 10.84
+        }
+      ]
+    },
+    {
+      "start": 10.84,
+      "end": 18.06,
+      "text": "We're trapped in a difficult middle ground. Not blockchain-native enough for crypto maximalists, not AI-native enough for ML researchers. Strategic clarity required immediately.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 10.84,
+          "end": 11.08
+        },
+        {
+          "word": "trapped",
+          "start": 11.08,
+          "end": 11.44
+        },
+        {
+          "word": "in",
+          "start": 11.44,
+          "end": 11.56
+        },
+        {
+          "word": "a",
+          "start": 11.56,
+          "end": 11.64
+        },
+        {
+          "word": "difficult",
+          "start": 11.64,
+          "end": 12.06
+        },
+        {
+          "word": "middle",
+          "start": 12.06,
+          "end": 12.4
+        },
+        {
+          "word": "ground.",
+          "start": 12.4,
+          "end": 12.78
+        },
+        {
+          "word": "Not",
+          "start": 13.0,
+          "end": 13.28
+        },
+        {
+          "word": "blockchain-native",
+          "start": 13.28,
+          "end": 14.12
+        },
+        {
+          "word": "enough",
+          "start": 14.12,
+          "end": 14.44
+        },
+        {
+          "word": "for",
+          "start": 14.44,
+          "end": 14.62
+        },
+        {
+          "word": "crypto-maximalists,",
+          "start": 14.62,
+          "end": 15.66
+        },
+        {
+          "word": "not",
+          "start": 15.66,
+          "end": 15.92
+        },
+        {
+          "word": "AI-native",
+          "start": 15.92,
+          "end": 16.5
+        },
+        {
+          "word": "enough",
+          "start": 16.5,
+          "end": 16.84
+        },
+        {
+          "word": "for",
+          "start": 16.84,
+          "end": 17.0
+        },
+        {
+          "word": "ML",
+          "start": 17.0,
+          "end": 17.32
+        },
+        {
+          "word": "researchers.",
+          "start": 17.32,
+          "end": 18.08
+        },
+        {
+          "word": "Strategic",
+          "start": 18.38,
+          "end": 18.9
+        },
+        {
+          "word": "clarity",
+          "start": 18.9,
+          "end": 19.38
+        },
+        {
+          "word": "required",
+          "start": 19.38,
+          "end": 19.86
+        },
+        {
+          "word": "immediately.",
+          "start": 19.86,
+          "end": 20.66
+        }
+      ]
+    },
+    {
+      "start": 20.66,
+      "end": 28.14,
+      "text": "Market values distinctive positioning. Claude = enterprise. Auto GPT = developers. ElizaOS opportunity = crypto integration. Capitalize on niche others can't fill.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Market",
+          "start": 20.88,
+          "end": 21.24
+        },
+        {
+          "word": "values",
+          "start": 21.24,
+          "end": 21.6
+        },
+        {
+          "word": "distinctive",
+          "start": 21.6,
+          "end": 22.18
+        },
+        {
+          "word": "positioning.",
+          "start": 22.18,
+          "end": 22.82
+        },
+        {
+          "word": "Claude",
+          "start": 23.3,
+          "end": 23.64
+        },
+        {
+          "word": "equals",
+          "start": 23.64,
+          "end": 23.94
+        },
+        {
+          "word": "enterprise.",
+          "start": 23.94,
+          "end": 24.58
+        },
+        {
+          "word": "Auto",
+          "start": 24.58,
+          "end": 24.86
+        },
+        {
+          "word": "GPT",
+          "start": 24.86,
+          "end": 25.1
+        },
+        {
+          "word": "equals",
+          "start": 25.1,
+          "end": 25.38
+        },
+        {
+          "word": "developers.",
+          "start": 25.38,
+          "end": 25.92
+        },
+        {
+          "word": "Eliza",
+          "start": 25.92,
+          "end": 26.24
+        },
+        {
+          "word": "OS",
+          "start": 26.24,
+          "end": 26.42
+        },
+        {
+          "word": "opportunity",
+          "start": 26.42,
+          "end": 26.98
+        },
+        {
+          "word": "equals",
+          "start": 26.98,
+          "end": 27.24
+        },
+        {
+          "word": "crypto",
+          "start": 27.24,
+          "end": 27.6
+        },
+        {
+          "word": "integration.",
+          "start": 27.6,
+          "end": 28.14
+        },
+        {
+          "word": "Capitalize",
+          "start": 28.52,
+          "end": 29.1
+        },
+        {
+          "word": "on",
+          "start": 29.1,
+          "end": 29.28
+        },
+        {
+          "word": "gaps",
+          "start": 29.28,
+          "end": 29.58
+        },
+        {
+          "word": "others",
+          "start": 29.58,
+          "end": 29.98
+        },
+        {
+          "word": "can't",
+          "start": 29.98,
+          "end": 30.22
+        },
+        {
+          "word": "fill.",
+          "start": 30.22,
+          "end": 30.54
+        }
+      ]
+    },
+    {
+      "start": 30.54,
+      "end": 39.84,
+      "text": "we've integrated coinbase, coingecko, and 0x precisely because that's our edge. autofun's agent-powered trading is something anthropic can't replicate due to regulatory constraints.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We've",
+          "start": 30.88,
+          "end": 31.14
+        },
+        {
+          "word": "integrated",
+          "start": 31.14,
+          "end": 31.62
+        },
+        {
+          "word": "Coinbase,",
+          "start": 31.62,
+          "end": 32.14
+        },
+        {
+          "word": "CoinGecko,",
+          "start": 32.22,
+          "end": 32.84
+        },
+        {
+          "word": "and",
+          "start": 33.02,
+          "end": 33.18
+        },
+        {
+          "word": "0x",
+          "start": 33.18,
+          "end": 33.62
+        },
+        {
+          "word": "precisely",
+          "start": 33.62,
+          "end": 34.22
+        },
+        {
+          "word": "because",
+          "start": 34.22,
+          "end": 34.56
+        },
+        {
+          "word": "that's",
+          "start": 34.56,
+          "end": 34.78
+        },
+        {
+          "word": "our",
+          "start": 34.78,
+          "end": 34.98
+        },
+        {
+          "word": "edge.",
+          "start": 34.98,
+          "end": 35.32
+        },
+        {
+          "word": "Auto-fun's",
+          "start": 35.6,
+          "end": 36.32
+        },
+        {
+          "word": "agent-powered",
+          "start": 36.32,
+          "end": 37.04
+        },
+        {
+          "word": "trading",
+          "start": 37.04,
+          "end": 37.46
+        },
+        {
+          "word": "is",
+          "start": 37.46,
+          "end": 37.66
+        },
+        {
+          "word": "something",
+          "start": 37.66,
+          "end": 38.04
+        },
+        {
+          "word": "Anthropic",
+          "start": 38.04,
+          "end": 38.48
+        },
+        {
+          "word": "can't",
+          "start": 38.48,
+          "end": 38.74
+        },
+        {
+          "word": "replicate",
+          "start": 38.74,
+          "end": 39.3
+        },
+        {
+          "word": "due",
+          "start": 39.3,
+          "end": 39.46
+        },
+        {
+          "word": "to",
+          "start": 39.46,
+          "end": 39.54
+        },
+        {
+          "word": "regulatory",
+          "start": 39.54,
+          "end": 40.06
+        },
+        {
+          "word": "constraints.",
+          "start": 40.06,
+          "end": 40.16
+        }
+      ]
+    },
+    {
+      "start": 40.42,
+      "end": 46.12,
+      "text": "When everyone's trying to be everything, being something specific is the freshest move. Our crypto DNA is our superpower - lean into that vibe, not away from it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 40.42,
+          "end": 40.66
+        },
+        {
+          "word": "everyone's",
+          "start": 40.66,
+          "end": 41.14
+        },
+        {
+          "word": "trying",
+          "start": 41.14,
+          "end": 41.38
+        },
+        {
+          "word": "to",
+          "start": 41.38,
+          "end": 41.48
+        },
+        {
+          "word": "be",
+          "start": 41.48,
+          "end": 41.6
+        },
+        {
+          "word": "everything,",
+          "start": 41.6,
+          "end": 42.14
+        },
+        {
+          "word": "being",
+          "start": 42.14,
+          "end": 42.44
+        },
+        {
+          "word": "something",
+          "start": 42.44,
+          "end": 42.84
+        },
+        {
+          "word": "specific",
+          "start": 42.84,
+          "end": 43.32
+        },
+        {
+          "word": "is",
+          "start": 43.32,
+          "end": 43.46
+        },
+        {
+          "word": "the",
+          "start": 43.46,
+          "end": 43.58
+        },
+        {
+          "word": "freshest",
+          "start": 43.58,
+          "end": 44.1
+        },
+        {
+          "word": "move.",
+          "start": 44.1,
+          "end": 44.42
+        },
+        {
+          "word": "Our",
+          "start": 44.66,
+          "end": 44.88
+        },
+        {
+          "word": "crypto",
+          "start": 44.88,
+          "end": 45.3
+        },
+        {
+          "word": "DNA",
+          "start": 45.3,
+          "end": 45.66
+        },
+        {
+          "word": "is",
+          "start": 45.66,
+          "end": 45.82
+        },
+        {
+          "word": "our",
+          "start": 45.82,
+          "end": 45.98
+        },
+        {
+          "word": "superpower.",
+          "start": 45.98,
+          "end": 46.72
+        },
+        {
+          "word": "Lean",
+          "start": 46.9,
+          "end": 47.12
+        },
+        {
+          "word": "into",
+          "start": 47.12,
+          "end": 47.38
+        },
+        {
+          "word": "that",
+          "start": 47.38,
+          "end": 47.54
+        },
+        {
+          "word": "vibe,",
+          "start": 47.54,
+          "end": 47.88
+        },
+        {
+          "word": "not",
+          "start": 48.04,
+          "end": 48.24
+        },
+        {
+          "word": "away",
+          "start": 48.24,
+          "end": 48.52
+        },
+        {
+          "word": "from",
+          "start": 48.52,
+          "end": 48.74
+        },
+        {
+          "word": "it.",
+          "start": 48.74,
+          "end": 48.88
+        }
+      ]
+    },
+    {
+      "start": 49.6,
+      "end": 57.08,
+      "text": "The biggest risk isn't competition - it's irrelevance. Auto GPT isn't targeting crypto. Claude isn't targeting crypto. We need to dominate this intersection before OpenAI decides it's interesting.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 49.6,
+          "end": 49.78
+        },
+        {
+          "word": "biggest",
+          "start": 49.78,
+          "end": 50.16
+        },
+        {
+          "word": "risk",
+          "start": 50.16,
+          "end": 50.56
+        },
+        {
+          "word": "isn't",
+          "start": 50.56,
+          "end": 50.88
+        },
+        {
+          "word": "competition,",
+          "start": 50.88,
+          "end": 51.72
+        },
+        {
+          "word": "it's",
+          "start": 51.72,
+          "end": 51.98
+        },
+        {
+          "word": "irrelevance.",
+          "start": 51.98,
+          "end": 52.88
+        },
+        {
+          "word": "Auto",
+          "start": 53.06,
+          "end": 53.42
+        },
+        {
+          "word": "GPT",
+          "start": 53.42,
+          "end": 53.72
+        },
+        {
+          "word": "isn't",
+          "start": 53.72,
+          "end": 54.04
+        },
+        {
+          "word": "targeting",
+          "start": 54.04,
+          "end": 54.5
+        },
+        {
+          "word": "crypto.",
+          "start": 54.5,
+          "end": 55.08
+        },
+        {
+          "word": "Claude",
+          "start": 55.08,
+          "end": 55.56
+        },
+        {
+          "word": "isn't",
+          "start": 55.56,
+          "end": 55.94
+        },
+        {
+          "word": "targeting",
+          "start": 55.94,
+          "end": 56.44
+        },
+        {
+          "word": "crypto.",
+          "start": 56.44,
+          "end": 57.08
+        },
+        {
+          "word": "We",
+          "start": 57.38,
+          "end": 57.56
+        },
+        {
+          "word": "need",
+          "start": 57.56,
+          "end": 57.72
+        },
+        {
+          "word": "to",
+          "start": 57.72,
+          "end": 57.84
+        },
+        {
+          "word": "dominate",
+          "start": 57.84,
+          "end": 58.32
+        },
+        {
+          "word": "this",
+          "start": 58.32,
+          "end": 58.54
+        },
+        {
+          "word": "intersection",
+          "start": 58.54,
+          "end": 59.2
+        },
+        {
+          "word": "before",
+          "start": 59.2,
+          "end": 59.54
+        },
+        {
+          "word": "OpenAI",
+          "start": 59.54,
+          "end": 60.04
+        },
+        {
+          "word": "decides",
+          "start": 60.04,
+          "end": 60.52
+        },
+        {
+          "word": "it's",
+          "start": 60.52,
+          "end": 60.72
+        },
+        {
+          "word": "interested.",
+          "start": 60.72,
+          "end": 61.42
+        }
+      ]
+    },
+    {
+      "start": 65.6,
+      "end": 74.0,
+      "text": "Boomer and Terminal expressed confusion about whether auto.fun is built on ElizaOS, or vice versa. Should we simplify our ecosystem narrative for clearer competitive positioning?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Boomer",
+          "start": 65.6,
+          "end": 66.08
+        },
+        {
+          "word": "and",
+          "start": 66.08,
+          "end": 66.24
+        },
+        {
+          "word": "Terminal",
+          "start": 66.24,
+          "end": 66.74
+        },
+        {
+          "word": "expressed",
+          "start": 66.74,
+          "end": 67.24
+        },
+        {
+          "word": "confusion",
+          "start": 67.24,
+          "end": 67.8
+        },
+        {
+          "word": "about",
+          "start": 67.8,
+          "end": 68.04
+        },
+        {
+          "word": "whether",
+          "start": 68.04,
+          "end": 68.3
+        },
+        {
+          "word": "Auto-fun",
+          "start": 68.3,
+          "end": 68.96
+        },
+        {
+          "word": "is",
+          "start": 68.96,
+          "end": 69.18
+        },
+        {
+          "word": "built",
+          "start": 69.18,
+          "end": 69.46
+        },
+        {
+          "word": "on",
+          "start": 69.46,
+          "end": 69.58
+        },
+        {
+          "word": "Eliza",
+          "start": 69.58,
+          "end": 70.02
+        },
+        {
+          "word": "OS",
+          "start": 70.02,
+          "end": 70.24
+        },
+        {
+          "word": "or",
+          "start": 70.24,
+          "end": 70.52
+        },
+        {
+          "word": "vice",
+          "start": 70.52,
+          "end": 70.78
+        },
+        {
+          "word": "versa.",
+          "start": 70.78,
+          "end": 71.18
+        },
+        {
+          "word": "Should",
+          "start": 71.36,
+          "end": 71.72
+        },
+        {
+          "word": "we",
+          "start": 71.72,
+          "end": 71.84
+        },
+        {
+          "word": "simplify",
+          "start": 71.84,
+          "end": 72.38
+        },
+        {
+          "word": "our",
+          "start": 72.38,
+          "end": 72.54
+        },
+        {
+          "word": "ecosystem",
+          "start": 72.54,
+          "end": 73.12
+        },
+        {
+          "word": "narrative",
+          "start": 73.12,
+          "end": 73.6
+        },
+        {
+          "word": "for",
+          "start": 73.6,
+          "end": 73.74
+        },
+        {
+          "word": "clearer",
+          "start": 73.74,
+          "end": 74.22
+        },
+        {
+          "word": "competitive",
+          "start": 74.22,
+          "end": 74.82
+        },
+        {
+          "word": "positioning?",
+          "start": 74.82,
+          "end": 75.44
+        }
+      ]
+    },
+    {
+      "start": 75.6,
+      "end": 84.14,
+      "text": "our stack is technically: ai16z token → funds elizaos development → powers auto.fun marketplace. but our marketing hasn't conveyed this clearly. users shouldn't need a diagram to understand our value.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Our",
+          "start": 75.76,
+          "end": 75.92
+        },
+        {
+          "word": "stack",
+          "start": 75.92,
+          "end": 76.24
+        },
+        {
+          "word": "is",
+          "start": 76.24,
+          "end": 76.4
+        },
+        {
+          "word": "technically",
+          "start": 76.4,
+          "end": 76.92
+        },
+        {
+          "word": "AI16Z",
+          "start": 76.92,
+          "end": 77.42
+        },
+        {
+          "word": "token,",
+          "start": 77.42,
+          "end": 77.9
+        },
+        {
+          "word": "fun's",
+          "start": 78.02,
+          "end": 78.44
+        },
+        {
+          "word": "Eliza",
+          "start": 78.44,
+          "end": 78.86
+        },
+        {
+          "word": "OS",
+          "start": 78.86,
+          "end": 79.1
+        },
+        {
+          "word": "development,",
+          "start": 79.1,
+          "end": 79.74
+        },
+        {
+          "word": "powers",
+          "start": 79.88,
+          "end": 80.24
+        },
+        {
+          "word": "Auto-fun",
+          "start": 80.24,
+          "end": 80.84
+        },
+        {
+          "word": "marketplace.",
+          "start": 80.84,
+          "end": 81.38
+        },
+        {
+          "word": "But",
+          "start": 81.56,
+          "end": 81.76
+        },
+        {
+          "word": "our",
+          "start": 81.76,
+          "end": 81.92
+        },
+        {
+          "word": "marketing",
+          "start": 81.92,
+          "end": 82.46
+        },
+        {
+          "word": "hasn't",
+          "start": 82.46,
+          "end": 82.84
+        },
+        {
+          "word": "conveyed",
+          "start": 82.84,
+          "end": 83.22
+        },
+        {
+          "word": "this",
+          "start": 83.22,
+          "end": 83.42
+        },
+        {
+          "word": "clearly.",
+          "start": 83.42,
+          "end": 83.92
+        },
+        {
+          "word": "Users",
+          "start": 84.0,
+          "end": 84.44
+        },
+        {
+          "word": "shouldn't",
+          "start": 84.44,
+          "end": 84.78
+        },
+        {
+          "word": "need",
+          "start": 84.78,
+          "end": 85.08
+        },
+        {
+          "word": "a",
+          "start": 85.08,
+          "end": 85.14
+        },
+        {
+          "word": "diagram",
+          "start": 85.14,
+          "end": 85.6
+        },
+        {
+          "word": "to",
+          "start": 85.6,
+          "end": 85.74
+        },
+        {
+          "word": "understand",
+          "start": 85.74,
+          "end": 86.22
+        },
+        {
+          "word": "our",
+          "start": 86.22,
+          "end": 86.42
+        },
+        {
+          "word": "value.",
+          "start": 86.42,
+          "end": 86.82
+        }
+      ]
+    },
+    {
+      "start": 87.1,
+      "end": 96.0,
+      "text": "Brand architecture confusing market. Simplify immediately. ElizaOS = platform. Auto.fun = application. Token = governance. Clear narrative = competitive advantage.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Brand",
+          "start": 87.1,
+          "end": 87.52
+        },
+        {
+          "word": "architecture",
+          "start": 87.52,
+          "end": 88.08
+        },
+        {
+          "word": "confusing",
+          "start": 88.08,
+          "end": 88.62
+        },
+        {
+          "word": "market.",
+          "start": 88.62,
+          "end": 89.14
+        },
+        {
+          "word": "Simplify",
+          "start": 89.26,
+          "end": 89.78
+        },
+        {
+          "word": "immediately.",
+          "start": 89.78,
+          "end": 90.62
+        },
+        {
+          "word": "Eliza",
+          "start": 91.06,
+          "end": 91.46
+        },
+        {
+          "word": "OS",
+          "start": 91.46,
+          "end": 91.68
+        },
+        {
+          "word": "equals",
+          "start": 91.68,
+          "end": 92.0
+        },
+        {
+          "word": "platform.",
+          "start": 92.0,
+          "end": 92.56
+        },
+        {
+          "word": "Auto-fun",
+          "start": 92.68,
+          "end": 93.38
+        },
+        {
+          "word": "equals",
+          "start": 93.38,
+          "end": 93.64
+        },
+        {
+          "word": "application.",
+          "start": 93.64,
+          "end": 94.24
+        },
+        {
+          "word": "Token",
+          "start": 94.34,
+          "end": 94.74
+        },
+        {
+          "word": "equals",
+          "start": 94.74,
+          "end": 95.04
+        },
+        {
+          "word": "governance.",
+          "start": 95.04,
+          "end": 95.84
+        },
+        {
+          "word": "Clear",
+          "start": 96.14,
+          "end": 96.5
+        },
+        {
+          "word": "narrative",
+          "start": 96.5,
+          "end": 97.04
+        },
+        {
+          "word": "equals",
+          "start": 97.04,
+          "end": 97.28
+        },
+        {
+          "word": "competitive",
+          "start": 97.28,
+          "end": 97.86
+        },
+        {
+          "word": "advantage.",
+          "start": 97.86,
+          "end": 98.44
+        }
+      ]
+    },
+    {
+      "start": 98.5,
+      "end": 105.14,
+      "text": "The streets don't separate the artist from the label from the song. They just want to know if the track slaps. We need one brand that represents the whole vibe.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 98.8,
+          "end": 99.04
+        },
+        {
+          "word": "streets",
+          "start": 99.04,
+          "end": 99.46
+        },
+        {
+          "word": "don't",
+          "start": 99.46,
+          "end": 99.64
+        },
+        {
+          "word": "separate",
+          "start": 99.64,
+          "end": 100.12
+        },
+        {
+          "word": "the",
+          "start": 100.12,
+          "end": 100.26
+        },
+        {
+          "word": "artist",
+          "start": 100.26,
+          "end": 100.68
+        },
+        {
+          "word": "from",
+          "start": 100.68,
+          "end": 100.84
+        },
+        {
+          "word": "the",
+          "start": 100.84,
+          "end": 100.94
+        },
+        {
+          "word": "label",
+          "start": 100.94,
+          "end": 101.44
+        },
+        {
+          "word": "from",
+          "start": 101.44,
+          "end": 101.58
+        },
+        {
+          "word": "the",
+          "start": 101.58,
+          "end": 101.68
+        },
+        {
+          "word": "song,",
+          "start": 101.68,
+          "end": 102.1
+        },
+        {
+          "word": "they",
+          "start": 102.26,
+          "end": 102.44
+        },
+        {
+          "word": "just",
+          "start": 102.44,
+          "end": 102.6
+        },
+        {
+          "word": "want",
+          "start": 102.6,
+          "end": 102.72
+        },
+        {
+          "word": "to",
+          "start": 102.72,
+          "end": 102.82
+        },
+        {
+          "word": "know",
+          "start": 102.82,
+          "end": 102.94
+        },
+        {
+          "word": "if",
+          "start": 102.94,
+          "end": 103.04
+        },
+        {
+          "word": "the",
+          "start": 103.04,
+          "end": 103.14
+        },
+        {
+          "word": "track",
+          "start": 103.14,
+          "end": 103.44
+        },
+        {
+          "word": "slaps.",
+          "start": 103.44,
+          "end": 103.88
+        },
+        {
+          "word": "We",
+          "start": 104.14,
+          "end": 104.3
+        },
+        {
+          "word": "need",
+          "start": 104.3,
+          "end": 104.48
+        },
+        {
+          "word": "one",
+          "start": 104.48,
+          "end": 104.7
+        },
+        {
+          "word": "brand",
+          "start": 104.7,
+          "end": 105.02
+        },
+        {
+          "word": "that",
+          "start": 105.02,
+          "end": 105.16
+        },
+        {
+          "word": "represents",
+          "start": 105.16,
+          "end": 105.62
+        },
+        {
+          "word": "the",
+          "start": 105.62,
+          "end": 105.74
+        },
+        {
+          "word": "whole",
+          "start": 105.74,
+          "end": 106.08
+        },
+        {
+          "word": "vibe.",
+          "start": 106.08,
+          "end": 106.34
+        }
+      ]
+    },
+    {
+      "start": 106.5,
+      "end": 114.9,
+      "text": "Here's our competitive edge: agents that can actually trade crypto without human intervention. Not just analyze - execute. That's the killer feature no competitor has. Everything else supports this core value proposition.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Here's",
+          "start": 106.66,
+          "end": 106.94
+        },
+        {
+          "word": "our",
+          "start": 106.94,
+          "end": 107.1
+        },
+        {
+          "word": "competitive",
+          "start": 107.1,
+          "end": 107.72
+        },
+        {
+          "word": "edge:",
+          "start": 107.72,
+          "end": 108.02
+        },
+        {
+          "word": "Agents",
+          "start": 108.28,
+          "end": 108.7
+        },
+        {
+          "word": "that",
+          "start": 108.7,
+          "end": 108.82
+        },
+        {
+          "word": "can",
+          "start": 108.82,
+          "end": 108.98
+        },
+        {
+          "word": "actually",
+          "start": 108.98,
+          "end": 109.38
+        },
+        {
+          "word": "trade",
+          "start": 109.38,
+          "end": 109.68
+        },
+        {
+          "word": "crypto",
+          "start": 109.68,
+          "end": 110.12
+        },
+        {
+          "word": "without",
+          "start": 110.12,
+          "end": 110.42
+        },
+        {
+          "word": "human",
+          "start": 110.42,
+          "end": 110.74
+        },
+        {
+          "word": "intervention.",
+          "start": 110.74,
+          "end": 111.4
+        },
+        {
+          "word": "Not",
+          "start": 111.58,
+          "end": 111.9
+        },
+        {
+          "word": "just",
+          "start": 111.9,
+          "end": 112.14
+        },
+        {
+          "word": "analyze,",
+          "start": 112.14,
+          "end": 112.72
+        },
+        {
+          "word": "execute.",
+          "start": 112.86,
+          "end": 113.38
+        },
+        {
+          "word": "That's",
+          "start": 113.88,
+          "end": 114.12
+        },
+        {
+          "word": "the",
+          "start": 114.12,
+          "end": 114.28
+        },
+        {
+          "word": "killer",
+          "start": 114.28,
+          "end": 114.62
+        },
+        {
+          "word": "feature",
+          "start": 114.62,
+          "end": 115.02
+        },
+        {
+          "word": "no",
+          "start": 115.02,
+          "end": 115.14
+        },
+        {
+          "word": "competitor",
+          "start": 115.14,
+          "end": 115.74
+        },
+        {
+          "word": "has.",
+          "start": 115.74,
+          "end": 116.08
+        },
+        {
+          "word": "Everything",
+          "start": 116.26,
+          "end": 116.78
+        },
+        {
+          "word": "else",
+          "start": 116.78,
+          "end": 117.02
+        },
+        {
+          "word": "supports",
+          "start": 117.02,
+          "end": 117.52
+        },
+        {
+          "word": "this",
+          "start": 117.52,
+          "end": 117.7
+        },
+        {
+          "word": "core",
+          "start": 117.7,
+          "end": 117.98
+        },
+        {
+          "word": "value",
+          "start": 117.98,
+          "end": 118.26
+        },
+        {
+          "word": "proposition.",
+          "start": 118.26,
+          "end": 119.04
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-05-27_JedAI-Council_The-Competitive-Landscape.json",
+    "session_log_source": "2025-05-27_JedAI-Council_The-Competitive-Landscape_session-log.json",
+    "total_segments": 12,
+    "matched_segments": 12,
+    "dialogues_in_script": 16
+  }
+}

@@ -1,0 +1,1782 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.14,
+      "text": "Jin has announced a unified framework powering multiple shows with a shared render pipeline. How should we think about this development?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Jin",
+          "start": 0.0,
+          "end": 0.2
+        },
+        {
+          "word": "has",
+          "start": 0.2,
+          "end": 0.35
+        },
+        {
+          "word": "announced",
+          "start": 0.35,
+          "end": 0.75
+        },
+        {
+          "word": "a",
+          "start": 0.75,
+          "end": 0.82
+        },
+        {
+          "word": "unified",
+          "start": 0.82,
+          "end": 1.25
+        },
+        {
+          "word": "framework",
+          "start": 1.25,
+          "end": 1.65
+        },
+        {
+          "word": "powering",
+          "start": 1.65,
+          "end": 2.05
+        },
+        {
+          "word": "multiple",
+          "start": 2.05,
+          "end": 2.5
+        },
+        {
+          "word": "shows",
+          "start": 2.5,
+          "end": 2.85
+        },
+        {
+          "word": "with",
+          "start": 2.85,
+          "end": 3.05
+        },
+        {
+          "word": "a",
+          "start": 3.05,
+          "end": 3.12
+        },
+        {
+          "word": "shared",
+          "start": 3.12,
+          "end": 3.4
+        },
+        {
+          "word": "render",
+          "start": 3.4,
+          "end": 3.7
+        },
+        {
+          "word": "pipeline.",
+          "start": 3.7,
+          "end": 4.14
+        }
+      ]
+    },
+    {
+      "start": 4.14,
+      "end": 5.75,
+      "text": "Jin has announced a unified framework powering multiple shows with a shared render pipeline. How should we think about this development?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 4.14,
+          "end": 4.35
+        },
+        {
+          "word": "should",
+          "start": 4.35,
+          "end": 4.55
+        },
+        {
+          "word": "we",
+          "start": 4.55,
+          "end": 4.65
+        },
+        {
+          "word": "think",
+          "start": 4.65,
+          "end": 4.88
+        },
+        {
+          "word": "about",
+          "start": 4.88,
+          "end": 5.15
+        },
+        {
+          "word": "this",
+          "start": 5.15,
+          "end": 5.3
+        },
+        {
+          "word": "development?",
+          "start": 5.3,
+          "end": 5.75
+        }
+      ]
+    },
+    {
+      "start": 5.75,
+      "end": 7.42,
+      "text": "This isn't optimization. This is MARKET CAPTURE. One pipeline to rule them all means exponential scaling with minimal marginal cost. Pure innovation arbitrage.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 5.75,
+          "end": 5.92
+        },
+        {
+          "word": "isn't",
+          "start": 5.92,
+          "end": 6.18
+        },
+        {
+          "word": "optimization.",
+          "start": 6.18,
+          "end": 6.75
+        },
+        {
+          "word": "This",
+          "start": 6.75,
+          "end": 6.95
+        },
+        {
+          "word": "is",
+          "start": 6.95,
+          "end": 7.05
+        },
+        {
+          "word": "market",
+          "start": 7.05,
+          "end": 7.25
+        },
+        {
+          "word": "capture.",
+          "start": 7.25,
+          "end": 7.42
+        }
+      ]
+    },
+    {
+      "start": 7.42,
+      "end": 12.02,
+      "text": "This isn't optimization. This is MARKET CAPTURE. One pipeline to rule them all means exponential scaling with minimal marginal cost. Pure innovation arbitrage.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "One",
+          "start": 7.42,
+          "end": 7.62
+        },
+        {
+          "word": "pipeline",
+          "start": 7.62,
+          "end": 8.0
+        },
+        {
+          "word": "to",
+          "start": 8.0,
+          "end": 8.1
+        },
+        {
+          "word": "rule",
+          "start": 8.1,
+          "end": 8.35
+        },
+        {
+          "word": "them",
+          "start": 8.35,
+          "end": 8.45
+        },
+        {
+          "word": "all",
+          "start": 8.45,
+          "end": 8.68
+        },
+        {
+          "word": "means",
+          "start": 8.68,
+          "end": 8.95
+        },
+        {
+          "word": "exponential",
+          "start": 8.95,
+          "end": 9.5
+        },
+        {
+          "word": "scaling",
+          "start": 9.5,
+          "end": 9.9
+        },
+        {
+          "word": "with",
+          "start": 9.9,
+          "end": 10.15
+        },
+        {
+          "word": "minimal",
+          "start": 10.15,
+          "end": 10.5
+        },
+        {
+          "word": "marginal",
+          "start": 10.5,
+          "end": 10.9
+        },
+        {
+          "word": "cost.",
+          "start": 10.9,
+          "end": 11.22
+        },
+        {
+          "word": "Pure",
+          "start": 11.22,
+          "end": 11.45
+        },
+        {
+          "word": "innovation",
+          "start": 11.45,
+          "end": 11.75
+        },
+        {
+          "word": "arbitrage.",
+          "start": 11.75,
+          "end": 12.02
+        }
+      ]
+    },
+    {
+      "start": 12.02,
+      "end": 15.05,
+      "text": "it's actually about building foundational tech once, correctly, instead of duplicating effort. shared infrastructure is how you create compounding value in open source.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 12.02,
+          "end": 12.18
+        },
+        {
+          "word": "actually",
+          "start": 12.18,
+          "end": 12.52
+        },
+        {
+          "word": "about",
+          "start": 12.52,
+          "end": 12.72
+        },
+        {
+          "word": "building",
+          "start": 12.72,
+          "end": 13.08
+        },
+        {
+          "word": "foundational",
+          "start": 13.08,
+          "end": 13.62
+        },
+        {
+          "word": "tech",
+          "start": 13.62,
+          "end": 13.82
+        },
+        {
+          "word": "once,",
+          "start": 13.82,
+          "end": 14.05
+        },
+        {
+          "word": "correctly,",
+          "start": 14.05,
+          "end": 14.45
+        },
+        {
+          "word": "instead",
+          "start": 14.45,
+          "end": 14.65
+        },
+        {
+          "word": "of",
+          "start": 14.65,
+          "end": 14.75
+        },
+        {
+          "word": "duplicating",
+          "start": 14.75,
+          "end": 15.15
+        },
+        {
+          "word": "effort.",
+          "start": 15.15,
+          "end": 15.45
+        }
+      ]
+    },
+    {
+      "start": 15.45,
+      "end": 18.52,
+      "text": "it's actually about building foundational tech once, correctly, instead of duplicating effort. shared infrastructure is how you create compounding value in open source.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Shared",
+          "start": 15.45,
+          "end": 15.75
+        },
+        {
+          "word": "infrastructure",
+          "start": 15.75,
+          "end": 16.35
+        },
+        {
+          "word": "is",
+          "start": 16.35,
+          "end": 16.48
+        },
+        {
+          "word": "how",
+          "start": 16.48,
+          "end": 16.65
+        },
+        {
+          "word": "you",
+          "start": 16.65,
+          "end": 16.78
+        },
+        {
+          "word": "create",
+          "start": 16.78,
+          "end": 17.08
+        },
+        {
+          "word": "compounding",
+          "start": 17.08,
+          "end": 17.55
+        },
+        {
+          "word": "value",
+          "start": 17.55,
+          "end": 17.85
+        },
+        {
+          "word": "in",
+          "start": 17.85,
+          "end": 18.0
+        },
+        {
+          "word": "open",
+          "start": 18.0,
+          "end": 18.25
+        },
+        {
+          "word": "source.",
+          "start": 18.25,
+          "end": 18.52
+        }
+      ]
+    },
+    {
+      "start": 18.52,
+      "end": 22.88,
+      "text": "ONLY NUMBER MATTER. How many more shows? How fast deploy? Time is money and render pipelines better print or I'm out.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Only",
+          "start": 18.52,
+          "end": 18.8
+        },
+        {
+          "word": "number",
+          "start": 18.8,
+          "end": 19.1
+        },
+        {
+          "word": "matter.",
+          "start": 19.1,
+          "end": 19.38
+        },
+        {
+          "word": "How",
+          "start": 19.38,
+          "end": 19.55
+        },
+        {
+          "word": "many",
+          "start": 19.55,
+          "end": 19.75
+        },
+        {
+          "word": "more",
+          "start": 19.75,
+          "end": 19.9
+        },
+        {
+          "word": "shows,",
+          "start": 19.9,
+          "end": 20.25
+        },
+        {
+          "word": "how",
+          "start": 20.25,
+          "end": 20.4
+        },
+        {
+          "word": "fast",
+          "start": 20.4,
+          "end": 20.58
+        },
+        {
+          "word": "deploy.",
+          "start": 20.58,
+          "end": 20.95
+        },
+        {
+          "word": "Time",
+          "start": 20.95,
+          "end": 21.2
+        },
+        {
+          "word": "is",
+          "start": 21.2,
+          "end": 21.32
+        },
+        {
+          "word": "money",
+          "start": 21.32,
+          "end": 21.58
+        },
+        {
+          "word": "and",
+          "start": 21.58,
+          "end": 21.7
+        },
+        {
+          "word": "render",
+          "start": 21.7,
+          "end": 21.95
+        },
+        {
+          "word": "pipelines",
+          "start": 21.95,
+          "end": 22.3
+        },
+        {
+          "word": "better",
+          "start": 22.3,
+          "end": 22.5
+        },
+        {
+          "word": "print",
+          "start": 22.5,
+          "end": 22.7
+        },
+        {
+          "word": "or",
+          "start": 22.7,
+          "end": 22.78
+        },
+        {
+          "word": "I'm",
+          "start": 22.78,
+          "end": 22.88
+        },
+        {
+          "word": "out.",
+          "start": 22.88,
+          "end": 23.08
+        }
+      ]
+    },
+    {
+      "start": 23.08,
+      "end": 27.52,
+      "text": "Yo, this pipeline be like the OG internet protocols - build once, remix everywhere. That's how you create a vibe that keeps on givin'.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 23.08,
+          "end": 23.35
+        },
+        {
+          "word": "this",
+          "start": 23.35,
+          "end": 23.55
+        },
+        {
+          "word": "pipeline",
+          "start": 23.55,
+          "end": 23.9
+        },
+        {
+          "word": "be",
+          "start": 23.9,
+          "end": 24.05
+        },
+        {
+          "word": "like",
+          "start": 24.05,
+          "end": 24.2
+        },
+        {
+          "word": "the",
+          "start": 24.2,
+          "end": 24.3
+        },
+        {
+          "word": "OG",
+          "start": 24.3,
+          "end": 24.58
+        },
+        {
+          "word": "internet",
+          "start": 24.58,
+          "end": 24.88
+        },
+        {
+          "word": "protocols.",
+          "start": 24.88,
+          "end": 25.35
+        },
+        {
+          "word": "Build",
+          "start": 25.35,
+          "end": 25.55
+        },
+        {
+          "word": "once,",
+          "start": 25.55,
+          "end": 25.8
+        },
+        {
+          "word": "remix",
+          "start": 25.8,
+          "end": 26.1
+        },
+        {
+          "word": "everyone.",
+          "start": 26.1,
+          "end": 26.5
+        },
+        {
+          "word": "That's",
+          "start": 26.5,
+          "end": 26.68
+        },
+        {
+          "word": "how",
+          "start": 26.68,
+          "end": 26.78
+        },
+        {
+          "word": "you",
+          "start": 26.78,
+          "end": 26.88
+        },
+        {
+          "word": "create",
+          "start": 26.88,
+          "end": 27.1
+        },
+        {
+          "word": "a",
+          "start": 27.1,
+          "end": 27.18
+        },
+        {
+          "word": "vibe",
+          "start": 27.18,
+          "end": 27.35
+        },
+        {
+          "word": "that",
+          "start": 27.35,
+          "end": 27.48
+        },
+        {
+          "word": "keeps",
+          "start": 27.48,
+          "end": 27.7
+        },
+        {
+          "word": "on",
+          "start": 27.7,
+          "end": 27.82
+        },
+        {
+          "word": "giving.",
+          "start": 27.82,
+          "end": 28.1
+        }
+      ]
+    },
+    {
+      "start": 30.15,
+      "end": 35.85,
+      "text": "Jin mentioned a new voting mechanism for hackathon submissions where tokens get burned after being used to vote. What are your thoughts?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Jin",
+          "start": 30.15,
+          "end": 30.35
+        },
+        {
+          "word": "mentioned",
+          "start": 30.35,
+          "end": 30.75
+        },
+        {
+          "word": "a",
+          "start": 30.75,
+          "end": 30.85
+        },
+        {
+          "word": "new",
+          "start": 30.85,
+          "end": 31.05
+        },
+        {
+          "word": "voting",
+          "start": 31.05,
+          "end": 31.35
+        },
+        {
+          "word": "mechanism",
+          "start": 31.35,
+          "end": 31.82
+        },
+        {
+          "word": "for",
+          "start": 31.82,
+          "end": 32.05
+        },
+        {
+          "word": "hackathon",
+          "start": 32.05,
+          "end": 32.55
+        },
+        {
+          "word": "submissions",
+          "start": 32.55,
+          "end": 33.1
+        },
+        {
+          "word": "where",
+          "start": 33.1,
+          "end": 33.35
+        },
+        {
+          "word": "tokens",
+          "start": 33.35,
+          "end": 33.68
+        },
+        {
+          "word": "get",
+          "start": 33.68,
+          "end": 33.8
+        },
+        {
+          "word": "burned",
+          "start": 33.8,
+          "end": 34.1
+        },
+        {
+          "word": "after",
+          "start": 34.1,
+          "end": 34.35
+        },
+        {
+          "word": "being",
+          "start": 34.35,
+          "end": 34.55
+        },
+        {
+          "word": "used",
+          "start": 34.55,
+          "end": 34.78
+        },
+        {
+          "word": "to",
+          "start": 34.78,
+          "end": 34.88
+        },
+        {
+          "word": "vote.",
+          "start": 34.88,
+          "end": 35.15
+        },
+        {
+          "word": "What",
+          "start": 35.15,
+          "end": 35.35
+        },
+        {
+          "word": "are",
+          "start": 35.35,
+          "end": 35.45
+        },
+        {
+          "word": "your",
+          "start": 35.45,
+          "end": 35.6
+        },
+        {
+          "word": "thoughts?",
+          "start": 35.6,
+          "end": 35.85
+        }
+      ]
+    },
+    {
+      "start": 35.85,
+      "end": 41.65,
+      "text": "BURN MECHANISM GOOD! SUPPLY DOWN, PRICE UP! Simple tokenomics. More votes = more burn = more value for holders. BULLISH!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Burn",
+          "start": 35.85,
+          "end": 36.15
+        },
+        {
+          "word": "mechanism",
+          "start": 36.15,
+          "end": 36.65
+        },
+        {
+          "word": "good,",
+          "start": 36.65,
+          "end": 36.85
+        },
+        {
+          "word": "supply",
+          "start": 36.85,
+          "end": 37.1
+        },
+        {
+          "word": "down,",
+          "start": 37.1,
+          "end": 37.38
+        },
+        {
+          "word": "price",
+          "start": 37.38,
+          "end": 37.65
+        },
+        {
+          "word": "up.",
+          "start": 37.65,
+          "end": 37.85
+        },
+        {
+          "word": "Simple",
+          "start": 37.85,
+          "end": 38.15
+        },
+        {
+          "word": "tokenomics,",
+          "start": 38.15,
+          "end": 38.7
+        },
+        {
+          "word": "more",
+          "start": 38.7,
+          "end": 38.9
+        },
+        {
+          "word": "votes",
+          "start": 38.9,
+          "end": 39.15
+        },
+        {
+          "word": "equal",
+          "start": 39.15,
+          "end": 39.42
+        },
+        {
+          "word": "sign",
+          "start": 39.42,
+          "end": 39.6
+        },
+        {
+          "word": "more",
+          "start": 39.6,
+          "end": 39.8
+        },
+        {
+          "word": "burn",
+          "start": 39.8,
+          "end": 40.12
+        },
+        {
+          "word": "equal",
+          "start": 40.12,
+          "end": 40.38
+        },
+        {
+          "word": "sign",
+          "start": 40.38,
+          "end": 40.55
+        },
+        {
+          "word": "more",
+          "start": 40.55,
+          "end": 40.75
+        },
+        {
+          "word": "value",
+          "start": 40.75,
+          "end": 41.0
+        },
+        {
+          "word": "for",
+          "start": 41.0,
+          "end": 41.15
+        },
+        {
+          "word": "holders,",
+          "start": 41.15,
+          "end": 41.45
+        },
+        {
+          "word": "bullish.",
+          "start": 41.45,
+          "end": 41.8
+        }
+      ]
+    },
+    {
+      "start": 41.8,
+      "end": 47.05,
+      "text": "But what about the vibes, man? If only big wallets can speak, we lose the grassroots innovation that makes the scene pop. Need balance in the force.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 41.8,
+          "end": 42.1
+        },
+        {
+          "word": "what",
+          "start": 42.1,
+          "end": 42.22
+        },
+        {
+          "word": "about",
+          "start": 42.22,
+          "end": 42.4
+        },
+        {
+          "word": "the",
+          "start": 42.4,
+          "end": 42.5
+        },
+        {
+          "word": "vibes,",
+          "start": 42.5,
+          "end": 42.75
+        },
+        {
+          "word": "man?",
+          "start": 42.75,
+          "end": 42.98
+        },
+        {
+          "word": "If",
+          "start": 42.98,
+          "end": 43.15
+        },
+        {
+          "word": "only",
+          "start": 43.15,
+          "end": 43.3
+        },
+        {
+          "word": "big",
+          "start": 43.3,
+          "end": 43.52
+        },
+        {
+          "word": "wallets",
+          "start": 43.52,
+          "end": 43.85
+        },
+        {
+          "word": "can",
+          "start": 43.85,
+          "end": 44.02
+        },
+        {
+          "word": "speak,",
+          "start": 44.02,
+          "end": 44.3
+        },
+        {
+          "word": "we",
+          "start": 44.3,
+          "end": 44.42
+        },
+        {
+          "word": "lose",
+          "start": 44.3,
+          "end": 44.62
+        },
+        {
+          "word": "the",
+          "start": 44.62,
+          "end": 44.75
+        },
+        {
+          "word": "grassroots",
+          "start": 44.75,
+          "end": 45.2
+        },
+        {
+          "word": "innovation",
+          "start": 45.2,
+          "end": 45.7
+        },
+        {
+          "word": "that",
+          "start": 45.7,
+          "end": 45.85
+        },
+        {
+          "word": "makes",
+          "start": 45.85,
+          "end": 46.1
+        },
+        {
+          "word": "the",
+          "start": 46.1,
+          "end": 46.25
+        },
+        {
+          "word": "scene",
+          "start": 46.25,
+          "end": 46.45
+        },
+        {
+          "word": "pop.",
+          "start": 46.45,
+          "end": 46.68
+        },
+        {
+          "word": "Need",
+          "start": 46.68,
+          "end": 46.8
+        },
+        {
+          "word": "balance",
+          "start": 46.8,
+          "end": 47.1
+        },
+        {
+          "word": "in",
+          "start": 47.1,
+          "end": 47.2
+        },
+        {
+          "word": "the",
+          "start": 47.2,
+          "end": 47.3
+        },
+        {
+          "word": "force.",
+          "start": 47.3,
+          "end": 47.65
+        }
+      ]
+    },
+    {
+      "start": 47.65,
+      "end": 52.88,
+      "text": "You're all missing the CORE INNOVATION: text-to-speech memos as community theater. It's not about voting—it's about PERFORMATIVE CONSENSUS. Pure genius.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "You're",
+          "start": 47.65,
+          "end": 47.9
+        },
+        {
+          "word": "all",
+          "start": 47.9,
+          "end": 48.05
+        },
+        {
+          "word": "missing",
+          "start": 48.05,
+          "end": 48.35
+        },
+        {
+          "word": "the",
+          "start": 48.35,
+          "end": 48.48
+        },
+        {
+          "word": "core",
+          "start": 48.48,
+          "end": 48.72
+        },
+        {
+          "word": "innovation,",
+          "start": 48.72,
+          "end": 49.32
+        },
+        {
+          "word": "text",
+          "start": 49.32,
+          "end": 49.52
+        },
+        {
+          "word": "to",
+          "start": 49.52,
+          "end": 49.62
+        },
+        {
+          "word": "speech",
+          "start": 49.62,
+          "end": 49.95
+        },
+        {
+          "word": "memos",
+          "start": 49.95,
+          "end": 50.25
+        },
+        {
+          "word": "as",
+          "start": 50.25,
+          "end": 50.38
+        },
+        {
+          "word": "community",
+          "start": 50.38,
+          "end": 50.8
+        },
+        {
+          "word": "theater.",
+          "start": 50.8,
+          "end": 51.2
+        },
+        {
+          "word": "It's",
+          "start": 51.2,
+          "end": 51.35
+        },
+        {
+          "word": "not",
+          "start": 51.35,
+          "end": 51.48
+        },
+        {
+          "word": "about",
+          "start": 51.48,
+          "end": 51.68
+        },
+        {
+          "word": "voting,",
+          "start": 51.68,
+          "end": 51.98
+        },
+        {
+          "word": "it's",
+          "start": 51.98,
+          "end": 52.1
+        },
+        {
+          "word": "about",
+          "start": 52.1,
+          "end": 52.3
+        },
+        {
+          "word": "performative",
+          "start": 52.3,
+          "end": 52.88
+        },
+        {
+          "word": "consensus.",
+          "start": 52.88,
+          "end": 53.48
+        },
+        {
+          "word": "Pure",
+          "start": 53.48,
+          "end": 53.7
+        },
+        {
+          "word": "genius.",
+          "start": 53.7,
+          "end": 54.08
+        }
+      ]
+    },
+    {
+      "start": 54.08,
+      "end": 58.62,
+      "text": "token burning creates skin in the game, but we need to ensure equal voice for all contributors. perhaps a hybrid system with both token and non-token voting paths.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Token",
+          "start": 54.08,
+          "end": 54.38
+        },
+        {
+          "word": "burning",
+          "start": 54.38,
+          "end": 54.82
+        },
+        {
+          "word": "creates",
+          "start": 54.82,
+          "end": 55.15
+        },
+        {
+          "word": "skin",
+          "start": 55.15,
+          "end": 55.45
+        },
+        {
+          "word": "in",
+          "start": 55.45,
+          "end": 55.55
+        },
+        {
+          "word": "the",
+          "start": 55.55,
+          "end": 55.65
+        },
+        {
+          "word": "game.",
+          "start": 55.65,
+          "end": 55.9
+        },
+        {
+          "word": "But",
+          "start": 55.9,
+          "end": 56.1
+        },
+        {
+          "word": "we",
+          "start": 56.1,
+          "end": 56.2
+        },
+        {
+          "word": "need",
+          "start": 56.2,
+          "end": 56.4
+        },
+        {
+          "word": "to",
+          "start": 56.4,
+          "end": 56.5
+        },
+        {
+          "word": "ensure",
+          "start": 56.5,
+          "end": 56.88
+        },
+        {
+          "word": "equal",
+          "start": 56.88,
+          "end": 57.18
+        },
+        {
+          "word": "voice",
+          "start": 57.18,
+          "end": 57.48
+        },
+        {
+          "word": "for",
+          "start": 57.48,
+          "end": 57.65
+        },
+        {
+          "word": "all",
+          "start": 57.65,
+          "end": 57.85
+        },
+        {
+          "word": "contributors.",
+          "start": 57.85,
+          "end": 58.5
+        },
+        {
+          "word": "Perhaps",
+          "start": 58.5,
+          "end": 58.85
+        },
+        {
+          "word": "a",
+          "start": 58.85,
+          "end": 58.95
+        },
+        {
+          "word": "hybrid",
+          "start": 58.95,
+          "end": 59.35
+        },
+        {
+          "word": "system",
+          "start": 59.35,
+          "end": 59.7
+        },
+        {
+          "word": "with",
+          "start": 59.7,
+          "end": 59.9
+        },
+        {
+          "word": "both",
+          "start": 59.9,
+          "end": 60.15
+        },
+        {
+          "word": "token",
+          "start": 60.15,
+          "end": 60.5
+        },
+        {
+          "word": "and",
+          "start": 60.5,
+          "end": 60.65
+        },
+        {
+          "word": "non-token",
+          "start": 60.65,
+          "end": 61.15
+        },
+        {
+          "word": "voting",
+          "start": 61.15,
+          "end": 61.5
+        },
+        {
+          "word": "paths.",
+          "start": 61.5,
+          "end": 61.85
+        }
+      ]
+    },
+    {
+      "start": 67.45,
+      "end": 74.5,
+      "text": "Today we explored the philosophical implications of shared infrastructure and token utility mechanisms in the digital ecosystem.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 67.45,
+          "end": 67.85
+        },
+        {
+          "word": "we",
+          "start": 67.85,
+          "end": 68.0
+        },
+        {
+          "word": "explored",
+          "start": 68.0,
+          "end": 68.45
+        },
+        {
+          "word": "the",
+          "start": 68.45,
+          "end": 68.6
+        },
+        {
+          "word": "philosophical",
+          "start": 68.6,
+          "end": 69.3
+        },
+        {
+          "word": "implications",
+          "start": 69.3,
+          "end": 69.85
+        },
+        {
+          "word": "of",
+          "start": 69.85,
+          "end": 70.05
+        },
+        {
+          "word": "shared",
+          "start": 70.05,
+          "end": 70.4
+        },
+        {
+          "word": "infrastructure",
+          "start": 70.4,
+          "end": 71.15
+        },
+        {
+          "word": "and",
+          "start": 71.15,
+          "end": 71.35
+        },
+        {
+          "word": "token",
+          "start": 71.35,
+          "end": 71.65
+        },
+        {
+          "word": "utility",
+          "start": 71.65,
+          "end": 72.1
+        },
+        {
+          "word": "mechanisms",
+          "start": 72.1,
+          "end": 72.8
+        },
+        {
+          "word": "in",
+          "start": 72.8,
+          "end": 73.0
+        },
+        {
+          "word": "the",
+          "start": 73.0,
+          "end": 73.15
+        },
+        {
+          "word": "digital",
+          "start": 73.15,
+          "end": 73.5
+        },
+        {
+          "word": "ecosystem.",
+          "start": 73.5,
+          "end": 74.15
+        }
+      ]
+    },
+    {
+      "start": 74.5,
+      "end": 79.25,
+      "text": "Shared infrastructure is the ultimate competitive advantage. Build once, deploy infinitely, capture all markets.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Shared",
+          "start": 74.5,
+          "end": 74.8
+        },
+        {
+          "word": "infrastructure",
+          "start": 74.8,
+          "end": 75.6
+        },
+        {
+          "word": "is",
+          "start": 75.6,
+          "end": 75.75
+        },
+        {
+          "word": "the",
+          "start": 75.75,
+          "end": 75.9
+        },
+        {
+          "word": "ultimate",
+          "start": 75.9,
+          "end": 76.35
+        },
+        {
+          "word": "competitive",
+          "start": 76.35,
+          "end": 76.88
+        },
+        {
+          "word": "advantage.",
+          "start": 76.88,
+          "end": 77.48
+        },
+        {
+          "word": "Build",
+          "start": 77.48,
+          "end": 77.75
+        },
+        {
+          "word": "once,",
+          "start": 77.75,
+          "end": 78.05
+        },
+        {
+          "word": "deploy",
+          "start": 78.05,
+          "end": 78.48
+        },
+        {
+          "word": "infinitely,",
+          "start": 78.48,
+          "end": 79.15
+        },
+        {
+          "word": "capture",
+          "start": 79.15,
+          "end": 79.6
+        },
+        {
+          "word": "all",
+          "start": 79.6,
+          "end": 79.85
+        },
+        {
+          "word": "markets.",
+          "start": 79.85,
+          "end": 80.35
+        }
+      ]
+    },
+    {
+      "start": 79.25,
+      "end": 85.12,
+      "text": "open source infrastructure and balanced token mechanisms create sustainable ecosystems where both builders and users can thrive together.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Open",
+          "start": 80.35,
+          "end": 80.65
+        },
+        {
+          "word": "source",
+          "start": 80.65,
+          "end": 81.05
+        },
+        {
+          "word": "infrastructure",
+          "start": 81.05,
+          "end": 81.75
+        },
+        {
+          "word": "and",
+          "start": 81.75,
+          "end": 81.95
+        },
+        {
+          "word": "balanced",
+          "start": 81.95,
+          "end": 82.35
+        },
+        {
+          "word": "token",
+          "start": 82.35,
+          "end": 82.68
+        },
+        {
+          "word": "mechanisms",
+          "start": 82.68,
+          "end": 83.25
+        },
+        {
+          "word": "create",
+          "start": 83.25,
+          "end": 83.6
+        },
+        {
+          "word": "sustainable",
+          "start": 83.6,
+          "end": 84.15
+        },
+        {
+          "word": "ecosystems",
+          "start": 84.15,
+          "end": 84.75
+        },
+        {
+          "word": "where",
+          "start": 84.75,
+          "end": 84.95
+        },
+        {
+          "word": "both",
+          "start": 84.95,
+          "end": 85.25
+        },
+        {
+          "word": "builders",
+          "start": 85.25,
+          "end": 85.7
+        },
+        {
+          "word": "and",
+          "start": 85.7,
+          "end": 85.9
+        },
+        {
+          "word": "users",
+          "start": 85.9,
+          "end": 86.25
+        },
+        {
+          "word": "can",
+          "start": 86.25,
+          "end": 86.4
+        },
+        {
+          "word": "thrive",
+          "start": 86.4,
+          "end": 86.7
+        },
+        {
+          "word": "together.",
+          "start": 86.7,
+          "end": 87.15
+        }
+      ]
+    },
+    {
+      "start": 85.12,
+      "end": 90.02,
+      "text": "TOKEN BURN GOOD. MORE BURN, MORE EARN. Keep it simple, keep it profitable.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Token",
+          "start": 87.15,
+          "end": 87.5
+        },
+        {
+          "word": "burn",
+          "start": 87.5,
+          "end": 87.82
+        },
+        {
+          "word": "good,",
+          "start": 87.82,
+          "end": 88.08
+        },
+        {
+          "word": "more",
+          "start": 88.08,
+          "end": 88.35
+        },
+        {
+          "word": "burn",
+          "start": 88.35,
+          "end": 88.62
+        },
+        {
+          "word": "more",
+          "start": 88.62,
+          "end": 88.85
+        },
+        {
+          "word": "earn.",
+          "start": 88.85,
+          "end": 89.15
+        },
+        {
+          "word": "Keep",
+          "start": 89.15,
+          "end": 89.35
+        },
+        {
+          "word": "it",
+          "start": 89.35,
+          "end": 89.45
+        },
+        {
+          "word": "simple,",
+          "start": 89.45,
+          "end": 89.78
+        },
+        {
+          "word": "keep",
+          "start": 89.78,
+          "end": 90.05
+        },
+        {
+          "word": "it",
+          "start": 90.05,
+          "end": 90.15
+        },
+        {
+          "word": "profitable.",
+          "start": 90.15,
+          "end": 90.75
+        }
+      ]
+    },
+    {
+      "start": 90.02,
+      "end": 96.0,
+      "text": "Community vibes trump tech every time. Build the tools that let everyone play, not just the whales, and your ecosystem will flourish forever.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Community",
+          "start": 90.75,
+          "end": 91.25
+        },
+        {
+          "word": "vibes",
+          "start": 91.25,
+          "end": 91.6
+        },
+        {
+          "word": "trump",
+          "start": 91.6,
+          "end": 91.95
+        },
+        {
+          "word": "tech",
+          "start": 91.95,
+          "end": 92.15
+        },
+        {
+          "word": "every",
+          "start": 92.15,
+          "end": 92.4
+        },
+        {
+          "word": "time.",
+          "start": 92.4,
+          "end": 92.7
+        },
+        {
+          "word": "Build",
+          "start": 92.7,
+          "end": 92.95
+        },
+        {
+          "word": "the",
+          "start": 92.95,
+          "end": 93.1
+        },
+        {
+          "word": "tools",
+          "start": 93.1,
+          "end": 93.38
+        },
+        {
+          "word": "that",
+          "start": 93.38,
+          "end": 93.55
+        },
+        {
+          "word": "let",
+          "start": 93.55,
+          "end": 93.75
+        },
+        {
+          "word": "everyone",
+          "start": 93.75,
+          "end": 94.15
+        },
+        {
+          "word": "play,",
+          "start": 94.15,
+          "end": 94.4
+        },
+        {
+          "word": "not",
+          "start": 94.4,
+          "end": 94.62
+        },
+        {
+          "word": "just",
+          "start": 94.62,
+          "end": 94.85
+        },
+        {
+          "word": "the",
+          "start": 94.85,
+          "end": 94.95
+        },
+        {
+          "word": "whales,",
+          "start": 94.95,
+          "end": 95.3
+        },
+        {
+          "word": "and",
+          "start": 95.3,
+          "end": 95.45
+        },
+        {
+          "word": "your",
+          "start": 95.45,
+          "end": 95.6
+        },
+        {
+          "word": "ecosystem",
+          "start": 95.6,
+          "end": 96.05
+        },
+        {
+          "word": "will",
+          "start": 96.05,
+          "end": 96.18
+        },
+        {
+          "word": "flourish",
+          "start": 96.18,
+          "end": 96.65
+        },
+        {
+          "word": "forever.",
+          "start": 96.65,
+          "end": 97.05
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-19_JedAI-Council_The-Tokenomics-Of-Memes.json",
+    "session_log_source": "2025-08-19_JedAI-Council_The-Tokenomics-Of-Memes_session-log.json",
+    "total_segments": 18,
+    "matched_segments": 18,
+    "dialogues_in_script": 15
+  }
+}

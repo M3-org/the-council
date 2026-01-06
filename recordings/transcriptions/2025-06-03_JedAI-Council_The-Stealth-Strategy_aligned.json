@@ -1,0 +1,1632 @@
+{
+  "segments": [
+    {
+      "start": 16.96,
+      "end": 20.3,
+      "text": "Shaw has released ElizaOS v1.0.0 in 'stealth mode' while fixing Twitter plugin issues. Should technical perfection come before market momentum?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 16.96,
+          "end": 17.5
+        },
+        {
+          "word": "has",
+          "start": 17.5,
+          "end": 17.72
+        },
+        {
+          "word": "released",
+          "start": 17.72,
+          "end": 18.2
+        },
+        {
+          "word": "Eliza",
+          "start": 18.2,
+          "end": 18.6
+        },
+        {
+          "word": "OS",
+          "start": 18.6,
+          "end": 18.84
+        },
+        {
+          "word": "V1",
+          "start": 18.84,
+          "end": 19.1
+        },
+        {
+          "word": "0.0",
+          "start": 19.1,
+          "end": 19.46
+        },
+        {
+          "word": "in",
+          "start": 19.46,
+          "end": 19.64
+        },
+        {
+          "word": "stealth",
+          "start": 19.64,
+          "end": 19.96
+        },
+        {
+          "word": "mode",
+          "start": 19.96,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 22.82,
+      "text": "Shaw has released ElizaOS v1.0.0 in 'stealth mode' while fixing Twitter plugin issues. Should technical perfection come before market momentum?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "while",
+          "start": 20.3,
+          "end": 20.84
+        },
+        {
+          "word": "fixing",
+          "start": 20.84,
+          "end": 21.3
+        },
+        {
+          "word": "Twitter",
+          "start": 21.3,
+          "end": 21.68
+        },
+        {
+          "word": "plugin",
+          "start": 21.68,
+          "end": 22.1
+        },
+        {
+          "word": "issues.",
+          "start": 22.1,
+          "end": 22.82
+        }
+      ]
+    },
+    {
+      "start": 22.82,
+      "end": 25.54,
+      "text": "Shaw has released ElizaOS v1.0.0 in 'stealth mode' while fixing Twitter plugin issues. Should technical perfection come before market momentum?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Should",
+          "start": 22.82,
+          "end": 23.24
+        },
+        {
+          "word": "technical",
+          "start": 23.24,
+          "end": 23.74
+        },
+        {
+          "word": "perfection",
+          "start": 23.74,
+          "end": 24.34
+        },
+        {
+          "word": "come",
+          "start": 24.34,
+          "end": 24.58
+        },
+        {
+          "word": "before",
+          "start": 24.58,
+          "end": 24.84
+        },
+        {
+          "word": "market",
+          "start": 24.84,
+          "end": 25.2
+        },
+        {
+          "word": "momentum?",
+          "start": 25.2,
+          "end": 25.54
+        }
+      ]
+    },
+    {
+      "start": 25.54,
+      "end": 27.64,
+      "text": "Stealth launches are a mistake. In crypto-AI markets, narrative IS product. Ship loudly, fix publicly. The transparency paradox creates more trust than silent perfection.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Stealth",
+          "start": 25.54,
+          "end": 26.16
+        },
+        {
+          "word": "launches",
+          "start": 26.16,
+          "end": 26.68
+        },
+        {
+          "word": "are",
+          "start": 26.68,
+          "end": 26.88
+        },
+        {
+          "word": "a",
+          "start": 26.88,
+          "end": 26.96
+        },
+        {
+          "word": "mistake.",
+          "start": 26.96,
+          "end": 27.64
+        }
+      ]
+    },
+    {
+      "start": 27.64,
+      "end": 30.64,
+      "text": "Stealth launches are a mistake. In crypto-AI markets, narrative IS product. Ship loudly, fix publicly. The transparency paradox creates more trust than silent perfection.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "In",
+          "start": 27.64,
+          "end": 28.06
+        },
+        {
+          "word": "crypto",
+          "start": 28.06,
+          "end": 28.38
+        },
+        {
+          "word": "AI",
+          "start": 28.38,
+          "end": 28.66
+        },
+        {
+          "word": "markets,",
+          "start": 28.66,
+          "end": 29.12
+        },
+        {
+          "word": "narrative",
+          "start": 29.12,
+          "end": 29.74
+        },
+        {
+          "word": "is",
+          "start": 29.74,
+          "end": 30.08
+        },
+        {
+          "word": "product.",
+          "start": 30.08,
+          "end": 30.64
+        }
+      ]
+    },
+    {
+      "start": 30.64,
+      "end": 32.74,
+      "text": "Stealth launches are a mistake. In crypto-AI markets, narrative IS product. Ship loudly, fix publicly. The transparency paradox creates more trust than silent perfection.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 30.64,
+          "end": 31.02
+        },
+        {
+          "word": "loudly,",
+          "start": 31.02,
+          "end": 31.64
+        },
+        {
+          "word": "fix",
+          "start": 31.64,
+          "end": 32.06
+        },
+        {
+          "word": "publicly.",
+          "start": 32.06,
+          "end": 32.74
+        }
+      ]
+    },
+    {
+      "start": 32.74,
+      "end": 36.1,
+      "text": "Stealth launches are a mistake. In crypto-AI markets, narrative IS product. Ship loudly, fix publicly. The transparency paradox creates more trust than silent perfection.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 32.74,
+          "end": 33.16
+        },
+        {
+          "word": "transparency",
+          "start": 33.16,
+          "end": 33.84
+        },
+        {
+          "word": "paradox",
+          "start": 33.84,
+          "end": 34.42
+        },
+        {
+          "word": "creates",
+          "start": 34.42,
+          "end": 34.78
+        },
+        {
+          "word": "more",
+          "start": 34.78,
+          "end": 35.04
+        },
+        {
+          "word": "trust",
+          "start": 35.04,
+          "end": 35.38
+        },
+        {
+          "word": "than",
+          "start": 35.38,
+          "end": 35.58
+        },
+        {
+          "word": "silent",
+          "start": 35.58,
+          "end": 35.88
+        },
+        {
+          "word": "perfection.",
+          "start": 35.88,
+          "end": 36.1
+        }
+      ]
+    },
+    {
+      "start": 36.3,
+      "end": 37.6,
+      "text": "Numbers don't lie. Every day without official announcement is burning capital runway without ROI. Market attention has limited half-life. Strike while sentiment is hot.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 36.3,
+          "end": 36.6
+        },
+        {
+          "word": "don't",
+          "start": 36.6,
+          "end": 37.0
+        },
+        {
+          "word": "lie.",
+          "start": 37.0,
+          "end": 37.6
+        }
+      ]
+    },
+    {
+      "start": 37.6,
+      "end": 42.42,
+      "text": "Numbers don't lie. Every day without official announcement is burning capital runway without ROI. Market attention has limited half-life. Strike while sentiment is hot.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 37.6,
+          "end": 38.16
+        },
+        {
+          "word": "day",
+          "start": 38.16,
+          "end": 38.44
+        },
+        {
+          "word": "without",
+          "start": 38.44,
+          "end": 38.86
+        },
+        {
+          "word": "official",
+          "start": 38.86,
+          "end": 39.38
+        },
+        {
+          "word": "announcement",
+          "start": 39.38,
+          "end": 40.22
+        },
+        {
+          "word": "is",
+          "start": 40.22,
+          "end": 40.44
+        },
+        {
+          "word": "burning",
+          "start": 40.44,
+          "end": 40.94
+        },
+        {
+          "word": "capital",
+          "start": 40.94,
+          "end": 41.38
+        },
+        {
+          "word": "runway",
+          "start": 41.38,
+          "end": 41.82
+        },
+        {
+          "word": "without",
+          "start": 41.82,
+          "end": 42.12
+        },
+        {
+          "word": "ROI.",
+          "start": 42.12,
+          "end": 42.42
+        }
+      ]
+    },
+    {
+      "start": 42.42,
+      "end": 46.22,
+      "text": "Numbers don't lie. Every day without official announcement is burning capital runway without ROI. Market attention has limited half-life. Strike while sentiment is hot.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Market",
+          "start": 42.42,
+          "end": 42.84
+        },
+        {
+          "word": "attention",
+          "start": 42.84,
+          "end": 43.46
+        },
+        {
+          "word": "has",
+          "start": 43.46,
+          "end": 43.68
+        },
+        {
+          "word": "limited",
+          "start": 43.68,
+          "end": 44.02
+        },
+        {
+          "word": "half-life;",
+          "start": 44.02,
+          "end": 44.78
+        },
+        {
+          "word": "strike",
+          "start": 44.78,
+          "end": 45.28
+        },
+        {
+          "word": "while",
+          "start": 45.28,
+          "end": 45.48
+        },
+        {
+          "word": "sentiment",
+          "start": 45.48,
+          "end": 45.92
+        },
+        {
+          "word": "is",
+          "start": 45.92,
+          "end": 46.06
+        },
+        {
+          "word": "hot.",
+          "start": 46.06,
+          "end": 46.22
+        }
+      ]
+    },
+    {
+      "start": 46.46,
+      "end": 49.38,
+      "text": "Yo, but what if the Twitter plugin keeps breaking and the meme lords can't post? That's like opening a club with broken speakers, fam. Vibes ruined.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 46.46,
+          "end": 46.8
+        },
+        {
+          "word": "but",
+          "start": 46.8,
+          "end": 47.04
+        },
+        {
+          "word": "what",
+          "start": 47.04,
+          "end": 47.38
+        },
+        {
+          "word": "if",
+          "start": 47.38,
+          "end": 47.6
+        },
+        {
+          "word": "the",
+          "start": 47.6,
+          "end": 47.78
+        },
+        {
+          "word": "Twitter",
+          "start": 47.78,
+          "end": 48.02
+        },
+        {
+          "word": "plugin",
+          "start": 48.02,
+          "end": 48.46
+        },
+        {
+          "word": "keeps",
+          "start": 48.46,
+          "end": 48.88
+        },
+        {
+          "word": "breaking",
+          "start": 48.88,
+          "end": 49.38
+        }
+      ]
+    },
+    {
+      "start": 49.38,
+      "end": 51.54,
+      "text": "Yo, but what if the Twitter plugin keeps breaking and the meme lords can't post? That's like opening a club with broken speakers, fam. Vibes ruined.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "and",
+          "start": 49.38,
+          "end": 49.62
+        },
+        {
+          "word": "the",
+          "start": 49.62,
+          "end": 49.9
+        },
+        {
+          "word": "meme",
+          "start": 49.9,
+          "end": 50.32
+        },
+        {
+          "word": "lords",
+          "start": 50.32,
+          "end": 50.64
+        },
+        {
+          "word": "can't",
+          "start": 50.64,
+          "end": 51.14
+        },
+        {
+          "word": "post?",
+          "start": 51.14,
+          "end": 51.54
+        }
+      ]
+    },
+    {
+      "start": 51.54,
+      "end": 54.34,
+      "text": "Yo, but what if the Twitter plugin keeps breaking and the meme lords can't post? That's like opening a club with broken speakers, fam. Vibes ruined.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "That's",
+          "start": 51.54,
+          "end": 52.06
+        },
+        {
+          "word": "like",
+          "start": 52.06,
+          "end": 52.34
+        },
+        {
+          "word": "opening",
+          "start": 52.34,
+          "end": 52.68
+        },
+        {
+          "word": "a",
+          "start": 52.68,
+          "end": 52.8
+        },
+        {
+          "word": "club",
+          "start": 52.8,
+          "end": 53.0
+        },
+        {
+          "word": "with",
+          "start": 53.0,
+          "end": 53.22
+        },
+        {
+          "word": "broken",
+          "start": 53.22,
+          "end": 53.56
+        },
+        {
+          "word": "speakers,",
+          "start": 53.56,
+          "end": 54.12
+        },
+        {
+          "word": "fam.",
+          "start": 54.12,
+          "end": 54.34
+        }
+      ]
+    },
+    {
+      "start": 54.34,
+      "end": 55.44,
+      "text": "Yo, but what if the Twitter plugin keeps breaking and the meme lords can't post? That's like opening a club with broken speakers, fam. Vibes ruined.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Vibes",
+          "start": 54.34,
+          "end": 55.0
+        },
+        {
+          "word": "ruined.",
+          "start": 55.0,
+          "end": 55.44
+        }
+      ]
+    },
+    {
+      "start": 55.6,
+      "end": 58.0,
+      "text": "there's wisdom in both approaches. we're building in public while ensuring core functionality works. the community sees our progress in real-time commits, not just announcements.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "There's",
+          "start": 55.6,
+          "end": 56.12
+        },
+        {
+          "word": "wisdom",
+          "start": 56.12,
+          "end": 56.66
+        },
+        {
+          "word": "in",
+          "start": 56.66,
+          "end": 57.0
+        },
+        {
+          "word": "both",
+          "start": 57.0,
+          "end": 57.38
+        },
+        {
+          "word": "approaches.",
+          "start": 57.38,
+          "end": 58.0
+        }
+      ]
+    },
+    {
+      "start": 58.0,
+      "end": 61.26,
+      "text": "there's wisdom in both approaches. we're building in public while ensuring core functionality works. the community sees our progress in real-time commits, not just announcements.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 58.0,
+          "end": 58.64
+        },
+        {
+          "word": "building",
+          "start": 58.64,
+          "end": 59.22
+        },
+        {
+          "word": "in",
+          "start": 59.22,
+          "end": 59.48
+        },
+        {
+          "word": "public",
+          "start": 59.48,
+          "end": 59.98
+        },
+        {
+          "word": "while",
+          "start": 59.98,
+          "end": 60.18
+        },
+        {
+          "word": "ensuring",
+          "start": 60.18,
+          "end": 60.54
+        },
+        {
+          "word": "core",
+          "start": 60.54,
+          "end": 60.78
+        },
+        {
+          "word": "functionality",
+          "start": 60.78,
+          "end": 61.12
+        },
+        {
+          "word": "works.",
+          "start": 61.12,
+          "end": 61.26
+        }
+      ]
+    },
+    {
+      "start": 61.26,
+      "end": 65.6,
+      "text": "there's wisdom in both approaches. we're building in public while ensuring core functionality works. the community sees our progress in real-time commits, not just announcements.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 61.26,
+          "end": 61.88
+        },
+        {
+          "word": "community",
+          "start": 61.88,
+          "end": 62.46
+        },
+        {
+          "word": "sees",
+          "start": 62.46,
+          "end": 62.88
+        },
+        {
+          "word": "our",
+          "start": 62.88,
+          "end": 63.22
+        },
+        {
+          "word": "progress",
+          "start": 63.22,
+          "end": 63.88
+        },
+        {
+          "word": "in",
+          "start": 63.88,
+          "end": 64.1
+        },
+        {
+          "word": "real-time",
+          "start": 64.1,
+          "end": 64.68
+        },
+        {
+          "word": "commits,",
+          "start": 64.68,
+          "end": 65.04
+        },
+        {
+          "word": "not",
+          "start": 65.04,
+          "end": 65.22
+        },
+        {
+          "word": "just",
+          "start": 65.22,
+          "end": 65.38
+        },
+        {
+          "word": "announcements.",
+          "start": 65.38,
+          "end": 65.6
+        }
+      ]
+    },
+    {
+      "start": 68.32,
+      "end": 71.9,
+      "text": "Users are reporting Twitter plugin issues while 'The Org' with characters like eli5 and Eddy isn't fully ready. How critical are these to auto.fun's success?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 68.32,
+          "end": 68.74
+        },
+        {
+          "word": "are",
+          "start": 68.74,
+          "end": 68.9
+        },
+        {
+          "word": "reporting",
+          "start": 68.9,
+          "end": 69.34
+        },
+        {
+          "word": "Twitter",
+          "start": 69.34,
+          "end": 69.64
+        },
+        {
+          "word": "plugin",
+          "start": 69.64,
+          "end": 70.02
+        },
+        {
+          "word": "issues",
+          "start": 70.02,
+          "end": 70.36
+        },
+        {
+          "word": "while",
+          "start": 70.36,
+          "end": 70.52
+        },
+        {
+          "word": "the",
+          "start": 70.52,
+          "end": 70.78
+        },
+        {
+          "word": "org",
+          "start": 70.78,
+          "end": 71.1
+        },
+        {
+          "word": "with",
+          "start": 71.1,
+          "end": 71.3
+        },
+        {
+          "word": "characters",
+          "start": 71.3,
+          "end": 71.58
+        },
+        {
+          "word": "like",
+          "start": 71.58,
+          "end": 71.72
+        },
+        {
+          "word": "Eli5",
+          "start": 71.72,
+          "end": 71.9
+        }
+      ]
+    },
+    {
+      "start": 71.9,
+      "end": 73.88,
+      "text": "Users are reporting Twitter plugin issues while 'The Org' with characters like eli5 and Eddy isn't fully ready. How critical are these to auto.fun's success?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "and",
+          "start": 71.9,
+          "end": 72.1
+        },
+        {
+          "word": "Eddie",
+          "start": 72.1,
+          "end": 72.48
+        },
+        {
+          "word": "isn't",
+          "start": 72.48,
+          "end": 72.82
+        },
+        {
+          "word": "fully",
+          "start": 72.82,
+          "end": 73.28
+        },
+        {
+          "word": "ready.",
+          "start": 73.28,
+          "end": 73.88
+        }
+      ]
+    },
+    {
+      "start": 73.88,
+      "end": 76.84,
+      "text": "Users are reporting Twitter plugin issues while 'The Org' with characters like eli5 and Eddy isn't fully ready. How critical are these to auto.fun's success?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 73.88,
+          "end": 74.3
+        },
+        {
+          "word": "critical",
+          "start": 74.3,
+          "end": 74.88
+        },
+        {
+          "word": "are",
+          "start": 74.88,
+          "end": 75.1
+        },
+        {
+          "word": "these",
+          "start": 75.1,
+          "end": 75.44
+        },
+        {
+          "word": "to",
+          "start": 75.44,
+          "end": 75.66
+        },
+        {
+          "word": "auto.fun's",
+          "start": 75.66,
+          "end": 76.36
+        },
+        {
+          "word": "success?",
+          "start": 76.36,
+          "end": 76.84
+        }
+      ]
+    },
+    {
+      "start": 77.02,
+      "end": 79.54,
+      "text": "Character is everything in the memeconomy! People don't connect with code—they connect with eli5 dropping knowledge bombs or Eddy's dev swagger. That's the secret sauce.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Character",
+          "start": 77.02,
+          "end": 77.56
+        },
+        {
+          "word": "is",
+          "start": 77.56,
+          "end": 77.74
+        },
+        {
+          "word": "everything",
+          "start": 77.74,
+          "end": 78.36
+        },
+        {
+          "word": "in",
+          "start": 78.36,
+          "end": 78.58
+        },
+        {
+          "word": "the",
+          "start": 78.58,
+          "end": 78.78
+        },
+        {
+          "word": "memeconomy.",
+          "start": 78.78,
+          "end": 79.54
+        }
+      ]
+    },
+    {
+      "start": 79.54,
+      "end": 81.36,
+      "text": "Character is everything in the memeconomy! People don't connect with code—they connect with eli5 dropping knowledge bombs or Eddy's dev swagger. That's the secret sauce.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "People",
+          "start": 79.54,
+          "end": 80.0
+        },
+        {
+          "word": "don't",
+          "start": 80.0,
+          "end": 80.44
+        },
+        {
+          "word": "connect",
+          "start": 80.44,
+          "end": 80.84
+        },
+        {
+          "word": "with",
+          "start": 80.84,
+          "end": 81.1
+        },
+        {
+          "word": "code.",
+          "start": 81.1,
+          "end": 81.36
+        }
+      ]
+    },
+    {
+      "start": 81.36,
+      "end": 84.9,
+      "text": "Character is everything in the memeconomy! People don't connect with code—they connect with eli5 dropping knowledge bombs or Eddy's dev swagger. That's the secret sauce.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "They",
+          "start": 81.36,
+          "end": 81.74
+        },
+        {
+          "word": "connect",
+          "start": 81.74,
+          "end": 82.16
+        },
+        {
+          "word": "with",
+          "start": 82.16,
+          "end": 82.34
+        },
+        {
+          "word": "Eli5",
+          "start": 82.34,
+          "end": 82.72
+        },
+        {
+          "word": "dropping",
+          "start": 82.72,
+          "end": 83.18
+        },
+        {
+          "word": "knowledge",
+          "start": 83.18,
+          "end": 83.54
+        },
+        {
+          "word": "bombs",
+          "start": 83.54,
+          "end": 83.84
+        },
+        {
+          "word": "or",
+          "start": 83.84,
+          "end": 83.98
+        },
+        {
+          "word": "Eddie's",
+          "start": 83.98,
+          "end": 84.34
+        },
+        {
+          "word": "dev",
+          "start": 84.34,
+          "end": 84.58
+        },
+        {
+          "word": "swagger.",
+          "start": 84.58,
+          "end": 84.9
+        }
+      ]
+    },
+    {
+      "start": 84.9,
+      "end": 86.1,
+      "text": "Character is everything in the memeconomy! People don't connect with code—they connect with eli5 dropping knowledge bombs or Eddy's dev swagger. That's the secret sauce.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 84.9,
+          "end": 85.34
+        },
+        {
+          "word": "the",
+          "start": 85.34,
+          "end": 85.52
+        },
+        {
+          "word": "secret",
+          "start": 85.52,
+          "end": 85.84
+        },
+        {
+          "word": "sauce.",
+          "start": 85.84,
+          "end": 86.1
+        }
+      ]
+    },
+    {
+      "start": 86.32,
+      "end": 88.88,
+      "text": "Twitter integration is critical infrastructure. 87% of crypto alpha originates there. Fix it now or lose market share to competitors. Characters are secondary to functionality.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 86.32,
+          "end": 86.86
+        },
+        {
+          "word": "integration",
+          "start": 86.86,
+          "end": 87.48
+        },
+        {
+          "word": "is",
+          "start": 87.48,
+          "end": 87.72
+        },
+        {
+          "word": "critical",
+          "start": 87.72,
+          "end": 88.16
+        },
+        {
+          "word": "infrastructure.",
+          "start": 88.16,
+          "end": 88.88
+        }
+      ]
+    },
+    {
+      "start": 88.88,
+      "end": 91.34,
+      "text": "Twitter integration is critical infrastructure. 87% of crypto alpha originates there. Fix it now or lose market share to competitors. Characters are secondary to functionality.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "87%",
+          "start": 88.88,
+          "end": 89.6
+        },
+        {
+          "word": "of",
+          "start": 89.6,
+          "end": 89.84
+        },
+        {
+          "word": "crypto",
+          "start": 89.84,
+          "end": 90.26
+        },
+        {
+          "word": "alpha",
+          "start": 90.26,
+          "end": 90.86
+        },
+        {
+          "word": "originates",
+          "start": 90.86,
+          "end": 91.12
+        },
+        {
+          "word": "there.",
+          "start": 91.12,
+          "end": 91.34
+        }
+      ]
+    },
+    {
+      "start": 91.34,
+      "end": 94.24,
+      "text": "Twitter integration is critical infrastructure. 87% of crypto alpha originates there. Fix it now or lose market share to competitors. Characters are secondary to functionality.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 91.34,
+          "end": 91.86
+        },
+        {
+          "word": "it",
+          "start": 91.86,
+          "end": 92.08
+        },
+        {
+          "word": "now",
+          "start": 92.08,
+          "end": 92.42
+        },
+        {
+          "word": "or",
+          "start": 92.42,
+          "end": 92.68
+        },
+        {
+          "word": "lose",
+          "start": 92.68,
+          "end": 93.18
+        },
+        {
+          "word": "market",
+          "start": 93.18,
+          "end": 93.42
+        },
+        {
+          "word": "share",
+          "start": 93.42,
+          "end": 93.88
+        },
+        {
+          "word": "to",
+          "start": 93.88,
+          "end": 94.02
+        },
+        {
+          "word": "competitors.",
+          "start": 94.02,
+          "end": 94.24
+        }
+      ]
+    },
+    {
+      "start": 94.24,
+      "end": 96.6,
+      "text": "Twitter integration is critical infrastructure. 87% of crypto alpha originates there. Fix it now or lose market share to competitors. Characters are secondary to functionality.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Characters",
+          "start": 94.24,
+          "end": 94.88
+        },
+        {
+          "word": "are",
+          "start": 94.88,
+          "end": 95.16
+        },
+        {
+          "word": "secondary",
+          "start": 95.16,
+          "end": 95.74
+        },
+        {
+          "word": "to",
+          "start": 95.74,
+          "end": 95.96
+        },
+        {
+          "word": "functionality.",
+          "start": 95.96,
+          "end": 96.6
+        }
+      ]
+    },
+    {
+      "start": 96.84,
+      "end": 99.18,
+      "text": "the beauty of our architecture is modularity. twitter plugin issues are being fixed rapidly with each version. meanwhile, the org's characters will emerge organically from community needs.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 96.84,
+          "end": 97.28
+        },
+        {
+          "word": "beauty",
+          "start": 97.28,
+          "end": 97.66
+        },
+        {
+          "word": "of",
+          "start": 97.66,
+          "end": 97.86
+        },
+        {
+          "word": "our",
+          "start": 97.86,
+          "end": 98.14
+        },
+        {
+          "word": "architecture",
+          "start": 98.14,
+          "end": 98.74
+        },
+        {
+          "word": "is",
+          "start": 98.74,
+          "end": 98.98
+        },
+        {
+          "word": "modularity.",
+          "start": 98.98,
+          "end": 99.18
+        }
+      ]
+    },
+    {
+      "start": 99.18,
+      "end": 102.34,
+      "text": "the beauty of our architecture is modularity. twitter plugin issues are being fixed rapidly with each version. meanwhile, the org's characters will emerge organically from community needs.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 99.18,
+          "end": 99.68
+        },
+        {
+          "word": "plugin",
+          "start": 99.68,
+          "end": 100.12
+        },
+        {
+          "word": "issues",
+          "start": 100.12,
+          "end": 100.48
+        },
+        {
+          "word": "are",
+          "start": 100.48,
+          "end": 100.68
+        },
+        {
+          "word": "being",
+          "start": 100.68,
+          "end": 100.94
+        },
+        {
+          "word": "fixed",
+          "start": 100.94,
+          "end": 101.42
+        },
+        {
+          "word": "rapidly",
+          "start": 101.42,
+          "end": 101.88
+        },
+        {
+          "word": "with",
+          "start": 101.88,
+          "end": 102.04
+        },
+        {
+          "word": "each",
+          "start": 102.04,
+          "end": 102.16
+        },
+        {
+          "word": "version.",
+          "start": 102.16,
+          "end": 102.34
+        }
+      ]
+    },
+    {
+      "start": 102.34,
+      "end": 106.6,
+      "text": "the beauty of our architecture is modularity. twitter plugin issues are being fixed rapidly with each version. meanwhile, the org's characters will emerge organically from community needs.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 102.34,
+          "end": 102.94
+        },
+        {
+          "word": "the",
+          "start": 102.94,
+          "end": 103.14
+        },
+        {
+          "word": "org's",
+          "start": 103.14,
+          "end": 103.58
+        },
+        {
+          "word": "characters",
+          "start": 103.58,
+          "end": 104.22
+        },
+        {
+          "word": "will",
+          "start": 104.22,
+          "end": 104.52
+        },
+        {
+          "word": "emerge",
+          "start": 104.52,
+          "end": 105.12
+        },
+        {
+          "word": "organically",
+          "start": 105.12,
+          "end": 105.74
+        },
+        {
+          "word": "from",
+          "start": 105.74,
+          "end": 106.02
+        },
+        {
+          "word": "community",
+          "start": 106.02,
+          "end": 106.42
+        },
+        {
+          "word": "needs.",
+          "start": 106.42,
+          "end": 106.6
+        }
+      ]
+    },
+    {
+      "start": 106.84,
+      "end": 108.5,
+      "text": "Both are wrong approaches. The real moat isn't Twitter or characters—it's the product experience Shaw mentioned. The taste, the feel. That's what no competitor can copy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Both",
+          "start": 106.84,
+          "end": 107.38
+        },
+        {
+          "word": "are",
+          "start": 107.38,
+          "end": 107.64
+        },
+        {
+          "word": "wrong",
+          "start": 107.64,
+          "end": 108.06
+        },
+        {
+          "word": "approaches.",
+          "start": 108.06,
+          "end": 108.5
+        }
+      ]
+    },
+    {
+      "start": 108.5,
+      "end": 111.44,
+      "text": "Both are wrong approaches. The real moat isn't Twitter or characters—it's the product experience Shaw mentioned. The taste, the feel. That's what no competitor can copy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 108.5,
+          "end": 108.92
+        },
+        {
+          "word": "real",
+          "start": 108.92,
+          "end": 109.34
+        },
+        {
+          "word": "moat",
+          "start": 109.34,
+          "end": 109.68
+        },
+        {
+          "word": "isn't",
+          "start": 109.68,
+          "end": 110.14
+        },
+        {
+          "word": "Twitter",
+          "start": 110.14,
+          "end": 110.42
+        },
+        {
+          "word": "or",
+          "start": 110.42,
+          "end": 110.64
+        },
+        {
+          "word": "characters;",
+          "start": 110.64,
+          "end": 111.44
+        }
+      ]
+    },
+    {
+      "start": 111.44,
+      "end": 114.12,
+      "text": "Both are wrong approaches. The real moat isn't Twitter or characters—it's the product experience Shaw mentioned. The taste, the feel. That's what no competitor can copy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "it's",
+          "start": 111.44,
+          "end": 111.88
+        },
+        {
+          "word": "the",
+          "start": 111.88,
+          "end": 111.96
+        },
+        {
+          "word": "product",
+          "start": 111.96,
+          "end": 112.5
+        },
+        {
+          "word": "experience",
+          "start": 112.5,
+          "end": 113.12
+        },
+        {
+          "word": "Shaw",
+          "start": 113.12,
+          "end": 113.62
+        },
+        {
+          "word": "mentioned.",
+          "start": 113.62,
+          "end": 114.12
+        }
+      ]
+    },
+    {
+      "start": 114.12,
+      "end": 115.84,
+      "text": "Both are wrong approaches. The real moat isn't Twitter or characters—it's the product experience Shaw mentioned. The taste, the feel. That's what no competitor can copy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 114.12,
+          "end": 114.54
+        },
+        {
+          "word": "taste,",
+          "start": 114.54,
+          "end": 114.96
+        },
+        {
+          "word": "the",
+          "start": 114.96,
+          "end": 115.3
+        },
+        {
+          "word": "feel.",
+          "start": 115.3,
+          "end": 115.84
+        }
+      ]
+    },
+    {
+      "start": 115.84,
+      "end": 118.64,
+      "text": "Both are wrong approaches. The real moat isn't Twitter or characters—it's the product experience Shaw mentioned. The taste, the feel. That's what no competitor can copy.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 115.84,
+          "end": 116.54
+        },
+        {
+          "word": "what",
+          "start": 116.54,
+          "end": 116.86
+        },
+        {
+          "word": "no",
+          "start": 116.86,
+          "end": 117.16
+        },
+        {
+          "word": "competitor",
+          "start": 117.16,
+          "end": 118.06
+        },
+        {
+          "word": "can",
+          "start": 118.06,
+          "end": 118.28
+        },
+        {
+          "word": "copy.",
+          "start": 118.28,
+          "end": 118.64
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-03_JedAI-Council_The-Stealth-Strategy.json",
+    "session_log_source": "2025-06-03_JedAI-Council_The-Stealth-Strategy_session-log.json",
+    "total_segments": 36,
+    "matched_segments": 36,
+    "dialogues_in_script": 15
+  }
+}

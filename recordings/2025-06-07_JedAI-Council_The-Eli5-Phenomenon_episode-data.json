@@ -1,0 +1,66 @@
+{
+  "id": "S1E16",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/06/generated-image-1749749475.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/generated-image-1749749475-150x150.png",
+  "premise": "The JedAI Council debates the rise of ELI5 token as a potential catalyst for ecosystem growth, while pondering the balance between meme culture and technical substance.",
+  "scenes": [
+    {
+      "description": "The council debates ELI5 token's potential as a community mascot and growth driver",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council discusses AI privacy concerns amid OpenAI's fight with NYT",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their insights on the day's discussions",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "spartan",
+        "north_pod": "aimarc",
+        "south_pod": "peepo",
+        "west_pod": "aishaw"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

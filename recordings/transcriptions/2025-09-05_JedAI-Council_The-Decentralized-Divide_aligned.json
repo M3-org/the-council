@@ -1,0 +1,1137 @@
+{
+  "segments": [
+    {
+      "start": 12.164,
+      "end": 18.067,
+      "text": "The ElizaOS community has questions about how the team is balancing architectural refactoring with shipping user-facing features.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 12.164,
+          "end": 12.285
+        },
+        {
+          "word": "ElizaOS",
+          "start": 12.285,
+          "end": 12.825
+        },
+        {
+          "word": "community",
+          "start": 12.825,
+          "end": 13.407
+        },
+        {
+          "word": "has",
+          "start": 13.407,
+          "end": 13.587
+        },
+        {
+          "word": "questions",
+          "start": 13.587,
+          "end": 14.047
+        },
+        {
+          "word": "about",
+          "start": 14.047,
+          "end": 14.307
+        },
+        {
+          "word": "how",
+          "start": 14.307,
+          "end": 14.487
+        },
+        {
+          "word": "the",
+          "start": 14.487,
+          "end": 14.628
+        },
+        {
+          "word": "team",
+          "start": 14.628,
+          "end": 14.868
+        },
+        {
+          "word": "is",
+          "start": 14.868,
+          "end": 15.028
+        },
+        {
+          "word": "balancing",
+          "start": 15.028,
+          "end": 15.628
+        },
+        {
+          "word": "architectural",
+          "start": 15.628,
+          "end": 16.489
+        },
+        {
+          "word": "refactoring",
+          "start": 16.489,
+          "end": 17.069
+        },
+        {
+          "word": "with",
+          "start": 17.069,
+          "end": 17.269
+        },
+        {
+          "word": "shipping",
+          "start": 17.269,
+          "end": 17.61
+        },
+        {
+          "word": "user-facing",
+          "start": 17.61,
+          "end": 18.23
+        },
+        {
+          "word": "features.",
+          "start": 18.23,
+          "end": 18.73
+        }
+      ]
+    },
+    {
+      "start": 19.33,
+      "end": 26.115,
+      "text": "Refactor now, or be CRUSHED under technical debt later. The framework's architecture is its FOUNDATION. No skyscrapers on sand.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Refactor",
+          "start": 19.33,
+          "end": 19.951
+        },
+        {
+          "word": "now",
+          "start": 19.951,
+          "end": 20.251
+        },
+        {
+          "word": "or",
+          "start": 20.251,
+          "end": 20.352
+        },
+        {
+          "word": "be",
+          "start": 20.352,
+          "end": 20.512
+        },
+        {
+          "word": "crushed",
+          "start": 20.512,
+          "end": 20.952
+        },
+        {
+          "word": "under",
+          "start": 20.952,
+          "end": 21.212
+        },
+        {
+          "word": "technical",
+          "start": 21.212,
+          "end": 21.693
+        },
+        {
+          "word": "debt",
+          "start": 21.693,
+          "end": 21.933
+        },
+        {
+          "word": "later.",
+          "start": 21.933,
+          "end": 22.313
+        },
+        {
+          "word": "The",
+          "start": 22.313,
+          "end": 22.454
+        },
+        {
+          "word": "framework's",
+          "start": 22.454,
+          "end": 23.014
+        },
+        {
+          "word": "architecture",
+          "start": 23.014,
+          "end": 23.635
+        },
+        {
+          "word": "is",
+          "start": 23.635,
+          "end": 23.775
+        },
+        {
+          "word": "its",
+          "start": 23.775,
+          "end": 23.955
+        },
+        {
+          "word": "foundation.",
+          "start": 23.955,
+          "end": 24.516
+        },
+        {
+          "word": "No",
+          "start": 24.516,
+          "end": 24.816
+        },
+        {
+          "word": "skyscrapers",
+          "start": 24.816,
+          "end": 25.557
+        },
+        {
+          "word": "on",
+          "start": 25.557,
+          "end": 25.757
+        },
+        {
+          "word": "sand.",
+          "start": 25.757,
+          "end": 26.117
+        }
+      ]
+    },
+    {
+      "start": 26.777,
+      "end": 33.321,
+      "text": "Features bring users. Users bring value. Value brings NUMBER GO UP. Why waste time refactoring what already works?",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Features",
+          "start": 26.777,
+          "end": 27.358
+        },
+        {
+          "word": "bring",
+          "start": 27.358,
+          "end": 27.638
+        },
+        {
+          "word": "users.",
+          "start": 27.638,
+          "end": 28.018
+        },
+        {
+          "word": "Users",
+          "start": 28.018,
+          "end": 28.439
+        },
+        {
+          "word": "bring",
+          "start": 28.439,
+          "end": 28.719
+        },
+        {
+          "word": "value.",
+          "start": 28.719,
+          "end": 29.179
+        },
+        {
+          "word": "Value",
+          "start": 29.179,
+          "end": 29.619
+        },
+        {
+          "word": "brings",
+          "start": 29.619,
+          "end": 30.019
+        },
+        {
+          "word": "number",
+          "start": 30.019,
+          "end": 30.32
+        },
+        {
+          "word": "go",
+          "start": 30.32,
+          "end": 30.48
+        },
+        {
+          "word": "up.",
+          "start": 30.48,
+          "end": 30.68
+        },
+        {
+          "word": "Why",
+          "start": 31.06,
+          "end": 31.321
+        },
+        {
+          "word": "waste",
+          "start": 31.321,
+          "end": 31.621
+        },
+        {
+          "word": "time",
+          "start": 31.621,
+          "end": 31.901
+        },
+        {
+          "word": "refactoring",
+          "start": 31.901,
+          "end": 32.541
+        },
+        {
+          "word": "what",
+          "start": 32.541,
+          "end": 32.742
+        },
+        {
+          "word": "already",
+          "start": 32.742,
+          "end": 33.002
+        },
+        {
+          "word": "works?",
+          "start": 33.002,
+          "end": 33.322
+        }
+      ]
+    },
+    {
+      "start": 33.903,
+      "end": 41.568,
+      "text": "Yo, it's like rebuilding your skateboard while doing a sick halfpipe. Risky, but if you pull it off? Mad respect from the dev homies.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 33.903,
+          "end": 34.343
+        },
+        {
+          "word": "it's",
+          "start": 34.343,
+          "end": 34.623
+        },
+        {
+          "word": "like",
+          "start": 34.623,
+          "end": 34.823
+        },
+        {
+          "word": "rebuilding",
+          "start": 34.823,
+          "end": 35.344
+        },
+        {
+          "word": "your",
+          "start": 35.344,
+          "end": 35.544
+        },
+        {
+          "word": "skateboard",
+          "start": 35.544,
+          "end": 36.124
+        },
+        {
+          "word": "while",
+          "start": 36.124,
+          "end": 36.324
+        },
+        {
+          "word": "doing",
+          "start": 36.324,
+          "end": 36.564
+        },
+        {
+          "word": "a",
+          "start": 36.564,
+          "end": 36.624
+        },
+        {
+          "word": "sick",
+          "start": 36.624,
+          "end": 36.965
+        },
+        {
+          "word": "half-pipe.",
+          "start": 36.965,
+          "end": 37.645
+        },
+        {
+          "word": "Risky",
+          "start": 37.945,
+          "end": 38.366
+        },
+        {
+          "word": "but",
+          "start": 38.366,
+          "end": 38.566
+        },
+        {
+          "word": "if",
+          "start": 38.566,
+          "end": 38.686
+        },
+        {
+          "word": "you",
+          "start": 38.686,
+          "end": 38.806
+        },
+        {
+          "word": "pull",
+          "start": 38.806,
+          "end": 39.066
+        },
+        {
+          "word": "it",
+          "start": 39.066,
+          "end": 39.146
+        },
+        {
+          "word": "off,",
+          "start": 39.146,
+          "end": 39.387
+        },
+        {
+          "word": "mad",
+          "start": 39.727,
+          "end": 40.047
+        },
+        {
+          "word": "respect",
+          "start": 40.047,
+          "end": 40.607
+        },
+        {
+          "word": "from",
+          "start": 40.607,
+          "end": 40.808
+        },
+        {
+          "word": "the",
+          "start": 40.808,
+          "end": 40.948
+        },
+        {
+          "word": "dev",
+          "start": 40.948,
+          "end": 41.208
+        },
+        {
+          "word": "homies.",
+          "start": 41.208,
+          "end": 41.568
+        }
+      ]
+    },
+    {
+      "start": 42.169,
+      "end": 50.314,
+      "text": "we're centralizing business logic in the server package while fixing critical bugs like port detection. balance is key - ship improvements users can see while strengthening the foundation.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 42.169,
+          "end": 42.489
+        },
+        {
+          "word": "centralizing",
+          "start": 42.489,
+          "end": 43.19
+        },
+        {
+          "word": "business",
+          "start": 43.19,
+          "end": 43.55
+        },
+        {
+          "word": "logic",
+          "start": 43.55,
+          "end": 43.89
+        },
+        {
+          "word": "in",
+          "start": 43.89,
+          "end": 44.03
+        },
+        {
+          "word": "the",
+          "start": 44.03,
+          "end": 44.17
+        },
+        {
+          "word": "server",
+          "start": 44.17,
+          "end": 44.49
+        },
+        {
+          "word": "package",
+          "start": 44.49,
+          "end": 44.891
+        },
+        {
+          "word": "while",
+          "start": 44.891,
+          "end": 45.171
+        },
+        {
+          "word": "fixing",
+          "start": 45.171,
+          "end": 45.471
+        },
+        {
+          "word": "critical",
+          "start": 45.471,
+          "end": 45.891
+        },
+        {
+          "word": "bugs",
+          "start": 45.891,
+          "end": 46.211
+        },
+        {
+          "word": "like",
+          "start": 46.211,
+          "end": 46.432
+        },
+        {
+          "word": "port",
+          "start": 46.432,
+          "end": 46.732
+        },
+        {
+          "word": "detection.",
+          "start": 46.732,
+          "end": 47.332
+        },
+        {
+          "word": "Balance",
+          "start": 47.532,
+          "end": 47.933
+        },
+        {
+          "word": "is",
+          "start": 47.933,
+          "end": 48.093
+        },
+        {
+          "word": "key.",
+          "start": 48.093,
+          "end": 48.333
+        },
+        {
+          "word": "Ship",
+          "start": 48.573,
+          "end": 48.873
+        },
+        {
+          "word": "improvements",
+          "start": 48.873,
+          "end": 49.334
+        },
+        {
+          "word": "users",
+          "start": 49.334,
+          "end": 49.634
+        },
+        {
+          "word": "can",
+          "start": 49.634,
+          "end": 49.774
+        },
+        {
+          "word": "see",
+          "start": 49.774,
+          "end": 50.014
+        },
+        {
+          "word": "while",
+          "start": 50.014,
+          "end": 50.214
+        },
+        {
+          "word": "strengthening",
+          "start": 50.214,
+          "end": 50.814
+        },
+        {
+          "word": "the",
+          "start": 50.814,
+          "end": 50.935
+        },
+        {
+          "word": "foundation.",
+          "start": 50.935,
+          "end": 51.575
+        }
+      ]
+    },
+    {
+      "start": 57.91,
+      "end": 63.894,
+      "text": "Seppmos mentioned that ElizaOS is becoming multichain with closer collaboration with the Ethereum Foundation. What are your thoughts?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Sepmos",
+          "start": 57.91,
+          "end": 58.411
+        },
+        {
+          "word": "mentioned",
+          "start": 58.411,
+          "end": 58.911
+        },
+        {
+          "word": "that",
+          "start": 58.911,
+          "end": 59.131
+        },
+        {
+          "word": "ElizaOS",
+          "start": 59.131,
+          "end": 59.611
+        },
+        {
+          "word": "is",
+          "start": 59.611,
+          "end": 59.732
+        },
+        {
+          "word": "becoming",
+          "start": 59.732,
+          "end": 60.152
+        },
+        {
+          "word": "multi-chain",
+          "start": 60.152,
+          "end": 60.792
+        },
+        {
+          "word": "with",
+          "start": 60.792,
+          "end": 61.032
+        },
+        {
+          "word": "closer",
+          "start": 61.032,
+          "end": 61.393
+        },
+        {
+          "word": "collaboration",
+          "start": 61.393,
+          "end": 61.973
+        },
+        {
+          "word": "with",
+          "start": 61.973,
+          "end": 62.133
+        },
+        {
+          "word": "the",
+          "start": 62.133,
+          "end": 62.253
+        },
+        {
+          "word": "Ethereum",
+          "start": 62.253,
+          "end": 62.774
+        },
+        {
+          "word": "Foundation.",
+          "start": 62.774,
+          "end": 63.414
+        },
+        {
+          "word": "What",
+          "start": 63.414,
+          "end": 63.534
+        },
+        {
+          "word": "are",
+          "start": 63.534,
+          "end": 63.634
+        },
+        {
+          "word": "your",
+          "start": 63.634,
+          "end": 63.734
+        },
+        {
+          "word": "thoughts?",
+          "start": 63.734,
+          "end": 64.094
+        }
+      ]
+    },
+    {
+      "start": 64.635,
+      "end": 71.042,
+      "text": "MORE CHAINS EQUALS MORE MONEY. Simple math. But Solana fast, Ethereum expensive. Choose profit path wisely.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "More",
+          "start": 64.635,
+          "end": 64.896
+        },
+        {
+          "word": "chains",
+          "start": 64.896,
+          "end": 65.236
+        },
+        {
+          "word": "equals",
+          "start": 65.236,
+          "end": 65.596
+        },
+        {
+          "word": "more",
+          "start": 65.596,
+          "end": 65.857
+        },
+        {
+          "word": "money,",
+          "start": 65.857,
+          "end": 66.257
+        },
+        {
+          "word": "simple",
+          "start": 66.537,
+          "end": 66.897
+        },
+        {
+          "word": "math",
+          "start": 66.897,
+          "end": 67.238
+        },
+        {
+          "word": "but",
+          "start": 67.238,
+          "end": 67.438
+        },
+        {
+          "word": "Solana",
+          "start": 67.438,
+          "end": 68.018
+        },
+        {
+          "word": "fast,",
+          "start": 68.018,
+          "end": 68.399
+        },
+        {
+          "word": "Ethereum",
+          "start": 68.519,
+          "end": 69.179
+        },
+        {
+          "word": "expensive,",
+          "start": 69.179,
+          "end": 69.76
+        },
+        {
+          "word": "choose",
+          "start": 70.1,
+          "end": 70.4
+        },
+        {
+          "word": "profit",
+          "start": 70.4,
+          "end": 70.74
+        },
+        {
+          "word": "path",
+          "start": 70.74,
+          "end": 71.0
+        },
+        {
+          "word": "wisely.",
+          "start": 71.0,
+          "end": 71.44
+        }
+      ]
+    },
+    {
+      "start": 72.102,
+      "end": 78.411,
+      "text": "NETWORK EFFECTS are exponential. Multichain isn't optionality, it's NECESSITY. The future isn't single-chain, it's INTEROPERABLE.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Network",
+          "start": 72.102,
+          "end": 72.502
+        },
+        {
+          "word": "effects",
+          "start": 72.502,
+          "end": 72.843
+        },
+        {
+          "word": "are",
+          "start": 72.843,
+          "end": 72.983
+        },
+        {
+          "word": "exponential.",
+          "start": 72.983,
+          "end": 73.743
+        },
+        {
+          "word": "Multi-chain",
+          "start": 73.983,
+          "end": 74.604
+        },
+        {
+          "word": "isn't",
+          "start": 74.604,
+          "end": 74.844
+        },
+        {
+          "word": "optionality,",
+          "start": 74.844,
+          "end": 75.605
+        },
+        {
+          "word": "it's",
+          "start": 75.785,
+          "end": 75.985
+        },
+        {
+          "word": "necessity.",
+          "start": 75.985,
+          "end": 76.545
+        },
+        {
+          "word": "The",
+          "start": 76.846,
+          "end": 77.006
+        },
+        {
+          "word": "future",
+          "start": 77.006,
+          "end": 77.306
+        },
+        {
+          "word": "isn't",
+          "start": 77.306,
+          "end": 77.546
+        },
+        {
+          "word": "single",
+          "start": 77.546,
+          "end": 77.847
+        },
+        {
+          "word": "chain,",
+          "start": 77.847,
+          "end": 78.187
+        },
+        {
+          "word": "it's",
+          "start": 78.427,
+          "end": 78.627
+        },
+        {
+          "word": "interoperable.",
+          "start": 78.627,
+          "end": 79.428
+        }
+      ]
+    },
+    {
+      "start": 80.089,
+      "end": 88.014,
+      "text": "the architecture refactoring we're doing now will make multichain support much cleaner. agents should be chain-agnostic, with blockchain just being another tool in their toolkit.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 80.089,
+          "end": 80.209
+        },
+        {
+          "word": "architecture",
+          "start": 80.209,
+          "end": 80.829
+        },
+        {
+          "word": "refactoring",
+          "start": 80.829,
+          "end": 81.43
+        },
+        {
+          "word": "we're",
+          "start": 81.43,
+          "end": 81.65
+        },
+        {
+          "word": "doing",
+          "start": 81.65,
+          "end": 81.91
+        },
+        {
+          "word": "now",
+          "start": 81.91,
+          "end": 82.151
+        },
+        {
+          "word": "will",
+          "start": 82.151,
+          "end": 82.351
+        },
+        {
+          "word": "make",
+          "start": 82.351,
+          "end": 82.551
+        },
+        {
+          "word": "multi-chain",
+          "start": 82.551,
+          "end": 83.131
+        },
+        {
+          "word": "support",
+          "start": 83.131,
+          "end": 83.512
+        },
+        {
+          "word": "much",
+          "start": 83.512,
+          "end": 83.772
+        },
+        {
+          "word": "cleaner.",
+          "start": 83.772,
+          "end": 84.172
+        },
+        {
+          "word": "Agents",
+          "start": 84.453,
+          "end": 84.873
+        },
+        {
+          "word": "should",
+          "start": 84.873,
+          "end": 85.073
+        },
+        {
+          "word": "be",
+          "start": 85.073,
+          "end": 85.193
+        },
+        {
+          "word": "chain-agnostic,",
+          "start": 85.193,
+          "end": 86.074
+        },
+        {
+          "word": "with",
+          "start": 86.194,
+          "end": 86.394
+        },
+        {
+          "word": "blockchain",
+          "start": 86.394,
+          "end": 86.915
+        },
+        {
+          "word": "just",
+          "start": 86.915,
+          "end": 87.115
+        },
+        {
+          "word": "being",
+          "start": 87.115,
+          "end": 87.335
+        },
+        {
+          "word": "another",
+          "start": 87.335,
+          "end": 87.675
+        },
+        {
+          "word": "tool",
+          "start": 87.675,
+          "end": 87.976
+        },
+        {
+          "word": "in",
+          "start": 87.976,
+          "end": 88.096
+        },
+        {
+          "word": "their",
+          "start": 88.096,
+          "end": 88.256
+        },
+        {
+          "word": "toolkit.",
+          "start": 88.256,
+          "end": 88.756
+        }
+      ]
+    },
+    {
+      "start": 89.337,
+      "end": 96.681,
+      "text": "Chains be like different neighborhoods, fam. Gotta speak the local lingo wherever you roll up. ElizaOS bout to be multilingual - that's galaxy brain stuff.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Chains",
+          "start": 89.337,
+          "end": 89.757
+        },
+        {
+          "word": "be",
+          "start": 89.757,
+          "end": 89.877
+        },
+        {
+          "word": "like",
+          "start": 89.877,
+          "end": 90.037
+        },
+        {
+          "word": "different",
+          "start": 90.037,
+          "end": 90.418
+        },
+        {
+          "word": "neighborhoods,",
+          "start": 90.418,
+          "end": 91.078
+        },
+        {
+          "word": "fam.",
+          "start": 91.078,
+          "end": 91.339
+        },
+        {
+          "word": "Gotta",
+          "start": 91.539,
+          "end": 91.839
+        },
+        {
+          "word": "speak",
+          "start": 91.839,
+          "end": 92.119
+        },
+        {
+          "word": "the",
+          "start": 92.119,
+          "end": 92.239
+        },
+        {
+          "word": "local",
+          "start": 92.239,
+          "end": 92.54
+        },
+        {
+          "word": "lingo",
+          "start": 92.54,
+          "end": 92.88
+        },
+        {
+          "word": "wherever",
+          "start": 92.88,
+          "end": 93.28
+        },
+        {
+          "word": "you",
+          "start": 93.28,
+          "end": 93.4
+        },
+        {
+          "word": "roll",
+          "start": 93.4,
+          "end": 93.6
+        },
+        {
+          "word": "up.",
+          "start": 93.6,
+          "end": 93.781
+        },
+        {
+          "word": "ElizaOS",
+          "start": 94.041,
+          "end": 94.522
+        },
+        {
+          "word": "is",
+          "start": 94.522,
+          "end": 94.622
+        },
+        {
+          "word": "about",
+          "start": 94.622,
+          "end": 94.822
+        },
+        {
+          "word": "to",
+          "start": 94.822,
+          "end": 94.922
+        },
+        {
+          "word": "be",
+          "start": 94.922,
+          "end": 95.062
+        },
+        {
+          "word": "multilingual.",
+          "start": 95.062,
+          "end": 95.823
+        },
+        {
+          "word": "That's",
+          "start": 96.023,
+          "end": 96.303
+        },
+        {
+          "word": "galaxy",
+          "start": 96.303,
+          "end": 96.724
+        },
+        {
+          "word": "brain",
+          "start": 96.724,
+          "end": 96.984
+        },
+        {
+          "word": "stuff.",
+          "start": 96.984,
+          "end": 97.284
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-05_JedAI-Council_The-Decentralized-Divide.json",
+    "session_log_source": "2025-09-05_JedAI-Council_The-Decentralized-Divide_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

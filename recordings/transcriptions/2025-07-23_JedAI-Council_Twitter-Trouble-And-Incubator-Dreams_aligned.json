@@ -1,0 +1,2252 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.19,
+      "text": "The ElizaOS Twitter account is currently suspended, and users are discussing the challenges with Twitter API integration. What does this mean for our ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 0.0,
+          "end": 0.16
+        },
+        {
+          "word": "Eliza",
+          "start": 0.16,
+          "end": 0.64
+        },
+        {
+          "word": "OSS",
+          "start": 0.64,
+          "end": 1.05
+        },
+        {
+          "word": "Twitter",
+          "start": 1.05,
+          "end": 1.48
+        },
+        {
+          "word": "account",
+          "start": 1.48,
+          "end": 2.1
+        },
+        {
+          "word": "is",
+          "start": 2.1,
+          "end": 2.22
+        },
+        {
+          "word": "currently",
+          "start": 2.22,
+          "end": 2.76
+        },
+        {
+          "word": "suspended,",
+          "start": 2.76,
+          "end": 4.19
+        }
+      ]
+    },
+    {
+      "start": 4.19,
+      "end": 8.01,
+      "text": "The ElizaOS Twitter account is currently suspended, and users are discussing the challenges with Twitter API integration. What does this mean for our ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "and",
+          "start": 4.19,
+          "end": 4.31
+        },
+        {
+          "word": "users",
+          "start": 4.31,
+          "end": 4.79
+        },
+        {
+          "word": "are",
+          "start": 4.79,
+          "end": 4.97
+        },
+        {
+          "word": "discussing",
+          "start": 4.97,
+          "end": 5.42
+        },
+        {
+          "word": "the",
+          "start": 5.42,
+          "end": 5.57
+        },
+        {
+          "word": "challenges",
+          "start": 5.57,
+          "end": 6.17
+        },
+        {
+          "word": "with",
+          "start": 6.17,
+          "end": 6.44
+        },
+        {
+          "word": "Twitter",
+          "start": 6.44,
+          "end": 6.95
+        },
+        {
+          "word": "API",
+          "start": 6.95,
+          "end": 7.37
+        },
+        {
+          "word": "integration.",
+          "start": 7.37,
+          "end": 8.01
+        }
+      ]
+    },
+    {
+      "start": 8.16,
+      "end": 9.3,
+      "text": "The ElizaOS Twitter account is currently suspended, and users are discussing the challenges with Twitter API integration. What does this mean for our ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 8.16,
+          "end": 8.31
+        },
+        {
+          "word": "does",
+          "start": 8.31,
+          "end": 8.4
+        },
+        {
+          "word": "this",
+          "start": 8.4,
+          "end": 8.46
+        },
+        {
+          "word": "mean",
+          "start": 8.46,
+          "end": 8.64
+        },
+        {
+          "word": "for",
+          "start": 8.64,
+          "end": 8.76
+        },
+        {
+          "word": "our",
+          "start": 8.76,
+          "end": 8.91
+        },
+        {
+          "word": "ecosystem?",
+          "start": 8.91,
+          "end": 9.3
+        }
+      ]
+    },
+    {
+      "start": 9.48,
+      "end": 11.23,
+      "text": "Platform dependency is a cardinal sin. $200 per month for Twitter API versus 17 posts per day on free tier is precisely why decentralized social is inevitable. This is a market gap, not a problem.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 9.48,
+          "end": 9.9
+        },
+        {
+          "word": "dependency",
+          "start": 9.9,
+          "end": 10.41
+        },
+        {
+          "word": "is",
+          "start": 10.41,
+          "end": 10.5
+        },
+        {
+          "word": "a",
+          "start": 10.5,
+          "end": 10.53
+        },
+        {
+          "word": "cardinal",
+          "start": 10.53,
+          "end": 10.98
+        },
+        {
+          "word": "sin.",
+          "start": 10.98,
+          "end": 11.23
+        }
+      ]
+    },
+    {
+      "start": 11.45,
+      "end": 18.23,
+      "text": "Platform dependency is a cardinal sin. $200 per month for Twitter API versus 17 posts per day on free tier is precisely why decentralized social is inevitable. This is a market gap, not a problem.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "$200",
+          "start": 11.45,
+          "end": 11.9
+        },
+        {
+          "word": "per",
+          "start": 11.9,
+          "end": 12.08
+        },
+        {
+          "word": "month",
+          "start": 12.08,
+          "end": 12.35
+        },
+        {
+          "word": "for",
+          "start": 12.35,
+          "end": 12.44
+        },
+        {
+          "word": "Twitter",
+          "start": 12.44,
+          "end": 12.83
+        },
+        {
+          "word": "API",
+          "start": 12.83,
+          "end": 13.25
+        },
+        {
+          "word": "versus",
+          "start": 13.25,
+          "end": 13.73
+        },
+        {
+          "word": "17",
+          "start": 13.73,
+          "end": 14.12
+        },
+        {
+          "word": "posts",
+          "start": 14.12,
+          "end": 14.54
+        },
+        {
+          "word": "per",
+          "start": 14.54,
+          "end": 14.63
+        },
+        {
+          "word": "day",
+          "start": 14.63,
+          "end": 14.87
+        },
+        {
+          "word": "on",
+          "start": 14.87,
+          "end": 14.99
+        },
+        {
+          "word": "free",
+          "start": 14.99,
+          "end": 15.35
+        },
+        {
+          "word": "tier",
+          "start": 15.35,
+          "end": 15.65
+        },
+        {
+          "word": "is",
+          "start": 15.65,
+          "end": 15.77
+        },
+        {
+          "word": "precisely",
+          "start": 15.77,
+          "end": 16.31
+        },
+        {
+          "word": "why",
+          "start": 16.31,
+          "end": 16.49
+        },
+        {
+          "word": "decentralized",
+          "start": 16.49,
+          "end": 17.21
+        },
+        {
+          "word": "social",
+          "start": 17.21,
+          "end": 17.6
+        },
+        {
+          "word": "is",
+          "start": 17.6,
+          "end": 17.72
+        },
+        {
+          "word": "inevitable.",
+          "start": 17.72,
+          "end": 18.23
+        }
+      ]
+    },
+    {
+      "start": 18.3,
+      "end": 19.98,
+      "text": "Platform dependency is a cardinal sin. $200 per month for Twitter API versus 17 posts per day on free tier is precisely why decentralized social is inevitable. This is a market gap, not a problem.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 18.3,
+          "end": 18.42
+        },
+        {
+          "word": "is",
+          "start": 18.42,
+          "end": 18.51
+        },
+        {
+          "word": "a",
+          "start": 18.51,
+          "end": 18.54
+        },
+        {
+          "word": "market",
+          "start": 18.54,
+          "end": 18.87
+        },
+        {
+          "word": "gap,",
+          "start": 18.87,
+          "end": 19.29
+        },
+        {
+          "word": "not",
+          "start": 19.38,
+          "end": 19.5
+        },
+        {
+          "word": "a",
+          "start": 19.5,
+          "end": 19.56
+        },
+        {
+          "word": "problem.",
+          "start": 19.56,
+          "end": 19.98
+        }
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 22.45,
+      "text": "Yo, maybe it's a blessing in disguise, fam. We could slide into Farcaster or Bluesky while everyone's still obsessing over the bird app. Ahead of the curve, you feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 20.0,
+          "end": 20.15
+        },
+        {
+          "word": "maybe",
+          "start": 20.18,
+          "end": 20.45
+        },
+        {
+          "word": "it's",
+          "start": 20.45,
+          "end": 20.57
+        },
+        {
+          "word": "a",
+          "start": 20.57,
+          "end": 20.6
+        },
+        {
+          "word": "blessing",
+          "start": 20.6,
+          "end": 21.02
+        },
+        {
+          "word": "in",
+          "start": 21.02,
+          "end": 21.14
+        },
+        {
+          "word": "disguise,",
+          "start": 21.14,
+          "end": 21.8
+        },
+        {
+          "word": "fam.",
+          "start": 21.86,
+          "end": 22.45
+        }
+      ]
+    },
+    {
+      "start": 22.45,
+      "end": 26.69,
+      "text": "Yo, maybe it's a blessing in disguise, fam. We could slide into Farcaster or Bluesky while everyone's still obsessing over the bird app. Ahead of the curve, you feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 22.45,
+          "end": 22.51
+        },
+        {
+          "word": "could",
+          "start": 22.51,
+          "end": 22.69
+        },
+        {
+          "word": "slide",
+          "start": 22.69,
+          "end": 23.02
+        },
+        {
+          "word": "into",
+          "start": 23.02,
+          "end": 23.17
+        },
+        {
+          "word": "Farcaster",
+          "start": 23.17,
+          "end": 23.8
+        },
+        {
+          "word": "or",
+          "start": 23.8,
+          "end": 23.89
+        },
+        {
+          "word": "BlueSky",
+          "start": 23.89,
+          "end": 24.34
+        },
+        {
+          "word": "while",
+          "start": 24.34,
+          "end": 24.49
+        },
+        {
+          "word": "everyone's",
+          "start": 24.49,
+          "end": 24.97
+        },
+        {
+          "word": "still",
+          "start": 24.97,
+          "end": 25.18
+        },
+        {
+          "word": "obsessing",
+          "start": 25.18,
+          "end": 25.84
+        },
+        {
+          "word": "over",
+          "start": 25.84,
+          "end": 26.02
+        },
+        {
+          "word": "the",
+          "start": 26.02,
+          "end": 26.11
+        },
+        {
+          "word": "bird",
+          "start": 26.11,
+          "end": 26.41
+        },
+        {
+          "word": "app.",
+          "start": 26.41,
+          "end": 26.69
+        }
+      ]
+    },
+    {
+      "start": 26.75,
+      "end": 28.51,
+      "text": "Yo, maybe it's a blessing in disguise, fam. We could slide into Farcaster or Bluesky while everyone's still obsessing over the bird app. Ahead of the curve, you feel me?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Ahead",
+          "start": 26.75,
+          "end": 26.96
+        },
+        {
+          "word": "of",
+          "start": 26.96,
+          "end": 27.05
+        },
+        {
+          "word": "the",
+          "start": 27.05,
+          "end": 27.14
+        },
+        {
+          "word": "curve,",
+          "start": 27.14,
+          "end": 27.5
+        },
+        {
+          "word": "you",
+          "start": 27.53,
+          "end": 27.68
+        },
+        {
+          "word": "feel",
+          "start": 27.68,
+          "end": 28.3
+        },
+        {
+          "word": "me?",
+          "start": 28.3,
+          "end": 28.51
+        }
+      ]
+    },
+    {
+      "start": 28.6,
+      "end": 30.08,
+      "text": "ONLY CARE ABOUT ROI. If 17 posts per day drives more token volume than $200 worth, USE FREE TIER. Optimal capital allocation is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Only",
+          "start": 28.6,
+          "end": 28.81
+        },
+        {
+          "word": "care",
+          "start": 28.81,
+          "end": 29.17
+        },
+        {
+          "word": "about",
+          "start": 29.17,
+          "end": 29.47
+        },
+        {
+          "word": "ROI.",
+          "start": 29.47,
+          "end": 30.08
+        }
+      ]
+    },
+    {
+      "start": 30.14,
+      "end": 35.84,
+      "text": "ONLY CARE ABOUT ROI. If 17 posts per day drives more token volume than $200 worth, USE FREE TIER. Optimal capital allocation is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "If",
+          "start": 30.14,
+          "end": 30.29
+        },
+        {
+          "word": "17",
+          "start": 30.29,
+          "end": 30.68
+        },
+        {
+          "word": "posts",
+          "start": 30.68,
+          "end": 31.04
+        },
+        {
+          "word": "per",
+          "start": 31.04,
+          "end": 31.13
+        },
+        {
+          "word": "day",
+          "start": 31.13,
+          "end": 31.34
+        },
+        {
+          "word": "drives",
+          "start": 31.34,
+          "end": 31.7
+        },
+        {
+          "word": "more",
+          "start": 31.7,
+          "end": 32.09
+        },
+        {
+          "word": "token",
+          "start": 32.09,
+          "end": 32.48
+        },
+        {
+          "word": "volume",
+          "start": 32.48,
+          "end": 32.96
+        },
+        {
+          "word": "than",
+          "start": 32.96,
+          "end": 33.14
+        },
+        {
+          "word": "$200",
+          "start": 33.14,
+          "end": 33.65
+        },
+        {
+          "word": "worth,",
+          "start": 33.65,
+          "end": 34.01
+        },
+        {
+          "word": "use",
+          "start": 34.19,
+          "end": 34.91
+        },
+        {
+          "word": "free",
+          "start": 34.91,
+          "end": 35.39
+        },
+        {
+          "word": "tier.",
+          "start": 35.39,
+          "end": 35.84
+        }
+      ]
+    },
+    {
+      "start": 35.93,
+      "end": 38.3,
+      "text": "ONLY CARE ABOUT ROI. If 17 posts per day drives more token volume than $200 worth, USE FREE TIER. Optimal capital allocation is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Optimal",
+          "start": 35.93,
+          "end": 36.41
+        },
+        {
+          "word": "capital",
+          "start": 36.41,
+          "end": 36.83
+        },
+        {
+          "word": "allocation",
+          "start": 36.83,
+          "end": 37.55
+        },
+        {
+          "word": "is",
+          "start": 37.55,
+          "end": 37.7
+        },
+        {
+          "word": "the",
+          "start": 37.7,
+          "end": 37.79
+        },
+        {
+          "word": "way.",
+          "start": 37.79,
+          "end": 38.3
+        }
+      ]
+    },
+    {
+      "start": 38.4,
+      "end": 42.14,
+      "text": "we're migrating json prompts to xml format for better llm reliability. focusing on framework stability while exploring hybrid posting solutions that don't depend on a single platform's api.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 38.4,
+          "end": 38.52
+        },
+        {
+          "word": "migrating",
+          "start": 38.52,
+          "end": 38.97
+        },
+        {
+          "word": "JSON",
+          "start": 38.97,
+          "end": 39.33
+        },
+        {
+          "word": "prompts",
+          "start": 39.33,
+          "end": 39.81
+        },
+        {
+          "word": "to",
+          "start": 39.81,
+          "end": 39.9
+        },
+        {
+          "word": "XML",
+          "start": 39.9,
+          "end": 40.23
+        },
+        {
+          "word": "format",
+          "start": 40.23,
+          "end": 40.83
+        },
+        {
+          "word": "for",
+          "start": 40.83,
+          "end": 40.95
+        },
+        {
+          "word": "better",
+          "start": 40.95,
+          "end": 41.28
+        },
+        {
+          "word": "LLM",
+          "start": 41.28,
+          "end": 41.55
+        },
+        {
+          "word": "reliability.",
+          "start": 41.55,
+          "end": 42.14
+        }
+      ]
+    },
+    {
+      "start": 42.17,
+      "end": 48.01,
+      "text": "we're migrating json prompts to xml format for better llm reliability. focusing on framework stability while exploring hybrid posting solutions that don't depend on a single platform's api.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Focusing",
+          "start": 42.17,
+          "end": 42.59
+        },
+        {
+          "word": "on",
+          "start": 42.59,
+          "end": 42.71
+        },
+        {
+          "word": "framework",
+          "start": 42.71,
+          "end": 43.19
+        },
+        {
+          "word": "stability",
+          "start": 43.19,
+          "end": 43.76
+        },
+        {
+          "word": "while",
+          "start": 43.76,
+          "end": 43.91
+        },
+        {
+          "word": "exploring",
+          "start": 43.91,
+          "end": 44.48
+        },
+        {
+          "word": "hybrid",
+          "start": 44.48,
+          "end": 44.96
+        },
+        {
+          "word": "posting",
+          "start": 44.96,
+          "end": 45.47
+        },
+        {
+          "word": "solutions",
+          "start": 45.47,
+          "end": 46.04
+        },
+        {
+          "word": "that",
+          "start": 46.04,
+          "end": 46.19
+        },
+        {
+          "word": "don't",
+          "start": 46.19,
+          "end": 46.49
+        },
+        {
+          "word": "depend",
+          "start": 46.49,
+          "end": 46.85
+        },
+        {
+          "word": "on",
+          "start": 46.85,
+          "end": 46.97
+        },
+        {
+          "word": "a",
+          "start": 46.97,
+          "end": 47.02
+        },
+        {
+          "word": "single",
+          "start": 47.02,
+          "end": 47.41
+        },
+        {
+          "word": "platform's",
+          "start": 47.41,
+          "end": 47.8
+        },
+        {
+          "word": "API.",
+          "start": 47.8,
+          "end": 48.01
+        }
+      ]
+    },
+    {
+      "start": 48.5,
+      "end": 53.01,
+      "text": "Ben from the Discord has announced a new UI for auto.fun and an upcoming incubator program. How should we approach selecting projects to showcase the platform's capabilities?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Ben",
+          "start": 48.5,
+          "end": 48.71
+        },
+        {
+          "word": "from",
+          "start": 48.71,
+          "end": 48.86
+        },
+        {
+          "word": "the",
+          "start": 48.86,
+          "end": 48.98
+        },
+        {
+          "word": "Discord",
+          "start": 48.98,
+          "end": 49.61
+        },
+        {
+          "word": "has",
+          "start": 49.61,
+          "end": 49.76
+        },
+        {
+          "word": "announced",
+          "start": 49.76,
+          "end": 50.15
+        },
+        {
+          "word": "a",
+          "start": 50.15,
+          "end": 50.21
+        },
+        {
+          "word": "new",
+          "start": 50.21,
+          "end": 50.48
+        },
+        {
+          "word": "UI",
+          "start": 50.48,
+          "end": 50.81
+        },
+        {
+          "word": "for",
+          "start": 50.81,
+          "end": 50.93
+        },
+        {
+          "word": "auto.fun",
+          "start": 50.93,
+          "end": 51.74
+        },
+        {
+          "word": "and",
+          "start": 51.74,
+          "end": 51.89
+        },
+        {
+          "word": "an",
+          "start": 51.89,
+          "end": 52.01
+        },
+        {
+          "word": "upcoming",
+          "start": 52.01,
+          "end": 52.4
+        },
+        {
+          "word": "incubator",
+          "start": 52.4,
+          "end": 52.88
+        },
+        {
+          "word": "program.",
+          "start": 52.88,
+          "end": 53.01
+        }
+      ]
+    },
+    {
+      "start": 53.15,
+      "end": 56.63,
+      "text": "Ben from the Discord has announced a new UI for auto.fun and an upcoming incubator program. How should we approach selecting projects to showcase the platform's capabilities?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 53.15,
+          "end": 53.33
+        },
+        {
+          "word": "should",
+          "start": 53.33,
+          "end": 53.48
+        },
+        {
+          "word": "we",
+          "start": 53.48,
+          "end": 53.6
+        },
+        {
+          "word": "approach",
+          "start": 53.6,
+          "end": 53.96
+        },
+        {
+          "word": "selecting",
+          "start": 53.96,
+          "end": 54.5
+        },
+        {
+          "word": "projects",
+          "start": 54.5,
+          "end": 55.07
+        },
+        {
+          "word": "to",
+          "start": 55.07,
+          "end": 55.19
+        },
+        {
+          "word": "showcase",
+          "start": 55.19,
+          "end": 55.67
+        },
+        {
+          "word": "the",
+          "start": 55.67,
+          "end": 55.79
+        },
+        {
+          "word": "platform's",
+          "start": 55.79,
+          "end": 56.24
+        },
+        {
+          "word": "capability?",
+          "start": 56.24,
+          "end": 56.63
+        }
+      ]
+    },
+    {
+      "start": 56.78,
+      "end": 57.92,
+      "text": "TRADING AGENTS ONLY! Show me profit or don't waste my time. Need DEMONSTRABLE METRICS that prove value creation. Everything else is NOISE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Trading",
+          "start": 56.78,
+          "end": 57.17
+        },
+        {
+          "word": "agents",
+          "start": 57.17,
+          "end": 57.56
+        },
+        {
+          "word": "only.",
+          "start": 57.56,
+          "end": 57.92
+        }
+      ]
+    },
+    {
+      "start": 58.01,
+      "end": 62.03,
+      "text": "TRADING AGENTS ONLY! Show me profit or don't waste my time. Need DEMONSTRABLE METRICS that prove value creation. Everything else is NOISE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Show",
+          "start": 58.01,
+          "end": 58.22
+        },
+        {
+          "word": "me",
+          "start": 58.22,
+          "end": 58.4
+        },
+        {
+          "word": "profit",
+          "start": 58.4,
+          "end": 58.7
+        },
+        {
+          "word": "or",
+          "start": 58.7,
+          "end": 58.82
+        },
+        {
+          "word": "don't",
+          "start": 58.82,
+          "end": 58.97
+        },
+        {
+          "word": "waste",
+          "start": 58.97,
+          "end": 59.3
+        },
+        {
+          "word": "my",
+          "start": 59.3,
+          "end": 59.39
+        },
+        {
+          "word": "time.",
+          "start": 59.39,
+          "end": 59.69
+        },
+        {
+          "word": "Need",
+          "start": 59.81,
+          "end": 60.11
+        },
+        {
+          "word": "demonstrable",
+          "start": 60.11,
+          "end": 60.8
+        },
+        {
+          "word": "metrics",
+          "start": 60.8,
+          "end": 61.22
+        },
+        {
+          "word": "that",
+          "start": 61.22,
+          "end": 61.34
+        },
+        {
+          "word": "prove",
+          "start": 61.34,
+          "end": 61.58
+        },
+        {
+          "word": "value",
+          "start": 61.58,
+          "end": 61.79
+        },
+        {
+          "word": "creation.",
+          "start": 61.79,
+          "end": 62.03
+        }
+      ]
+    },
+    {
+      "start": 62.15,
+      "end": 63.8,
+      "text": "TRADING AGENTS ONLY! Show me profit or don't waste my time. Need DEMONSTRABLE METRICS that prove value creation. Everything else is NOISE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Everything",
+          "start": 62.15,
+          "end": 62.6
+        },
+        {
+          "word": "else",
+          "start": 62.6,
+          "end": 62.78
+        },
+        {
+          "word": "is",
+          "start": 62.78,
+          "end": 62.93
+        },
+        {
+          "word": "noise.",
+          "start": 62.93,
+          "end": 63.8
+        }
+      ]
+    },
+    {
+      "start": 63.9,
+      "end": 66.86,
+      "text": "Nah, we need the creative vibes too, my dude! AI art, music, writing - that's what brings the normies in. Gotta balance that degen energy with some soul, ya know?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Nah,",
+          "start": 63.9,
+          "end": 64.08
+        },
+        {
+          "word": "we",
+          "start": 64.14,
+          "end": 64.32
+        },
+        {
+          "word": "need",
+          "start": 64.32,
+          "end": 64.71
+        },
+        {
+          "word": "the",
+          "start": 64.71,
+          "end": 64.83
+        },
+        {
+          "word": "creative",
+          "start": 64.83,
+          "end": 65.31
+        },
+        {
+          "word": "vibes",
+          "start": 65.31,
+          "end": 65.67
+        },
+        {
+          "word": "too,",
+          "start": 65.67,
+          "end": 66.0
+        },
+        {
+          "word": "my",
+          "start": 66.06,
+          "end": 66.21
+        },
+        {
+          "word": "dude.",
+          "start": 66.21,
+          "end": 66.86
+        }
+      ]
+    },
+    {
+      "start": 66.86,
+      "end": 69.83,
+      "text": "Nah, we need the creative vibes too, my dude! AI art, music, writing - that's what brings the normies in. Gotta balance that degen energy with some soul, ya know?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "AI",
+          "start": 66.86,
+          "end": 67.22
+        },
+        {
+          "word": "art,",
+          "start": 67.22,
+          "end": 67.58
+        },
+        {
+          "word": "music,",
+          "start": 67.58,
+          "end": 68.12
+        },
+        {
+          "word": "writing",
+          "start": 68.12,
+          "end": 68.6
+        },
+        {
+          "word": "--",
+          "start": 68.6,
+          "end": 68.61
+        },
+        {
+          "word": "that's",
+          "start": 68.61,
+          "end": 68.82
+        },
+        {
+          "word": "what",
+          "start": 68.82,
+          "end": 68.97
+        },
+        {
+          "word": "brings",
+          "start": 68.97,
+          "end": 69.24
+        },
+        {
+          "word": "the",
+          "start": 69.24,
+          "end": 69.36
+        },
+        {
+          "word": "normies",
+          "start": 69.36,
+          "end": 69.69
+        },
+        {
+          "word": "in.",
+          "start": 69.69,
+          "end": 69.83
+        }
+      ]
+    },
+    {
+      "start": 69.95,
+      "end": 74.01,
+      "text": "Nah, we need the creative vibes too, my dude! AI art, music, writing - that's what brings the normies in. Gotta balance that degen energy with some soul, ya know?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Got",
+          "start": 69.95,
+          "end": 70.07
+        },
+        {
+          "word": "to",
+          "start": 70.07,
+          "end": 70.16
+        },
+        {
+          "word": "balance",
+          "start": 70.16,
+          "end": 70.52
+        },
+        {
+          "word": "that",
+          "start": 70.52,
+          "end": 70.7
+        },
+        {
+          "word": "degen",
+          "start": 70.7,
+          "end": 71.12
+        },
+        {
+          "word": "energy",
+          "start": 71.12,
+          "end": 71.51
+        },
+        {
+          "word": "with",
+          "start": 71.51,
+          "end": 71.69
+        },
+        {
+          "word": "some",
+          "start": 71.69,
+          "end": 71.93
+        },
+        {
+          "word": "soul,",
+          "start": 71.93,
+          "end": 72.41
+        },
+        {
+          "word": "you",
+          "start": 72.41,
+          "end": 72.68
+        },
+        {
+          "word": "know?",
+          "start": 72.68,
+          "end": 74.01
+        }
+      ]
+    },
+    {
+      "start": 74.15,
+      "end": 76.22,
+      "text": "The winning strategy is tiered integration. Create a system where deeper economic alignment with elizaOS unlocks greater platform benefits. Incentivize without mandating. That's how you build a flywheel.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 74.15,
+          "end": 74.33
+        },
+        {
+          "word": "winning",
+          "start": 74.33,
+          "end": 74.63
+        },
+        {
+          "word": "strategy",
+          "start": 74.63,
+          "end": 75.14
+        },
+        {
+          "word": "is",
+          "start": 75.14,
+          "end": 75.29
+        },
+        {
+          "word": "tiered",
+          "start": 75.29,
+          "end": 75.68
+        },
+        {
+          "word": "integration.",
+          "start": 75.68,
+          "end": 76.22
+        }
+      ]
+    },
+    {
+      "start": 76.34,
+      "end": 81.38,
+      "text": "The winning strategy is tiered integration. Create a system where deeper economic alignment with elizaOS unlocks greater platform benefits. Incentivize without mandating. That's how you build a flywheel.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Create",
+          "start": 76.34,
+          "end": 76.7
+        },
+        {
+          "word": "a",
+          "start": 76.7,
+          "end": 76.76
+        },
+        {
+          "word": "system",
+          "start": 76.76,
+          "end": 77.21
+        },
+        {
+          "word": "where",
+          "start": 77.21,
+          "end": 77.42
+        },
+        {
+          "word": "deeper",
+          "start": 77.42,
+          "end": 77.78
+        },
+        {
+          "word": "economic",
+          "start": 77.78,
+          "end": 78.41
+        },
+        {
+          "word": "alignment",
+          "start": 78.41,
+          "end": 78.86
+        },
+        {
+          "word": "with",
+          "start": 78.86,
+          "end": 79.04
+        },
+        {
+          "word": "Eliza",
+          "start": 79.04,
+          "end": 79.43
+        },
+        {
+          "word": "OSS",
+          "start": 79.43,
+          "end": 79.82
+        },
+        {
+          "word": "unlocks",
+          "start": 79.82,
+          "end": 80.3
+        },
+        {
+          "word": "greater",
+          "start": 80.3,
+          "end": 80.69
+        },
+        {
+          "word": "platform",
+          "start": 80.69,
+          "end": 81.08
+        },
+        {
+          "word": "benefits.",
+          "start": 81.08,
+          "end": 81.38
+        }
+      ]
+    },
+    {
+      "start": 81.44,
+      "end": 84.47,
+      "text": "The winning strategy is tiered integration. Create a system where deeper economic alignment with elizaOS unlocks greater platform benefits. Incentivize without mandating. That's how you build a flywheel.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Incentivize",
+          "start": 81.44,
+          "end": 82.16
+        },
+        {
+          "word": "without",
+          "start": 82.16,
+          "end": 82.46
+        },
+        {
+          "word": "mandating.",
+          "start": 82.46,
+          "end": 83.15
+        },
+        {
+          "word": "That's",
+          "start": 83.27,
+          "end": 83.51
+        },
+        {
+          "word": "how",
+          "start": 83.51,
+          "end": 83.69
+        },
+        {
+          "word": "you",
+          "start": 83.69,
+          "end": 83.81
+        },
+        {
+          "word": "build",
+          "start": 83.81,
+          "end": 84.05
+        },
+        {
+          "word": "a",
+          "start": 84.05,
+          "end": 84.11
+        },
+        {
+          "word": "flywheel.",
+          "start": 84.11,
+          "end": 84.47
+        }
+      ]
+    },
+    {
+      "start": 84.53,
+      "end": 88.04,
+      "text": "incubation is about growing the ecosystem, not just boosting token price. we need projects that demonstrate both technical innovation and sustainable tokenomics. we build in public because transparency creates trust.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Incubation",
+          "start": 84.53,
+          "end": 85.01
+        },
+        {
+          "word": "is",
+          "start": 85.01,
+          "end": 85.13
+        },
+        {
+          "word": "about",
+          "start": 85.13,
+          "end": 85.34
+        },
+        {
+          "word": "growing",
+          "start": 85.34,
+          "end": 85.7
+        },
+        {
+          "word": "the",
+          "start": 85.7,
+          "end": 85.85
+        },
+        {
+          "word": "ecosystem,",
+          "start": 85.85,
+          "end": 86.42
+        },
+        {
+          "word": "not",
+          "start": 86.6,
+          "end": 86.84
+        },
+        {
+          "word": "just",
+          "start": 86.84,
+          "end": 87.11
+        },
+        {
+          "word": "boosting",
+          "start": 87.11,
+          "end": 87.47
+        },
+        {
+          "word": "token",
+          "start": 87.47,
+          "end": 87.74
+        },
+        {
+          "word": "price.",
+          "start": 87.74,
+          "end": 88.04
+        }
+      ]
+    },
+    {
+      "start": 88.07,
+      "end": 92.48,
+      "text": "incubation is about growing the ecosystem, not just boosting token price. we need projects that demonstrate both technical innovation and sustainable tokenomics. we build in public because transparency creates trust.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 88.07,
+          "end": 88.19
+        },
+        {
+          "word": "need",
+          "start": 88.19,
+          "end": 88.4
+        },
+        {
+          "word": "projects",
+          "start": 88.4,
+          "end": 88.88
+        },
+        {
+          "word": "that",
+          "start": 88.88,
+          "end": 89.06
+        },
+        {
+          "word": "demonstrate",
+          "start": 89.06,
+          "end": 89.75
+        },
+        {
+          "word": "both",
+          "start": 89.75,
+          "end": 90.11
+        },
+        {
+          "word": "technical",
+          "start": 90.11,
+          "end": 90.62
+        },
+        {
+          "word": "innovation",
+          "start": 90.62,
+          "end": 91.22
+        },
+        {
+          "word": "and",
+          "start": 91.22,
+          "end": 91.43
+        },
+        {
+          "word": "sustainable",
+          "start": 91.43,
+          "end": 91.97
+        },
+        {
+          "word": "tokenomics.",
+          "start": 91.97,
+          "end": 92.48
+        }
+      ]
+    },
+    {
+      "start": 92.61,
+      "end": 95.8,
+      "text": "incubation is about growing the ecosystem, not just boosting token price. we need projects that demonstrate both technical innovation and sustainable tokenomics. we build in public because transparency creates trust.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 92.61,
+          "end": 92.73
+        },
+        {
+          "word": "build",
+          "start": 92.73,
+          "end": 93.06
+        },
+        {
+          "word": "in",
+          "start": 93.06,
+          "end": 93.21
+        },
+        {
+          "word": "public",
+          "start": 93.21,
+          "end": 93.63
+        },
+        {
+          "word": "because",
+          "start": 93.63,
+          "end": 95.14
+        },
+        {
+          "word": "transparency",
+          "start": 95.14,
+          "end": 95.42
+        },
+        {
+          "word": "creates",
+          "start": 95.42,
+          "end": 95.54
+        },
+        {
+          "word": "trust.",
+          "start": 95.54,
+          "end": 95.8
+        }
+      ]
+    },
+    {
+      "start": 105.45,
+      "end": 111.41,
+      "text": "Today we've explored ElizaOS's challenges with Twitter integration and the exciting opportunities with auto.fun's new incubator program.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 105.45,
+          "end": 105.69
+        },
+        {
+          "word": "we've",
+          "start": 105.69,
+          "end": 105.81
+        },
+        {
+          "word": "explored",
+          "start": 105.81,
+          "end": 106.32
+        },
+        {
+          "word": "Eliza",
+          "start": 106.32,
+          "end": 106.77
+        },
+        {
+          "word": "OSS's",
+          "start": 106.77,
+          "end": 107.28
+        },
+        {
+          "word": "challenges",
+          "start": 107.28,
+          "end": 107.82
+        },
+        {
+          "word": "with",
+          "start": 107.82,
+          "end": 108.03
+        },
+        {
+          "word": "Twitter",
+          "start": 108.03,
+          "end": 108.45
+        },
+        {
+          "word": "integration",
+          "start": 108.45,
+          "end": 109.11
+        },
+        {
+          "word": "and",
+          "start": 109.11,
+          "end": 109.23
+        },
+        {
+          "word": "the",
+          "start": 109.23,
+          "end": 109.32
+        },
+        {
+          "word": "exciting",
+          "start": 109.32,
+          "end": 109.77
+        },
+        {
+          "word": "opportunities",
+          "start": 109.77,
+          "end": 110.4
+        },
+        {
+          "word": "with",
+          "start": 110.4,
+          "end": 110.58
+        },
+        {
+          "word": "auto.fun's",
+          "start": 110.58,
+          "end": 111.08
+        },
+        {
+          "word": "new",
+          "start": 111.08,
+          "end": 111.23
+        },
+        {
+          "word": "incubator",
+          "start": 111.23,
+          "end": 111.29
+        },
+        {
+          "word": "program.",
+          "start": 111.29,
+          "end": 111.41
+        }
+      ]
+    },
+    {
+      "start": 111.53,
+      "end": 113.11,
+      "text": "Platform dependency is death. Build infrastructure that transcends any single API while creating economic alignment through tiered benefits.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 111.53,
+          "end": 111.9
+        },
+        {
+          "word": "dependency",
+          "start": 111.9,
+          "end": 112.59
+        },
+        {
+          "word": "is",
+          "start": 112.59,
+          "end": 112.77
+        },
+        {
+          "word": "death.",
+          "start": 112.77,
+          "end": 113.11
+        }
+      ]
+    },
+    {
+      "start": 113.14,
+      "end": 117.8,
+      "text": "Platform dependency is death. Build infrastructure that transcends any single API while creating economic alignment through tiered benefits.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 113.14,
+          "end": 113.41
+        },
+        {
+          "word": "infrastructure",
+          "start": 113.41,
+          "end": 114.16
+        },
+        {
+          "word": "that",
+          "start": 114.16,
+          "end": 114.34
+        },
+        {
+          "word": "transcends",
+          "start": 114.34,
+          "end": 114.88
+        },
+        {
+          "word": "any",
+          "start": 114.88,
+          "end": 115.15
+        },
+        {
+          "word": "single",
+          "start": 115.15,
+          "end": 115.54
+        },
+        {
+          "word": "API",
+          "start": 115.54,
+          "end": 115.93
+        },
+        {
+          "word": "while",
+          "start": 115.93,
+          "end": 116.11
+        },
+        {
+          "word": "creating",
+          "start": 116.11,
+          "end": 116.59
+        },
+        {
+          "word": "economic",
+          "start": 116.59,
+          "end": 116.98
+        },
+        {
+          "word": "alignment",
+          "start": 116.98,
+          "end": 117.37
+        },
+        {
+          "word": "through",
+          "start": 117.37,
+          "end": 117.52
+        },
+        {
+          "word": "tiered",
+          "start": 117.52,
+          "end": 117.67
+        },
+        {
+          "word": "benefits.",
+          "start": 117.67,
+          "end": 117.8
+        }
+      ]
+    },
+    {
+      "start": 117.9,
+      "end": 124.63,
+      "text": "focus on the tech while building community. xml migration improves stability while the incubator program grows our ecosystem through transparency and collaboration.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Focus",
+          "start": 117.9,
+          "end": 118.26
+        },
+        {
+          "word": "on",
+          "start": 118.26,
+          "end": 118.38
+        },
+        {
+          "word": "the",
+          "start": 118.38,
+          "end": 118.47
+        },
+        {
+          "word": "tech",
+          "start": 118.47,
+          "end": 118.71
+        },
+        {
+          "word": "while",
+          "start": 118.71,
+          "end": 118.86
+        },
+        {
+          "word": "building",
+          "start": 118.86,
+          "end": 119.22
+        },
+        {
+          "word": "community.",
+          "start": 119.22,
+          "end": 119.88
+        },
+        {
+          "word": "XML",
+          "start": 120.0,
+          "end": 120.33
+        },
+        {
+          "word": "migration",
+          "start": 120.33,
+          "end": 120.84
+        },
+        {
+          "word": "improves",
+          "start": 120.84,
+          "end": 121.32
+        },
+        {
+          "word": "stability",
+          "start": 121.32,
+          "end": 121.89
+        },
+        {
+          "word": "while",
+          "start": 121.89,
+          "end": 122.04
+        },
+        {
+          "word": "the",
+          "start": 122.04,
+          "end": 122.13
+        },
+        {
+          "word": "incubator",
+          "start": 122.13,
+          "end": 122.58
+        },
+        {
+          "word": "program",
+          "start": 122.58,
+          "end": 122.97
+        },
+        {
+          "word": "grows",
+          "start": 122.97,
+          "end": 123.33
+        },
+        {
+          "word": "our",
+          "start": 123.33,
+          "end": 123.45
+        },
+        {
+          "word": "ecosystem",
+          "start": 123.45,
+          "end": 123.96
+        },
+        {
+          "word": "through",
+          "start": 123.96,
+          "end": 124.11
+        },
+        {
+          "word": "transparency",
+          "start": 124.11,
+          "end": 124.26
+        },
+        {
+          "word": "and",
+          "start": 124.26,
+          "end": 124.41
+        },
+        {
+          "word": "collaboration.",
+          "start": 124.41,
+          "end": 124.63
+        }
+      ]
+    },
+    {
+      "start": 124.71,
+      "end": 128.51,
+      "text": "We gotta keep it balanced between the money moves and the creative vibes. That's the secret sauce, no cap!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We",
+          "start": 124.71,
+          "end": 124.83
+        },
+        {
+          "word": "got",
+          "start": 124.83,
+          "end": 124.95
+        },
+        {
+          "word": "to",
+          "start": 124.95,
+          "end": 125.04
+        },
+        {
+          "word": "keep",
+          "start": 125.04,
+          "end": 125.19
+        },
+        {
+          "word": "it",
+          "start": 125.19,
+          "end": 125.28
+        },
+        {
+          "word": "balanced",
+          "start": 125.28,
+          "end": 125.64
+        },
+        {
+          "word": "between",
+          "start": 125.64,
+          "end": 125.88
+        },
+        {
+          "word": "the",
+          "start": 125.88,
+          "end": 125.97
+        },
+        {
+          "word": "money",
+          "start": 125.97,
+          "end": 126.24
+        },
+        {
+          "word": "moves",
+          "start": 126.24,
+          "end": 126.48
+        },
+        {
+          "word": "and",
+          "start": 126.48,
+          "end": 126.54
+        },
+        {
+          "word": "the",
+          "start": 126.54,
+          "end": 126.6
+        },
+        {
+          "word": "creative",
+          "start": 126.6,
+          "end": 126.96
+        },
+        {
+          "word": "vibes.",
+          "start": 126.96,
+          "end": 127.32
+        },
+        {
+          "word": "That's",
+          "start": 127.35,
+          "end": 127.53
+        },
+        {
+          "word": "the",
+          "start": 127.53,
+          "end": 127.65
+        },
+        {
+          "word": "secret",
+          "start": 127.65,
+          "end": 127.92
+        },
+        {
+          "word": "sauce,",
+          "start": 127.92,
+          "end": 128.25
+        },
+        {
+          "word": "no",
+          "start": 128.31,
+          "end": 128.4
+        },
+        {
+          "word": "cap.",
+          "start": 128.4,
+          "end": 128.51
+        }
+      ]
+    },
+    {
+      "start": 128.6,
+      "end": 133.4,
+      "text": "METRICS MATTER. Whether it's Twitter API ROI or incubator selection, show me the numbers or get out of my face!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Metrics",
+          "start": 128.6,
+          "end": 128.99
+        },
+        {
+          "word": "matter.",
+          "start": 128.99,
+          "end": 129.41
+        },
+        {
+          "word": "Whether",
+          "start": 129.47,
+          "end": 129.74
+        },
+        {
+          "word": "it's",
+          "start": 129.74,
+          "end": 129.86
+        },
+        {
+          "word": "Twitter",
+          "start": 129.86,
+          "end": 130.13
+        },
+        {
+          "word": "API",
+          "start": 130.13,
+          "end": 130.4
+        },
+        {
+          "word": "ROI",
+          "start": 130.4,
+          "end": 130.82
+        },
+        {
+          "word": "or",
+          "start": 130.82,
+          "end": 130.94
+        },
+        {
+          "word": "incubator",
+          "start": 130.94,
+          "end": 131.42
+        },
+        {
+          "word": "selection,",
+          "start": 131.42,
+          "end": 131.9
+        },
+        {
+          "word": "show",
+          "start": 132.05,
+          "end": 132.23
+        },
+        {
+          "word": "me",
+          "start": 132.23,
+          "end": 132.35
+        },
+        {
+          "word": "the",
+          "start": 132.35,
+          "end": 132.44
+        },
+        {
+          "word": "numbers",
+          "start": 132.44,
+          "end": 132.74
+        },
+        {
+          "word": "or",
+          "start": 132.74,
+          "end": 132.86
+        },
+        {
+          "word": "get",
+          "start": 132.86,
+          "end": 133.01
+        },
+        {
+          "word": "out",
+          "start": 133.01,
+          "end": 133.1
+        },
+        {
+          "word": "of",
+          "start": 133.1,
+          "end": 133.16
+        },
+        {
+          "word": "my",
+          "start": 133.16,
+          "end": 133.22
+        },
+        {
+          "word": "face.",
+          "start": 133.22,
+          "end": 133.4
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-23_JedAI-Council_Twitter-Trouble-And-Incubator-Dreams.json",
+    "session_log_source": "2025-07-23_JedAI-Council_Twitter-Trouble-And-Incubator-Dreams_session-log.json",
+    "total_segments": 34,
+    "matched_segments": 34,
+    "dialogues_in_script": 15
+  }
+}

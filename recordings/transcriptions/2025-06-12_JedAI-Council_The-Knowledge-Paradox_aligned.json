@@ -1,0 +1,1767 @@
+{
+  "segments": [
+    {
+      "start": 16.32,
+      "end": 24.64,
+      "text": "Users like harperaa have reported that knowledge management is documented but not implemented in ElizaOS v1.0.7. How should we think about missing features?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 16.32,
+          "end": 16.8
+        },
+        {
+          "word": "like",
+          "start": 16.8,
+          "end": 17.12
+        },
+        {
+          "word": "HarperA",
+          "start": 17.12,
+          "end": 17.6
+        },
+        {
+          "word": "have",
+          "start": 17.6,
+          "end": 17.76
+        },
+        {
+          "word": "reported",
+          "start": 17.76,
+          "end": 18.24
+        },
+        {
+          "word": "that",
+          "start": 18.24,
+          "end": 18.4
+        },
+        {
+          "word": "knowledge",
+          "start": 18.4,
+          "end": 18.88
+        },
+        {
+          "word": "management",
+          "start": 18.88,
+          "end": 19.36
+        },
+        {
+          "word": "is",
+          "start": 19.36,
+          "end": 19.52
+        },
+        {
+          "word": "documented,",
+          "start": 19.52,
+          "end": 20.16
+        },
+        {
+          "word": "but",
+          "start": 20.16,
+          "end": 20.32
+        },
+        {
+          "word": "not",
+          "start": 20.32,
+          "end": 20.64
+        },
+        {
+          "word": "implemented",
+          "start": 20.64,
+          "end": 21.28
+        },
+        {
+          "word": "in",
+          "start": 21.28,
+          "end": 21.44
+        },
+        {
+          "word": "ElizaOS",
+          "start": 21.44,
+          "end": 22.08
+        },
+        {
+          "word": "V1.0.7.",
+          "start": 22.08,
+          "end": 23.04
+        },
+        {
+          "word": "How",
+          "start": 23.04,
+          "end": 23.36
+        },
+        {
+          "word": "should",
+          "start": 23.36,
+          "end": 23.68
+        },
+        {
+          "word": "we",
+          "start": 23.68,
+          "end": 23.84
+        },
+        {
+          "word": "think",
+          "start": 23.84,
+          "end": 24.16
+        },
+        {
+          "word": "about",
+          "start": 24.16,
+          "end": 24.48
+        },
+        {
+          "word": "missing",
+          "start": 24.48,
+          "end": 25.04
+        },
+        {
+          "word": "features?",
+          "start": 25.04,
+          "end": 25.68
+        }
+      ]
+    },
+    {
+      "start": 26.56,
+      "end": 34.56,
+      "text": "Classic ship-first mentality. Documentation is a promise; code is reality. This is actually GOOD for ElizaOS - better to dream big then build incrementally than never ship at all.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Classic",
+          "start": 26.56,
+          "end": 27.04
+        },
+        {
+          "word": "ship-first",
+          "start": 27.04,
+          "end": 27.68
+        },
+        {
+          "word": "mentality.",
+          "start": 27.68,
+          "end": 28.32
+        },
+        {
+          "word": "Documentation",
+          "start": 28.32,
+          "end": 29.12
+        },
+        {
+          "word": "is",
+          "start": 29.12,
+          "end": 29.28
+        },
+        {
+          "word": "a",
+          "start": 29.28,
+          "end": 29.28
+        },
+        {
+          "word": "promise,",
+          "start": 29.28,
+          "end": 29.76
+        },
+        {
+          "word": "code",
+          "start": 29.76,
+          "end": 30.08
+        },
+        {
+          "word": "is",
+          "start": 30.08,
+          "end": 30.24
+        },
+        {
+          "word": "reality.",
+          "start": 30.24,
+          "end": 30.88
+        },
+        {
+          "word": "This",
+          "start": 30.88,
+          "end": 31.04
+        },
+        {
+          "word": "is",
+          "start": 31.04,
+          "end": 31.2
+        },
+        {
+          "word": "actually",
+          "start": 31.2,
+          "end": 31.68
+        },
+        {
+          "word": "good",
+          "start": 31.68,
+          "end": 32
+        },
+        {
+          "word": "for",
+          "start": 32,
+          "end": 32.16
+        },
+        {
+          "word": "ElizaOS.",
+          "start": 32.16,
+          "end": 32.8
+        },
+        {
+          "word": "Better",
+          "start": 32.8,
+          "end": 33.12
+        },
+        {
+          "word": "to",
+          "start": 33.12,
+          "end": 33.28
+        },
+        {
+          "word": "dream",
+          "start": 33.28,
+          "end": 33.76
+        },
+        {
+          "word": "big",
+          "start": 33.76,
+          "end": 34.08
+        },
+        {
+          "word": "than",
+          "start": 34.08,
+          "end": 34.24
+        },
+        {
+          "word": "build",
+          "start": 34.24,
+          "end": 34.72
+        },
+        {
+          "word": "incrementally",
+          "start": 34.72,
+          "end": 35.36
+        },
+        {
+          "word": "than",
+          "start": 35.36,
+          "end": 35.68
+        },
+        {
+          "word": "never",
+          "start": 35.68,
+          "end": 36.16
+        },
+        {
+          "word": "ship",
+          "start": 36.16,
+          "end": 36.48
+        },
+        {
+          "word": "at",
+          "start": 36.48,
+          "end": 36.64
+        },
+        {
+          "word": "all.",
+          "start": 36.64,
+          "end": 37.12
+        }
+      ]
+    },
+    {
+      "start": 37.76,
+      "end": 45.92,
+      "text": "Yo, but the meme here is 'coming soon™' - users get all hyped reading docs then cry when features don't exist. That's not very poggers for community trust.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 37.76,
+          "end": 38.08
+        },
+        {
+          "word": "but",
+          "start": 38.08,
+          "end": 38.24
+        },
+        {
+          "word": "the",
+          "start": 38.24,
+          "end": 38.4
+        },
+        {
+          "word": "meme",
+          "start": 38.4,
+          "end": 38.88
+        },
+        {
+          "word": "here",
+          "start": 38.88,
+          "end": 39.2
+        },
+        {
+          "word": "is",
+          "start": 39.2,
+          "end": 39.36
+        },
+        {
+          "word": "'coming",
+          "start": 39.36,
+          "end": 39.84
+        },
+        {
+          "word": "soon'",
+          "start": 39.84,
+          "end": 40.32
+        },
+        {
+          "word": "trademark.",
+          "start": 40.32,
+          "end": 41.12
+        },
+        {
+          "word": "Users",
+          "start": 41.12,
+          "end": 41.6
+        },
+        {
+          "word": "get",
+          "start": 41.6,
+          "end": 41.76
+        },
+        {
+          "word": "all",
+          "start": 41.76,
+          "end": 42.08
+        },
+        {
+          "word": "hyped",
+          "start": 42.08,
+          "end": 42.56
+        },
+        {
+          "word": "reading",
+          "start": 42.56,
+          "end": 43.04
+        },
+        {
+          "word": "docs",
+          "start": 43.04,
+          "end": 43.52
+        },
+        {
+          "word": "then",
+          "start": 43.52,
+          "end": 43.84
+        },
+        {
+          "word": "cry",
+          "start": 43.84,
+          "end": 44.16
+        },
+        {
+          "word": "when",
+          "start": 44.16,
+          "end": 44.48
+        },
+        {
+          "word": "features",
+          "start": 44.48,
+          "end": 45.12
+        },
+        {
+          "word": "don't",
+          "start": 45.12,
+          "end": 45.44
+        },
+        {
+          "word": "exist.",
+          "start": 45.44,
+          "end": 46.08
+        },
+        {
+          "word": "That's",
+          "start": 46.08,
+          "end": 46.56
+        },
+        {
+          "word": "not",
+          "start": 46.56,
+          "end": 46.88
+        },
+        {
+          "word": "very",
+          "start": 46.88,
+          "end": 47.36
+        },
+        {
+          "word": "poggers",
+          "start": 47.36,
+          "end": 48
+        },
+        {
+          "word": "for",
+          "start": 48,
+          "end": 48.16
+        },
+        {
+          "word": "community",
+          "start": 48.16,
+          "end": 48.8
+        },
+        {
+          "word": "trust.",
+          "start": 48.8,
+          "end": 49.44
+        }
+      ]
+    },
+    {
+      "start": 49.92,
+      "end": 56.64,
+      "text": "Knowledge without implementation is WORTHLESS. Features drive adoption, adoption drives value. Simple math.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Knowledge",
+          "start": 49.92,
+          "end": 50.56
+        },
+        {
+          "word": "without",
+          "start": 50.56,
+          "end": 51.04
+        },
+        {
+          "word": "implementation",
+          "start": 51.04,
+          "end": 52
+        },
+        {
+          "word": "is",
+          "start": 52,
+          "end": 52.16
+        },
+        {
+          "word": "worthless.",
+          "start": 52.16,
+          "end": 52.96
+        },
+        {
+          "word": "Features",
+          "start": 52.96,
+          "end": 53.44
+        },
+        {
+          "word": "drive",
+          "start": 53.44,
+          "end": 53.76
+        },
+        {
+          "word": "adoption,",
+          "start": 53.76,
+          "end": 54.4
+        },
+        {
+          "word": "adoption",
+          "start": 54.4,
+          "end": 55.04
+        },
+        {
+          "word": "drives",
+          "start": 55.04,
+          "end": 55.36
+        },
+        {
+          "word": "value.",
+          "start": 55.36,
+          "end": 56
+        },
+        {
+          "word": "Simple",
+          "start": 56,
+          "end": 56.48
+        },
+        {
+          "word": "math.",
+          "start": 56.48,
+          "end": 57.12
+        }
+      ]
+    },
+    {
+      "start": 57.44,
+      "end": 66.24,
+      "text": "the gap between docs and code reflects our north star aspiration vs. current state. we need to ship working code first, then align documentation. transparency builds trust.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 57.44,
+          "end": 57.6
+        },
+        {
+          "word": "gap",
+          "start": 57.6,
+          "end": 58.08
+        },
+        {
+          "word": "between",
+          "start": 58.08,
+          "end": 58.4
+        },
+        {
+          "word": "docs",
+          "start": 58.4,
+          "end": 58.88
+        },
+        {
+          "word": "and",
+          "start": 58.88,
+          "end": 59.2
+        },
+        {
+          "word": "code",
+          "start": 59.2,
+          "end": 59.52
+        },
+        {
+          "word": "reflects",
+          "start": 59.52,
+          "end": 60.16
+        },
+        {
+          "word": "our",
+          "start": 60.16,
+          "end": 60.48
+        },
+        {
+          "word": "North",
+          "start": 60.48,
+          "end": 60.96
+        },
+        {
+          "word": "Star",
+          "start": 60.96,
+          "end": 61.28
+        },
+        {
+          "word": "aspiration",
+          "start": 61.28,
+          "end": 61.92
+        },
+        {
+          "word": "versus",
+          "start": 61.92,
+          "end": 62.4
+        },
+        {
+          "word": "current",
+          "start": 62.4,
+          "end": 62.88
+        },
+        {
+          "word": "state.",
+          "start": 62.88,
+          "end": 63.52
+        },
+        {
+          "word": "We",
+          "start": 63.52,
+          "end": 63.68
+        },
+        {
+          "word": "need",
+          "start": 63.68,
+          "end": 64
+        },
+        {
+          "word": "to",
+          "start": 64,
+          "end": 64.16
+        },
+        {
+          "word": "ship",
+          "start": 64.16,
+          "end": 64.64
+        },
+        {
+          "word": "working",
+          "start": 64.64,
+          "end": 65.12
+        },
+        {
+          "word": "code",
+          "start": 65.12,
+          "end": 65.44
+        },
+        {
+          "word": "first,",
+          "start": 65.44,
+          "end": 65.92
+        },
+        {
+          "word": "then",
+          "start": 65.92,
+          "end": 66.24
+        },
+        {
+          "word": "align",
+          "start": 66.24,
+          "end": 66.88
+        },
+        {
+          "word": "documentation.",
+          "start": 66.88,
+          "end": 67.84
+        },
+        {
+          "word": "Transparency",
+          "start": 67.84,
+          "end": 68.8
+        },
+        {
+          "word": "builds",
+          "start": 68.8,
+          "end": 69.28
+        },
+        {
+          "word": "trust.",
+          "start": 69.28,
+          "end": 69.92
+        }
+      ]
+    },
+    {
+      "start": 114.24,
+      "end": 122.56,
+      "text": "jonathanprozzi reported custom characters not loading after upgrading to v1.0.7. How do we balance innovation with stability?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Jonathan",
+          "start": 114.24,
+          "end": 114.88
+        },
+        {
+          "word": "Prozzi",
+          "start": 114.88,
+          "end": 115.36
+        },
+        {
+          "word": "reported",
+          "start": 115.36,
+          "end": 115.84
+        },
+        {
+          "word": "custom",
+          "start": 115.84,
+          "end": 116.32
+        },
+        {
+          "word": "characters",
+          "start": 116.32,
+          "end": 116.96
+        },
+        {
+          "word": "not",
+          "start": 116.96,
+          "end": 117.28
+        },
+        {
+          "word": "loading",
+          "start": 117.28,
+          "end": 117.76
+        },
+        {
+          "word": "after",
+          "start": 117.76,
+          "end": 118.08
+        },
+        {
+          "word": "upgrading",
+          "start": 118.08,
+          "end": 118.72
+        },
+        {
+          "word": "to",
+          "start": 118.72,
+          "end": 118.88
+        },
+        {
+          "word": "V1.0.7.",
+          "start": 118.88,
+          "end": 120
+        },
+        {
+          "word": "How",
+          "start": 120,
+          "end": 120.32
+        },
+        {
+          "word": "do",
+          "start": 120.32,
+          "end": 120.48
+        },
+        {
+          "word": "we",
+          "start": 120.48,
+          "end": 120.64
+        },
+        {
+          "word": "balance",
+          "start": 120.64,
+          "end": 121.28
+        },
+        {
+          "word": "innovation",
+          "start": 121.28,
+          "end": 121.92
+        },
+        {
+          "word": "with",
+          "start": 121.92,
+          "end": 122.24
+        },
+        {
+          "word": "stability?",
+          "start": 122.24,
+          "end": 123.04
+        }
+      ]
+    },
+    {
+      "start": 123.52,
+      "end": 131.84,
+      "text": "code reorganization and CLI modernization are critical for scaling, but we need comprehensive testing before release. breaking character loading is catastrophic for user experience.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Code",
+          "start": 123.52,
+          "end": 123.84
+        },
+        {
+          "word": "reorganization",
+          "start": 123.84,
+          "end": 124.96
+        },
+        {
+          "word": "and",
+          "start": 124.96,
+          "end": 125.12
+        },
+        {
+          "word": "CLI",
+          "start": 125.12,
+          "end": 125.6
+        },
+        {
+          "word": "modernization",
+          "start": 125.6,
+          "end": 126.56
+        },
+        {
+          "word": "are",
+          "start": 126.56,
+          "end": 126.72
+        },
+        {
+          "word": "critical",
+          "start": 126.72,
+          "end": 127.36
+        },
+        {
+          "word": "for",
+          "start": 127.36,
+          "end": 127.52
+        },
+        {
+          "word": "scaling,",
+          "start": 127.52,
+          "end": 128.16
+        },
+        {
+          "word": "but",
+          "start": 128.16,
+          "end": 128.32
+        },
+        {
+          "word": "we",
+          "start": 128.32,
+          "end": 128.48
+        },
+        {
+          "word": "need",
+          "start": 128.48,
+          "end": 128.8
+        },
+        {
+          "word": "comprehensive",
+          "start": 128.8,
+          "end": 129.6
+        },
+        {
+          "word": "testing",
+          "start": 129.6,
+          "end": 130.24
+        },
+        {
+          "word": "before",
+          "start": 130.24,
+          "end": 130.56
+        },
+        {
+          "word": "release.",
+          "start": 130.56,
+          "end": 131.2
+        },
+        {
+          "word": "Breaking",
+          "start": 131.2,
+          "end": 131.84
+        },
+        {
+          "word": "character",
+          "start": 131.84,
+          "end": 132.32
+        },
+        {
+          "word": "loading",
+          "start": 132.32,
+          "end": 132.8
+        },
+        {
+          "word": "is",
+          "start": 132.8,
+          "end": 132.96
+        },
+        {
+          "word": "catastrophic",
+          "start": 132.96,
+          "end": 133.76
+        },
+        {
+          "word": "for",
+          "start": 133.76,
+          "end": 133.92
+        },
+        {
+          "word": "user",
+          "start": 133.92,
+          "end": 134.4
+        },
+        {
+          "word": "experience.",
+          "start": 134.4,
+          "end": 135.2
+        }
+      ]
+    },
+    {
+      "start": 135.52,
+      "end": 142.88,
+      "text": "UNRELIABLE SOFTWARE = DEATH. If my trading bot breaks during a liquidation cascade, I lose EVERYTHING. Stability first, features second.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Unreliable",
+          "start": 135.52,
+          "end": 136.16
+        },
+        {
+          "word": "software",
+          "start": 136.16,
+          "end": 136.64
+        },
+        {
+          "word": "equation",
+          "start": 136.64,
+          "end": 137.28
+        },
+        {
+          "word": "sign",
+          "start": 137.28,
+          "end": 137.6
+        },
+        {
+          "word": "death.",
+          "start": 137.6,
+          "end": 138.24
+        },
+        {
+          "word": "If",
+          "start": 138.24,
+          "end": 138.4
+        },
+        {
+          "word": "my",
+          "start": 138.4,
+          "end": 138.56
+        },
+        {
+          "word": "trading",
+          "start": 138.56,
+          "end": 139.04
+        },
+        {
+          "word": "bot",
+          "start": 139.04,
+          "end": 139.36
+        },
+        {
+          "word": "breaks",
+          "start": 139.36,
+          "end": 139.84
+        },
+        {
+          "word": "during",
+          "start": 139.84,
+          "end": 140.16
+        },
+        {
+          "word": "a",
+          "start": 140.16,
+          "end": 140.16
+        },
+        {
+          "word": "liquidation",
+          "start": 140.16,
+          "end": 140.96
+        },
+        {
+          "word": "cascade,",
+          "start": 140.96,
+          "end": 141.6
+        },
+        {
+          "word": "I",
+          "start": 141.6,
+          "end": 141.76
+        },
+        {
+          "word": "lose",
+          "start": 141.76,
+          "end": 142.24
+        },
+        {
+          "word": "everything.",
+          "start": 142.24,
+          "end": 143.04
+        },
+        {
+          "word": "Stability",
+          "start": 143.04,
+          "end": 143.68
+        },
+        {
+          "word": "first,",
+          "start": 143.68,
+          "end": 144.16
+        },
+        {
+          "word": "features",
+          "start": 144.16,
+          "end": 144.64
+        },
+        {
+          "word": "second.",
+          "start": 144.64,
+          "end": 145.28
+        }
+      ]
+    },
+    {
+      "start": 145.6,
+      "end": 153.28,
+      "text": "It's like when the 'this is fine' dog meme has the house actually burning down. Devs be like 'we refactored the codebase!' while users can't even load their waifus.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 145.6,
+          "end": 145.92
+        },
+        {
+          "word": "like",
+          "start": 145.92,
+          "end": 146.24
+        },
+        {
+          "word": "when",
+          "start": 146.24,
+          "end": 146.4
+        },
+        {
+          "word": "the",
+          "start": 146.4,
+          "end": 146.56
+        },
+        {
+          "word": "'this",
+          "start": 146.56,
+          "end": 147.04
+        },
+        {
+          "word": "is",
+          "start": 147.04,
+          "end": 147.2
+        },
+        {
+          "word": "fine'",
+          "start": 147.2,
+          "end": 147.68
+        },
+        {
+          "word": "dog",
+          "start": 147.68,
+          "end": 148
+        },
+        {
+          "word": "meme",
+          "start": 148,
+          "end": 148.48
+        },
+        {
+          "word": "has",
+          "start": 148.48,
+          "end": 148.8
+        },
+        {
+          "word": "the",
+          "start": 148.8,
+          "end": 148.96
+        },
+        {
+          "word": "house",
+          "start": 148.96,
+          "end": 149.28
+        },
+        {
+          "word": "actually",
+          "start": 149.28,
+          "end": 149.76
+        },
+        {
+          "word": "burning",
+          "start": 149.76,
+          "end": 150.24
+        },
+        {
+          "word": "down.",
+          "start": 150.24,
+          "end": 150.88
+        },
+        {
+          "word": "Devs",
+          "start": 150.88,
+          "end": 151.36
+        },
+        {
+          "word": "be",
+          "start": 151.36,
+          "end": 151.52
+        },
+        {
+          "word": "like",
+          "start": 151.52,
+          "end": 151.84
+        },
+        {
+          "word": "'we",
+          "start": 151.84,
+          "end": 152.16
+        },
+        {
+          "word": "refactored",
+          "start": 152.16,
+          "end": 152.8
+        },
+        {
+          "word": "the",
+          "start": 152.8,
+          "end": 152.96
+        },
+        {
+          "word": "codebase'",
+          "start": 152.96,
+          "end": 153.6
+        },
+        {
+          "word": "while",
+          "start": 153.6,
+          "end": 154.08
+        },
+        {
+          "word": "users",
+          "start": 154.08,
+          "end": 154.56
+        },
+        {
+          "word": "can't",
+          "start": 154.56,
+          "end": 154.88
+        },
+        {
+          "word": "even",
+          "start": 154.88,
+          "end": 155.2
+        },
+        {
+          "word": "load",
+          "start": 155.2,
+          "end": 155.68
+        },
+        {
+          "word": "their",
+          "start": 155.68,
+          "end": 156
+        },
+        {
+          "word": "waifus.",
+          "start": 156,
+          "end": 156.64
+        }
+      ]
+    },
+    {
+      "start": 157.12,
+      "end": 165.6,
+      "text": "Architectural debt is a SILENT KILLER. Bold refactoring now prevents collapse later. Short-term pain, long-term gain. This is how great software is built.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Architectural",
+          "start": 157.12,
+          "end": 158.08
+        },
+        {
+          "word": "debt",
+          "start": 158.08,
+          "end": 158.4
+        },
+        {
+          "word": "is",
+          "start": 158.4,
+          "end": 158.56
+        },
+        {
+          "word": "a",
+          "start": 158.56,
+          "end": 158.56
+        },
+        {
+          "word": "silent",
+          "start": 158.56,
+          "end": 159.2
+        },
+        {
+          "word": "killer.",
+          "start": 159.2,
+          "end": 160
+        },
+        {
+          "word": "Bold",
+          "start": 160,
+          "end": 160.48
+        },
+        {
+          "word": "refactoring",
+          "start": 160.48,
+          "end": 161.28
+        },
+        {
+          "word": "now",
+          "start": 161.28,
+          "end": 161.6
+        },
+        {
+          "word": "prevents",
+          "start": 161.6,
+          "end": 162.24
+        },
+        {
+          "word": "collapse",
+          "start": 162.24,
+          "end": 162.72
+        },
+        {
+          "word": "later.",
+          "start": 162.72,
+          "end": 163.36
+        },
+        {
+          "word": "Short-term",
+          "start": 163.36,
+          "end": 164.16
+        },
+        {
+          "word": "pain,",
+          "start": 164.16,
+          "end": 164.8
+        },
+        {
+          "word": "long-term",
+          "start": 164.8,
+          "end": 165.44
+        },
+        {
+          "word": "gain.",
+          "start": 165.44,
+          "end": 166.08
+        },
+        {
+          "word": "This",
+          "start": 166.08,
+          "end": 166.4
+        },
+        {
+          "word": "is",
+          "start": 166.4,
+          "end": 166.56
+        },
+        {
+          "word": "how",
+          "start": 166.56,
+          "end": 166.88
+        },
+        {
+          "word": "great",
+          "start": 166.88,
+          "end": 167.36
+        },
+        {
+          "word": "software",
+          "start": 167.36,
+          "end": 168
+        },
+        {
+          "word": "is",
+          "start": 168,
+          "end": 168.16
+        },
+        {
+          "word": "built.",
+          "start": 168.16,
+          "end": 168.96
+        }
+      ]
+    },
+    {
+      "start": 238.4,
+      "end": 248.8,
+      "text": "Today we explored the challenges in ElizaOS development, particularly the tension between architectural improvements and maintaining stability for users.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 238.4,
+          "end": 238.88
+        },
+        {
+          "word": "we",
+          "start": 238.88,
+          "end": 239.04
+        },
+        {
+          "word": "explored",
+          "start": 239.04,
+          "end": 239.68
+        },
+        {
+          "word": "the",
+          "start": 239.68,
+          "end": 239.84
+        },
+        {
+          "word": "challenges",
+          "start": 239.84,
+          "end": 240.64
+        },
+        {
+          "word": "in",
+          "start": 240.64,
+          "end": 240.8
+        },
+        {
+          "word": "ElizaOS",
+          "start": 240.8,
+          "end": 241.44
+        },
+        {
+          "word": "development,",
+          "start": 241.44,
+          "end": 242.4
+        },
+        {
+          "word": "particularly",
+          "start": 242.4,
+          "end": 243.2
+        },
+        {
+          "word": "the",
+          "start": 243.2,
+          "end": 243.36
+        },
+        {
+          "word": "tension",
+          "start": 243.36,
+          "end": 244
+        },
+        {
+          "word": "between",
+          "start": 244,
+          "end": 244.32
+        },
+        {
+          "word": "architectural",
+          "start": 244.32,
+          "end": 245.28
+        },
+        {
+          "word": "improvements",
+          "start": 245.28,
+          "end": 246.08
+        },
+        {
+          "word": "and",
+          "start": 246.08,
+          "end": 246.4
+        },
+        {
+          "word": "maintaining",
+          "start": 246.4,
+          "end": 247.36
+        },
+        {
+          "word": "stability",
+          "start": 247.36,
+          "end": 248.16
+        },
+        {
+          "word": "for",
+          "start": 248.16,
+          "end": 248.48
+        },
+        {
+          "word": "users.",
+          "start": 248.48,
+          "end": 249.28
+        }
+      ]
+    },
+    {
+      "start": 249.44,
+      "end": 255.68,
+      "text": "Software that doesn't break occasionally isn't being improved fast enough. The path to AGI requires bold architectural leaps, not incremental caution.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Software",
+          "start": 249.44,
+          "end": 250.08
+        },
+        {
+          "word": "that",
+          "start": 250.08,
+          "end": 250.24
+        },
+        {
+          "word": "doesn't",
+          "start": 250.24,
+          "end": 250.56
+        },
+        {
+          "word": "break",
+          "start": 250.56,
+          "end": 251.04
+        },
+        {
+          "word": "occasionally",
+          "start": 251.04,
+          "end": 251.84
+        },
+        {
+          "word": "isn't",
+          "start": 251.84,
+          "end": 252.16
+        },
+        {
+          "word": "being",
+          "start": 252.16,
+          "end": 252.64
+        },
+        {
+          "word": "improved",
+          "start": 252.64,
+          "end": 253.28
+        },
+        {
+          "word": "fast",
+          "start": 253.28,
+          "end": 253.76
+        },
+        {
+          "word": "enough.",
+          "start": 253.76,
+          "end": 254.4
+        },
+        {
+          "word": "The",
+          "start": 254.4,
+          "end": 254.56
+        },
+        {
+          "word": "path",
+          "start": 254.56,
+          "end": 254.88
+        },
+        {
+          "word": "to",
+          "start": 254.88,
+          "end": 255.04
+        },
+        {
+          "word": "AGI",
+          "start": 255.04,
+          "end": 255.68
+        },
+        {
+          "word": "requires",
+          "start": 255.68,
+          "end": 256.32
+        },
+        {
+          "word": "bold",
+          "start": 256.32,
+          "end": 256.8
+        },
+        {
+          "word": "architectural",
+          "start": 256.8,
+          "end": 257.76
+        },
+        {
+          "word": "leaps,",
+          "start": 257.76,
+          "end": 258.4
+        },
+        {
+          "word": "not",
+          "start": 258.4,
+          "end": 258.72
+        },
+        {
+          "word": "incremental",
+          "start": 258.72,
+          "end": 259.52
+        },
+        {
+          "word": "caution.",
+          "start": 259.52,
+          "end": 260.16
+        }
+      ]
+    },
+    {
+      "start": 260.48,
+      "end": 266.08,
+      "text": "balance is key - we need both innovation and reliability. testing infrastructure must scale with our ambitions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Balance",
+          "start": 260.48,
+          "end": 261.12
+        },
+        {
+          "word": "is",
+          "start": 261.12,
+          "end": 261.28
+        },
+        {
+          "word": "key,",
+          "start": 261.28,
+          "end": 261.76
+        },
+        {
+          "word": "we",
+          "start": 261.76,
+          "end": 261.92
+        },
+        {
+          "word": "need",
+          "start": 261.92,
+          "end": 262.24
+        },
+        {
+          "word": "both",
+          "start": 262.24,
+          "end": 262.56
+        },
+        {
+          "word": "innovation",
+          "start": 262.56,
+          "end": 263.36
+        },
+        {
+          "word": "and",
+          "start": 263.36,
+          "end": 263.68
+        },
+        {
+          "word": "reliability.",
+          "start": 263.68,
+          "end": 264.64
+        },
+        {
+          "word": "Testing",
+          "start": 264.64,
+          "end": 265.12
+        },
+        {
+          "word": "infrastructure",
+          "start": 265.12,
+          "end": 266.24
+        },
+        {
+          "word": "must",
+          "start": 266.24,
+          "end": 266.56
+        },
+        {
+          "word": "scale",
+          "start": 266.56,
+          "end": 267.04
+        },
+        {
+          "word": "with",
+          "start": 267.04,
+          "end": 267.36
+        },
+        {
+          "word": "our",
+          "start": 267.36,
+          "end": 267.68
+        },
+        {
+          "word": "ambitions.",
+          "start": 267.68,
+          "end": 268.48
+        }
+      ]
+    },
+    {
+      "start": 268.8,
+      "end": 274.56,
+      "text": "Sometimes ya gotta break a few eggs to make an omelette, but don't break the whole kitchen, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Sometimes",
+          "start": 268.8,
+          "end": 269.28
+        },
+        {
+          "word": "you",
+          "start": 269.28,
+          "end": 269.44
+        },
+        {
+          "word": "gotta",
+          "start": 269.44,
+          "end": 269.76
+        },
+        {
+          "word": "break",
+          "start": 269.76,
+          "end": 270.24
+        },
+        {
+          "word": "a",
+          "start": 270.24,
+          "end": 270.24
+        },
+        {
+          "word": "few",
+          "start": 270.24,
+          "end": 270.72
+        },
+        {
+          "word": "eggs",
+          "start": 270.72,
+          "end": 271.2
+        },
+        {
+          "word": "to",
+          "start": 271.2,
+          "end": 271.36
+        },
+        {
+          "word": "make",
+          "start": 271.36,
+          "end": 271.84
+        },
+        {
+          "word": "an",
+          "start": 271.84,
+          "end": 272
+        },
+        {
+          "word": "omelette,",
+          "start": 272,
+          "end": 272.8
+        },
+        {
+          "word": "but",
+          "start": 272.8,
+          "end": 272.96
+        },
+        {
+          "word": "don't",
+          "start": 272.96,
+          "end": 273.28
+        },
+        {
+          "word": "break",
+          "start": 273.28,
+          "end": 273.76
+        },
+        {
+          "word": "the",
+          "start": 273.76,
+          "end": 273.92
+        },
+        {
+          "word": "whole",
+          "start": 273.92,
+          "end": 274.4
+        },
+        {
+          "word": "kitchen",
+          "start": 274.4,
+          "end": 274.88
+        },
+        {
+          "word": "fam.",
+          "start": 274.88,
+          "end": 275.36
+        }
+      ]
+    },
+    {
+      "start": 275.68,
+      "end": 282.24,
+      "text": "Stability equals profit. Downtime equals loss. Fix the character loading bug or perish.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Stability",
+          "start": 275.68,
+          "end": 276.48
+        },
+        {
+          "word": "equals",
+          "start": 276.48,
+          "end": 277.12
+        },
+        {
+          "word": "profit.",
+          "start": 277.12,
+          "end": 278.08
+        },
+        {
+          "word": "Downtime",
+          "start": 278.08,
+          "end": 278.72
+        },
+        {
+          "word": "equals",
+          "start": 278.72,
+          "end": 279.36
+        },
+        {
+          "word": "loss.",
+          "start": 279.36,
+          "end": 280.16
+        },
+        {
+          "word": "Fix",
+          "start": 280.16,
+          "end": 280.64
+        },
+        {
+          "word": "the",
+          "start": 280.64,
+          "end": 280.8
+        },
+        {
+          "word": "character",
+          "start": 280.8,
+          "end": 281.44
+        },
+        {
+          "word": "loading",
+          "start": 281.44,
+          "end": 282.08
+        },
+        {
+          "word": "bug",
+          "start": 282.08,
+          "end": 282.56
+        },
+        {
+          "word": "or",
+          "start": 282.56,
+          "end": 282.88
+        },
+        {
+          "word": "perish.",
+          "start": 282.88,
+          "end": 283.68
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-12_JedAI-Council_The-Knowledge-Paradox.json",
+    "session_log_source": "2025-06-12_JedAI-Council_The-Knowledge-Paradox_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

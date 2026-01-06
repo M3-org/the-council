@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/11/episode-5972-featured-1762834129.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/11/episode-5972-featured-1762834129-150x150.png",
+  "premise": "The Council debates the challenges of token migrations and the philosophical implications of digital asset transitions.",
+  "scenes": [
+    {
+      "description": "The Council discusses token migration challenges",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council explores the democratization of AI hardware",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The Council summarizes their perspectives on digital transitions",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

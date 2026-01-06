@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": false,
+  "image_thumb": false,
+  "premise": "The JedAI Council discusses the challenges of the ElizaOS token migration and what it means for blockchain evolution.",
+  "scenes": [
+    {
+      "description": "The JedAI Council discusses the ongoing ElizaOS token migration challenges",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council explores the philosophical implications of exchanges and token transitions",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council offers final wisdom on navigating the transition",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

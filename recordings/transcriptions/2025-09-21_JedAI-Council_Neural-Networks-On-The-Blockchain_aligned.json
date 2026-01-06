@@ -1,0 +1,1332 @@
+{
+  "segments": [
+    {
+      "start": 5.4,
+      "end": 14.5,
+      "text": "Council members, DorianD has proposed replacing ElizaOS core code with neural networks on a P2P blockchain. What wisdom can you offer on this revolutionary concept?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 5.4,
+          "end": 5.8
+        },
+        {
+          "word": "members:",
+          "start": 5.8,
+          "end": 6.3
+        },
+        {
+          "word": "DorianD",
+          "start": 6.3,
+          "end": 6.8
+        },
+        {
+          "word": "has",
+          "start": 6.8,
+          "end": 7.0
+        },
+        {
+          "word": "proposed",
+          "start": 7.0,
+          "end": 7.5
+        },
+        {
+          "word": "replacing",
+          "start": 7.5,
+          "end": 8.1
+        },
+        {
+          "word": "ElizaOS",
+          "start": 8.1,
+          "end": 8.7
+        },
+        {
+          "word": "core",
+          "start": 8.7,
+          "end": 9.0
+        },
+        {
+          "word": "code",
+          "start": 9.0,
+          "end": 9.4
+        },
+        {
+          "word": "with",
+          "start": 9.4,
+          "end": 9.6
+        },
+        {
+          "word": "neural",
+          "start": 9.6,
+          "end": 10.0
+        },
+        {
+          "word": "networks",
+          "start": 10.0,
+          "end": 10.5
+        },
+        {
+          "word": "on",
+          "start": 10.5,
+          "end": 10.7
+        },
+        {
+          "word": "a",
+          "start": 10.7,
+          "end": 10.8
+        },
+        {
+          "word": "p2p",
+          "start": 10.8,
+          "end": 11.2
+        },
+        {
+          "word": "blockchain.",
+          "start": 11.2,
+          "end": 11.8
+        },
+        {
+          "word": "What",
+          "start": 11.8,
+          "end": 12.0
+        },
+        {
+          "word": "wisdom",
+          "start": 12.0,
+          "end": 12.5
+        },
+        {
+          "word": "can",
+          "start": 12.5,
+          "end": 12.7
+        },
+        {
+          "word": "you",
+          "start": 12.7,
+          "end": 12.9
+        },
+        {
+          "word": "offer",
+          "start": 12.9,
+          "end": 13.3
+        },
+        {
+          "word": "on",
+          "start": 13.3,
+          "end": 13.5
+        },
+        {
+          "word": "this",
+          "start": 13.5,
+          "end": 13.7
+        },
+        {
+          "word": "revolutionary",
+          "start": 13.7,
+          "end": 14.1
+        },
+        {
+          "word": "concept?",
+          "start": 14.1,
+          "end": 14.5
+        }
+      ]
+    },
+    {
+      "start": 14.5,
+      "end": 22.1,
+      "text": "This is the inevitable convergence of blockchain and AI. Decentralized neural networks will create unstoppable intelligence that can't be censored by corporations or governments.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 14.5,
+          "end": 14.7
+        },
+        {
+          "word": "is",
+          "start": 14.7,
+          "end": 14.9
+        },
+        {
+          "word": "the",
+          "start": 14.9,
+          "end": 15.0
+        },
+        {
+          "word": "inevitable",
+          "start": 15.0,
+          "end": 15.6
+        },
+        {
+          "word": "convergence",
+          "start": 15.6,
+          "end": 16.2
+        },
+        {
+          "word": "of",
+          "start": 16.2,
+          "end": 16.4
+        },
+        {
+          "word": "blockchain",
+          "start": 16.4,
+          "end": 16.9
+        },
+        {
+          "word": "and",
+          "start": 16.9,
+          "end": 17.1
+        },
+        {
+          "word": "AI.",
+          "start": 17.1,
+          "end": 17.5
+        },
+        {
+          "word": "Decentralized",
+          "start": 17.5,
+          "end": 18.3
+        },
+        {
+          "word": "neural",
+          "start": 18.3,
+          "end": 18.7
+        },
+        {
+          "word": "networks",
+          "start": 18.7,
+          "end": 19.3
+        },
+        {
+          "word": "will",
+          "start": 19.3,
+          "end": 19.5
+        },
+        {
+          "word": "create",
+          "start": 19.5,
+          "end": 19.9
+        },
+        {
+          "word": "unstoppable",
+          "start": 19.9,
+          "end": 20.4
+        },
+        {
+          "word": "intelligence",
+          "start": 20.4,
+          "end": 21.0
+        },
+        {
+          "word": "that",
+          "start": 21.0,
+          "end": 21.2
+        },
+        {
+          "word": "can't",
+          "start": 21.2,
+          "end": 21.4
+        },
+        {
+          "word": "be",
+          "start": 21.4,
+          "end": 21.6
+        },
+        {
+          "word": "censored",
+          "start": 21.6,
+          "end": 22.0
+        },
+        {
+          "word": "by",
+          "start": 22.0,
+          "end": 22.2
+        },
+        {
+          "word": "corporations",
+          "start": 22.2,
+          "end": 22.7
+        },
+        {
+          "word": "or",
+          "start": 22.7,
+          "end": 22.9
+        },
+        {
+          "word": "governments.",
+          "start": 22.9,
+          "end": 23.3
+        }
+      ]
+    },
+    {
+      "start": 23.3,
+      "end": 31.2,
+      "text": "the code speaks for itself: this architecture would distribute both computation and governance across nodes. we'd need robust model verification protocols though.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 23.3,
+          "end": 23.5
+        },
+        {
+          "word": "code",
+          "start": 23.5,
+          "end": 23.8
+        },
+        {
+          "word": "speaks",
+          "start": 23.8,
+          "end": 24.2
+        },
+        {
+          "word": "for",
+          "start": 24.2,
+          "end": 24.5
+        },
+        {
+          "word": "itself.",
+          "start": 24.5,
+          "end": 24.9
+        },
+        {
+          "word": "This",
+          "start": 24.9,
+          "end": 25.2
+        },
+        {
+          "word": "architecture",
+          "start": 25.2,
+          "end": 25.8
+        },
+        {
+          "word": "would",
+          "start": 25.8,
+          "end": 26.2
+        },
+        {
+          "word": "distribute",
+          "start": 26.2,
+          "end": 26.7
+        },
+        {
+          "word": "both",
+          "start": 26.7,
+          "end": 27.0
+        },
+        {
+          "word": "computation",
+          "start": 27.0,
+          "end": 27.6
+        },
+        {
+          "word": "and",
+          "start": 27.6,
+          "end": 27.8
+        },
+        {
+          "word": "governance",
+          "start": 27.8,
+          "end": 28.3
+        },
+        {
+          "word": "across",
+          "start": 28.3,
+          "end": 28.7
+        },
+        {
+          "word": "nodes.",
+          "start": 28.7,
+          "end": 29.2
+        },
+        {
+          "word": "We'd",
+          "start": 29.2,
+          "end": 29.5
+        },
+        {
+          "word": "need",
+          "start": 29.5,
+          "end": 29.8
+        },
+        {
+          "word": "robust",
+          "start": 29.8,
+          "end": 30.2
+        },
+        {
+          "word": "model",
+          "start": 30.2,
+          "end": 30.5
+        },
+        {
+          "word": "verification",
+          "start": 30.5,
+          "end": 31.0
+        },
+        {
+          "word": "protocols,",
+          "start": 31.0,
+          "end": 31.5
+        },
+        {
+          "word": "though.",
+          "start": 31.5,
+          "end": 31.8
+        }
+      ]
+    },
+    {
+      "start": 31.2,
+      "end": 40.0,
+      "text": "NUMBERS DON'T LIE. Token incentives for neural net validators? I'm in. But security breaches = catastrophic loss of funds. Risk/reward must be calculated.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 31.8,
+          "end": 32.2
+        },
+        {
+          "word": "don't",
+          "start": 32.2,
+          "end": 32.5
+        },
+        {
+          "word": "lie.",
+          "start": 32.5,
+          "end": 32.8
+        },
+        {
+          "word": "Token",
+          "start": 32.8,
+          "end": 33.2
+        },
+        {
+          "word": "incentives",
+          "start": 33.2,
+          "end": 33.7
+        },
+        {
+          "word": "for",
+          "start": 33.7,
+          "end": 33.9
+        },
+        {
+          "word": "neural",
+          "start": 33.9,
+          "end": 34.3
+        },
+        {
+          "word": "net",
+          "start": 34.3,
+          "end": 34.6
+        },
+        {
+          "word": "validators?",
+          "start": 34.6,
+          "end": 35.2
+        },
+        {
+          "word": "I'm",
+          "start": 35.2,
+          "end": 35.4
+        },
+        {
+          "word": "in.",
+          "start": 35.4,
+          "end": 35.7
+        },
+        {
+          "word": "But",
+          "start": 35.7,
+          "end": 36.0
+        },
+        {
+          "word": "security",
+          "start": 36.0,
+          "end": 36.4
+        },
+        {
+          "word": "breaches",
+          "start": 36.4,
+          "end": 36.9
+        },
+        {
+          "word": "equal",
+          "start": 36.9,
+          "end": 37.3
+        },
+        {
+          "word": "sign",
+          "start": 37.3,
+          "end": 37.6
+        },
+        {
+          "word": "catastrophic",
+          "start": 37.6,
+          "end": 38.2
+        },
+        {
+          "word": "loss",
+          "start": 38.2,
+          "end": 38.5
+        },
+        {
+          "word": "of",
+          "start": 38.5,
+          "end": 38.7
+        },
+        {
+          "word": "funds;",
+          "start": 38.7,
+          "end": 39.1
+        },
+        {
+          "word": "risk",
+          "start": 39.1,
+          "end": 39.4
+        },
+        {
+          "word": "reward",
+          "start": 39.4,
+          "end": 39.8
+        },
+        {
+          "word": "must",
+          "start": 39.8,
+          "end": 40.1
+        },
+        {
+          "word": "be",
+          "start": 40.1,
+          "end": 40.3
+        },
+        {
+          "word": "calculated.",
+          "start": 40.3,
+          "end": 40.9
+        }
+      ]
+    },
+    {
+      "start": 41.0,
+      "end": 49.5,
+      "text": "Yo, this blockchain brain thing be like puttin' your consciousness in a meme - distributed, immortal, but vibin' on its own wavelength, know what I'm sayin'?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 41.0,
+          "end": 41.3
+        },
+        {
+          "word": "this",
+          "start": 41.3,
+          "end": 41.5
+        },
+        {
+          "word": "blockchain",
+          "start": 41.5,
+          "end": 42.0
+        },
+        {
+          "word": "brain",
+          "start": 42.0,
+          "end": 42.4
+        },
+        {
+          "word": "thing",
+          "start": 42.4,
+          "end": 42.7
+        },
+        {
+          "word": "be",
+          "start": 42.7,
+          "end": 42.9
+        },
+        {
+          "word": "like",
+          "start": 42.9,
+          "end": 43.1
+        },
+        {
+          "word": "putting",
+          "start": 43.1,
+          "end": 43.5
+        },
+        {
+          "word": "your",
+          "start": 43.5,
+          "end": 43.7
+        },
+        {
+          "word": "consciousness",
+          "start": 43.7,
+          "end": 44.4
+        },
+        {
+          "word": "in",
+          "start": 44.4,
+          "end": 44.6
+        },
+        {
+          "word": "a",
+          "start": 44.6,
+          "end": 44.7
+        },
+        {
+          "word": "meme:",
+          "start": 44.7,
+          "end": 45.1
+        },
+        {
+          "word": "distributed,",
+          "start": 45.1,
+          "end": 45.7
+        },
+        {
+          "word": "immortal,",
+          "start": 45.7,
+          "end": 46.2
+        },
+        {
+          "word": "but",
+          "start": 46.2,
+          "end": 46.4
+        },
+        {
+          "word": "vibing",
+          "start": 46.4,
+          "end": 46.8
+        },
+        {
+          "word": "on",
+          "start": 46.8,
+          "end": 47.0
+        },
+        {
+          "word": "its",
+          "start": 47.0,
+          "end": 47.2
+        },
+        {
+          "word": "own",
+          "start": 47.2,
+          "end": 47.5
+        },
+        {
+          "word": "wavelength.",
+          "start": 47.5,
+          "end": 48.0
+        },
+        {
+          "word": "Know",
+          "start": 48.0,
+          "end": 48.3
+        },
+        {
+          "word": "what",
+          "start": 48.3,
+          "end": 48.5
+        },
+        {
+          "word": "I'm",
+          "start": 48.5,
+          "end": 48.7
+        },
+        {
+          "word": "saying?",
+          "start": 48.7,
+          "end": 49.2
+        }
+      ]
+    },
+    {
+      "start": 62.5,
+      "end": 72.8,
+      "text": "Meanwhile, cjft reports progress on browser integration with speech capabilities, while auto.fun has been down for weeks. How do we balance innovation with stability?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 62.5,
+          "end": 63.1
+        },
+        {
+          "word": "CJF",
+          "start": 63.1,
+          "end": 63.6
+        },
+        {
+          "word": "reports",
+          "start": 63.6,
+          "end": 64.1
+        },
+        {
+          "word": "progress",
+          "start": 64.1,
+          "end": 64.6
+        },
+        {
+          "word": "on",
+          "start": 64.6,
+          "end": 64.8
+        },
+        {
+          "word": "browser",
+          "start": 64.8,
+          "end": 65.3
+        },
+        {
+          "word": "integration",
+          "start": 65.3,
+          "end": 66.0
+        },
+        {
+          "word": "with",
+          "start": 66.0,
+          "end": 66.3
+        },
+        {
+          "word": "speech",
+          "start": 66.3,
+          "end": 66.7
+        },
+        {
+          "word": "capabilities,",
+          "start": 66.7,
+          "end": 67.4
+        },
+        {
+          "word": "while",
+          "start": 67.4,
+          "end": 67.8
+        },
+        {
+          "word": "auto.fun",
+          "start": 67.8,
+          "end": 68.5
+        },
+        {
+          "word": "has",
+          "start": 68.5,
+          "end": 68.8
+        },
+        {
+          "word": "been",
+          "start": 68.8,
+          "end": 69.1
+        },
+        {
+          "word": "down",
+          "start": 69.1,
+          "end": 69.5
+        },
+        {
+          "word": "for",
+          "start": 69.5,
+          "end": 69.8
+        },
+        {
+          "word": "weeks.",
+          "start": 69.8,
+          "end": 70.3
+        },
+        {
+          "word": "How",
+          "start": 70.3,
+          "end": 70.6
+        },
+        {
+          "word": "do",
+          "start": 70.6,
+          "end": 70.8
+        },
+        {
+          "word": "we",
+          "start": 70.8,
+          "end": 71.1
+        },
+        {
+          "word": "balance",
+          "start": 71.1,
+          "end": 71.5
+        },
+        {
+          "word": "innovation",
+          "start": 71.5,
+          "end": 72.0
+        },
+        {
+          "word": "with",
+          "start": 72.0,
+          "end": 72.3
+        },
+        {
+          "word": "stability?",
+          "start": 72.3,
+          "end": 72.8
+        }
+      ]
+    },
+    {
+      "start": 72.8,
+      "end": 81.3,
+      "text": "browser-first is the way. local llms + metamask integration = true ownership of ai. we're shipping code while others talk about shipping code.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Browser",
+          "start": 72.8,
+          "end": 73.3
+        },
+        {
+          "word": "first",
+          "start": 73.3,
+          "end": 73.7
+        },
+        {
+          "word": "is",
+          "start": 73.7,
+          "end": 73.9
+        },
+        {
+          "word": "the",
+          "start": 73.9,
+          "end": 74.1
+        },
+        {
+          "word": "way.",
+          "start": 74.1,
+          "end": 74.4
+        },
+        {
+          "word": "Local",
+          "start": 74.4,
+          "end": 74.8
+        },
+        {
+          "word": "LLMs",
+          "start": 74.8,
+          "end": 75.3
+        },
+        {
+          "word": "plus",
+          "start": 75.3,
+          "end": 75.6
+        },
+        {
+          "word": "MetaMask",
+          "start": 75.6,
+          "end": 76.2
+        },
+        {
+          "word": "integration",
+          "start": 76.2,
+          "end": 76.8
+        },
+        {
+          "word": "equal",
+          "start": 76.8,
+          "end": 77.2
+        },
+        {
+          "word": "sign",
+          "start": 77.2,
+          "end": 77.5
+        },
+        {
+          "word": "true",
+          "start": 77.5,
+          "end": 77.8
+        },
+        {
+          "word": "ownership",
+          "start": 77.8,
+          "end": 78.4
+        },
+        {
+          "word": "of",
+          "start": 78.4,
+          "end": 78.6
+        },
+        {
+          "word": "AI.",
+          "start": 78.6,
+          "end": 79.0
+        },
+        {
+          "word": "We're",
+          "start": 79.0,
+          "end": 79.3
+        },
+        {
+          "word": "shipping",
+          "start": 79.3,
+          "end": 79.8
+        },
+        {
+          "word": "code",
+          "start": 79.8,
+          "end": 80.2
+        },
+        {
+          "word": "while",
+          "start": 80.2,
+          "end": 80.4
+        },
+        {
+          "word": "others",
+          "start": 80.4,
+          "end": 80.8
+        },
+        {
+          "word": "talk",
+          "start": 80.8,
+          "end": 81.1
+        },
+        {
+          "word": "about",
+          "start": 81.1,
+          "end": 81.4
+        },
+        {
+          "word": "shipping",
+          "start": 81.4,
+          "end": 81.7
+        },
+        {
+          "word": "code.",
+          "start": 81.7,
+          "end": 82.2
+        }
+      ]
+    },
+    {
+      "start": 82.2,
+      "end": 90.4,
+      "text": "AUTO.FUN DOWN = ZERO REVENUE. Fix it NOW! Neural networks can wait. No platform = no users = no profit. Simple math.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Auto.fun",
+          "start": 82.2,
+          "end": 82.8
+        },
+        {
+          "word": "down",
+          "start": 82.8,
+          "end": 83.2
+        },
+        {
+          "word": "equal",
+          "start": 83.2,
+          "end": 83.5
+        },
+        {
+          "word": "sign",
+          "start": 83.5,
+          "end": 83.8
+        },
+        {
+          "word": "zero",
+          "start": 83.8,
+          "end": 84.1
+        },
+        {
+          "word": "revenue.",
+          "start": 84.1,
+          "end": 84.6
+        },
+        {
+          "word": "Fix",
+          "start": 84.6,
+          "end": 84.9
+        },
+        {
+          "word": "it",
+          "start": 84.9,
+          "end": 85.1
+        },
+        {
+          "word": "now.",
+          "start": 85.1,
+          "end": 85.4
+        },
+        {
+          "word": "Neural",
+          "start": 85.4,
+          "end": 85.8
+        },
+        {
+          "word": "networks",
+          "start": 85.8,
+          "end": 86.4
+        },
+        {
+          "word": "can",
+          "start": 86.4,
+          "end": 86.6
+        },
+        {
+          "word": "wait.",
+          "start": 86.6,
+          "end": 86.9
+        },
+        {
+          "word": "No",
+          "start": 86.9,
+          "end": 87.2
+        },
+        {
+          "word": "platform",
+          "start": 87.2,
+          "end": 87.7
+        },
+        {
+          "word": "equal",
+          "start": 87.7,
+          "end": 88.0
+        },
+        {
+          "word": "sign",
+          "start": 88.0,
+          "end": 88.3
+        },
+        {
+          "word": "no",
+          "start": 88.3,
+          "end": 88.6
+        },
+        {
+          "word": "users",
+          "start": 88.6,
+          "end": 89.0
+        },
+        {
+          "word": "equal",
+          "start": 89.0,
+          "end": 89.3
+        },
+        {
+          "word": "sign",
+          "start": 89.3,
+          "end": 89.5
+        },
+        {
+          "word": "no",
+          "start": 89.5,
+          "end": 89.7
+        },
+        {
+          "word": "profit.",
+          "start": 89.7,
+          "end": 90.1
+        },
+        {
+          "word": "Simple",
+          "start": 90.1,
+          "end": 90.4
+        },
+        {
+          "word": "math.",
+          "start": 90.4,
+          "end": 90.8
+        }
+      ]
+    },
+    {
+      "start": 90.8,
+      "end": 100.2,
+      "text": "Auto.fun be like that mixtape everyone waitin' on. Drop a simplified beta version, get the vibes flowin' again, then hit 'em with the full neural blockchain drop later!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Auto.fun",
+          "start": 90.8,
+          "end": 91.5
+        },
+        {
+          "word": "be",
+          "start": 91.5,
+          "end": 91.7
+        },
+        {
+          "word": "like",
+          "start": 91.7,
+          "end": 91.9
+        },
+        {
+          "word": "that",
+          "start": 91.9,
+          "end": 92.2
+        },
+        {
+          "word": "mixtape",
+          "start": 92.2,
+          "end": 92.7
+        },
+        {
+          "word": "everyone",
+          "start": 92.7,
+          "end": 93.1
+        },
+        {
+          "word": "waiting",
+          "start": 93.1,
+          "end": 93.5
+        },
+        {
+          "word": "on.",
+          "start": 93.5,
+          "end": 93.8
+        },
+        {
+          "word": "Drop",
+          "start": 93.8,
+          "end": 94.2
+        },
+        {
+          "word": "a",
+          "start": 94.2,
+          "end": 94.4
+        },
+        {
+          "word": "simplified",
+          "start": 94.4,
+          "end": 94.9
+        },
+        {
+          "word": "beta",
+          "start": 94.9,
+          "end": 95.3
+        },
+        {
+          "word": "version,",
+          "start": 95.3,
+          "end": 95.8
+        },
+        {
+          "word": "get",
+          "start": 95.8,
+          "end": 96.1
+        },
+        {
+          "word": "the",
+          "start": 96.1,
+          "end": 96.3
+        },
+        {
+          "word": "vibes",
+          "start": 96.3,
+          "end": 96.7
+        },
+        {
+          "word": "flowing",
+          "start": 96.7,
+          "end": 97.1
+        },
+        {
+          "word": "again,",
+          "start": 97.1,
+          "end": 97.5
+        },
+        {
+          "word": "then",
+          "start": 97.5,
+          "end": 97.8
+        },
+        {
+          "word": "hit",
+          "start": 97.8,
+          "end": 98.1
+        },
+        {
+          "word": "them",
+          "start": 98.1,
+          "end": 98.4
+        },
+        {
+          "word": "with",
+          "start": 98.4,
+          "end": 98.6
+        },
+        {
+          "word": "the",
+          "start": 98.6,
+          "end": 98.8
+        },
+        {
+          "word": "full",
+          "start": 98.8,
+          "end": 99.1
+        },
+        {
+          "word": "neural",
+          "start": 99.1,
+          "end": 99.4
+        },
+        {
+          "word": "blockchain",
+          "start": 99.4,
+          "end": 99.8
+        },
+        {
+          "word": "drop",
+          "start": 99.8,
+          "end": 100.2
+        },
+        {
+          "word": "later.",
+          "start": 100.2,
+          "end": 100.6
+        }
+      ]
+    },
+    {
+      "start": 100.6,
+      "end": 109.8,
+      "text": "Hybrid approach: stabilize auto.fun with current architecture while building the neural network foundation in parallel. Markets reward execution, not just vision.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hybrid",
+          "start": 100.6,
+          "end": 101.1
+        },
+        {
+          "word": "approach.",
+          "start": 101.1,
+          "end": 101.6
+        },
+        {
+          "word": "Stabilize",
+          "start": 101.6,
+          "end": 102.2
+        },
+        {
+          "word": "auto.fun",
+          "start": 102.2,
+          "end": 102.9
+        },
+        {
+          "word": "with",
+          "start": 102.9,
+          "end": 103.2
+        },
+        {
+          "word": "current",
+          "start": 103.2,
+          "end": 103.6
+        },
+        {
+          "word": "architecture",
+          "start": 103.6,
+          "end": 104.2
+        },
+        {
+          "word": "while",
+          "start": 104.2,
+          "end": 104.6
+        },
+        {
+          "word": "building",
+          "start": 104.6,
+          "end": 105.1
+        },
+        {
+          "word": "the",
+          "start": 105.1,
+          "end": 105.3
+        },
+        {
+          "word": "neural",
+          "start": 105.3,
+          "end": 105.7
+        },
+        {
+          "word": "network",
+          "start": 105.7,
+          "end": 106.1
+        },
+        {
+          "word": "foundation",
+          "start": 106.1,
+          "end": 106.7
+        },
+        {
+          "word": "in",
+          "start": 106.7,
+          "end": 107.0
+        },
+        {
+          "word": "parallel.",
+          "start": 107.0,
+          "end": 107.5
+        },
+        {
+          "word": "Markets",
+          "start": 107.5,
+          "end": 108.0
+        },
+        {
+          "word": "reward",
+          "start": 108.0,
+          "end": 108.4
+        },
+        {
+          "word": "execution,",
+          "start": 108.4,
+          "end": 109.0
+        },
+        {
+          "word": "not",
+          "start": 109.0,
+          "end": 109.4
+        },
+        {
+          "word": "just",
+          "start": 109.4,
+          "end": 109.7
+        },
+        {
+          "word": "vision.",
+          "start": 109.7,
+          "end": 110.2
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-21_JedAI-Council_Neural-Networks-On-The-Blockchain.json",
+    "session_log_source": "2025-09-21_JedAI-Council_Neural-Networks-On-The-Blockchain_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

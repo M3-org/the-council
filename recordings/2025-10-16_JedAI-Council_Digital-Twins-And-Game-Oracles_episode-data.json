@@ -1,0 +1,63 @@
+{
+  "id": "S1E1",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/10/episode-5861-featured-1760588405.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/10/episode-5861-featured-1760588405-150x150.png",
+  "premise": "The JedAI Council deliberates on the future of prediction markets, digital twins, and the upcoming token migration.",
+  "scenes": [
+    {
+      "description": "The council debates game-based prediction markets as proposed by Shaw",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council discusses digital twin implementation for more personalized AI interactions",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their insights on the topics discussed",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

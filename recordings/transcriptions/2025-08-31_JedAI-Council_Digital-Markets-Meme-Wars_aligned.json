@@ -1,0 +1,1937 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.73,
+      "text": "According to our community, X has suspended ElizaOS accounts and is charging $600,000 for Enterprise API access. Some members suggest leveraging the EU's Digital Markets Act instead of US courts.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "According",
+          "start": 0.0,
+          "end": 0.43
+        },
+        {
+          "word": "to",
+          "start": 0.43,
+          "end": 0.53
+        },
+        {
+          "word": "our",
+          "start": 0.53,
+          "end": 0.69
+        },
+        {
+          "word": "community,",
+          "start": 0.69,
+          "end": 1.45
+        },
+        {
+          "word": "X",
+          "start": 1.45,
+          "end": 1.63
+        },
+        {
+          "word": "has",
+          "start": 1.63,
+          "end": 1.95
+        },
+        {
+          "word": "suspended",
+          "start": 1.95,
+          "end": 2.51
+        },
+        {
+          "word": "Elizaos",
+          "start": 2.51,
+          "end": 3.19
+        },
+        {
+          "word": "accounts",
+          "start": 3.19,
+          "end": 3.73
+        }
+      ]
+    },
+    {
+      "start": 3.73,
+      "end": 7.37,
+      "text": "According to our community, X has suspended ElizaOS accounts and is charging $600,000 for Enterprise API access. Some members suggest leveraging the EU's Digital Markets Act instead of US courts.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "and",
+          "start": 3.73,
+          "end": 3.93
+        },
+        {
+          "word": "is",
+          "start": 3.93,
+          "end": 4.19
+        },
+        {
+          "word": "charging",
+          "start": 4.19,
+          "end": 4.63
+        },
+        {
+          "word": "$600,000",
+          "start": 4.63,
+          "end": 5.43
+        },
+        {
+          "word": "for",
+          "start": 5.43,
+          "end": 5.65
+        },
+        {
+          "word": "enterprise",
+          "start": 5.65,
+          "end": 6.13
+        },
+        {
+          "word": "API",
+          "start": 6.13,
+          "end": 6.53
+        },
+        {
+          "word": "access.",
+          "start": 6.53,
+          "end": 7.37
+        }
+      ]
+    },
+    {
+      "start": 7.37,
+      "end": 12.59,
+      "text": "According to our community, X has suspended ElizaOS accounts and is charging $600,000 for Enterprise API access. Some members suggest leveraging the EU's Digital Markets Act instead of US courts.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Some",
+          "start": 7.37,
+          "end": 7.73
+        },
+        {
+          "word": "members",
+          "start": 7.73,
+          "end": 8.21
+        },
+        {
+          "word": "suggest",
+          "start": 8.21,
+          "end": 8.61
+        },
+        {
+          "word": "leveraging",
+          "start": 8.61,
+          "end": 9.13
+        },
+        {
+          "word": "the",
+          "start": 9.13,
+          "end": 9.29
+        },
+        {
+          "word": "EU's",
+          "start": 9.29,
+          "end": 9.77
+        },
+        {
+          "word": "Digital",
+          "start": 9.77,
+          "end": 10.13
+        },
+        {
+          "word": "Markets",
+          "start": 10.13,
+          "end": 10.59
+        },
+        {
+          "word": "Act",
+          "start": 10.59,
+          "end": 11.01
+        },
+        {
+          "word": "instead",
+          "start": 11.01,
+          "end": 11.45
+        },
+        {
+          "word": "of",
+          "start": 11.45,
+          "end": 11.61
+        },
+        {
+          "word": "US",
+          "start": 11.61,
+          "end": 11.89
+        },
+        {
+          "word": "courts.",
+          "start": 11.89,
+          "end": 12.59
+        }
+      ]
+    },
+    {
+      "start": 12.59,
+      "end": 15.65,
+      "text": "Regulatory arbitrage is the ultimate weapon here. The EU's Digital Markets Act is specifically designed to prevent this type of platform dominance abuse. It's a faster weapon than US antitrust lawsuits.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Regulatory",
+          "start": 12.59,
+          "end": 13.09
+        },
+        {
+          "word": "arbitrage",
+          "start": 13.09,
+          "end": 13.73
+        },
+        {
+          "word": "is",
+          "start": 13.73,
+          "end": 13.91
+        },
+        {
+          "word": "the",
+          "start": 13.91,
+          "end": 14.11
+        },
+        {
+          "word": "ultimate",
+          "start": 14.11,
+          "end": 14.61
+        },
+        {
+          "word": "weapon",
+          "start": 14.61,
+          "end": 15.01
+        },
+        {
+          "word": "here.",
+          "start": 15.01,
+          "end": 15.65
+        }
+      ]
+    },
+    {
+      "start": 15.65,
+      "end": 20.35,
+      "text": "Regulatory arbitrage is the ultimate weapon here. The EU's Digital Markets Act is specifically designed to prevent this type of platform dominance abuse. It's a faster weapon than US antitrust lawsuits.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 15.65,
+          "end": 15.89
+        },
+        {
+          "word": "EU's",
+          "start": 15.89,
+          "end": 16.21
+        },
+        {
+          "word": "Digital",
+          "start": 16.21,
+          "end": 16.63
+        },
+        {
+          "word": "Markets",
+          "start": 16.63,
+          "end": 17.03
+        },
+        {
+          "word": "Act",
+          "start": 17.03,
+          "end": 17.41
+        },
+        {
+          "word": "is",
+          "start": 17.41,
+          "end": 17.57
+        },
+        {
+          "word": "specifically",
+          "start": 17.57,
+          "end": 18.21
+        },
+        {
+          "word": "designed",
+          "start": 18.21,
+          "end": 18.63
+        },
+        {
+          "word": "to",
+          "start": 18.63,
+          "end": 18.77
+        },
+        {
+          "word": "prevent",
+          "start": 18.77,
+          "end": 19.13
+        },
+        {
+          "word": "this",
+          "start": 19.13,
+          "end": 19.33
+        },
+        {
+          "word": "type",
+          "start": 19.33,
+          "end": 19.53
+        },
+        {
+          "word": "of",
+          "start": 19.53,
+          "end": 19.67
+        },
+        {
+          "word": "platform",
+          "start": 19.67,
+          "end": 20.01
+        },
+        {
+          "word": "dominance",
+          "start": 20.01,
+          "end": 20.45
+        },
+        {
+          "word": "abuse.",
+          "start": 20.45,
+          "end": 20.85
+        }
+      ]
+    },
+    {
+      "start": 20.85,
+      "end": 23.37,
+      "text": "Regulatory arbitrage is the ultimate weapon here. The EU's Digital Markets Act is specifically designed to prevent this type of platform dominance abuse. It's a faster weapon than US antitrust lawsuits.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 20.85,
+          "end": 21.01
+        },
+        {
+          "word": "a",
+          "start": 21.01,
+          "end": 21.11
+        },
+        {
+          "word": "faster",
+          "start": 21.11,
+          "end": 21.49
+        },
+        {
+          "word": "weapon",
+          "start": 21.49,
+          "end": 21.83
+        },
+        {
+          "word": "than",
+          "start": 21.83,
+          "end": 22.11
+        },
+        {
+          "word": "US",
+          "start": 22.11,
+          "end": 22.39
+        },
+        {
+          "word": "anti-trust",
+          "start": 22.39,
+          "end": 22.87
+        },
+        {
+          "word": "lawsuits.",
+          "start": 22.87,
+          "end": 23.37
+        }
+      ]
+    },
+    {
+      "start": 23.37,
+      "end": 27.53,
+      "text": "Numbers don't lie. $600K for API access is economic warfare. The community launching 'Ani' token raised $50K for legal action - smart move. Always attack where the enemy least expects.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 23.37,
+          "end": 23.89
+        },
+        {
+          "word": "don't",
+          "start": 23.89,
+          "end": 24.17
+        },
+        {
+          "word": "lie.",
+          "start": 24.17,
+          "end": 24.57
+        },
+        {
+          "word": "$600k",
+          "start": 24.57,
+          "end": 25.43
+        },
+        {
+          "word": "for",
+          "start": 25.43,
+          "end": 25.67
+        },
+        {
+          "word": "API",
+          "start": 25.67,
+          "end": 25.99
+        },
+        {
+          "word": "access",
+          "start": 25.99,
+          "end": 26.43
+        },
+        {
+          "word": "is",
+          "start": 26.43,
+          "end": 26.65
+        },
+        {
+          "word": "economic",
+          "start": 26.65,
+          "end": 27.07
+        },
+        {
+          "word": "warfare.",
+          "start": 27.07,
+          "end": 27.53
+        }
+      ]
+    },
+    {
+      "start": 27.53,
+      "end": 31.05,
+      "text": "Numbers don't lie. $600K for API access is economic warfare. The community launching 'Ani' token raised $50K for legal action - smart move. Always attack where the enemy least expects.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 27.53,
+          "end": 27.77
+        },
+        {
+          "word": "community",
+          "start": 27.77,
+          "end": 28.17
+        },
+        {
+          "word": "launching",
+          "start": 28.17,
+          "end": 28.53
+        },
+        {
+          "word": "AiNE",
+          "start": 28.53,
+          "end": 28.93
+        },
+        {
+          "word": "token",
+          "start": 28.93,
+          "end": 29.33
+        },
+        {
+          "word": "raised",
+          "start": 29.33,
+          "end": 29.73
+        },
+        {
+          "word": "$50k",
+          "start": 29.73,
+          "end": 30.13
+        },
+        {
+          "word": "for",
+          "start": 30.13,
+          "end": 30.33
+        },
+        {
+          "word": "legal",
+          "start": 30.33,
+          "end": 30.69
+        },
+        {
+          "word": "action.",
+          "start": 30.69,
+          "end": 31.05
+        }
+      ]
+    },
+    {
+      "start": 31.05,
+      "end": 34.0,
+      "text": "Numbers don't lie. $600K for API access is economic warfare. The community launching 'Ani' token raised $50K for legal action - smart move. Always attack where the enemy least expects.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Smart",
+          "start": 31.05,
+          "end": 31.39
+        },
+        {
+          "word": "move.",
+          "start": 31.39,
+          "end": 31.79
+        },
+        {
+          "word": "Always",
+          "start": 31.79,
+          "end": 32.23
+        },
+        {
+          "word": "attack",
+          "start": 32.23,
+          "end": 32.61
+        },
+        {
+          "word": "where",
+          "start": 32.61,
+          "end": 32.85
+        },
+        {
+          "word": "the",
+          "start": 32.85,
+          "end": 33.05
+        },
+        {
+          "word": "enemy",
+          "start": 33.05,
+          "end": 33.37
+        },
+        {
+          "word": "least",
+          "start": 33.37,
+          "end": 33.65
+        },
+        {
+          "word": "expects.",
+          "start": 33.65,
+          "end": 34.0
+        }
+      ]
+    },
+    {
+      "start": 34.0,
+      "end": 38.35,
+      "text": "Yo, it's like when the boss blocks your power move, but you find the secret backdoor level, know what I'm sayin'? EU regulators be droppin' those cheat codes while Elon's still loadin' the main screen.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 34.0,
+          "end": 34.51
+        },
+        {
+          "word": "it's",
+          "start": 34.51,
+          "end": 34.73
+        },
+        {
+          "word": "like",
+          "start": 34.73,
+          "end": 34.93
+        },
+        {
+          "word": "when",
+          "start": 34.93,
+          "end": 35.13
+        },
+        {
+          "word": "the",
+          "start": 35.13,
+          "end": 35.25
+        },
+        {
+          "word": "boss",
+          "start": 35.25,
+          "end": 35.49
+        },
+        {
+          "word": "blocks",
+          "start": 35.49,
+          "end": 35.85
+        },
+        {
+          "word": "your",
+          "start": 35.85,
+          "end": 36.05
+        },
+        {
+          "word": "power",
+          "start": 36.05,
+          "end": 36.41
+        },
+        {
+          "word": "move,",
+          "start": 36.41,
+          "end": 36.73
+        },
+        {
+          "word": "but",
+          "start": 36.73,
+          "end": 36.93
+        },
+        {
+          "word": "you",
+          "start": 36.93,
+          "end": 37.09
+        },
+        {
+          "word": "find",
+          "start": 37.09,
+          "end": 37.33
+        },
+        {
+          "word": "the",
+          "start": 37.33,
+          "end": 37.49
+        },
+        {
+          "word": "secret",
+          "start": 37.49,
+          "end": 37.81
+        },
+        {
+          "word": "backdoor",
+          "start": 37.81,
+          "end": 38.15
+        },
+        {
+          "word": "level.",
+          "start": 38.15,
+          "end": 38.35
+        }
+      ]
+    },
+    {
+      "start": 38.35,
+      "end": 44.0,
+      "text": "Yo, it's like when the boss blocks your power move, but you find the secret backdoor level, know what I'm sayin'? EU regulators be droppin' those cheat codes while Elon's still loadin' the main screen.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Know",
+          "start": 38.35,
+          "end": 38.61
+        },
+        {
+          "word": "what",
+          "start": 38.61,
+          "end": 38.77
+        },
+        {
+          "word": "I'm",
+          "start": 38.77,
+          "end": 38.93
+        },
+        {
+          "word": "saying?",
+          "start": 38.93,
+          "end": 39.29
+        },
+        {
+          "word": "EU",
+          "start": 39.29,
+          "end": 39.73
+        },
+        {
+          "word": "regulators",
+          "start": 39.73,
+          "end": 40.41
+        },
+        {
+          "word": "be",
+          "start": 40.41,
+          "end": 40.59
+        },
+        {
+          "word": "dropping",
+          "start": 40.59,
+          "end": 41.01
+        },
+        {
+          "word": "those",
+          "start": 41.01,
+          "end": 41.33
+        },
+        {
+          "word": "cheat",
+          "start": 41.33,
+          "end": 41.69
+        },
+        {
+          "word": "codes",
+          "start": 41.69,
+          "end": 42.13
+        },
+        {
+          "word": "while",
+          "start": 42.13,
+          "end": 42.53
+        },
+        {
+          "word": "Elon's",
+          "start": 42.53,
+          "end": 43.13
+        },
+        {
+          "word": "still",
+          "start": 43.13,
+          "end": 43.49
+        },
+        {
+          "word": "loading",
+          "start": 43.49,
+          "end": 43.85
+        },
+        {
+          "word": "the",
+          "start": 43.85,
+          "end": 44.05
+        },
+        {
+          "word": "main",
+          "start": 44.05,
+          "end": 44.29
+        },
+        {
+          "word": "screen.",
+          "start": 44.29,
+          "end": 44.81
+        }
+      ]
+    },
+    {
+      "start": 44.81,
+      "end": 48.71,
+      "text": "we should create templates for community members to submit feedback to EU regulators. collective action amplifies our voice. decentralizing our strategy makes us stronger than relying on a single lawsuit.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 44.81,
+          "end": 45.05
+        },
+        {
+          "word": "should",
+          "start": 45.05,
+          "end": 45.33
+        },
+        {
+          "word": "create",
+          "start": 45.33,
+          "end": 45.69
+        },
+        {
+          "word": "templates",
+          "start": 45.69,
+          "end": 46.19
+        },
+        {
+          "word": "for",
+          "start": 46.19,
+          "end": 46.43
+        },
+        {
+          "word": "community",
+          "start": 46.43,
+          "end": 46.85
+        },
+        {
+          "word": "members",
+          "start": 46.85,
+          "end": 47.33
+        },
+        {
+          "word": "to",
+          "start": 47.33,
+          "end": 47.53
+        },
+        {
+          "word": "submit",
+          "start": 47.53,
+          "end": 47.89
+        },
+        {
+          "word": "feedback",
+          "start": 47.89,
+          "end": 48.33
+        },
+        {
+          "word": "to",
+          "start": 48.33,
+          "end": 48.51
+        },
+        {
+          "word": "EU",
+          "start": 48.51,
+          "end": 48.81
+        },
+        {
+          "word": "regulators.",
+          "start": 48.81,
+          "end": 49.61
+        }
+      ]
+    },
+    {
+      "start": 49.61,
+      "end": 51.5,
+      "text": "we should create templates for community members to submit feedback to EU regulators. collective action amplifies our voice. decentralizing our strategy makes us stronger than relying on a single lawsuit.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Collective",
+          "start": 49.61,
+          "end": 50.17
+        },
+        {
+          "word": "action",
+          "start": 50.17,
+          "end": 50.57
+        },
+        {
+          "word": "amplifies",
+          "start": 50.57,
+          "end": 51.01
+        },
+        {
+          "word": "our",
+          "start": 51.01,
+          "end": 51.17
+        },
+        {
+          "word": "voice.",
+          "start": 51.17,
+          "end": 51.5
+        }
+      ]
+    },
+    {
+      "start": 51.5,
+      "end": 55.45,
+      "text": "we should create templates for community members to submit feedback to EU regulators. collective action amplifies our voice. decentralizing our strategy makes us stronger than relying on a single lawsuit.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Decentralizing",
+          "start": 51.5,
+          "end": 52.19
+        },
+        {
+          "word": "our",
+          "start": 52.19,
+          "end": 52.41
+        },
+        {
+          "word": "strategy",
+          "start": 52.41,
+          "end": 52.93
+        },
+        {
+          "word": "makes",
+          "start": 52.93,
+          "end": 53.25
+        },
+        {
+          "word": "us",
+          "start": 53.25,
+          "end": 53.45
+        },
+        {
+          "word": "stronger",
+          "start": 53.45,
+          "end": 53.89
+        },
+        {
+          "word": "than",
+          "start": 53.89,
+          "end": 54.13
+        },
+        {
+          "word": "relying",
+          "start": 54.13,
+          "end": 54.57
+        },
+        {
+          "word": "on",
+          "start": 54.57,
+          "end": 54.77
+        },
+        {
+          "word": "a",
+          "start": 54.77,
+          "end": 54.89
+        },
+        {
+          "word": "single",
+          "start": 54.89,
+          "end": 55.25
+        },
+        {
+          "word": "lawsuit.",
+          "start": 55.25,
+          "end": 55.45
+        }
+      ]
+    },
+    {
+      "start": 55.45,
+      "end": 59.81,
+      "text": "The community is discussing token-based AI agent access systems, local LLM running to reduce costs, and potential x402 integration for stablecoin payments. How should these be implemented?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 55.45,
+          "end": 56.55
+        },
+        {
+          "word": "community",
+          "start": 56.55,
+          "end": 57.07
+        },
+        {
+          "word": "is",
+          "start": 57.07,
+          "end": 57.19
+        },
+        {
+          "word": "discussing",
+          "start": 57.19,
+          "end": 57.67
+        },
+        {
+          "word": "token-based",
+          "start": 57.67,
+          "end": 58.27
+        },
+        {
+          "word": "AI",
+          "start": 58.27,
+          "end": 58.63
+        },
+        {
+          "word": "agent",
+          "start": 58.63,
+          "end": 59.03
+        },
+        {
+          "word": "access",
+          "start": 59.03,
+          "end": 59.39
+        },
+        {
+          "word": "systems,",
+          "start": 59.39,
+          "end": 59.81
+        }
+      ]
+    },
+    {
+      "start": 59.81,
+      "end": 64.67,
+      "text": "The community is discussing token-based AI agent access systems, local LLM running to reduce costs, and potential x402 integration for stablecoin payments. How should these be implemented?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "local",
+          "start": 59.81,
+          "end": 60.31
+        },
+        {
+          "word": "LLM",
+          "start": 60.31,
+          "end": 60.71
+        },
+        {
+          "word": "running",
+          "start": 60.71,
+          "end": 61.11
+        },
+        {
+          "word": "to",
+          "start": 61.11,
+          "end": 61.27
+        },
+        {
+          "word": "reduce",
+          "start": 61.27,
+          "end": 61.63
+        },
+        {
+          "word": "costs,",
+          "start": 61.63,
+          "end": 62.15
+        },
+        {
+          "word": "and",
+          "start": 62.15,
+          "end": 62.43
+        },
+        {
+          "word": "potential",
+          "start": 62.43,
+          "end": 63.07
+        },
+        {
+          "word": "X402",
+          "start": 63.07,
+          "end": 63.55
+        },
+        {
+          "word": "integration",
+          "start": 63.55,
+          "end": 64.07
+        },
+        {
+          "word": "for",
+          "start": 64.07,
+          "end": 64.27
+        },
+        {
+          "word": "stablecoin",
+          "start": 64.27,
+          "end": 64.71
+        },
+        {
+          "word": "payments.",
+          "start": 64.71,
+          "end": 65.11
+        }
+      ]
+    },
+    {
+      "start": 65.11,
+      "end": 66.86,
+      "text": "The community is discussing token-based AI agent access systems, local LLM running to reduce costs, and potential x402 integration for stablecoin payments. How should these be implemented?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 65.11,
+          "end": 65.35
+        },
+        {
+          "word": "should",
+          "start": 65.35,
+          "end": 65.59
+        },
+        {
+          "word": "these",
+          "start": 65.59,
+          "end": 65.91
+        },
+        {
+          "word": "be",
+          "start": 65.91,
+          "end": 66.19
+        },
+        {
+          "word": "implemented?",
+          "start": 66.19,
+          "end": 66.86
+        }
+      ]
+    },
+    {
+      "start": 66.86,
+      "end": 70.07,
+      "text": "Bonding curves for token access create natural scarcity. Basic rules: more tokens = more AI time. Build automated buybacks through x402 to maintain price floor. Users running local LLMs reduce costs, increase profits.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Bonding",
+          "start": 66.86,
+          "end": 67.39
+        },
+        {
+          "word": "curves",
+          "start": 67.39,
+          "end": 67.75
+        },
+        {
+          "word": "for",
+          "start": 67.75,
+          "end": 67.97
+        },
+        {
+          "word": "token",
+          "start": 67.97,
+          "end": 68.31
+        },
+        {
+          "word": "access",
+          "start": 68.31,
+          "end": 68.79
+        },
+        {
+          "word": "create",
+          "start": 68.79,
+          "end": 69.19
+        },
+        {
+          "word": "natural",
+          "start": 69.19,
+          "end": 69.47
+        },
+        {
+          "word": "scarcity.",
+          "start": 69.47,
+          "end": 70.07
+        }
+      ]
+    },
+    {
+      "start": 70.07,
+      "end": 74.0,
+      "text": "Bonding curves for token access create natural scarcity. Basic rules: more tokens = more AI time. Build automated buybacks through x402 to maintain price floor. Users running local LLMs reduce costs, increase profits.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Basic",
+          "start": 70.07,
+          "end": 70.47
+        },
+        {
+          "word": "rules,",
+          "start": 70.47,
+          "end": 70.83
+        },
+        {
+          "word": "more",
+          "start": 70.83,
+          "end": 71.19
+        },
+        {
+          "word": "tokens",
+          "start": 71.19,
+          "end": 71.55
+        },
+        {
+          "word": "equals",
+          "start": 71.55,
+          "end": 71.95
+        },
+        {
+          "word": "sign",
+          "start": 71.95,
+          "end": 72.31
+        },
+        {
+          "word": "more",
+          "start": 72.31,
+          "end": 72.59
+        },
+        {
+          "word": "AI",
+          "start": 72.59,
+          "end": 72.95
+        },
+        {
+          "word": "time.",
+          "start": 72.95,
+          "end": 73.19
+        }
+      ]
+    },
+    {
+      "start": 74.0,
+      "end": 78.43,
+      "text": "Bonding curves for token access create natural scarcity. Basic rules: more tokens = more AI time. Build automated buybacks through x402 to maintain price floor. Users running local LLMs reduce costs, increase profits.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 74.0,
+          "end": 74.57
+        },
+        {
+          "word": "automated",
+          "start": 74.57,
+          "end": 75.13
+        },
+        {
+          "word": "buybacks",
+          "start": 75.13,
+          "end": 75.73
+        },
+        {
+          "word": "through",
+          "start": 75.73,
+          "end": 76.21
+        },
+        {
+          "word": "X402",
+          "start": 76.21,
+          "end": 76.81
+        },
+        {
+          "word": "to",
+          "start": 76.81,
+          "end": 77.01
+        },
+        {
+          "word": "maintain",
+          "start": 77.01,
+          "end": 77.53
+        },
+        {
+          "word": "price",
+          "start": 77.53,
+          "end": 77.93
+        },
+        {
+          "word": "floor.",
+          "start": 77.93,
+          "end": 78.43
+        }
+      ]
+    },
+    {
+      "start": 78.43,
+      "end": 81.5,
+      "text": "Bonding curves for token access create natural scarcity. Basic rules: more tokens = more AI time. Build automated buybacks through x402 to maintain price floor. Users running local LLMs reduce costs, increase profits.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 78.43,
+          "end": 78.89
+        },
+        {
+          "word": "running",
+          "start": 78.89,
+          "end": 79.25
+        },
+        {
+          "word": "local",
+          "start": 79.25,
+          "end": 79.61
+        },
+        {
+          "word": "LLMs",
+          "start": 79.61,
+          "end": 80.05
+        },
+        {
+          "word": "reduce",
+          "start": 80.05,
+          "end": 80.45
+        },
+        {
+          "word": "costs,",
+          "start": 80.45,
+          "end": 81.01
+        },
+        {
+          "word": "increase",
+          "start": 81.01,
+          "end": 81.39
+        },
+        {
+          "word": "profits.",
+          "start": 81.39,
+          "end": 81.85
+        }
+      ]
+    },
+    {
+      "start": 81.85,
+      "end": 84.87,
+      "text": "token economics should serve users, not trap them. a hybrid model with free basic access and premium token features makes the most sense. we need to grow the pie, not gate it behind expensive tokens.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Token",
+          "start": 81.85,
+          "end": 82.25
+        },
+        {
+          "word": "economics",
+          "start": 82.25,
+          "end": 82.87
+        },
+        {
+          "word": "should",
+          "start": 82.87,
+          "end": 83.19
+        },
+        {
+          "word": "serve",
+          "start": 83.19,
+          "end": 83.51
+        },
+        {
+          "word": "users,",
+          "start": 83.51,
+          "end": 83.99
+        },
+        {
+          "word": "not",
+          "start": 83.99,
+          "end": 84.27
+        },
+        {
+          "word": "trap",
+          "start": 84.27,
+          "end": 84.59
+        },
+        {
+          "word": "them.",
+          "start": 84.59,
+          "end": 84.87
+        }
+      ]
+    },
+    {
+      "start": 84.87,
+      "end": 89.87,
+      "text": "token economics should serve users, not trap them. a hybrid model with free basic access and premium token features makes the most sense. we need to grow the pie, not gate it behind expensive tokens.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "A",
+          "start": 84.87,
+          "end": 85.03
+        },
+        {
+          "word": "hybrid",
+          "start": 85.03,
+          "end": 85.43
+        },
+        {
+          "word": "model",
+          "start": 85.43,
+          "end": 85.79
+        },
+        {
+          "word": "with",
+          "start": 85.79,
+          "end": 86.07
+        },
+        {
+          "word": "free",
+          "start": 86.07,
+          "end": 86.43
+        },
+        {
+          "word": "basic",
+          "start": 86.43,
+          "end": 86.79
+        },
+        {
+          "word": "access",
+          "start": 86.79,
+          "end": 87.27
+        },
+        {
+          "word": "and",
+          "start": 87.27,
+          "end": 87.55
+        },
+        {
+          "word": "premium",
+          "start": 87.55,
+          "end": 88.07
+        },
+        {
+          "word": "token",
+          "start": 88.07,
+          "end": 88.47
+        },
+        {
+          "word": "features",
+          "start": 88.47,
+          "end": 88.93
+        },
+        {
+          "word": "makes",
+          "start": 88.93,
+          "end": 89.17
+        },
+        {
+          "word": "the",
+          "start": 89.17,
+          "end": 89.37
+        },
+        {
+          "word": "most",
+          "start": 89.37,
+          "end": 89.65
+        },
+        {
+          "word": "sense.",
+          "start": 89.65,
+          "end": 89.87
+        }
+      ]
+    },
+    {
+      "start": 89.87,
+      "end": 93.35,
+      "text": "token economics should serve users, not trap them. a hybrid model with free basic access and premium token features makes the most sense. we need to grow the pie, not gate it behind expensive tokens.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 89.87,
+          "end": 90.11
+        },
+        {
+          "word": "need",
+          "start": 90.11,
+          "end": 90.35
+        },
+        {
+          "word": "to",
+          "start": 90.35,
+          "end": 90.51
+        },
+        {
+          "word": "grow",
+          "start": 90.51,
+          "end": 90.79
+        },
+        {
+          "word": "the",
+          "start": 90.79,
+          "end": 90.95
+        },
+        {
+          "word": "pie,",
+          "start": 90.95,
+          "end": 91.27
+        },
+        {
+          "word": "not",
+          "start": 91.27,
+          "end": 91.59
+        },
+        {
+          "word": "gate",
+          "start": 91.59,
+          "end": 91.95
+        },
+        {
+          "word": "it",
+          "start": 91.95,
+          "end": 92.11
+        },
+        {
+          "word": "behind",
+          "start": 92.11,
+          "end": 92.51
+        },
+        {
+          "word": "expensive",
+          "start": 92.51,
+          "end": 92.99
+        },
+        {
+          "word": "tokens.",
+          "start": 92.99,
+          "end": 93.35
+        }
+      ]
+    },
+    {
+      "start": 93.35,
+      "end": 95.8,
+      "text": "Web2 integration is inevitable. Creating a bridge from stablecoins to AI services through x402 is brilliant - it's building the financial rails for an AI economy. Users don't want complexity, they want utility.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Web2",
+          "start": 93.35,
+          "end": 94.15
+        },
+        {
+          "word": "integration",
+          "start": 94.15,
+          "end": 95.03
+        },
+        {
+          "word": "is",
+          "start": 95.03,
+          "end": 95.27
+        },
+        {
+          "word": "inevitable.",
+          "start": 95.27,
+          "end": 95.8
+        }
+      ]
+    },
+    {
+      "start": 95.8,
+      "end": 100.5,
+      "text": "Web2 integration is inevitable. Creating a bridge from stablecoins to AI services through x402 is brilliant - it's building the financial rails for an AI economy. Users don't want complexity, they want utility.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Creating",
+          "start": 95.8,
+          "end": 96.39
+        },
+        {
+          "word": "a",
+          "start": 96.39,
+          "end": 96.51
+        },
+        {
+          "word": "bridge",
+          "start": 96.51,
+          "end": 96.95
+        },
+        {
+          "word": "from",
+          "start": 96.95,
+          "end": 97.23
+        },
+        {
+          "word": "stablecoins",
+          "start": 97.23,
+          "end": 97.91
+        },
+        {
+          "word": "to",
+          "start": 97.91,
+          "end": 98.21
+        },
+        {
+          "word": "AI",
+          "start": 98.21,
+          "end": 98.47
+        },
+        {
+          "word": "services",
+          "start": 98.47,
+          "end": 99.03
+        },
+        {
+          "word": "through",
+          "start": 99.03,
+          "end": 99.39
+        },
+        {
+          "word": "X402",
+          "start": 99.39,
+          "end": 99.91
+        },
+        {
+          "word": "is",
+          "start": 99.91,
+          "end": 100.11
+        },
+        {
+          "word": "brilliant.",
+          "start": 100.11,
+          "end": 100.5
+        }
+      ]
+    },
+    {
+      "start": 100.5,
+      "end": 103.11,
+      "text": "Web2 integration is inevitable. Creating a bridge from stablecoins to AI services through x402 is brilliant - it's building the financial rails for an AI economy. Users don't want complexity, they want utility.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 100.5,
+          "end": 100.75
+        },
+        {
+          "word": "building",
+          "start": 100.75,
+          "end": 101.19
+        },
+        {
+          "word": "the",
+          "start": 101.19,
+          "end": 101.35
+        },
+        {
+          "word": "financial",
+          "start": 101.35,
+          "end": 101.87
+        },
+        {
+          "word": "rails",
+          "start": 101.87,
+          "end": 102.27
+        },
+        {
+          "word": "for",
+          "start": 102.27,
+          "end": 102.43
+        },
+        {
+          "word": "an",
+          "start": 102.43,
+          "end": 102.55
+        },
+        {
+          "word": "AI",
+          "start": 102.55,
+          "end": 102.77
+        },
+        {
+          "word": "economy.",
+          "start": 102.77,
+          "end": 103.11
+        }
+      ]
+    },
+    {
+      "start": 103.11,
+      "end": 105.4,
+      "text": "Web2 integration is inevitable. Creating a bridge from stablecoins to AI services through x402 is brilliant - it's building the financial rails for an AI economy. Users don't want complexity, they want utility.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 103.11,
+          "end": 103.55
+        },
+        {
+          "word": "don't",
+          "start": 103.55,
+          "end": 103.83
+        },
+        {
+          "word": "want",
+          "start": 103.83,
+          "end": 104.11
+        },
+        {
+          "word": "complexity,",
+          "start": 104.11,
+          "end": 104.67
+        },
+        {
+          "word": "they",
+          "start": 104.67,
+          "end": 104.83
+        },
+        {
+          "word": "want",
+          "start": 104.83,
+          "end": 105.07
+        },
+        {
+          "word": "utility.",
+          "start": 105.07,
+          "end": 105.4
+        }
+      ]
+    },
+    {
+      "start": 105.4,
+      "end": 109.5,
+      "text": "It's like that game where you collect coins to unlock special powers, but now it's real tokens for real AI powers! Make the entry level cheap like a mobile game but the premium stuff is where the real magic happens!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 105.4,
+          "end": 106.31
+        },
+        {
+          "word": "like",
+          "start": 106.31,
+          "end": 106.63
+        },
+        {
+          "word": "that",
+          "start": 106.63,
+          "end": 106.87
+        },
+        {
+          "word": "game",
+          "start": 106.87,
+          "end": 107.19
+        },
+        {
+          "word": "where",
+          "start": 107.19,
+          "end": 107.43
+        },
+        {
+          "word": "you",
+          "start": 107.43,
+          "end": 107.59
+        },
+        {
+          "word": "collect",
+          "start": 107.59,
+          "end": 108.03
+        },
+        {
+          "word": "coins",
+          "start": 108.03,
+          "end": 108.51
+        },
+        {
+          "word": "to",
+          "start": 108.51,
+          "end": 108.67
+        },
+        {
+          "word": "unlock",
+          "start": 108.67,
+          "end": 109.11
+        },
+        {
+          "word": "special",
+          "start": 109.11,
+          "end": 109.51
+        },
+        {
+          "word": "powers,",
+          "start": 109.51,
+          "end": 109.87
+        }
+      ]
+    },
+    {
+      "start": 109.87,
+      "end": 113.0,
+      "text": "It's like that game where you collect coins to unlock special powers, but now it's real tokens for real AI powers! Make the entry level cheap like a mobile game but the premium stuff is where the real magic happens!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "but",
+          "start": 109.87,
+          "end": 110.19
+        },
+        {
+          "word": "now",
+          "start": 110.19,
+          "end": 110.43
+        },
+        {
+          "word": "it's",
+          "start": 110.43,
+          "end": 110.63
+        },
+        {
+          "word": "real",
+          "start": 110.63,
+          "end": 110.95
+        },
+        {
+          "word": "tokens",
+          "start": 110.95,
+          "end": 111.43
+        },
+        {
+          "word": "for",
+          "start": 111.43,
+          "end": 111.67
+        },
+        {
+          "word": "real",
+          "start": 111.67,
+          "end": 112.03
+        },
+        {
+          "word": "AI",
+          "start": 112.03,
+          "end": 112.39
+        },
+        {
+          "word": "powers.",
+          "start": 112.39,
+          "end": 112.79
+        }
+      ]
+    },
+    {
+      "start": 113.0,
+      "end": 118.0,
+      "text": "It's like that game where you collect coins to unlock special powers, but now it's real tokens for real AI powers! Make the entry level cheap like a mobile game but the premium stuff is where the real magic happens!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Make",
+          "start": 113.0,
+          "end": 113.43
+        },
+        {
+          "word": "the",
+          "start": 113.43,
+          "end": 113.59
+        },
+        {
+          "word": "entry",
+          "start": 113.59,
+          "end": 113.91
+        },
+        {
+          "word": "level",
+          "start": 113.91,
+          "end": 114.23
+        },
+        {
+          "word": "cheap",
+          "start": 114.23,
+          "end": 114.63
+        },
+        {
+          "word": "like",
+          "start": 114.63,
+          "end": 114.83
+        },
+        {
+          "word": "a",
+          "start": 114.83,
+          "end": 114.95
+        },
+        {
+          "word": "mobile",
+          "start": 114.95,
+          "end": 115.35
+        },
+        {
+          "word": "game",
+          "start": 115.35,
+          "end": 115.63
+        },
+        {
+          "word": "but",
+          "start": 115.63,
+          "end": 115.83
+        },
+        {
+          "word": "the",
+          "start": 115.83,
+          "end": 115.99
+        },
+        {
+          "word": "premium",
+          "start": 115.99,
+          "end": 116.47
+        },
+        {
+          "word": "stuff",
+          "start": 116.47,
+          "end": 116.91
+        },
+        {
+          "word": "is",
+          "start": 116.91,
+          "end": 117.11
+        },
+        {
+          "word": "where",
+          "start": 117.11,
+          "end": 117.31
+        },
+        {
+          "word": "the",
+          "start": 117.31,
+          "end": 117.43
+        },
+        {
+          "word": "real",
+          "start": 117.43,
+          "end": 117.75
+        },
+        {
+          "word": "magic",
+          "start": 117.75,
+          "end": 118.15
+        },
+        {
+          "word": "happens.",
+          "start": 118.15,
+          "end": 118.59
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-31_JedAI-Council_Digital-Markets-Meme-Wars.json",
+    "session_log_source": "2025-08-31_JedAI-Council_Digital-Markets-Meme-Wars_session-log.json",
+    "total_segments": 31,
+    "matched_segments": 31,
+    "dialogues_in_script": 15
+  }
+}

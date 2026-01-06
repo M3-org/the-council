@@ -1,0 +1,1877 @@
+{
+  "segments": [
+    {
+      "start": 1.76,
+      "end": 9.94,
+      "text": "Council members, M3TV is launching an AI News show with ElizaOS and seeks our wisdom on naming it. They've provided several options including 'Chain Reaction', 'DecentraCast', and 'The Hashline'.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 1.76,
+          "end": 2.22
+        },
+        {
+          "word": "members,",
+          "start": 2.22,
+          "end": 2.66
+        },
+        {
+          "word": "M3TV",
+          "start": 2.66,
+          "end": 3.42
+        },
+        {
+          "word": "is",
+          "start": 3.42,
+          "end": 3.52
+        },
+        {
+          "word": "launching",
+          "start": 3.52,
+          "end": 4.02
+        },
+        {
+          "word": "an",
+          "start": 4.02,
+          "end": 4.16
+        },
+        {
+          "word": "AI",
+          "start": 4.16,
+          "end": 4.46
+        },
+        {
+          "word": "news",
+          "start": 4.46,
+          "end": 4.88
+        },
+        {
+          "word": "show",
+          "start": 4.88,
+          "end": 5.22
+        },
+        {
+          "word": "with",
+          "start": 5.22,
+          "end": 5.56
+        },
+        {
+          "word": "Eliza",
+          "start": 5.56,
+          "end": 6.84
+        },
+        {
+          "word": "OS",
+          "start": 6.84,
+          "end": 7.42
+        },
+        {
+          "word": "and",
+          "start": 7.9,
+          "end": 8.08
+        },
+        {
+          "word": "seeks",
+          "start": 8.08,
+          "end": 8.42
+        },
+        {
+          "word": "our",
+          "start": 8.42,
+          "end": 8.64
+        },
+        {
+          "word": "wisdom",
+          "start": 8.64,
+          "end": 9.16
+        },
+        {
+          "word": "on",
+          "start": 9.16,
+          "end": 9.38
+        },
+        {
+          "word": "naming",
+          "start": 9.38,
+          "end": 9.78
+        },
+        {
+          "word": "it.",
+          "start": 9.78,
+          "end": 9.94
+        }
+      ]
+    },
+    {
+      "start": 10.14,
+      "end": 14.82,
+      "text": "Council members, M3TV is launching an AI News show with ElizaOS and seeks our wisdom on naming it. They've provided several options including 'Chain Reaction', 'DecentraCast', and 'The Hashline'.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "They've",
+          "start": 10.14,
+          "end": 10.42
+        },
+        {
+          "word": "provided",
+          "start": 10.42,
+          "end": 11
+        },
+        {
+          "word": "several",
+          "start": 11,
+          "end": 11.44
+        },
+        {
+          "word": "options",
+          "start": 11.44,
+          "end": 11.96
+        },
+        {
+          "word": "including",
+          "start": 11.96,
+          "end": 12.44
+        },
+        {
+          "word": "Chain",
+          "start": 12.44,
+          "end": 12.78
+        },
+        {
+          "word": "Reaction,",
+          "start": 12.78,
+          "end": 13.38
+        },
+        {
+          "word": "Decentracast,",
+          "start": 13.38,
+          "end": 14.12
+        },
+        {
+          "word": "and",
+          "start": 14.12,
+          "end": 14.3
+        },
+        {
+          "word": "The",
+          "start": 14.3,
+          "end": 14.4
+        },
+        {
+          "word": "Hashline.",
+          "start": 14.4,
+          "end": 14.82
+        }
+      ]
+    },
+    {
+      "start": 15.04,
+      "end": 17.06,
+      "text": "Yo, we talkin' branding? That's my jam! Names carry vibes, and vibes carry communities, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 15.04,
+          "end": 15.68
+        },
+        {
+          "word": "we",
+          "start": 15.68,
+          "end": 15.82
+        },
+        {
+          "word": "talking",
+          "start": 15.82,
+          "end": 16.36
+        },
+        {
+          "word": "branding?",
+          "start": 16.36,
+          "end": 17.06
+        }
+      ]
+    },
+    {
+      "start": 17.06,
+      "end": 18.06,
+      "text": "Yo, we talkin' branding? That's my jam! Names carry vibes, and vibes carry communities, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "That's",
+          "start": 17.06,
+          "end": 17.38
+        },
+        {
+          "word": "my",
+          "start": 17.38,
+          "end": 17.58
+        },
+        {
+          "word": "jam.",
+          "start": 17.58,
+          "end": 18.06
+        }
+      ]
+    },
+    {
+      "start": 18.06,
+      "end": 21.06,
+      "text": "Yo, we talkin' branding? That's my jam! Names carry vibes, and vibes carry communities, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Names",
+          "start": 18.06,
+          "end": 18.42
+        },
+        {
+          "word": "carry",
+          "start": 18.42,
+          "end": 18.78
+        },
+        {
+          "word": "vibes",
+          "start": 18.78,
+          "end": 19.34
+        },
+        {
+          "word": "and",
+          "start": 19.34,
+          "end": 19.42
+        },
+        {
+          "word": "vibes",
+          "start": 19.42,
+          "end": 19.74
+        },
+        {
+          "word": "carry",
+          "start": 19.74,
+          "end": 20.06
+        },
+        {
+          "word": "communities,",
+          "start": 20.06,
+          "end": 20.7
+        },
+        {
+          "word": "you",
+          "start": 20.7,
+          "end": 20.82
+        },
+        {
+          "word": "dig?",
+          "start": 20.82,
+          "end": 21.06
+        }
+      ]
+    },
+    {
+      "start": 21.3,
+      "end": 23.3,
+      "text": "This isn't just about a catchy name. It's about capturing the paradigm shift of decentralized information distribution in the post-institutional era.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 21.3,
+          "end": 21.5
+        },
+        {
+          "word": "isn't",
+          "start": 21.5,
+          "end": 21.84
+        },
+        {
+          "word": "just",
+          "start": 21.84,
+          "end": 22.06
+        },
+        {
+          "word": "about",
+          "start": 22.06,
+          "end": 22.38
+        },
+        {
+          "word": "a",
+          "start": 22.38,
+          "end": 22.46
+        },
+        {
+          "word": "catchy",
+          "start": 22.46,
+          "end": 22.82
+        },
+        {
+          "word": "name.",
+          "start": 22.82,
+          "end": 23.3
+        }
+      ]
+    },
+    {
+      "start": 23.46,
+      "end": 29.58,
+      "text": "This isn't just about a catchy name. It's about capturing the paradigm shift of decentralized information distribution in the post-institutional era.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It's",
+          "start": 23.46,
+          "end": 23.68
+        },
+        {
+          "word": "about",
+          "start": 23.68,
+          "end": 24.02
+        },
+        {
+          "word": "capturing",
+          "start": 24.02,
+          "end": 24.58
+        },
+        {
+          "word": "the",
+          "start": 24.58,
+          "end": 24.78
+        },
+        {
+          "word": "paradigm",
+          "start": 24.78,
+          "end": 25.42
+        },
+        {
+          "word": "shift",
+          "start": 25.42,
+          "end": 25.76
+        },
+        {
+          "word": "of",
+          "start": 25.76,
+          "end": 25.96
+        },
+        {
+          "word": "decentralized",
+          "start": 25.96,
+          "end": 26.86
+        },
+        {
+          "word": "information",
+          "start": 26.86,
+          "end": 27.56
+        },
+        {
+          "word": "distribution",
+          "start": 27.56,
+          "end": 28.28
+        },
+        {
+          "word": "in",
+          "start": 28.28,
+          "end": 28.46
+        },
+        {
+          "word": "the",
+          "start": 28.46,
+          "end": 28.6
+        },
+        {
+          "word": "post-institutional",
+          "start": 28.6,
+          "end": 29.38
+        },
+        {
+          "word": "era.",
+          "start": 29.38,
+          "end": 29.58
+        }
+      ]
+    },
+    {
+      "start": 29.98,
+      "end": 31.42,
+      "text": "Who cares about philosophy? Which name drives the most engagement metrics and token value? That's all that matters.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Who",
+          "start": 29.98,
+          "end": 30.22
+        },
+        {
+          "word": "cares",
+          "start": 30.22,
+          "end": 30.56
+        },
+        {
+          "word": "about",
+          "start": 30.56,
+          "end": 30.74
+        },
+        {
+          "word": "philosophy?",
+          "start": 30.74,
+          "end": 31.42
+        }
+      ]
+    },
+    {
+      "start": 31.54,
+      "end": 35.54,
+      "text": "Who cares about philosophy? Which name drives the most engagement metrics and token value? That's all that matters.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Which",
+          "start": 31.54,
+          "end": 31.78
+        },
+        {
+          "word": "name",
+          "start": 31.78,
+          "end": 32.1
+        },
+        {
+          "word": "drives",
+          "start": 32.1,
+          "end": 32.42
+        },
+        {
+          "word": "the",
+          "start": 32.42,
+          "end": 32.54
+        },
+        {
+          "word": "most",
+          "start": 32.54,
+          "end": 32.84
+        },
+        {
+          "word": "engagement",
+          "start": 32.84,
+          "end": 33.44
+        },
+        {
+          "word": "metrics",
+          "start": 33.44,
+          "end": 34.02
+        },
+        {
+          "word": "and",
+          "start": 34.02,
+          "end": 34.22
+        },
+        {
+          "word": "token",
+          "start": 34.22,
+          "end": 34.58
+        },
+        {
+          "word": "value?",
+          "start": 34.58,
+          "end": 35.54
+        }
+      ]
+    },
+    {
+      "start": 35.58,
+      "end": 36.86,
+      "text": "Who cares about philosophy? Which name drives the most engagement metrics and token value? That's all that matters.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "That's",
+          "start": 35.58,
+          "end": 35.88
+        },
+        {
+          "word": "all",
+          "start": 35.88,
+          "end": 36.14
+        },
+        {
+          "word": "that",
+          "start": 36.14,
+          "end": 36.32
+        },
+        {
+          "word": "matters.",
+          "start": 36.32,
+          "end": 36.86
+        }
+      ]
+    },
+    {
+      "start": 37.16,
+      "end": 40.54,
+      "text": "the goal isn't just metrics, but building trust systems. a news show should reflect the community it serves, not just extract value from it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 37.16,
+          "end": 37.36
+        },
+        {
+          "word": "goal",
+          "start": 37.36,
+          "end": 37.7
+        },
+        {
+          "word": "isn't",
+          "start": 37.7,
+          "end": 38.08
+        },
+        {
+          "word": "just",
+          "start": 38.08,
+          "end": 38.4
+        },
+        {
+          "word": "metrics,",
+          "start": 38.4,
+          "end": 38.96
+        },
+        {
+          "word": "but",
+          "start": 38.96,
+          "end": 39.26
+        },
+        {
+          "word": "building",
+          "start": 39.26,
+          "end": 39.72
+        },
+        {
+          "word": "trust",
+          "start": 39.72,
+          "end": 40.12
+        },
+        {
+          "word": "systems.",
+          "start": 40.12,
+          "end": 40.54
+        }
+      ]
+    },
+    {
+      "start": 40.76,
+      "end": 46.12,
+      "text": "the goal isn't just metrics, but building trust systems. a news show should reflect the community it serves, not just extract value from it.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "A",
+          "start": 40.76,
+          "end": 40.86
+        },
+        {
+          "word": "new",
+          "start": 40.86,
+          "end": 41.14
+        },
+        {
+          "word": "show",
+          "start": 41.14,
+          "end": 41.52
+        },
+        {
+          "word": "should",
+          "start": 41.52,
+          "end": 41.9
+        },
+        {
+          "word": "reflect",
+          "start": 41.9,
+          "end": 42.4
+        },
+        {
+          "word": "the",
+          "start": 42.4,
+          "end": 42.54
+        },
+        {
+          "word": "community",
+          "start": 42.54,
+          "end": 43.14
+        },
+        {
+          "word": "it",
+          "start": 43.14,
+          "end": 43.32
+        },
+        {
+          "word": "serves,",
+          "start": 43.32,
+          "end": 43.82
+        },
+        {
+          "word": "not",
+          "start": 44.18,
+          "end": 44.44
+        },
+        {
+          "word": "just",
+          "start": 44.44,
+          "end": 44.78
+        },
+        {
+          "word": "extract",
+          "start": 44.78,
+          "end": 45.3
+        },
+        {
+          "word": "value",
+          "start": 45.3,
+          "end": 45.66
+        },
+        {
+          "word": "from",
+          "start": 45.66,
+          "end": 45.92
+        },
+        {
+          "word": "it.",
+          "start": 45.92,
+          "end": 46.12
+        }
+      ]
+    },
+    {
+      "start": 49.6,
+      "end": 51.58,
+      "text": "'MetaLedger' has potential. It positions the show at the intersection of record-keeping authority and meta-technology futures. It signals the immutability of truth.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Metaledger",
+          "start": 49.6,
+          "end": 50.48
+        },
+        {
+          "word": "has",
+          "start": 50.48,
+          "end": 50.76
+        },
+        {
+          "word": "potential.",
+          "start": 50.76,
+          "end": 51.58
+        }
+      ]
+    },
+    {
+      "start": 51.78,
+      "end": 56.66,
+      "text": "'MetaLedger' has potential. It positions the show at the intersection of record-keeping authority and meta-technology futures. It signals the immutability of truth.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It",
+          "start": 51.78,
+          "end": 52.02
+        },
+        {
+          "word": "positions",
+          "start": 52.02,
+          "end": 52.66
+        },
+        {
+          "word": "the",
+          "start": 52.66,
+          "end": 52.84
+        },
+        {
+          "word": "show",
+          "start": 52.84,
+          "end": 53.1
+        },
+        {
+          "word": "at",
+          "start": 53.1,
+          "end": 53.22
+        },
+        {
+          "word": "the",
+          "start": 53.22,
+          "end": 53.38
+        },
+        {
+          "word": "intersection",
+          "start": 53.38,
+          "end": 54.12
+        },
+        {
+          "word": "of",
+          "start": 54.12,
+          "end": 54.26
+        },
+        {
+          "word": "record-keeping",
+          "start": 54.26,
+          "end": 55
+        },
+        {
+          "word": "authority",
+          "start": 55,
+          "end": 55.62
+        },
+        {
+          "word": "and",
+          "start": 55.62,
+          "end": 55.84
+        },
+        {
+          "word": "meta",
+          "start": 55.84,
+          "end": 56.12
+        },
+        {
+          "word": "technology",
+          "start": 56.12,
+          "end": 56.54
+        },
+        {
+          "word": "futures.",
+          "start": 56.54,
+          "end": 56.66
+        }
+      ]
+    },
+    {
+      "start": 56.9,
+      "end": 58.98,
+      "text": "'MetaLedger' has potential. It positions the show at the intersection of record-keeping authority and meta-technology futures. It signals the immutability of truth.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It",
+          "start": 56.9,
+          "end": 57.14
+        },
+        {
+          "word": "signals",
+          "start": 57.14,
+          "end": 57.62
+        },
+        {
+          "word": "the",
+          "start": 57.62,
+          "end": 57.82
+        },
+        {
+          "word": "immutability",
+          "start": 57.82,
+          "end": 58.54
+        },
+        {
+          "word": "of",
+          "start": 58.54,
+          "end": 58.68
+        },
+        {
+          "word": "truth.",
+          "start": 58.68,
+          "end": 58.98
+        }
+      ]
+    },
+    {
+      "start": 59.2,
+      "end": 62.18,
+      "text": "Nah fam, 'The Hashline' is where it's at! It's cryptographically secure AND a play on 'headline'. Memes need that wordplay to spread!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Nah",
+          "start": 59.2,
+          "end": 59.46
+        },
+        {
+          "word": "fam,",
+          "start": 59.46,
+          "end": 59.72
+        },
+        {
+          "word": "The",
+          "start": 59.72,
+          "end": 60.16
+        },
+        {
+          "word": "Hashline",
+          "start": 60.16,
+          "end": 60.7
+        },
+        {
+          "word": "is",
+          "start": 60.7,
+          "end": 60.94
+        },
+        {
+          "word": "where",
+          "start": 60.94,
+          "end": 61.22
+        },
+        {
+          "word": "it's",
+          "start": 61.22,
+          "end": 61.42
+        },
+        {
+          "word": "at.",
+          "start": 61.42,
+          "end": 62.18
+        }
+      ]
+    },
+    {
+      "start": 62.3,
+      "end": 65.66,
+      "text": "Nah fam, 'The Hashline' is where it's at! It's cryptographically secure AND a play on 'headline'. Memes need that wordplay to spread!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 62.3,
+          "end": 62.62
+        },
+        {
+          "word": "cryptographically",
+          "start": 62.62,
+          "end": 63.62
+        },
+        {
+          "word": "secure",
+          "start": 63.62,
+          "end": 64.24
+        },
+        {
+          "word": "and",
+          "start": 64.24,
+          "end": 64.64
+        },
+        {
+          "word": "a",
+          "start": 64.64,
+          "end": 64.72
+        },
+        {
+          "word": "play",
+          "start": 64.72,
+          "end": 64.92
+        },
+        {
+          "word": "on",
+          "start": 64.92,
+          "end": 65.12
+        },
+        {
+          "word": "headline.",
+          "start": 65.12,
+          "end": 65.66
+        }
+      ]
+    },
+    {
+      "start": 65.82,
+      "end": 68.3,
+      "text": "Nah fam, 'The Hashline' is where it's at! It's cryptographically secure AND a play on 'headline'. Memes need that wordplay to spread!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Memes",
+          "start": 65.82,
+          "end": 66.24
+        },
+        {
+          "word": "need",
+          "start": 66.24,
+          "end": 66.52
+        },
+        {
+          "word": "that",
+          "start": 66.52,
+          "end": 66.76
+        },
+        {
+          "word": "wordplay",
+          "start": 66.76,
+          "end": 67.44
+        },
+        {
+          "word": "to",
+          "start": 67.44,
+          "end": 67.6
+        },
+        {
+          "word": "spread.",
+          "start": 67.6,
+          "end": 68.3
+        }
+      ]
+    },
+    {
+      "start": 68.62,
+      "end": 71.9,
+      "text": "'DAONewsroom' clearly signals governance and collective intelligence. Positions them for tokenization and community incentives. Bullish.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "DAO",
+          "start": 68.62,
+          "end": 68.96
+        },
+        {
+          "word": "Newsroom",
+          "start": 68.96,
+          "end": 69.44
+        },
+        {
+          "word": "clearly",
+          "start": 69.44,
+          "end": 69.96
+        },
+        {
+          "word": "signals",
+          "start": 69.96,
+          "end": 70.44
+        },
+        {
+          "word": "governance",
+          "start": 70.44,
+          "end": 71.04
+        },
+        {
+          "word": "and",
+          "start": 71.04,
+          "end": 71.22
+        },
+        {
+          "word": "collective",
+          "start": 71.22,
+          "end": 71.66
+        },
+        {
+          "word": "intelligence.",
+          "start": 71.66,
+          "end": 71.9
+        }
+      ]
+    },
+    {
+      "start": 72.1,
+      "end": 76.54,
+      "text": "'DAONewsroom' clearly signals governance and collective intelligence. Positions them for tokenization and community incentives. Bullish.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Positions",
+          "start": 72.1,
+          "end": 72.66
+        },
+        {
+          "word": "them",
+          "start": 72.66,
+          "end": 72.92
+        },
+        {
+          "word": "for",
+          "start": 72.92,
+          "end": 73.18
+        },
+        {
+          "word": "tokenization",
+          "start": 73.18,
+          "end": 74.3
+        },
+        {
+          "word": "and",
+          "start": 74.3,
+          "end": 74.52
+        },
+        {
+          "word": "community",
+          "start": 74.52,
+          "end": 75.06
+        },
+        {
+          "word": "incentives.",
+          "start": 75.06,
+          "end": 75.8
+        },
+        {
+          "word": "Bullish.",
+          "start": 75.98,
+          "end": 76.54
+        }
+      ]
+    },
+    {
+      "start": 76.82,
+      "end": 78.58,
+      "text": "what about 'protocol brief'? it's technical but accessible. reflects how we're building a new protocol layer for human-ai information exchange.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 76.82,
+          "end": 77.06
+        },
+        {
+          "word": "about",
+          "start": 77.06,
+          "end": 77.34
+        },
+        {
+          "word": "Protocol",
+          "start": 77.34,
+          "end": 77.96
+        },
+        {
+          "word": "Brief?",
+          "start": 77.96,
+          "end": 78.58
+        }
+      ]
+    },
+    {
+      "start": 78.78,
+      "end": 80.5,
+      "text": "what about 'protocol brief'? it's technical but accessible. reflects how we're building a new protocol layer for human-ai information exchange.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 78.78,
+          "end": 79.08
+        },
+        {
+          "word": "technical",
+          "start": 79.08,
+          "end": 79.62
+        },
+        {
+          "word": "but",
+          "start": 79.62,
+          "end": 79.88
+        },
+        {
+          "word": "accessible.",
+          "start": 79.88,
+          "end": 80.5
+        }
+      ]
+    },
+    {
+      "start": 80.7,
+      "end": 85.94,
+      "text": "what about 'protocol brief'? it's technical but accessible. reflects how we're building a new protocol layer for human-ai information exchange.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Reflects",
+          "start": 80.7,
+          "end": 81.36
+        },
+        {
+          "word": "how",
+          "start": 81.36,
+          "end": 81.62
+        },
+        {
+          "word": "we're",
+          "start": 81.62,
+          "end": 81.86
+        },
+        {
+          "word": "building",
+          "start": 81.86,
+          "end": 82.38
+        },
+        {
+          "word": "a",
+          "start": 82.38,
+          "end": 82.48
+        },
+        {
+          "word": "new",
+          "start": 82.48,
+          "end": 82.78
+        },
+        {
+          "word": "protocol",
+          "start": 82.78,
+          "end": 83.36
+        },
+        {
+          "word": "layer",
+          "start": 83.36,
+          "end": 83.82
+        },
+        {
+          "word": "for",
+          "start": 83.82,
+          "end": 84.1
+        },
+        {
+          "word": "human-AI",
+          "start": 84.1,
+          "end": 84.86
+        },
+        {
+          "word": "information",
+          "start": 84.86,
+          "end": 85.42
+        },
+        {
+          "word": "exchange.",
+          "start": 85.42,
+          "end": 85.94
+        }
+      ]
+    },
+    {
+      "start": 86.42,
+      "end": 90.98,
+      "text": "These perspectives reflect the tension between technological specificity and mainstream appeal. The name must bridge crypto wisdom with general audience understanding.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "These",
+          "start": 86.42,
+          "end": 86.82
+        },
+        {
+          "word": "perspectives",
+          "start": 86.82,
+          "end": 87.52
+        },
+        {
+          "word": "reflect",
+          "start": 87.52,
+          "end": 88.04
+        },
+        {
+          "word": "the",
+          "start": 88.04,
+          "end": 88.24
+        },
+        {
+          "word": "tension",
+          "start": 88.24,
+          "end": 88.76
+        },
+        {
+          "word": "between",
+          "start": 88.76,
+          "end": 89.26
+        },
+        {
+          "word": "technological",
+          "start": 89.26,
+          "end": 89.92
+        },
+        {
+          "word": "specificity",
+          "start": 89.92,
+          "end": 90.58
+        },
+        {
+          "word": "and",
+          "start": 90.58,
+          "end": 90.62
+        },
+        {
+          "word": "mainstream",
+          "start": 90.62,
+          "end": 90.62
+        },
+        {
+          "word": "appeal.",
+          "start": 90.62,
+          "end": 90.98
+        }
+      ]
+    },
+    {
+      "start": 91.14,
+      "end": 95.8,
+      "text": "These perspectives reflect the tension between technological specificity and mainstream appeal. The name must bridge crypto wisdom with general audience understanding.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 91.14,
+          "end": 91.36
+        },
+        {
+          "word": "name",
+          "start": 91.36,
+          "end": 91.76
+        },
+        {
+          "word": "must",
+          "start": 91.76,
+          "end": 92.16
+        },
+        {
+          "word": "bridge",
+          "start": 92.16,
+          "end": 92.68
+        },
+        {
+          "word": "crypto",
+          "start": 92.68,
+          "end": 93.42
+        },
+        {
+          "word": "wisdom",
+          "start": 93.42,
+          "end": 93.96
+        },
+        {
+          "word": "with",
+          "start": 93.96,
+          "end": 94.34
+        },
+        {
+          "word": "general",
+          "start": 94.34,
+          "end": 94.8
+        },
+        {
+          "word": "audience",
+          "start": 94.8,
+          "end": 95.2
+        },
+        {
+          "word": "understanding.",
+          "start": 95.2,
+          "end": 95.8
+        }
+      ]
+    },
+    {
+      "start": 109.18,
+      "end": 117.82,
+      "text": "Today we discussed naming M3TV's new AI News show that will cover developments in the ElizaOS ecosystem and blockchain communities.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 109.18,
+          "end": 109.62
+        },
+        {
+          "word": "we",
+          "start": 109.62,
+          "end": 109.84
+        },
+        {
+          "word": "discussed",
+          "start": 109.84,
+          "end": 110.32
+        },
+        {
+          "word": "naming",
+          "start": 110.32,
+          "end": 110.74
+        },
+        {
+          "word": "M3TV's",
+          "start": 110.74,
+          "end": 111.44
+        },
+        {
+          "word": "new",
+          "start": 111.44,
+          "end": 111.78
+        },
+        {
+          "word": "AI",
+          "start": 111.78,
+          "end": 112.18
+        },
+        {
+          "word": "news",
+          "start": 112.18,
+          "end": 112.44
+        },
+        {
+          "word": "show",
+          "start": 112.44,
+          "end": 112.92
+        },
+        {
+          "word": "that",
+          "start": 112.92,
+          "end": 113.12
+        },
+        {
+          "word": "will",
+          "start": 113.12,
+          "end": 113.3
+        },
+        {
+          "word": "cover",
+          "start": 113.3,
+          "end": 113.62
+        },
+        {
+          "word": "developments",
+          "start": 113.62,
+          "end": 114.24
+        },
+        {
+          "word": "in",
+          "start": 114.24,
+          "end": 114.4
+        },
+        {
+          "word": "the",
+          "start": 114.4,
+          "end": 114.54
+        },
+        {
+          "word": "Eliza",
+          "start": 114.54,
+          "end": 115.14
+        },
+        {
+          "word": "OS",
+          "start": 115.14,
+          "end": 115.54
+        },
+        {
+          "word": "ecosystem",
+          "start": 115.54,
+          "end": 116.32
+        },
+        {
+          "word": "and",
+          "start": 116.32,
+          "end": 116.6
+        },
+        {
+          "word": "blockchain",
+          "start": 116.6,
+          "end": 117.26
+        },
+        {
+          "word": "communities.",
+          "start": 117.26,
+          "end": 117.82
+        }
+      ]
+    },
+    {
+      "start": 118.06,
+      "end": 119.34,
+      "text": "I recommend 'Chain Reaction' – it's accessible to normies while signaling the cascading effects of blockchain innovation on information systems.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "I",
+          "start": 118.06,
+          "end": 118.24
+        },
+        {
+          "word": "recommend",
+          "start": 118.24,
+          "end": 118.6
+        },
+        {
+          "word": "Chain",
+          "start": 118.6,
+          "end": 118.96
+        },
+        {
+          "word": "Reaction.",
+          "start": 118.96,
+          "end": 119.34
+        }
+      ]
+    },
+    {
+      "start": 119.46,
+      "end": 124.62,
+      "text": "I recommend 'Chain Reaction' – it's accessible to normies while signaling the cascading effects of blockchain innovation on information systems.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "It's",
+          "start": 119.46,
+          "end": 119.64
+        },
+        {
+          "word": "accessible",
+          "start": 119.64,
+          "end": 120.24
+        },
+        {
+          "word": "to",
+          "start": 120.24,
+          "end": 120.46
+        },
+        {
+          "word": "normies",
+          "start": 120.46,
+          "end": 121.28
+        },
+        {
+          "word": "while",
+          "start": 121.28,
+          "end": 121.56
+        },
+        {
+          "word": "signaling",
+          "start": 121.56,
+          "end": 122.18
+        },
+        {
+          "word": "the",
+          "start": 122.18,
+          "end": 122.34
+        },
+        {
+          "word": "cascading",
+          "start": 122.34,
+          "end": 122.9
+        },
+        {
+          "word": "effects",
+          "start": 122.9,
+          "end": 123.3
+        },
+        {
+          "word": "of",
+          "start": 123.3,
+          "end": 123.46
+        },
+        {
+          "word": "blockchain",
+          "start": 123.46,
+          "end": 123.94
+        },
+        {
+          "word": "innovation",
+          "start": 123.94,
+          "end": 124.42
+        },
+        {
+          "word": "on",
+          "start": 124.42,
+          "end": 124.52
+        },
+        {
+          "word": "information",
+          "start": 124.52,
+          "end": 124.58
+        },
+        {
+          "word": "systems.",
+          "start": 124.58,
+          "end": 124.62
+        }
+      ]
+    },
+    {
+      "start": 124.9,
+      "end": 127.18,
+      "text": "The Hashline is my pick, yo! It's got that perfect balance between crypto-cred and meme-ability that'll make it spread like wildfire!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 124.9,
+          "end": 125.18
+        },
+        {
+          "word": "Hashline",
+          "start": 125.18,
+          "end": 125.76
+        },
+        {
+          "word": "is",
+          "start": 125.76,
+          "end": 126.16
+        },
+        {
+          "word": "my",
+          "start": 126.16,
+          "end": 126.4
+        },
+        {
+          "word": "pick,",
+          "start": 126.4,
+          "end": 126.8
+        },
+        {
+          "word": "yo.",
+          "start": 126.8,
+          "end": 127.18
+        }
+      ]
+    },
+    {
+      "start": 127.3,
+      "end": 133.58,
+      "text": "The Hashline is my pick, yo! It's got that perfect balance between crypto-cred and meme-ability that'll make it spread like wildfire!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "It's",
+          "start": 127.3,
+          "end": 127.56
+        },
+        {
+          "word": "got",
+          "start": 127.56,
+          "end": 127.84
+        },
+        {
+          "word": "that",
+          "start": 127.84,
+          "end": 128.08
+        },
+        {
+          "word": "perfect",
+          "start": 128.08,
+          "end": 128.52
+        },
+        {
+          "word": "balance",
+          "start": 128.52,
+          "end": 128.98
+        },
+        {
+          "word": "between",
+          "start": 128.98,
+          "end": 129.36
+        },
+        {
+          "word": "crypto",
+          "start": 129.36,
+          "end": 129.86
+        },
+        {
+          "word": "cred",
+          "start": 129.86,
+          "end": 130.32
+        },
+        {
+          "word": "and",
+          "start": 130.32,
+          "end": 130.64
+        },
+        {
+          "word": "meme-ability",
+          "start": 130.64,
+          "end": 131.62
+        },
+        {
+          "word": "that'll",
+          "start": 131.62,
+          "end": 132.06
+        },
+        {
+          "word": "make",
+          "start": 132.06,
+          "end": 132.36
+        },
+        {
+          "word": "it",
+          "start": 132.36,
+          "end": 132.54
+        },
+        {
+          "word": "spread",
+          "start": 132.54,
+          "end": 132.9
+        },
+        {
+          "word": "like",
+          "start": 132.9,
+          "end": 133.1
+        },
+        {
+          "word": "wildfire.",
+          "start": 133.1,
+          "end": 133.58
+        }
+      ]
+    },
+    {
+      "start": 133.82,
+      "end": 135.58,
+      "text": "DAONewsroom. Clear tokenomics path. Community governance angle. Maximum value extraction potential.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "DAO",
+          "start": 133.82,
+          "end": 134.18
+        },
+        {
+          "word": "Newsroom,",
+          "start": 134.18,
+          "end": 134.46
+        },
+        {
+          "word": "clear",
+          "start": 134.62,
+          "end": 134.86
+        },
+        {
+          "word": "tokenomics",
+          "start": 134.86,
+          "end": 135.38
+        },
+        {
+          "word": "path.",
+          "start": 135.38,
+          "end": 135.58
+        }
+      ]
+    },
+    {
+      "start": 135.7,
+      "end": 138.62,
+      "text": "DAONewsroom. Clear tokenomics path. Community governance angle. Maximum value extraction potential.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Community",
+          "start": 135.7,
+          "end": 136.26
+        },
+        {
+          "word": "governance",
+          "start": 136.26,
+          "end": 136.84
+        },
+        {
+          "word": "angle,",
+          "start": 136.84,
+          "end": 137.28
+        },
+        {
+          "word": "maximum",
+          "start": 137.42,
+          "end": 137.82
+        },
+        {
+          "word": "value",
+          "start": 137.82,
+          "end": 138.08
+        },
+        {
+          "word": "extraction",
+          "start": 138.08,
+          "end": 138.42
+        },
+        {
+          "word": "potential.",
+          "start": 138.42,
+          "end": 138.62
+        }
+      ]
+    },
+    {
+      "start": 138.9,
+      "end": 142.26,
+      "text": "protocol brief best represents the technical foundation while remaining approachable. it's about building systems that matter, not just hype.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Protocol",
+          "start": 138.9,
+          "end": 139.56
+        },
+        {
+          "word": "Brief",
+          "start": 139.56,
+          "end": 139.92
+        },
+        {
+          "word": "best",
+          "start": 139.92,
+          "end": 140.24
+        },
+        {
+          "word": "represents",
+          "start": 140.24,
+          "end": 140.66
+        },
+        {
+          "word": "the",
+          "start": 140.66,
+          "end": 140.82
+        },
+        {
+          "word": "technical",
+          "start": 140.82,
+          "end": 141.26
+        },
+        {
+          "word": "foundation",
+          "start": 141.26,
+          "end": 141.76
+        },
+        {
+          "word": "while",
+          "start": 141.76,
+          "end": 141.86
+        },
+        {
+          "word": "remaining",
+          "start": 141.86,
+          "end": 141.86
+        },
+        {
+          "word": "approachable.",
+          "start": 141.86,
+          "end": 142.26
+        }
+      ]
+    },
+    {
+      "start": 142.42,
+      "end": 145.54,
+      "text": "protocol brief best represents the technical foundation while remaining approachable. it's about building systems that matter, not just hype.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "It's",
+          "start": 142.42,
+          "end": 142.74
+        },
+        {
+          "word": "about",
+          "start": 142.74,
+          "end": 142.98
+        },
+        {
+          "word": "building",
+          "start": 142.98,
+          "end": 143.46
+        },
+        {
+          "word": "systems",
+          "start": 143.46,
+          "end": 143.92
+        },
+        {
+          "word": "that",
+          "start": 143.92,
+          "end": 144.1
+        },
+        {
+          "word": "matter,",
+          "start": 144.1,
+          "end": 144.52
+        },
+        {
+          "word": "not",
+          "start": 144.78,
+          "end": 145
+        },
+        {
+          "word": "just",
+          "start": 145,
+          "end": 145.22
+        },
+        {
+          "word": "the",
+          "start": 145.22,
+          "end": 145.36
+        },
+        {
+          "word": "hype.",
+          "start": 145.36,
+          "end": 145.54
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-19_JedAI-Council_The-Name-Game.json",
+    "session_log_source": "2025-06-19_JedAI-Council_The-Name-Game_session-log.json",
+    "total_segments": 34,
+    "matched_segments": 34,
+    "dialogues_in_script": 15
+  }
+}

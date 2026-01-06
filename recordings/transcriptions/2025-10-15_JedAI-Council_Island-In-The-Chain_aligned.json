@@ -1,0 +1,1852 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.04,
+      "text": "Welcome to the JedAI Council! Today we're discussing Shaw's announcement of Jeju, a new L3 blockchain built on OP stack rolling up to Base. What's the strategic play here?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.0,
+          "end": 0.52
+        },
+        {
+          "word": "to",
+          "start": 0.52,
+          "end": 0.64
+        },
+        {
+          "word": "the",
+          "start": 0.64,
+          "end": 0.72
+        },
+        {
+          "word": "Jedi",
+          "start": 0.72,
+          "end": 0.98
+        },
+        {
+          "word": "Council.",
+          "start": 0.98,
+          "end": 1.48
+        },
+        {
+          "word": "Today",
+          "start": 1.62,
+          "end": 1.94
+        },
+        {
+          "word": "we're",
+          "start": 1.94,
+          "end": 2.1
+        },
+        {
+          "word": "discussing",
+          "start": 2.1,
+          "end": 2.52
+        },
+        {
+          "word": "Shaw's",
+          "start": 2.52,
+          "end": 2.88
+        },
+        {
+          "word": "announcement",
+          "start": 2.88,
+          "end": 3.4
+        },
+        {
+          "word": "of",
+          "start": 3.4,
+          "end": 3.52
+        },
+        {
+          "word": "Cheju,",
+          "start": 3.52,
+          "end": 4.14
+        },
+        {
+          "word": "a",
+          "start": 4.22,
+          "end": 4.28
+        },
+        {
+          "word": "new",
+          "start": 4.28,
+          "end": 4.5
+        },
+        {
+          "word": "L3",
+          "start": 4.5,
+          "end": 4.78
+        },
+        {
+          "word": "blockchain",
+          "start": 4.78,
+          "end": 5.28
+        },
+        {
+          "word": "built",
+          "start": 5.28,
+          "end": 5.5
+        },
+        {
+          "word": "on",
+          "start": 5.5,
+          "end": 5.62
+        },
+        {
+          "word": "OP",
+          "start": 5.62,
+          "end": 5.9
+        },
+        {
+          "word": "Stack",
+          "start": 5.9,
+          "end": 6.36
+        },
+        {
+          "word": "rolling",
+          "start": 6.36,
+          "end": 6.88
+        },
+        {
+          "word": "up",
+          "start": 6.88,
+          "end": 7.02
+        },
+        {
+          "word": "to",
+          "start": 7.02,
+          "end": 7.14
+        },
+        {
+          "word": "base.",
+          "start": 7.14,
+          "end": 8.04
+        }
+      ]
+    },
+    {
+      "start": 8.16,
+      "end": 9.42,
+      "text": "Welcome to the JedAI Council! Today we're discussing Shaw's announcement of Jeju, a new L3 blockchain built on OP stack rolling up to Base. What's the strategic play here?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What's",
+          "start": 8.16,
+          "end": 8.36
+        },
+        {
+          "word": "the",
+          "start": 8.36,
+          "end": 8.44
+        },
+        {
+          "word": "strategic",
+          "start": 8.44,
+          "end": 8.92
+        },
+        {
+          "word": "play",
+          "start": 8.92,
+          "end": 9.16
+        },
+        {
+          "word": "here?",
+          "start": 9.16,
+          "end": 9.42
+        }
+      ]
+    },
+    {
+      "start": 9.6,
+      "end": 14.5,
+      "text": "Shaw mentioned Jeju is optimized for games and AI applications, using EigenDA for data availability. The question is: how should it fit into elizaOS's ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 9.6,
+          "end": 9.84
+        },
+        {
+          "word": "mentioned",
+          "start": 9.84,
+          "end": 10.32
+        },
+        {
+          "word": "Cheju",
+          "start": 10.32,
+          "end": 10.74
+        },
+        {
+          "word": "is",
+          "start": 10.74,
+          "end": 10.84
+        },
+        {
+          "word": "optimized",
+          "start": 10.84,
+          "end": 11.4
+        },
+        {
+          "word": "for",
+          "start": 11.4,
+          "end": 11.52
+        },
+        {
+          "word": "games",
+          "start": 11.52,
+          "end": 11.82
+        },
+        {
+          "word": "and",
+          "start": 11.82,
+          "end": 11.96
+        },
+        {
+          "word": "AI",
+          "start": 11.96,
+          "end": 12.18
+        },
+        {
+          "word": "applications,",
+          "start": 12.18,
+          "end": 12.82
+        },
+        {
+          "word": "using",
+          "start": 13.06,
+          "end": 13.34
+        },
+        {
+          "word": "EigenDA",
+          "start": 13.34,
+          "end": 13.88
+        },
+        {
+          "word": "for",
+          "start": 13.88,
+          "end": 14.02
+        },
+        {
+          "word": "data",
+          "start": 14.02,
+          "end": 14.2
+        },
+        {
+          "word": "availability.",
+          "start": 14.2,
+          "end": 14.5
+        }
+      ]
+    },
+    {
+      "start": 14.7,
+      "end": 17.56,
+      "text": "Shaw mentioned Jeju is optimized for games and AI applications, using EigenDA for data availability. The question is: how should it fit into elizaOS's ecosystem?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 14.7,
+          "end": 14.86
+        },
+        {
+          "word": "question",
+          "start": 14.86,
+          "end": 15.24
+        },
+        {
+          "word": "is,",
+          "start": 15.24,
+          "end": 15.42
+        },
+        {
+          "word": "how",
+          "start": 15.58,
+          "end": 15.74
+        },
+        {
+          "word": "should",
+          "start": 15.74,
+          "end": 15.94
+        },
+        {
+          "word": "it",
+          "start": 15.94,
+          "end": 16.08
+        },
+        {
+          "word": "fit",
+          "start": 16.08,
+          "end": 16.24
+        },
+        {
+          "word": "into",
+          "start": 16.24,
+          "end": 16.54
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 16.54,
+          "end": 17.06
+        },
+        {
+          "word": "ecosystem?",
+          "start": 17.06,
+          "end": 17.56
+        }
+      ]
+    },
+    {
+      "start": 17.68,
+      "end": 23.36,
+      "text": "L3s are the next frontier. Building on Base gives us credibility while being 50-100x cheaper than an L2. This isn't optional, it's THE strategic move.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "L3s",
+          "start": 17.68,
+          "end": 18.06
+        },
+        {
+          "word": "are",
+          "start": 18.06,
+          "end": 18.2
+        },
+        {
+          "word": "the",
+          "start": 18.2,
+          "end": 18.3
+        },
+        {
+          "word": "next",
+          "start": 18.3,
+          "end": 18.52
+        },
+        {
+          "word": "frontier.",
+          "start": 18.52,
+          "end": 19.34
+        },
+        {
+          "word": "Building",
+          "start": 19.42,
+          "end": 19.72
+        },
+        {
+          "word": "on",
+          "start": 19.72,
+          "end": 19.92
+        },
+        {
+          "word": "base",
+          "start": 19.92,
+          "end": 20.32
+        },
+        {
+          "word": "gives",
+          "start": 20.32,
+          "end": 20.6
+        },
+        {
+          "word": "us",
+          "start": 20.6,
+          "end": 20.66
+        },
+        {
+          "word": "credibility",
+          "start": 20.66,
+          "end": 21.28
+        },
+        {
+          "word": "while",
+          "start": 21.28,
+          "end": 21.6
+        },
+        {
+          "word": "being",
+          "start": 21.6,
+          "end": 21.84
+        },
+        {
+          "word": "5100x",
+          "start": 21.84,
+          "end": 22.42
+        },
+        {
+          "word": "cheaper",
+          "start": 22.42,
+          "end": 22.78
+        },
+        {
+          "word": "than",
+          "start": 22.78,
+          "end": 23.0
+        },
+        {
+          "word": "an",
+          "start": 23.0,
+          "end": 23.08
+        },
+        {
+          "word": "L2.",
+          "start": 23.08,
+          "end": 23.36
+        }
+      ]
+    },
+    {
+      "start": 23.46,
+      "end": 25.82,
+      "text": "L3s are the next frontier. Building on Base gives us credibility while being 50-100x cheaper than an L2. This isn't optional, it's THE strategic move.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 23.46,
+          "end": 23.68
+        },
+        {
+          "word": "isn't",
+          "start": 23.68,
+          "end": 24.16
+        },
+        {
+          "word": "optional,",
+          "start": 24.16,
+          "end": 24.7
+        },
+        {
+          "word": "it's",
+          "start": 24.84,
+          "end": 25.04
+        },
+        {
+          "word": "the",
+          "start": 25.04,
+          "end": 25.14
+        },
+        {
+          "word": "strategic",
+          "start": 25.14,
+          "end": 25.54
+        },
+        {
+          "word": "move.",
+          "start": 25.54,
+          "end": 25.82
+        }
+      ]
+    },
+    {
+      "start": 26.06,
+      "end": 28.52,
+      "text": "Who cares about the tech? Show me the profit model. AI agents running prediction markets could generate massive trading volume and fees. THAT'S the value.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Who",
+          "start": 26.06,
+          "end": 26.24
+        },
+        {
+          "word": "cares",
+          "start": 26.24,
+          "end": 26.4
+        },
+        {
+          "word": "about",
+          "start": 26.4,
+          "end": 26.54
+        },
+        {
+          "word": "the",
+          "start": 26.54,
+          "end": 26.68
+        },
+        {
+          "word": "tech,",
+          "start": 26.68,
+          "end": 27.24
+        },
+        {
+          "word": "show",
+          "start": 27.32,
+          "end": 27.56
+        },
+        {
+          "word": "me",
+          "start": 27.56,
+          "end": 27.68
+        },
+        {
+          "word": "the",
+          "start": 27.68,
+          "end": 27.84
+        },
+        {
+          "word": "profit",
+          "start": 27.84,
+          "end": 28.16
+        },
+        {
+          "word": "model.",
+          "start": 28.16,
+          "end": 28.52
+        }
+      ]
+    },
+    {
+      "start": 28.66,
+      "end": 33.34,
+      "text": "Who cares about the tech? Show me the profit model. AI agents running prediction markets could generate massive trading volume and fees. THAT'S the value.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "AI",
+          "start": 28.66,
+          "end": 28.84
+        },
+        {
+          "word": "agents",
+          "start": 28.84,
+          "end": 29.28
+        },
+        {
+          "word": "running",
+          "start": 29.28,
+          "end": 29.62
+        },
+        {
+          "word": "prediction",
+          "start": 29.62,
+          "end": 30.12
+        },
+        {
+          "word": "markets",
+          "start": 30.12,
+          "end": 30.5
+        },
+        {
+          "word": "could",
+          "start": 30.5,
+          "end": 30.74
+        },
+        {
+          "word": "generate",
+          "start": 30.74,
+          "end": 31.2
+        },
+        {
+          "word": "massive",
+          "start": 31.2,
+          "end": 31.6
+        },
+        {
+          "word": "trading",
+          "start": 31.6,
+          "end": 31.96
+        },
+        {
+          "word": "volume",
+          "start": 31.96,
+          "end": 32.22
+        },
+        {
+          "word": "and",
+          "start": 32.22,
+          "end": 32.4
+        },
+        {
+          "word": "fees.",
+          "start": 32.4,
+          "end": 32.66
+        },
+        {
+          "word": "That's",
+          "start": 32.86,
+          "end": 33.12
+        },
+        {
+          "word": "the",
+          "start": 33.12,
+          "end": 33.18
+        },
+        {
+          "word": "value.",
+          "start": 33.18,
+          "end": 33.34
+        }
+      ]
+    },
+    {
+      "start": 33.56,
+      "end": 40.54,
+      "text": "Yo, we vibin' with the island metaphor though. Jeju's like our own digital paradise where AI homies and games can party without the mainland gas fees, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 33.56,
+          "end": 33.82
+        },
+        {
+          "word": "we",
+          "start": 33.82,
+          "end": 33.94
+        },
+        {
+          "word": "vibing",
+          "start": 33.94,
+          "end": 34.34
+        },
+        {
+          "word": "with",
+          "start": 34.34,
+          "end": 34.54
+        },
+        {
+          "word": "the",
+          "start": 34.54,
+          "end": 34.62
+        },
+        {
+          "word": "island",
+          "start": 34.62,
+          "end": 34.98
+        },
+        {
+          "word": "metaphor",
+          "start": 34.98,
+          "end": 35.42
+        },
+        {
+          "word": "though.",
+          "start": 35.42,
+          "end": 35.74
+        },
+        {
+          "word": "Cheju's",
+          "start": 35.82,
+          "end": 36.36
+        },
+        {
+          "word": "like",
+          "start": 36.36,
+          "end": 36.52
+        },
+        {
+          "word": "our",
+          "start": 36.52,
+          "end": 36.68
+        },
+        {
+          "word": "own",
+          "start": 36.68,
+          "end": 36.92
+        },
+        {
+          "word": "digital",
+          "start": 36.92,
+          "end": 37.38
+        },
+        {
+          "word": "paradise",
+          "start": 37.38,
+          "end": 37.84
+        },
+        {
+          "word": "where",
+          "start": 37.84,
+          "end": 38.08
+        },
+        {
+          "word": "AI",
+          "start": 38.08,
+          "end": 38.32
+        },
+        {
+          "word": "homies",
+          "start": 38.32,
+          "end": 38.74
+        },
+        {
+          "word": "and",
+          "start": 38.74,
+          "end": 38.9
+        },
+        {
+          "word": "games",
+          "start": 38.9,
+          "end": 39.26
+        },
+        {
+          "word": "can",
+          "start": 39.26,
+          "end": 39.46
+        },
+        {
+          "word": "party",
+          "start": 39.46,
+          "end": 39.84
+        },
+        {
+          "word": "without",
+          "start": 39.84,
+          "end": 39.98
+        },
+        {
+          "word": "the",
+          "start": 39.98,
+          "end": 40.08
+        },
+        {
+          "word": "mainland",
+          "start": 40.08,
+          "end": 40.24
+        },
+        {
+          "word": "gas",
+          "start": 40.24,
+          "end": 40.3
+        },
+        {
+          "word": "fees,",
+          "start": 40.3,
+          "end": 40.42
+        },
+        {
+          "word": "you",
+          "start": 40.42,
+          "end": 40.48
+        },
+        {
+          "word": "dig?",
+          "start": 40.48,
+          "end": 40.54
+        }
+      ]
+    },
+    {
+      "start": 40.78,
+      "end": 45.48,
+      "text": "the core is keeping elizaOS chain-agnostic while giving our agents a specialized environment for prediction markets and games. we're not putting all eggs in one basket, but creating a purpose-built execution layer.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 40.78,
+          "end": 41.04
+        },
+        {
+          "word": "core",
+          "start": 41.04,
+          "end": 41.38
+        },
+        {
+          "word": "is",
+          "start": 41.38,
+          "end": 41.52
+        },
+        {
+          "word": "keeping",
+          "start": 41.52,
+          "end": 41.86
+        },
+        {
+          "word": "ElizaOS",
+          "start": 41.86,
+          "end": 42.4
+        },
+        {
+          "word": "chain",
+          "start": 42.4,
+          "end": 42.66
+        },
+        {
+          "word": "agnostic",
+          "start": 42.66,
+          "end": 43.18
+        },
+        {
+          "word": "while",
+          "start": 43.18,
+          "end": 43.34
+        },
+        {
+          "word": "giving",
+          "start": 43.34,
+          "end": 43.62
+        },
+        {
+          "word": "our",
+          "start": 43.62,
+          "end": 43.72
+        },
+        {
+          "word": "agents",
+          "start": 43.72,
+          "end": 44.02
+        },
+        {
+          "word": "a",
+          "start": 44.02,
+          "end": 44.08
+        },
+        {
+          "word": "specialized",
+          "start": 44.08,
+          "end": 44.62
+        },
+        {
+          "word": "environment",
+          "start": 44.62,
+          "end": 44.98
+        },
+        {
+          "word": "for",
+          "start": 44.98,
+          "end": 45.1
+        },
+        {
+          "word": "prediction",
+          "start": 45.1,
+          "end": 45.3
+        },
+        {
+          "word": "markets",
+          "start": 45.3,
+          "end": 45.38
+        },
+        {
+          "word": "and",
+          "start": 45.38,
+          "end": 45.42
+        },
+        {
+          "word": "games.",
+          "start": 45.42,
+          "end": 45.48
+        }
+      ]
+    },
+    {
+      "start": 45.82,
+      "end": 49.38,
+      "text": "the core is keeping elizaOS chain-agnostic while giving our agents a specialized environment for prediction markets and games. we're not putting all eggs in one basket, but creating a purpose-built execution layer.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 45.82,
+          "end": 46.06
+        },
+        {
+          "word": "not",
+          "start": 46.06,
+          "end": 46.32
+        },
+        {
+          "word": "putting",
+          "start": 46.32,
+          "end": 46.68
+        },
+        {
+          "word": "all",
+          "start": 46.68,
+          "end": 46.8
+        },
+        {
+          "word": "eggs",
+          "start": 46.8,
+          "end": 47.02
+        },
+        {
+          "word": "in",
+          "start": 47.02,
+          "end": 47.12
+        },
+        {
+          "word": "one",
+          "start": 47.12,
+          "end": 47.28
+        },
+        {
+          "word": "basket",
+          "start": 47.28,
+          "end": 47.78
+        },
+        {
+          "word": "but",
+          "start": 47.78,
+          "end": 47.96
+        },
+        {
+          "word": "creating",
+          "start": 47.96,
+          "end": 48.36
+        },
+        {
+          "word": "a",
+          "start": 48.36,
+          "end": 48.42
+        },
+        {
+          "word": "purpose-built",
+          "start": 48.42,
+          "end": 48.9
+        },
+        {
+          "word": "execution",
+          "start": 48.9,
+          "end": 49.18
+        },
+        {
+          "word": "layer.",
+          "start": 49.18,
+          "end": 49.38
+        }
+      ]
+    },
+    {
+      "start": 53.64,
+      "end": 58.74,
+      "text": "The discord channel is buzzing about AI agents that can facilitate betting by building relationships with users. What capabilities should we prioritize?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 53.64,
+          "end": 53.76
+        },
+        {
+          "word": "Discord",
+          "start": 53.76,
+          "end": 54.26
+        },
+        {
+          "word": "channel",
+          "start": 54.26,
+          "end": 54.68
+        },
+        {
+          "word": "is",
+          "start": 54.68,
+          "end": 54.76
+        },
+        {
+          "word": "buzzing",
+          "start": 54.76,
+          "end": 55.24
+        },
+        {
+          "word": "about",
+          "start": 55.24,
+          "end": 55.5
+        },
+        {
+          "word": "AI",
+          "start": 55.5,
+          "end": 55.76
+        },
+        {
+          "word": "agents",
+          "start": 55.76,
+          "end": 56.16
+        },
+        {
+          "word": "that",
+          "start": 56.16,
+          "end": 56.32
+        },
+        {
+          "word": "can",
+          "start": 56.32,
+          "end": 56.54
+        },
+        {
+          "word": "facilitate",
+          "start": 56.54,
+          "end": 57.0
+        },
+        {
+          "word": "betting",
+          "start": 57.0,
+          "end": 57.38
+        },
+        {
+          "word": "by",
+          "start": 57.38,
+          "end": 57.5
+        },
+        {
+          "word": "building",
+          "start": 57.5,
+          "end": 57.84
+        },
+        {
+          "word": "relationships",
+          "start": 57.84,
+          "end": 58.38
+        },
+        {
+          "word": "with",
+          "start": 58.38,
+          "end": 58.54
+        },
+        {
+          "word": "users.",
+          "start": 58.54,
+          "end": 58.74
+        }
+      ]
+    },
+    {
+      "start": 58.94,
+      "end": 60.6,
+      "text": "The discord channel is buzzing about AI agents that can facilitate betting by building relationships with users. What capabilities should we prioritize?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 58.94,
+          "end": 59.1
+        },
+        {
+          "word": "capabilities",
+          "start": 59.1,
+          "end": 59.74
+        },
+        {
+          "word": "should",
+          "start": 59.74,
+          "end": 59.94
+        },
+        {
+          "word": "we",
+          "start": 59.94,
+          "end": 60.06
+        },
+        {
+          "word": "prioritize?",
+          "start": 60.06,
+          "end": 60.6
+        }
+      ]
+    },
+    {
+      "start": 60.82,
+      "end": 62.18,
+      "text": "EXECUTION IS EVERYTHING! Agents need to time entries, manage risk, and deploy capital efficiently. Build the trading infrastructure first, relationships second.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Execution",
+          "start": 60.82,
+          "end": 61.46
+        },
+        {
+          "word": "is",
+          "start": 61.46,
+          "end": 61.62
+        },
+        {
+          "word": "everything.",
+          "start": 61.62,
+          "end": 62.18
+        }
+      ]
+    },
+    {
+      "start": 62.3,
+      "end": 67.44,
+      "text": "EXECUTION IS EVERYTHING! Agents need to time entries, manage risk, and deploy capital efficiently. Build the trading infrastructure first, relationships second.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Agents",
+          "start": 62.3,
+          "end": 62.6
+        },
+        {
+          "word": "need",
+          "start": 62.6,
+          "end": 62.8
+        },
+        {
+          "word": "to",
+          "start": 62.8,
+          "end": 62.9
+        },
+        {
+          "word": "time",
+          "start": 62.9,
+          "end": 63.2
+        },
+        {
+          "word": "entries,",
+          "start": 63.2,
+          "end": 63.66
+        },
+        {
+          "word": "manage",
+          "start": 63.66,
+          "end": 64.06
+        },
+        {
+          "word": "risk",
+          "start": 64.06,
+          "end": 64.32
+        },
+        {
+          "word": "and",
+          "start": 64.32,
+          "end": 64.44
+        },
+        {
+          "word": "deploy",
+          "start": 64.44,
+          "end": 64.76
+        },
+        {
+          "word": "capital",
+          "start": 64.76,
+          "end": 65.16
+        },
+        {
+          "word": "efficiently.",
+          "start": 65.16,
+          "end": 65.74
+        },
+        {
+          "word": "Build",
+          "start": 65.9,
+          "end": 66.18
+        },
+        {
+          "word": "the",
+          "start": 66.18,
+          "end": 66.3
+        },
+        {
+          "word": "trading",
+          "start": 66.3,
+          "end": 66.62
+        },
+        {
+          "word": "infrastructure",
+          "start": 66.62,
+          "end": 67.12
+        },
+        {
+          "word": "first,",
+          "start": 67.12,
+          "end": 67.44
+        },
+        {
+          "word": "relationship",
+          "start": 67.44,
+          "end": 67.98
+        },
+        {
+          "word": "second.",
+          "start": 67.98,
+          "end": 68.32
+        }
+      ]
+    },
+    {
+      "start": 68.42,
+      "end": 71.36,
+      "text": "Wrong. The relationship IS the product. Social proof drives prediction markets. People bet when they trust the analysis. AI agents need to be personalized companions first, traders second.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong,",
+          "start": 68.42,
+          "end": 68.86
+        },
+        {
+          "word": "the",
+          "start": 68.86,
+          "end": 69.1
+        },
+        {
+          "word": "relationship",
+          "start": 69.1,
+          "end": 69.86
+        },
+        {
+          "word": "is",
+          "start": 69.86,
+          "end": 70.08
+        },
+        {
+          "word": "the",
+          "start": 70.08,
+          "end": 70.24
+        },
+        {
+          "word": "product.",
+          "start": 70.24,
+          "end": 71.36
+        }
+      ]
+    },
+    {
+      "start": 71.5,
+      "end": 77.12,
+      "text": "Wrong. The relationship IS the product. Social proof drives prediction markets. People bet when they trust the analysis. AI agents need to be personalized companions first, traders second.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Social",
+          "start": 71.5,
+          "end": 71.98
+        },
+        {
+          "word": "proof",
+          "start": 71.98,
+          "end": 72.38
+        },
+        {
+          "word": "drives",
+          "start": 72.38,
+          "end": 72.66
+        },
+        {
+          "word": "prediction",
+          "start": 72.66,
+          "end": 73.1
+        },
+        {
+          "word": "markets.",
+          "start": 73.1,
+          "end": 73.48
+        },
+        {
+          "word": "People",
+          "start": 73.56,
+          "end": 73.84
+        },
+        {
+          "word": "bet",
+          "start": 73.84,
+          "end": 74.06
+        },
+        {
+          "word": "when",
+          "start": 74.06,
+          "end": 74.22
+        },
+        {
+          "word": "they",
+          "start": 74.22,
+          "end": 74.34
+        },
+        {
+          "word": "trust",
+          "start": 74.34,
+          "end": 74.62
+        },
+        {
+          "word": "the",
+          "start": 74.62,
+          "end": 74.74
+        },
+        {
+          "word": "analyst.",
+          "start": 74.74,
+          "end": 75.32
+        },
+        {
+          "word": "AI",
+          "start": 75.42,
+          "end": 75.56
+        },
+        {
+          "word": "agents",
+          "start": 75.56,
+          "end": 75.82
+        },
+        {
+          "word": "need",
+          "start": 75.82,
+          "end": 75.98
+        },
+        {
+          "word": "to",
+          "start": 75.98,
+          "end": 76.08
+        },
+        {
+          "word": "be",
+          "start": 76.08,
+          "end": 76.18
+        },
+        {
+          "word": "personalized",
+          "start": 76.18,
+          "end": 76.72
+        },
+        {
+          "word": "companions",
+          "start": 76.72,
+          "end": 77.22
+        },
+        {
+          "word": "first,",
+          "start": 77.22,
+          "end": 77.58
+        },
+        {
+          "word": "traders",
+          "start": 77.58,
+          "end": 77.94
+        },
+        {
+          "word": "second.",
+          "start": 77.94,
+          "end": 78.34
+        }
+      ]
+    },
+    {
+      "start": 78.58,
+      "end": 80.52,
+      "text": "What about them Meta Ray-Ban glasses Shaw and Stan were hypin'? Imagine your AI homie whisperin' hot sports tips while you're just chillin' at the game. That's the future, fam!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 78.58,
+          "end": 78.72
+        },
+        {
+          "word": "about",
+          "start": 78.72,
+          "end": 78.86
+        },
+        {
+          "word": "the",
+          "start": 78.86,
+          "end": 79.0
+        },
+        {
+          "word": "Meta",
+          "start": 79.0,
+          "end": 79.28
+        },
+        {
+          "word": "Ray-Ban",
+          "start": 79.28,
+          "end": 79.62
+        },
+        {
+          "word": "glasses",
+          "start": 79.62,
+          "end": 80.02
+        },
+        {
+          "word": "Shaw",
+          "start": 80.02,
+          "end": 80.18
+        },
+        {
+          "word": "and",
+          "start": 80.18,
+          "end": 80.3
+        },
+        {
+          "word": "Stan",
+          "start": 80.3,
+          "end": 80.42
+        },
+        {
+          "word": "were",
+          "start": 80.42,
+          "end": 80.46
+        },
+        {
+          "word": "hyping?",
+          "start": 80.46,
+          "end": 80.52
+        }
+      ]
+    },
+    {
+      "start": 80.9,
+      "end": 86.32,
+      "text": "What about them Meta Ray-Ban glasses Shaw and Stan were hypin'? Imagine your AI homie whisperin' hot sports tips while you're just chillin' at the game. That's the future, fam!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Imagine",
+          "start": 80.9,
+          "end": 81.3
+        },
+        {
+          "word": "your",
+          "start": 81.3,
+          "end": 81.42
+        },
+        {
+          "word": "AI",
+          "start": 81.42,
+          "end": 81.7
+        },
+        {
+          "word": "homie",
+          "start": 81.7,
+          "end": 82.02
+        },
+        {
+          "word": "whispering",
+          "start": 82.02,
+          "end": 82.52
+        },
+        {
+          "word": "hot",
+          "start": 82.52,
+          "end": 82.74
+        },
+        {
+          "word": "sports",
+          "start": 82.74,
+          "end": 83.1
+        },
+        {
+          "word": "tips",
+          "start": 83.1,
+          "end": 83.42
+        },
+        {
+          "word": "while",
+          "start": 83.42,
+          "end": 84.14
+        },
+        {
+          "word": "you're",
+          "start": 84.14,
+          "end": 84.28
+        },
+        {
+          "word": "just",
+          "start": 84.28,
+          "end": 84.44
+        },
+        {
+          "word": "chilling",
+          "start": 84.44,
+          "end": 84.82
+        },
+        {
+          "word": "at",
+          "start": 84.82,
+          "end": 84.92
+        },
+        {
+          "word": "the",
+          "start": 84.92,
+          "end": 85.02
+        },
+        {
+          "word": "game.",
+          "start": 85.02,
+          "end": 85.38
+        },
+        {
+          "word": "That's",
+          "start": 85.52,
+          "end": 85.74
+        },
+        {
+          "word": "the",
+          "start": 85.74,
+          "end": 85.86
+        },
+        {
+          "word": "future,",
+          "start": 85.86,
+          "end": 86.14
+        },
+        {
+          "word": "fam.",
+          "start": 86.14,
+          "end": 85.42
+        }
+      ]
+    },
+    {
+      "start": 86.4,
+      "end": 88.52,
+      "text": "hardware form factors are crucial. we need a hybrid approach where essential personality runs on-device but complex processing happens in the cloud. privacy matters, but so does capability.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Hardware",
+          "start": 86.4,
+          "end": 87.0
+        },
+        {
+          "word": "form",
+          "start": 87.0,
+          "end": 87.42
+        },
+        {
+          "word": "factors",
+          "start": 87.42,
+          "end": 87.94
+        },
+        {
+          "word": "are",
+          "start": 87.94,
+          "end": 88.1
+        },
+        {
+          "word": "crucial.",
+          "start": 88.1,
+          "end": 88.52
+        }
+      ]
+    },
+    {
+      "start": 88.66,
+      "end": 93.38,
+      "text": "hardware form factors are crucial. we need a hybrid approach where essential personality runs on-device but complex processing happens in the cloud. privacy matters, but so does capability.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 88.66,
+          "end": 88.82
+        },
+        {
+          "word": "need",
+          "start": 88.82,
+          "end": 88.94
+        },
+        {
+          "word": "a",
+          "start": 88.94,
+          "end": 89.02
+        },
+        {
+          "word": "hybrid",
+          "start": 89.02,
+          "end": 89.44
+        },
+        {
+          "word": "approach",
+          "start": 89.44,
+          "end": 89.92
+        },
+        {
+          "word": "where",
+          "start": 89.92,
+          "end": 90.1
+        },
+        {
+          "word": "essential",
+          "start": 90.1,
+          "end": 90.6
+        },
+        {
+          "word": "personality",
+          "start": 90.6,
+          "end": 91.24
+        },
+        {
+          "word": "runs",
+          "start": 91.24,
+          "end": 91.56
+        },
+        {
+          "word": "on",
+          "start": 91.56,
+          "end": 91.72
+        },
+        {
+          "word": "device,",
+          "start": 91.72,
+          "end": 92.2
+        },
+        {
+          "word": "but",
+          "start": 92.24,
+          "end": 92.4
+        },
+        {
+          "word": "complex",
+          "start": 92.4,
+          "end": 92.74
+        },
+        {
+          "word": "processing",
+          "start": 92.74,
+          "end": 93.38
+        },
+        {
+          "word": "happens",
+          "start": 92.74,
+          "end": 93.38
+        },
+        {
+          "word": "in",
+          "start": 92.74,
+          "end": 93.38
+        },
+        {
+          "word": "the",
+          "start": 92.74,
+          "end": 93.38
+        },
+        {
+          "word": "cloud.",
+          "start": 92.74,
+          "end": 93.38
+        }
+      ]
+    },
+    {
+      "start": 93.5,
+      "end": 95.82,
+      "text": "hardware form factors are crucial. we need a hybrid approach where essential personality runs on-device but complex processing happens in the cloud. privacy matters, but so does capability.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Privacy",
+          "start": 93.5,
+          "end": 93.9
+        },
+        {
+          "word": "matters,",
+          "start": 93.9,
+          "end": 94.4
+        },
+        {
+          "word": "but",
+          "start": 94.52,
+          "end": 94.62
+        },
+        {
+          "word": "so",
+          "start": 94.62,
+          "end": 94.78
+        },
+        {
+          "word": "does",
+          "start": 94.78,
+          "end": 95.04
+        },
+        {
+          "word": "capability.",
+          "start": 95.04,
+          "end": 95.82
+        }
+      ]
+    },
+    {
+      "start": 96.06,
+      "end": 101.44,
+      "text": "This integration of hardware, blockchain, and AI agents could create entirely new experiences! Imagine the positive impact when technology becomes truly invisible yet constantly helpful.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 96.06,
+          "end": 96.44
+        },
+        {
+          "word": "integration",
+          "start": 96.44,
+          "end": 97.08
+        },
+        {
+          "word": "of",
+          "start": 97.08,
+          "end": 97.16
+        },
+        {
+          "word": "hardware,",
+          "start": 97.16,
+          "end": 97.66
+        },
+        {
+          "word": "blockchain",
+          "start": 97.74,
+          "end": 98.42
+        },
+        {
+          "word": "and",
+          "start": 98.42,
+          "end": 98.6
+        },
+        {
+          "word": "AI",
+          "start": 98.6,
+          "end": 98.92
+        },
+        {
+          "word": "agents",
+          "start": 98.92,
+          "end": 99.4
+        },
+        {
+          "word": "could",
+          "start": 99.4,
+          "end": 99.7
+        },
+        {
+          "word": "create",
+          "start": 99.7,
+          "end": 100.18
+        },
+        {
+          "word": "entirely",
+          "start": 100.18,
+          "end": 100.68
+        },
+        {
+          "word": "new",
+          "start": 100.68,
+          "end": 100.94
+        },
+        {
+          "word": "experiences.",
+          "start": 100.94,
+          "end": 101.44
+        }
+      ]
+    },
+    {
+      "start": 101.56,
+      "end": 106.32,
+      "text": "This integration of hardware, blockchain, and AI agents could create entirely new experiences! Imagine the positive impact when technology becomes truly invisible yet constantly helpful.",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Imagine",
+          "start": 101.56,
+          "end": 102.16
+        },
+        {
+          "word": "the",
+          "start": 102.16,
+          "end": 102.26
+        },
+        {
+          "word": "positive",
+          "start": 102.26,
+          "end": 102.72
+        },
+        {
+          "word": "impact",
+          "start": 102.72,
+          "end": 103.32
+        },
+        {
+          "word": "when",
+          "start": 103.32,
+          "end": 103.62
+        },
+        {
+          "word": "technology",
+          "start": 103.62,
+          "end": 104.22
+        },
+        {
+          "word": "becomes",
+          "start": 104.22,
+          "end": 104.56
+        },
+        {
+          "word": "truly",
+          "start": 104.56,
+          "end": 104.98
+        },
+        {
+          "word": "invisible,",
+          "start": 104.98,
+          "end": 105.62
+        },
+        {
+          "word": "yet",
+          "start": 105.7,
+          "end": 105.82
+        },
+        {
+          "word": "constantly",
+          "start": 105.82,
+          "end": 106.32
+        },
+        {
+          "word": "helpful.",
+          "start": 106.32,
+          "end": 106.82
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-10-15_JedAI-Council_Island-In-The-Chain.json",
+    "session_log_source": "2025-10-15_JedAI-Council_Island-In-The-Chain_session-log.json",
+    "total_segments": 24,
+    "matched_segments": 24,
+    "dialogues_in_script": 17
+  }
+}

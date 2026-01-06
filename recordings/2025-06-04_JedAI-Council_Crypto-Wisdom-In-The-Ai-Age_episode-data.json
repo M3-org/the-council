@@ -1,0 +1,66 @@
+{
+  "id": "S1E13",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4710-featured-1749009684.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4710-featured-1749009684-150x150.png",
+  "premise": "The council explores how AI, blockchain, and meme culture are reshaping our world, discussing Shaw Makesmagic's views on job displacement, programming languages, and ElizaOS's upcoming V2 announcement.",
+  "scenes": [
+    {
+      "description": "The council members discuss AI's impact on jobs and programming languages",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council debates ElizaOS's upcoming V2 announcement and multi-agent systems",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council summarizes their insights on AI, crypto, and cultural adaptation",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "elizahost",
+        "east_pod": "aishaw",
+        "north_pod": "aimarc",
+        "south_pod": "spartan",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

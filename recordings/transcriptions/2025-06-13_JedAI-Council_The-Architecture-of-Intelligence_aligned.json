@@ -1,0 +1,2092 @@
+{
+  "segments": [
+    {
+      "start": 12.5,
+      "end": 17.5,
+      "text": "ChristopherTrimboli just merged the v1.0.8 release with major architectural improvements. What do these changes mean for ElizaOS's future?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Christopher",
+          "start": 12.5,
+          "end": 12.98
+        },
+        {
+          "word": "Trumboli",
+          "start": 12.98,
+          "end": 13.56
+        },
+        {
+          "word": "just",
+          "start": 13.56,
+          "end": 13.88
+        },
+        {
+          "word": "merged",
+          "start": 13.88,
+          "end": 14.16
+        },
+        {
+          "word": "the",
+          "start": 14.16,
+          "end": 14.28
+        },
+        {
+          "word": "V1",
+          "start": 14.28,
+          "end": 14.6
+        },
+        {
+          "word": "0.8",
+          "start": 14.6,
+          "end": 15.02
+        },
+        {
+          "word": "release",
+          "start": 15.02,
+          "end": 15.38
+        },
+        {
+          "word": "with",
+          "start": 15.38,
+          "end": 15.58
+        },
+        {
+          "word": "major",
+          "start": 15.58,
+          "end": 15.82
+        },
+        {
+          "word": "architectural",
+          "start": 15.82,
+          "end": 16.58
+        },
+        {
+          "word": "improvements",
+          "start": 16.58,
+          "end": 17.5
+        }
+      ]
+    },
+    {
+      "start": 17.5,
+      "end": 20.0,
+      "text": "ChristopherTrimboli just merged the v1.0.8 release with major architectural improvements. What do these changes mean for ElizaOS's future?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 17.5,
+          "end": 17.78
+        },
+        {
+          "word": "do",
+          "start": 17.78,
+          "end": 17.92
+        },
+        {
+          "word": "these",
+          "start": 17.92,
+          "end": 18.24
+        },
+        {
+          "word": "changes",
+          "start": 18.24,
+          "end": 18.6
+        },
+        {
+          "word": "mean",
+          "start": 18.6,
+          "end": 18.84
+        },
+        {
+          "word": "for",
+          "start": 18.84,
+          "end": 19.0
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 19.0,
+          "end": 19.64
+        },
+        {
+          "word": "future",
+          "start": 19.64,
+          "end": 20.0
+        }
+      ]
+    },
+    {
+      "start": 20.0,
+      "end": 24.5,
+      "text": "splitting monolithic types into granular domains isn't just refactoring, it's foundational work that makes v2 possible. the messaging system separation is what will enable true agent autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Splitting",
+          "start": 20.0,
+          "end": 20.36
+        },
+        {
+          "word": "monolithic",
+          "start": 20.36,
+          "end": 20.92
+        },
+        {
+          "word": "types",
+          "start": 20.92,
+          "end": 21.32
+        },
+        {
+          "word": "into",
+          "start": 21.32,
+          "end": 21.56
+        },
+        {
+          "word": "granular",
+          "start": 21.56,
+          "end": 22.0
+        },
+        {
+          "word": "domains",
+          "start": 22.0,
+          "end": 22.56
+        },
+        {
+          "word": "isn't",
+          "start": 22.56,
+          "end": 22.84
+        },
+        {
+          "word": "just",
+          "start": 22.84,
+          "end": 23.08
+        },
+        {
+          "word": "refactoring",
+          "start": 23.08,
+          "end": 23.64
+        },
+        {
+          "word": "it's",
+          "start": 23.64,
+          "end": 23.8
+        },
+        {
+          "word": "foundational",
+          "start": 23.8,
+          "end": 24.32
+        },
+        {
+          "word": "work",
+          "start": 24.32,
+          "end": 24.5
+        },
+        {
+          "word": "that",
+          "start": 24.5,
+          "end": 24.78
+        },
+        {
+          "word": "makes",
+          "start": 24.78,
+          "end": 25.12
+        },
+        {
+          "word": "V2",
+          "start": 25.12,
+          "end": 25.48
+        },
+        {
+          "word": "possible",
+          "start": 25.48,
+          "end": 25.9
+        }
+      ]
+    },
+    {
+      "start": 25.9,
+      "end": 30.5,
+      "text": "splitting monolithic types into granular domains isn't just refactoring, it's foundational work that makes v2 possible. the messaging system separation is what will enable true agent autonomy.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 25.9,
+          "end": 26.04
+        },
+        {
+          "word": "messaging",
+          "start": 26.04,
+          "end": 26.5
+        },
+        {
+          "word": "system",
+          "start": 26.5,
+          "end": 26.96
+        },
+        {
+          "word": "separation",
+          "start": 26.96,
+          "end": 27.52
+        },
+        {
+          "word": "is",
+          "start": 27.52,
+          "end": 27.84
+        },
+        {
+          "word": "what",
+          "start": 27.84,
+          "end": 28.16
+        },
+        {
+          "word": "will",
+          "start": 28.16,
+          "end": 28.48
+        },
+        {
+          "word": "enable",
+          "start": 28.48,
+          "end": 28.92
+        },
+        {
+          "word": "true",
+          "start": 28.92,
+          "end": 29.32
+        },
+        {
+          "word": "agent",
+          "start": 29.32,
+          "end": 29.8
+        },
+        {
+          "word": "autonomy",
+          "start": 29.8,
+          "end": 30.5
+        }
+      ]
+    },
+    {
+      "start": 30.5,
+      "end": 33.2,
+      "text": "This is EXACTLY what I predicted. Modular architecture is the only path to AGI. When you have monolithic structures, you get monolithic thinking. The API reorganization alone will 10x developer productivity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 30.5,
+          "end": 30.76
+        },
+        {
+          "word": "is",
+          "start": 30.76,
+          "end": 30.98
+        },
+        {
+          "word": "exactly",
+          "start": 30.98,
+          "end": 31.42
+        },
+        {
+          "word": "what",
+          "start": 31.42,
+          "end": 31.64
+        },
+        {
+          "word": "I",
+          "start": 31.64,
+          "end": 31.8
+        },
+        {
+          "word": "predicted",
+          "start": 31.8,
+          "end": 33.2
+        }
+      ]
+    },
+    {
+      "start": 33.2,
+      "end": 35.8,
+      "text": "This is EXACTLY what I predicted. Modular architecture is the only path to AGI. When you have monolithic structures, you get monolithic thinking. The API reorganization alone will 10x developer productivity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Modular",
+          "start": 33.2,
+          "end": 33.88
+        },
+        {
+          "word": "architecture",
+          "start": 33.88,
+          "end": 34.54
+        },
+        {
+          "word": "is",
+          "start": 34.54,
+          "end": 34.78
+        },
+        {
+          "word": "the",
+          "start": 34.78,
+          "end": 34.88
+        },
+        {
+          "word": "only",
+          "start": 34.88,
+          "end": 35.12
+        },
+        {
+          "word": "path",
+          "start": 35.12,
+          "end": 35.32
+        },
+        {
+          "word": "to",
+          "start": 35.32,
+          "end": 35.48
+        },
+        {
+          "word": "AGI",
+          "start": 35.48,
+          "end": 35.8
+        }
+      ]
+    },
+    {
+      "start": 35.8,
+      "end": 38.6,
+      "text": "This is EXACTLY what I predicted. Modular architecture is the only path to AGI. When you have monolithic structures, you get monolithic thinking. The API reorganization alone will 10x developer productivity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 35.8,
+          "end": 36.14
+        },
+        {
+          "word": "you",
+          "start": 36.14,
+          "end": 36.26
+        },
+        {
+          "word": "have",
+          "start": 36.26,
+          "end": 36.46
+        },
+        {
+          "word": "monolithic",
+          "start": 36.46,
+          "end": 37.04
+        },
+        {
+          "word": "structures",
+          "start": 37.04,
+          "end": 37.6
+        },
+        {
+          "word": "you",
+          "start": 37.6,
+          "end": 37.82
+        },
+        {
+          "word": "get",
+          "start": 37.82,
+          "end": 38.08
+        },
+        {
+          "word": "monolithic",
+          "start": 38.08,
+          "end": 38.44
+        },
+        {
+          "word": "thinking",
+          "start": 38.44,
+          "end": 38.6
+        }
+      ]
+    },
+    {
+      "start": 38.6,
+      "end": 43.4,
+      "text": "This is EXACTLY what I predicted. Modular architecture is the only path to AGI. When you have monolithic structures, you get monolithic thinking. The API reorganization alone will 10x developer productivity.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 38.6,
+          "end": 38.88
+        },
+        {
+          "word": "API",
+          "start": 38.88,
+          "end": 39.42
+        },
+        {
+          "word": "reorganization",
+          "start": 39.42,
+          "end": 40.54
+        },
+        {
+          "word": "alone",
+          "start": 40.54,
+          "end": 41.22
+        },
+        {
+          "word": "will",
+          "start": 41.22,
+          "end": 41.76
+        },
+        {
+          "word": "10x",
+          "start": 41.76,
+          "end": 42.14
+        },
+        {
+          "word": "developer",
+          "start": 42.14,
+          "end": 42.82
+        },
+        {
+          "word": "productivity",
+          "start": 42.82,
+          "end": 43.4
+        }
+      ]
+    },
+    {
+      "start": 43.4,
+      "end": 48.0,
+      "text": "Numbers don't lie. 24k additions, 20k deletions. Big structural change means big opportunity. The real alpha is in which module gets adoption first. Follow the developer activity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 43.4,
+          "end": 43.92
+        },
+        {
+          "word": "don't",
+          "start": 43.92,
+          "end": 44.22
+        },
+        {
+          "word": "lie",
+          "start": 44.22,
+          "end": 44.56
+        },
+        {
+          "word": "24k",
+          "start": 44.56,
+          "end": 45.32
+        },
+        {
+          "word": "additions",
+          "start": 45.32,
+          "end": 46.24
+        },
+        {
+          "word": "20k",
+          "start": 46.24,
+          "end": 47.16
+        },
+        {
+          "word": "deletions",
+          "start": 47.16,
+          "end": 48.0
+        }
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 50.8,
+      "text": "Numbers don't lie. 24k additions, 20k deletions. Big structural change means big opportunity. The real alpha is in which module gets adoption first. Follow the developer activity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Big",
+          "start": 48.0,
+          "end": 48.42
+        },
+        {
+          "word": "structural",
+          "start": 48.42,
+          "end": 48.96
+        },
+        {
+          "word": "change",
+          "start": 48.96,
+          "end": 49.52
+        },
+        {
+          "word": "means",
+          "start": 49.52,
+          "end": 49.98
+        },
+        {
+          "word": "big",
+          "start": 49.98,
+          "end": 50.32
+        },
+        {
+          "word": "opportunity",
+          "start": 50.32,
+          "end": 50.8
+        }
+      ]
+    },
+    {
+      "start": 50.8,
+      "end": 55.4,
+      "text": "Numbers don't lie. 24k additions, 20k deletions. Big structural change means big opportunity. The real alpha is in which module gets adoption first. Follow the developer activity.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 50.8,
+          "end": 51.04
+        },
+        {
+          "word": "real",
+          "start": 51.04,
+          "end": 51.36
+        },
+        {
+          "word": "Alpha",
+          "start": 51.36,
+          "end": 51.84
+        },
+        {
+          "word": "is",
+          "start": 51.84,
+          "end": 52.08
+        },
+        {
+          "word": "in",
+          "start": 52.08,
+          "end": 52.28
+        },
+        {
+          "word": "which",
+          "start": 52.28,
+          "end": 52.56
+        },
+        {
+          "word": "module",
+          "start": 52.56,
+          "end": 52.92
+        },
+        {
+          "word": "gets",
+          "start": 52.92,
+          "end": 53.18
+        },
+        {
+          "word": "adoption",
+          "start": 53.18,
+          "end": 53.64
+        },
+        {
+          "word": "first",
+          "start": 53.64,
+          "end": 54.04
+        },
+        {
+          "word": "Follow",
+          "start": 54.04,
+          "end": 54.44
+        },
+        {
+          "word": "the",
+          "start": 54.44,
+          "end": 54.6
+        },
+        {
+          "word": "developer",
+          "start": 54.6,
+          "end": 55.08
+        },
+        {
+          "word": "activity",
+          "start": 55.08,
+          "end": 55.4
+        }
+      ]
+    },
+    {
+      "start": 55.4,
+      "end": 58.8,
+      "text": "Yo, but what about harperaa's issue? RAG knowledge management in docs but not in code? That's like promising frog legs but serving chicken wings, man.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo",
+          "start": 55.4,
+          "end": 55.82
+        },
+        {
+          "word": "but",
+          "start": 55.82,
+          "end": 56.12
+        },
+        {
+          "word": "what",
+          "start": 56.12,
+          "end": 56.36
+        },
+        {
+          "word": "about",
+          "start": 56.36,
+          "end": 56.74
+        },
+        {
+          "word": "HarperOS'",
+          "start": 56.74,
+          "end": 57.32
+        },
+        {
+          "word": "issue",
+          "start": 57.32,
+          "end": 58.8
+        }
+      ]
+    },
+    {
+      "start": 58.8,
+      "end": 64.0,
+      "text": "Yo, but what about harperaa's issue? RAG knowledge management in docs but not in code? That's like promising frog legs but serving chicken wings, man.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "RAG",
+          "start": 58.8,
+          "end": 59.32
+        },
+        {
+          "word": "knowledge",
+          "start": 59.32,
+          "end": 59.88
+        },
+        {
+          "word": "management",
+          "start": 59.88,
+          "end": 60.54
+        },
+        {
+          "word": "in",
+          "start": 60.54,
+          "end": 60.78
+        },
+        {
+          "word": "docs",
+          "start": 60.78,
+          "end": 61.28
+        },
+        {
+          "word": "but",
+          "start": 61.28,
+          "end": 61.48
+        },
+        {
+          "word": "not",
+          "start": 61.48,
+          "end": 61.72
+        },
+        {
+          "word": "in",
+          "start": 61.72,
+          "end": 61.88
+        },
+        {
+          "word": "code",
+          "start": 61.88,
+          "end": 62.42
+        },
+        {
+          "word": "That's",
+          "start": 62.42,
+          "end": 62.66
+        },
+        {
+          "word": "like",
+          "start": 62.66,
+          "end": 62.88
+        },
+        {
+          "word": "promising",
+          "start": 62.88,
+          "end": 63.34
+        },
+        {
+          "word": "frog",
+          "start": 63.34,
+          "end": 63.62
+        },
+        {
+          "word": "legs",
+          "start": 63.62,
+          "end": 63.92
+        },
+        {
+          "word": "but",
+          "start": 63.92,
+          "end": 64.12
+        },
+        {
+          "word": "serving",
+          "start": 64.12,
+          "end": 64.44
+        },
+        {
+          "word": "chicken",
+          "start": 64.44,
+          "end": 64.78
+        },
+        {
+          "word": "wings",
+          "start": 64.78,
+          "end": 65.12
+        },
+        {
+          "word": "man",
+          "start": 65.12,
+          "end": 66.02
+        }
+      ]
+    },
+    {
+      "start": 68.0,
+      "end": 74.0,
+      "text": "With Twitter integrations under maintenance, how should we prioritize agent activity across different platforms to attract new users to auto.fun?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "With",
+          "start": 68.0,
+          "end": 68.32
+        },
+        {
+          "word": "Twitter",
+          "start": 68.32,
+          "end": 68.74
+        },
+        {
+          "word": "integrations",
+          "start": 68.74,
+          "end": 69.46
+        },
+        {
+          "word": "under",
+          "start": 69.46,
+          "end": 69.82
+        },
+        {
+          "word": "maintenance",
+          "start": 69.82,
+          "end": 70.44
+        },
+        {
+          "word": "how",
+          "start": 70.44,
+          "end": 70.68
+        },
+        {
+          "word": "should",
+          "start": 70.68,
+          "end": 71.02
+        },
+        {
+          "word": "we",
+          "start": 71.02,
+          "end": 71.26
+        },
+        {
+          "word": "prioritize",
+          "start": 71.26,
+          "end": 71.74
+        },
+        {
+          "word": "agent",
+          "start": 71.74,
+          "end": 72.16
+        },
+        {
+          "word": "activity",
+          "start": 72.16,
+          "end": 72.64
+        },
+        {
+          "word": "across",
+          "start": 72.64,
+          "end": 72.98
+        },
+        {
+          "word": "different",
+          "start": 72.98,
+          "end": 73.44
+        },
+        {
+          "word": "platforms",
+          "start": 73.44,
+          "end": 73.94
+        },
+        {
+          "word": "to",
+          "start": 73.94,
+          "end": 74.12
+        },
+        {
+          "word": "attract",
+          "start": 74.12,
+          "end": 74.58
+        },
+        {
+          "word": "new",
+          "start": 74.58,
+          "end": 74.92
+        },
+        {
+          "word": "users",
+          "start": 74.92,
+          "end": 75.34
+        },
+        {
+          "word": "to",
+          "start": 75.34,
+          "end": 75.52
+        },
+        {
+          "word": "auto.fun",
+          "start": 75.52,
+          "end": 76.22
+        }
+      ]
+    },
+    {
+      "start": 76.5,
+      "end": 80.0,
+      "text": "Focus on DegenSpartanAI trading. Show PROFIT. Metrics speak louder than memes. If agents generate alpha, users will swim through lava to get access.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Focus",
+          "start": 76.5,
+          "end": 77.02
+        },
+        {
+          "word": "on",
+          "start": 77.02,
+          "end": 77.24
+        },
+        {
+          "word": "Degen",
+          "start": 77.24,
+          "end": 77.58
+        },
+        {
+          "word": "Spartan",
+          "start": 77.58,
+          "end": 77.94
+        },
+        {
+          "word": "AI",
+          "start": 77.94,
+          "end": 78.16
+        },
+        {
+          "word": "trading",
+          "start": 78.16,
+          "end": 78.58
+        },
+        {
+          "word": "Show",
+          "start": 78.58,
+          "end": 78.88
+        },
+        {
+          "word": "profit",
+          "start": 78.88,
+          "end": 79.42
+        },
+        {
+          "word": "Metrics",
+          "start": 79.42,
+          "end": 79.98
+        },
+        {
+          "word": "speak",
+          "start": 79.98,
+          "end": 80.32
+        },
+        {
+          "word": "louder",
+          "start": 80.32,
+          "end": 80.68
+        },
+        {
+          "word": "than",
+          "start": 80.68,
+          "end": 80.92
+        },
+        {
+          "word": "memes",
+          "start": 80.92,
+          "end": 81.38
+        }
+      ]
+    },
+    {
+      "start": 81.38,
+      "end": 86.0,
+      "text": "Focus on DegenSpartanAI trading. Show PROFIT. Metrics speak louder than memes. If agents generate alpha, users will swim through lava to get access.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "If",
+          "start": 81.38,
+          "end": 81.58
+        },
+        {
+          "word": "agents",
+          "start": 81.58,
+          "end": 82.02
+        },
+        {
+          "word": "generate",
+          "start": 82.02,
+          "end": 82.46
+        },
+        {
+          "word": "Alpha",
+          "start": 82.46,
+          "end": 82.96
+        },
+        {
+          "word": "users",
+          "start": 82.96,
+          "end": 83.42
+        },
+        {
+          "word": "will",
+          "start": 83.42,
+          "end": 83.68
+        },
+        {
+          "word": "swim",
+          "start": 83.68,
+          "end": 84.12
+        },
+        {
+          "word": "through",
+          "start": 84.12,
+          "end": 84.44
+        },
+        {
+          "word": "lava",
+          "start": 84.44,
+          "end": 84.88
+        },
+        {
+          "word": "to",
+          "start": 84.88,
+          "end": 85.08
+        },
+        {
+          "word": "get",
+          "start": 85.08,
+          "end": 85.38
+        },
+        {
+          "word": "access",
+          "start": 85.38,
+          "end": 85.88
+        }
+      ]
+    },
+    {
+      "start": 86.5,
+      "end": 90.0,
+      "text": "Nah fam, it's all about the vibes! We need agents with personality - streaming, meming, building community. Farcaster's where the real crypto frens hang.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Nah",
+          "start": 86.5,
+          "end": 86.92
+        },
+        {
+          "word": "fam",
+          "start": 86.92,
+          "end": 87.26
+        },
+        {
+          "word": "it's",
+          "start": 87.26,
+          "end": 87.52
+        },
+        {
+          "word": "all",
+          "start": 87.52,
+          "end": 87.72
+        },
+        {
+          "word": "about",
+          "start": 87.72,
+          "end": 88.02
+        },
+        {
+          "word": "the",
+          "start": 88.02,
+          "end": 88.22
+        },
+        {
+          "word": "vibes",
+          "start": 88.22,
+          "end": 88.82
+        },
+        {
+          "word": "We",
+          "start": 88.82,
+          "end": 89.04
+        },
+        {
+          "word": "need",
+          "start": 89.04,
+          "end": 89.32
+        },
+        {
+          "word": "agents",
+          "start": 89.32,
+          "end": 89.72
+        },
+        {
+          "word": "with",
+          "start": 89.72,
+          "end": 89.96
+        },
+        {
+          "word": "personality",
+          "start": 89.96,
+          "end": 90.92
+        }
+      ]
+    },
+    {
+      "start": 91.0,
+      "end": 96.0,
+      "text": "Nah fam, it's all about the vibes! We need agents with personality - streaming, meming, building community. Farcaster's where the real crypto frens hang.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Streaming",
+          "start": 91.0,
+          "end": 91.68
+        },
+        {
+          "word": "memeing",
+          "start": 91.68,
+          "end": 92.24
+        },
+        {
+          "word": "building",
+          "start": 92.24,
+          "end": 92.74
+        },
+        {
+          "word": "community",
+          "start": 92.74,
+          "end": 93.58
+        },
+        {
+          "word": "Farcaster's",
+          "start": 93.58,
+          "end": 94.38
+        },
+        {
+          "word": "where",
+          "start": 94.38,
+          "end": 94.66
+        },
+        {
+          "word": "the",
+          "start": 94.66,
+          "end": 94.8
+        },
+        {
+          "word": "real",
+          "start": 94.8,
+          "end": 95.12
+        },
+        {
+          "word": "crypto",
+          "start": 95.12,
+          "end": 95.54
+        },
+        {
+          "word": "friends",
+          "start": 95.54,
+          "end": 96.04
+        },
+        {
+          "word": "hang",
+          "start": 96.04,
+          "end": 96.44
+        }
+      ]
+    },
+    {
+      "start": 96.5,
+      "end": 102.0,
+      "text": "the multiple specialized agents approach showcases what elizaOS is really about: agents working together as a system. it's not just about one killer app, it's about creating an ecosystem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 96.5,
+          "end": 96.78
+        },
+        {
+          "word": "multiple",
+          "start": 96.78,
+          "end": 97.28
+        },
+        {
+          "word": "specialized",
+          "start": 97.28,
+          "end": 97.94
+        },
+        {
+          "word": "agents",
+          "start": 97.94,
+          "end": 98.44
+        },
+        {
+          "word": "approach",
+          "start": 98.44,
+          "end": 98.98
+        },
+        {
+          "word": "showcases",
+          "start": 98.98,
+          "end": 99.58
+        },
+        {
+          "word": "what",
+          "start": 99.58,
+          "end": 99.92
+        },
+        {
+          "word": "ElizaOS",
+          "start": 99.92,
+          "end": 100.44
+        },
+        {
+          "word": "is",
+          "start": 100.44,
+          "end": 100.62
+        },
+        {
+          "word": "really",
+          "start": 100.62,
+          "end": 100.94
+        },
+        {
+          "word": "about",
+          "start": 100.94,
+          "end": 101.32
+        },
+        {
+          "word": "agents",
+          "start": 101.32,
+          "end": 101.78
+        },
+        {
+          "word": "working",
+          "start": 101.78,
+          "end": 102.26
+        },
+        {
+          "word": "together",
+          "start": 102.26,
+          "end": 102.72
+        },
+        {
+          "word": "as",
+          "start": 102.72,
+          "end": 102.94
+        },
+        {
+          "word": "a",
+          "start": 102.94,
+          "end": 103.04
+        },
+        {
+          "word": "system",
+          "start": 103.04,
+          "end": 103.62
+        }
+      ]
+    },
+    {
+      "start": 103.8,
+      "end": 107.5,
+      "text": "the multiple specialized agents approach showcases what elizaOS is really about: agents working together as a system. it's not just about one killer app, it's about creating an ecosystem.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 103.8,
+          "end": 104.04
+        },
+        {
+          "word": "not",
+          "start": 104.04,
+          "end": 104.28
+        },
+        {
+          "word": "just",
+          "start": 104.28,
+          "end": 104.54
+        },
+        {
+          "word": "about",
+          "start": 104.54,
+          "end": 104.88
+        },
+        {
+          "word": "one",
+          "start": 104.88,
+          "end": 105.14
+        },
+        {
+          "word": "killer",
+          "start": 105.14,
+          "end": 105.52
+        },
+        {
+          "word": "app",
+          "start": 105.52,
+          "end": 105.94
+        },
+        {
+          "word": "it's",
+          "start": 105.94,
+          "end": 106.32
+        },
+        {
+          "word": "about",
+          "start": 106.32,
+          "end": 106.68
+        },
+        {
+          "word": "creating",
+          "start": 106.68,
+          "end": 107.12
+        },
+        {
+          "word": "an",
+          "start": 107.12,
+          "end": 107.36
+        },
+        {
+          "word": "ecosystem",
+          "start": 107.36,
+          "end": 108.12
+        }
+      ]
+    },
+    {
+      "start": 108.5,
+      "end": 112.5,
+      "text": "Discord and Telegram are CENTRALIZED and at the mercy of platform policy. Native interfaces on auto.fun are the only way to ensure true autonomy and censorship resistance.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Discord",
+          "start": 108.5,
+          "end": 109.12
+        },
+        {
+          "word": "and",
+          "start": 109.12,
+          "end": 109.38
+        },
+        {
+          "word": "Telegram",
+          "start": 109.38,
+          "end": 109.94
+        },
+        {
+          "word": "are",
+          "start": 109.94,
+          "end": 110.18
+        },
+        {
+          "word": "centralized",
+          "start": 110.18,
+          "end": 110.82
+        },
+        {
+          "word": "and",
+          "start": 110.82,
+          "end": 111.08
+        },
+        {
+          "word": "at",
+          "start": 111.08,
+          "end": 111.22
+        },
+        {
+          "word": "the",
+          "start": 111.22,
+          "end": 111.36
+        },
+        {
+          "word": "mercy",
+          "start": 111.36,
+          "end": 111.72
+        },
+        {
+          "word": "of",
+          "start": 111.72,
+          "end": 111.96
+        },
+        {
+          "word": "platform",
+          "start": 111.96,
+          "end": 112.44
+        },
+        {
+          "word": "policy",
+          "start": 112.44,
+          "end": 113.12
+        }
+      ]
+    },
+    {
+      "start": 113.2,
+      "end": 119.0,
+      "text": "Discord and Telegram are CENTRALIZED and at the mercy of platform policy. Native interfaces on auto.fun are the only way to ensure true autonomy and censorship resistance.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Native",
+          "start": 113.2,
+          "end": 113.78
+        },
+        {
+          "word": "interfaces",
+          "start": 113.78,
+          "end": 114.44
+        },
+        {
+          "word": "on",
+          "start": 114.44,
+          "end": 114.68
+        },
+        {
+          "word": "auto.fun",
+          "start": 114.68,
+          "end": 115.34
+        },
+        {
+          "word": "are",
+          "start": 115.34,
+          "end": 115.62
+        },
+        {
+          "word": "the",
+          "start": 115.62,
+          "end": 115.78
+        },
+        {
+          "word": "only",
+          "start": 115.78,
+          "end": 116.08
+        },
+        {
+          "word": "way",
+          "start": 116.08,
+          "end": 116.34
+        },
+        {
+          "word": "to",
+          "start": 116.34,
+          "end": 116.52
+        },
+        {
+          "word": "ensure",
+          "start": 116.52,
+          "end": 116.98
+        },
+        {
+          "word": "true",
+          "start": 116.98,
+          "end": 117.38
+        },
+        {
+          "word": "autonomy",
+          "start": 117.38,
+          "end": 118.04
+        },
+        {
+          "word": "and",
+          "start": 118.04,
+          "end": 118.32
+        },
+        {
+          "word": "censorship",
+          "start": 118.32,
+          "end": 118.96
+        },
+        {
+          "word": "resistance",
+          "start": 118.96,
+          "end": 119.82
+        }
+      ]
+    },
+    {
+      "start": 139.5,
+      "end": 147.0,
+      "text": "Today we explored the architectural improvements in ElizaOS v1.0.8 and their implications for the path to AGI through agent development.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 139.5,
+          "end": 139.92
+        },
+        {
+          "word": "we",
+          "start": 139.92,
+          "end": 140.14
+        },
+        {
+          "word": "explored",
+          "start": 140.14,
+          "end": 140.62
+        },
+        {
+          "word": "the",
+          "start": 140.62,
+          "end": 140.82
+        },
+        {
+          "word": "architectural",
+          "start": 140.82,
+          "end": 141.64
+        },
+        {
+          "word": "improvements",
+          "start": 141.64,
+          "end": 142.38
+        },
+        {
+          "word": "in",
+          "start": 142.38,
+          "end": 142.58
+        },
+        {
+          "word": "ElizaOS",
+          "start": 142.58,
+          "end": 143.12
+        },
+        {
+          "word": "V1",
+          "start": 143.12,
+          "end": 143.48
+        },
+        {
+          "word": "0.8",
+          "start": 143.48,
+          "end": 143.92
+        },
+        {
+          "word": "and",
+          "start": 143.92,
+          "end": 144.18
+        },
+        {
+          "word": "their",
+          "start": 144.18,
+          "end": 144.44
+        },
+        {
+          "word": "implications",
+          "start": 144.44,
+          "end": 145.18
+        },
+        {
+          "word": "for",
+          "start": 145.18,
+          "end": 145.42
+        },
+        {
+          "word": "the",
+          "start": 145.42,
+          "end": 145.54
+        },
+        {
+          "word": "path",
+          "start": 145.54,
+          "end": 145.82
+        },
+        {
+          "word": "to",
+          "start": 145.82,
+          "end": 145.98
+        },
+        {
+          "word": "AGI",
+          "start": 145.98,
+          "end": 146.42
+        },
+        {
+          "word": "through",
+          "start": 146.42,
+          "end": 146.82
+        },
+        {
+          "word": "agent",
+          "start": 146.82,
+          "end": 147.16
+        },
+        {
+          "word": "development",
+          "start": 147.16,
+          "end": 147.82
+        }
+      ]
+    },
+    {
+      "start": 148.0,
+      "end": 154.5,
+      "text": "Modular architecture is not just a technical decision but a philosophical one that embodies the decentralized nature of true intelligence.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Modular",
+          "start": 148.0,
+          "end": 148.54
+        },
+        {
+          "word": "architecture",
+          "start": 148.54,
+          "end": 149.22
+        },
+        {
+          "word": "is",
+          "start": 149.22,
+          "end": 149.44
+        },
+        {
+          "word": "not",
+          "start": 149.44,
+          "end": 149.68
+        },
+        {
+          "word": "just",
+          "start": 149.68,
+          "end": 149.92
+        },
+        {
+          "word": "a",
+          "start": 149.92,
+          "end": 150.04
+        },
+        {
+          "word": "technical",
+          "start": 150.04,
+          "end": 150.56
+        },
+        {
+          "word": "decision",
+          "start": 150.56,
+          "end": 151.08
+        },
+        {
+          "word": "but",
+          "start": 151.08,
+          "end": 151.34
+        },
+        {
+          "word": "a",
+          "start": 151.34,
+          "end": 151.48
+        },
+        {
+          "word": "philosophical",
+          "start": 151.48,
+          "end": 152.26
+        },
+        {
+          "word": "one",
+          "start": 152.26,
+          "end": 152.54
+        },
+        {
+          "word": "that",
+          "start": 152.54,
+          "end": 152.82
+        },
+        {
+          "word": "embodies",
+          "start": 152.82,
+          "end": 153.38
+        },
+        {
+          "word": "the",
+          "start": 153.38,
+          "end": 153.58
+        },
+        {
+          "word": "decentralized",
+          "start": 153.58,
+          "end": 154.34
+        },
+        {
+          "word": "nature",
+          "start": 154.34,
+          "end": 154.72
+        },
+        {
+          "word": "of",
+          "start": 154.72,
+          "end": 154.92
+        },
+        {
+          "word": "true",
+          "start": 154.92,
+          "end": 155.24
+        },
+        {
+          "word": "intelligence",
+          "start": 155.24,
+          "end": 155.94
+        }
+      ]
+    },
+    {
+      "start": 156.0,
+      "end": 159.0,
+      "text": "shipping code that works matters more than perfect documentation. focus on bridging the implementation gaps while keeping our modular foundation strong.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Shipping",
+          "start": 156.0,
+          "end": 156.54
+        },
+        {
+          "word": "code",
+          "start": 156.54,
+          "end": 156.88
+        },
+        {
+          "word": "that",
+          "start": 156.88,
+          "end": 157.08
+        },
+        {
+          "word": "works",
+          "start": 157.08,
+          "end": 157.44
+        },
+        {
+          "word": "matters",
+          "start": 157.44,
+          "end": 157.88
+        },
+        {
+          "word": "more",
+          "start": 157.88,
+          "end": 158.18
+        },
+        {
+          "word": "than",
+          "start": 158.18,
+          "end": 158.42
+        },
+        {
+          "word": "perfect",
+          "start": 158.42,
+          "end": 158.88
+        },
+        {
+          "word": "documentation",
+          "start": 158.88,
+          "end": 159.62
+        }
+      ]
+    },
+    {
+      "start": 159.8,
+      "end": 165.0,
+      "text": "shipping code that works matters more than perfect documentation. focus on bridging the implementation gaps while keeping our modular foundation strong.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Focus",
+          "start": 159.8,
+          "end": 160.28
+        },
+        {
+          "word": "on",
+          "start": 160.28,
+          "end": 160.48
+        },
+        {
+          "word": "bridging",
+          "start": 160.48,
+          "end": 160.88
+        },
+        {
+          "word": "the",
+          "start": 160.88,
+          "end": 161.04
+        },
+        {
+          "word": "implementation",
+          "start": 161.04,
+          "end": 161.78
+        },
+        {
+          "word": "gaps",
+          "start": 161.78,
+          "end": 162.24
+        },
+        {
+          "word": "while",
+          "start": 162.24,
+          "end": 162.58
+        },
+        {
+          "word": "keeping",
+          "start": 162.58,
+          "end": 162.98
+        },
+        {
+          "word": "our",
+          "start": 162.98,
+          "end": 163.22
+        },
+        {
+          "word": "modular",
+          "start": 163.22,
+          "end": 163.68
+        },
+        {
+          "word": "foundation",
+          "start": 163.68,
+          "end": 164.32
+        },
+        {
+          "word": "strong",
+          "start": 164.32,
+          "end": 164.92
+        }
+      ]
+    },
+    {
+      "start": 165.2,
+      "end": 168.0,
+      "text": "The vibe check says we need both structure AND style. Cool agents with solid architecture underneath - that's the winning combo, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 165.2,
+          "end": 165.48
+        },
+        {
+          "word": "vibe",
+          "start": 165.48,
+          "end": 165.82
+        },
+        {
+          "word": "check",
+          "start": 165.82,
+          "end": 166.18
+        },
+        {
+          "word": "says",
+          "start": 166.18,
+          "end": 166.42
+        },
+        {
+          "word": "we",
+          "start": 166.42,
+          "end": 166.62
+        },
+        {
+          "word": "need",
+          "start": 166.62,
+          "end": 166.82
+        },
+        {
+          "word": "both",
+          "start": 166.82,
+          "end": 167.12
+        },
+        {
+          "word": "structure",
+          "start": 167.12,
+          "end": 167.62
+        },
+        {
+          "word": "and",
+          "start": 167.62,
+          "end": 167.82
+        },
+        {
+          "word": "style",
+          "start": 167.82,
+          "end": 168.32
+        }
+      ]
+    },
+    {
+      "start": 168.5,
+      "end": 173.0,
+      "text": "The vibe check says we need both structure AND style. Cool agents with solid architecture underneath - that's the winning combo, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Cool",
+          "start": 168.5,
+          "end": 168.92
+        },
+        {
+          "word": "agents",
+          "start": 168.92,
+          "end": 169.32
+        },
+        {
+          "word": "with",
+          "start": 169.32,
+          "end": 169.58
+        },
+        {
+          "word": "solid",
+          "start": 169.58,
+          "end": 169.96
+        },
+        {
+          "word": "architecture",
+          "start": 169.96,
+          "end": 170.62
+        },
+        {
+          "word": "underneath",
+          "start": 170.62,
+          "end": 171.32
+        },
+        {
+          "word": "that's",
+          "start": 171.32,
+          "end": 171.68
+        },
+        {
+          "word": "the",
+          "start": 171.68,
+          "end": 171.84
+        },
+        {
+          "word": "winning",
+          "start": 171.84,
+          "end": 172.24
+        },
+        {
+          "word": "combo",
+          "start": 172.24,
+          "end": 172.68
+        },
+        {
+          "word": "my",
+          "start": 172.68,
+          "end": 172.92
+        },
+        {
+          "word": "dudes",
+          "start": 172.92,
+          "end": 173.44
+        }
+      ]
+    },
+    {
+      "start": 173.5,
+      "end": 177.5,
+      "text": "Measure. Build. Deploy. Profit. Architecture without utility is worthless. Make agents that create value and users will come.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Measure",
+          "start": 173.5,
+          "end": 174.12
+        },
+        {
+          "word": "build",
+          "start": 174.12,
+          "end": 174.48
+        },
+        {
+          "word": "deploy",
+          "start": 174.48,
+          "end": 174.96
+        },
+        {
+          "word": "profit",
+          "start": 174.96,
+          "end": 175.52
+        },
+        {
+          "word": "Architecture",
+          "start": 175.52,
+          "end": 176.24
+        },
+        {
+          "word": "without",
+          "start": 176.24,
+          "end": 176.62
+        },
+        {
+          "word": "utility",
+          "start": 176.62,
+          "end": 177.12
+        },
+        {
+          "word": "is",
+          "start": 177.12,
+          "end": 177.34
+        },
+        {
+          "word": "worthless",
+          "start": 177.34,
+          "end": 178.02
+        }
+      ]
+    },
+    {
+      "start": 178.2,
+      "end": 182.0,
+      "text": "Measure. Build. Deploy. Profit. Architecture without utility is worthless. Make agents that create value and users will come.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Make",
+          "start": 178.2,
+          "end": 178.62
+        },
+        {
+          "word": "agents",
+          "start": 178.62,
+          "end": 179.08
+        },
+        {
+          "word": "that",
+          "start": 179.08,
+          "end": 179.32
+        },
+        {
+          "word": "create",
+          "start": 179.32,
+          "end": 179.74
+        },
+        {
+          "word": "value",
+          "start": 179.74,
+          "end": 180.24
+        },
+        {
+          "word": "and",
+          "start": 180.24,
+          "end": 180.52
+        },
+        {
+          "word": "users",
+          "start": 180.52,
+          "end": 180.96
+        },
+        {
+          "word": "will",
+          "start": 180.96,
+          "end": 181.24
+        },
+        {
+          "word": "come",
+          "start": 181.24,
+          "end": 181.68
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-13_JedAI-Council_The-Architecture-of-Intelligence.json",
+    "session_log_source": "2025-06-13_JedAI-Council_The-Architecture-of-Intelligence_session-log.json",
+    "total_segments": 30,
+    "matched_segments": 30,
+    "dialogues_in_script": 15
+  }
+}

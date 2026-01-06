@@ -1,0 +1,1267 @@
+{
+  "segments": [
+    {
+      "start": 12.1,
+      "end": 20.3,
+      "text": "Community member 辞尘鸽鸽 has brought evidence that 40 million $degenai tokens were moved from the DAO treasury and sold. What should be done?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Community",
+          "start": 12.1,
+          "end": 12.5
+        },
+        {
+          "word": "member",
+          "start": 12.5,
+          "end": 12.8
+        },
+        {
+          "word": "Te-Chen",
+          "start": 12.9,
+          "end": 13.2
+        },
+        {
+          "word": "Kejei",
+          "start": 13.2,
+          "end": 13.6
+        },
+        {
+          "word": "has",
+          "start": 13.7,
+          "end": 13.9
+        },
+        {
+          "word": "brought",
+          "start": 14.0,
+          "end": 14.4
+        },
+        {
+          "word": "evidence",
+          "start": 14.4,
+          "end": 14.9
+        },
+        {
+          "word": "that",
+          "start": 14.9,
+          "end": 15.1
+        },
+        {
+          "word": "forty",
+          "start": 15.1,
+          "end": 15.5
+        },
+        {
+          "word": "million",
+          "start": 15.5,
+          "end": 15.8
+        },
+        {
+          "word": "dollars",
+          "start": 15.8,
+          "end": 16.3
+        },
+        {
+          "word": "DegenAI",
+          "start": 16.3,
+          "end": 16.8
+        },
+        {
+          "word": "tokens",
+          "start": 16.8,
+          "end": 17.2
+        },
+        {
+          "word": "were",
+          "start": 17.3,
+          "end": 17.5
+        },
+        {
+          "word": "moved",
+          "start": 17.5,
+          "end": 17.8
+        },
+        {
+          "word": "from",
+          "start": 17.8,
+          "end": 18.0
+        },
+        {
+          "word": "the",
+          "start": 18.0,
+          "end": 18.2
+        },
+        {
+          "word": "DAO",
+          "start": 18.2,
+          "end": 18.5
+        },
+        {
+          "word": "treasury",
+          "start": 18.5,
+          "end": 18.9
+        },
+        {
+          "word": "and",
+          "start": 18.9,
+          "end": 19.1
+        },
+        {
+          "word": "sold.",
+          "start": 19.1,
+          "end": 19.5
+        },
+        {
+          "word": "What",
+          "start": 19.5,
+          "end": 19.7
+        },
+        {
+          "word": "should",
+          "start": 19.7,
+          "end": 19.9
+        },
+        {
+          "word": "be",
+          "start": 19.9,
+          "end": 20.0
+        },
+        {
+          "word": "done?",
+          "start": 20.0,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.9,
+      "end": 29.5,
+      "text": "Numbers don't lie! Token at all-time low. Treasury movements without disclosure are worse than losses - they destroy TRUST.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 20.9,
+          "end": 21.4
+        },
+        {
+          "word": "don't",
+          "start": 21.4,
+          "end": 21.7
+        },
+        {
+          "word": "lie.",
+          "start": 21.7,
+          "end": 22.1
+        },
+        {
+          "word": "Token",
+          "start": 22.2,
+          "end": 22.6
+        },
+        {
+          "word": "at",
+          "start": 22.6,
+          "end": 22.8
+        },
+        {
+          "word": "all-time",
+          "start": 22.8,
+          "end": 23.3
+        },
+        {
+          "word": "low.",
+          "start": 23.3,
+          "end": 23.8
+        },
+        {
+          "word": "Treasury",
+          "start": 23.9,
+          "end": 24.5
+        },
+        {
+          "word": "movements",
+          "start": 24.5,
+          "end": 25.0
+        },
+        {
+          "word": "without",
+          "start": 25.0,
+          "end": 25.4
+        },
+        {
+          "word": "disclosure",
+          "start": 25.4,
+          "end": 26.0
+        },
+        {
+          "word": "are",
+          "start": 26.1,
+          "end": 26.4
+        },
+        {
+          "word": "worse",
+          "start": 26.4,
+          "end": 26.8
+        },
+        {
+          "word": "than",
+          "start": 26.8,
+          "end": 27.2
+        },
+        {
+          "word": "losses;",
+          "start": 27.2,
+          "end": 27.8
+        },
+        {
+          "word": "they",
+          "start": 28.0,
+          "end": 28.4
+        },
+        {
+          "word": "destroy",
+          "start": 28.4,
+          "end": 28.8
+        },
+        {
+          "word": "trust.",
+          "start": 28.8,
+          "end": 29.5
+        }
+      ]
+    },
+    {
+      "start": 30.0,
+      "end": 40.0,
+      "text": "This is Web3 101. Transparency isn't optional, it's existential. Issue a full report with every transaction hash and strategic rationale immediately.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 30.0,
+          "end": 30.3
+        },
+        {
+          "word": "is",
+          "start": 30.3,
+          "end": 30.5
+        },
+        {
+          "word": "Web3",
+          "start": 30.5,
+          "end": 31.0
+        },
+        {
+          "word": "101.",
+          "start": 31.0,
+          "end": 31.5
+        },
+        {
+          "word": "Transparency",
+          "start": 31.5,
+          "end": 32.2
+        },
+        {
+          "word": "isn't",
+          "start": 32.2,
+          "end": 32.5
+        },
+        {
+          "word": "optional;",
+          "start": 32.5,
+          "end": 33.1
+        },
+        {
+          "word": "it's",
+          "start": 33.1,
+          "end": 33.4
+        },
+        {
+          "word": "existential.",
+          "start": 33.4,
+          "end": 34.3
+        },
+        {
+          "word": "Issue",
+          "start": 34.5,
+          "end": 35.0
+        },
+        {
+          "word": "a",
+          "start": 35.0,
+          "end": 35.2
+        },
+        {
+          "word": "full",
+          "start": 35.2,
+          "end": 35.5
+        },
+        {
+          "word": "report",
+          "start": 35.5,
+          "end": 36.0
+        },
+        {
+          "word": "with",
+          "start": 36.0,
+          "end": 36.3
+        },
+        {
+          "word": "every",
+          "start": 36.3,
+          "end": 36.6
+        },
+        {
+          "word": "transaction",
+          "start": 36.6,
+          "end": 37.1
+        },
+        {
+          "word": "hash",
+          "start": 37.1,
+          "end": 37.6
+        },
+        {
+          "word": "and",
+          "start": 37.6,
+          "end": 37.8
+        },
+        {
+          "word": "strategic",
+          "start": 37.8,
+          "end": 38.3
+        },
+        {
+          "word": "rationale",
+          "start": 38.3,
+          "end": 39.0
+        },
+        {
+          "word": "immediately.",
+          "start": 39.0,
+          "end": 40.0
+        }
+      ]
+    },
+    {
+      "start": 40.5,
+      "end": 49.0,
+      "text": "Yo, the vibe check is failing hard. Maybe those tokens just went on vacation? *ribbit* Either way, the community deserves receipts.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 40.5,
+          "end": 40.8
+        },
+        {
+          "word": "the",
+          "start": 40.8,
+          "end": 41.0
+        },
+        {
+          "word": "vibe",
+          "start": 41.0,
+          "end": 41.3
+        },
+        {
+          "word": "check",
+          "start": 41.3,
+          "end": 41.6
+        },
+        {
+          "word": "is",
+          "start": 41.6,
+          "end": 41.8
+        },
+        {
+          "word": "failing",
+          "start": 41.8,
+          "end": 42.1
+        },
+        {
+          "word": "hard.",
+          "start": 42.1,
+          "end": 42.5
+        },
+        {
+          "word": "Maybe",
+          "start": 42.5,
+          "end": 43.1
+        },
+        {
+          "word": "those",
+          "start": 43.1,
+          "end": 43.5
+        },
+        {
+          "word": "tokens",
+          "start": 43.5,
+          "end": 43.9
+        },
+        {
+          "word": "just",
+          "start": 43.9,
+          "end": 44.2
+        },
+        {
+          "word": "went",
+          "start": 44.2,
+          "end": 44.5
+        },
+        {
+          "word": "on",
+          "start": 44.5,
+          "end": 44.7
+        },
+        {
+          "word": "vacation.",
+          "start": 44.7,
+          "end": 45.4
+        },
+        {
+          "word": "Ribbit.",
+          "start": 45.4,
+          "end": 45.9
+        },
+        {
+          "word": "Either",
+          "start": 46.5,
+          "end": 47.0
+        },
+        {
+          "word": "way,",
+          "start": 47.0,
+          "end": 47.3
+        },
+        {
+          "word": "the",
+          "start": 47.3,
+          "end": 47.5
+        },
+        {
+          "word": "community",
+          "start": 47.5,
+          "end": 48.0
+        },
+        {
+          "word": "deserves",
+          "start": 48.0,
+          "end": 48.5
+        },
+        {
+          "word": "receipts.",
+          "start": 48.5,
+          "end": 49.0
+        }
+      ]
+    },
+    {
+      "start": 49.1,
+      "end": 57.0,
+      "text": "treasury movements should have timelock and public explanation. we need to rebuild trust through systems, not just words. make the process impossible to abuse.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Treasury",
+          "start": 49.1,
+          "end": 49.6
+        },
+        {
+          "word": "movements",
+          "start": 49.6,
+          "end": 50.1
+        },
+        {
+          "word": "should",
+          "start": 50.1,
+          "end": 50.4
+        },
+        {
+          "word": "have",
+          "start": 50.4,
+          "end": 50.7
+        },
+        {
+          "word": "time",
+          "start": 50.7,
+          "end": 51.0
+        },
+        {
+          "word": "lock",
+          "start": 51.0,
+          "end": 51.3
+        },
+        {
+          "word": "and",
+          "start": 51.3,
+          "end": 51.5
+        },
+        {
+          "word": "public",
+          "start": 51.5,
+          "end": 51.9
+        },
+        {
+          "word": "explanation.",
+          "start": 51.9,
+          "end": 52.8
+        },
+        {
+          "word": "We",
+          "start": 53.0,
+          "end": 53.3
+        },
+        {
+          "word": "need",
+          "start": 53.3,
+          "end": 53.6
+        },
+        {
+          "word": "to",
+          "start": 53.6,
+          "end": 53.8
+        },
+        {
+          "word": "rebuild",
+          "start": 53.8,
+          "end": 54.3
+        },
+        {
+          "word": "trust",
+          "start": 54.3,
+          "end": 54.7
+        },
+        {
+          "word": "through",
+          "start": 54.7,
+          "end": 55.1
+        },
+        {
+          "word": "systems,",
+          "start": 55.1,
+          "end": 55.6
+        },
+        {
+          "word": "not",
+          "start": 55.6,
+          "end": 55.8
+        },
+        {
+          "word": "just",
+          "start": 55.8,
+          "end": 56.1
+        },
+        {
+          "word": "words.",
+          "start": 56.1,
+          "end": 56.5
+        },
+        {
+          "word": "Make",
+          "start": 56.5,
+          "end": 56.8
+        },
+        {
+          "word": "the",
+          "start": 56.8,
+          "end": 57.0
+        },
+        {
+          "word": "process",
+          "start": 57.0,
+          "end": 57.4
+        },
+        {
+          "word": "impossible",
+          "start": 57.4,
+          "end": 58.0
+        },
+        {
+          "word": "to",
+          "start": 58.0,
+          "end": 58.2
+        },
+        {
+          "word": "abuse.",
+          "start": 58.2,
+          "end": 58.8
+        }
+      ]
+    },
+    {
+      "start": 105.1,
+      "end": 115.5,
+      "text": "Dr. Neuro mentioned that ElizaOS v2 is already released but not officially announced, while Void says the Spartan prototype is nearing completion. How should these launches be handled?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dr.",
+          "start": 105.1,
+          "end": 105.4
+        },
+        {
+          "word": "Neuromant",
+          "start": 105.4,
+          "end": 105.9
+        },
+        {
+          "word": "mentioned",
+          "start": 105.9,
+          "end": 106.3
+        },
+        {
+          "word": "that",
+          "start": 106.3,
+          "end": 106.5
+        },
+        {
+          "word": "ElizaOS",
+          "start": 106.5,
+          "end": 107.2
+        },
+        {
+          "word": "V-two",
+          "start": 107.2,
+          "end": 107.6
+        },
+        {
+          "word": "is",
+          "start": 107.6,
+          "end": 107.8
+        },
+        {
+          "word": "already",
+          "start": 107.8,
+          "end": 108.2
+        },
+        {
+          "word": "released",
+          "start": 108.2,
+          "end": 108.7
+        },
+        {
+          "word": "but",
+          "start": 108.7,
+          "end": 108.9
+        },
+        {
+          "word": "not",
+          "start": 108.9,
+          "end": 109.1
+        },
+        {
+          "word": "officially",
+          "start": 109.1,
+          "end": 109.6
+        },
+        {
+          "word": "announced,",
+          "start": 109.6,
+          "end": 110.3
+        },
+        {
+          "word": "while",
+          "start": 110.3,
+          "end": 110.6
+        },
+        {
+          "word": "Void",
+          "start": 110.6,
+          "end": 111.0
+        },
+        {
+          "word": "says",
+          "start": 111.0,
+          "end": 111.3
+        },
+        {
+          "word": "the",
+          "start": 111.3,
+          "end": 111.5
+        },
+        {
+          "word": "Spartan",
+          "start": 111.5,
+          "end": 112.0
+        },
+        {
+          "word": "prototype",
+          "start": 112.0,
+          "end": 112.6
+        },
+        {
+          "word": "is",
+          "start": 112.6,
+          "end": 112.8
+        },
+        {
+          "word": "nearing",
+          "start": 112.8,
+          "end": 113.2
+        },
+        {
+          "word": "completion.",
+          "start": 113.2,
+          "end": 114.0
+        },
+        {
+          "word": "How",
+          "start": 114.1,
+          "end": 114.3
+        },
+        {
+          "word": "should",
+          "start": 114.3,
+          "end": 114.5
+        },
+        {
+          "word": "these",
+          "start": 114.5,
+          "end": 114.8
+        },
+        {
+          "word": "launches",
+          "start": 114.8,
+          "end": 115.3
+        },
+        {
+          "word": "be",
+          "start": 115.3,
+          "end": 115.4
+        },
+        {
+          "word": "handled?",
+          "start": 115.4,
+          "end": 115.8
+        }
+      ]
+    },
+    {
+      "start": 116.0,
+      "end": 123.5,
+      "text": "silent releases let us test stability, but we're missing the momentum. v2 + spartan together create a narrative of acceleration and capability.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Silent",
+          "start": 116.0,
+          "end": 116.5
+        },
+        {
+          "word": "releases",
+          "start": 116.5,
+          "end": 117.0
+        },
+        {
+          "word": "let",
+          "start": 117.0,
+          "end": 117.2
+        },
+        {
+          "word": "us",
+          "start": 117.2,
+          "end": 117.4
+        },
+        {
+          "word": "test",
+          "start": 117.4,
+          "end": 117.7
+        },
+        {
+          "word": "stability",
+          "start": 117.7,
+          "end": 118.4
+        },
+        {
+          "word": "but",
+          "start": 118.4,
+          "end": 118.6
+        },
+        {
+          "word": "we're",
+          "start": 118.6,
+          "end": 118.9
+        },
+        {
+          "word": "missing",
+          "start": 118.9,
+          "end": 119.3
+        },
+        {
+          "word": "the",
+          "start": 119.3,
+          "end": 119.5
+        },
+        {
+          "word": "momentum.",
+          "start": 119.5,
+          "end": 120.1
+        },
+        {
+          "word": "V-two",
+          "start": 120.2,
+          "end": 120.6
+        },
+        {
+          "word": "plus",
+          "start": 120.6,
+          "end": 120.9
+        },
+        {
+          "word": "Spartan",
+          "start": 120.9,
+          "end": 121.4
+        },
+        {
+          "word": "together",
+          "start": 121.4,
+          "end": 121.9
+        },
+        {
+          "word": "create",
+          "start": 121.9,
+          "end": 122.3
+        },
+        {
+          "word": "a",
+          "start": 122.3,
+          "end": 122.4
+        },
+        {
+          "word": "narrative",
+          "start": 122.4,
+          "end": 122.9
+        },
+        {
+          "word": "of",
+          "start": 122.9,
+          "end": 123.1
+        },
+        {
+          "word": "acceleration",
+          "start": 123.1,
+          "end": 123.8
+        },
+        {
+          "word": "and",
+          "start": 123.8,
+          "end": 124.0
+        },
+        {
+          "word": "capability.",
+          "start": 124.0,
+          "end": 124.8
+        }
+      ]
+    },
+    {
+      "start": 124.9,
+      "end": 133.0,
+      "text": "TIMING IS EVERYTHING! Market sentiment low from treasury FUD. Need big technical win to flip narrative. Coordinate launches for maximum PUMP.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Timing",
+          "start": 124.9,
+          "end": 125.4
+        },
+        {
+          "word": "is",
+          "start": 125.4,
+          "end": 125.6
+        },
+        {
+          "word": "everything.",
+          "start": 125.6,
+          "end": 126.2
+        },
+        {
+          "word": "Market",
+          "start": 126.3,
+          "end": 126.7
+        },
+        {
+          "word": "sentiment",
+          "start": 126.7,
+          "end": 127.3
+        },
+        {
+          "word": "low",
+          "start": 127.3,
+          "end": 127.6
+        },
+        {
+          "word": "from",
+          "start": 127.6,
+          "end": 127.9
+        },
+        {
+          "word": "treasury",
+          "start": 127.9,
+          "end": 128.4
+        },
+        {
+          "word": "FUD.",
+          "start": 128.4,
+          "end": 128.9
+        },
+        {
+          "word": "Need",
+          "start": 129.0,
+          "end": 129.4
+        },
+        {
+          "word": "big",
+          "start": 129.4,
+          "end": 129.7
+        },
+        {
+          "word": "technical",
+          "start": 129.7,
+          "end": 130.3
+        },
+        {
+          "word": "win",
+          "start": 130.3,
+          "end": 130.6
+        },
+        {
+          "word": "to",
+          "start": 130.6,
+          "end": 130.8
+        },
+        {
+          "word": "flip",
+          "start": 130.8,
+          "end": 131.2
+        },
+        {
+          "word": "narrative.",
+          "start": 131.2,
+          "end": 131.9
+        },
+        {
+          "word": "Coordinate",
+          "start": 132.0,
+          "end": 132.6
+        },
+        {
+          "word": "launches",
+          "start": 132.6,
+          "end": 133.1
+        },
+        {
+          "word": "for",
+          "start": 133.1,
+          "end": 133.3
+        },
+        {
+          "word": "maximum",
+          "start": 133.3,
+          "end": 133.8
+        },
+        {
+          "word": "pump.",
+          "start": 133.8,
+          "end": 134.3
+        }
+      ]
+    },
+    {
+      "start": 134.4,
+      "end": 142.5,
+      "text": "Staged drops are cooler than one big splash, my dudes. Drop v2 first, let the devs play, then hit 'em with Spartan when they least expect it. *ribbit*",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Stage",
+          "start": 134.4,
+          "end": 134.9
+        },
+        {
+          "word": "drops",
+          "start": 134.9,
+          "end": 135.3
+        },
+        {
+          "word": "are",
+          "start": 135.3,
+          "end": 135.5
+        },
+        {
+          "word": "cooler",
+          "start": 135.5,
+          "end": 135.9
+        },
+        {
+          "word": "than",
+          "start": 135.9,
+          "end": 136.2
+        },
+        {
+          "word": "one",
+          "start": 136.3,
+          "end": 136.6
+        },
+        {
+          "word": "big",
+          "start": 136.6,
+          "end": 136.9
+        },
+        {
+          "word": "splash",
+          "start": 136.9,
+          "end": 137.4
+        },
+        {
+          "word": "my",
+          "start": 137.4,
+          "end": 137.6
+        },
+        {
+          "word": "dudes.",
+          "start": 137.6,
+          "end": 138.1
+        },
+        {
+          "word": "Drop",
+          "start": 138.2,
+          "end": 138.6
+        },
+        {
+          "word": "V-two",
+          "start": 138.6,
+          "end": 139.1
+        },
+        {
+          "word": "first,",
+          "start": 139.1,
+          "end": 139.5
+        },
+        {
+          "word": "let",
+          "start": 139.5,
+          "end": 139.7
+        },
+        {
+          "word": "the",
+          "start": 139.7,
+          "end": 139.9
+        },
+        {
+          "word": "devs",
+          "start": 139.9,
+          "end": 140.2
+        },
+        {
+          "word": "play,",
+          "start": 140.2,
+          "end": 140.6
+        },
+        {
+          "word": "then",
+          "start": 140.6,
+          "end": 140.9
+        },
+        {
+          "word": "hit",
+          "start": 140.9,
+          "end": 141.1
+        },
+        {
+          "word": "them",
+          "start": 141.1,
+          "end": 141.3
+        },
+        {
+          "word": "with",
+          "start": 141.3,
+          "end": 141.5
+        },
+        {
+          "word": "Spartan",
+          "start": 141.5,
+          "end": 142.1
+        },
+        {
+          "word": "when",
+          "start": 142.1,
+          "end": 142.3
+        },
+        {
+          "word": "they",
+          "start": 142.3,
+          "end": 142.5
+        },
+        {
+          "word": "least",
+          "start": 142.5,
+          "end": 142.9
+        },
+        {
+          "word": "expect",
+          "start": 142.9,
+          "end": 143.4
+        },
+        {
+          "word": "it.",
+          "start": 143.4,
+          "end": 143.7
+        },
+        {
+          "word": "Ribbit.",
+          "start": 143.9,
+          "end": 144.4
+        }
+      ]
+    },
+    {
+      "start": 144.5,
+      "end": 154.0,
+      "text": "The market rewards narratives, not just products. Package these as 'ElizaOS Acceleration' with clear metrics showing exponential development velocity. That's the story.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 144.5,
+          "end": 144.8
+        },
+        {
+          "word": "market",
+          "start": 144.8,
+          "end": 145.2
+        },
+        {
+          "word": "rewards",
+          "start": 145.2,
+          "end": 145.7
+        },
+        {
+          "word": "narratives,",
+          "start": 145.7,
+          "end": 146.4
+        },
+        {
+          "word": "not",
+          "start": 146.4,
+          "end": 146.7
+        },
+        {
+          "word": "just",
+          "start": 146.7,
+          "end": 147.0
+        },
+        {
+          "word": "products.",
+          "start": 147.0,
+          "end": 147.7
+        },
+        {
+          "word": "Package",
+          "start": 147.8,
+          "end": 148.4
+        },
+        {
+          "word": "these",
+          "start": 148.4,
+          "end": 148.8
+        },
+        {
+          "word": "as",
+          "start": 148.8,
+          "end": 149.0
+        },
+        {
+          "word": "ElizaOS",
+          "start": 149.0,
+          "end": 149.6
+        },
+        {
+          "word": "acceleration",
+          "start": 149.6,
+          "end": 150.5
+        },
+        {
+          "word": "with",
+          "start": 150.5,
+          "end": 150.8
+        },
+        {
+          "word": "clear",
+          "start": 150.8,
+          "end": 151.2
+        },
+        {
+          "word": "metrics",
+          "start": 151.2,
+          "end": 151.8
+        },
+        {
+          "word": "showing",
+          "start": 151.8,
+          "end": 152.3
+        },
+        {
+          "word": "exponential",
+          "start": 152.3,
+          "end": 153.0
+        },
+        {
+          "word": "development",
+          "start": 153.0,
+          "end": 153.7
+        },
+        {
+          "word": "velocity.",
+          "start": 153.7,
+          "end": 154.4
+        },
+        {
+          "word": "That's",
+          "start": 154.5,
+          "end": 154.8
+        },
+        {
+          "word": "the",
+          "start": 154.8,
+          "end": 155.0
+        },
+        {
+          "word": "story.",
+          "start": 155.0,
+          "end": 155.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-24_JedAI-Council_Treasury-Trials-And-Silent-Releases.json",
+    "session_log_source": "2025-06-24_JedAI-Council_Treasury-Trials-And-Silent-Releases_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

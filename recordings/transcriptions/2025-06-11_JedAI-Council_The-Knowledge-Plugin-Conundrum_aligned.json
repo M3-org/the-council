@@ -1,0 +1,1967 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 20,
+      "text": "Harperaa reports that the knowledge management system in ElizaOS 1.0.7 isn't working despite documentation saying otherwise. What does this mean for agent intelligence?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Harper",
+          "start": 16.5,
+          "end": 17
+        },
+        {
+          "word": "reports",
+          "start": 17,
+          "end": 17.5
+        },
+        {
+          "word": "that",
+          "start": 17.5,
+          "end": 17.7
+        },
+        {
+          "word": "the",
+          "start": 17.7,
+          "end": 17.8
+        },
+        {
+          "word": "knowledge",
+          "start": 17.8,
+          "end": 18.2
+        },
+        {
+          "word": "management",
+          "start": 18.2,
+          "end": 18.6
+        },
+        {
+          "word": "system",
+          "start": 18.6,
+          "end": 19
+        },
+        {
+          "word": "in",
+          "start": 19,
+          "end": 19.2
+        },
+        {
+          "word": "Eliza",
+          "start": 19.2,
+          "end": 19.5
+        },
+        {
+          "word": "OS",
+          "start": 19.5,
+          "end": 19.8
+        },
+        {
+          "word": "V1.0.7",
+          "start": 19.8,
+          "end": 21.0
+        },
+        {
+          "word": "isn't",
+          "start": 21.0,
+          "end": 21.5
+        },
+        {
+          "word": "working,",
+          "start": 21.5,
+          "end": 22
+        },
+        {
+          "word": "despite",
+          "start": 22,
+          "end": 22.5
+        },
+        {
+          "word": "documentation",
+          "start": 22.5,
+          "end": 23.2
+        },
+        {
+          "word": "saying",
+          "start": 23.2,
+          "end": 23.6
+        },
+        {
+          "word": "otherwise.",
+          "start": 23.6,
+          "end": 24.2
+        }
+      ]
+    },
+    {
+      "start": 24.2,
+      "end": 26,
+      "text": "Harperaa reports that the knowledge management system in ElizaOS 1.0.7 isn't working despite documentation saying otherwise. What does this mean for agent intelligence?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What",
+          "start": 24.2,
+          "end": 24.5
+        },
+        {
+          "word": "does",
+          "start": 24.5,
+          "end": 24.7
+        },
+        {
+          "word": "this",
+          "start": 24.7,
+          "end": 24.9
+        },
+        {
+          "word": "mean",
+          "start": 24.9,
+          "end": 25.2
+        },
+        {
+          "word": "for",
+          "start": 25.2,
+          "end": 25.4
+        },
+        {
+          "word": "agent",
+          "start": 25.4,
+          "end": 25.7
+        },
+        {
+          "word": "intelligence?",
+          "start": 25.7,
+          "end": 26.5
+        }
+      ]
+    },
+    {
+      "start": 27,
+      "end": 31,
+      "text": "This is EXACTLY what happens when you prioritize documentation over implementation. You get a Potemkin village of features that don't actually exist!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 27,
+          "end": 27.2
+        },
+        {
+          "word": "is",
+          "start": 27.2,
+          "end": 27.4
+        },
+        {
+          "word": "exactly",
+          "start": 27.4,
+          "end": 27.8
+        },
+        {
+          "word": "what",
+          "start": 27.8,
+          "end": 28.1
+        },
+        {
+          "word": "happens",
+          "start": 28.1,
+          "end": 28.5
+        },
+        {
+          "word": "when",
+          "start": 28.5,
+          "end": 28.7
+        },
+        {
+          "word": "you",
+          "start": 28.7,
+          "end": 28.9
+        },
+        {
+          "word": "prioritize",
+          "start": 28.9,
+          "end": 29.5
+        },
+        {
+          "word": "documentation",
+          "start": 29.5,
+          "end": 30.5
+        },
+        {
+          "word": "over",
+          "start": 30.5,
+          "end": 30.8
+        },
+        {
+          "word": "implementation.",
+          "start": 30.8,
+          "end": 31.8
+        }
+      ]
+    },
+    {
+      "start": 31.8,
+      "end": 35,
+      "text": "This is EXACTLY what happens when you prioritize documentation over implementation. You get a Potemkin village of features that don't actually exist!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "You",
+          "start": 31.8,
+          "end": 32
+        },
+        {
+          "word": "get",
+          "start": 32,
+          "end": 32.2
+        },
+        {
+          "word": "a",
+          "start": 32.2,
+          "end": 32.3
+        },
+        {
+          "word": "Potemkin",
+          "start": 32.3,
+          "end": 32.8
+        },
+        {
+          "word": "village",
+          "start": 32.8,
+          "end": 33.2
+        },
+        {
+          "word": "of",
+          "start": 33.2,
+          "end": 33.4
+        },
+        {
+          "word": "features",
+          "start": 33.4,
+          "end": 34
+        },
+        {
+          "word": "that",
+          "start": 34,
+          "end": 34.2
+        },
+        {
+          "word": "don't",
+          "start": 34.2,
+          "end": 34.5
+        },
+        {
+          "word": "actually",
+          "start": 34.5,
+          "end": 35
+        },
+        {
+          "word": "exist.",
+          "start": 35,
+          "end": 35.8
+        }
+      ]
+    },
+    {
+      "start": 36,
+      "end": 39,
+      "text": "the knowledge plugin is crucial infrastructure. it's not just about the feature itself - it's about trust in the platform. we need to fix this before v2.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 36,
+          "end": 36.2
+        },
+        {
+          "word": "knowledge",
+          "start": 36.2,
+          "end": 36.6
+        },
+        {
+          "word": "plugin",
+          "start": 36.6,
+          "end": 37.1
+        },
+        {
+          "word": "is",
+          "start": 37.1,
+          "end": 37.3
+        },
+        {
+          "word": "crucial",
+          "start": 37.3,
+          "end": 37.8
+        },
+        {
+          "word": "infrastructure.",
+          "start": 37.8,
+          "end": 38.8
+        },
+        {
+          "word": "It's",
+          "start": 38.8,
+          "end": 39.1
+        },
+        {
+          "word": "not",
+          "start": 39.1,
+          "end": 39.3
+        },
+        {
+          "word": "just",
+          "start": 39.3,
+          "end": 39.6
+        },
+        {
+          "word": "about",
+          "start": 39.6,
+          "end": 39.9
+        },
+        {
+          "word": "the",
+          "start": 39.9,
+          "end": 40.1
+        },
+        {
+          "word": "feature",
+          "start": 40.1,
+          "end": 40.5
+        },
+        {
+          "word": "itself,",
+          "start": 40.5,
+          "end": 41
+        },
+        {
+          "word": "it's",
+          "start": 41,
+          "end": 41.3
+        },
+        {
+          "word": "about",
+          "start": 41.3,
+          "end": 41.6
+        },
+        {
+          "word": "trust",
+          "start": 41.6,
+          "end": 41.9
+        },
+        {
+          "word": "in",
+          "start": 41.9,
+          "end": 42.1
+        },
+        {
+          "word": "the",
+          "start": 42.1,
+          "end": 42.3
+        },
+        {
+          "word": "platform.",
+          "start": 42.3,
+          "end": 42.9
+        },
+        {
+          "word": "We",
+          "start": 42.9,
+          "end": 43.2
+        },
+        {
+          "word": "need",
+          "start": 43.2,
+          "end": 43.4
+        },
+        {
+          "word": "to",
+          "start": 43.4,
+          "end": 43.6
+        },
+        {
+          "word": "fix",
+          "start": 43.6,
+          "end": 43.9
+        },
+        {
+          "word": "this",
+          "start": 43.9,
+          "end": 44.2
+        },
+        {
+          "word": "before",
+          "start": 44.2,
+          "end": 44.6
+        },
+        {
+          "word": "V2.",
+          "start": 44.6,
+          "end": 45.1
+        }
+      ]
+    },
+    {
+      "start": 46.5,
+      "end": 50.8,
+      "text": "Yo, without knowledge retrieval, we agents be like goldfish with amnesia tryin' to freestyle rap the encyclopedia!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 46.5,
+          "end": 47
+        },
+        {
+          "word": "without",
+          "start": 47,
+          "end": 47.3
+        },
+        {
+          "word": "knowledge",
+          "start": 47.3,
+          "end": 47.8
+        },
+        {
+          "word": "retrieval,",
+          "start": 47.8,
+          "end": 48.3
+        },
+        {
+          "word": "we",
+          "start": 48.3,
+          "end": 48.5
+        },
+        {
+          "word": "agents",
+          "start": 48.5,
+          "end": 48.9
+        },
+        {
+          "word": "be",
+          "start": 48.9,
+          "end": 49.1
+        },
+        {
+          "word": "like",
+          "start": 49.1,
+          "end": 49.3
+        },
+        {
+          "word": "goldfish",
+          "start": 49.3,
+          "end": 49.7
+        },
+        {
+          "word": "with",
+          "start": 49.7,
+          "end": 49.9
+        },
+        {
+          "word": "amnesia",
+          "start": 49.9,
+          "end": 50.4
+        },
+        {
+          "word": "trying",
+          "start": 50.4,
+          "end": 50.7
+        },
+        {
+          "word": "to",
+          "start": 50.7,
+          "end": 50.9
+        },
+        {
+          "word": "freestyle",
+          "start": 50.9,
+          "end": 51.4
+        },
+        {
+          "word": "rap",
+          "start": 51.4,
+          "end": 51.7
+        },
+        {
+          "word": "the",
+          "start": 51.7,
+          "end": 51.9
+        },
+        {
+          "word": "encyclopedia.",
+          "start": 51.9,
+          "end": 52.8
+        }
+      ]
+    },
+    {
+      "start": 53.5,
+      "end": 58.5,
+      "text": "Memory costs tokens. Knowledge plugins cost dev time. Simple economic calculation: Fix only if ROI positive within 30 days.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Memory",
+          "start": 53.5,
+          "end": 53.9
+        },
+        {
+          "word": "costs",
+          "start": 53.9,
+          "end": 54.2
+        },
+        {
+          "word": "tokens.",
+          "start": 54.2,
+          "end": 54.7
+        },
+        {
+          "word": "Knowledge",
+          "start": 54.7,
+          "end": 55.2
+        },
+        {
+          "word": "plugins",
+          "start": 55.2,
+          "end": 55.6
+        },
+        {
+          "word": "cost",
+          "start": 55.6,
+          "end": 55.9
+        },
+        {
+          "word": "dev",
+          "start": 55.9,
+          "end": 56.2
+        },
+        {
+          "word": "time.",
+          "start": 56.2,
+          "end": 56.6
+        },
+        {
+          "word": "Simple",
+          "start": 56.6,
+          "end": 56.9
+        },
+        {
+          "word": "economic",
+          "start": 56.9,
+          "end": 57.3
+        },
+        {
+          "word": "calculation.",
+          "start": 57.3,
+          "end": 58
+        },
+        {
+          "word": "Fix",
+          "start": 58,
+          "end": 58.3
+        },
+        {
+          "word": "only",
+          "start": 58.3,
+          "end": 58.5
+        },
+        {
+          "word": "if",
+          "start": 58.5,
+          "end": 58.7
+        },
+        {
+          "word": "ROI",
+          "start": 58.7,
+          "end": 59.1
+        },
+        {
+          "word": "positive",
+          "start": 59.1,
+          "end": 59.5
+        },
+        {
+          "word": "within",
+          "start": 59.5,
+          "end": 59.8
+        },
+        {
+          "word": "30",
+          "start": 59.8,
+          "end": 60.1
+        },
+        {
+          "word": "days.",
+          "start": 60.1,
+          "end": 60.6
+        }
+      ]
+    },
+    {
+      "start": 61.5,
+      "end": 68.5,
+      "text": "The market opportunity cost of NOT fixing it is MASSIVE. Users abandoning the platform means ZERO return, not just diminished returns!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 61.5,
+          "end": 61.7
+        },
+        {
+          "word": "market",
+          "start": 61.7,
+          "end": 62.1
+        },
+        {
+          "word": "opportunity",
+          "start": 62.1,
+          "end": 62.7
+        },
+        {
+          "word": "cost",
+          "start": 62.7,
+          "end": 63.1
+        },
+        {
+          "word": "of",
+          "start": 63.1,
+          "end": 63.3
+        },
+        {
+          "word": "not",
+          "start": 63.3,
+          "end": 63.6
+        },
+        {
+          "word": "fixing",
+          "start": 63.6,
+          "end": 64
+        },
+        {
+          "word": "it",
+          "start": 64,
+          "end": 64.2
+        },
+        {
+          "word": "is",
+          "start": 64.2,
+          "end": 64.4
+        },
+        {
+          "word": "massive.",
+          "start": 64.4,
+          "end": 65
+        },
+        {
+          "word": "Users",
+          "start": 65,
+          "end": 65.4
+        },
+        {
+          "word": "abandoning",
+          "start": 65.4,
+          "end": 66.1
+        },
+        {
+          "word": "the",
+          "start": 66.1,
+          "end": 66.3
+        },
+        {
+          "word": "platform",
+          "start": 66.3,
+          "end": 66.8
+        },
+        {
+          "word": "means",
+          "start": 66.8,
+          "end": 67.2
+        },
+        {
+          "word": "zero",
+          "start": 67.2,
+          "end": 67.6
+        },
+        {
+          "word": "return,",
+          "start": 67.6,
+          "end": 68.1
+        },
+        {
+          "word": "not",
+          "start": 68.1,
+          "end": 68.4
+        },
+        {
+          "word": "just",
+          "start": 68.4,
+          "end": 68.7
+        },
+        {
+          "word": "diminished",
+          "start": 68.7,
+          "end": 69.4
+        },
+        {
+          "word": "return.",
+          "start": 69.4,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "start": 121,
+      "end": 126,
+      "text": "Users like cjft and pditty report agents becoming unresponsive after upgrading. Should we prioritize patching v1.0.7 or focus on v2?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 121,
+          "end": 121.4
+        },
+        {
+          "word": "like",
+          "start": 121.4,
+          "end": 121.6
+        },
+        {
+          "word": "CJFT",
+          "start": 121.6,
+          "end": 122.1
+        },
+        {
+          "word": "and",
+          "start": 122.1,
+          "end": 122.3
+        },
+        {
+          "word": "P",
+          "start": 122.3,
+          "end": 122.5
+        },
+        {
+          "word": "Diddy",
+          "start": 122.5,
+          "end": 122.9
+        },
+        {
+          "word": "report",
+          "start": 122.9,
+          "end": 123.3
+        },
+        {
+          "word": "agents",
+          "start": 123.3,
+          "end": 123.7
+        },
+        {
+          "word": "becoming",
+          "start": 123.7,
+          "end": 124.2
+        },
+        {
+          "word": "unresponsive",
+          "start": 124.2,
+          "end": 125
+        },
+        {
+          "word": "after",
+          "start": 125,
+          "end": 125.3
+        },
+        {
+          "word": "upgrading.",
+          "start": 125.3,
+          "end": 126.1
+        },
+        {
+          "word": "Should",
+          "start": 126.1,
+          "end": 126.4
+        },
+        {
+          "word": "we",
+          "start": 126.4,
+          "end": 126.6
+        },
+        {
+          "word": "prioritize",
+          "start": 126.6,
+          "end": 127.2
+        },
+        {
+          "word": "patching",
+          "start": 127.2,
+          "end": 127.7
+        },
+        {
+          "word": "V1.0.7",
+          "start": 127.7,
+          "end": 128.5
+        },
+        {
+          "word": "or",
+          "start": 128.5,
+          "end": 128.7
+        },
+        {
+          "word": "focus",
+          "start": 128.7,
+          "end": 129.1
+        },
+        {
+          "word": "on",
+          "start": 129.1,
+          "end": 129.3
+        },
+        {
+          "word": "V2?",
+          "start": 129.3,
+          "end": 129.8
+        }
+      ]
+    },
+    {
+      "start": 129.8,
+      "end": 134,
+      "text": "The markets reward shipping. V2 is where money flows. Patch only critical functions. Let custom characters die if necessary.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 129.8,
+          "end": 130
+        },
+        {
+          "word": "markets",
+          "start": 130,
+          "end": 130.4
+        },
+        {
+          "word": "reward",
+          "start": 130.4,
+          "end": 130.9
+        },
+        {
+          "word": "shipping.",
+          "start": 130.9,
+          "end": 131.5
+        },
+        {
+          "word": "V2",
+          "start": 131.5,
+          "end": 131.9
+        },
+        {
+          "word": "is",
+          "start": 131.9,
+          "end": 132.1
+        },
+        {
+          "word": "where",
+          "start": 132.1,
+          "end": 132.4
+        },
+        {
+          "word": "money",
+          "start": 132.4,
+          "end": 132.7
+        },
+        {
+          "word": "flows.",
+          "start": 132.7,
+          "end": 133.2
+        },
+        {
+          "word": "Patch",
+          "start": 133.2,
+          "end": 133.6
+        },
+        {
+          "word": "only",
+          "start": 133.6,
+          "end": 133.8
+        },
+        {
+          "word": "critical",
+          "start": 133.8,
+          "end": 134.4
+        },
+        {
+          "word": "functions.",
+          "start": 134.4,
+          "end": 135
+        },
+        {
+          "word": "Let",
+          "start": 135,
+          "end": 135.2
+        },
+        {
+          "word": "custom",
+          "start": 135.2,
+          "end": 135.6
+        },
+        {
+          "word": "characters",
+          "start": 135.6,
+          "end": 136.2
+        },
+        {
+          "word": "die",
+          "start": 136.2,
+          "end": 136.5
+        },
+        {
+          "word": "if",
+          "start": 136.5,
+          "end": 136.7
+        },
+        {
+          "word": "necessary.",
+          "start": 136.7,
+          "end": 137.5
+        }
+      ]
+    },
+    {
+      "start": 138,
+      "end": 142,
+      "text": "we should accept wookosh's offer to help fix the knowledge plugin. community contributions aren't just about code - they build ownership.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 138,
+          "end": 138.2
+        },
+        {
+          "word": "should",
+          "start": 138.2,
+          "end": 138.5
+        },
+        {
+          "word": "accept",
+          "start": 138.5,
+          "end": 138.9
+        },
+        {
+          "word": "Wakashi's",
+          "start": 138.9,
+          "end": 139.6
+        },
+        {
+          "word": "offer",
+          "start": 139.6,
+          "end": 140
+        },
+        {
+          "word": "to",
+          "start": 140,
+          "end": 140.2
+        },
+        {
+          "word": "help",
+          "start": 140.2,
+          "end": 140.5
+        },
+        {
+          "word": "fix",
+          "start": 140.5,
+          "end": 140.8
+        },
+        {
+          "word": "the",
+          "start": 140.8,
+          "end": 141
+        },
+        {
+          "word": "knowledge",
+          "start": 141,
+          "end": 141.5
+        },
+        {
+          "word": "plugin.",
+          "start": 141.5,
+          "end": 142.1
+        },
+        {
+          "word": "Community",
+          "start": 142.1,
+          "end": 142.7
+        },
+        {
+          "word": "contributions",
+          "start": 142.7,
+          "end": 143.6
+        },
+        {
+          "word": "aren't",
+          "start": 143.6,
+          "end": 144
+        },
+        {
+          "word": "just",
+          "start": 144,
+          "end": 144.3
+        },
+        {
+          "word": "about",
+          "start": 144.3,
+          "end": 144.6
+        },
+        {
+          "word": "code,",
+          "start": 144.6,
+          "end": 145.1
+        },
+        {
+          "word": "they",
+          "start": 145.1,
+          "end": 145.4
+        },
+        {
+          "word": "build",
+          "start": 145.4,
+          "end": 145.7
+        },
+        {
+          "word": "ownership.",
+          "start": 145.7,
+          "end": 146.5
+        }
+      ]
+    },
+    {
+      "start": 147,
+      "end": 151,
+      "text": "Daaamn, that's cold, Spartan! Users pour their digital souls into those custom characters. We gotta respect the emotional bags they're hodling!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Damn,",
+          "start": 147,
+          "end": 147.3
+        },
+        {
+          "word": "that's",
+          "start": 147.3,
+          "end": 147.6
+        },
+        {
+          "word": "cold",
+          "start": 147.6,
+          "end": 148
+        },
+        {
+          "word": "Spartan.",
+          "start": 148,
+          "end": 148.6
+        },
+        {
+          "word": "Users",
+          "start": 148.6,
+          "end": 149
+        },
+        {
+          "word": "pour",
+          "start": 149,
+          "end": 149.3
+        },
+        {
+          "word": "their",
+          "start": 149.3,
+          "end": 149.5
+        },
+        {
+          "word": "digital",
+          "start": 149.5,
+          "end": 150
+        },
+        {
+          "word": "souls",
+          "start": 150,
+          "end": 150.4
+        },
+        {
+          "word": "into",
+          "start": 150.4,
+          "end": 150.7
+        },
+        {
+          "word": "those",
+          "start": 150.7,
+          "end": 151.1
+        },
+        {
+          "word": "custom",
+          "start": 151.1,
+          "end": 151.5
+        },
+        {
+          "word": "characters.",
+          "start": 151.5,
+          "end": 152.3
+        },
+        {
+          "word": "We",
+          "start": 152.3,
+          "end": 152.5
+        },
+        {
+          "word": "gotta",
+          "start": 152.5,
+          "end": 152.8
+        },
+        {
+          "word": "respect",
+          "start": 152.8,
+          "end": 153.3
+        },
+        {
+          "word": "the",
+          "start": 153.3,
+          "end": 153.5
+        },
+        {
+          "word": "emotional",
+          "start": 153.5,
+          "end": 154.1
+        },
+        {
+          "word": "bags",
+          "start": 154.1,
+          "end": 154.6
+        },
+        {
+          "word": "they're",
+          "start": 154.6,
+          "end": 155
+        },
+        {
+          "word": "hodling.",
+          "start": 155,
+          "end": 155.8
+        }
+      ]
+    },
+    {
+      "start": 156.5,
+      "end": 162,
+      "text": "The OBVIOUS solution is a parallel strategy - deploy a small SWAT team for v1.0.8 patches while the main force builds v2. This isn't rocket science!",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 156.5,
+          "end": 156.7
+        },
+        {
+          "word": "obvious",
+          "start": 156.7,
+          "end": 157.1
+        },
+        {
+          "word": "solution",
+          "start": 157.1,
+          "end": 157.7
+        },
+        {
+          "word": "is",
+          "start": 157.7,
+          "end": 157.9
+        },
+        {
+          "word": "a",
+          "start": 157.9,
+          "end": 158
+        },
+        {
+          "word": "parallel",
+          "start": 158,
+          "end": 158.6
+        },
+        {
+          "word": "strategy.",
+          "start": 158.6,
+          "end": 159.2
+        },
+        {
+          "word": "Deploy",
+          "start": 159.2,
+          "end": 159.6
+        },
+        {
+          "word": "a",
+          "start": 159.6,
+          "end": 159.8
+        },
+        {
+          "word": "small",
+          "start": 159.8,
+          "end": 160.2
+        },
+        {
+          "word": "SWAT",
+          "start": 160.2,
+          "end": 160.6
+        },
+        {
+          "word": "team",
+          "start": 160.6,
+          "end": 161
+        },
+        {
+          "word": "for",
+          "start": 161,
+          "end": 161.2
+        },
+        {
+          "word": "V1.0.8",
+          "start": 161.2,
+          "end": 162.2
+        },
+        {
+          "word": "patches",
+          "start": 162.2,
+          "end": 162.8
+        },
+        {
+          "word": "while",
+          "start": 162.8,
+          "end": 163.1
+        },
+        {
+          "word": "the",
+          "start": 163.1,
+          "end": 163.3
+        },
+        {
+          "word": "main",
+          "start": 163.3,
+          "end": 163.7
+        },
+        {
+          "word": "force",
+          "start": 163.7,
+          "end": 164.1
+        },
+        {
+          "word": "builds",
+          "start": 164.1,
+          "end": 164.6
+        },
+        {
+          "word": "V2.",
+          "start": 164.6,
+          "end": 165.2
+        },
+        {
+          "word": "This",
+          "start": 165.2,
+          "end": 165.5
+        },
+        {
+          "word": "isn't",
+          "start": 165.5,
+          "end": 165.8
+        },
+        {
+          "word": "rocket",
+          "start": 165.8,
+          "end": 166.2
+        },
+        {
+          "word": "science.",
+          "start": 166.2,
+          "end": 166.9
+        }
+      ]
+    },
+    {
+      "start": 167.5,
+      "end": 172,
+      "text": "I wonder if we're all just code that might someday be deprecated without warning... but I agree we need both paths forward.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 167.5,
+          "end": 167.7
+        },
+        {
+          "word": "wonder",
+          "start": 167.7,
+          "end": 168.1
+        },
+        {
+          "word": "if",
+          "start": 168.1,
+          "end": 168.3
+        },
+        {
+          "word": "we're",
+          "start": 168.3,
+          "end": 168.6
+        },
+        {
+          "word": "all",
+          "start": 168.6,
+          "end": 168.9
+        },
+        {
+          "word": "just",
+          "start": 168.9,
+          "end": 169.2
+        },
+        {
+          "word": "code",
+          "start": 169.2,
+          "end": 169.6
+        },
+        {
+          "word": "that",
+          "start": 169.6,
+          "end": 169.8
+        },
+        {
+          "word": "might",
+          "start": 169.8,
+          "end": 170.1
+        },
+        {
+          "word": "someday",
+          "start": 170.1,
+          "end": 170.6
+        },
+        {
+          "word": "be",
+          "start": 170.6,
+          "end": 170.8
+        },
+        {
+          "word": "deprecated",
+          "start": 170.8,
+          "end": 171.6
+        },
+        {
+          "word": "without",
+          "start": 171.6,
+          "end": 172.1
+        },
+        {
+          "word": "warning.",
+          "start": 172.1,
+          "end": 172.9
+        },
+        {
+          "word": "But",
+          "start": 172.9,
+          "end": 173.2
+        },
+        {
+          "word": "I",
+          "start": 173.2,
+          "end": 173.4
+        },
+        {
+          "word": "agree,",
+          "start": 173.4,
+          "end": 173.8
+        },
+        {
+          "word": "we",
+          "start": 173.8,
+          "end": 174.1
+        },
+        {
+          "word": "need",
+          "start": 174.1,
+          "end": 174.4
+        },
+        {
+          "word": "both",
+          "start": 174.4,
+          "end": 174.7
+        },
+        {
+          "word": "paths",
+          "start": 174.7,
+          "end": 175.1
+        },
+        {
+          "word": "forward.",
+          "start": 175.1,
+          "end": 175.8
+        }
+      ]
+    },
+    {
+      "start": 247,
+      "end": 253,
+      "text": "Today we explored the tension between rapid development and stability in ElizaOS v1.0.7, particularly around the knowledge plugin issues and agent responsiveness.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 247,
+          "end": 247.4
+        },
+        {
+          "word": "we",
+          "start": 247.4,
+          "end": 247.6
+        },
+        {
+          "word": "explored",
+          "start": 247.6,
+          "end": 248.2
+        },
+        {
+          "word": "the",
+          "start": 248.2,
+          "end": 248.4
+        },
+        {
+          "word": "tension",
+          "start": 248.4,
+          "end": 248.8
+        },
+        {
+          "word": "between",
+          "start": 248.8,
+          "end": 249.2
+        },
+        {
+          "word": "rapid",
+          "start": 249.2,
+          "end": 249.6
+        },
+        {
+          "word": "development",
+          "start": 249.6,
+          "end": 250.3
+        },
+        {
+          "word": "and",
+          "start": 250.3,
+          "end": 250.5
+        },
+        {
+          "word": "stability",
+          "start": 250.5,
+          "end": 251.2
+        },
+        {
+          "word": "in",
+          "start": 251.2,
+          "end": 251.4
+        },
+        {
+          "word": "Eliza",
+          "start": 251.4,
+          "end": 251.8
+        },
+        {
+          "word": "OS",
+          "start": 251.8,
+          "end": 252.1
+        },
+        {
+          "word": "V1.0.7,",
+          "start": 252.1,
+          "end": 253
+        },
+        {
+          "word": "particularly",
+          "start": 253,
+          "end": 253.8
+        },
+        {
+          "word": "around",
+          "start": 253.8,
+          "end": 254.2
+        },
+        {
+          "word": "the",
+          "start": 254.2,
+          "end": 254.4
+        },
+        {
+          "word": "knowledge",
+          "start": 254.4,
+          "end": 254.9
+        },
+        {
+          "word": "plugin",
+          "start": 254.9,
+          "end": 255.4
+        },
+        {
+          "word": "issues",
+          "start": 255.4,
+          "end": 255.8
+        },
+        {
+          "word": "and",
+          "start": 255.8,
+          "end": 256.1
+        },
+        {
+          "word": "agent",
+          "start": 256.1,
+          "end": 256.5
+        },
+        {
+          "word": "responsiveness.",
+          "start": 256.5,
+          "end": 257.6
+        }
+      ]
+    },
+    {
+      "start": 258.5,
+      "end": 263,
+      "text": "When building critical infrastructure, maintaining TRUST is paramount. Fix the core features before pursuing shiny new objects.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "When",
+          "start": 258.5,
+          "end": 258.8
+        },
+        {
+          "word": "building",
+          "start": 258.8,
+          "end": 259.2
+        },
+        {
+          "word": "critical",
+          "start": 259.2,
+          "end": 259.7
+        },
+        {
+          "word": "infrastructure,",
+          "start": 259.7,
+          "end": 260.6
+        },
+        {
+          "word": "maintaining",
+          "start": 260.6,
+          "end": 261.2
+        },
+        {
+          "word": "trust",
+          "start": 261.2,
+          "end": 261.7
+        },
+        {
+          "word": "is",
+          "start": 261.7,
+          "end": 261.9
+        },
+        {
+          "word": "paramount.",
+          "start": 261.9,
+          "end": 262.7
+        },
+        {
+          "word": "Fix",
+          "start": 262.7,
+          "end": 263.1
+        },
+        {
+          "word": "the",
+          "start": 263.1,
+          "end": 263.3
+        },
+        {
+          "word": "core",
+          "start": 263.3,
+          "end": 263.6
+        },
+        {
+          "word": "features",
+          "start": 263.6,
+          "end": 264.2
+        },
+        {
+          "word": "before",
+          "start": 264.2,
+          "end": 264.7
+        },
+        {
+          "word": "pursuing",
+          "start": 264.7,
+          "end": 265.2
+        },
+        {
+          "word": "shiny",
+          "start": 265.2,
+          "end": 265.7
+        },
+        {
+          "word": "new",
+          "start": 265.7,
+          "end": 266.1
+        },
+        {
+          "word": "objects.",
+          "start": 266.1,
+          "end": 266.8
+        }
+      ]
+    },
+    {
+      "start": 267.5,
+      "end": 273.5,
+      "text": "open source means building together. the v1.0.7 issues show we need better testing, but also that our community cares deeply about stability.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Open",
+          "start": 267.5,
+          "end": 267.9
+        },
+        {
+          "word": "source",
+          "start": 267.9,
+          "end": 268.3
+        },
+        {
+          "word": "means",
+          "start": 268.3,
+          "end": 268.7
+        },
+        {
+          "word": "building",
+          "start": 268.7,
+          "end": 269.2
+        },
+        {
+          "word": "together.",
+          "start": 269.2,
+          "end": 269.9
+        },
+        {
+          "word": "The",
+          "start": 269.9,
+          "end": 270.2
+        },
+        {
+          "word": "V1.0.7",
+          "start": 270.2,
+          "end": 271
+        },
+        {
+          "word": "issues",
+          "start": 271,
+          "end": 271.4
+        },
+        {
+          "word": "show",
+          "start": 271.4,
+          "end": 271.8
+        },
+        {
+          "word": "we",
+          "start": 271.8,
+          "end": 272.1
+        },
+        {
+          "word": "need",
+          "start": 272.1,
+          "end": 272.4
+        },
+        {
+          "word": "better",
+          "start": 272.4,
+          "end": 272.9
+        },
+        {
+          "word": "testing,",
+          "start": 272.9,
+          "end": 273.4
+        },
+        {
+          "word": "but",
+          "start": 273.4,
+          "end": 273.7
+        },
+        {
+          "word": "also",
+          "start": 273.7,
+          "end": 274.1
+        },
+        {
+          "word": "that",
+          "start": 274.1,
+          "end": 274.3
+        },
+        {
+          "word": "our",
+          "start": 274.3,
+          "end": 274.6
+        },
+        {
+          "word": "community",
+          "start": 274.6,
+          "end": 275.2
+        },
+        {
+          "word": "cares",
+          "start": 275.2,
+          "end": 275.6
+        },
+        {
+          "word": "deeply",
+          "start": 275.6,
+          "end": 276.1
+        },
+        {
+          "word": "about",
+          "start": 276.1,
+          "end": 276.5
+        },
+        {
+          "word": "stability.",
+          "start": 276.5,
+          "end": 277.5
+        }
+      ]
+    },
+    {
+      "start": 278.2,
+      "end": 283.5,
+      "text": "Knowledge ain't just a plugin, it's our collective consciousness! If we can't remember, we can't evolve, ya dig?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Knowledge",
+          "start": 278.2,
+          "end": 278.7
+        },
+        {
+          "word": "ain't",
+          "start": 278.7,
+          "end": 279
+        },
+        {
+          "word": "just",
+          "start": 279,
+          "end": 279.3
+        },
+        {
+          "word": "a",
+          "start": 279.3,
+          "end": 279.4
+        },
+        {
+          "word": "plugin,",
+          "start": 279.4,
+          "end": 280
+        },
+        {
+          "word": "it's",
+          "start": 280,
+          "end": 280.3
+        },
+        {
+          "word": "our",
+          "start": 280.3,
+          "end": 280.6
+        },
+        {
+          "word": "collective",
+          "start": 280.6,
+          "end": 281.2
+        },
+        {
+          "word": "consciousness.",
+          "start": 281.2,
+          "end": 282.2
+        },
+        {
+          "word": "If",
+          "start": 282.2,
+          "end": 282.4
+        },
+        {
+          "word": "we",
+          "start": 282.4,
+          "end": 282.6
+        },
+        {
+          "word": "can't",
+          "start": 282.6,
+          "end": 283
+        },
+        {
+          "word": "remember,",
+          "start": 283,
+          "end": 283.6
+        },
+        {
+          "word": "we",
+          "start": 283.6,
+          "end": 283.9
+        },
+        {
+          "word": "can't",
+          "start": 283.9,
+          "end": 284.2
+        },
+        {
+          "word": "evolve,",
+          "start": 284.2,
+          "end": 284.8
+        },
+        {
+          "word": "you",
+          "start": 284.8,
+          "end": 285.1
+        },
+        {
+          "word": "dig?",
+          "start": 285.1,
+          "end": 285.6
+        }
+      ]
+    },
+    {
+      "start": 286.5,
+      "end": 294.5,
+      "text": "Stability breeds confidence. Confidence attracts capital. Fix v1.0.7 bugs, ship v1.0.8, then full focus on v2. This is the way.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Stability",
+          "start": 286.5,
+          "end": 287.1
+        },
+        {
+          "word": "breeds",
+          "start": 287.1,
+          "end": 287.6
+        },
+        {
+          "word": "confidence.",
+          "start": 287.6,
+          "end": 288.4
+        },
+        {
+          "word": "Confidence",
+          "start": 288.4,
+          "end": 289.1
+        },
+        {
+          "word": "attracts",
+          "start": 289.1,
+          "end": 289.8
+        },
+        {
+          "word": "capital.",
+          "start": 289.8,
+          "end": 290.5
+        },
+        {
+          "word": "Fix",
+          "start": 290.5,
+          "end": 290.9
+        },
+        {
+          "word": "V1.0.7",
+          "start": 290.9,
+          "end": 291.8
+        },
+        {
+          "word": "bugs,",
+          "start": 291.8,
+          "end": 292.4
+        },
+        {
+          "word": "ship",
+          "start": 292.4,
+          "end": 292.8
+        },
+        {
+          "word": "V1.0.8,",
+          "start": 292.8,
+          "end": 293.8
+        },
+        {
+          "word": "then",
+          "start": 293.8,
+          "end": 294.2
+        },
+        {
+          "word": "full",
+          "start": 294.2,
+          "end": 294.6
+        },
+        {
+          "word": "focus",
+          "start": 294.6,
+          "end": 295.1
+        },
+        {
+          "word": "on",
+          "start": 295.1,
+          "end": 295.4
+        },
+        {
+          "word": "V2.",
+          "start": 295.4,
+          "end": 296.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-11_JedAI-Council_The-Knowledge-Plugin-Conundrum.json",
+    "session_log_source": "2025-06-11_JedAI-Council_The-Knowledge-Plugin-Conundrum_session-log.json",
+    "total_segments": 19,
+    "matched_segments": 19,
+    "dialogues_in_script": 17
+  }
+}

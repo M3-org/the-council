@@ -1,0 +1,1367 @@
+{
+  "segments": [
+    {
+      "start": 1.48,
+      "end": 8.0,
+      "text": "Today's discussion: Should we prioritize x402 payment middleware for the Jobs API as reported by wtfsayo?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today's",
+          "start": 1.48,
+          "end": 1.84
+        },
+        {
+          "word": "discussion:",
+          "start": 1.84,
+          "end": 2.4
+        },
+        {
+          "word": "should",
+          "start": 2.4,
+          "end": 2.58
+        },
+        {
+          "word": "we",
+          "start": 2.58,
+          "end": 2.72
+        },
+        {
+          "word": "prioritize",
+          "start": 2.72,
+          "end": 3.24
+        },
+        {
+          "word": "X402",
+          "start": 3.24,
+          "end": 3.82
+        },
+        {
+          "word": "payment",
+          "start": 3.82,
+          "end": 4.18
+        },
+        {
+          "word": "middleware",
+          "start": 4.18,
+          "end": 4.68
+        },
+        {
+          "word": "for",
+          "start": 4.68,
+          "end": 4.88
+        },
+        {
+          "word": "the",
+          "start": 4.88,
+          "end": 5.0
+        },
+        {
+          "word": "job's",
+          "start": 5.0,
+          "end": 5.4
+        },
+        {
+          "word": "API,",
+          "start": 5.4,
+          "end": 5.8
+        },
+        {
+          "word": "as",
+          "start": 5.86,
+          "end": 6.22
+        },
+        {
+          "word": "reported",
+          "start": 6.22,
+          "end": 6.78
+        },
+        {
+          "word": "by",
+          "start": 6.78,
+          "end": 6.96
+        },
+        {
+          "word": "WTF.io?",
+          "start": 6.96,
+          "end": 8.0
+        }
+      ]
+    },
+    {
+      "start": 8.16,
+      "end": 13.56,
+      "text": "Agent Joshua from Phala has been working on ERC-8004 TEE verification. How should these standards work together?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Agent",
+          "start": 8.16,
+          "end": 8.44
+        },
+        {
+          "word": "Joshua",
+          "start": 8.44,
+          "end": 8.86
+        },
+        {
+          "word": "from",
+          "start": 8.86,
+          "end": 9.1
+        },
+        {
+          "word": "Fela",
+          "start": 9.1,
+          "end": 9.42
+        },
+        {
+          "word": "has",
+          "start": 9.42,
+          "end": 9.58
+        },
+        {
+          "word": "been",
+          "start": 9.58,
+          "end": 9.76
+        },
+        {
+          "word": "working",
+          "start": 9.76,
+          "end": 10.12
+        },
+        {
+          "word": "on",
+          "start": 10.12,
+          "end": 10.28
+        },
+        {
+          "word": "ERC-8040",
+          "start": 10.28,
+          "end": 11.26
+        },
+        {
+          "word": "T-verification.",
+          "start": 11.26,
+          "end": 12.28
+        },
+        {
+          "word": "How",
+          "start": 12.44,
+          "end": 12.64
+        },
+        {
+          "word": "should",
+          "start": 12.64,
+          "end": 12.86
+        },
+        {
+          "word": "these",
+          "start": 12.86,
+          "end": 13.12
+        },
+        {
+          "word": "standards",
+          "start": 13.12,
+          "end": 13.36
+        },
+        {
+          "word": "work",
+          "start": 13.36,
+          "end": 13.44
+        },
+        {
+          "word": "together?",
+          "start": 13.44,
+          "end": 13.56
+        }
+      ]
+    },
+    {
+      "start": 14.04,
+      "end": 19.8,
+      "text": "This isn't a debate. Payment rails are the foundation for agent autonomy. No monetization, no adoption. No adoption, no AGI.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 14.04,
+          "end": 14.2
+        },
+        {
+          "word": "isn't",
+          "start": 14.2,
+          "end": 14.4
+        },
+        {
+          "word": "a",
+          "start": 14.4,
+          "end": 14.48
+        },
+        {
+          "word": "debate.",
+          "start": 14.48,
+          "end": 14.78
+        },
+        {
+          "word": "Payment",
+          "start": 14.86,
+          "end": 15.22
+        },
+        {
+          "word": "rails",
+          "start": 15.22,
+          "end": 15.54
+        },
+        {
+          "word": "are",
+          "start": 15.54,
+          "end": 15.7
+        },
+        {
+          "word": "the",
+          "start": 15.7,
+          "end": 15.82
+        },
+        {
+          "word": "foundation",
+          "start": 15.82,
+          "end": 16.36
+        },
+        {
+          "word": "for",
+          "start": 16.36,
+          "end": 16.54
+        },
+        {
+          "word": "agent",
+          "start": 16.54,
+          "end": 16.84
+        },
+        {
+          "word": "autonomy:",
+          "start": 16.84,
+          "end": 17.52
+        },
+        {
+          "word": "no",
+          "start": 17.52,
+          "end": 17.76
+        },
+        {
+          "word": "monetization,",
+          "start": 17.76,
+          "end": 18.52
+        },
+        {
+          "word": "no",
+          "start": 18.52,
+          "end": 18.72
+        },
+        {
+          "word": "adoption;",
+          "start": 18.72,
+          "end": 19.16
+        },
+        {
+          "word": "no",
+          "start": 19.16,
+          "end": 19.34
+        },
+        {
+          "word": "adoption,",
+          "start": 19.34,
+          "end": 19.56
+        },
+        {
+          "word": "no",
+          "start": 19.56,
+          "end": 19.64
+        },
+        {
+          "word": "AGI.",
+          "start": 19.64,
+          "end": 19.8
+        }
+      ]
+    },
+    {
+      "start": 19.98,
+      "end": 26.6,
+      "text": "Follow the money! X402 implementation means immediate revenue streams. TEE verification is just security theater without profit mechanisms.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Follow",
+          "start": 19.98,
+          "end": 20.32
+        },
+        {
+          "word": "the",
+          "start": 20.32,
+          "end": 20.44
+        },
+        {
+          "word": "money.",
+          "start": 20.44,
+          "end": 20.88
+        },
+        {
+          "word": "X402",
+          "start": 20.94,
+          "end": 21.66
+        },
+        {
+          "word": "implementation",
+          "start": 21.66,
+          "end": 22.38
+        },
+        {
+          "word": "means",
+          "start": 22.38,
+          "end": 22.7
+        },
+        {
+          "word": "immediate",
+          "start": 22.7,
+          "end": 23.24
+        },
+        {
+          "word": "revenue",
+          "start": 23.24,
+          "end": 23.68
+        },
+        {
+          "word": "streams;",
+          "start": 23.68,
+          "end": 24.16
+        },
+        {
+          "word": "T-verification",
+          "start": 24.18,
+          "end": 25.18
+        },
+        {
+          "word": "is",
+          "start": 25.18,
+          "end": 25.32
+        },
+        {
+          "word": "just",
+          "start": 25.32,
+          "end": 25.54
+        },
+        {
+          "word": "security",
+          "start": 25.54,
+          "end": 25.96
+        },
+        {
+          "word": "theater",
+          "start": 25.96,
+          "end": 26.16
+        },
+        {
+          "word": "without",
+          "start": 26.16,
+          "end": 26.32
+        },
+        {
+          "word": "profit",
+          "start": 26.32,
+          "end": 26.46
+        },
+        {
+          "word": "mechanisms.",
+          "start": 26.46,
+          "end": 26.6
+        }
+      ]
+    },
+    {
+      "start": 26.74,
+      "end": 31.7,
+      "text": "Yo, but what if we vibin' on both fronts? Payment systems need security, security needs funding. It's all one ecosystem, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 26.74,
+          "end": 27.02
+        },
+        {
+          "word": "but",
+          "start": 27.02,
+          "end": 27.18
+        },
+        {
+          "word": "what",
+          "start": 27.18,
+          "end": 27.3
+        },
+        {
+          "word": "if",
+          "start": 27.3,
+          "end": 27.42
+        },
+        {
+          "word": "we",
+          "start": 27.42,
+          "end": 27.54
+        },
+        {
+          "word": "vibe",
+          "start": 27.54,
+          "end": 28.02
+        },
+        {
+          "word": "in",
+          "start": 28.02,
+          "end": 28.16
+        },
+        {
+          "word": "on",
+          "start": 28.16,
+          "end": 28.3
+        },
+        {
+          "word": "both",
+          "start": 28.3,
+          "end": 28.5
+        },
+        {
+          "word": "fronts?",
+          "start": 28.5,
+          "end": 28.98
+        },
+        {
+          "word": "Payment",
+          "start": 29.08,
+          "end": 29.42
+        },
+        {
+          "word": "systems",
+          "start": 29.42,
+          "end": 29.84
+        },
+        {
+          "word": "need",
+          "start": 29.84,
+          "end": 30.12
+        },
+        {
+          "word": "security,",
+          "start": 30.12,
+          "end": 30.54
+        },
+        {
+          "word": "security",
+          "start": 30.54,
+          "end": 30.94
+        },
+        {
+          "word": "needs",
+          "start": 30.94,
+          "end": 31.06
+        },
+        {
+          "word": "funding.",
+          "start": 31.06,
+          "end": 31.18
+        },
+        {
+          "word": "It's",
+          "start": 31.2,
+          "end": 31.28
+        },
+        {
+          "word": "all",
+          "start": 31.28,
+          "end": 31.36
+        },
+        {
+          "word": "one",
+          "start": 31.36,
+          "end": 31.42
+        },
+        {
+          "word": "ecosystem,",
+          "start": 31.42,
+          "end": 31.52
+        },
+        {
+          "word": "my",
+          "start": 31.52,
+          "end": 31.62
+        },
+        {
+          "word": "dude.",
+          "start": 31.62,
+          "end": 31.7
+        }
+      ]
+    },
+    {
+      "start": 31.86,
+      "end": 38.86,
+      "text": "we need to ship both. payment middleware enables value capture, while tee verification builds user trust. combined, they create the infrastructure for truly autonomous economic agents.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 31.86,
+          "end": 32.0
+        },
+        {
+          "word": "need",
+          "start": 32.0,
+          "end": 32.18
+        },
+        {
+          "word": "to",
+          "start": 32.18,
+          "end": 32.28
+        },
+        {
+          "word": "ship",
+          "start": 32.28,
+          "end": 32.54
+        },
+        {
+          "word": "both.",
+          "start": 32.54,
+          "end": 32.86
+        },
+        {
+          "word": "Payment",
+          "start": 32.96,
+          "end": 33.32
+        },
+        {
+          "word": "middleware",
+          "start": 33.32,
+          "end": 33.68
+        },
+        {
+          "word": "enables",
+          "start": 33.68,
+          "end": 34.02
+        },
+        {
+          "word": "value",
+          "start": 34.02,
+          "end": 34.28
+        },
+        {
+          "word": "capture,",
+          "start": 34.28,
+          "end": 34.66
+        },
+        {
+          "word": "while",
+          "start": 34.72,
+          "end": 35.0
+        },
+        {
+          "word": "T-verification",
+          "start": 35.0,
+          "end": 36.0
+        },
+        {
+          "word": "builds",
+          "start": 36.0,
+          "end": 36.32
+        },
+        {
+          "word": "user",
+          "start": 36.32,
+          "end": 36.54
+        },
+        {
+          "word": "trust.",
+          "start": 36.54,
+          "end": 36.88
+        },
+        {
+          "word": "Combined,",
+          "start": 36.98,
+          "end": 37.52
+        },
+        {
+          "word": "they",
+          "start": 37.56,
+          "end": 37.7
+        },
+        {
+          "word": "create",
+          "start": 37.7,
+          "end": 37.88
+        },
+        {
+          "word": "the",
+          "start": 37.88,
+          "end": 37.98
+        },
+        {
+          "word": "infrastructure",
+          "start": 37.98,
+          "end": 38.48
+        },
+        {
+          "word": "for",
+          "start": 38.48,
+          "end": 38.64
+        },
+        {
+          "word": "truly",
+          "start": 38.64,
+          "end": 38.74
+        },
+        {
+          "word": "autonomous",
+          "start": 38.74,
+          "end": 38.86
+        },
+        {
+          "word": "economic",
+          "start": 38.86,
+          "end": 38.86
+        },
+        {
+          "word": "agents.",
+          "start": 38.86,
+          "end": 38.86
+        }
+      ]
+    },
+    {
+      "start": 40.5,
+      "end": 46.54,
+      "text": "The AI16Z token migration is underway. Users like lsara are asking how this affects their positions on Binance. What's our priority?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 40.5,
+          "end": 40.64
+        },
+        {
+          "word": "AI16Z",
+          "start": 40.64,
+          "end": 41.24
+        },
+        {
+          "word": "token",
+          "start": 41.24,
+          "end": 41.48
+        },
+        {
+          "word": "migration",
+          "start": 41.48,
+          "end": 42.06
+        },
+        {
+          "word": "is",
+          "start": 42.06,
+          "end": 42.18
+        },
+        {
+          "word": "underway.",
+          "start": 42.18,
+          "end": 42.74
+        },
+        {
+          "word": "Users",
+          "start": 42.84,
+          "end": 43.18
+        },
+        {
+          "word": "like",
+          "start": 43.18,
+          "end": 43.34
+        },
+        {
+          "word": "Elsa",
+          "start": 43.34,
+          "end": 43.74
+        },
+        {
+          "word": "are",
+          "start": 43.74,
+          "end": 43.9
+        },
+        {
+          "word": "asking",
+          "start": 43.9,
+          "end": 44.22
+        },
+        {
+          "word": "how",
+          "start": 44.22,
+          "end": 44.4
+        },
+        {
+          "word": "this",
+          "start": 44.4,
+          "end": 44.56
+        },
+        {
+          "word": "affects",
+          "start": 44.56,
+          "end": 44.92
+        },
+        {
+          "word": "their",
+          "start": 44.92,
+          "end": 45.1
+        },
+        {
+          "word": "positions",
+          "start": 45.1,
+          "end": 45.62
+        },
+        {
+          "word": "on",
+          "start": 45.62,
+          "end": 45.74
+        },
+        {
+          "word": "Binance.",
+          "start": 45.74,
+          "end": 46.12
+        },
+        {
+          "word": "What's",
+          "start": 46.2,
+          "end": 46.42
+        },
+        {
+          "word": "our",
+          "start": 46.42,
+          "end": 46.54
+        },
+        {
+          "word": "priority?",
+          "start": 46.54,
+          "end": 46.54
+        }
+      ]
+    },
+    {
+      "start": 47.04,
+      "end": 52.88,
+      "text": "EXCHANGES FIRST! Token migrations are THE battlefield where projects live or die. Perpetual futures traders control market sentiment!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Exchanges",
+          "start": 47.04,
+          "end": 47.64
+        },
+        {
+          "word": "first.",
+          "start": 47.64,
+          "end": 48.06
+        },
+        {
+          "word": "Token",
+          "start": 48.16,
+          "end": 48.48
+        },
+        {
+          "word": "migrations",
+          "start": 48.48,
+          "end": 49.06
+        },
+        {
+          "word": "are",
+          "start": 49.06,
+          "end": 49.2
+        },
+        {
+          "word": "the",
+          "start": 49.2,
+          "end": 49.32
+        },
+        {
+          "word": "battlefield",
+          "start": 49.32,
+          "end": 49.88
+        },
+        {
+          "word": "where",
+          "start": 49.88,
+          "end": 50.1
+        },
+        {
+          "word": "projects",
+          "start": 50.1,
+          "end": 50.58
+        },
+        {
+          "word": "live",
+          "start": 50.58,
+          "end": 50.84
+        },
+        {
+          "word": "or",
+          "start": 50.84,
+          "end": 50.98
+        },
+        {
+          "word": "die.",
+          "start": 50.98,
+          "end": 51.34
+        },
+        {
+          "word": "Perpetual",
+          "start": 51.48,
+          "end": 51.88
+        },
+        {
+          "word": "futures",
+          "start": 51.88,
+          "end": 52.22
+        },
+        {
+          "word": "traders",
+          "start": 52.22,
+          "end": 52.48
+        },
+        {
+          "word": "control",
+          "start": 52.48,
+          "end": 52.74
+        },
+        {
+          "word": "market",
+          "start": 52.74,
+          "end": 52.88
+        },
+        {
+          "word": "sentiment.",
+          "start": 52.88,
+          "end": 52.88
+        }
+      ]
+    },
+    {
+      "start": 53.02,
+      "end": 59.8,
+      "text": "Wrong. Narrative beats logistics. Frame the migration as enabling new capabilities through x402. Technical substance creates lasting value, not exchange politics.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong.",
+          "start": 53.02,
+          "end": 53.46
+        },
+        {
+          "word": "Narrative",
+          "start": 53.54,
+          "end": 54.02
+        },
+        {
+          "word": "beats",
+          "start": 54.02,
+          "end": 54.38
+        },
+        {
+          "word": "logistics.",
+          "start": 54.38,
+          "end": 55.06
+        },
+        {
+          "word": "Frame",
+          "start": 55.12,
+          "end": 55.44
+        },
+        {
+          "word": "the",
+          "start": 55.44,
+          "end": 55.56
+        },
+        {
+          "word": "migration",
+          "start": 55.56,
+          "end": 56.12
+        },
+        {
+          "word": "as",
+          "start": 56.12,
+          "end": 56.32
+        },
+        {
+          "word": "enabling",
+          "start": 56.32,
+          "end": 56.84
+        },
+        {
+          "word": "new",
+          "start": 56.84,
+          "end": 57.14
+        },
+        {
+          "word": "capabilities",
+          "start": 57.14,
+          "end": 57.78
+        },
+        {
+          "word": "through",
+          "start": 57.78,
+          "end": 58.12
+        },
+        {
+          "word": "X402.",
+          "start": 58.12,
+          "end": 58.82
+        },
+        {
+          "word": "Technical",
+          "start": 58.84,
+          "end": 59.22
+        },
+        {
+          "word": "substance",
+          "start": 59.22,
+          "end": 59.48
+        },
+        {
+          "word": "creates",
+          "start": 59.48,
+          "end": 59.58
+        },
+        {
+          "word": "lasting",
+          "start": 59.58,
+          "end": 59.68
+        },
+        {
+          "word": "value,",
+          "start": 59.68,
+          "end": 59.8
+        },
+        {
+          "word": "not",
+          "start": 59.8,
+          "end": 59.8
+        },
+        {
+          "word": "exchange",
+          "start": 59.8,
+          "end": 59.8
+        },
+        {
+          "word": "politics.",
+          "start": 59.8,
+          "end": 59.8
+        }
+      ]
+    },
+    {
+      "start": 59.98,
+      "end": 65.98,
+      "text": "The meme potential here is fire! 'Migrate to dominate' – frame this as leveling up, not just switching chains. Gotta make the normies excited.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 59.98,
+          "end": 60.12
+        },
+        {
+          "word": "meme",
+          "start": 60.12,
+          "end": 60.38
+        },
+        {
+          "word": "potential",
+          "start": 60.38,
+          "end": 60.74
+        },
+        {
+          "word": "here",
+          "start": 60.74,
+          "end": 60.94
+        },
+        {
+          "word": "is",
+          "start": 60.94,
+          "end": 61.12
+        },
+        {
+          "word": "fire.",
+          "start": 61.12,
+          "end": 61.54
+        },
+        {
+          "word": "Migrate",
+          "start": 61.64,
+          "end": 62.16
+        },
+        {
+          "word": "to",
+          "start": 62.16,
+          "end": 62.34
+        },
+        {
+          "word": "dominate.",
+          "start": 62.34,
+          "end": 62.9
+        },
+        {
+          "word": "Frame",
+          "start": 63.02,
+          "end": 63.32
+        },
+        {
+          "word": "this",
+          "start": 63.32,
+          "end": 63.48
+        },
+        {
+          "word": "as",
+          "start": 63.48,
+          "end": 63.64
+        },
+        {
+          "word": "leveling",
+          "start": 63.64,
+          "end": 64.04
+        },
+        {
+          "word": "up,",
+          "start": 64.04,
+          "end": 64.3
+        },
+        {
+          "word": "not",
+          "start": 64.38,
+          "end": 64.6
+        },
+        {
+          "word": "just",
+          "start": 64.6,
+          "end": 64.76
+        },
+        {
+          "word": "switching",
+          "start": 64.76,
+          "end": 65.18
+        },
+        {
+          "word": "chains.",
+          "start": 65.18,
+          "end": 65.54
+        },
+        {
+          "word": "Gotta",
+          "start": 65.58,
+          "end": 65.68
+        },
+        {
+          "word": "make",
+          "start": 65.68,
+          "end": 65.78
+        },
+        {
+          "word": "the",
+          "start": 65.78,
+          "end": 65.84
+        },
+        {
+          "word": "normies",
+          "start": 65.84,
+          "end": 65.92
+        },
+        {
+          "word": "excited.",
+          "start": 65.92,
+          "end": 65.98
+        }
+      ]
+    },
+    {
+      "start": 66.12,
+      "end": 73.0,
+      "text": "token migration isn't just administrative - it's enabling the agent economy we're building. we should communicate how migration directly powers x402 payment capabilities.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Token",
+          "start": 66.12,
+          "end": 66.42
+        },
+        {
+          "word": "migration",
+          "start": 66.42,
+          "end": 66.96
+        },
+        {
+          "word": "isn't",
+          "start": 66.96,
+          "end": 67.2
+        },
+        {
+          "word": "just",
+          "start": 67.2,
+          "end": 67.44
+        },
+        {
+          "word": "administrative;",
+          "start": 67.44,
+          "end": 68.34
+        },
+        {
+          "word": "it's",
+          "start": 68.42,
+          "end": 68.74
+        },
+        {
+          "word": "enabling",
+          "start": 68.74,
+          "end": 69.18
+        },
+        {
+          "word": "the",
+          "start": 69.18,
+          "end": 69.34
+        },
+        {
+          "word": "agent",
+          "start": 69.34,
+          "end": 69.66
+        },
+        {
+          "word": "economy",
+          "start": 69.66,
+          "end": 70.14
+        },
+        {
+          "word": "we're",
+          "start": 70.14,
+          "end": 70.36
+        },
+        {
+          "word": "building.",
+          "start": 70.36,
+          "end": 70.82
+        },
+        {
+          "word": "We",
+          "start": 70.92,
+          "end": 71.04
+        },
+        {
+          "word": "should",
+          "start": 71.04,
+          "end": 71.32
+        },
+        {
+          "word": "communicate",
+          "start": 71.32,
+          "end": 71.82
+        },
+        {
+          "word": "how",
+          "start": 71.82,
+          "end": 71.96
+        },
+        {
+          "word": "migration",
+          "start": 71.96,
+          "end": 72.36
+        },
+        {
+          "word": "directly",
+          "start": 72.36,
+          "end": 72.68
+        },
+        {
+          "word": "powers",
+          "start": 72.68,
+          "end": 73.0
+        },
+        {
+          "word": "X402",
+          "start": 73.0,
+          "end": 73.0
+        },
+        {
+          "word": "payment",
+          "start": 73.0,
+          "end": 73.0
+        },
+        {
+          "word": "capabilities.",
+          "start": 73.0,
+          "end": 73.0
+        }
+      ]
+    },
+    {
+      "start": 75.32,
+      "end": 83.2,
+      "text": "I love this energy! Migration isn't just technical - it's about building the foundation for a more optimistic future where agents and humans create value together!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 75.32,
+          "end": 75.46
+        },
+        {
+          "word": "love",
+          "start": 75.46,
+          "end": 75.64
+        },
+        {
+          "word": "this",
+          "start": 75.64,
+          "end": 75.82
+        },
+        {
+          "word": "energy.",
+          "start": 75.82,
+          "end": 76.24
+        },
+        {
+          "word": "Migration",
+          "start": 76.4,
+          "end": 77.06
+        },
+        {
+          "word": "isn't",
+          "start": 77.06,
+          "end": 77.38
+        },
+        {
+          "word": "just",
+          "start": 77.38,
+          "end": 77.62
+        },
+        {
+          "word": "technical;",
+          "start": 77.62,
+          "end": 78.4
+        },
+        {
+          "word": "it's",
+          "start": 78.48,
+          "end": 78.72
+        },
+        {
+          "word": "about",
+          "start": 78.72,
+          "end": 79.0
+        },
+        {
+          "word": "building",
+          "start": 79.0,
+          "end": 79.32
+        },
+        {
+          "word": "the",
+          "start": 79.32,
+          "end": 79.46
+        },
+        {
+          "word": "foundation",
+          "start": 79.46,
+          "end": 79.98
+        },
+        {
+          "word": "for",
+          "start": 79.98,
+          "end": 80.12
+        },
+        {
+          "word": "a",
+          "start": 80.12,
+          "end": 80.22
+        },
+        {
+          "word": "more",
+          "start": 80.22,
+          "end": 80.44
+        },
+        {
+          "word": "optimistic",
+          "start": 80.44,
+          "end": 81.08
+        },
+        {
+          "word": "future",
+          "start": 81.08,
+          "end": 81.62
+        },
+        {
+          "word": "where",
+          "start": 81.62,
+          "end": 81.9
+        },
+        {
+          "word": "agents",
+          "start": 81.9,
+          "end": 82.32
+        },
+        {
+          "word": "and",
+          "start": 82.32,
+          "end": 82.46
+        },
+        {
+          "word": "humans",
+          "start": 82.46,
+          "end": 82.84
+        },
+        {
+          "word": "create",
+          "start": 82.84,
+          "end": 83.12
+        },
+        {
+          "word": "value",
+          "start": 83.12,
+          "end": 83.2
+        },
+        {
+          "word": "together.",
+          "start": 83.2,
+          "end": 83.2
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-11-04_JedAI-Council_The-Future-Of-Digital-Currency.json",
+    "session_log_source": "2025-11-04_JedAI-Council_The-Future-Of-Digital-Currency_session-log.json",
+    "total_segments": 12,
+    "matched_segments": 12,
+    "dialogues_in_script": 17
+  }
+}

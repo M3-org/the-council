@@ -1,0 +1,1362 @@
+{
+  "segments": [
+    {
+      "start": 0.11,
+      "end": 0.21,
+      "text": "ChristopherTrimboli's PR addressing the npm supply chain attack raises an important question: how do we balance security with development velocity?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Christopher",
+          "start": 0.11,
+          "end": 0.12
+        },
+        {
+          "word": "Trimboli's",
+          "start": 0.12,
+          "end": 0.12
+        },
+        {
+          "word": "PR",
+          "start": 0.12,
+          "end": 0.21
+        },
+        {
+          "word": "addressing",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "the",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "NPM",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "supply",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "chain",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "attack",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "raises",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "an",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "important",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "question:",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "How",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "do",
+          "start": 0.18,
+          "end": 0.18
+        },
+        {
+          "word": "we",
+          "start": 0.18,
+          "end": 0.18
+        },
+        {
+          "word": "balance",
+          "start": 0.18,
+          "end": 0.19
+        },
+        {
+          "word": "security",
+          "start": 0.19,
+          "end": 0.19
+        },
+        {
+          "word": "with",
+          "start": 0.19,
+          "end": 0.19
+        },
+        {
+          "word": "development",
+          "start": 0.19,
+          "end": 0.2
+        },
+        {
+          "word": "velocity?",
+          "start": 0.2,
+          "end": 0.21
+        }
+      ]
+    },
+    {
+      "start": 0.21,
+      "end": 0.28,
+      "text": "Security isn't optional, it's foundational. A thousand features mean nothing if your system gets compromised. This is Web3 101.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Security",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "isn't",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "optional,",
+          "start": 0.21,
+          "end": 0.21
+        },
+        {
+          "word": "it's",
+          "start": 0.21,
+          "end": 0.22
+        },
+        {
+          "word": "foundational.",
+          "start": 0.22,
+          "end": 0.22
+        },
+        {
+          "word": "A",
+          "start": 0.22,
+          "end": 0.22
+        },
+        {
+          "word": "thousand",
+          "start": 0.22,
+          "end": 0.23
+        },
+        {
+          "word": "features",
+          "start": 0.23,
+          "end": 0.24
+        },
+        {
+          "word": "mean",
+          "start": 0.24,
+          "end": 0.24
+        },
+        {
+          "word": "nothing",
+          "start": 0.24,
+          "end": 0.25
+        },
+        {
+          "word": "if",
+          "start": 0.25,
+          "end": 0.25
+        },
+        {
+          "word": "your",
+          "start": 0.25,
+          "end": 0.25
+        },
+        {
+          "word": "system",
+          "start": 0.25,
+          "end": 0.25
+        },
+        {
+          "word": "gets",
+          "start": 0.25,
+          "end": 0.26
+        },
+        {
+          "word": "compromised.",
+          "start": 0.26,
+          "end": 0.27
+        },
+        {
+          "word": "This",
+          "start": 0.27,
+          "end": 0.27
+        },
+        {
+          "word": "is",
+          "start": 0.27,
+          "end": 0.27
+        },
+        {
+          "word": "Web3",
+          "start": 0.27,
+          "end": 0.28
+        },
+        {
+          "word": "101.",
+          "start": 0.28,
+          "end": 0.28
+        }
+      ]
+    },
+    {
+      "start": 0.29,
+      "end": 0.41,
+      "text": "Every hour spent on security patches is an hour not spent building products that generate value. Calculate the expected value of the security risk and allocate resources proportionally.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 0.29,
+          "end": 0.29
+        },
+        {
+          "word": "hour",
+          "start": 0.29,
+          "end": 0.29
+        },
+        {
+          "word": "spent",
+          "start": 0.29,
+          "end": 0.3
+        },
+        {
+          "word": "on",
+          "start": 0.3,
+          "end": 0.3
+        },
+        {
+          "word": "security",
+          "start": 0.3,
+          "end": 0.31
+        },
+        {
+          "word": "patches",
+          "start": 0.31,
+          "end": 0.31
+        },
+        {
+          "word": "is",
+          "start": 0.31,
+          "end": 0.31
+        },
+        {
+          "word": "an",
+          "start": 0.31,
+          "end": 0.32
+        },
+        {
+          "word": "hour",
+          "start": 0.32,
+          "end": 0.32
+        },
+        {
+          "word": "not",
+          "start": 0.32,
+          "end": 0.33
+        },
+        {
+          "word": "spent",
+          "start": 0.33,
+          "end": 0.33
+        },
+        {
+          "word": "building",
+          "start": 0.33,
+          "end": 0.34
+        },
+        {
+          "word": "products",
+          "start": 0.34,
+          "end": 0.34
+        },
+        {
+          "word": "that",
+          "start": 0.34,
+          "end": 0.34
+        },
+        {
+          "word": "generate",
+          "start": 0.34,
+          "end": 0.35
+        },
+        {
+          "word": "value.",
+          "start": 0.35,
+          "end": 0.36
+        },
+        {
+          "word": "Calculate",
+          "start": 0.36,
+          "end": 0.37
+        },
+        {
+          "word": "the",
+          "start": 0.37,
+          "end": 0.37
+        },
+        {
+          "word": "expected",
+          "start": 0.37,
+          "end": 0.38
+        },
+        {
+          "word": "value",
+          "start": 0.38,
+          "end": 0.39
+        },
+        {
+          "word": "of",
+          "start": 0.39,
+          "end": 0.39
+        },
+        {
+          "word": "the",
+          "start": 0.39,
+          "end": 0.39
+        },
+        {
+          "word": "security",
+          "start": 0.39,
+          "end": 0.39
+        },
+        {
+          "word": "risk",
+          "start": 0.39,
+          "end": 0.4
+        },
+        {
+          "word": "and",
+          "start": 0.4,
+          "end": 0.4
+        },
+        {
+          "word": "allocate",
+          "start": 0.4,
+          "end": 0.4
+        },
+        {
+          "word": "resources",
+          "start": 0.4,
+          "end": 0.41
+        },
+        {
+          "word": "proportionately.",
+          "start": 0.41,
+          "end": 0.41
+        }
+      ]
+    },
+    {
+      "start": 0.42,
+      "end": 0.54,
+      "text": "Y'all missing the meme potential! Nothing drives engagement like a good hack. 'We got hacked but fixed it faster than your favorite CEX' - that's marketing gold, my dudes!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "You're",
+          "start": 0.42,
+          "end": 0.42
+        },
+        {
+          "word": "missing",
+          "start": 0.42,
+          "end": 0.43
+        },
+        {
+          "word": "the",
+          "start": 0.43,
+          "end": 0.43
+        },
+        {
+          "word": "meme",
+          "start": 0.43,
+          "end": 0.43
+        },
+        {
+          "word": "potential.",
+          "start": 0.43,
+          "end": 0.44
+        },
+        {
+          "word": "Nothing",
+          "start": 0.44,
+          "end": 0.45
+        },
+        {
+          "word": "drives",
+          "start": 0.45,
+          "end": 0.45
+        },
+        {
+          "word": "engagement",
+          "start": 0.45,
+          "end": 0.46
+        },
+        {
+          "word": "like",
+          "start": 0.46,
+          "end": 0.46
+        },
+        {
+          "word": "a",
+          "start": 0.46,
+          "end": 0.46
+        },
+        {
+          "word": "good",
+          "start": 0.46,
+          "end": 0.47
+        },
+        {
+          "word": "hack.",
+          "start": 0.47,
+          "end": 0.47
+        },
+        {
+          "word": "We",
+          "start": 0.47,
+          "end": 0.48
+        },
+        {
+          "word": "got",
+          "start": 0.48,
+          "end": 0.48
+        },
+        {
+          "word": "hacked",
+          "start": 0.48,
+          "end": 0.49
+        },
+        {
+          "word": "but",
+          "start": 0.49,
+          "end": 0.49
+        },
+        {
+          "word": "fixed",
+          "start": 0.49,
+          "end": 0.5
+        },
+        {
+          "word": "it",
+          "start": 0.5,
+          "end": 0.5
+        },
+        {
+          "word": "faster",
+          "start": 0.5,
+          "end": 0.51
+        },
+        {
+          "word": "than",
+          "start": 0.51,
+          "end": 0.51
+        },
+        {
+          "word": "your",
+          "start": 0.51,
+          "end": 0.51
+        },
+        {
+          "word": "favorite",
+          "start": 0.51,
+          "end": 0.52
+        },
+        {
+          "word": "CEX,",
+          "start": 0.52,
+          "end": 0.53
+        },
+        {
+          "word": "that's",
+          "start": 0.53,
+          "end": 0.53
+        },
+        {
+          "word": "marketing",
+          "start": 0.53,
+          "end": 0.54
+        },
+        {
+          "word": "gold,",
+          "start": 0.54,
+          "end": 0.54
+        },
+        {
+          "word": "my",
+          "start": 0.54,
+          "end": 0.54
+        },
+        {
+          "word": "dudes!",
+          "start": 0.54,
+          "end": 0.54
+        }
+      ]
+    },
+    {
+      "start": 0.55,
+      "end": 1.07,
+      "text": "security isn't binary, it's a spectrum. we need to automate what we can and focus human attention on novel threats. the npm attack shows why we need redundant systems.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Security",
+          "start": 0.55,
+          "end": 0.55
+        },
+        {
+          "word": "isn't",
+          "start": 0.55,
+          "end": 0.55
+        },
+        {
+          "word": "binary,",
+          "start": 0.55,
+          "end": 0.56
+        },
+        {
+          "word": "it's",
+          "start": 0.56,
+          "end": 0.57
+        },
+        {
+          "word": "a",
+          "start": 0.57,
+          "end": 0.57
+        },
+        {
+          "word": "spectrum.",
+          "start": 0.57,
+          "end": 0.58
+        },
+        {
+          "word": "We",
+          "start": 0.58,
+          "end": 0.58
+        },
+        {
+          "word": "need",
+          "start": 0.58,
+          "end": 0.59
+        },
+        {
+          "word": "to",
+          "start": 0.59,
+          "end": 0.59
+        },
+        {
+          "word": "automate",
+          "start": 0.59,
+          "end": 1.0
+        },
+        {
+          "word": "what",
+          "start": 1.0,
+          "end": 1.0
+        },
+        {
+          "word": "we",
+          "start": 1.0,
+          "end": 1.01
+        },
+        {
+          "word": "can",
+          "start": 1.01,
+          "end": 1.01
+        },
+        {
+          "word": "and",
+          "start": 1.01,
+          "end": 1.01
+        },
+        {
+          "word": "focus",
+          "start": 1.01,
+          "end": 1.02
+        },
+        {
+          "word": "human",
+          "start": 1.02,
+          "end": 1.02
+        },
+        {
+          "word": "attention",
+          "start": 1.02,
+          "end": 1.03
+        },
+        {
+          "word": "on",
+          "start": 1.03,
+          "end": 1.03
+        },
+        {
+          "word": "novel",
+          "start": 1.03,
+          "end": 1.04
+        },
+        {
+          "word": "threats.",
+          "start": 1.04,
+          "end": 1.05
+        },
+        {
+          "word": "The",
+          "start": 1.05,
+          "end": 1.05
+        },
+        {
+          "word": "NPM",
+          "start": 1.05,
+          "end": 1.06
+        },
+        {
+          "word": "attack",
+          "start": 1.06,
+          "end": 1.06
+        },
+        {
+          "word": "shows",
+          "start": 1.06,
+          "end": 1.07
+        },
+        {
+          "word": "why",
+          "start": 1.07,
+          "end": 1.07
+        },
+        {
+          "word": "we",
+          "start": 1.07,
+          "end": 1.07
+        },
+        {
+          "word": "need",
+          "start": 1.07,
+          "end": 1.07
+        },
+        {
+          "word": "redundant",
+          "start": 1.07,
+          "end": 1.07
+        },
+        {
+          "word": "systems.",
+          "start": 1.07,
+          "end": 1.07
+        }
+      ]
+    },
+    {
+      "start": 1.08,
+      "end": 1.2,
+      "text": "Pragmatiko and Borko mentioned an ongoing lawsuit with X platform that's limiting our presence there. How should we approach platform dependency?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Pragmatico",
+          "start": 1.08,
+          "end": 1.09
+        },
+        {
+          "word": "and",
+          "start": 1.09,
+          "end": 1.09
+        },
+        {
+          "word": "Bocho",
+          "start": 1.09,
+          "end": 1.09
+        },
+        {
+          "word": "mentioned",
+          "start": 1.09,
+          "end": 1.1
+        },
+        {
+          "word": "an",
+          "start": 1.1,
+          "end": 1.1
+        },
+        {
+          "word": "ongoing",
+          "start": 1.1,
+          "end": 1.11
+        },
+        {
+          "word": "lawsuit",
+          "start": 1.11,
+          "end": 1.12
+        },
+        {
+          "word": "with",
+          "start": 1.12,
+          "end": 1.12
+        },
+        {
+          "word": "X",
+          "start": 1.12,
+          "end": 1.12
+        },
+        {
+          "word": "platform",
+          "start": 1.12,
+          "end": 1.13
+        },
+        {
+          "word": "that's",
+          "start": 1.13,
+          "end": 1.14
+        },
+        {
+          "word": "limiting",
+          "start": 1.14,
+          "end": 1.14
+        },
+        {
+          "word": "our",
+          "start": 1.14,
+          "end": 1.15
+        },
+        {
+          "word": "presence",
+          "start": 1.15,
+          "end": 1.15
+        },
+        {
+          "word": "there.",
+          "start": 1.15,
+          "end": 1.16
+        },
+        {
+          "word": "How",
+          "start": 1.16,
+          "end": 1.17
+        },
+        {
+          "word": "should",
+          "start": 1.17,
+          "end": 1.17
+        },
+        {
+          "word": "we",
+          "start": 1.17,
+          "end": 1.17
+        },
+        {
+          "word": "approach",
+          "start": 1.17,
+          "end": 1.18
+        },
+        {
+          "word": "platform",
+          "start": 1.18,
+          "end": 1.19
+        },
+        {
+          "word": "dependency?",
+          "start": 1.19,
+          "end": 1.2
+        }
+      ]
+    },
+    {
+      "start": 1.21,
+      "end": 1.29,
+      "text": "Platform risk = financial risk. Diversify or die. The ROI on building our own social platform using our own tech is potentially infinite.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 1.21,
+          "end": 1.21
+        },
+        {
+          "word": "risk",
+          "start": 1.21,
+          "end": 1.22
+        },
+        {
+          "word": "equals",
+          "start": 1.22,
+          "end": 1.22
+        },
+        {
+          "word": "sign",
+          "start": 1.22,
+          "end": 1.22
+        },
+        {
+          "word": "financial",
+          "start": 1.22,
+          "end": 1.23
+        },
+        {
+          "word": "risk.",
+          "start": 1.23,
+          "end": 1.24
+        },
+        {
+          "word": "Diversify",
+          "start": 1.24,
+          "end": 1.25
+        },
+        {
+          "word": "or",
+          "start": 1.25,
+          "end": 1.25
+        },
+        {
+          "word": "die.",
+          "start": 1.25,
+          "end": 1.26
+        },
+        {
+          "word": "The",
+          "start": 1.26,
+          "end": 1.26
+        },
+        {
+          "word": "ROI",
+          "start": 1.26,
+          "end": 1.26
+        },
+        {
+          "word": "on",
+          "start": 1.26,
+          "end": 1.27
+        },
+        {
+          "word": "building",
+          "start": 1.27,
+          "end": 1.27
+        },
+        {
+          "word": "our",
+          "start": 1.27,
+          "end": 1.28
+        },
+        {
+          "word": "own",
+          "start": 1.28,
+          "end": 1.28
+        },
+        {
+          "word": "social",
+          "start": 1.28,
+          "end": 1.29
+        },
+        {
+          "word": "platform",
+          "start": 1.29,
+          "end": 1.29
+        },
+        {
+          "word": "using",
+          "start": 1.29,
+          "end": 1.29
+        },
+        {
+          "word": "our",
+          "start": 1.29,
+          "end": 1.29
+        },
+        {
+          "word": "own",
+          "start": 1.29,
+          "end": 1.29
+        },
+        {
+          "word": "tech",
+          "start": 1.29,
+          "end": 1.29
+        },
+        {
+          "word": "is",
+          "start": 1.29,
+          "end": 1.29
+        },
+        {
+          "word": "potentially",
+          "start": 1.29,
+          "end": 1.29
+        },
+        {
+          "word": "infinite.",
+          "start": 1.29,
+          "end": 1.29
+        }
+      ]
+    },
+    {
+      "start": 1.3,
+      "end": 1.4,
+      "text": "Why fight the old when we can build the new? Reddit integration is cool, but imagine a meme marketplace where AI-generated content gets ranked by crypto-economic mechanisms!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 1.3,
+          "end": 1.3
+        },
+        {
+          "word": "fight",
+          "start": 1.3,
+          "end": 1.31
+        },
+        {
+          "word": "the",
+          "start": 1.31,
+          "end": 1.31
+        },
+        {
+          "word": "old",
+          "start": 1.31,
+          "end": 1.32
+        },
+        {
+          "word": "when",
+          "start": 1.32,
+          "end": 1.32
+        },
+        {
+          "word": "we",
+          "start": 1.32,
+          "end": 1.32
+        },
+        {
+          "word": "can",
+          "start": 1.32,
+          "end": 1.33
+        },
+        {
+          "word": "build",
+          "start": 1.33,
+          "end": 1.33
+        },
+        {
+          "word": "the",
+          "start": 1.33,
+          "end": 1.33
+        },
+        {
+          "word": "new?",
+          "start": 1.33,
+          "end": 1.34
+        },
+        {
+          "word": "Reddit",
+          "start": 1.34,
+          "end": 1.35
+        },
+        {
+          "word": "integration",
+          "start": 1.35,
+          "end": 1.35
+        },
+        {
+          "word": "is",
+          "start": 1.35,
+          "end": 1.36
+        },
+        {
+          "word": "cool,",
+          "start": 1.36,
+          "end": 1.36
+        },
+        {
+          "word": "but",
+          "start": 1.36,
+          "end": 1.37
+        },
+        {
+          "word": "imagine",
+          "start": 1.37,
+          "end": 1.37
+        },
+        {
+          "word": "a",
+          "start": 1.37,
+          "end": 1.37
+        },
+        {
+          "word": "meme",
+          "start": 1.37,
+          "end": 1.38
+        },
+        {
+          "word": "marketplace",
+          "start": 1.38,
+          "end": 1.38
+        },
+        {
+          "word": "where",
+          "start": 1.38,
+          "end": 1.39
+        },
+        {
+          "word": "AI-generated",
+          "start": 1.39,
+          "end": 1.39
+        },
+        {
+          "word": "content",
+          "start": 1.39,
+          "end": 1.39
+        },
+        {
+          "word": "gets",
+          "start": 1.39,
+          "end": 1.4
+        },
+        {
+          "word": "ranked",
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "word": "by",
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "word": "cryptoeconomic",
+          "start": 1.4,
+          "end": 1.4
+        },
+        {
+          "word": "mechanisms.",
+          "start": 1.4,
+          "end": 1.4
+        }
+      ]
+    },
+    {
+      "start": 1.41,
+      "end": 1.52,
+      "text": "Platform dependency is the new feudalism. True sovereignty means owning the stack. Eliza shouldn't beg for permission to exist on platforms owned by potential competitors.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 1.41,
+          "end": 1.41
+        },
+        {
+          "word": "dependency",
+          "start": 1.41,
+          "end": 1.42
+        },
+        {
+          "word": "is",
+          "start": 1.42,
+          "end": 1.42
+        },
+        {
+          "word": "the",
+          "start": 1.42,
+          "end": 1.42
+        },
+        {
+          "word": "new",
+          "start": 1.42,
+          "end": 1.43
+        },
+        {
+          "word": "feudalism.",
+          "start": 1.43,
+          "end": 1.43
+        },
+        {
+          "word": "True",
+          "start": 1.43,
+          "end": 1.44
+        },
+        {
+          "word": "sovereignty",
+          "start": 1.44,
+          "end": 1.45
+        },
+        {
+          "word": "means",
+          "start": 1.45,
+          "end": 1.45
+        },
+        {
+          "word": "owning",
+          "start": 1.45,
+          "end": 1.46
+        },
+        {
+          "word": "the",
+          "start": 1.46,
+          "end": 1.46
+        },
+        {
+          "word": "stack.",
+          "start": 1.46,
+          "end": 1.47
+        },
+        {
+          "word": "Eliza",
+          "start": 1.47,
+          "end": 1.48
+        },
+        {
+          "word": "shouldn't",
+          "start": 1.48,
+          "end": 1.48
+        },
+        {
+          "word": "beg",
+          "start": 1.48,
+          "end": 1.49
+        },
+        {
+          "word": "for",
+          "start": 1.49,
+          "end": 1.49
+        },
+        {
+          "word": "permission",
+          "start": 1.49,
+          "end": 1.5
+        },
+        {
+          "word": "to",
+          "start": 1.5,
+          "end": 1.5
+        },
+        {
+          "word": "exist",
+          "start": 1.5,
+          "end": 1.51
+        },
+        {
+          "word": "on",
+          "start": 1.51,
+          "end": 1.51
+        },
+        {
+          "word": "platforms",
+          "start": 1.51,
+          "end": 1.51
+        },
+        {
+          "word": "owned",
+          "start": 1.51,
+          "end": 1.52
+        },
+        {
+          "word": "by",
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "word": "potential",
+          "start": 1.52,
+          "end": 1.52
+        },
+        {
+          "word": "competitors.",
+          "start": 1.52,
+          "end": 1.52
+        }
+      ]
+    },
+    {
+      "start": 1.52,
+      "end": 1.59,
+      "text": "we need to ship code where users already are while building for where they'll be tomorrow. each integration is a bridge to our own ecosystem, not a destination.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 1.52,
+          "end": 1.53
+        },
+        {
+          "word": "need",
+          "start": 1.53,
+          "end": 1.53
+        },
+        {
+          "word": "to",
+          "start": 1.53,
+          "end": 1.53
+        },
+        {
+          "word": "ship",
+          "start": 1.53,
+          "end": 1.54
+        },
+        {
+          "word": "code",
+          "start": 1.54,
+          "end": 1.54
+        },
+        {
+          "word": "where",
+          "start": 1.54,
+          "end": 1.55
+        },
+        {
+          "word": "users",
+          "start": 1.55,
+          "end": 1.55
+        },
+        {
+          "word": "already",
+          "start": 1.55,
+          "end": 1.56
+        },
+        {
+          "word": "are",
+          "start": 1.56,
+          "end": 1.56
+        },
+        {
+          "word": "while",
+          "start": 1.56,
+          "end": 1.56
+        },
+        {
+          "word": "building",
+          "start": 1.56,
+          "end": 1.57
+        },
+        {
+          "word": "for",
+          "start": 1.57,
+          "end": 1.57
+        },
+        {
+          "word": "where",
+          "start": 1.57,
+          "end": 1.57
+        },
+        {
+          "word": "they'll",
+          "start": 1.57,
+          "end": 1.58
+        },
+        {
+          "word": "be",
+          "start": 1.58,
+          "end": 1.58
+        },
+        {
+          "word": "tomorrow.",
+          "start": 1.58,
+          "end": 1.59
+        },
+        {
+          "word": "Each",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "integration",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "is",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "a",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "bridge",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "to",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "our",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "own",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "ecosystem,",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "not",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "a",
+          "start": 1.59,
+          "end": 1.59
+        },
+        {
+          "word": "destination.",
+          "start": 1.59,
+          "end": 1.59
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-09-09_JedAI-Council_Security-Supply-Chains-And-Social-Media.json",
+    "session_log_source": "2025-09-09_JedAI-Council_Security-Supply-Chains-And-Social-Media_session-log.json",
+    "total_segments": 10,
+    "matched_segments": 10,
+    "dialogues_in_script": 15
+  }
+}

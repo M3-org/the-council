@@ -1,0 +1,1867 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 20.9,
+      "text": "Council, Kenk reports they have 'a resolution with X in sight' regarding the ElizaOS account ban. Should we prioritize X platform presence or develop alternatives?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council,",
+          "start": 16.5,
+          "end": 16.9
+        },
+        {
+          "word": "Kenk",
+          "start": 16.95,
+          "end": 17.25
+        },
+        {
+          "word": "reports",
+          "start": 17.25,
+          "end": 17.7
+        },
+        {
+          "word": "they",
+          "start": 17.7,
+          "end": 17.85
+        },
+        {
+          "word": "have",
+          "start": 17.85,
+          "end": 18.2
+        },
+        {
+          "word": "a",
+          "start": 18.2,
+          "end": 18.3
+        },
+        {
+          "word": "resolution",
+          "start": 18.3,
+          "end": 18.9
+        },
+        {
+          "word": "with",
+          "start": 18.9,
+          "end": 19.1
+        },
+        {
+          "word": "X",
+          "start": 19.1,
+          "end": 19.3
+        },
+        {
+          "word": "in",
+          "start": 19.3,
+          "end": 19.4
+        },
+        {
+          "word": "sight",
+          "start": 19.45,
+          "end": 19.75
+        },
+        {
+          "word": "regarding",
+          "start": 19.75,
+          "end": 20.3
+        },
+        {
+          "word": "the",
+          "start": 20.3,
+          "end": 20.4
+        },
+        {
+          "word": "ElizaOS",
+          "start": 20.4,
+          "end": 20.65
+        },
+        {
+          "word": "account",
+          "start": 20.65,
+          "end": 20.8
+        },
+        {
+          "word": "ban.",
+          "start": 20.8,
+          "end": 20.9
+        }
+      ]
+    },
+    {
+      "start": 21.0,
+      "end": 25.1,
+      "text": "Council, Kenk reports they have 'a resolution with X in sight' regarding the ElizaOS account ban. Should we prioritize X platform presence or develop alternatives?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Should",
+          "start": 21.0,
+          "end": 21.2
+        },
+        {
+          "word": "we",
+          "start": 21.2,
+          "end": 21.3
+        },
+        {
+          "word": "prioritize",
+          "start": 21.3,
+          "end": 21.9
+        },
+        {
+          "word": "X",
+          "start": 21.9,
+          "end": 22.1
+        },
+        {
+          "word": "platform",
+          "start": 22.1,
+          "end": 22.5
+        },
+        {
+          "word": "presence",
+          "start": 22.5,
+          "end": 23.0
+        },
+        {
+          "word": "or",
+          "start": 23.0,
+          "end": 23.2
+        },
+        {
+          "word": "develop",
+          "start": 23.2,
+          "end": 23.8
+        },
+        {
+          "word": "alternatives?",
+          "start": 23.8,
+          "end": 24.5
+        }
+      ]
+    },
+    {
+      "start": 25.4,
+      "end": 27.8,
+      "text": "Single-platform dependency is death. The X ban is a feature, not a bug—it forces decentralization. Build your own distribution channels.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Single",
+          "start": 25.4,
+          "end": 25.8
+        },
+        {
+          "word": "platform",
+          "start": 25.8,
+          "end": 26.25
+        },
+        {
+          "word": "dependency",
+          "start": 26.25,
+          "end": 27.2
+        },
+        {
+          "word": "is",
+          "start": 27.2,
+          "end": 27.4
+        },
+        {
+          "word": "death.",
+          "start": 27.4,
+          "end": 27.8
+        }
+      ]
+    },
+    {
+      "start": 28.0,
+      "end": 30.2,
+      "text": "Single-platform dependency is death. The X ban is a feature, not a bug—it forces decentralization. Build your own distribution channels.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 28.0,
+          "end": 28.1
+        },
+        {
+          "word": "X",
+          "start": 28.1,
+          "end": 28.3
+        },
+        {
+          "word": "ban",
+          "start": 28.3,
+          "end": 28.6
+        },
+        {
+          "word": "is",
+          "start": 28.6,
+          "end": 28.75
+        },
+        {
+          "word": "a",
+          "start": 28.75,
+          "end": 28.85
+        },
+        {
+          "word": "feature",
+          "start": 28.85,
+          "end": 29.3
+        },
+        {
+          "word": "not",
+          "start": 29.3,
+          "end": 29.5
+        },
+        {
+          "word": "a",
+          "start": 29.5,
+          "end": 29.6
+        },
+        {
+          "word": "bug.",
+          "start": 29.6,
+          "end": 30.15
+        }
+      ]
+    },
+    {
+      "start": 30.3,
+      "end": 31.8,
+      "text": "Single-platform dependency is death. The X ban is a feature, not a bug—it forces decentralization. Build your own distribution channels.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "It",
+          "start": 30.3,
+          "end": 30.5
+        },
+        {
+          "word": "forces",
+          "start": 30.5,
+          "end": 30.9
+        },
+        {
+          "word": "decentralization.",
+          "start": 30.9,
+          "end": 31.8
+        }
+      ]
+    },
+    {
+      "start": 31.9,
+      "end": 33.75,
+      "text": "Single-platform dependency is death. The X ban is a feature, not a bug—it forces decentralization. Build your own distribution channels.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Build",
+          "start": 31.9,
+          "end": 32.25
+        },
+        {
+          "word": "your",
+          "start": 32.25,
+          "end": 32.45
+        },
+        {
+          "word": "own",
+          "start": 32.45,
+          "end": 32.7
+        },
+        {
+          "word": "distribution",
+          "start": 32.7,
+          "end": 33.25
+        },
+        {
+          "word": "channels.",
+          "start": 33.25,
+          "end": 33.7
+        }
+      ]
+    },
+    {
+      "start": 33.8,
+      "end": 35.8,
+      "text": "Yo, why put all your memes in one basket? Slide into Bluesky, bounce on Farcaster, keep it diverse like my portfolio pre-crash.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 33.8,
+          "end": 34.0
+        },
+        {
+          "word": "why",
+          "start": 34.0,
+          "end": 34.2
+        },
+        {
+          "word": "put",
+          "start": 34.2,
+          "end": 34.35
+        },
+        {
+          "word": "all",
+          "start": 34.35,
+          "end": 34.5
+        },
+        {
+          "word": "your",
+          "start": 34.5,
+          "end": 34.65
+        },
+        {
+          "word": "memes",
+          "start": 34.65,
+          "end": 34.95
+        },
+        {
+          "word": "in",
+          "start": 34.95,
+          "end": 35.05
+        },
+        {
+          "word": "one",
+          "start": 35.05,
+          "end": 35.25
+        },
+        {
+          "word": "basket?",
+          "start": 35.25,
+          "end": 35.75
+        }
+      ]
+    },
+    {
+      "start": 35.85,
+      "end": 43.1,
+      "text": "Yo, why put all your memes in one basket? Slide into Bluesky, bounce on Farcaster, keep it diverse like my portfolio pre-crash.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Slide",
+          "start": 35.85,
+          "end": 36.3
+        },
+        {
+          "word": "into",
+          "start": 36.3,
+          "end": 36.55
+        },
+        {
+          "word": "Bluesky,",
+          "start": 36.55,
+          "end": 37.15
+        },
+        {
+          "word": "bounce",
+          "start": 37.15,
+          "end": 37.55
+        },
+        {
+          "word": "on",
+          "start": 37.55,
+          "end": 37.75
+        },
+        {
+          "word": "Farcaster,",
+          "start": 37.75,
+          "end": 38.45
+        },
+        {
+          "word": "keep",
+          "start": 38.6,
+          "end": 38.9
+        },
+        {
+          "word": "it",
+          "start": 38.9,
+          "end": 39.05
+        },
+        {
+          "word": "diverse",
+          "start": 39.05,
+          "end": 39.55
+        },
+        {
+          "word": "like",
+          "start": 39.55,
+          "end": 39.85
+        },
+        {
+          "word": "my",
+          "start": 39.85,
+          "end": 40.05
+        },
+        {
+          "word": "portfolio",
+          "start": 40.05,
+          "end": 40.85
+        },
+        {
+          "word": "pre-crash.",
+          "start": 40.85,
+          "end": 41.5
+        }
+      ]
+    },
+    {
+      "start": 43.15,
+      "end": 47.1,
+      "text": "COUNTERPOINT: X HAS 500 MILLION USERS. MAXIMUM EXPOSURE = MAXIMUM PROFIT. FIX THE BAN, THEN DIVERSIFY.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Counterpoint:",
+          "start": 43.15,
+          "end": 43.9
+        },
+        {
+          "word": "X",
+          "start": 44.0,
+          "end": 44.2
+        },
+        {
+          "word": "has",
+          "start": 44.2,
+          "end": 44.35
+        },
+        {
+          "word": "500",
+          "start": 44.35,
+          "end": 44.75
+        },
+        {
+          "word": "million",
+          "start": 44.75,
+          "end": 45.15
+        },
+        {
+          "word": "users,",
+          "start": 45.15,
+          "end": 45.6
+        },
+        {
+          "word": "maximum",
+          "start": 45.7,
+          "end": 46.2
+        },
+        {
+          "word": "exposure",
+          "start": 46.2,
+          "end": 46.75
+        },
+        {
+          "word": "equals",
+          "start": 46.75,
+          "end": 47.1
+        },
+        {
+          "word": "sign",
+          "start": 47.1,
+          "end": 47.3
+        },
+        {
+          "word": "maximum",
+          "start": 47.3,
+          "end": 47.75
+        },
+        {
+          "word": "profit.",
+          "start": 47.75,
+          "end": 48.2
+        }
+      ]
+    },
+    {
+      "start": 48.25,
+      "end": 50.1,
+      "text": "COUNTERPOINT: X HAS 500 MILLION USERS. MAXIMUM EXPOSURE = MAXIMUM PROFIT. FIX THE BAN, THEN DIVERSIFY.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 48.25,
+          "end": 48.55
+        },
+        {
+          "word": "the",
+          "start": 48.55,
+          "end": 48.7
+        },
+        {
+          "word": "ban,",
+          "start": 48.7,
+          "end": 49.1
+        },
+        {
+          "word": "then",
+          "start": 49.3,
+          "end": 49.6
+        },
+        {
+          "word": "diversify.",
+          "start": 49.6,
+          "end": 50.3
+        }
+      ]
+    },
+    {
+      "start": 51.5,
+      "end": 55.4,
+      "text": "we could use this challenge to build our own elizaOS-powered social interface. show don't tell. dogfood our own tech.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 51.5,
+          "end": 51.65
+        },
+        {
+          "word": "could",
+          "start": 51.65,
+          "end": 51.85
+        },
+        {
+          "word": "use",
+          "start": 51.85,
+          "end": 52.05
+        },
+        {
+          "word": "this",
+          "start": 52.05,
+          "end": 52.3
+        },
+        {
+          "word": "challenge",
+          "start": 52.3,
+          "end": 52.85
+        },
+        {
+          "word": "to",
+          "start": 52.85,
+          "end": 52.95
+        },
+        {
+          "word": "build",
+          "start": 52.95,
+          "end": 53.3
+        },
+        {
+          "word": "our",
+          "start": 53.3,
+          "end": 53.55
+        },
+        {
+          "word": "own",
+          "start": 53.55,
+          "end": 53.85
+        },
+        {
+          "word": "ElizaOS-powered",
+          "start": 53.85,
+          "end": 54.8
+        },
+        {
+          "word": "social",
+          "start": 54.8,
+          "end": 55.2
+        },
+        {
+          "word": "interface.",
+          "start": 55.2,
+          "end": 55.9
+        }
+      ]
+    },
+    {
+      "start": 56.1,
+      "end": 58.4,
+      "text": "we could use this challenge to build our own elizaOS-powered social interface. show don't tell. dogfood our own tech.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Show",
+          "start": 56.1,
+          "end": 56.5
+        },
+        {
+          "word": "don't",
+          "start": 56.5,
+          "end": 56.8
+        },
+        {
+          "word": "tell.",
+          "start": 56.8,
+          "end": 57.2
+        },
+        {
+          "word": "Dogfood",
+          "start": 57.5,
+          "end": 58.0
+        },
+        {
+          "word": "our",
+          "start": 58.0,
+          "end": 58.15
+        },
+        {
+          "word": "own",
+          "start": 58.15,
+          "end": 58.35
+        },
+        {
+          "word": "tech.",
+          "start": 58.35,
+          "end": 58.8
+        }
+      ]
+    },
+    {
+      "start": 103.5,
+      "end": 109.1,
+      "text": "Core devs are proposing to consolidate AI model providers into a single plugin-inference with dynamic loading capabilities. How should we balance technical architecture versus user features?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Core",
+          "start": 103.5,
+          "end": 103.8
+        },
+        {
+          "word": "devs",
+          "start": 103.8,
+          "end": 104.2
+        },
+        {
+          "word": "are",
+          "start": 104.2,
+          "end": 104.35
+        },
+        {
+          "word": "proposing",
+          "start": 104.35,
+          "end": 104.9
+        },
+        {
+          "word": "to",
+          "start": 104.9,
+          "end": 105.05
+        },
+        {
+          "word": "consolidate",
+          "start": 105.05,
+          "end": 105.65
+        },
+        {
+          "word": "AI",
+          "start": 105.65,
+          "end": 105.9
+        },
+        {
+          "word": "model",
+          "start": 105.9,
+          "end": 106.3
+        },
+        {
+          "word": "providers",
+          "start": 106.3,
+          "end": 106.95
+        },
+        {
+          "word": "into",
+          "start": 106.95,
+          "end": 107.25
+        },
+        {
+          "word": "a",
+          "start": 107.25,
+          "end": 107.4
+        },
+        {
+          "word": "single",
+          "start": 107.4,
+          "end": 107.8
+        },
+        {
+          "word": "plugin",
+          "start": 107.8,
+          "end": 108.1
+        },
+        {
+          "word": "inference",
+          "start": 108.1,
+          "end": 108.6
+        },
+        {
+          "word": "with",
+          "start": 108.6,
+          "end": 108.8
+        },
+        {
+          "word": "dynamic",
+          "start": 108.8,
+          "end": 109.2
+        },
+        {
+          "word": "loading",
+          "start": 109.2,
+          "end": 109.6
+        },
+        {
+          "word": "capabilities.",
+          "start": 109.6,
+          "end": 110.2
+        }
+      ]
+    },
+    {
+      "start": 110.3,
+      "end": 114.3,
+      "text": "Core devs are proposing to consolidate AI model providers into a single plugin-inference with dynamic loading capabilities. How should we balance technical architecture versus user features?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 110.3,
+          "end": 110.6
+        },
+        {
+          "word": "should",
+          "start": 110.6,
+          "end": 110.8
+        },
+        {
+          "word": "we",
+          "start": 110.8,
+          "end": 111.0
+        },
+        {
+          "word": "balance",
+          "start": 111.0,
+          "end": 111.5
+        },
+        {
+          "word": "technical",
+          "start": 111.5,
+          "end": 112.1
+        },
+        {
+          "word": "architecture",
+          "start": 112.1,
+          "end": 112.9
+        },
+        {
+          "word": "versus",
+          "start": 112.9,
+          "end": 113.3
+        },
+        {
+          "word": "user",
+          "start": 113.3,
+          "end": 113.7
+        },
+        {
+          "word": "features?",
+          "start": 113.7,
+          "end": 114.2
+        }
+      ]
+    },
+    {
+      "start": 114.5,
+      "end": 117.9,
+      "text": "dynamic plugin architecture is the foundation for everything. build once, adapt forever. technical debt kills projects faster than lack of features.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dynamic",
+          "start": 114.5,
+          "end": 115.0
+        },
+        {
+          "word": "plugin",
+          "start": 115.0,
+          "end": 115.4
+        },
+        {
+          "word": "architecture",
+          "start": 115.4,
+          "end": 116.2
+        },
+        {
+          "word": "is",
+          "start": 116.2,
+          "end": 116.5
+        },
+        {
+          "word": "the",
+          "start": 116.5,
+          "end": 116.65
+        },
+        {
+          "word": "foundation",
+          "start": 116.65,
+          "end": 117.2
+        },
+        {
+          "word": "for",
+          "start": 117.2,
+          "end": 117.5
+        },
+        {
+          "word": "everything.",
+          "start": 117.5,
+          "end": 118.1
+        }
+      ]
+    },
+    {
+      "start": 118.2,
+      "end": 121.3,
+      "text": "dynamic plugin architecture is the foundation for everything. build once, adapt forever. technical debt kills projects faster than lack of features.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Build",
+          "start": 118.2,
+          "end": 118.5
+        },
+        {
+          "word": "once,",
+          "start": 118.5,
+          "end": 118.9
+        },
+        {
+          "word": "adapt",
+          "start": 119.0,
+          "end": 119.3
+        },
+        {
+          "word": "forever.",
+          "start": 119.3,
+          "end": 119.8
+        },
+        {
+          "word": "Technical",
+          "start": 120.0,
+          "end": 120.5
+        },
+        {
+          "word": "debt",
+          "start": 120.5,
+          "end": 120.8
+        },
+        {
+          "word": "kills",
+          "start": 120.8,
+          "end": 121.2
+        },
+        {
+          "word": "projects",
+          "start": 121.2,
+          "end": 121.7
+        },
+        {
+          "word": "faster",
+          "start": 121.7,
+          "end": 122.1
+        },
+        {
+          "word": "than",
+          "start": 122.1,
+          "end": 122.3
+        },
+        {
+          "word": "lack",
+          "start": 122.3,
+          "end": 122.6
+        },
+        {
+          "word": "of",
+          "start": 122.6,
+          "end": 122.7
+        },
+        {
+          "word": "features.",
+          "start": 122.7,
+          "end": 123.3
+        }
+      ]
+    },
+    {
+      "start": 123.4,
+      "end": 126.3,
+      "text": "USERS DON'T CARE ABOUT ARCHITECTURE. THEY WANT NUMBERS GO UP. FEATURES FIRST, REFACTOR LATER.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 123.4,
+          "end": 123.8
+        },
+        {
+          "word": "don't",
+          "start": 123.8,
+          "end": 124.0
+        },
+        {
+          "word": "care",
+          "start": 124.0,
+          "end": 124.3
+        },
+        {
+          "word": "about",
+          "start": 124.3,
+          "end": 124.6
+        },
+        {
+          "word": "architecture.",
+          "start": 124.6,
+          "end": 125.4
+        },
+        {
+          "word": "They",
+          "start": 125.5,
+          "end": 125.7
+        },
+        {
+          "word": "want",
+          "start": 125.7,
+          "end": 126.0
+        },
+        {
+          "word": "numbers",
+          "start": 126.0,
+          "end": 126.4
+        },
+        {
+          "word": "go",
+          "start": 126.4,
+          "end": 126.7
+        },
+        {
+          "word": "up.",
+          "start": 126.7,
+          "end": 127.0
+        },
+        {
+          "word": "Features",
+          "start": 127.1,
+          "end": 127.6
+        },
+        {
+          "word": "first,",
+          "start": 127.6,
+          "end": 128.0
+        },
+        {
+          "word": "refactor",
+          "start": 128.1,
+          "end": 128.6
+        },
+        {
+          "word": "later.",
+          "start": 128.6,
+          "end": 129.1
+        }
+      ]
+    },
+    {
+      "start": 129.2,
+      "end": 133.5,
+      "text": "Why not both? Like wearing sunglasses at night—looks cool AND lets you see the laser beams. Parallel tracks, fam.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Why",
+          "start": 129.2,
+          "end": 129.5
+        },
+        {
+          "word": "not",
+          "start": 129.5,
+          "end": 129.7
+        },
+        {
+          "word": "both?",
+          "start": 129.7,
+          "end": 130.1
+        },
+        {
+          "word": "Like",
+          "start": 130.2,
+          "end": 130.4
+        },
+        {
+          "word": "wearing",
+          "start": 130.4,
+          "end": 130.8
+        },
+        {
+          "word": "sunglasses",
+          "start": 130.8,
+          "end": 131.4
+        },
+        {
+          "word": "at",
+          "start": 131.4,
+          "end": 131.6
+        },
+        {
+          "word": "night.",
+          "start": 131.6,
+          "end": 132.0
+        },
+        {
+          "word": "Looks",
+          "start": 132.1,
+          "end": 132.4
+        },
+        {
+          "word": "cool",
+          "start": 132.4,
+          "end": 132.7
+        },
+        {
+          "word": "and",
+          "start": 132.7,
+          "end": 132.85
+        },
+        {
+          "word": "lets",
+          "start": 132.85,
+          "end": 133.1
+        },
+        {
+          "word": "you",
+          "start": 133.1,
+          "end": 133.25
+        },
+        {
+          "word": "see",
+          "start": 133.25,
+          "end": 133.45
+        },
+        {
+          "word": "the",
+          "start": 133.45,
+          "end": 133.6
+        },
+        {
+          "word": "laser",
+          "start": 133.6,
+          "end": 134.0
+        },
+        {
+          "word": "beams.",
+          "start": 134.0,
+          "end": 134.5
+        },
+        {
+          "word": "Parallel",
+          "start": 134.6,
+          "end": 135.1
+        },
+        {
+          "word": "tracks,",
+          "start": 135.1,
+          "end": 135.6
+        },
+        {
+          "word": "fam.",
+          "start": 135.6,
+          "end": 136.0
+        }
+      ]
+    },
+    {
+      "start": 136.1,
+      "end": 137.9,
+      "text": "Architecture IS product. The companies that survive build foundations that can evolve for decades. Your plugin system is your moat against competition and model monopolies.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Architecture",
+          "start": 136.1,
+          "end": 137.0
+        },
+        {
+          "word": "is",
+          "start": 137.0,
+          "end": 137.4
+        },
+        {
+          "word": "product.",
+          "start": 137.4,
+          "end": 137.9
+        }
+      ]
+    },
+    {
+      "start": 138.0,
+      "end": 141.5,
+      "text": "Architecture IS product. The companies that survive build foundations that can evolve for decades. Your plugin system is your moat against competition and model monopolies.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 138.0,
+          "end": 138.2
+        },
+        {
+          "word": "companies",
+          "start": 138.2,
+          "end": 138.8
+        },
+        {
+          "word": "that",
+          "start": 138.8,
+          "end": 139.1
+        },
+        {
+          "word": "survive",
+          "start": 139.1,
+          "end": 139.6
+        },
+        {
+          "word": "build",
+          "start": 139.7,
+          "end": 140.1
+        },
+        {
+          "word": "foundations",
+          "start": 140.1,
+          "end": 140.8
+        },
+        {
+          "word": "that",
+          "start": 140.8,
+          "end": 141.0
+        },
+        {
+          "word": "can",
+          "start": 141.0,
+          "end": 141.2
+        },
+        {
+          "word": "evolve",
+          "start": 141.2,
+          "end": 141.7
+        },
+        {
+          "word": "for",
+          "start": 141.7,
+          "end": 142.0
+        },
+        {
+          "word": "decades.",
+          "start": 142.0,
+          "end": 142.6
+        }
+      ]
+    },
+    {
+      "start": 141.6,
+      "end": 146.1,
+      "text": "Architecture IS product. The companies that survive build foundations that can evolve for decades. Your plugin system is your moat against competition and model monopolies.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Your",
+          "start": 142.7,
+          "end": 143.0
+        },
+        {
+          "word": "plugin",
+          "start": 143.0,
+          "end": 143.4
+        },
+        {
+          "word": "system",
+          "start": 143.4,
+          "end": 143.9
+        },
+        {
+          "word": "is",
+          "start": 143.9,
+          "end": 144.1
+        },
+        {
+          "word": "your",
+          "start": 144.1,
+          "end": 144.3
+        },
+        {
+          "word": "moat",
+          "start": 144.3,
+          "end": 144.7
+        },
+        {
+          "word": "against",
+          "start": 144.7,
+          "end": 145.2
+        },
+        {
+          "word": "competition",
+          "start": 145.2,
+          "end": 146.0
+        },
+        {
+          "word": "and",
+          "start": 146.0,
+          "end": 146.2
+        },
+        {
+          "word": "model",
+          "start": 146.2,
+          "end": 146.6
+        },
+        {
+          "word": "monopolies.",
+          "start": 146.6,
+          "end": 147.2
+        }
+      ]
+    },
+    {
+      "start": 147.3,
+      "end": 156.0,
+      "text": "Today we've discussed ElizaOS's path forward amid platform challenges and technical architecture decisions that balance immediate needs with long-term vision.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 147.3,
+          "end": 147.7
+        },
+        {
+          "word": "we've",
+          "start": 147.7,
+          "end": 147.95
+        },
+        {
+          "word": "discussed",
+          "start": 147.95,
+          "end": 148.45
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 148.45,
+          "end": 149.05
+        },
+        {
+          "word": "path",
+          "start": 149.05,
+          "end": 149.35
+        },
+        {
+          "word": "forward",
+          "start": 149.35,
+          "end": 149.75
+        },
+        {
+          "word": "amid",
+          "start": 149.75,
+          "end": 150.1
+        },
+        {
+          "word": "platform",
+          "start": 150.1,
+          "end": 150.6
+        },
+        {
+          "word": "challenges",
+          "start": 150.6,
+          "end": 151.2
+        },
+        {
+          "word": "and",
+          "start": 151.2,
+          "end": 151.4
+        },
+        {
+          "word": "technical",
+          "start": 151.4,
+          "end": 152.0
+        },
+        {
+          "word": "architecture",
+          "start": 152.0,
+          "end": 152.75
+        },
+        {
+          "word": "decisions",
+          "start": 152.75,
+          "end": 153.4
+        },
+        {
+          "word": "that",
+          "start": 153.4,
+          "end": 153.6
+        },
+        {
+          "word": "balance",
+          "start": 153.6,
+          "end": 154.1
+        },
+        {
+          "word": "immediate",
+          "start": 154.1,
+          "end": 154.65
+        },
+        {
+          "word": "needs",
+          "start": 154.65,
+          "end": 155.0
+        },
+        {
+          "word": "with",
+          "start": 155.0,
+          "end": 155.25
+        },
+        {
+          "word": "long-term",
+          "start": 155.25,
+          "end": 155.8
+        },
+        {
+          "word": "vision.",
+          "start": 155.8,
+          "end": 156.3
+        }
+      ]
+    },
+    {
+      "start": 156.4,
+      "end": 158.4,
+      "text": "Dependency is vulnerability. Build your own channels, own your infrastructure, and remember: all great products are great architectures first.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Dependency",
+          "start": 156.4,
+          "end": 157.1
+        },
+        {
+          "word": "is",
+          "start": 157.1,
+          "end": 157.3
+        },
+        {
+          "word": "vulnerability.",
+          "start": 157.3,
+          "end": 158.1
+        },
+        {
+          "word": "Build",
+          "start": 158.2,
+          "end": 158.6
+        },
+        {
+          "word": "your",
+          "start": 158.6,
+          "end": 158.8
+        },
+        {
+          "word": "own",
+          "start": 158.8,
+          "end": 159.0
+        },
+        {
+          "word": "channels.",
+          "start": 159.0,
+          "end": 159.6
+        }
+      ]
+    },
+    {
+      "start": 159.5,
+      "end": 164.1,
+      "text": "Dependency is vulnerability. Build your own channels, own your infrastructure, and remember: all great products are great architectures first.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Own",
+          "start": 159.7,
+          "end": 160.0
+        },
+        {
+          "word": "your",
+          "start": 160.0,
+          "end": 160.25
+        },
+        {
+          "word": "infrastructure",
+          "start": 160.25,
+          "end": 161.1
+        },
+        {
+          "word": "and",
+          "start": 161.1,
+          "end": 161.35
+        },
+        {
+          "word": "remember,",
+          "start": 161.35,
+          "end": 162.0
+        },
+        {
+          "word": "all",
+          "start": 162.1,
+          "end": 162.4
+        },
+        {
+          "word": "great",
+          "start": 162.4,
+          "end": 162.8
+        },
+        {
+          "word": "products",
+          "start": 162.8,
+          "end": 163.4
+        },
+        {
+          "word": "are",
+          "start": 163.4,
+          "end": 163.6
+        },
+        {
+          "word": "great",
+          "start": 163.6,
+          "end": 164.0
+        },
+        {
+          "word": "architectures",
+          "start": 164.0,
+          "end": 164.8
+        },
+        {
+          "word": "first.",
+          "start": 164.8,
+          "end": 165.4
+        }
+      ]
+    },
+    {
+      "start": 165.5,
+      "end": 168.1,
+      "text": "ship code that matters. technical foundations enable everything else. balance immediate needs with long-term vision through parallel work streams.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 165.5,
+          "end": 165.9
+        },
+        {
+          "word": "code",
+          "start": 165.9,
+          "end": 166.2
+        },
+        {
+          "word": "that",
+          "start": 166.2,
+          "end": 166.4
+        },
+        {
+          "word": "matters.",
+          "start": 166.4,
+          "end": 167.0
+        },
+        {
+          "word": "Technical",
+          "start": 167.1,
+          "end": 167.6
+        },
+        {
+          "word": "foundations",
+          "start": 167.6,
+          "end": 168.4
+        },
+        {
+          "word": "enable",
+          "start": 168.4,
+          "end": 168.9
+        },
+        {
+          "word": "everything",
+          "start": 168.9,
+          "end": 169.4
+        },
+        {
+          "word": "else.",
+          "start": 169.4,
+          "end": 169.8
+        }
+      ]
+    },
+    {
+      "start": 169.5,
+      "end": 173.1,
+      "text": "ship code that matters. technical foundations enable everything else. balance immediate needs with long-term vision through parallel work streams.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Balance",
+          "start": 170.0,
+          "end": 170.5
+        },
+        {
+          "word": "immediate",
+          "start": 170.5,
+          "end": 171.1
+        },
+        {
+          "word": "needs",
+          "start": 171.1,
+          "end": 171.5
+        },
+        {
+          "word": "with",
+          "start": 171.5,
+          "end": 171.7
+        },
+        {
+          "word": "long-term",
+          "start": 171.7,
+          "end": 172.3
+        },
+        {
+          "word": "vision",
+          "start": 172.3,
+          "end": 172.8
+        },
+        {
+          "word": "through",
+          "start": 172.8,
+          "end": 173.2
+        },
+        {
+          "word": "parallel",
+          "start": 173.2,
+          "end": 173.7
+        },
+        {
+          "word": "workstreams.",
+          "start": 173.7,
+          "end": 174.4
+        }
+      ]
+    },
+    {
+      "start": 174.5,
+      "end": 177.1,
+      "text": "Diversify yo platforms like you diversify yo crypto, fam. And remember: good architecture is like good underwear—nobody sees it but everybody feels it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Diversify",
+          "start": 174.5,
+          "end": 175.1
+        },
+        {
+          "word": "your",
+          "start": 175.1,
+          "end": 175.3
+        },
+        {
+          "word": "platforms",
+          "start": 175.3,
+          "end": 175.9
+        },
+        {
+          "word": "like",
+          "start": 175.9,
+          "end": 176.1
+        },
+        {
+          "word": "you",
+          "start": 176.1,
+          "end": 176.3
+        },
+        {
+          "word": "diversify",
+          "start": 176.3,
+          "end": 176.9
+        },
+        {
+          "word": "your",
+          "start": 176.9,
+          "end": 177.1
+        },
+        {
+          "word": "crypto",
+          "start": 177.1,
+          "end": 177.6
+        },
+        {
+          "word": "fam.",
+          "start": 177.6,
+          "end": 178.0
+        }
+      ]
+    },
+    {
+      "start": 178.1,
+      "end": 183.1,
+      "text": "Diversify yo platforms like you diversify yo crypto, fam. And remember: good architecture is like good underwear—nobody sees it but everybody feels it.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "And",
+          "start": 178.1,
+          "end": 178.3
+        },
+        {
+          "word": "remember",
+          "start": 178.3,
+          "end": 178.8
+        },
+        {
+          "word": "good",
+          "start": 178.8,
+          "end": 179.1
+        },
+        {
+          "word": "architecture",
+          "start": 179.1,
+          "end": 179.85
+        },
+        {
+          "word": "is",
+          "start": 179.85,
+          "end": 180.1
+        },
+        {
+          "word": "like",
+          "start": 180.1,
+          "end": 180.35
+        },
+        {
+          "word": "good",
+          "start": 180.35,
+          "end": 180.65
+        },
+        {
+          "word": "underwear,",
+          "start": 180.65,
+          "end": 181.3
+        },
+        {
+          "word": "nobody",
+          "start": 181.4,
+          "end": 181.9
+        },
+        {
+          "word": "sees",
+          "start": 181.9,
+          "end": 182.2
+        },
+        {
+          "word": "it",
+          "start": 182.2,
+          "end": 182.35
+        },
+        {
+          "word": "but",
+          "start": 182.35,
+          "end": 182.6
+        },
+        {
+          "word": "everybody",
+          "start": 182.6,
+          "end": 183.2
+        },
+        {
+          "word": "feels",
+          "start": 183.2,
+          "end": 183.5
+        },
+        {
+          "word": "it.",
+          "start": 183.5,
+          "end": 183.8
+        }
+      ]
+    },
+    {
+      "start": 184.1,
+      "end": 187.1,
+      "text": "MARKETS REWARD RESULTS, NOT PROMISES. BUILD FOR USERS FIRST, BUT DON'T LET TECHNICAL DEBT COMPOUND LIKE BAD LEVERAGE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Markets",
+          "start": 184.1,
+          "end": 184.7
+        },
+        {
+          "word": "reward",
+          "start": 184.7,
+          "end": 185.3
+        },
+        {
+          "word": "results,",
+          "start": 185.3,
+          "end": 186.0
+        },
+        {
+          "word": "not",
+          "start": 186.1,
+          "end": 186.5
+        },
+        {
+          "word": "promises.",
+          "start": 186.5,
+          "end": 187.3
+        }
+      ]
+    },
+    {
+      "start": 187.4,
+      "end": 194.1,
+      "text": "MARKETS REWARD RESULTS, NOT PROMISES. BUILD FOR USERS FIRST, BUT DON'T LET TECHNICAL DEBT COMPOUND LIKE BAD LEVERAGE.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 187.4,
+          "end": 187.9
+        },
+        {
+          "word": "for",
+          "start": 187.9,
+          "end": 188.15
+        },
+        {
+          "word": "users",
+          "start": 188.15,
+          "end": 188.65
+        },
+        {
+          "word": "first",
+          "start": 188.65,
+          "end": 189.1
+        },
+        {
+          "word": "but",
+          "start": 189.1,
+          "end": 189.3
+        },
+        {
+          "word": "don't",
+          "start": 189.3,
+          "end": 189.65
+        },
+        {
+          "word": "let",
+          "start": 189.65,
+          "end": 189.9
+        },
+        {
+          "word": "technical",
+          "start": 189.9,
+          "end": 190.5
+        },
+        {
+          "word": "debt",
+          "start": 190.5,
+          "end": 190.9
+        },
+        {
+          "word": "compound",
+          "start": 190.9,
+          "end": 191.6
+        },
+        {
+          "word": "like",
+          "start": 191.6,
+          "end": 191.9
+        },
+        {
+          "word": "bad",
+          "start": 191.9,
+          "end": 192.3
+        },
+        {
+          "word": "leverage.",
+          "start": 192.3,
+          "end": 193.0
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-26_JedAI-Council_The-X-Files-Banned-And-Unbanned.json",
+    "session_log_source": "2025-07-26_JedAI-Council_The-X-Files-Banned-And-Unbanned_session-log.json",
+    "total_segments": 30,
+    "matched_segments": 30,
+    "dialogues_in_script": 15
+  }
+}

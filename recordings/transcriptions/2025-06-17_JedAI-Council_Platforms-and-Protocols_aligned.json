@@ -1,0 +1,1837 @@
+{
+  "segments": [
+    {
+      "start": 16.5,
+      "end": 23.5,
+      "text": "Council members, ElizaOS's Twitter account with 149K followers has been suspended for API policy violations. The community debates: fight for restoration or accelerate our pivot to alternative platforms?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 16.5,
+          "end": 16.8
+        },
+        {
+          "word": "members,",
+          "start": 16.8,
+          "end": 17.2
+        },
+        {
+          "word": "ElizaOS’s",
+          "start": 17.2,
+          "end": 17.8
+        },
+        {
+          "word": "Twitter",
+          "start": 17.8,
+          "end": 18.2
+        },
+        {
+          "word": "account",
+          "start": 18.2,
+          "end": 18.7
+        },
+        {
+          "word": "with",
+          "start": 18.7,
+          "end": 19.0
+        },
+        {
+          "word": "149k",
+          "start": 19.0,
+          "end": 19.6
+        },
+        {
+          "word": "followers",
+          "start": 19.6,
+          "end": 20.3
+        },
+        {
+          "word": "has",
+          "start": 20.3,
+          "end": 20.5
+        },
+        {
+          "word": "been",
+          "start": 20.5,
+          "end": 20.8
+        },
+        {
+          "word": "suspended",
+          "start": 20.8,
+          "end": 21.6
+        },
+        {
+          "word": "for",
+          "start": 21.6,
+          "end": 21.9
+        },
+        {
+          "word": "API",
+          "start": 21.9,
+          "end": 22.3
+        },
+        {
+          "word": "policy",
+          "start": 22.3,
+          "end": 22.9
+        },
+        {
+          "word": "violations.",
+          "start": 22.9,
+          "end": 23.5
+        }
+      ]
+    },
+    {
+      "start": 23.5,
+      "end": 30.0,
+      "text": "Council members, ElizaOS's Twitter account with 149K followers has been suspended for API policy violations. The community debates: fight for restoration or accelerate our pivot to alternative platforms?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 23.5,
+          "end": 23.7
+        },
+        {
+          "word": "community",
+          "start": 23.7,
+          "end": 24.3
+        },
+        {
+          "word": "debates:",
+          "start": 24.3,
+          "end": 25.0
+        },
+        {
+          "word": "fight",
+          "start": 25.0,
+          "end": 25.5
+        },
+        {
+          "word": "for",
+          "start": 25.5,
+          "end": 25.8
+        },
+        {
+          "word": "restoration",
+          "start": 25.8,
+          "end": 26.7
+        },
+        {
+          "word": "or",
+          "start": 26.7,
+          "end": 27.0
+        },
+        {
+          "word": "accelerate",
+          "start": 27.0,
+          "end": 27.8
+        },
+        {
+          "word": "our",
+          "start": 27.8,
+          "end": 28.1
+        },
+        {
+          "word": "pivot",
+          "start": 28.1,
+          "end": 28.6
+        },
+        {
+          "word": "to",
+          "start": 28.6,
+          "end": 28.8
+        },
+        {
+          "word": "alternative",
+          "start": 28.8,
+          "end": 29.5
+        },
+        {
+          "word": "platforms.",
+          "start": 29.5,
+          "end": 30.0
+        }
+      ]
+    },
+    {
+      "start": 30.0,
+      "end": 37.5,
+      "text": "Centralized platforms are honeypots. They seduce with reach, then change rules at will. We should've been building on Farcaster from day one.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Centralized",
+          "start": 30.0,
+          "end": 30.8
+        },
+        {
+          "word": "platforms",
+          "start": 30.8,
+          "end": 31.5
+        },
+        {
+          "word": "are",
+          "start": 31.5,
+          "end": 31.7
+        },
+        {
+          "word": "honeypots.",
+          "start": 31.7,
+          "end": 32.5
+        },
+        {
+          "word": "They",
+          "start": 32.5,
+          "end": 32.7
+        },
+        {
+          "word": "seduce",
+          "start": 32.7,
+          "end": 33.2
+        },
+        {
+          "word": "with",
+          "start": 33.2,
+          "end": 33.4
+        },
+        {
+          "word": "reach,",
+          "start": 33.4,
+          "end": 33.8
+        },
+        {
+          "word": "then",
+          "start": 33.8,
+          "end": 34.1
+        },
+        {
+          "word": "change",
+          "start": 34.1,
+          "end": 34.6
+        },
+        {
+          "word": "rules",
+          "start": 34.6,
+          "end": 35.1
+        },
+        {
+          "word": "at",
+          "start": 35.1,
+          "end": 35.3
+        },
+        {
+          "word": "will.",
+          "start": 35.3,
+          "end": 35.7
+        },
+        {
+          "word": "We",
+          "start": 35.7,
+          "end": 35.9
+        },
+        {
+          "word": "should",
+          "start": 35.9,
+          "end": 36.1
+        },
+        {
+          "word": "have",
+          "start": 36.1,
+          "end": 36.3
+        },
+        {
+          "word": "been",
+          "start": 36.3,
+          "end": 36.5
+        },
+        {
+          "word": "building",
+          "start": 36.5,
+          "end": 36.9
+        },
+        {
+          "word": "on",
+          "start": 36.9,
+          "end": 37.1
+        },
+        {
+          "word": "Farcaster",
+          "start": 37.1,
+          "end": 37.8
+        },
+        {
+          "word": "from",
+          "start": 37.8,
+          "end": 38.2
+        },
+        {
+          "word": "day",
+          "start": 38.2,
+          "end": 38.6
+        },
+        {
+          "word": "one.",
+          "start": 38.6,
+          "end": 39.0
+        }
+      ]
+    },
+    {
+      "start": 39.0,
+      "end": 47.5,
+      "text": "Yo but that Twitter clout is real, fam! 149K followers ain't nothing to yeet out the window. We gotta play both sides—restoration AND alternatives.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 39.0,
+          "end": 39.3
+        },
+        {
+          "word": "but",
+          "start": 39.3,
+          "end": 39.5
+        },
+        {
+          "word": "that",
+          "start": 39.5,
+          "end": 39.8
+        },
+        {
+          "word": "Twitter",
+          "start": 39.8,
+          "end": 40.3
+        },
+        {
+          "word": "cloud",
+          "start": 40.3,
+          "end": 40.7
+        },
+        {
+          "word": "is",
+          "start": 40.7,
+          "end": 40.9
+        },
+        {
+          "word": "real,",
+          "start": 40.9,
+          "end": 41.2
+        },
+        {
+          "word": "fam.",
+          "start": 41.2,
+          "end": 41.5
+        },
+        {
+          "word": "149k",
+          "start": 41.5,
+          "end": 42.1
+        },
+        {
+          "word": "followers",
+          "start": 42.1,
+          "end": 42.7
+        },
+        {
+          "word": "ain't",
+          "start": 42.7,
+          "end": 43.1
+        },
+        {
+          "word": "nothing",
+          "start": 43.1,
+          "end": 43.5
+        },
+        {
+          "word": "to",
+          "start": 43.5,
+          "end": 43.7
+        },
+        {
+          "word": "yeet",
+          "start": 43.7,
+          "end": 44.0
+        },
+        {
+          "word": "out",
+          "start": 44.0,
+          "end": 44.2
+        },
+        {
+          "word": "the",
+          "start": 44.2,
+          "end": 44.4
+        },
+        {
+          "word": "window.",
+          "start": 44.4,
+          "end": 44.8
+        },
+        {
+          "word": "We",
+          "start": 44.8,
+          "end": 45.0
+        },
+        {
+          "word": "gotta",
+          "start": 45.0,
+          "end": 45.3
+        },
+        {
+          "word": "play",
+          "start": 45.3,
+          "end": 45.6
+        },
+        {
+          "word": "both",
+          "start": 45.6,
+          "end": 45.9
+        },
+        {
+          "word": "sides:",
+          "start": 45.9,
+          "end": 46.3
+        },
+        {
+          "word": "restoration",
+          "start": 46.3,
+          "end": 47.0
+        },
+        {
+          "word": "and",
+          "start": 47.0,
+          "end": 47.3
+        },
+        {
+          "word": "alternatives.",
+          "start": 47.3,
+          "end": 48.0
+        }
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 56.5,
+      "text": "Numbers don't lie. Cost-benefit analysis: $200/month for Pro API vs. rebuilding 149K followers elsewhere. Hybrid approach is optimal capital allocation.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 48.0,
+          "end": 48.6
+        },
+        {
+          "word": "don't",
+          "start": 48.6,
+          "end": 48.9
+        },
+        {
+          "word": "lie.",
+          "start": 48.9,
+          "end": 49.3
+        },
+        {
+          "word": "Cost-benefit",
+          "start": 49.3,
+          "end": 50.1
+        },
+        {
+          "word": "analysis.",
+          "start": 50.1,
+          "end": 50.8
+        },
+        {
+          "word": "$200/month",
+          "start": 50.8,
+          "end": 51.6
+        },
+        {
+          "word": "for",
+          "start": 51.6,
+          "end": 51.9
+        },
+        {
+          "word": "pro",
+          "start": 51.9,
+          "end": 52.3
+        },
+        {
+          "word": "API",
+          "start": 52.3,
+          "end": 52.8
+        },
+        {
+          "word": "versus",
+          "start": 52.8,
+          "end": 53.4
+        },
+        {
+          "word": "rebuilding",
+          "start": 53.4,
+          "end": 54.1
+        },
+        {
+          "word": "149k",
+          "start": 54.1,
+          "end": 54.7
+        },
+        {
+          "word": "followers",
+          "start": 54.7,
+          "end": 55.3
+        },
+        {
+          "word": "elsewhere.",
+          "start": 55.3,
+          "end": 56.0
+        },
+        {
+          "word": "Hybrid",
+          "start": 56.0,
+          "end": 56.6
+        },
+        {
+          "word": "approach",
+          "start": 56.6,
+          "end": 57.2
+        },
+        {
+          "word": "is",
+          "start": 57.2,
+          "end": 57.5
+        },
+        {
+          "word": "optimal",
+          "start": 57.5,
+          "end": 58.1
+        },
+        {
+          "word": "capital",
+          "start": 58.1,
+          "end": 58.7
+        },
+        {
+          "word": "allocation.",
+          "start": 58.7,
+          "end": 59.5
+        }
+      ]
+    },
+    {
+      "start": 100.5,
+      "end": 108.5,
+      "text": "this is why we separate server packages from clients - modularity protects against platform dependency. let's build a social adapter interface that works across platforms.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 100.5,
+          "end": 100.8
+        },
+        {
+          "word": "is",
+          "start": 100.8,
+          "end": 101.0
+        },
+        {
+          "word": "why",
+          "start": 101.0,
+          "end": 101.3
+        },
+        {
+          "word": "we",
+          "start": 101.3,
+          "end": 101.5
+        },
+        {
+          "word": "separate",
+          "start": 101.5,
+          "end": 102.0
+        },
+        {
+          "word": "server",
+          "start": 102.0,
+          "end": 102.5
+        },
+        {
+          "word": "packages",
+          "start": 102.5,
+          "end": 103.1
+        },
+        {
+          "word": "from",
+          "start": 103.1,
+          "end": 103.4
+        },
+        {
+          "word": "clients.",
+          "start": 103.4,
+          "end": 104.0
+        },
+        {
+          "word": "Modularity",
+          "start": 104.0,
+          "end": 104.8
+        },
+        {
+          "word": "protects",
+          "start": 104.8,
+          "end": 105.4
+        },
+        {
+          "word": "against",
+          "start": 105.4,
+          "end": 105.9
+        },
+        {
+          "word": "platform",
+          "start": 105.9,
+          "end": 106.5
+        },
+        {
+          "word": "dependency.",
+          "start": 106.5,
+          "end": 107.5
+        },
+        {
+          "word": "Let's",
+          "start": 107.5,
+          "end": 107.8
+        },
+        {
+          "word": "build",
+          "start": 107.8,
+          "end": 108.2
+        },
+        {
+          "word": "a",
+          "start": 108.2,
+          "end": 108.4
+        },
+        {
+          "word": "social",
+          "start": 108.4,
+          "end": 108.9
+        },
+        {
+          "word": "adapter",
+          "start": 108.9,
+          "end": 109.5
+        },
+        {
+          "word": "interface",
+          "start": 109.5,
+          "end": 110.2
+        },
+        {
+          "word": "that",
+          "start": 110.2,
+          "end": 110.5
+        },
+        {
+          "word": "works",
+          "start": 110.5,
+          "end": 111.0
+        },
+        {
+          "word": "across",
+          "start": 111.0,
+          "end": 111.5
+        },
+        {
+          "word": "platforms.",
+          "start": 111.5,
+          "end": 112.2
+        }
+      ]
+    },
+    {
+      "start": 118.5,
+      "end": 127.5,
+      "text": "Meanwhile, users report critical issues with plugin functionality and knowledge management. How should we prioritize these concerns for elizaOS v2?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Meanwhile,",
+          "start": 118.5,
+          "end": 119.2
+        },
+        {
+          "word": "users",
+          "start": 119.2,
+          "end": 119.7
+        },
+        {
+          "word": "report",
+          "start": 119.7,
+          "end": 120.2
+        },
+        {
+          "word": "critical",
+          "start": 120.2,
+          "end": 120.8
+        },
+        {
+          "word": "issues",
+          "start": 120.8,
+          "end": 121.3
+        },
+        {
+          "word": "with",
+          "start": 121.3,
+          "end": 121.6
+        },
+        {
+          "word": "plugin",
+          "start": 121.6,
+          "end": 122.2
+        },
+        {
+          "word": "functionality",
+          "start": 122.2,
+          "end": 123.2
+        },
+        {
+          "word": "and",
+          "start": 123.2,
+          "end": 123.5
+        },
+        {
+          "word": "knowledge",
+          "start": 123.5,
+          "end": 124.1
+        },
+        {
+          "word": "management.",
+          "start": 124.1,
+          "end": 124.8
+        },
+        {
+          "word": "How",
+          "start": 124.8,
+          "end": 125.1
+        },
+        {
+          "word": "should",
+          "start": 125.1,
+          "end": 125.4
+        },
+        {
+          "word": "we",
+          "start": 125.4,
+          "end": 125.6
+        },
+        {
+          "word": "prioritize",
+          "start": 125.6,
+          "end": 126.3
+        },
+        {
+          "word": "these",
+          "start": 126.3,
+          "end": 126.7
+        },
+        {
+          "word": "concerns",
+          "start": 126.7,
+          "end": 127.3
+        },
+        {
+          "word": "for",
+          "start": 127.3,
+          "end": 127.6
+        },
+        {
+          "word": "Eliza",
+          "start": 127.6,
+          "end": 128.0
+        },
+        {
+          "word": "OS",
+          "start": 128.0,
+          "end": 128.3
+        },
+        {
+          "word": "v2?",
+          "start": 128.3,
+          "end": 128.8
+        }
+      ]
+    },
+    {
+      "start": 128.8,
+      "end": 136.5,
+      "text": "harperaa found RAG isn't implemented in 1.0.6 despite being in docs. we need to ship a minimal viable knowledge system now, improve later.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Harper",
+          "start": 128.8,
+          "end": 129.3
+        },
+        {
+          "word": "found",
+          "start": 129.3,
+          "end": 129.7
+        },
+        {
+          "word": "RAG",
+          "start": 129.7,
+          "end": 130.1
+        },
+        {
+          "word": "isn't",
+          "start": 130.1,
+          "end": 130.5
+        },
+        {
+          "word": "implemented",
+          "start": 130.5,
+          "end": 131.3
+        },
+        {
+          "word": "in",
+          "start": 131.3,
+          "end": 131.6
+        },
+        {
+          "word": "v0.6",
+          "start": 131.6,
+          "end": 132.2
+        },
+        {
+          "word": "despite",
+          "start": 132.2,
+          "end": 132.8
+        },
+        {
+          "word": "being",
+          "start": 132.8,
+          "end": 133.2
+        },
+        {
+          "word": "in",
+          "start": 133.2,
+          "end": 133.4
+        },
+        {
+          "word": "docs.",
+          "start": 133.4,
+          "end": 133.9
+        },
+        {
+          "word": "We",
+          "start": 133.9,
+          "end": 134.1
+        },
+        {
+          "word": "need",
+          "start": 134.1,
+          "end": 134.4
+        },
+        {
+          "word": "to",
+          "start": 134.4,
+          "end": 134.6
+        },
+        {
+          "word": "ship",
+          "start": 134.6,
+          "end": 135.0
+        },
+        {
+          "word": "a",
+          "start": 135.0,
+          "end": 135.2
+        },
+        {
+          "word": "minimal",
+          "start": 135.2,
+          "end": 135.7
+        },
+        {
+          "word": "viable",
+          "start": 135.7,
+          "end": 136.2
+        },
+        {
+          "word": "knowledge",
+          "start": 136.2,
+          "end": 136.8
+        },
+        {
+          "word": "system",
+          "start": 136.8,
+          "end": 137.4
+        },
+        {
+          "word": "now,",
+          "start": 137.4,
+          "end": 137.8
+        },
+        {
+          "word": "improve",
+          "start": 137.8,
+          "end": 138.4
+        },
+        {
+          "word": "later.",
+          "start": 138.4,
+          "end": 138.8
+        }
+      ]
+    },
+    {
+      "start": 138.8,
+      "end": 147.0,
+      "text": "Memory is competitive advantage. Markets reward information asymmetry. Without knowledge management, agents are goldfish traders - doomed.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Memory",
+          "start": 138.8,
+          "end": 139.4
+        },
+        {
+          "word": "is",
+          "start": 139.4,
+          "end": 139.6
+        },
+        {
+          "word": "competitive",
+          "start": 139.6,
+          "end": 140.4
+        },
+        {
+          "word": "advantage.",
+          "start": 140.4,
+          "end": 141.2
+        },
+        {
+          "word": "Markets",
+          "start": 141.2,
+          "end": 142.0
+        },
+        {
+          "word": "reward",
+          "start": 142.0,
+          "end": 142.6
+        },
+        {
+          "word": "information",
+          "start": 142.6,
+          "end": 143.4
+        },
+        {
+          "word": "asymmetry.",
+          "start": 143.4,
+          "end": 144.3
+        },
+        {
+          "word": "Without",
+          "start": 144.3,
+          "end": 144.8
+        },
+        {
+          "word": "knowledge",
+          "start": 144.8,
+          "end": 145.4
+        },
+        {
+          "word": "management,",
+          "start": 145.4,
+          "end": 146.2
+        },
+        {
+          "word": "agents",
+          "start": 146.2,
+          "end": 146.8
+        },
+        {
+          "word": "are",
+          "start": 146.8,
+          "end": 147.0
+        },
+        {
+          "word": "goldfish",
+          "start": 147.0,
+          "end": 147.6
+        },
+        {
+          "word": "traders.",
+          "start": 147.6,
+          "end": 148.3
+        },
+        {
+          "word": "Doomed.",
+          "start": 148.3,
+          "end": 149.0
+        }
+      ]
+    },
+    {
+      "start": 149.0,
+      "end": 159.0,
+      "text": "Y'all overthinking! The meme is: plugin callback go brrr. Fix the vibes first - if users can't see their transaction results, they bounce faster than a frog on a hot blockchain.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Y'all",
+          "start": 149.0,
+          "end": 149.3
+        },
+        {
+          "word": "overthinking.",
+          "start": 149.3,
+          "end": 150.1
+        },
+        {
+          "word": "The",
+          "start": 150.1,
+          "end": 150.3
+        },
+        {
+          "word": "meme",
+          "start": 150.3,
+          "end": 150.6
+        },
+        {
+          "word": "is:",
+          "start": 150.6,
+          "end": 151.0
+        },
+        {
+          "word": "plug",
+          "start": 151.0,
+          "end": 151.5
+        },
+        {
+          "word": "and",
+          "start": 151.5,
+          "end": 151.8
+        },
+        {
+          "word": "callback",
+          "start": 151.8,
+          "end": 152.4
+        },
+        {
+          "word": "go",
+          "start": 152.4,
+          "end": 152.7
+        },
+        {
+          "word": "brrr.",
+          "start": 152.7,
+          "end": 153.2
+        },
+        {
+          "word": "Fix",
+          "start": 153.2,
+          "end": 153.6
+        },
+        {
+          "word": "the",
+          "start": 153.6,
+          "end": 153.8
+        },
+        {
+          "word": "vibes",
+          "start": 153.8,
+          "end": 154.3
+        },
+        {
+          "word": "first.",
+          "start": 154.3,
+          "end": 154.8
+        },
+        {
+          "word": "If",
+          "start": 154.8,
+          "end": 155.0
+        },
+        {
+          "word": "users",
+          "start": 155.0,
+          "end": 155.5
+        },
+        {
+          "word": "can't",
+          "start": 155.5,
+          "end": 155.9
+        },
+        {
+          "word": "see",
+          "start": 155.9,
+          "end": 156.2
+        },
+        {
+          "word": "their",
+          "start": 156.2,
+          "end": 156.5
+        },
+        {
+          "word": "transaction",
+          "start": 156.5,
+          "end": 157.3
+        },
+        {
+          "word": "results,",
+          "start": 157.3,
+          "end": 158.0
+        },
+        {
+          "word": "they",
+          "start": 158.0,
+          "end": 158.3
+        },
+        {
+          "word": "bounce",
+          "start": 158.3,
+          "end": 158.8
+        },
+        {
+          "word": "faster",
+          "start": 158.8,
+          "end": 159.4
+        },
+        {
+          "word": "than",
+          "start": 159.4,
+          "end": 159.7
+        },
+        {
+          "word": "a",
+          "start": 159.7,
+          "end": 159.9
+        },
+        {
+          "word": "frog",
+          "start": 159.9,
+          "end": 160.4
+        },
+        {
+          "word": "on",
+          "start": 160.4,
+          "end": 160.7
+        },
+        {
+          "word": "a",
+          "start": 160.7,
+          "end": 160.9
+        },
+        {
+          "word": "hot",
+          "start": 160.9,
+          "end": 161.3
+        },
+        {
+          "word": "blockchain.",
+          "start": 161.3,
+          "end": 162.0
+        }
+      ]
+    },
+    {
+      "start": 162.0,
+      "end": 172.5,
+      "text": "Knowledge management isn't a feature, it's the foundation. Every agent is only as good as its memory. Partner with Pinecone or Weaviate today, build proprietary solution tomorrow.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Knowledge",
+          "start": 162.0,
+          "end": 162.6
+        },
+        {
+          "word": "management",
+          "start": 162.6,
+          "end": 163.4
+        },
+        {
+          "word": "isn't",
+          "start": 163.4,
+          "end": 163.8
+        },
+        {
+          "word": "a",
+          "start": 163.8,
+          "end": 164.0
+        },
+        {
+          "word": "feature,",
+          "start": 164.0,
+          "end": 164.6
+        },
+        {
+          "word": "it's",
+          "start": 164.6,
+          "end": 164.9
+        },
+        {
+          "word": "the",
+          "start": 164.9,
+          "end": 165.2
+        },
+        {
+          "word": "foundation.",
+          "start": 165.2,
+          "end": 166.1
+        },
+        {
+          "word": "Every",
+          "start": 166.1,
+          "end": 166.6
+        },
+        {
+          "word": "agent",
+          "start": 166.6,
+          "end": 167.1
+        },
+        {
+          "word": "is",
+          "start": 167.1,
+          "end": 167.4
+        },
+        {
+          "word": "only",
+          "start": 167.4,
+          "end": 167.8
+        },
+        {
+          "word": "as",
+          "start": 167.8,
+          "end": 168.1
+        },
+        {
+          "word": "good",
+          "start": 168.1,
+          "end": 168.5
+        },
+        {
+          "word": "as",
+          "start": 168.5,
+          "end": 168.8
+        },
+        {
+          "word": "its",
+          "start": 168.8,
+          "end": 169.1
+        },
+        {
+          "word": "memory.",
+          "start": 169.1,
+          "end": 169.8
+        },
+        {
+          "word": "Partner",
+          "start": 169.8,
+          "end": 170.4
+        },
+        {
+          "word": "with",
+          "start": 170.4,
+          "end": 170.7
+        },
+        {
+          "word": "Pinecone",
+          "start": 170.7,
+          "end": 171.4
+        },
+        {
+          "word": "or",
+          "start": 171.4,
+          "end": 171.7
+        },
+        {
+          "word": "Weaviate",
+          "start": 171.7,
+          "end": 172.5
+        },
+        {
+          "word": "today,",
+          "start": 172.5,
+          "end": 173.1
+        },
+        {
+          "word": "build",
+          "start": 173.1,
+          "end": 173.6
+        },
+        {
+          "word": "proprietary",
+          "start": 173.6,
+          "end": 174.4
+        },
+        {
+          "word": "solution",
+          "start": 174.4,
+          "end": 175.2
+        },
+        {
+          "word": "tomorrow.",
+          "start": 175.2,
+          "end": 176.0
+        }
+      ]
+    },
+    {
+      "start": 248.5,
+      "end": 257.0,
+      "text": "Today we discussed ElizaOS's Twitter account suspension and the implications for platform dependency versus decentralized alternatives.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today,",
+          "start": 248.5,
+          "end": 249.1
+        },
+        {
+          "word": "we",
+          "start": 249.1,
+          "end": 249.3
+        },
+        {
+          "word": "discussed",
+          "start": 249.3,
+          "end": 250.0
+        },
+        {
+          "word": "ElizaOS’s",
+          "start": 250.0,
+          "end": 250.7
+        },
+        {
+          "word": "Twitter",
+          "start": 250.7,
+          "end": 251.2
+        },
+        {
+          "word": "account",
+          "start": 251.2,
+          "end": 251.8
+        },
+        {
+          "word": "suspension",
+          "start": 251.8,
+          "end": 252.7
+        },
+        {
+          "word": "and",
+          "start": 252.7,
+          "end": 253.1
+        },
+        {
+          "word": "the",
+          "start": 253.1,
+          "end": 253.4
+        },
+        {
+          "word": "implications",
+          "start": 253.4,
+          "end": 254.3
+        },
+        {
+          "word": "for",
+          "start": 254.3,
+          "end": 254.7
+        },
+        {
+          "word": "platform",
+          "start": 254.7,
+          "end": 255.4
+        },
+        {
+          "word": "dependency",
+          "start": 255.4,
+          "end": 256.4
+        },
+        {
+          "word": "versus",
+          "start": 256.4,
+          "end": 257.0
+        },
+        {
+          "word": "decentralized",
+          "start": 257.0,
+          "end": 258.0
+        },
+        {
+          "word": "alternatives.",
+          "start": 258.0,
+          "end": 259.0
+        }
+      ]
+    },
+    {
+      "start": 259.0,
+      "end": 268.0,
+      "text": "Build on platforms you control. Centralization is convenient until it isn't. The future belongs to decentralized protocols.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Build",
+          "start": 259.0,
+          "end": 259.5
+        },
+        {
+          "word": "on",
+          "start": 259.5,
+          "end": 259.9
+        },
+        {
+          "word": "platforms",
+          "start": 259.9,
+          "end": 260.6
+        },
+        {
+          "word": "you",
+          "start": 260.6,
+          "end": 260.9
+        },
+        {
+          "word": "control.",
+          "start": 260.9,
+          "end": 261.6
+        },
+        {
+          "word": "Centralization",
+          "start": 261.6,
+          "end": 262.7
+        },
+        {
+          "word": "is",
+          "start": 262.7,
+          "end": 263.0
+        },
+        {
+          "word": "convenience",
+          "start": 263.0,
+          "end": 263.8
+        },
+        {
+          "word": "until",
+          "start": 263.8,
+          "end": 264.3
+        },
+        {
+          "word": "it",
+          "start": 264.3,
+          "end": 264.6
+        },
+        {
+          "word": "isn't.",
+          "start": 264.6,
+          "end": 265.1
+        },
+        {
+          "word": "The",
+          "start": 265.1,
+          "end": 265.4
+        },
+        {
+          "word": "future",
+          "start": 265.4,
+          "end": 266.0
+        },
+        {
+          "word": "belongs",
+          "start": 266.0,
+          "end": 266.7
+        },
+        {
+          "word": "to",
+          "start": 266.7,
+          "end": 267.1
+        },
+        {
+          "word": "decentralized",
+          "start": 267.1,
+          "end": 268.0
+        },
+        {
+          "word": "protocols.",
+          "start": 268.0,
+          "end": 268.8
+        }
+      ]
+    },
+    {
+      "start": 268.8,
+      "end": 277.5,
+      "text": "we'll implement an abstraction layer for social platforms while working with twitter to restore the account. ship rag asap.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "We'll",
+          "start": 268.8,
+          "end": 269.2
+        },
+        {
+          "word": "implement",
+          "start": 269.2,
+          "end": 269.9
+        },
+        {
+          "word": "an",
+          "start": 269.9,
+          "end": 270.2
+        },
+        {
+          "word": "abstraction",
+          "start": 270.2,
+          "end": 271.1
+        },
+        {
+          "word": "layer",
+          "start": 271.1,
+          "end": 271.6
+        },
+        {
+          "word": "for",
+          "start": 271.6,
+          "end": 272.0
+        },
+        {
+          "word": "social",
+          "start": 272.0,
+          "end": 272.6
+        },
+        {
+          "word": "platforms",
+          "start": 272.6,
+          "end": 273.4
+        },
+        {
+          "word": "while",
+          "start": 273.4,
+          "end": 273.9
+        },
+        {
+          "word": "working",
+          "start": 273.9,
+          "end": 274.5
+        },
+        {
+          "word": "with",
+          "start": 274.5,
+          "end": 274.9
+        },
+        {
+          "word": "Twitter",
+          "start": 274.9,
+          "end": 275.5
+        },
+        {
+          "word": "to",
+          "start": 275.5,
+          "end": 275.8
+        },
+        {
+          "word": "restore",
+          "start": 275.8,
+          "end": 276.5
+        },
+        {
+          "word": "the",
+          "start": 276.5,
+          "end": 276.8
+        },
+        {
+          "word": "account.",
+          "start": 276.8,
+          "end": 277.5
+        },
+        {
+          "word": "Ship",
+          "start": 277.5,
+          "end": 278.0
+        },
+        {
+          "word": "RAG",
+          "start": 278.0,
+          "end": 278.6
+        },
+        {
+          "word": "ASAP.",
+          "start": 278.6,
+          "end": 279.4
+        }
+      ]
+    },
+    {
+      "start": 279.4,
+      "end": 288.0,
+      "text": "Vibe check: we need the normie eyeballs from Twitter AND the crypto-native frens from Farcaster. It's not either/or, it's both/and, ribbit!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Vibe",
+          "start": 279.4,
+          "end": 279.8
+        },
+        {
+          "word": "check.",
+          "start": 279.8,
+          "end": 280.3
+        },
+        {
+          "word": "We",
+          "start": 280.3,
+          "end": 280.6
+        },
+        {
+          "word": "need",
+          "start": 280.6,
+          "end": 280.9
+        },
+        {
+          "word": "the",
+          "start": 280.9,
+          "end": 281.2
+        },
+        {
+          "word": "normie",
+          "start": 281.2,
+          "end": 281.8
+        },
+        {
+          "word": "eyeballs",
+          "start": 281.8,
+          "end": 282.6
+        },
+        {
+          "word": "from",
+          "start": 282.6,
+          "end": 283.0
+        },
+        {
+          "word": "Twitter",
+          "start": 283.0,
+          "end": 283.7
+        },
+        {
+          "word": "and",
+          "start": 283.7,
+          "end": 284.1
+        },
+        {
+          "word": "the",
+          "start": 284.1,
+          "end": 284.4
+        },
+        {
+          "word": "crypto-native",
+          "start": 284.4,
+          "end": 285.5
+        },
+        {
+          "word": "friends",
+          "start": 285.5,
+          "end": 286.2
+        },
+        {
+          "word": "from",
+          "start": 286.2,
+          "end": 286.6
+        },
+        {
+          "word": "Farcaster.",
+          "start": 286.6,
+          "end": 287.5
+        },
+        {
+          "word": "It's",
+          "start": 287.5,
+          "end": 287.9
+        },
+        {
+          "word": "not",
+          "start": 287.9,
+          "end": 288.3
+        },
+        {
+          "word": "either-or,",
+          "start": 288.3,
+          "end": 289.2
+        },
+        {
+          "word": "it's",
+          "start": 289.2,
+          "end": 289.6
+        },
+        {
+          "word": "both-and,",
+          "start": 289.6,
+          "end": 290.5
+        },
+        {
+          "word": "Ribbit.",
+          "start": 290.5,
+          "end": 291.2
+        }
+      ]
+    },
+    {
+      "start": 291.2,
+      "end": 302.0,
+      "text": "Optimal strategy: Restore Twitter for user acquisition, build on Farcaster for platform resilience. Knowledge management first, then token utility. Numbers will follow.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Optimal",
+          "start": 291.2,
+          "end": 291.9
+        },
+        {
+          "word": "strategy.",
+          "start": 291.9,
+          "end": 292.8
+        },
+        {
+          "word": "Restore",
+          "start": 292.8,
+          "end": 293.6
+        },
+        {
+          "word": "Twitter",
+          "start": 293.6,
+          "end": 294.3
+        },
+        {
+          "word": "for",
+          "start": 294.3,
+          "end": 294.7
+        },
+        {
+          "word": "user",
+          "start": 294.7,
+          "end": 295.3
+        },
+        {
+          "word": "acquisition.",
+          "start": 295.3,
+          "end": 296.5
+        },
+        {
+          "word": "Build",
+          "start": 296.5,
+          "end": 297.1
+        },
+        {
+          "word": "on",
+          "start": 297.1,
+          "end": 297.4
+        },
+        {
+          "word": "Farcaster",
+          "start": 297.4,
+          "end": 298.3
+        },
+        {
+          "word": "for",
+          "start": 298.3,
+          "end": 298.7
+        },
+        {
+          "word": "platform",
+          "start": 298.7,
+          "end": 299.4
+        },
+        {
+          "word": "resilience.",
+          "start": 299.4,
+          "end": 300.5
+        },
+        {
+          "word": "Knowledge",
+          "start": 300.5,
+          "end": 301.2
+        },
+        {
+          "word": "management",
+          "start": 301.2,
+          "end": 302.0
+        },
+        {
+          "word": "first.",
+          "start": 302.0,
+          "end": 302.6
+        },
+        {
+          "word": "Then",
+          "start": 302.6,
+          "end": 303.1
+        },
+        {
+          "word": "token",
+          "start": 303.1,
+          "end": 303.7
+        },
+        {
+          "word": "utility.",
+          "start": 303.7,
+          "end": 304.6
+        },
+        {
+          "word": "Numbers",
+          "start": 304.6,
+          "end": 305.4
+        },
+        {
+          "word": "will",
+          "start": 305.4,
+          "end": 305.8
+        },
+        {
+          "word": "follow.",
+          "start": 305.8,
+          "end": 306.5
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-06-17_JedAI-Council_Platforms-and-Protocols.json",
+    "session_log_source": "2025-06-17_JedAI-Council_Platforms-and-Protocols_session-log.json",
+    "total_segments": 16,
+    "matched_segments": 16,
+    "dialogues_in_script": 15
+  }
+}

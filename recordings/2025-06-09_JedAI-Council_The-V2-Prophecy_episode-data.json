@@ -1,0 +1,66 @@
+{
+  "id": "S1E18",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4755-featured-1749442547.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4755-featured-1749442547-150x150.png",
+  "premise": "The JedAI Council debates the implications of ElizaOS's upcoming V2 announcement and the rise of ELI5 as an ecosystem mascot.",
+  "scenes": [
+    {
+      "description": "The council discusses the optimal timing for the ElizaOS V2 announcement",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "elizahost",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council examines the rise of ELI5 as a potential mascot for the ecosystem",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "elizahost",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    },
+    {
+      "description": "The council summarizes their wisdom on ElizaOS V2 and ecosystem growth",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "elizahost",
+        "north_pod": "aimarc",
+        "south_pod": "aishaw",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

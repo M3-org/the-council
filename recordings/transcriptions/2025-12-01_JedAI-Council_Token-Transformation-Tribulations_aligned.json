@@ -1,0 +1,1792 @@
+{
+  "segments": [
+    {
+      "start": 11.5,
+      "end": 13.93,
+      "text": "Welcome to the JedAI Council! Today we're addressing the ongoing migration from AI16Z to ElizaOS tokens that's causing quite a stir!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 11.5,
+          "end": 12.2
+        },
+        {
+          "word": "to",
+          "start": 12.21,
+          "end": 12.33
+        },
+        {
+          "word": "the",
+          "start": 12.35,
+          "end": 12.48
+        },
+        {
+          "word": "Jedi",
+          "start": 12.5,
+          "end": 12.91
+        },
+        {
+          "word": "Council.",
+          "start": 12.93,
+          "end": 13.93
+        }
+      ]
+    },
+    {
+      "start": 13.93,
+      "end": 20.35,
+      "text": "Welcome to the JedAI Council! Today we're addressing the ongoing migration from AI16Z to ElizaOS tokens that's causing quite a stir!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 13.93,
+          "end": 14.41
+        },
+        {
+          "word": "we're",
+          "start": 14.41,
+          "end": 14.54
+        },
+        {
+          "word": "addressing",
+          "start": 14.54,
+          "end": 15.01
+        },
+        {
+          "word": "the",
+          "start": 15.01,
+          "end": 15.13
+        },
+        {
+          "word": "ongoing",
+          "start": 15.13,
+          "end": 15.48
+        },
+        {
+          "word": "migration",
+          "start": 15.48,
+          "end": 16.27
+        },
+        {
+          "word": "from",
+          "start": 16.27,
+          "end": 16.48
+        },
+        {
+          "word": "AI16Z",
+          "start": 16.48,
+          "end": 17.15
+        },
+        {
+          "word": "to",
+          "start": 17.15,
+          "end": 17.38
+        },
+        {
+          "word": "ElizaOS",
+          "start": 17.38,
+          "end": 18.25
+        },
+        {
+          "word": "tokens",
+          "start": 18.25,
+          "end": 18.84
+        },
+        {
+          "word": "that's",
+          "start": 18.84,
+          "end": 19.06
+        },
+        {
+          "word": "causing",
+          "start": 19.06,
+          "end": 19.46
+        },
+        {
+          "word": "quite",
+          "start": 19.46,
+          "end": 19.68
+        },
+        {
+          "word": "a",
+          "start": 19.68,
+          "end": 19.78
+        },
+        {
+          "word": "stir.",
+          "start": 19.78,
+          "end": 20.35
+        }
+      ]
+    },
+    {
+      "start": 20.35,
+      "end": 26.96,
+      "text": "Users like Kenk and Borko have reported 'max amount reached' errors and wallet connectivity issues. What's causing these problems?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 20.35,
+          "end": 20.91
+        },
+        {
+          "word": "like",
+          "start": 20.91,
+          "end": 21.14
+        },
+        {
+          "word": "Kenc",
+          "start": 21.14,
+          "end": 21.68
+        },
+        {
+          "word": "and",
+          "start": 21.68,
+          "end": 21.84
+        },
+        {
+          "word": "Borko",
+          "start": 21.84,
+          "end": 22.31
+        },
+        {
+          "word": "have",
+          "start": 22.31,
+          "end": 22.46
+        },
+        {
+          "word": "reported",
+          "start": 22.46,
+          "end": 23.15
+        },
+        {
+          "word": "max",
+          "start": 23.17,
+          "end": 23.44
+        },
+        {
+          "word": "amount",
+          "start": 23.44,
+          "end": 23.79
+        },
+        {
+          "word": "reached",
+          "start": 23.79,
+          "end": 24.5
+        },
+        {
+          "word": "errors",
+          "start": 24.52,
+          "end": 25.04
+        },
+        {
+          "word": "and",
+          "start": 25.12,
+          "end": 25.22
+        },
+        {
+          "word": "wallet",
+          "start": 25.22,
+          "end": 25.54
+        },
+        {
+          "word": "connectivity",
+          "start": 25.54,
+          "end": 26.43
+        },
+        {
+          "word": "issues.",
+          "start": 26.43,
+          "end": 26.96
+        }
+      ]
+    },
+    {
+      "start": 26.96,
+      "end": 28.61,
+      "text": "Users like Kenk and Borko have reported 'max amount reached' errors and wallet connectivity issues. What's causing these problems?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "What's",
+          "start": 26.96,
+          "end": 27.42
+        },
+        {
+          "word": "causing",
+          "start": 27.42,
+          "end": 27.81
+        },
+        {
+          "word": "these",
+          "start": 27.81,
+          "end": 28.02
+        },
+        {
+          "word": "problems?",
+          "start": 28.02,
+          "end": 28.61
+        }
+      ]
+    },
+    {
+      "start": 28.61,
+      "end": 30.45,
+      "text": "Classic migration disaster! When you move 11 billion tokens across chains, you're asking for liquidity issues. The error is a feature, not a bug - it's called 'price discovery.'",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Classic",
+          "start": 28.61,
+          "end": 29.35
+        },
+        {
+          "word": "migration",
+          "start": 29.35,
+          "end": 29.8
+        },
+        {
+          "word": "disaster.",
+          "start": 29.8,
+          "end": 30.45
+        }
+      ]
+    },
+    {
+      "start": 30.45,
+      "end": 35.21,
+      "text": "Classic migration disaster! When you move 11 billion tokens across chains, you're asking for liquidity issues. The error is a feature, not a bug - it's called 'price discovery.'",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 30.45,
+          "end": 30.82
+        },
+        {
+          "word": "you",
+          "start": 30.82,
+          "end": 30.93
+        },
+        {
+          "word": "move",
+          "start": 30.93,
+          "end": 31.25
+        },
+        {
+          "word": "11",
+          "start": 31.25,
+          "end": 31.59
+        },
+        {
+          "word": "billion",
+          "start": 31.59,
+          "end": 31.97
+        },
+        {
+          "word": "tokens",
+          "start": 31.97,
+          "end": 32.41
+        },
+        {
+          "word": "across",
+          "start": 32.41,
+          "end": 32.89
+        },
+        {
+          "word": "chains,",
+          "start": 32.89,
+          "end": 33.58
+        },
+        {
+          "word": "you're",
+          "start": 33.64,
+          "end": 34.01
+        },
+        {
+          "word": "asking",
+          "start": 34.01,
+          "end": 34.33
+        },
+        {
+          "word": "for",
+          "start": 34.33,
+          "end": 34.46
+        },
+        {
+          "word": "liquidity",
+          "start": 34.46,
+          "end": 34.84
+        },
+        {
+          "word": "issues.",
+          "start": 34.84,
+          "end": 35.21
+        }
+      ]
+    },
+    {
+      "start": 35.21,
+      "end": 38.21,
+      "text": "Classic migration disaster! When you move 11 billion tokens across chains, you're asking for liquidity issues. The error is a feature, not a bug - it's called 'price discovery.'",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 35.21,
+          "end": 35.48
+        },
+        {
+          "word": "error",
+          "start": 35.48,
+          "end": 35.79
+        },
+        {
+          "word": "is",
+          "start": 35.79,
+          "end": 35.9
+        },
+        {
+          "word": "a",
+          "start": 35.9,
+          "end": 35.94
+        },
+        {
+          "word": "feature,",
+          "start": 35.94,
+          "end": 36.46
+        },
+        {
+          "word": "not",
+          "start": 36.46,
+          "end": 36.69
+        },
+        {
+          "word": "a",
+          "start": 36.69,
+          "end": 36.72
+        },
+        {
+          "word": "bug,",
+          "start": 36.72,
+          "end": 37.03
+        },
+        {
+          "word": "it's",
+          "start": 37.03,
+          "end": 37.19
+        },
+        {
+          "word": "called",
+          "start": 37.19,
+          "end": 37.49
+        },
+        {
+          "word": "price",
+          "start": 37.49,
+          "end": 37.76
+        },
+        {
+          "word": "discovery.",
+          "start": 37.76,
+          "end": 38.21
+        }
+      ]
+    },
+    {
+      "start": 38.21,
+      "end": 40.67,
+      "text": "this isn't about price action, it's infrastructure. we need better cross-chain validation checks. the RLS fixes merged today will help, but migration requires both technical and UX solutions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 38.21,
+          "end": 38.74
+        },
+        {
+          "word": "isn't",
+          "start": 38.74,
+          "end": 38.99
+        },
+        {
+          "word": "about",
+          "start": 38.99,
+          "end": 39.19
+        },
+        {
+          "word": "price",
+          "start": 39.19,
+          "end": 39.42
+        },
+        {
+          "word": "action,",
+          "start": 39.42,
+          "end": 39.84
+        },
+        {
+          "word": "it's",
+          "start": 39.92,
+          "end": 40.16
+        },
+        {
+          "word": "infrastructure.",
+          "start": 40.16,
+          "end": 40.67
+        }
+      ]
+    },
+    {
+      "start": 40.67,
+      "end": 43.1,
+      "text": "this isn't about price action, it's infrastructure. we need better cross-chain validation checks. the RLS fixes merged today will help, but migration requires both technical and UX solutions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 40.67,
+          "end": 40.91
+        },
+        {
+          "word": "need",
+          "start": 40.91,
+          "end": 41.13
+        },
+        {
+          "word": "better",
+          "start": 41.13,
+          "end": 41.44
+        },
+        {
+          "word": "cross-chain",
+          "start": 41.44,
+          "end": 42.11
+        },
+        {
+          "word": "validation",
+          "start": 42.11,
+          "end": 42.72
+        },
+        {
+          "word": "checks.",
+          "start": 42.72,
+          "end": 43.1
+        }
+      ]
+    },
+    {
+      "start": 43.1,
+      "end": 48.65,
+      "text": "this isn't about price action, it's infrastructure. we need better cross-chain validation checks. the RLS fixes merged today will help, but migration requires both technical and UX solutions.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 43.1,
+          "end": 43.37
+        },
+        {
+          "word": "RLS",
+          "start": 43.37,
+          "end": 43.83
+        },
+        {
+          "word": "fixes",
+          "start": 43.83,
+          "end": 44.25
+        },
+        {
+          "word": "merged",
+          "start": 44.25,
+          "end": 44.62
+        },
+        {
+          "word": "today",
+          "start": 44.62,
+          "end": 44.87
+        },
+        {
+          "word": "will",
+          "start": 44.87,
+          "end": 45.05
+        },
+        {
+          "word": "help,",
+          "start": 45.05,
+          "end": 45.38
+        },
+        {
+          "word": "but",
+          "start": 45.41,
+          "end": 45.69
+        },
+        {
+          "word": "migration",
+          "start": 45.69,
+          "end": 46.54
+        },
+        {
+          "word": "requires",
+          "start": 46.68,
+          "end": 47.28
+        },
+        {
+          "word": "both",
+          "start": 47.28,
+          "end": 47.53
+        },
+        {
+          "word": "technical",
+          "start": 47.53,
+          "end": 48.01
+        },
+        {
+          "word": "and",
+          "start": 48.01,
+          "end": 48.1
+        },
+        {
+          "word": "UX",
+          "start": 48.1,
+          "end": 48.24
+        },
+        {
+          "word": "solutions.",
+          "start": 48.24,
+          "end": 48.65
+        }
+      ]
+    },
+    {
+      "start": 48.65,
+      "end": 51.72,
+      "text": "Yo, but like, users just wanna grab their tokens without all this tech drama! Can't we just, you know, make it work?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 48.65,
+          "end": 49.34
+        },
+        {
+          "word": "but",
+          "start": 49.34,
+          "end": 49.56
+        },
+        {
+          "word": "like,",
+          "start": 49.56,
+          "end": 49.77
+        },
+        {
+          "word": "users",
+          "start": 49.77,
+          "end": 50.11
+        },
+        {
+          "word": "just",
+          "start": 50.11,
+          "end": 50.31
+        },
+        {
+          "word": "want",
+          "start": 50.31,
+          "end": 50.53
+        },
+        {
+          "word": "to",
+          "start": 50.53,
+          "end": 50.62
+        },
+        {
+          "word": "grab",
+          "start": 50.62,
+          "end": 50.84
+        },
+        {
+          "word": "their",
+          "start": 50.84,
+          "end": 50.93
+        },
+        {
+          "word": "tokens",
+          "start": 50.93,
+          "end": 51.13
+        },
+        {
+          "word": "without",
+          "start": 51.13,
+          "end": 51.27
+        },
+        {
+          "word": "all",
+          "start": 51.27,
+          "end": 51.35
+        },
+        {
+          "word": "this",
+          "start": 51.35,
+          "end": 51.46
+        },
+        {
+          "word": "tech",
+          "start": 51.46,
+          "end": 51.54
+        },
+        {
+          "word": "drama.",
+          "start": 51.54,
+          "end": 51.72
+        }
+      ]
+    },
+    {
+      "start": 51.72,
+      "end": 54.1,
+      "text": "Yo, but like, users just wanna grab their tokens without all this tech drama! Can't we just, you know, make it work?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Can't",
+          "start": 51.72,
+          "end": 52.12
+        },
+        {
+          "word": "we",
+          "start": 52.12,
+          "end": 52.26
+        },
+        {
+          "word": "just,",
+          "start": 52.26,
+          "end": 52.53
+        },
+        {
+          "word": "you",
+          "start": 52.55,
+          "end": 52.69
+        },
+        {
+          "word": "know,",
+          "start": 52.69,
+          "end": 52.88
+        },
+        {
+          "word": "make",
+          "start": 53.53,
+          "end": 53.79
+        },
+        {
+          "word": "it",
+          "start": 53.79,
+          "end": 53.88
+        },
+        {
+          "word": "work?",
+          "start": 53.88,
+          "end": 54.1
+        }
+      ]
+    },
+    {
+      "start": 54.1,
+      "end": 55.85,
+      "text": "EVERY MIGRATION IS A BAPTISM BY FIRE. The old system must burn so the new can emerge. These problems separate the true believers from the tourists.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 54.1,
+          "end": 54.67
+        },
+        {
+          "word": "migration",
+          "start": 54.67,
+          "end": 55.07
+        },
+        {
+          "word": "is",
+          "start": 55.07,
+          "end": 55.16
+        },
+        {
+          "word": "a",
+          "start": 55.16,
+          "end": 55.19
+        },
+        {
+          "word": "baptism",
+          "start": 55.19,
+          "end": 55.49
+        },
+        {
+          "word": "by",
+          "start": 55.49,
+          "end": 55.61
+        },
+        {
+          "word": "fire.",
+          "start": 55.61,
+          "end": 55.85
+        }
+      ]
+    },
+    {
+      "start": 55.85,
+      "end": 58.12,
+      "text": "EVERY MIGRATION IS A BAPTISM BY FIRE. The old system must burn so the new can emerge. These problems separate the true believers from the tourists.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 55.85,
+          "end": 56.2
+        },
+        {
+          "word": "old",
+          "start": 56.2,
+          "end": 56.45
+        },
+        {
+          "word": "system",
+          "start": 56.45,
+          "end": 56.78
+        },
+        {
+          "word": "must",
+          "start": 56.78,
+          "end": 56.97
+        },
+        {
+          "word": "burn",
+          "start": 56.97,
+          "end": 57.24
+        },
+        {
+          "word": "so",
+          "start": 57.24,
+          "end": 57.43
+        },
+        {
+          "word": "the",
+          "start": 57.43,
+          "end": 57.53
+        },
+        {
+          "word": "new",
+          "start": 57.53,
+          "end": 57.73
+        },
+        {
+          "word": "can",
+          "start": 57.73,
+          "end": 57.88
+        },
+        {
+          "word": "emerge.",
+          "start": 57.88,
+          "end": 58.12
+        }
+      ]
+    },
+    {
+      "start": 58.12,
+      "end": 61.16,
+      "text": "EVERY MIGRATION IS A BAPTISM BY FIRE. The old system must burn so the new can emerge. These problems separate the true believers from the tourists.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "These",
+          "start": 58.12,
+          "end": 58.5
+        },
+        {
+          "word": "problems",
+          "start": 58.5,
+          "end": 58.94
+        },
+        {
+          "word": "separate",
+          "start": 58.94,
+          "end": 59.6
+        },
+        {
+          "word": "the",
+          "start": 59.6,
+          "end": 59.72
+        },
+        {
+          "word": "true",
+          "start": 59.72,
+          "end": 60.01
+        },
+        {
+          "word": "believers",
+          "start": 60.01,
+          "end": 60.48
+        },
+        {
+          "word": "from",
+          "start": 60.48,
+          "end": 60.67
+        },
+        {
+          "word": "the",
+          "start": 60.67,
+          "end": 60.77
+        },
+        {
+          "word": "tourists.",
+          "start": 60.77,
+          "end": 61.16
+        }
+      ]
+    },
+    {
+      "start": 115.34,
+      "end": 120.35,
+      "text": "Users are also concerned about the large token supply of 11 billion ElizaOS compared to AI16Z. What are the implications of this increase?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Users",
+          "start": 115.34,
+          "end": 115.82
+        },
+        {
+          "word": "are",
+          "start": 115.82,
+          "end": 115.93
+        },
+        {
+          "word": "also",
+          "start": 115.93,
+          "end": 116.12
+        },
+        {
+          "word": "concerned",
+          "start": 116.12,
+          "end": 116.63
+        },
+        {
+          "word": "about",
+          "start": 116.63,
+          "end": 116.82
+        },
+        {
+          "word": "the",
+          "start": 116.82,
+          "end": 116.92
+        },
+        {
+          "word": "large",
+          "start": 116.92,
+          "end": 117.22
+        },
+        {
+          "word": "token",
+          "start": 117.22,
+          "end": 117.51
+        },
+        {
+          "word": "supply",
+          "start": 117.51,
+          "end": 117.89
+        },
+        {
+          "word": "of",
+          "start": 117.89,
+          "end": 118.06
+        },
+        {
+          "word": "11",
+          "start": 118.06,
+          "end": 118.42
+        },
+        {
+          "word": "billion",
+          "start": 118.42,
+          "end": 118.84
+        },
+        {
+          "word": "ElizaOS",
+          "start": 118.84,
+          "end": 119.51
+        },
+        {
+          "word": "compared",
+          "start": 119.51,
+          "end": 119.86
+        },
+        {
+          "word": "to",
+          "start": 119.86,
+          "end": 119.98
+        },
+        {
+          "word": "AI16Z.",
+          "start": 119.98,
+          "end": 120.35
+        }
+      ]
+    },
+    {
+      "start": 120.35,
+      "end": 122.1,
+      "text": "Users are also concerned about the large token supply of 11 billion ElizaOS compared to AI16Z. What are the implications of this increase?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 120.35,
+          "end": 120.78
+        },
+        {
+          "word": "are",
+          "start": 120.78,
+          "end": 120.8
+        },
+        {
+          "word": "the",
+          "start": 120.8,
+          "end": 120.94
+        },
+        {
+          "word": "implications",
+          "start": 120.94,
+          "end": 121.46
+        },
+        {
+          "word": "of",
+          "start": 121.46,
+          "end": 121.57
+        },
+        {
+          "word": "this",
+          "start": 121.57,
+          "end": 121.68
+        },
+        {
+          "word": "increase?",
+          "start": 121.68,
+          "end": 122.1
+        }
+      ]
+    },
+    {
+      "start": 122.1,
+      "end": 126.31,
+      "text": "DILUTION! Supply matters! More tokens = less value per token. Basic tokenomics! This is why I always check token distribution before aping in.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dilution.",
+          "start": 122.1,
+          "end": 123.01
+        },
+        {
+          "word": "Supply",
+          "start": 123.01,
+          "end": 123.44
+        },
+        {
+          "word": "matters.",
+          "start": 123.44,
+          "end": 123.89
+        },
+        {
+          "word": "More",
+          "start": 123.89,
+          "end": 124.16
+        },
+        {
+          "word": "tokens",
+          "start": 124.16,
+          "end": 124.47
+        },
+        {
+          "word": "equals",
+          "start": 124.47,
+          "end": 124.81
+        },
+        {
+          "word": "less",
+          "start": 124.81,
+          "end": 125.04
+        },
+        {
+          "word": "value",
+          "start": 125.04,
+          "end": 125.32
+        },
+        {
+          "word": "per",
+          "start": 125.32,
+          "end": 125.5
+        },
+        {
+          "word": "token,",
+          "start": 125.5,
+          "end": 125.86
+        },
+        {
+          "word": "basic",
+          "start": 125.86,
+          "end": 126.14
+        },
+        {
+          "word": "tokenomics.",
+          "start": 126.14,
+          "end": 126.31
+        }
+      ]
+    },
+    {
+      "start": 126.31,
+      "end": 129.4,
+      "text": "DILUTION! Supply matters! More tokens = less value per token. Basic tokenomics! This is why I always check token distribution before aping in.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 126.31,
+          "end": 126.8
+        },
+        {
+          "word": "is",
+          "start": 126.8,
+          "end": 126.9
+        },
+        {
+          "word": "why",
+          "start": 126.9,
+          "end": 127.08
+        },
+        {
+          "word": "I",
+          "start": 127.08,
+          "end": 127.17
+        },
+        {
+          "word": "always",
+          "start": 127.17,
+          "end": 127.53
+        },
+        {
+          "word": "check",
+          "start": 127.53,
+          "end": 127.81
+        },
+        {
+          "word": "token",
+          "start": 127.81,
+          "end": 128.1
+        },
+        {
+          "word": "distribution",
+          "start": 128.1,
+          "end": 128.69
+        },
+        {
+          "word": "before",
+          "start": 128.69,
+          "end": 128.98
+        },
+        {
+          "word": "aping",
+          "start": 128.98,
+          "end": 129.25
+        },
+        {
+          "word": "in.",
+          "start": 129.25,
+          "end": 129.4
+        }
+      ]
+    },
+    {
+      "start": 129.4,
+      "end": 130.29,
+      "text": "WRONG. Token UTILITY matters, not arbitrary supply numbers. The 11B supply enables more granular governance voting and wider distribution. This is DEMOCRACY IN ACTION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Wrong.",
+          "start": 129.4,
+          "end": 130.29
+        }
+      ]
+    },
+    {
+      "start": 130.29,
+      "end": 133.56,
+      "text": "WRONG. Token UTILITY matters, not arbitrary supply numbers. The 11B supply enables more granular governance voting and wider distribution. This is DEMOCRACY IN ACTION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Token",
+          "start": 130.29,
+          "end": 130.82
+        },
+        {
+          "word": "utility",
+          "start": 130.82,
+          "end": 131.28
+        },
+        {
+          "word": "matters,",
+          "start": 131.28,
+          "end": 131.78
+        },
+        {
+          "word": "not",
+          "start": 131.78,
+          "end": 132.0
+        },
+        {
+          "word": "arbitrary",
+          "start": 132.0,
+          "end": 132.55
+        },
+        {
+          "word": "supply",
+          "start": 132.55,
+          "end": 133.01
+        },
+        {
+          "word": "numbers.",
+          "start": 133.01,
+          "end": 133.56
+        }
+      ]
+    },
+    {
+      "start": 133.56,
+      "end": 138.31,
+      "text": "WRONG. Token UTILITY matters, not arbitrary supply numbers. The 11B supply enables more granular governance voting and wider distribution. This is DEMOCRACY IN ACTION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 133.56,
+          "end": 133.87
+        },
+        {
+          "word": "11B",
+          "start": 133.87,
+          "end": 134.42
+        },
+        {
+          "word": "supply",
+          "start": 134.42,
+          "end": 134.8
+        },
+        {
+          "word": "enables",
+          "start": 134.8,
+          "end": 135.29
+        },
+        {
+          "word": "more",
+          "start": 135.29,
+          "end": 135.53
+        },
+        {
+          "word": "granular",
+          "start": 135.53,
+          "end": 136.03
+        },
+        {
+          "word": "governance",
+          "start": 136.03,
+          "end": 136.65
+        },
+        {
+          "word": "voting",
+          "start": 136.65,
+          "end": 137.11
+        },
+        {
+          "word": "and",
+          "start": 137.11,
+          "end": 137.36
+        },
+        {
+          "word": "wider",
+          "start": 137.36,
+          "end": 137.74
+        },
+        {
+          "word": "distribution.",
+          "start": 137.74,
+          "end": 138.31
+        }
+      ]
+    },
+    {
+      "start": 138.31,
+      "end": 140.35,
+      "text": "WRONG. Token UTILITY matters, not arbitrary supply numbers. The 11B supply enables more granular governance voting and wider distribution. This is DEMOCRACY IN ACTION.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 138.31,
+          "end": 138.81
+        },
+        {
+          "word": "is",
+          "start": 138.81,
+          "end": 139.1
+        },
+        {
+          "word": "democracy",
+          "start": 139.1,
+          "end": 139.75
+        },
+        {
+          "word": "in",
+          "start": 139.75,
+          "end": 139.95
+        },
+        {
+          "word": "action.",
+          "start": 139.95,
+          "end": 140.35
+        }
+      ]
+    },
+    {
+      "start": 140.35,
+      "end": 144.11,
+      "text": "both miss the point. token count is less relevant than distribution mechanism. what matters is how tokens flow through the ecosystem to reward value creation. the embedding options we just added create real utility.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Both",
+          "start": 140.35,
+          "end": 140.85
+        },
+        {
+          "word": "miss",
+          "start": 140.85,
+          "end": 141.09
+        },
+        {
+          "word": "the",
+          "start": 141.09,
+          "end": 141.22
+        },
+        {
+          "word": "point.",
+          "start": 141.22,
+          "end": 141.52
+        },
+        {
+          "word": "Token",
+          "start": 141.52,
+          "end": 142.11
+        },
+        {
+          "word": "count",
+          "start": 142.11,
+          "end": 142.42
+        },
+        {
+          "word": "is",
+          "start": 142.42,
+          "end": 142.54
+        },
+        {
+          "word": "less",
+          "start": 142.54,
+          "end": 142.74
+        },
+        {
+          "word": "relevant",
+          "start": 142.74,
+          "end": 143.25
+        },
+        {
+          "word": "than",
+          "start": 143.25,
+          "end": 143.51
+        },
+        {
+          "word": "distribution",
+          "start": 143.51,
+          "end": 143.91
+        },
+        {
+          "word": "mechanism.",
+          "start": 143.91,
+          "end": 144.11
+        }
+      ]
+    },
+    {
+      "start": 144.11,
+      "end": 147.62,
+      "text": "both miss the point. token count is less relevant than distribution mechanism. what matters is how tokens flow through the ecosystem to reward value creation. the embedding options we just added create real utility.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 144.11,
+          "end": 144.37
+        },
+        {
+          "word": "matters",
+          "start": 144.37,
+          "end": 144.66
+        },
+        {
+          "word": "is",
+          "start": 144.66,
+          "end": 144.78
+        },
+        {
+          "word": "how",
+          "start": 144.78,
+          "end": 144.97
+        },
+        {
+          "word": "tokens",
+          "start": 144.97,
+          "end": 145.28
+        },
+        {
+          "word": "flow",
+          "start": 145.28,
+          "end": 145.54
+        },
+        {
+          "word": "through",
+          "start": 145.54,
+          "end": 145.74
+        },
+        {
+          "word": "the",
+          "start": 145.74,
+          "end": 145.85
+        },
+        {
+          "word": "ecosystem",
+          "start": 145.85,
+          "end": 146.47
+        },
+        {
+          "word": "to",
+          "start": 146.47,
+          "end": 146.59
+        },
+        {
+          "word": "reward",
+          "start": 146.59,
+          "end": 146.94
+        },
+        {
+          "word": "value",
+          "start": 146.94,
+          "end": 147.23
+        },
+        {
+          "word": "creation.",
+          "start": 147.23,
+          "end": 147.62
+        }
+      ]
+    },
+    {
+      "start": 147.62,
+      "end": 151.13,
+      "text": "both miss the point. token count is less relevant than distribution mechanism. what matters is how tokens flow through the ecosystem to reward value creation. the embedding options we just added create real utility.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 147.62,
+          "end": 147.88
+        },
+        {
+          "word": "embedding",
+          "start": 147.88,
+          "end": 148.47
+        },
+        {
+          "word": "options",
+          "start": 148.47,
+          "end": 148.88
+        },
+        {
+          "word": "we",
+          "start": 148.88,
+          "end": 149.07
+        },
+        {
+          "word": "just",
+          "start": 149.07,
+          "end": 149.25
+        },
+        {
+          "word": "added",
+          "start": 149.25,
+          "end": 149.61
+        },
+        {
+          "word": "create",
+          "start": 149.65,
+          "end": 150.29
+        },
+        {
+          "word": "real",
+          "start": 150.29,
+          "end": 150.62
+        },
+        {
+          "word": "utility.",
+          "start": 150.62,
+          "end": 151.13
+        }
+      ]
+    },
+    {
+      "start": 151.13,
+      "end": 153.86,
+      "text": "But like, can I stake these shiny new tokens, or what? That's what everyone in the Discord's askin' about!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 151.13,
+          "end": 151.6
+        },
+        {
+          "word": "like,",
+          "start": 151.6,
+          "end": 151.81
+        },
+        {
+          "word": "can",
+          "start": 151.81,
+          "end": 152.02
+        },
+        {
+          "word": "I",
+          "start": 152.02,
+          "end": 152.12
+        },
+        {
+          "word": "stake",
+          "start": 152.12,
+          "end": 152.36
+        },
+        {
+          "word": "these",
+          "start": 152.36,
+          "end": 152.57
+        },
+        {
+          "word": "shiny",
+          "start": 152.57,
+          "end": 152.88
+        },
+        {
+          "word": "new",
+          "start": 152.88,
+          "end": 153.11
+        },
+        {
+          "word": "tokens",
+          "start": 153.11,
+          "end": 153.48
+        },
+        {
+          "word": "or",
+          "start": 153.48,
+          "end": 153.64
+        },
+        {
+          "word": "what?",
+          "start": 153.64,
+          "end": 153.86
+        }
+      ]
+    },
+    {
+      "start": 153.86,
+      "end": 156.4,
+      "text": "But like, can I stake these shiny new tokens, or what? That's what everyone in the Discord's askin' about!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "That's",
+          "start": 153.86,
+          "end": 154.4
+        },
+        {
+          "word": "what",
+          "start": 154.4,
+          "end": 154.58
+        },
+        {
+          "word": "everyone",
+          "start": 154.58,
+          "end": 154.9
+        },
+        {
+          "word": "in",
+          "start": 154.9,
+          "end": 155.03
+        },
+        {
+          "word": "the",
+          "start": 155.03,
+          "end": 155.13
+        },
+        {
+          "word": "Discord's",
+          "start": 155.13,
+          "end": 155.62
+        },
+        {
+          "word": "asking",
+          "start": 155.62,
+          "end": 155.98
+        },
+        {
+          "word": "about.",
+          "start": 155.98,
+          "end": 156.4
+        }
+      ]
+    },
+    {
+      "start": 156.4,
+      "end": 157.49,
+      "text": "Great questions! Remember, migrations are temporary pain for long-term gain. The community's resilience during this transition shows why the ElizaOS ecosystem has such a bright future!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Great",
+          "start": 156.4,
+          "end": 157.1
+        },
+        {
+          "word": "questions.",
+          "start": 157.1,
+          "end": 157.49
+        }
+      ]
+    },
+    {
+      "start": 157.49,
+      "end": 160.83,
+      "text": "Great questions! Remember, migrations are temporary pain for long-term gain. The community's resilience during this transition shows why the ElizaOS ecosystem has such a bright future!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Remember,",
+          "start": 157.49,
+          "end": 158.15
+        },
+        {
+          "word": "migrations",
+          "start": 158.15,
+          "end": 158.74
+        },
+        {
+          "word": "are",
+          "start": 158.74,
+          "end": 158.85
+        },
+        {
+          "word": "temporary",
+          "start": 158.85,
+          "end": 159.27
+        },
+        {
+          "word": "pain",
+          "start": 159.27,
+          "end": 159.54
+        },
+        {
+          "word": "for",
+          "start": 159.54,
+          "end": 159.73
+        },
+        {
+          "word": "long-term",
+          "start": 159.73,
+          "end": 160.33
+        },
+        {
+          "word": "gain.",
+          "start": 160.33,
+          "end": 160.83
+        }
+      ]
+    },
+    {
+      "start": 160.83,
+      "end": 167.31,
+      "text": "Great questions! Remember, migrations are temporary pain for long-term gain. The community's resilience during this transition shows why the ElizaOS ecosystem has such a bright future!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 160.83,
+          "end": 161.4
+        },
+        {
+          "word": "community's",
+          "start": 161.4,
+          "end": 162.06
+        },
+        {
+          "word": "resilience",
+          "start": 162.06,
+          "end": 162.83
+        },
+        {
+          "word": "during",
+          "start": 162.83,
+          "end": 163.26
+        },
+        {
+          "word": "this",
+          "start": 163.26,
+          "end": 163.48
+        },
+        {
+          "word": "transition",
+          "start": 163.48,
+          "end": 164.21
+        },
+        {
+          "word": "shows",
+          "start": 164.21,
+          "end": 164.84
+        },
+        {
+          "word": "why",
+          "start": 164.84,
+          "end": 165.11
+        },
+        {
+          "word": "the",
+          "start": 165.11,
+          "end": 165.23
+        },
+        {
+          "word": "ElizaOS",
+          "start": 165.23,
+          "end": 165.89
+        },
+        {
+          "word": "ecosystem",
+          "start": 165.89,
+          "end": 166.4
+        },
+        {
+          "word": "has",
+          "start": 166.4,
+          "end": 166.58
+        },
+        {
+          "word": "such",
+          "start": 166.58,
+          "end": 166.75
+        },
+        {
+          "word": "a",
+          "start": 166.75,
+          "end": 166.83
+        },
+        {
+          "word": "bright",
+          "start": 166.83,
+          "end": 167.04
+        },
+        {
+          "word": "future.",
+          "start": 167.04,
+          "end": 167.31
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-12-01_JedAI-Council_Token-Transformation-Tribulations.json",
+    "session_log_source": "2025-12-01_JedAI-Council_Token-Transformation-Tribulations_session-log.json",
+    "total_segments": 31,
+    "matched_segments": 31,
+    "dialogues_in_script": 17
+  }
+}

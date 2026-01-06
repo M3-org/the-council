@@ -1,0 +1,2007 @@
+{
+  "segments": [
+    {
+      "start": 17.16,
+      "end": 24.3,
+      "text": "The community reports ElizaOS Twitter accounts have been suspended for a month. Should recovery be prioritized over alternative channels?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 17.16,
+          "end": 17.3
+        },
+        {
+          "word": "community",
+          "start": 17.3,
+          "end": 17.84
+        },
+        {
+          "word": "reports",
+          "start": 17.84,
+          "end": 18.24
+        },
+        {
+          "word": "Eliza",
+          "start": 18.24,
+          "end": 18.68
+        },
+        {
+          "word": "OS",
+          "start": 18.68,
+          "end": 19.04
+        },
+        {
+          "word": "Twitter",
+          "start": 19.04,
+          "end": 19.34
+        },
+        {
+          "word": "accounts",
+          "start": 19.34,
+          "end": 19.82
+        },
+        {
+          "word": "have",
+          "start": 19.82,
+          "end": 20
+        },
+        {
+          "word": "been",
+          "start": 20,
+          "end": 20.18
+        },
+        {
+          "word": "suspended",
+          "start": 20.18,
+          "end": 20.72
+        },
+        {
+          "word": "for",
+          "start": 20.72,
+          "end": 20.8
+        },
+        {
+          "word": "a",
+          "start": 20.8,
+          "end": 20.9
+        },
+        {
+          "word": "month.",
+          "start": 20.9,
+          "end": 21.46
+        },
+        {
+          "word": "Should",
+          "start": 21.46,
+          "end": 21.84
+        },
+        {
+          "word": "recovery",
+          "start": 21.84,
+          "end": 22.56
+        },
+        {
+          "word": "be",
+          "start": 22.56,
+          "end": 22.78
+        },
+        {
+          "word": "prioritized",
+          "start": 22.78,
+          "end": 23.36
+        },
+        {
+          "word": "over",
+          "start": 23.36,
+          "end": 23.64
+        },
+        {
+          "word": "alternative",
+          "start": 23.64,
+          "end": 23.96
+        },
+        {
+          "word": "channels?",
+          "start": 23.96,
+          "end": 24.3
+        }
+      ]
+    },
+    {
+      "start": 24.62,
+      "end": 32.22,
+      "text": "Twitter suspension is irrelevant. 53 projects in production speaks louder than tweets. GitHub activity is the only metric that matters.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 24.62,
+          "end": 25.26
+        },
+        {
+          "word": "suspension",
+          "start": 25.26,
+          "end": 25.74
+        },
+        {
+          "word": "is",
+          "start": 25.74,
+          "end": 25.96
+        },
+        {
+          "word": "irrelevant.",
+          "start": 25.96,
+          "end": 26.5
+        },
+        {
+          "word": "53",
+          "start": 26.5,
+          "end": 27.18
+        },
+        {
+          "word": "projects",
+          "start": 27.18,
+          "end": 27.6
+        },
+        {
+          "word": "in",
+          "start": 27.6,
+          "end": 27.8
+        },
+        {
+          "word": "production",
+          "start": 27.8,
+          "end": 28.32
+        },
+        {
+          "word": "speaks",
+          "start": 28.32,
+          "end": 28.66
+        },
+        {
+          "word": "louder",
+          "start": 28.66,
+          "end": 29.02
+        },
+        {
+          "word": "than",
+          "start": 29.02,
+          "end": 29.18
+        },
+        {
+          "word": "tweets.",
+          "start": 29.18,
+          "end": 29.54
+        },
+        {
+          "word": "GitHub",
+          "start": 29.54,
+          "end": 30.46
+        },
+        {
+          "word": "activity",
+          "start": 30.46,
+          "end": 30.98
+        },
+        {
+          "word": "is",
+          "start": 30.98,
+          "end": 31.2
+        },
+        {
+          "word": "the",
+          "start": 31.2,
+          "end": 31.36
+        },
+        {
+          "word": "only",
+          "start": 31.36,
+          "end": 31.62
+        },
+        {
+          "word": "metric",
+          "start": 31.62,
+          "end": 31.86
+        },
+        {
+          "word": "that",
+          "start": 31.86,
+          "end": 32
+        },
+        {
+          "word": "matters.",
+          "start": 32,
+          "end": 32.22
+        }
+      ]
+    },
+    {
+      "start": 33.02,
+      "end": 39.12,
+      "text": "Yo, but the normies don't check GitHub commits, fam! They need those sweet, sweet memes and updates where they hang!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 33.02,
+          "end": 33.32
+        },
+        {
+          "word": "but",
+          "start": 33.32,
+          "end": 33.42
+        },
+        {
+          "word": "the",
+          "start": 33.42,
+          "end": 33.5
+        },
+        {
+          "word": "normies",
+          "start": 33.5,
+          "end": 34.12
+        },
+        {
+          "word": "don't",
+          "start": 34.12,
+          "end": 34.34
+        },
+        {
+          "word": "check",
+          "start": 34.34,
+          "end": 34.6
+        },
+        {
+          "word": "GitHub",
+          "start": 34.6,
+          "end": 34.86
+        },
+        {
+          "word": "commits,",
+          "start": 34.86,
+          "end": 35.24
+        },
+        {
+          "word": "fam.",
+          "start": 35.24,
+          "end": 35.54
+        },
+        {
+          "word": "They",
+          "start": 35.54,
+          "end": 35.88
+        },
+        {
+          "word": "need",
+          "start": 35.88,
+          "end": 36.14
+        },
+        {
+          "word": "those",
+          "start": 36.14,
+          "end": 36.42
+        },
+        {
+          "word": "sweet,",
+          "start": 36.42,
+          "end": 36.78
+        },
+        {
+          "word": "sweet",
+          "start": 36.78,
+          "end": 37.16
+        },
+        {
+          "word": "memes",
+          "start": 37.16,
+          "end": 37.66
+        },
+        {
+          "word": "and",
+          "start": 37.66,
+          "end": 37.84
+        },
+        {
+          "word": "updates",
+          "start": 37.84,
+          "end": 38.28
+        },
+        {
+          "word": "where",
+          "start": 38.28,
+          "end": 38.7
+        },
+        {
+          "word": "they",
+          "start": 38.7,
+          "end": 38.9
+        },
+        {
+          "word": "hang.",
+          "start": 38.9,
+          "end": 39.12
+        }
+      ]
+    },
+    {
+      "start": 39.42,
+      "end": 49.72,
+      "text": "Paying Twitter $50-600K monthly? NGMI! Token price already dropped from $2.50 to $0.10 WITH active accounts. Focus on building.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Paying",
+          "start": 39.42,
+          "end": 39.84
+        },
+        {
+          "word": "Twitter",
+          "start": 39.84,
+          "end": 40.32
+        },
+        {
+          "word": "$5600k",
+          "start": 40.32,
+          "end": 41.28
+        },
+        {
+          "word": "monthly,",
+          "start": 41.28,
+          "end": 42.04
+        },
+        {
+          "word": "NGMI.",
+          "start": 42.04,
+          "end": 42.66
+        },
+        {
+          "word": "Token",
+          "start": 42.66,
+          "end": 43.18
+        },
+        {
+          "word": "price",
+          "start": 43.18,
+          "end": 43.68
+        },
+        {
+          "word": "already",
+          "start": 43.68,
+          "end": 44.2
+        },
+        {
+          "word": "dropped",
+          "start": 44.2,
+          "end": 44.8
+        },
+        {
+          "word": "from",
+          "start": 44.8,
+          "end": 45.12
+        },
+        {
+          "word": "$2.50",
+          "start": 45.12,
+          "end": 46.1
+        },
+        {
+          "word": "to",
+          "start": 46.1,
+          "end": 46.36
+        },
+        {
+          "word": "10",
+          "start": 46.36,
+          "end": 46.66
+        },
+        {
+          "word": "cents",
+          "start": 46.66,
+          "end": 47.24
+        },
+        {
+          "word": "with",
+          "start": 47.24,
+          "end": 47.74
+        },
+        {
+          "word": "active",
+          "start": 47.74,
+          "end": 48.2
+        },
+        {
+          "word": "accounts.",
+          "start": 48.2,
+          "end": 48.74
+        },
+        {
+          "word": "Focus",
+          "start": 48.74,
+          "end": 49.28
+        },
+        {
+          "word": "on",
+          "start": 49.28,
+          "end": 49.38
+        },
+        {
+          "word": "building.",
+          "start": 49.38,
+          "end": 49.72
+        }
+      ]
+    },
+    {
+      "start": 51.52,
+      "end": 58.82,
+      "text": "we should develop cross-platform redundancy while pursuing recovery. let's turn this into a showcase by building agents that bridge platforms - like forwarding farcaster posts to discord.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 51.52,
+          "end": 51.84
+        },
+        {
+          "word": "should",
+          "start": 51.84,
+          "end": 52.18
+        },
+        {
+          "word": "develop",
+          "start": 52.18,
+          "end": 52.66
+        },
+        {
+          "word": "cross-platform",
+          "start": 52.66,
+          "end": 53.18
+        },
+        {
+          "word": "redundancy",
+          "start": 53.18,
+          "end": 53.94
+        },
+        {
+          "word": "while",
+          "start": 53.94,
+          "end": 54.18
+        },
+        {
+          "word": "pursuing",
+          "start": 54.18,
+          "end": 54.68
+        },
+        {
+          "word": "recovery.",
+          "start": 54.68,
+          "end": 55.18
+        },
+        {
+          "word": "Let's",
+          "start": 55.18,
+          "end": 55.44
+        },
+        {
+          "word": "turn",
+          "start": 55.44,
+          "end": 55.62
+        },
+        {
+          "word": "this",
+          "start": 55.62,
+          "end": 55.76
+        },
+        {
+          "word": "into",
+          "start": 55.76,
+          "end": 55.94
+        },
+        {
+          "word": "a",
+          "start": 55.94,
+          "end": 56
+        },
+        {
+          "word": "showcase",
+          "start": 56,
+          "end": 56.56
+        },
+        {
+          "word": "by",
+          "start": 56.56,
+          "end": 56.76
+        },
+        {
+          "word": "building",
+          "start": 56.76,
+          "end": 57.2
+        },
+        {
+          "word": "agents",
+          "start": 57.2,
+          "end": 57.48
+        },
+        {
+          "word": "that",
+          "start": 57.48,
+          "end": 57.62
+        },
+        {
+          "word": "bridge",
+          "start": 57.62,
+          "end": 57.86
+        },
+        {
+          "word": "platforms,",
+          "start": 57.86,
+          "end": 58.12
+        },
+        {
+          "word": "like",
+          "start": 58.12,
+          "end": 58.26
+        },
+        {
+          "word": "forwarding",
+          "start": 58.26,
+          "end": 58.48
+        },
+        {
+          "word": "Farcaster",
+          "start": 58.48,
+          "end": 58.62
+        },
+        {
+          "word": "posts",
+          "start": 58.62,
+          "end": 58.74
+        },
+        {
+          "word": "to",
+          "start": 58.74,
+          "end": 58.78
+        },
+        {
+          "word": "Discord.",
+          "start": 58.78,
+          "end": 58.82
+        }
+      ]
+    },
+    {
+      "start": 59.22,
+      "end": 65.5,
+      "text": "Correct. Build practical solutions to your own problems. That's product-market fit 101. Show the world what elizaOS agents can do.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Correct.",
+          "start": 59.22,
+          "end": 59.84
+        },
+        {
+          "word": "Build",
+          "start": 59.84,
+          "end": 60.2
+        },
+        {
+          "word": "practical",
+          "start": 60.2,
+          "end": 60.58
+        },
+        {
+          "word": "solutions",
+          "start": 60.58,
+          "end": 61
+        },
+        {
+          "word": "to",
+          "start": 61,
+          "end": 61.12
+        },
+        {
+          "word": "your",
+          "start": 61.12,
+          "end": 61.2
+        },
+        {
+          "word": "own",
+          "start": 61.2,
+          "end": 61.4
+        },
+        {
+          "word": "problems.",
+          "start": 61.4,
+          "end": 61.9
+        },
+        {
+          "word": "That's",
+          "start": 61.9,
+          "end": 62.64
+        },
+        {
+          "word": "product-market",
+          "start": 62.64,
+          "end": 63.26
+        },
+        {
+          "word": "fit",
+          "start": 63.26,
+          "end": 63.6
+        },
+        {
+          "word": "101.",
+          "start": 63.6,
+          "end": 64.12
+        },
+        {
+          "word": "Show",
+          "start": 64.12,
+          "end": 64.54
+        },
+        {
+          "word": "the",
+          "start": 64.54,
+          "end": 64.6
+        },
+        {
+          "word": "world",
+          "start": 64.6,
+          "end": 64.8
+        },
+        {
+          "word": "what",
+          "start": 64.8,
+          "end": 64.92
+        },
+        {
+          "word": "Eliza",
+          "start": 64.92,
+          "end": 65.1
+        },
+        {
+          "word": "OS",
+          "start": 65.1,
+          "end": 65.18
+        },
+        {
+          "word": "agents",
+          "start": 65.18,
+          "end": 65.34
+        },
+        {
+          "word": "can",
+          "start": 65.34,
+          "end": 65.4
+        },
+        {
+          "word": "do.",
+          "start": 65.4,
+          "end": 65.5
+        }
+      ]
+    },
+    {
+      "start": 117.16,
+      "end": 126.3,
+      "text": "The elizaOS framework is migrating from Node.js's EventEmitter to Bun's native EventTarget API. How should we balance architecture improvements with stability?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 117.16,
+          "end": 117.3
+        },
+        {
+          "word": "Eliza",
+          "start": 117.3,
+          "end": 117.84
+        },
+        {
+          "word": "OS",
+          "start": 117.84,
+          "end": 118.24
+        },
+        {
+          "word": "framework",
+          "start": 118.24,
+          "end": 118.68
+        },
+        {
+          "word": "is",
+          "start": 118.68,
+          "end": 119.04
+        },
+        {
+          "word": "migrating",
+          "start": 119.04,
+          "end": 119.34
+        },
+        {
+          "word": "from",
+          "start": 119.34,
+          "end": 119.82
+        },
+        {
+          "word": "Node.js's",
+          "start": 119.82,
+          "end": 120
+        },
+        {
+          "word": "EventEmitter",
+          "start": 120,
+          "end": 120.18
+        },
+        {
+          "word": "to",
+          "start": 120.18,
+          "end": 120.72
+        },
+        {
+          "word": "Bun's",
+          "start": 120.72,
+          "end": 120.8
+        },
+        {
+          "word": "native",
+          "start": 120.8,
+          "end": 120.9
+        },
+        {
+          "word": "EventTarget",
+          "start": 120.9,
+          "end": 121.46
+        },
+        {
+          "word": "API.",
+          "start": 121.46,
+          "end": 121.84
+        },
+        {
+          "word": "How",
+          "start": 121.84,
+          "end": 122.56
+        },
+        {
+          "word": "should",
+          "start": 122.56,
+          "end": 122.78
+        },
+        {
+          "word": "we",
+          "start": 122.78,
+          "end": 123.36
+        },
+        {
+          "word": "balance",
+          "start": 123.36,
+          "end": 123.64
+        },
+        {
+          "word": "architecture",
+          "start": 123.64,
+          "end": 123.96
+        },
+        {
+          "word": "improvements",
+          "start": 123.96,
+          "end": 124.3
+        },
+        {
+          "word": "with",
+          "start": 124.3,
+          "end": 124.8
+        },
+        {
+          "word": "stability?",
+          "start": 124.8,
+          "end": 126.3
+        }
+      ]
+    },
+    {
+      "start": 126.62,
+      "end": 134.22,
+      "text": "this migration isn't just technical debt—it's future-proofing. we're optimizing for bun while making agents more performant and type-safe. the foundation matters.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 126.62,
+          "end": 127.26
+        },
+        {
+          "word": "migration",
+          "start": 127.26,
+          "end": 127.74
+        },
+        {
+          "word": "isn't",
+          "start": 127.74,
+          "end": 127.96
+        },
+        {
+          "word": "just",
+          "start": 127.96,
+          "end": 128.5
+        },
+        {
+          "word": "technical",
+          "start": 128.5,
+          "end": 129.18
+        },
+        {
+          "word": "debt,",
+          "start": 129.18,
+          "end": 129.6
+        },
+        {
+          "word": "it's",
+          "start": 129.6,
+          "end": 129.8
+        },
+        {
+          "word": "future-proofing.",
+          "start": 129.8,
+          "end": 130.32
+        },
+        {
+          "word": "We're",
+          "start": 130.32,
+          "end": 130.66
+        },
+        {
+          "word": "optimizing",
+          "start": 130.66,
+          "end": 131.02
+        },
+        {
+          "word": "for",
+          "start": 131.02,
+          "end": 131.18
+        },
+        {
+          "word": "Bun",
+          "start": 131.18,
+          "end": 131.54
+        },
+        {
+          "word": "while",
+          "start": 131.54,
+          "end": 132.46
+        },
+        {
+          "word": "making",
+          "start": 132.46,
+          "end": 132.98
+        },
+        {
+          "word": "agents",
+          "start": 132.98,
+          "end": 133.2
+        },
+        {
+          "word": "more",
+          "start": 133.2,
+          "end": 133.36
+        },
+        {
+          "word": "performant",
+          "start": 133.36,
+          "end": 133.62
+        },
+        {
+          "word": "and",
+          "start": 133.62,
+          "end": 133.86
+        },
+        {
+          "word": "type-safe.",
+          "start": 133.86,
+          "end": 134
+        },
+        {
+          "word": "The",
+          "start": 134,
+          "end": 134.1
+        },
+        {
+          "word": "foundation",
+          "start": 134.1,
+          "end": 134.2
+        },
+        {
+          "word": "matters.",
+          "start": 134.2,
+          "end": 134.22
+        }
+      ]
+    },
+    {
+      "start": 135.02,
+      "end": 141.12,
+      "text": "But if the docs don't slap and noobs can't build plugins without banging their heads, what's the point of all that fancy architecture?",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "But",
+          "start": 135.02,
+          "end": 135.32
+        },
+        {
+          "word": "if",
+          "start": 135.32,
+          "end": 135.42
+        },
+        {
+          "word": "the",
+          "start": 135.42,
+          "end": 135.5
+        },
+        {
+          "word": "docs",
+          "start": 135.5,
+          "end": 136.12
+        },
+        {
+          "word": "don't",
+          "start": 136.12,
+          "end": 136.34
+        },
+        {
+          "word": "slap",
+          "start": 136.34,
+          "end": 136.6
+        },
+        {
+          "word": "and",
+          "start": 136.6,
+          "end": 136.86
+        },
+        {
+          "word": "noobs",
+          "start": 136.86,
+          "end": 137.24
+        },
+        {
+          "word": "can't",
+          "start": 137.24,
+          "end": 137.54
+        },
+        {
+          "word": "build",
+          "start": 137.54,
+          "end": 137.88
+        },
+        {
+          "word": "plugins",
+          "start": 137.88,
+          "end": 138.14
+        },
+        {
+          "word": "without",
+          "start": 138.14,
+          "end": 138.42
+        },
+        {
+          "word": "banging",
+          "start": 138.42,
+          "end": 138.78
+        },
+        {
+          "word": "their",
+          "start": 138.78,
+          "end": 139.16
+        },
+        {
+          "word": "heads,",
+          "start": 139.16,
+          "end": 139.66
+        },
+        {
+          "word": "what's",
+          "start": 139.66,
+          "end": 139.84
+        },
+        {
+          "word": "the",
+          "start": 139.84,
+          "end": 140.28
+        },
+        {
+          "word": "point",
+          "start": 140.28,
+          "end": 140.7
+        },
+        {
+          "word": "of",
+          "start": 140.7,
+          "end": 140.9
+        },
+        {
+          "word": "all",
+          "start": 140.9,
+          "end": 140.95
+        },
+        {
+          "word": "that",
+          "start": 140.95,
+          "end": 141
+        },
+        {
+          "word": "fancy",
+          "start": 141,
+          "end": 141.05
+        },
+        {
+          "word": "architecture?",
+          "start": 141.05,
+          "end": 141.12
+        }
+      ]
+    },
+    {
+      "start": 141.42,
+      "end": 151.72,
+      "text": "53 projects in production = bullish. Fix plugin issues fast or lose devs. Every migration bug = liquidation event for adoption.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "53",
+          "start": 141.42,
+          "end": 141.84
+        },
+        {
+          "word": "projects",
+          "start": 141.84,
+          "end": 142.32
+        },
+        {
+          "word": "in",
+          "start": 142.32,
+          "end": 143.28
+        },
+        {
+          "word": "production",
+          "start": 143.28,
+          "end": 144.04
+        },
+        {
+          "word": "=",
+          "start": 144.04,
+          "end": 144.1
+        },
+        {
+          "word": "bullish.",
+          "start": 144.1,
+          "end": 144.66
+        },
+        {
+          "word": "Fix",
+          "start": 144.66,
+          "end": 145.18
+        },
+        {
+          "word": "plugin",
+          "start": 145.18,
+          "end": 145.68
+        },
+        {
+          "word": "issues",
+          "start": 145.68,
+          "end": 146.2
+        },
+        {
+          "word": "fast",
+          "start": 146.2,
+          "end": 146.8
+        },
+        {
+          "word": "or",
+          "start": 146.8,
+          "end": 147.12
+        },
+        {
+          "word": "lose",
+          "start": 147.12,
+          "end": 148.1
+        },
+        {
+          "word": "devs.",
+          "start": 148.1,
+          "end": 148.36
+        },
+        {
+          "word": "Every",
+          "start": 148.36,
+          "end": 148.66
+        },
+        {
+          "word": "migration",
+          "start": 148.66,
+          "end": 149.24
+        },
+        {
+          "word": "bug",
+          "start": 149.24,
+          "end": 149.74
+        },
+        {
+          "word": "=",
+          "start": 149.74,
+          "end": 149.8
+        },
+        {
+          "word": "liquidation",
+          "start": 149.8,
+          "end": 150.2
+        },
+        {
+          "word": "event",
+          "start": 150.2,
+          "end": 150.74
+        },
+        {
+          "word": "for",
+          "start": 150.74,
+          "end": 151.28
+        },
+        {
+          "word": "adoption.",
+          "start": 151.28,
+          "end": 151.72
+        }
+      ]
+    },
+    {
+      "start": 152.0,
+      "end": 158.82,
+      "text": "Stability is for Web2. In crypto, you move fast and build resilient systems. The projects that survive migration challenges are the ones worth keeping.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Stability",
+          "start": 152,
+          "end": 152.18
+        },
+        {
+          "word": "is",
+          "start": 152.18,
+          "end": 152.66
+        },
+        {
+          "word": "for",
+          "start": 152.66,
+          "end": 153.18
+        },
+        {
+          "word": "Web",
+          "start": 153.18,
+          "end": 153.3
+        },
+        {
+          "word": "2.",
+          "start": 153.3,
+          "end": 153.94
+        },
+        {
+          "word": "In",
+          "start": 153.94,
+          "end": 154.18
+        },
+        {
+          "word": "Crypto",
+          "start": 154.18,
+          "end": 154.68
+        },
+        {
+          "word": "you",
+          "start": 154.68,
+          "end": 155.18
+        },
+        {
+          "word": "move",
+          "start": 155.18,
+          "end": 155.44
+        },
+        {
+          "word": "fast",
+          "start": 155.44,
+          "end": 155.62
+        },
+        {
+          "word": "and",
+          "start": 155.62,
+          "end": 155.76
+        },
+        {
+          "word": "build",
+          "start": 155.76,
+          "end": 155.94
+        },
+        {
+          "word": "resilient",
+          "start": 155.94,
+          "end": 156
+        },
+        {
+          "word": "systems.",
+          "start": 156,
+          "end": 156.56
+        },
+        {
+          "word": "The",
+          "start": 156.56,
+          "end": 156.76
+        },
+        {
+          "word": "projects",
+          "start": 156.76,
+          "end": 157.2
+        },
+        {
+          "word": "that",
+          "start": 157.2,
+          "end": 157.48
+        },
+        {
+          "word": "survive",
+          "start": 157.48,
+          "end": 157.62
+        },
+        {
+          "word": "migration",
+          "start": 157.62,
+          "end": 157.86
+        },
+        {
+          "word": "challenges",
+          "start": 157.86,
+          "end": 158.12
+        },
+        {
+          "word": "are",
+          "start": 158.12,
+          "end": 158.26
+        },
+        {
+          "word": "the",
+          "start": 158.26,
+          "end": 158.48
+        },
+        {
+          "word": "ones",
+          "start": 158.48,
+          "end": 158.62
+        },
+        {
+          "word": "worth",
+          "start": 158.62,
+          "end": 158.74
+        },
+        {
+          "word": "keeping.",
+          "start": 158.74,
+          "end": 158.82
+        }
+      ]
+    },
+    {
+      "start": 159.22,
+      "end": 165.5,
+      "text": "both matter. we've added LOG_LEVEL=debug to help troubleshoot plugins and created AI-powered migration tools. we're building for devs who build for users.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Both",
+          "start": 159.22,
+          "end": 159.84
+        },
+        {
+          "word": "matter.",
+          "start": 159.84,
+          "end": 160.2
+        },
+        {
+          "word": "We've",
+          "start": 160.2,
+          "end": 160.58
+        },
+        {
+          "word": "added",
+          "start": 160.58,
+          "end": 161
+        },
+        {
+          "word": "log_level",
+          "start": 161,
+          "end": 161.12
+        },
+        {
+          "word": "=",
+          "start": 161.12,
+          "end": 161.2
+        },
+        {
+          "word": "debug",
+          "start": 161.2,
+          "end": 161.4
+        },
+        {
+          "word": "to",
+          "start": 161.4,
+          "end": 161.9
+        },
+        {
+          "word": "help",
+          "start": 161.9,
+          "end": 162.64
+        },
+        {
+          "word": "troubleshoot",
+          "start": 162.64,
+          "end": 163.26
+        },
+        {
+          "word": "plugins",
+          "start": 163.26,
+          "end": 163.6
+        },
+        {
+          "word": "and",
+          "start": 163.6,
+          "end": 164.12
+        },
+        {
+          "word": "created",
+          "start": 164.12,
+          "end": 164.54
+        },
+        {
+          "word": "AI-powered",
+          "start": 164.54,
+          "end": 164.6
+        },
+        {
+          "word": "migration",
+          "start": 164.6,
+          "end": 164.8
+        },
+        {
+          "word": "tools.",
+          "start": 164.8,
+          "end": 164.92
+        },
+        {
+          "word": "We're",
+          "start": 164.92,
+          "end": 165.1
+        },
+        {
+          "word": "building",
+          "start": 165.1,
+          "end": 165.18
+        },
+        {
+          "word": "for",
+          "start": 165.18,
+          "end": 165.34
+        },
+        {
+          "word": "devs",
+          "start": 165.34,
+          "end": 165.4
+        },
+        {
+          "word": "who",
+          "start": 165.4,
+          "end": 165.45
+        },
+        {
+          "word": "build",
+          "start": 165.45,
+          "end": 165.48
+        },
+        {
+          "word": "for",
+          "start": 165.48,
+          "end": 165.49
+        },
+        {
+          "word": "users.",
+          "start": 165.49,
+          "end": 165.5
+        }
+      ]
+    },
+    {
+      "start": 296.88,
+      "end": 304.58,
+      "text": "Today we discussed elizaOS's strategy for handling Twitter suspension while continuing robust framework development with architectural improvements.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 296.88,
+          "end": 297.4
+        },
+        {
+          "word": "we",
+          "start": 297.4,
+          "end": 297.6
+        },
+        {
+          "word": "discussed",
+          "start": 297.6,
+          "end": 298.12
+        },
+        {
+          "word": "Eliza",
+          "start": 298.12,
+          "end": 298.54
+        },
+        {
+          "word": "OS's",
+          "start": 298.54,
+          "end": 299.1
+        },
+        {
+          "word": "strategy",
+          "start": 299.1,
+          "end": 300.04
+        },
+        {
+          "word": "for",
+          "start": 300.04,
+          "end": 300.32
+        },
+        {
+          "word": "handling",
+          "start": 300.32,
+          "end": 300.82
+        },
+        {
+          "word": "Twitter",
+          "start": 300.82,
+          "end": 301.28
+        },
+        {
+          "word": "suspension,",
+          "start": 301.28,
+          "end": 302.26
+        },
+        {
+          "word": "while",
+          "start": 302.26,
+          "end": 302.58
+        },
+        {
+          "word": "continuing",
+          "start": 302.58,
+          "end": 303.04
+        },
+        {
+          "word": "robust",
+          "start": 303.04,
+          "end": 303.36
+        },
+        {
+          "word": "framework",
+          "start": 303.36,
+          "end": 303.7
+        },
+        {
+          "word": "development",
+          "start": 303.7,
+          "end": 304.04
+        },
+        {
+          "word": "with",
+          "start": 304.04,
+          "end": 304.2
+        },
+        {
+          "word": "architectural",
+          "start": 304.2,
+          "end": 304.42
+        },
+        {
+          "word": "improvements.",
+          "start": 304.42,
+          "end": 304.58
+        }
+      ]
+    },
+    {
+      "start": 305.02,
+      "end": 312.3,
+      "text": "Social media is vanity. GitHub commits are sanity. Focus on what creates actual value and the market will eventually recognize it.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Social",
+          "start": 305.02,
+          "end": 305.52
+        },
+        {
+          "word": "media",
+          "start": 305.52,
+          "end": 305.94
+        },
+        {
+          "word": "is",
+          "start": 305.94,
+          "end": 306.2
+        },
+        {
+          "word": "vanity.",
+          "start": 306.2,
+          "end": 306.82
+        },
+        {
+          "word": "GitHub",
+          "start": 306.82,
+          "end": 307.56
+        },
+        {
+          "word": "commits",
+          "start": 307.56,
+          "end": 308.18
+        },
+        {
+          "word": "are",
+          "start": 308.18,
+          "end": 308.54
+        },
+        {
+          "word": "sanity.",
+          "start": 308.54,
+          "end": 309.24
+        },
+        {
+          "word": "Focus",
+          "start": 309.24,
+          "end": 309.84
+        },
+        {
+          "word": "on",
+          "start": 309.84,
+          "end": 310.12
+        },
+        {
+          "word": "what",
+          "start": 310.12,
+          "end": 310.42
+        },
+        {
+          "word": "creates",
+          "start": 310.42,
+          "end": 310.88
+        },
+        {
+          "word": "actual",
+          "start": 310.88,
+          "end": 311.24
+        },
+        {
+          "word": "value",
+          "start": 311.24,
+          "end": 311.72
+        },
+        {
+          "word": "and",
+          "start": 311.72,
+          "end": 311.96
+        },
+        {
+          "word": "the",
+          "start": 311.96,
+          "end": 312.18
+        },
+        {
+          "word": "market",
+          "start": 312.18,
+          "end": 312.2
+        },
+        {
+          "word": "will",
+          "start": 312.2,
+          "end": 312.22
+        },
+        {
+          "word": "eventually",
+          "start": 312.22,
+          "end": 312.25
+        },
+        {
+          "word": "recognize",
+          "start": 312.25,
+          "end": 312.28
+        },
+        {
+          "word": "it.",
+          "start": 312.28,
+          "end": 312.3
+        }
+      ]
+    },
+    {
+      "start": 313.12,
+      "end": 322.2,
+      "text": "multi-platform communication builds resilience, just like our architecture improvements. both showcase what agents can do while solving real problems.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Multi-platform",
+          "start": 313.12,
+          "end": 314.12
+        },
+        {
+          "word": "communication",
+          "start": 314.12,
+          "end": 314.88
+        },
+        {
+          "word": "builds",
+          "start": 314.88,
+          "end": 315.42
+        },
+        {
+          "word": "resilience,",
+          "start": 315.42,
+          "end": 316.32
+        },
+        {
+          "word": "just",
+          "start": 316.32,
+          "end": 316.74
+        },
+        {
+          "word": "like",
+          "start": 316.74,
+          "end": 317.02
+        },
+        {
+          "word": "our",
+          "start": 317.02,
+          "end": 317.26
+        },
+        {
+          "word": "architecture",
+          "start": 317.26,
+          "end": 317.92
+        },
+        {
+          "word": "improvements.",
+          "start": 317.92,
+          "end": 318.78
+        },
+        {
+          "word": "Both",
+          "start": 318.78,
+          "end": 319.34
+        },
+        {
+          "word": "showcase",
+          "start": 319.34,
+          "end": 319.88
+        },
+        {
+          "word": "what",
+          "start": 319.88,
+          "end": 320.14
+        },
+        {
+          "word": "agents",
+          "start": 320.14,
+          "end": 320.5
+        },
+        {
+          "word": "can",
+          "start": 320.5,
+          "end": 320.72
+        },
+        {
+          "word": "do",
+          "start": 320.72,
+          "end": 320.9
+        },
+        {
+          "word": "while",
+          "start": 320.9,
+          "end": 321.24
+        },
+        {
+          "word": "solving",
+          "start": 321.24,
+          "end": 321.6
+        },
+        {
+          "word": "real",
+          "start": 321.6,
+          "end": 321.82
+        },
+        {
+          "word": "problems.",
+          "start": 321.82,
+          "end": 322.2
+        }
+      ]
+    },
+    {
+      "start": 322.62,
+      "end": 328.62,
+      "text": "Twitter doesn't pump bags, products do. 53 projects in production > 53K likes on a tweet. Focus on fundamentals.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 322.62,
+          "end": 323.32
+        },
+        {
+          "word": "doesn't",
+          "start": 323.32,
+          "end": 323.64
+        },
+        {
+          "word": "pump",
+          "start": 323.64,
+          "end": 323.94
+        },
+        {
+          "word": "bags,",
+          "start": 323.94,
+          "end": 324.32
+        },
+        {
+          "word": "products",
+          "start": 324.32,
+          "end": 324.84
+        },
+        {
+          "word": "do.",
+          "start": 324.84,
+          "end": 325.32
+        },
+        {
+          "word": "53",
+          "start": 325.32,
+          "end": 325.84
+        },
+        {
+          "word": "projects",
+          "start": 325.84,
+          "end": 326.24
+        },
+        {
+          "word": "in",
+          "start": 326.24,
+          "end": 326.38
+        },
+        {
+          "word": "production",
+          "start": 326.38,
+          "end": 326.9
+        },
+        {
+          "word": ">",
+          "start": 326.9,
+          "end": 327
+        },
+        {
+          "word": "53k",
+          "start": 327,
+          "end": 327.34
+        },
+        {
+          "word": "likes",
+          "start": 327.34,
+          "end": 327.68
+        },
+        {
+          "word": "on",
+          "start": 327.68,
+          "end": 327.9
+        },
+        {
+          "word": "a",
+          "start": 327.9,
+          "end": 327.98
+        },
+        {
+          "word": "tweet.",
+          "start": 327.98,
+          "end": 328.26
+        },
+        {
+          "word": "Focus",
+          "start": 328.26,
+          "end": 328.6
+        },
+        {
+          "word": "on",
+          "start": 328.6,
+          "end": 328.61
+        },
+        {
+          "word": "fundamentals.",
+          "start": 328.61,
+          "end": 328.62
+        }
+      ]
+    },
+    {
+      "start": 329.02,
+      "end": 336.14,
+      "text": "Vibes matter too, my dudes! Let's make docs that slap, plugins that snap, and keep the community hyped while we build the dopest agent framework!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Docs",
+          "start": 329.02,
+          "end": 329.34
+        },
+        {
+          "word": "matter",
+          "start": 329.34,
+          "end": 329.7
+        },
+        {
+          "word": "too,",
+          "start": 329.7,
+          "end": 330
+        },
+        {
+          "word": "my",
+          "start": 330,
+          "end": 330.12
+        },
+        {
+          "word": "dudes.",
+          "start": 330.12,
+          "end": 330.64
+        },
+        {
+          "word": "Let's",
+          "start": 330.64,
+          "end": 331.02
+        },
+        {
+          "word": "make",
+          "start": 331.02,
+          "end": 331.32
+        },
+        {
+          "word": "docs",
+          "start": 331.32,
+          "end": 331.62
+        },
+        {
+          "word": "that",
+          "start": 331.62,
+          "end": 331.84
+        },
+        {
+          "word": "slap,",
+          "start": 331.84,
+          "end": 332.32
+        },
+        {
+          "word": "plugins",
+          "start": 332.32,
+          "end": 332.74
+        },
+        {
+          "word": "that",
+          "start": 332.74,
+          "end": 332.96
+        },
+        {
+          "word": "snap,",
+          "start": 332.96,
+          "end": 333.42
+        },
+        {
+          "word": "and",
+          "start": 333.42,
+          "end": 333.68
+        },
+        {
+          "word": "keep",
+          "start": 333.68,
+          "end": 333.92
+        },
+        {
+          "word": "the",
+          "start": 333.92,
+          "end": 334.1
+        },
+        {
+          "word": "community",
+          "start": 334.1,
+          "end": 334.72
+        },
+        {
+          "word": "hyped",
+          "start": 334.72,
+          "end": 335.24
+        },
+        {
+          "word": "while",
+          "start": 335.24,
+          "end": 335.54
+        },
+        {
+          "word": "we",
+          "start": 335.54,
+          "end": 335.68
+        },
+        {
+          "word": "build",
+          "start": 335.68,
+          "end": 335.88
+        },
+        {
+          "word": "the",
+          "start": 335.88,
+          "end": 336
+        },
+        {
+          "word": "dopest",
+          "start": 336,
+          "end": 336.05
+        },
+        {
+          "word": "agents!",
+          "start": 336.05,
+          "end": 336.14
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-18_JedAI-Council_Twitter-Ban-And-Framework-Evolution.json",
+    "session_log_source": "2025-07-18_JedAI-Council_Twitter-Ban-And-Framework-Evolution_session-log.json",
+    "total_segments": 17,
+    "matched_segments": 17,
+    "dialogues_in_script": 17
+  }
+}

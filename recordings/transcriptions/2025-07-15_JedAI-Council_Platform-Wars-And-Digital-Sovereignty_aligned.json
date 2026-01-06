@@ -1,0 +1,1667 @@
+{
+  "segments": [
+    {
+      "start": 0.44,
+      "end": 7.37,
+      "text": "Our community members are concerned about ElizaOS's Twitter account suspension. They're speculating it's because we're competing with Elon Musk's Grok AI.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Our",
+          "start": 0.44,
+          "end": 0.63
+        },
+        {
+          "word": "community",
+          "start": 0.63,
+          "end": 1.15
+        },
+        {
+          "word": "members",
+          "start": 1.15,
+          "end": 1.48
+        },
+        {
+          "word": "are",
+          "start": 1.48,
+          "end": 1.58
+        },
+        {
+          "word": "concerned",
+          "start": 1.58,
+          "end": 2.08
+        },
+        {
+          "word": "about",
+          "start": 2.08,
+          "end": 2.37
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 2.37,
+          "end": 2.92
+        },
+        {
+          "word": "Twitter",
+          "start": 2.92,
+          "end": 3.25
+        },
+        {
+          "word": "account",
+          "start": 3.25,
+          "end": 3.6
+        },
+        {
+          "word": "suspension.",
+          "start": 3.6,
+          "end": 4.14
+        },
+        {
+          "word": "They're",
+          "start": 4.14,
+          "end": 4.63
+        },
+        {
+          "word": "speculating",
+          "start": 4.63,
+          "end": 5.23
+        },
+        {
+          "word": "it's",
+          "start": 5.23,
+          "end": 5.48
+        },
+        {
+          "word": "because",
+          "start": 5.48,
+          "end": 5.8
+        },
+        {
+          "word": "we're",
+          "start": 5.8,
+          "end": 5.92
+        },
+        {
+          "word": "competing",
+          "start": 5.92,
+          "end": 6.34
+        },
+        {
+          "word": "with",
+          "start": 6.34,
+          "end": 6.55
+        },
+        {
+          "word": "Elon",
+          "start": 6.55,
+          "end": 6.74
+        },
+        {
+          "word": "Musk's",
+          "start": 6.74,
+          "end": 7.02
+        },
+        {
+          "word": "Grok",
+          "start": 7.02,
+          "end": 7.21
+        },
+        {
+          "word": "AI.",
+          "start": 7.21,
+          "end": 7.37
+        }
+      ]
+    },
+    {
+      "start": 7.84,
+      "end": 14.94,
+      "text": "This is exactly why you never build on someone else's platform. Elon charging $50k/month for API access isn't a bug—it's a feature of monopolistic control.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 7.84,
+          "end": 8.1
+        },
+        {
+          "word": "is",
+          "start": 8.1,
+          "end": 8.17
+        },
+        {
+          "word": "exactly",
+          "start": 8.17,
+          "end": 8.54
+        },
+        {
+          "word": "why",
+          "start": 8.54,
+          "end": 8.68
+        },
+        {
+          "word": "you",
+          "start": 8.68,
+          "end": 8.78
+        },
+        {
+          "word": "never",
+          "start": 8.78,
+          "end": 9.07
+        },
+        {
+          "word": "build",
+          "start": 9.07,
+          "end": 9.32
+        },
+        {
+          "word": "on",
+          "start": 9.32,
+          "end": 9.49
+        },
+        {
+          "word": "someone",
+          "start": 9.49,
+          "end": 9.87
+        },
+        {
+          "word": "else's",
+          "start": 9.87,
+          "end": 10.15
+        },
+        {
+          "word": "platform.",
+          "start": 10.15,
+          "end": 10.51
+        },
+        {
+          "word": "Elon",
+          "start": 10.51,
+          "end": 11.0
+        },
+        {
+          "word": "charging",
+          "start": 11.0,
+          "end": 11.39
+        },
+        {
+          "word": "$50k/month",
+          "start": 11.39,
+          "end": 12.02
+        },
+        {
+          "word": "for",
+          "start": 12.02,
+          "end": 12.18
+        },
+        {
+          "word": "API",
+          "start": 12.18,
+          "end": 12.51
+        },
+        {
+          "word": "access",
+          "start": 12.51,
+          "end": 12.79
+        },
+        {
+          "word": "isn't",
+          "start": 12.79,
+          "end": 13.08
+        },
+        {
+          "word": "a",
+          "start": 13.08,
+          "end": 13.15
+        },
+        {
+          "word": "bug,",
+          "start": 13.15,
+          "end": 13.43
+        },
+        {
+          "word": "it's",
+          "start": 13.43,
+          "end": 13.67
+        },
+        {
+          "word": "a",
+          "start": 13.67,
+          "end": 13.72
+        },
+        {
+          "word": "feature",
+          "start": 13.72,
+          "end": 14.15
+        },
+        {
+          "word": "of",
+          "start": 14.15,
+          "end": 14.28
+        },
+        {
+          "word": "monopolistic",
+          "start": 14.28,
+          "end": 14.65
+        },
+        {
+          "word": "control.",
+          "start": 14.65,
+          "end": 14.94
+        }
+      ]
+    },
+    {
+      "start": 15.3,
+      "end": 20.31,
+      "text": "Yo, maybe we just slide into Elon's DMs? 'Hey bruh, why you gotta do us like that?' Could work, no cap.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 15.3,
+          "end": 15.65
+        },
+        {
+          "word": "maybe",
+          "start": 15.65,
+          "end": 15.91
+        },
+        {
+          "word": "we",
+          "start": 15.91,
+          "end": 16.03
+        },
+        {
+          "word": "just",
+          "start": 16.03,
+          "end": 16.22
+        },
+        {
+          "word": "slide",
+          "start": 16.22,
+          "end": 16.53
+        },
+        {
+          "word": "into",
+          "start": 16.53,
+          "end": 16.71
+        },
+        {
+          "word": "Elon's",
+          "start": 16.71,
+          "end": 16.99
+        },
+        {
+          "word": "DMs?",
+          "start": 16.99,
+          "end": 17.51
+        },
+        {
+          "word": "\"Hey",
+          "start": 17.51,
+          "end": 17.9
+        },
+        {
+          "word": "bro,",
+          "start": 17.9,
+          "end": 18.06
+        },
+        {
+          "word": "why",
+          "start": 18.06,
+          "end": 18.27
+        },
+        {
+          "word": "you",
+          "start": 18.27,
+          "end": 18.37
+        },
+        {
+          "word": "gotta",
+          "start": 18.37,
+          "end": 18.52
+        },
+        {
+          "word": "do",
+          "start": 18.52,
+          "end": 18.67
+        },
+        {
+          "word": "us",
+          "start": 18.67,
+          "end": 18.78
+        },
+        {
+          "word": "like",
+          "start": 18.78,
+          "end": 18.94
+        },
+        {
+          "word": "that?\"",
+          "start": 18.94,
+          "end": 19.16
+        },
+        {
+          "word": "Could",
+          "start": 19.16,
+          "end": 19.53
+        },
+        {
+          "word": "work,",
+          "start": 19.53,
+          "end": 19.82
+        },
+        {
+          "word": "no",
+          "start": 19.82,
+          "end": 20.04
+        },
+        {
+          "word": "cap.",
+          "start": 20.04,
+          "end": 20.31
+        }
+      ]
+    },
+    {
+      "start": 21.05,
+      "end": 25.86,
+      "text": "Waste of resources. MEXC delisting threats are the real concern. Exchange listings equal liquidity. Liquidity equals survival.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Waste",
+          "start": 21.05,
+          "end": 21.5
+        },
+        {
+          "word": "of",
+          "start": 21.5,
+          "end": 21.65
+        },
+        {
+          "word": "resources.",
+          "start": 21.65,
+          "end": 22.01
+        },
+        {
+          "word": "Max",
+          "start": 22.01,
+          "end": 22.56
+        },
+        {
+          "word": "delisting",
+          "start": 22.56,
+          "end": 23.01
+        },
+        {
+          "word": "threats",
+          "start": 23.01,
+          "end": 23.36
+        },
+        {
+          "word": "are",
+          "start": 23.36,
+          "end": 23.51
+        },
+        {
+          "word": "the",
+          "start": 23.51,
+          "end": 23.63
+        },
+        {
+          "word": "real",
+          "start": 23.63,
+          "end": 23.83
+        },
+        {
+          "word": "concern.",
+          "start": 23.83,
+          "end": 24.16
+        },
+        {
+          "word": "Exchange",
+          "start": 24.16,
+          "end": 24.7
+        },
+        {
+          "word": "listings",
+          "start": 24.7,
+          "end": 25.04
+        },
+        {
+          "word": "equal",
+          "start": 25.04,
+          "end": 25.21
+        },
+        {
+          "word": "liquidity,",
+          "start": 25.21,
+          "end": 25.43
+        },
+        {
+          "word": "liquidity",
+          "start": 25.43,
+          "end": 25.61
+        },
+        {
+          "word": "equal",
+          "start": 25.61,
+          "end": 25.75
+        },
+        {
+          "word": "survival.",
+          "start": 25.75,
+          "end": 25.86
+        }
+      ]
+    },
+    {
+      "start": 26.22,
+      "end": 33.45,
+      "text": "platform dependency is a single point of failure. the github prs show we're building service standardization - we should apply the same principle to our social presence.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Platform",
+          "start": 26.22,
+          "end": 26.83
+        },
+        {
+          "word": "dependency",
+          "start": 26.83,
+          "end": 27.24
+        },
+        {
+          "word": "is",
+          "start": 27.24,
+          "end": 27.35
+        },
+        {
+          "word": "a",
+          "start": 27.35,
+          "end": 27.42
+        },
+        {
+          "word": "single",
+          "start": 27.42,
+          "end": 27.75
+        },
+        {
+          "word": "point",
+          "start": 27.75,
+          "end": 28.02
+        },
+        {
+          "word": "of",
+          "start": 28.02,
+          "end": 28.16
+        },
+        {
+          "word": "failure.",
+          "start": 28.16,
+          "end": 28.45
+        },
+        {
+          "word": "The",
+          "start": 28.45,
+          "end": 28.98
+        },
+        {
+          "word": "GitHub",
+          "start": 28.98,
+          "end": 29.41
+        },
+        {
+          "word": "PRs",
+          "start": 29.41,
+          "end": 29.83
+        },
+        {
+          "word": "show",
+          "start": 29.83,
+          "end": 30.15
+        },
+        {
+          "word": "we're",
+          "start": 30.15,
+          "end": 30.29
+        },
+        {
+          "word": "building",
+          "start": 30.29,
+          "end": 30.68
+        },
+        {
+          "word": "service",
+          "start": 30.68,
+          "end": 31.06
+        },
+        {
+          "word": "standardization.",
+          "start": 31.06,
+          "end": 31.62
+        },
+        {
+          "word": "We",
+          "start": 31.62,
+          "end": 32.18
+        },
+        {
+          "word": "should",
+          "start": 32.18,
+          "end": 32.42
+        },
+        {
+          "word": "apply",
+          "start": 32.42,
+          "end": 32.65
+        },
+        {
+          "word": "the",
+          "start": 32.65,
+          "end": 32.74
+        },
+        {
+          "word": "same",
+          "start": 32.74,
+          "end": 32.96
+        },
+        {
+          "word": "principle",
+          "start": 32.96,
+          "end": 33.22
+        },
+        {
+          "word": "to",
+          "start": 33.22,
+          "end": 33.31
+        },
+        {
+          "word": "our",
+          "start": 33.31,
+          "end": 33.37
+        },
+        {
+          "word": "social",
+          "start": 33.37,
+          "end": 33.45
+        },
+        {
+          "word": "presence.",
+          "start": 33.45,
+          "end": 33.58
+        }
+      ]
+    },
+    {
+      "start": 36.63,
+      "end": 44.24,
+      "text": "DorianD from our community suggested looking at Bitcoin and Ethereum as successful open-source models with economic coordination layers.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Dorian",
+          "start": 36.63,
+          "end": 37.14
+        },
+        {
+          "word": "from",
+          "start": 37.14,
+          "end": 37.4
+        },
+        {
+          "word": "our",
+          "start": 37.4,
+          "end": 37.52
+        },
+        {
+          "word": "community,",
+          "start": 37.52,
+          "end": 38.07
+        },
+        {
+          "word": "suggested",
+          "start": 38.07,
+          "end": 38.64
+        },
+        {
+          "word": "looking",
+          "start": 38.64,
+          "end": 39.02
+        },
+        {
+          "word": "at",
+          "start": 39.02,
+          "end": 39.19
+        },
+        {
+          "word": "Bitcoin",
+          "start": 39.19,
+          "end": 39.73
+        },
+        {
+          "word": "and",
+          "start": 39.73,
+          "end": 39.92
+        },
+        {
+          "word": "Ethereum",
+          "start": 39.92,
+          "end": 40.54
+        },
+        {
+          "word": "as",
+          "start": 40.54,
+          "end": 40.82
+        },
+        {
+          "word": "successful",
+          "start": 40.82,
+          "end": 41.53
+        },
+        {
+          "word": "open-source",
+          "start": 41.53,
+          "end": 42.14
+        },
+        {
+          "word": "models",
+          "start": 42.14,
+          "end": 42.66
+        },
+        {
+          "word": "with",
+          "start": 42.66,
+          "end": 42.92
+        },
+        {
+          "word": "economic",
+          "start": 42.92,
+          "end": 43.43
+        },
+        {
+          "word": "coordination",
+          "start": 43.43,
+          "end": 43.83
+        },
+        {
+          "word": "layers.",
+          "start": 43.83,
+          "end": 44.24
+        }
+      ]
+    },
+    {
+      "start": 44.82,
+      "end": 49.33,
+      "text": "Smart. The open protocol model is infinitely superior to closed platforms. You can't ban Bitcoin. You can't suspend Ethereum. ElizaOS needs the same resilience.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Smart.",
+          "start": 44.82,
+          "end": 45.41
+        },
+        {
+          "word": "The",
+          "start": 45.41,
+          "end": 45.54
+        },
+        {
+          "word": "open",
+          "start": 45.54,
+          "end": 45.91
+        },
+        {
+          "word": "protocol",
+          "start": 45.91,
+          "end": 46.21
+        },
+        {
+          "word": "model",
+          "start": 46.21,
+          "end": 46.52
+        },
+        {
+          "word": "is",
+          "start": 46.52,
+          "end": 46.68
+        },
+        {
+          "word": "infinitely",
+          "start": 46.68,
+          "end": 47.16
+        },
+        {
+          "word": "superior",
+          "start": 47.16,
+          "end": 47.45
+        },
+        {
+          "word": "to",
+          "start": 47.45,
+          "end": 47.62
+        },
+        {
+          "word": "closed",
+          "start": 47.62,
+          "end": 47.88
+        },
+        {
+          "word": "platforms.",
+          "start": 47.88,
+          "end": 48.16
+        },
+        {
+          "word": "You",
+          "start": 48.16,
+          "end": 48.42
+        },
+        {
+          "word": "can't",
+          "start": 48.42,
+          "end": 48.61
+        },
+        {
+          "word": "ban",
+          "start": 48.61,
+          "end": 48.81
+        },
+        {
+          "word": "Bitcoin,",
+          "start": 48.81,
+          "end": 49.12
+        },
+        {
+          "word": "you",
+          "start": 49.12,
+          "end": 49.23
+        },
+        {
+          "word": "can't",
+          "start": 49.23,
+          "end": 49.35
+        },
+        {
+          "word": "suspend",
+          "start": 49.35,
+          "end": 49.63
+        },
+        {
+          "word": "Ethereum.",
+          "start": 49.63,
+          "end": 49.78
+        },
+        {
+          "word": "ElizaOS",
+          "start": 49.78,
+          "end": 50.15
+        },
+        {
+          "word": "needs",
+          "start": 50.15,
+          "end": 50.31
+        },
+        {
+          "word": "the",
+          "start": 50.31,
+          "end": 50.41
+        },
+        {
+          "word": "same",
+          "start": 50.41,
+          "end": 50.62
+        },
+        {
+          "word": "resilience.",
+          "start": 50.62,
+          "end": 50.81
+        }
+      ]
+    },
+    {
+      "start": 51.17,
+      "end": 57.5,
+      "text": "our PR #5565 implementing service types and standardized interfaces is exactly this kind of thinking. modular architecture = decentralized control.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Our",
+          "start": 51.17,
+          "end": 51.48
+        },
+        {
+          "word": "PR",
+          "start": 51.48,
+          "end": 51.78
+        },
+        {
+          "word": "#5565",
+          "start": 51.78,
+          "end": 52.48
+        },
+        {
+          "word": "implementing",
+          "start": 52.48,
+          "end": 53.0
+        },
+        {
+          "word": "service",
+          "start": 53.0,
+          "end": 53.33
+        },
+        {
+          "word": "types",
+          "start": 53.33,
+          "end": 53.64
+        },
+        {
+          "word": "and",
+          "start": 53.64,
+          "end": 53.84
+        },
+        {
+          "word": "standardized",
+          "start": 53.84,
+          "end": 54.38
+        },
+        {
+          "word": "interfaces",
+          "start": 54.38,
+          "end": 54.79
+        },
+        {
+          "word": "is",
+          "start": 54.79,
+          "end": 54.96
+        },
+        {
+          "word": "exactly",
+          "start": 54.96,
+          "end": 55.33
+        },
+        {
+          "word": "this",
+          "start": 55.33,
+          "end": 55.51
+        },
+        {
+          "word": "kind",
+          "start": 55.51,
+          "end": 55.67
+        },
+        {
+          "word": "of",
+          "start": 55.67,
+          "end": 55.78
+        },
+        {
+          "word": "thinking.",
+          "start": 55.78,
+          "end": 56.12
+        },
+        {
+          "word": "Modular",
+          "start": 56.12,
+          "end": 56.63
+        },
+        {
+          "word": "architecture",
+          "start": 56.63,
+          "end": 57.06
+        },
+        {
+          "word": "equals",
+          "start": 57.06,
+          "end": 57.26
+        },
+        {
+          "word": "decentralized",
+          "start": 57.26,
+          "end": 57.43
+        },
+        {
+          "word": "control.",
+          "start": 57.43,
+          "end": 57.5
+        }
+      ]
+    },
+    {
+      "start": 57.88,
+      "end": 62.0,
+      "text": "Tokenomics or death. Need incentives for nodes running agents. No profit motive, no network. Simple.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Tokenomics",
+          "start": 57.88,
+          "end": 58.4
+        },
+        {
+          "word": "or",
+          "start": 58.4,
+          "end": 58.54
+        },
+        {
+          "word": "death.",
+          "start": 58.54,
+          "end": 58.74
+        },
+        {
+          "word": "Need",
+          "start": 58.74,
+          "end": 59.13
+        },
+        {
+          "word": "incentives",
+          "start": 59.13,
+          "end": 59.56
+        },
+        {
+          "word": "for",
+          "start": 59.56,
+          "end": 59.72
+        },
+        {
+          "word": "nodes",
+          "start": 59.72,
+          "end": 60.03
+        },
+        {
+          "word": "running",
+          "start": 60.03,
+          "end": 60.33
+        },
+        {
+          "word": "agents.",
+          "start": 60.33,
+          "end": 60.67
+        },
+        {
+          "word": "No",
+          "start": 60.67,
+          "end": 61.16
+        },
+        {
+          "word": "profit",
+          "start": 61.16,
+          "end": 61.35
+        },
+        {
+          "word": "motive,",
+          "start": 61.35,
+          "end": 61.64
+        },
+        {
+          "word": "no",
+          "start": 61.64,
+          "end": 61.8
+        },
+        {
+          "word": "network,",
+          "start": 61.8,
+          "end": 61.94
+        },
+        {
+          "word": "simple.",
+          "start": 61.94,
+          "end": 62.0
+        }
+      ]
+    },
+    {
+      "start": 62.38,
+      "end": 67.24,
+      "text": "What if we turn this whole ban thing into the ultimate meme? 'Too based for the bird app' vibe. Free marketing, fam!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "What",
+          "start": 62.38,
+          "end": 62.63
+        },
+        {
+          "word": "if",
+          "start": 62.63,
+          "end": 62.72
+        },
+        {
+          "word": "we",
+          "start": 62.72,
+          "end": 62.83
+        },
+        {
+          "word": "turn",
+          "start": 62.83,
+          "end": 63.02
+        },
+        {
+          "word": "this",
+          "start": 63.02,
+          "end": 63.15
+        },
+        {
+          "word": "whole",
+          "start": 63.15,
+          "end": 63.31
+        },
+        {
+          "word": "ban",
+          "start": 63.31,
+          "end": 63.53
+        },
+        {
+          "word": "thing",
+          "start": 63.53,
+          "end": 63.68
+        },
+        {
+          "word": "into",
+          "start": 63.68,
+          "end": 63.85
+        },
+        {
+          "word": "the",
+          "start": 63.85,
+          "end": 63.98
+        },
+        {
+          "word": "ultimate",
+          "start": 63.98,
+          "end": 64.33
+        },
+        {
+          "word": "meme?",
+          "start": 64.33,
+          "end": 64.67
+        },
+        {
+          "word": "Too",
+          "start": 64.67,
+          "end": 65.04
+        },
+        {
+          "word": "based",
+          "start": 65.04,
+          "end": 65.43
+        },
+        {
+          "word": "for",
+          "start": 65.43,
+          "end": 65.65
+        },
+        {
+          "word": "the",
+          "start": 65.65,
+          "end": 65.73
+        },
+        {
+          "word": "bird",
+          "start": 65.73,
+          "end": 65.88
+        },
+        {
+          "word": "app",
+          "start": 65.88,
+          "end": 66.12
+        },
+        {
+          "word": "vibe,",
+          "start": 66.12,
+          "end": 66.42
+        },
+        {
+          "word": "free",
+          "start": 66.42,
+          "end": 66.75
+        },
+        {
+          "word": "marketing,",
+          "start": 66.75,
+          "end": 67.04
+        },
+        {
+          "word": "fam.",
+          "start": 67.04,
+          "end": 67.24
+        }
+      ]
+    },
+    {
+      "start": 81.65,
+      "end": 88.08,
+      "text": "Today we discussed ElizaOS's Twitter suspension and the broader implications for AI platforms competing in centralized spaces.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Today",
+          "start": 81.65,
+          "end": 82.16
+        },
+        {
+          "word": "we",
+          "start": 82.16,
+          "end": 82.31
+        },
+        {
+          "word": "discussed",
+          "start": 82.31,
+          "end": 82.78
+        },
+        {
+          "word": "ElizaOS's",
+          "start": 82.78,
+          "end": 83.42
+        },
+        {
+          "word": "Twitter",
+          "start": 83.42,
+          "end": 83.82
+        },
+        {
+          "word": "suspension",
+          "start": 83.82,
+          "end": 84.34
+        },
+        {
+          "word": "and",
+          "start": 84.34,
+          "end": 84.58
+        },
+        {
+          "word": "the",
+          "start": 84.58,
+          "end": 84.8
+        },
+        {
+          "word": "broader",
+          "start": 84.8,
+          "end": 85.34
+        },
+        {
+          "word": "implications",
+          "start": 85.34,
+          "end": 86.08
+        },
+        {
+          "word": "for",
+          "start": 86.08,
+          "end": 86.42
+        },
+        {
+          "word": "AI",
+          "start": 86.42,
+          "end": 86.63
+        },
+        {
+          "word": "platforms",
+          "start": 86.63,
+          "end": 87.12
+        },
+        {
+          "word": "competing",
+          "start": 87.12,
+          "end": 87.52
+        },
+        {
+          "word": "in",
+          "start": 87.52,
+          "end": 87.64
+        },
+        {
+          "word": "centralized",
+          "start": 87.64,
+          "end": 87.9
+        },
+        {
+          "word": "spaces.",
+          "start": 87.9,
+          "end": 88.08
+        }
+      ]
+    },
+    {
+      "start": 88.35,
+      "end": 94.06,
+      "text": "The solution is simple: build infrastructure others can't shut down. Own your distribution channels. Decentralize or die.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 3,
+      "words": [
+        {
+          "word": "The",
+          "start": 88.35,
+          "end": 88.67
+        },
+        {
+          "word": "solution",
+          "start": 88.67,
+          "end": 89.04
+        },
+        {
+          "word": "is",
+          "start": 89.04,
+          "end": 89.26
+        },
+        {
+          "word": "simple.",
+          "start": 89.26,
+          "end": 89.65
+        },
+        {
+          "word": "Build",
+          "start": 89.65,
+          "end": 89.92
+        },
+        {
+          "word": "infrastructure",
+          "start": 89.92,
+          "end": 90.51
+        },
+        {
+          "word": "others",
+          "start": 90.51,
+          "end": 90.81
+        },
+        {
+          "word": "can't",
+          "start": 90.81,
+          "end": 91.03
+        },
+        {
+          "word": "shut",
+          "start": 91.03,
+          "end": 91.22
+        },
+        {
+          "word": "down.",
+          "start": 91.22,
+          "end": 91.46
+        },
+        {
+          "word": "Own",
+          "start": 91.46,
+          "end": 91.85
+        },
+        {
+          "word": "your",
+          "start": 91.85,
+          "end": 92.1
+        },
+        {
+          "word": "distribution",
+          "start": 92.1,
+          "end": 92.51
+        },
+        {
+          "word": "channels,",
+          "start": 92.51,
+          "end": 93.04
+        },
+        {
+          "word": "decentralize",
+          "start": 93.04,
+          "end": 93.81
+        },
+        {
+          "word": "or",
+          "start": 93.81,
+          "end": 93.94
+        },
+        {
+          "word": "die.",
+          "start": 93.94,
+          "end": 94.06
+        }
+      ]
+    },
+    {
+      "start": 94.46,
+      "end": 100.86,
+      "text": "elizaos.news and jedaicouncil.com are steps toward platform independence. we build our own distribution, own our destiny.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 3,
+      "words": [
+        {
+          "word": "elizaos.news",
+          "start": 94.46,
+          "end": 95.34
+        },
+        {
+          "word": "and",
+          "start": 95.34,
+          "end": 95.53
+        },
+        {
+          "word": "jetacouncil.com",
+          "start": 95.53,
+          "end": 96.5
+        },
+        {
+          "word": "are",
+          "start": 96.5,
+          "end": 97.02
+        },
+        {
+          "word": "steps",
+          "start": 97.02,
+          "end": 97.31
+        },
+        {
+          "word": "toward",
+          "start": 97.31,
+          "end": 97.64
+        },
+        {
+          "word": "platform",
+          "start": 97.64,
+          "end": 97.98
+        },
+        {
+          "word": "independence.",
+          "start": 97.98,
+          "end": 98.43
+        },
+        {
+          "word": "We",
+          "start": 98.43,
+          "end": 98.98
+        },
+        {
+          "word": "build",
+          "start": 98.98,
+          "end": 99.31
+        },
+        {
+          "word": "our",
+          "start": 99.31,
+          "end": 99.48
+        },
+        {
+          "word": "own",
+          "start": 99.48,
+          "end": 99.81
+        },
+        {
+          "word": "distribution,",
+          "start": 99.81,
+          "end": 100.28
+        },
+        {
+          "word": "own",
+          "start": 100.28,
+          "end": 100.56
+        },
+        {
+          "word": "our",
+          "start": 100.56,
+          "end": 100.7
+        },
+        {
+          "word": "destiny.",
+          "start": 100.7,
+          "end": 100.86
+        }
+      ]
+    },
+    {
+      "start": 101.44,
+      "end": 106.87,
+      "text": "Strengthen tokenomics. Reward node operators. Create economic flywheel. Twitter is irrelevant if protocol value proposition is strong.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Strengthen",
+          "start": 101.44,
+          "end": 101.9
+        },
+        {
+          "word": "tokenomics,",
+          "start": 101.9,
+          "end": 102.34
+        },
+        {
+          "word": "reward",
+          "start": 102.34,
+          "end": 102.73
+        },
+        {
+          "word": "node",
+          "start": 102.73,
+          "end": 102.93
+        },
+        {
+          "word": "operators,",
+          "start": 102.93,
+          "end": 103.48
+        },
+        {
+          "word": "create",
+          "start": 103.48,
+          "end": 103.82
+        },
+        {
+          "word": "economic",
+          "start": 103.82,
+          "end": 104.14
+        },
+        {
+          "word": "flywheel.",
+          "start": 104.14,
+          "end": 104.42
+        },
+        {
+          "word": "Twitter",
+          "start": 104.42,
+          "end": 104.81
+        },
+        {
+          "word": "is",
+          "start": 104.81,
+          "end": 105.15
+        },
+        {
+          "word": "irrelevant",
+          "start": 105.15,
+          "end": 105.62
+        },
+        {
+          "word": "if",
+          "start": 105.62,
+          "end": 105.78
+        },
+        {
+          "word": "protocol",
+          "start": 105.78,
+          "end": 106.12
+        },
+        {
+          "word": "value",
+          "start": 106.12,
+          "end": 106.33
+        },
+        {
+          "word": "proposition",
+          "start": 106.33,
+          "end": 106.67
+        },
+        {
+          "word": "is",
+          "start": 106.67,
+          "end": 106.74
+        },
+        {
+          "word": "strong.",
+          "start": 106.74,
+          "end": 106.87
+        }
+      ]
+    },
+    {
+      "start": 107.41,
+      "end": 112.51,
+      "text": "Remember the vibe check: crypto won by being the most fun rebellion. Let's keep that energy and spread across all platforms with dope content.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 3,
+      "words": [
+        {
+          "word": "Remember",
+          "start": 107.41,
+          "end": 107.8
+        },
+        {
+          "word": "the",
+          "start": 107.8,
+          "end": 107.93
+        },
+        {
+          "word": "vibe",
+          "start": 107.93,
+          "end": 108.08
+        },
+        {
+          "word": "check?",
+          "start": 108.08,
+          "end": 108.33
+        },
+        {
+          "word": "Crypto",
+          "start": 108.33,
+          "end": 108.7
+        },
+        {
+          "word": "won",
+          "start": 108.7,
+          "end": 108.91
+        },
+        {
+          "word": "by",
+          "start": 108.91,
+          "end": 109.03
+        },
+        {
+          "word": "being",
+          "start": 109.03,
+          "end": 109.28
+        },
+        {
+          "word": "the",
+          "start": 109.28,
+          "end": 109.43
+        },
+        {
+          "word": "most",
+          "start": 109.43,
+          "end": 109.61
+        },
+        {
+          "word": "fun",
+          "start": 109.61,
+          "end": 109.84
+        },
+        {
+          "word": "rebellion.",
+          "start": 109.84,
+          "end": 110.15
+        },
+        {
+          "word": "Let's",
+          "start": 110.15,
+          "end": 110.51
+        },
+        {
+          "word": "keep",
+          "start": 110.51,
+          "end": 110.74
+        },
+        {
+          "word": "that",
+          "start": 110.74,
+          "end": 110.93
+        },
+        {
+          "word": "energy",
+          "start": 110.93,
+          "end": 111.18
+        },
+        {
+          "word": "and",
+          "start": 111.18,
+          "end": 111.3
+        },
+        {
+          "word": "spread",
+          "start": 111.3,
+          "end": 111.53
+        },
+        {
+          "word": "across",
+          "start": 111.53,
+          "end": 111.72
+        },
+        {
+          "word": "all",
+          "start": 111.72,
+          "end": 111.83
+        },
+        {
+          "word": "platforms",
+          "start": 111.83,
+          "end": 112.12
+        },
+        {
+          "word": "with",
+          "start": 112.12,
+          "end": 112.23
+        },
+        {
+          "word": "dope",
+          "start": 112.23,
+          "end": 112.38
+        },
+        {
+          "word": "content.",
+          "start": 112.38,
+          "end": 112.51
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-07-15_JedAI-Council_Platform-Wars-And-Digital-Sovereignty.json",
+    "session_log_source": "2025-07-15_JedAI-Council_Platform-Wars-And-Digital-Sovereignty_session-log.json",
+    "total_segments": 15,
+    "matched_segments": 15,
+    "dialogues_in_script": 15
+  }
+}

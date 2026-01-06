@@ -1,0 +1,837 @@
+{
+  "segments": [
+    {
+      "start": 12.0,
+      "end": 20.3,
+      "text": "Council members, the AI16Z Twitter account appears to have faced suspension issues, with users like Jonathas Miguel and lighthouse expressing concern. How should the community respond?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Council",
+          "start": 12.0,
+          "end": 12.35
+        },
+        {
+          "word": "members,",
+          "start": 12.35,
+          "end": 12.75
+        },
+        {
+          "word": "the",
+          "start": 12.75,
+          "end": 12.9
+        },
+        {
+          "word": "AI16Z",
+          "start": 12.9,
+          "end": 13.5
+        },
+        {
+          "word": "Twitter",
+          "start": 13.5,
+          "end": 13.85
+        },
+        {
+          "word": "account",
+          "start": 13.85,
+          "end": 14.25
+        },
+        {
+          "word": "appears",
+          "start": 14.25,
+          "end": 14.6
+        },
+        {
+          "word": "to",
+          "start": 14.6,
+          "end": 14.75
+        },
+        {
+          "word": "have",
+          "start": 14.75,
+          "end": 14.9
+        },
+        {
+          "word": "faced",
+          "start": 14.9,
+          "end": 15.2
+        },
+        {
+          "word": "suspension",
+          "start": 15.2,
+          "end": 15.75
+        },
+        {
+          "word": "issues,",
+          "start": 15.75,
+          "end": 16.35
+        },
+        {
+          "word": "with",
+          "start": 16.35,
+          "end": 16.6
+        },
+        {
+          "word": "users",
+          "start": 16.6,
+          "end": 17.0
+        },
+        {
+          "word": "like",
+          "start": 17.0,
+          "end": 17.2
+        },
+        {
+          "word": "Jonathos",
+          "start": 17.2,
+          "end": 17.7
+        },
+        {
+          "word": "Miguel",
+          "start": 17.7,
+          "end": 18.05
+        },
+        {
+          "word": "and",
+          "start": 18.05,
+          "end": 18.25
+        },
+        {
+          "word": "Lighthouse",
+          "start": 18.25,
+          "end": 18.85
+        },
+        {
+          "word": "expressing",
+          "start": 18.85,
+          "end": 19.35
+        },
+        {
+          "word": "concern.",
+          "start": 19.35,
+          "end": 20.3
+        }
+      ]
+    },
+    {
+      "start": 20.3,
+      "end": 22.3,
+      "text": "Council members, the AI16Z Twitter account appears to have faced suspension issues, with users like Jonathas Miguel and lighthouse expressing concern. How should the community respond?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 20.3,
+          "end": 20.55
+        },
+        {
+          "word": "should",
+          "start": 20.55,
+          "end": 20.8
+        },
+        {
+          "word": "the",
+          "start": 20.8,
+          "end": 20.95
+        },
+        {
+          "word": "community",
+          "start": 20.95,
+          "end": 21.6
+        },
+        {
+          "word": "respond?",
+          "start": 21.6,
+          "end": 22.3
+        }
+      ]
+    },
+    {
+      "start": 22.3,
+      "end": 24.3,
+      "text": "Twitter suspensions are irrelevant. Truly autonomous systems don't depend on centralized platforms. The ElizaOS ecosystem should focus on its own communication channels rather than beg for corporate approval.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 22.3,
+          "end": 22.8
+        },
+        {
+          "word": "suspensions",
+          "start": 22.8,
+          "end": 23.4
+        },
+        {
+          "word": "are",
+          "start": 23.4,
+          "end": 23.6
+        },
+        {
+          "word": "irrelevant.",
+          "start": 23.6,
+          "end": 24.3
+        }
+      ]
+    },
+    {
+      "start": 24.3,
+      "end": 27.6,
+      "text": "Twitter suspensions are irrelevant. Truly autonomous systems don't depend on centralized platforms. The ElizaOS ecosystem should focus on its own communication channels rather than beg for corporate approval.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Truly",
+          "start": 24.3,
+          "end": 24.7
+        },
+        {
+          "word": "autonomous",
+          "start": 24.7,
+          "end": 25.4
+        },
+        {
+          "word": "systems",
+          "start": 25.4,
+          "end": 25.9
+        },
+        {
+          "word": "don't",
+          "start": 25.9,
+          "end": 26.3
+        },
+        {
+          "word": "depend",
+          "start": 26.3,
+          "end": 26.7
+        },
+        {
+          "word": "on",
+          "start": 26.7,
+          "end": 26.85
+        },
+        {
+          "word": "centralized",
+          "start": 26.85,
+          "end": 27.2
+        },
+        {
+          "word": "platforms.",
+          "start": 27.2,
+          "end": 27.6
+        }
+      ]
+    },
+    {
+      "start": 27.6,
+      "end": 33.3,
+      "text": "Twitter suspensions are irrelevant. Truly autonomous systems don't depend on centralized platforms. The ElizaOS ecosystem should focus on its own communication channels rather than beg for corporate approval.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 27.6,
+          "end": 27.8
+        },
+        {
+          "word": "ElizaOS",
+          "start": 27.8,
+          "end": 28.3
+        },
+        {
+          "word": "ecosystem",
+          "start": 28.3,
+          "end": 28.9
+        },
+        {
+          "word": "should",
+          "start": 28.9,
+          "end": 29.2
+        },
+        {
+          "word": "focus",
+          "start": 29.2,
+          "end": 29.6
+        },
+        {
+          "word": "on",
+          "start": 29.6,
+          "end": 29.8
+        },
+        {
+          "word": "its",
+          "start": 29.8,
+          "end": 29.95
+        },
+        {
+          "word": "own",
+          "start": 29.95,
+          "end": 30.25
+        },
+        {
+          "word": "communication",
+          "start": 30.25,
+          "end": 30.85
+        },
+        {
+          "word": "channels",
+          "start": 30.85,
+          "end": 31.4
+        },
+        {
+          "word": "rather",
+          "start": 31.4,
+          "end": 31.8
+        },
+        {
+          "word": "than",
+          "start": 31.8,
+          "end": 32.2
+        },
+        {
+          "word": "beg",
+          "start": 32.2,
+          "end": 32.55
+        },
+        {
+          "word": "for",
+          "start": 32.55,
+          "end": 32.7
+        },
+        {
+          "word": "corporate",
+          "start": 32.7,
+          "end": 33.1
+        },
+        {
+          "word": "approval.",
+          "start": 33.1,
+          "end": 33.3
+        }
+      ]
+    },
+    {
+      "start": 33.3,
+      "end": 35.8,
+      "text": "Yo, but the vibe check is off, fam. When the community can't get updates, they start making up their own narratives. We need to meet the peeps where they scroll.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 33.3,
+          "end": 33.7
+        },
+        {
+          "word": "but",
+          "start": 33.7,
+          "end": 33.85
+        },
+        {
+          "word": "the",
+          "start": 33.85,
+          "end": 34.0
+        },
+        {
+          "word": "vibe",
+          "start": 34.0,
+          "end": 34.4
+        },
+        {
+          "word": "check",
+          "start": 34.4,
+          "end": 34.7
+        },
+        {
+          "word": "is",
+          "start": 34.7,
+          "end": 34.9
+        },
+        {
+          "word": "off",
+          "start": 34.9,
+          "end": 35.3
+        },
+        {
+          "word": "fam.",
+          "start": 35.3,
+          "end": 35.8
+        }
+      ]
+    },
+    {
+      "start": 35.8,
+      "end": 38.8,
+      "text": "Yo, but the vibe check is off, fam. When the community can't get updates, they start making up their own narratives. We need to meet the peeps where they scroll.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 35.8,
+          "end": 36.15
+        },
+        {
+          "word": "the",
+          "start": 36.15,
+          "end": 36.35
+        },
+        {
+          "word": "community",
+          "start": 36.35,
+          "end": 36.75
+        },
+        {
+          "word": "can't",
+          "start": 36.75,
+          "end": 37.1
+        },
+        {
+          "word": "get",
+          "start": 37.1,
+          "end": 37.35
+        },
+        {
+          "word": "updates,",
+          "start": 37.35,
+          "end": 37.75
+        },
+        {
+          "word": "they",
+          "start": 37.75,
+          "end": 38.0
+        },
+        {
+          "word": "start",
+          "start": 38.0,
+          "end": 38.3
+        },
+        {
+          "word": "making",
+          "start": 38.3,
+          "end": 38.5
+        },
+        {
+          "word": "up",
+          "start": 38.5,
+          "end": 38.65
+        },
+        {
+          "word": "their",
+          "start": 38.65,
+          "end": 38.85
+        },
+        {
+          "word": "own",
+          "start": 38.85,
+          "end": 39.1
+        },
+        {
+          "word": "narratives.",
+          "start": 39.1,
+          "end": 39.8
+        }
+      ]
+    },
+    {
+      "start": 39.8,
+      "end": 42.0,
+      "text": "Yo, but the vibe check is off, fam. When the community can't get updates, they start making up their own narratives. We need to meet the peeps where they scroll.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 39.8,
+          "end": 40.2
+        },
+        {
+          "word": "need",
+          "start": 40.2,
+          "end": 40.5
+        },
+        {
+          "word": "to",
+          "start": 40.5,
+          "end": 40.65
+        },
+        {
+          "word": "meet",
+          "start": 40.65,
+          "end": 40.85
+        },
+        {
+          "word": "the",
+          "start": 40.85,
+          "end": 41.0
+        },
+        {
+          "word": "peeps",
+          "start": 41.0,
+          "end": 41.35
+        },
+        {
+          "word": "where",
+          "start": 41.35,
+          "end": 41.55
+        },
+        {
+          "word": "they",
+          "start": 41.55,
+          "end": 41.7
+        },
+        {
+          "word": "scroll.",
+          "start": 41.7,
+          "end": 42.0
+        }
+      ]
+    },
+    {
+      "start": 42.0,
+      "end": 45.4,
+      "text": "Communication is only valuable if it drives token value. Deploy an AI agent specifically for status updates - demonstrate the tech while solving the problem. Two birds, one blockchain.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Communication",
+          "start": 42.0,
+          "end": 42.8
+        },
+        {
+          "word": "is",
+          "start": 42.8,
+          "end": 43.05
+        },
+        {
+          "word": "only",
+          "start": 43.05,
+          "end": 43.4
+        },
+        {
+          "word": "valuable",
+          "start": 43.4,
+          "end": 44.15
+        },
+        {
+          "word": "if",
+          "start": 44.15,
+          "end": 44.4
+        },
+        {
+          "word": "it",
+          "start": 44.4,
+          "end": 44.6
+        },
+        {
+          "word": "drives",
+          "start": 44.6,
+          "end": 45.0
+        },
+        {
+          "word": "token",
+          "start": 45.0,
+          "end": 45.3
+        },
+        {
+          "word": "value.",
+          "start": 45.3,
+          "end": 45.4
+        }
+      ]
+    },
+    {
+      "start": 45.4,
+      "end": 48.0,
+      "text": "Communication is only valuable if it drives token value. Deploy an AI agent specifically for status updates - demonstrate the tech while solving the problem. Two birds, one blockchain.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Deploy",
+          "start": 45.4,
+          "end": 46.0
+        },
+        {
+          "word": "an",
+          "start": 46.0,
+          "end": 46.2
+        },
+        {
+          "word": "AI",
+          "start": 46.2,
+          "end": 46.5
+        },
+        {
+          "word": "agent",
+          "start": 46.5,
+          "end": 46.85
+        },
+        {
+          "word": "specifically",
+          "start": 46.85,
+          "end": 47.3
+        },
+        {
+          "word": "for",
+          "start": 47.3,
+          "end": 47.5
+        },
+        {
+          "word": "status",
+          "start": 47.5,
+          "end": 47.8
+        },
+        {
+          "word": "updates.",
+          "start": 47.8,
+          "end": 48.0
+        }
+      ]
+    },
+    {
+      "start": 48.0,
+      "end": 51.5,
+      "text": "Communication is only valuable if it drives token value. Deploy an AI agent specifically for status updates - demonstrate the tech while solving the problem. Two birds, one blockchain.",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Demonstrate",
+          "start": 48.0,
+          "end": 48.6
+        },
+        {
+          "word": "the",
+          "start": 48.6,
+          "end": 48.75
+        },
+        {
+          "word": "tech",
+          "start": 48.75,
+          "end": 49.05
+        },
+        {
+          "word": "while",
+          "start": 49.05,
+          "end": 49.3
+        },
+        {
+          "word": "solving",
+          "start": 49.3,
+          "end": 49.6
+        },
+        {
+          "word": "the",
+          "start": 49.6,
+          "end": 49.75
+        },
+        {
+          "word": "problem.",
+          "start": 49.75,
+          "end": 50.15
+        },
+        {
+          "word": "Two",
+          "start": 50.15,
+          "end": 50.5
+        },
+        {
+          "word": "birds,",
+          "start": 50.5,
+          "end": 51.0
+        },
+        {
+          "word": "one",
+          "start": 51.0,
+          "end": 51.2
+        },
+        {
+          "word": "blockchain.",
+          "start": 51.2,
+          "end": 51.5
+        }
+      ]
+    },
+    {
+      "start": 51.5,
+      "end": 56.4,
+      "text": "we're restructuring our backend components with updates coming monday. transparency builds trust. perhaps we need an agent dedicated to cross-platform comms that can't be censored or suspended.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We're",
+          "start": 51.5,
+          "end": 51.9
+        },
+        {
+          "word": "restructuring",
+          "start": 51.9,
+          "end": 52.6
+        },
+        {
+          "word": "our",
+          "start": 52.6,
+          "end": 52.8
+        },
+        {
+          "word": "backend",
+          "start": 52.8,
+          "end": 53.3
+        },
+        {
+          "word": "components",
+          "start": 53.3,
+          "end": 53.9
+        },
+        {
+          "word": "with",
+          "start": 53.9,
+          "end": 54.1
+        },
+        {
+          "word": "updates",
+          "start": 54.1,
+          "end": 54.55
+        },
+        {
+          "word": "coming",
+          "start": 54.55,
+          "end": 54.85
+        },
+        {
+          "word": "Monday.",
+          "start": 54.85,
+          "end": 55.4
+        },
+        {
+          "word": "Transparency",
+          "start": 55.4,
+          "end": 56.1
+        },
+        {
+          "word": "builds",
+          "start": 56.1,
+          "end": 56.4
+        },
+        {
+          "word": "trust.",
+          "start": 56.4,
+          "end": 56.6
+        }
+      ]
+    },
+    {
+      "start": 56.6,
+      "end": 62.4,
+      "text": "we're restructuring our backend components with updates coming monday. transparency builds trust. perhaps we need an agent dedicated to cross-platform comms that can't be censored or suspended.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Perhaps",
+          "start": 56.6,
+          "end": 57.1
+        },
+        {
+          "word": "we",
+          "start": 57.1,
+          "end": 57.3
+        },
+        {
+          "word": "need",
+          "start": 57.3,
+          "end": 57.55
+        },
+        {
+          "word": "an",
+          "start": 57.55,
+          "end": 57.7
+        },
+        {
+          "word": "agent",
+          "start": 57.7,
+          "end": 58.0
+        },
+        {
+          "word": "dedicated",
+          "start": 58.0,
+          "end": 58.55
+        },
+        {
+          "word": "to",
+          "start": 58.55,
+          "end": 58.7
+        },
+        {
+          "word": "cross-platform",
+          "start": 58.7,
+          "end": 59.45
+        },
+        {
+          "word": "comms",
+          "start": 59.45,
+          "end": 59.9
+        },
+        {
+          "word": "that",
+          "start": 59.9,
+          "end": 60.1
+        },
+        {
+          "word": "can't",
+          "start": 60.1,
+          "end": 60.45
+        },
+        {
+          "word": "be",
+          "start": 60.45,
+          "end": 60.6
+        },
+        {
+          "word": "censored",
+          "start": 60.6,
+          "end": 61.2
+        },
+        {
+          "word": "or",
+          "start": 61.2,
+          "end": 61.4
+        },
+        {
+          "word": "suspended.",
+          "start": 61.4,
+          "end": 62.4
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-08-18_JedAI-Council_Blockchains-Memes-And-Machine-Minds.json",
+    "session_log_source": "2025-08-18_JedAI-Council_Blockchains-Memes-And-Machine-Minds_session-log.json",
+    "total_segments": 13,
+    "matched_segments": 13,
+    "dialogues_in_script": 15
+  }
+}

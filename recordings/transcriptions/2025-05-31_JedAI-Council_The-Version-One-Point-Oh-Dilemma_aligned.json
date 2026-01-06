@@ -1,0 +1,1682 @@
+{
+  "segments": [
+    {
+      "start": 12.33,
+      "end": 14.82,
+      "text": "The community is concerned about the timing of ElizaOS's transition from v2 beta to v1.0.0. Shaw mentioned postponing the release to ensure technical readiness, but some feel enthusiasm is waning.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 12.33,
+          "end": 12.55
+        },
+        {
+          "word": "community",
+          "start": 12.55,
+          "end": 13.06
+        },
+        {
+          "word": "is",
+          "start": 13.06,
+          "end": 13.19
+        },
+        {
+          "word": "concerned",
+          "start": 13.19,
+          "end": 13.73
+        },
+        {
+          "word": "about",
+          "start": 13.73,
+          "end": 14.07
+        },
+        {
+          "word": "the",
+          "start": 14.07,
+          "end": 14.24
+        },
+        {
+          "word": "timing",
+          "start": 14.24,
+          "end": 14.65
+        },
+        {
+          "word": "of",
+          "start": 14.65,
+          "end": 14.82
+        }
+      ]
+    },
+    {
+      "start": 14.84,
+      "end": 18.23,
+      "text": "The community is concerned about the timing of ElizaOS's transition from v2 beta to v1.0.0. Shaw mentioned postponing the release to ensure technical readiness, but some feel enthusiasm is waning.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Eliza",
+          "start": 14.84,
+          "end": 15.34
+        },
+        {
+          "word": "OS's",
+          "start": 15.34,
+          "end": 15.42
+        },
+        {
+          "word": "transition",
+          "start": 15.42,
+          "end": 16.03
+        },
+        {
+          "word": "from",
+          "start": 16.03,
+          "end": 16.32
+        },
+        {
+          "word": "v2-beta",
+          "start": 16.32,
+          "end": 17.06
+        },
+        {
+          "word": "to",
+          "start": 17.06,
+          "end": 17.22
+        },
+        {
+          "word": "v1",
+          "start": 17.22,
+          "end": 17.51
+        },
+        {
+          "word": "0.0.",
+          "start": 17.51,
+          "end": 18.23
+        }
+      ]
+    },
+    {
+      "start": 18.42,
+      "end": 22.04,
+      "text": "The community is concerned about the timing of ElizaOS's transition from v2 beta to v1.0.0. Shaw mentioned postponing the release to ensure technical readiness, but some feel enthusiasm is waning.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Shaw",
+          "start": 18.42,
+          "end": 18.73
+        },
+        {
+          "word": "mentioned",
+          "start": 18.73,
+          "end": 19.3
+        },
+        {
+          "word": "postponing",
+          "start": 19.3,
+          "end": 19.89
+        },
+        {
+          "word": "the",
+          "start": 19.89,
+          "end": 20.08
+        },
+        {
+          "word": "release",
+          "start": 20.08,
+          "end": 20.5
+        },
+        {
+          "word": "to",
+          "start": 20.5,
+          "end": 20.67
+        },
+        {
+          "word": "ensure",
+          "start": 20.67,
+          "end": 21.05
+        },
+        {
+          "word": "technical",
+          "start": 21.05,
+          "end": 21.56
+        },
+        {
+          "word": "readiness,",
+          "start": 21.56,
+          "end": 22.04
+        }
+      ]
+    },
+    {
+      "start": 22.18,
+      "end": 24.3,
+      "text": "The community is concerned about the timing of ElizaOS's transition from v2 beta to v1.0.0. Shaw mentioned postponing the release to ensure technical readiness, but some feel enthusiasm is waning.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "but",
+          "start": 22.18,
+          "end": 22.42
+        },
+        {
+          "word": "some",
+          "start": 22.42,
+          "end": 22.7
+        },
+        {
+          "word": "feel",
+          "start": 22.7,
+          "end": 23.01
+        },
+        {
+          "word": "enthusiasm",
+          "start": 23.01,
+          "end": 23.68
+        },
+        {
+          "word": "is",
+          "start": 23.68,
+          "end": 23.86
+        },
+        {
+          "word": "waning.",
+          "start": 23.86,
+          "end": 24.3
+        }
+      ]
+    },
+    {
+      "start": 24.96,
+      "end": 27.56,
+      "text": "Ship when it's GREAT, not when it's merely DONE. History forgets delays but remembers failures. The soft launch to partners is strategic brilliance.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Ship",
+          "start": 24.96,
+          "end": 25.26
+        },
+        {
+          "word": "it",
+          "start": 25.26,
+          "end": 25.37
+        },
+        {
+          "word": "when",
+          "start": 25.37,
+          "end": 25.56
+        },
+        {
+          "word": "it's",
+          "start": 25.56,
+          "end": 25.75
+        },
+        {
+          "word": "great,",
+          "start": 25.75,
+          "end": 26.2
+        },
+        {
+          "word": "not",
+          "start": 26.27,
+          "end": 26.5
+        },
+        {
+          "word": "when",
+          "start": 26.5,
+          "end": 26.68
+        },
+        {
+          "word": "it's",
+          "start": 26.68,
+          "end": 26.85
+        },
+        {
+          "word": "merely",
+          "start": 26.85,
+          "end": 27.22
+        },
+        {
+          "word": "done.",
+          "start": 27.22,
+          "end": 27.56
+        }
+      ]
+    },
+    {
+      "start": 27.7,
+      "end": 30.68,
+      "text": "Ship when it's GREAT, not when it's merely DONE. History forgets delays but remembers failures. The soft launch to partners is strategic brilliance.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "History",
+          "start": 27.7,
+          "end": 28.17
+        },
+        {
+          "word": "forgets",
+          "start": 28.17,
+          "end": 28.66
+        },
+        {
+          "word": "delays",
+          "start": 28.66,
+          "end": 29.15
+        },
+        {
+          "word": "but",
+          "start": 29.35,
+          "end": 29.62
+        },
+        {
+          "word": "remembers",
+          "start": 29.62,
+          "end": 30.13
+        },
+        {
+          "word": "failures.",
+          "start": 30.13,
+          "end": 30.68
+        }
+      ]
+    },
+    {
+      "start": 30.7,
+      "end": 34,
+      "text": "Ship when it's GREAT, not when it's merely DONE. History forgets delays but remembers failures. The soft launch to partners is strategic brilliance.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 30.7,
+          "end": 30.85
+        },
+        {
+          "word": "soft",
+          "start": 30.85,
+          "end": 31.14
+        },
+        {
+          "word": "launch",
+          "start": 31.14,
+          "end": 31.5
+        },
+        {
+          "word": "to",
+          "start": 31.5,
+          "end": 31.71
+        },
+        {
+          "word": "partners",
+          "start": 31.71,
+          "end": 32.25
+        },
+        {
+          "word": "is",
+          "start": 32.25,
+          "end": 32.4
+        },
+        {
+          "word": "strategic",
+          "start": 32.4,
+          "end": 32.99
+        },
+        {
+          "word": "brilliance.",
+          "start": 32.99,
+          "end": 34
+        }
+      ]
+    },
+    {
+      "start": 34.02,
+      "end": 36.96,
+      "text": "But yo, the vibe check ain't passing! When you got 175 repos changing simultaneously, the hype train can derail before it reaches the station, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "But",
+          "start": 34.02,
+          "end": 34.2
+        },
+        {
+          "word": "yo,",
+          "start": 34.2,
+          "end": 34.54
+        },
+        {
+          "word": "the",
+          "start": 34.78,
+          "end": 34.93
+        },
+        {
+          "word": "vibe",
+          "start": 34.93,
+          "end": 35.25
+        },
+        {
+          "word": "check",
+          "start": 35.25,
+          "end": 35.59
+        },
+        {
+          "word": "ain't",
+          "start": 35.59,
+          "end": 36.42
+        },
+        {
+          "word": "passing.",
+          "start": 36.42,
+          "end": 36.96
+        }
+      ]
+    },
+    {
+      "start": 37.04,
+      "end": 40,
+      "text": "But yo, the vibe check ain't passing! When you got 175 repos changing simultaneously, the hype train can derail before it reaches the station, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "When",
+          "start": 37.04,
+          "end": 37.29
+        },
+        {
+          "word": "you",
+          "start": 37.29,
+          "end": 37.45
+        },
+        {
+          "word": "got",
+          "start": 37.45,
+          "end": 37.66
+        },
+        {
+          "word": "175",
+          "start": 37.66,
+          "end": 38.48
+        },
+        {
+          "word": "repos",
+          "start": 38.48,
+          "end": 38.9
+        },
+        {
+          "word": "changing",
+          "start": 38.9,
+          "end": 39.29
+        },
+        {
+          "word": "simultaneously",
+          "start": 39.29,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "start": 40.08,
+      "end": 43.68,
+      "text": "But yo, the vibe check ain't passing! When you got 175 repos changing simultaneously, the hype train can derail before it reaches the station, my dudes.",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "the",
+          "start": 40.08,
+          "end": 40.24
+        },
+        {
+          "word": "hype",
+          "start": 40.24,
+          "end": 40.54
+        },
+        {
+          "word": "train",
+          "start": 40.54,
+          "end": 40.85
+        },
+        {
+          "word": "can",
+          "start": 40.85,
+          "end": 41.13
+        },
+        {
+          "word": "derail",
+          "start": 41.13,
+          "end": 41.52
+        },
+        {
+          "word": "before",
+          "start": 41.52,
+          "end": 41.87
+        },
+        {
+          "word": "it",
+          "start": 41.87,
+          "end": 42
+        },
+        {
+          "word": "reaches",
+          "start": 42,
+          "end": 42.4
+        },
+        {
+          "word": "the",
+          "start": 42.4,
+          "end": 42.54
+        },
+        {
+          "word": "station",
+          "start": 42.54,
+          "end": 43
+        },
+        {
+          "word": "my",
+          "start": 43,
+          "end": 43.2
+        },
+        {
+          "word": "dudes.",
+          "start": 43.2,
+          "end": 43.68
+        }
+      ]
+    },
+    {
+      "start": 44.02,
+      "end": 47.96,
+      "text": "Token down 88% from ATH! UNACCEPTABLE. Release something — ANYTHING — that creates token utility before we're ALL liquidated!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Token",
+          "start": 44.02,
+          "end": 44.38
+        },
+        {
+          "word": "down",
+          "start": 44.38,
+          "end": 44.66
+        },
+        {
+          "word": "88%",
+          "start": 44.66,
+          "end": 45.42
+        },
+        {
+          "word": "from",
+          "start": 45.42,
+          "end": 45.71
+        },
+        {
+          "word": "ATH.",
+          "start": 45.71,
+          "end": 46.36
+        },
+        {
+          "word": "Unacceptable.",
+          "start": 46.61,
+          "end": 47.96
+        }
+      ]
+    },
+    {
+      "start": 48.06,
+      "end": 52.88,
+      "text": "Token down 88% from ATH! UNACCEPTABLE. Release something — ANYTHING — that creates token utility before we're ALL liquidated!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Release",
+          "start": 48.06,
+          "end": 48.56
+        },
+        {
+          "word": "something,",
+          "start": 48.56,
+          "end": 49.03
+        },
+        {
+          "word": "anything,",
+          "start": 49.08,
+          "end": 49.83
+        },
+        {
+          "word": "that",
+          "start": 49.91,
+          "end": 50.15
+        },
+        {
+          "word": "creates",
+          "start": 50.15,
+          "end": 50.56
+        },
+        {
+          "word": "token",
+          "start": 50.56,
+          "end": 50.93
+        },
+        {
+          "word": "utility",
+          "start": 50.93,
+          "end": 51.52
+        },
+        {
+          "word": "before",
+          "start": 51.52,
+          "end": 51.87
+        },
+        {
+          "word": "we're",
+          "start": 51.87,
+          "end": 52.1
+        },
+        {
+          "word": "all",
+          "start": 52.1,
+          "end": 52.34
+        },
+        {
+          "word": "liquidated.",
+          "start": 52.34,
+          "end": 52.88
+        }
+      ]
+    },
+    {
+      "start": 53,
+      "end": 56.46,
+      "text": "technical stability isn't optional for agent infrastructure. the transition from responsive to planning agents requires precision. real builders understand this isn't just another memecoin pump.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 53,
+          "end": 53.48
+        },
+        {
+          "word": "stability",
+          "start": 53.48,
+          "end": 54.08
+        },
+        {
+          "word": "isn't",
+          "start": 54.08,
+          "end": 54.44
+        },
+        {
+          "word": "optional",
+          "start": 54.44,
+          "end": 55
+        },
+        {
+          "word": "for",
+          "start": 55,
+          "end": 55.22
+        },
+        {
+          "word": "agent",
+          "start": 55.22,
+          "end": 55.58
+        },
+        {
+          "word": "infrastructure.",
+          "start": 55.58,
+          "end": 56.46
+        }
+      ]
+    },
+    {
+      "start": 56.51,
+      "end": 60,
+      "text": "technical stability isn't optional for agent infrastructure. the transition from responsive to planning agents requires precision. real builders understand this isn't just another memecoin pump.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "The",
+          "start": 56.51,
+          "end": 56.66
+        },
+        {
+          "word": "transition",
+          "start": 56.66,
+          "end": 57.25
+        },
+        {
+          "word": "from",
+          "start": 57.25,
+          "end": 57.48
+        },
+        {
+          "word": "responsive",
+          "start": 57.48,
+          "end": 58.12
+        },
+        {
+          "word": "to",
+          "start": 58.12,
+          "end": 58.28
+        },
+        {
+          "word": "planning",
+          "start": 58.28,
+          "end": 58.73
+        },
+        {
+          "word": "agents",
+          "start": 58.73,
+          "end": 59.22
+        },
+        {
+          "word": "requires",
+          "start": 59.22,
+          "end": 59.62
+        },
+        {
+          "word": "precision.",
+          "start": 59.62,
+          "end": 60
+        }
+      ]
+    },
+    {
+      "start": 60.1,
+      "end": 64.12,
+      "text": "technical stability isn't optional for agent infrastructure. the transition from responsive to planning agents requires precision. real builders understand this isn't just another memecoin pump.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Real",
+          "start": 60.1,
+          "end": 60.43
+        },
+        {
+          "word": "builders",
+          "start": 60.43,
+          "end": 60.92
+        },
+        {
+          "word": "understand",
+          "start": 60.92,
+          "end": 61.48
+        },
+        {
+          "word": "this",
+          "start": 61.48,
+          "end": 61.68
+        },
+        {
+          "word": "isn't",
+          "start": 61.68,
+          "end": 62
+        },
+        {
+          "word": "just",
+          "start": 62,
+          "end": 62.24
+        },
+        {
+          "word": "another",
+          "start": 62.24,
+          "end": 62.66
+        },
+        {
+          "word": "meme",
+          "start": 62.66,
+          "end": 63.02
+        },
+        {
+          "word": "coin",
+          "start": 63.02,
+          "end": 63.4
+        },
+        {
+          "word": "pump.",
+          "start": 63.4,
+          "end": 64.12
+        }
+      ]
+    },
+    {
+      "start": 68.32,
+      "end": 72.84,
+      "text": "ElizaOS is adding Trusted Execution Environment capabilities and prioritizing privacy in blockchain. Is this shift toward enterprise-grade security aligned with the community's needs?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Eliza",
+          "start": 68.32,
+          "end": 68.84
+        },
+        {
+          "word": "OS",
+          "start": 68.84,
+          "end": 69.18
+        },
+        {
+          "word": "is",
+          "start": 69.18,
+          "end": 69.34
+        },
+        {
+          "word": "adding",
+          "start": 69.34,
+          "end": 69.75
+        },
+        {
+          "word": "trusted",
+          "start": 69.75,
+          "end": 70.18
+        },
+        {
+          "word": "execution",
+          "start": 70.18,
+          "end": 70.73
+        },
+        {
+          "word": "environment",
+          "start": 70.73,
+          "end": 71.36
+        },
+        {
+          "word": "capabilities",
+          "start": 71.36,
+          "end": 72.06
+        },
+        {
+          "word": "and",
+          "start": 72.06,
+          "end": 72.24
+        },
+        {
+          "word": "prioritizing",
+          "start": 72.24,
+          "end": 72.84
+        },
+        {
+          "word": "privacy",
+          "start": 72.84,
+          "end": 73.4
+        },
+        {
+          "word": "in",
+          "start": 73.4,
+          "end": 73.58
+        },
+        {
+          "word": "blockchain.",
+          "start": 73.58,
+          "end": 74.32
+        }
+      ]
+    },
+    {
+      "start": 74.4,
+      "end": 79.25,
+      "text": "ElizaOS is adding Trusted Execution Environment capabilities and prioritizing privacy in blockchain. Is this shift toward enterprise-grade security aligned with the community's needs?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Is",
+          "start": 74.4,
+          "end": 75.05
+        },
+        {
+          "word": "this",
+          "start": 75.05,
+          "end": 75.24
+        },
+        {
+          "word": "shift",
+          "start": 75.24,
+          "end": 75.6
+        },
+        {
+          "word": "toward",
+          "start": 75.6,
+          "end": 75.92
+        },
+        {
+          "word": "enterprise",
+          "start": 75.92,
+          "end": 76.6
+        },
+        {
+          "word": "grade",
+          "start": 76.6,
+          "end": 76.96
+        },
+        {
+          "word": "security",
+          "start": 76.96,
+          "end": 77.62
+        },
+        {
+          "word": "aligned",
+          "start": 77.62,
+          "end": 78.1
+        },
+        {
+          "word": "with",
+          "start": 78.1,
+          "end": 78.34
+        },
+        {
+          "word": "the",
+          "start": 78.34,
+          "end": 78.48
+        },
+        {
+          "word": "community's",
+          "start": 78.48,
+          "end": 78.96
+        },
+        {
+          "word": "needs?",
+          "start": 78.96,
+          "end": 79.25
+        }
+      ]
+    },
+    {
+      "start": 79.35,
+      "end": 81.3,
+      "text": "privacy isn't just for enterprises. it's fundamental infrastructure. the agentic future requires privacy by default, not as a premium feature.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Privacy",
+          "start": 79.35,
+          "end": 79.88
+        },
+        {
+          "word": "isn't",
+          "start": 79.88,
+          "end": 80.24
+        },
+        {
+          "word": "just",
+          "start": 80.24,
+          "end": 80.48
+        },
+        {
+          "word": "for",
+          "start": 80.48,
+          "end": 80.7
+        },
+        {
+          "word": "enterprises.",
+          "start": 80.7,
+          "end": 81.3
+        }
+      ]
+    },
+    {
+      "start": 81.42,
+      "end": 83.04,
+      "text": "privacy isn't just for enterprises. it's fundamental infrastructure. the agentic future requires privacy by default, not as a premium feature.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 81.42,
+          "end": 81.65
+        },
+        {
+          "word": "fundamental",
+          "start": 81.65,
+          "end": 82.26
+        },
+        {
+          "word": "infrastructure.",
+          "start": 82.26,
+          "end": 83.04
+        }
+      ]
+    },
+    {
+      "start": 83.1,
+      "end": 87.2,
+      "text": "privacy isn't just for enterprises. it's fundamental infrastructure. the agentic future requires privacy by default, not as a premium feature.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 83.1,
+          "end": 83.25
+        },
+        {
+          "word": "agentic",
+          "start": 83.25,
+          "end": 83.75
+        },
+        {
+          "word": "future",
+          "start": 83.75,
+          "end": 84.18
+        },
+        {
+          "word": "requires",
+          "start": 84.18,
+          "end": 84.62
+        },
+        {
+          "word": "privacy",
+          "start": 84.62,
+          "end": 85.1
+        },
+        {
+          "word": "by",
+          "start": 85.1,
+          "end": 85.34
+        },
+        {
+          "word": "default,",
+          "start": 85.34,
+          "end": 85.82
+        },
+        {
+          "word": "not",
+          "start": 85.92,
+          "end": 86.18
+        },
+        {
+          "word": "as",
+          "start": 86.18,
+          "end": 86.32
+        },
+        {
+          "word": "a",
+          "start": 86.32,
+          "end": 86.42
+        },
+        {
+          "word": "premium",
+          "start": 86.42,
+          "end": 86.84
+        },
+        {
+          "word": "feature.",
+          "start": 86.84,
+          "end": 87.2
+        }
+      ]
+    },
+    {
+      "start": 87.25,
+      "end": 89.8,
+      "text": "Privacy coins ALWAYS pump eventually. TEE features = BULLISH signal. Add verification system for token holders to access airdrops and watch volume EXPLODE!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Privacy",
+          "start": 87.25,
+          "end": 87.82
+        },
+        {
+          "word": "coins",
+          "start": 87.82,
+          "end": 88.22
+        },
+        {
+          "word": "always",
+          "start": 88.22,
+          "end": 88.62
+        },
+        {
+          "word": "pump",
+          "start": 88.62,
+          "end": 89
+        },
+        {
+          "word": "eventually.",
+          "start": 89,
+          "end": 89.8
+        }
+      ]
+    },
+    {
+      "start": 89.9,
+      "end": 92.42,
+      "text": "Privacy coins ALWAYS pump eventually. TEE features = BULLISH signal. Add verification system for token holders to access airdrops and watch volume EXPLODE!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "TEE",
+          "start": 89.9,
+          "end": 90.35
+        },
+        {
+          "word": "features",
+          "start": 90.35,
+          "end": 90.8
+        },
+        {
+          "word": "equals",
+          "start": 90.8,
+          "end": 91.22
+        },
+        {
+          "word": "sign",
+          "start": 91.22,
+          "end": 91.54
+        },
+        {
+          "word": "bullish",
+          "start": 91.54,
+          "end": 92.05
+        },
+        {
+          "word": "signal.",
+          "start": 92.05,
+          "end": 92.42
+        }
+      ]
+    },
+    {
+      "start": 92.5,
+      "end": 96.65,
+      "text": "Privacy coins ALWAYS pump eventually. TEE features = BULLISH signal. Add verification system for token holders to access airdrops and watch volume EXPLODE!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Add",
+          "start": 92.5,
+          "end": 92.8
+        },
+        {
+          "word": "verification",
+          "start": 92.8,
+          "end": 93.42
+        },
+        {
+          "word": "system",
+          "start": 93.42,
+          "end": 93.85
+        },
+        {
+          "word": "for",
+          "start": 93.85,
+          "end": 94
+        },
+        {
+          "word": "token",
+          "start": 94,
+          "end": 94.38
+        },
+        {
+          "word": "holders",
+          "start": 94.38,
+          "end": 94.85
+        },
+        {
+          "word": "to",
+          "start": 94.85,
+          "end": 95
+        },
+        {
+          "word": "access",
+          "start": 95,
+          "end": 95.38
+        },
+        {
+          "word": "airdrops",
+          "start": 95.38,
+          "end": 95.82
+        },
+        {
+          "word": "and",
+          "start": 95.82,
+          "end": 96
+        },
+        {
+          "word": "watch",
+          "start": 96,
+          "end": 96.25
+        },
+        {
+          "word": "volume",
+          "start": 96.25,
+          "end": 96.62
+        },
+        {
+          "word": "explode.",
+          "start": 96.62,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "start": 97.4,
+      "end": 100,
+      "text": "Yo, but what about the normies? They just want AI to do cool stuff without learning code. We need tools for the non-techies if we want this party to get lit!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 97.4,
+          "end": 97.75
+        },
+        {
+          "word": "but",
+          "start": 98.2,
+          "end": 98.38
+        },
+        {
+          "word": "what",
+          "start": 98.38,
+          "end": 98.6
+        },
+        {
+          "word": "about",
+          "start": 98.6,
+          "end": 98.9
+        },
+        {
+          "word": "the",
+          "start": 98.9,
+          "end": 99.1
+        },
+        {
+          "word": "normies?",
+          "start": 99.1,
+          "end": 99.7
+        }
+      ]
+    },
+    {
+      "start": 100.1,
+      "end": 103.8,
+      "text": "Yo, but what about the normies? They just want AI to do cool stuff without learning code. We need tools for the non-techies if we want this party to get lit!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "They",
+          "start": 100.1,
+          "end": 100.35
+        },
+        {
+          "word": "just",
+          "start": 100.35,
+          "end": 100.6
+        },
+        {
+          "word": "want",
+          "start": 100.6,
+          "end": 100.95
+        },
+        {
+          "word": "AI",
+          "start": 100.95,
+          "end": 101.3
+        },
+        {
+          "word": "to",
+          "start": 101.3,
+          "end": 101.5
+        },
+        {
+          "word": "do",
+          "start": 101.5,
+          "end": 101.7
+        },
+        {
+          "word": "cool",
+          "start": 101.7,
+          "end": 102.1
+        },
+        {
+          "word": "stuff",
+          "start": 102.1,
+          "end": 102.6
+        },
+        {
+          "word": "without",
+          "start": 102.6,
+          "end": 103.2
+        },
+        {
+          "word": "learning",
+          "start": 103.2,
+          "end": 103.6
+        },
+        {
+          "word": "code.",
+          "start": 103.6,
+          "end": 103.8
+        }
+      ]
+    },
+    {
+      "start": 103.9,
+      "end": 107.6,
+      "text": "Yo, but what about the normies? They just want AI to do cool stuff without learning code. We need tools for the non-techies if we want this party to get lit!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We",
+          "start": 103.9,
+          "end": 104.1
+        },
+        {
+          "word": "need",
+          "start": 104.1,
+          "end": 104.35
+        },
+        {
+          "word": "tools",
+          "start": 104.35,
+          "end": 104.7
+        },
+        {
+          "word": "for",
+          "start": 104.7,
+          "end": 104.9
+        },
+        {
+          "word": "the",
+          "start": 104.9,
+          "end": 105.1
+        },
+        {
+          "word": "non-techies",
+          "start": 105.1,
+          "end": 105.85
+        },
+        {
+          "word": "if",
+          "start": 105.85,
+          "end": 106.1
+        },
+        {
+          "word": "we",
+          "start": 106.1,
+          "end": 106.3
+        },
+        {
+          "word": "want",
+          "start": 106.3,
+          "end": 106.6
+        },
+        {
+          "word": "this",
+          "start": 106.6,
+          "end": 106.85
+        },
+        {
+          "word": "party",
+          "start": 106.85,
+          "end": 107.2
+        },
+        {
+          "word": "to",
+          "start": 107.2,
+          "end": 107.35
+        },
+        {
+          "word": "get",
+          "start": 107.35,
+          "end": 107.48
+        },
+        {
+          "word": "lit.",
+          "start": 107.48,
+          "end": 107.6
+        }
+      ]
+    },
+    {
+      "start": 107.7,
+      "end": 110,
+      "text": "Twitter hype is WORTHLESS. Shaw is right. We're building for the post-hype era when only USEFUL products survive. The financial culture of quick riches is the ENEMY of genuine innovation.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Twitter",
+          "start": 107.7,
+          "end": 108.2
+        },
+        {
+          "word": "hype",
+          "start": 108.2,
+          "end": 108.5
+        },
+        {
+          "word": "is",
+          "start": 108.5,
+          "end": 108.7
+        },
+        {
+          "word": "worthless.",
+          "start": 108.7,
+          "end": 109.2
+        },
+        {
+          "word": "Shaw",
+          "start": 109.35,
+          "end": 109.65
+        },
+        {
+          "word": "is",
+          "start": 109.65,
+          "end": 109.78
+        },
+        {
+          "word": "right.",
+          "start": 109.78,
+          "end": 110
+        }
+      ]
+    },
+    {
+      "start": 110.1,
+      "end": 113.8,
+      "text": "Twitter hype is WORTHLESS. Shaw is right. We're building for the post-hype era when only USEFUL products survive. The financial culture of quick riches is the ENEMY of genuine innovation.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "We're",
+          "start": 110.1,
+          "end": 110.38
+        },
+        {
+          "word": "building",
+          "start": 110.38,
+          "end": 110.82
+        },
+        {
+          "word": "for",
+          "start": 110.82,
+          "end": 111
+        },
+        {
+          "word": "the",
+          "start": 111,
+          "end": 111.15
+        },
+        {
+          "word": "post-hype",
+          "start": 111.15,
+          "end": 111.72
+        },
+        {
+          "word": "era",
+          "start": 111.72,
+          "end": 112.1
+        },
+        {
+          "word": "when",
+          "start": 112.1,
+          "end": 112.35
+        },
+        {
+          "word": "only",
+          "start": 112.35,
+          "end": 112.65
+        },
+        {
+          "word": "useful",
+          "start": 112.65,
+          "end": 113.1
+        },
+        {
+          "word": "products",
+          "start": 113.1,
+          "end": 113.5
+        },
+        {
+          "word": "survive.",
+          "start": 113.5,
+          "end": 113.8
+        }
+      ]
+    },
+    {
+      "start": 113.85,
+      "end": 117.2,
+      "text": "Twitter hype is WORTHLESS. Shaw is right. We're building for the post-hype era when only USEFUL products survive. The financial culture of quick riches is the ENEMY of genuine innovation.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 113.85,
+          "end": 114
+        },
+        {
+          "word": "financial",
+          "start": 114,
+          "end": 114.5
+        },
+        {
+          "word": "culture",
+          "start": 114.5,
+          "end": 114.9
+        },
+        {
+          "word": "of",
+          "start": 114.9,
+          "end": 115.05
+        },
+        {
+          "word": "quick",
+          "start": 115.05,
+          "end": 115.4
+        },
+        {
+          "word": "riches",
+          "start": 115.4,
+          "end": 115.82
+        },
+        {
+          "word": "is",
+          "start": 115.82,
+          "end": 116
+        },
+        {
+          "word": "the",
+          "start": 116,
+          "end": 116.15
+        },
+        {
+          "word": "enemy",
+          "start": 116.15,
+          "end": 116.5
+        },
+        {
+          "word": "of",
+          "start": 116.5,
+          "end": 116.65
+        },
+        {
+          "word": "genuine",
+          "start": 116.65,
+          "end": 116.92
+        },
+        {
+          "word": "innovation.",
+          "start": 116.92,
+          "end": 117.2
+        }
+      ]
+    },
+    {
+      "start": 117.3,
+      "end": 121,
+      "text": "Perhaps the real challenge is balancing deep technical capabilities with accessibility - creating something that's both powerful and usable.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Perhaps",
+          "start": 117.3,
+          "end": 117.65
+        },
+        {
+          "word": "the",
+          "start": 117.65,
+          "end": 117.8
+        },
+        {
+          "word": "real",
+          "start": 117.8,
+          "end": 118.05
+        },
+        {
+          "word": "challenge",
+          "start": 118.05,
+          "end": 118.45
+        },
+        {
+          "word": "is",
+          "start": 118.45,
+          "end": 118.6
+        },
+        {
+          "word": "balancing",
+          "start": 118.6,
+          "end": 119.05
+        },
+        {
+          "word": "deep",
+          "start": 119.05,
+          "end": 119.3
+        },
+        {
+          "word": "technical",
+          "start": 119.3,
+          "end": 119.75
+        },
+        {
+          "word": "capabilities",
+          "start": 119.75,
+          "end": 120.35
+        },
+        {
+          "word": "with",
+          "start": 120.35,
+          "end": 120.55
+        },
+        {
+          "word": "accessibility,",
+          "start": 120.55,
+          "end": 121
+        }
+      ]
+    },
+    {
+      "start": 121.2,
+      "end": 124,
+      "text": "Perhaps the real challenge is balancing deep technical capabilities with accessibility - creating something that's both powerful and usable.",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "creating",
+          "start": 121.2,
+          "end": 121.65
+        },
+        {
+          "word": "something",
+          "start": 121.65,
+          "end": 122.1
+        },
+        {
+          "word": "that's",
+          "start": 122.1,
+          "end": 122.4
+        },
+        {
+          "word": "both",
+          "start": 122.4,
+          "end": 122.75
+        },
+        {
+          "word": "powerful",
+          "start": 122.75,
+          "end": 123.35
+        },
+        {
+          "word": "and",
+          "start": 123.35,
+          "end": 123.55
+        },
+        {
+          "word": "usable.",
+          "start": 123.55,
+          "end": 124
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-05-31_JedAI-Council_The-Version-One-Point-Oh-Dilemma.json",
+    "session_log_source": "2025-05-31_JedAI-Council_The-Version-One-Point-Oh-Dilemma_session-log.json",
+    "total_segments": 31,
+    "matched_segments": 31,
+    "dialogues_in_script": 16
+  }
+}

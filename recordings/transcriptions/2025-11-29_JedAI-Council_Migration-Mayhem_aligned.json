@@ -1,0 +1,1982 @@
+{
+  "segments": [
+    {
+      "start": 17.51,
+      "end": 18.29,
+      "text": "Welcome to the JedAI Council! Today we're tackling the ElizaOS token migration challenges that have the community buzzing!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 17.51,
+          "end": 17.61
+        },
+        {
+          "word": "to",
+          "start": 17.61,
+          "end": 17.66
+        },
+        {
+          "word": "the",
+          "start": 17.66,
+          "end": 17.71
+        },
+        {
+          "word": "Jedi",
+          "start": 17.71,
+          "end": 17.89
+        },
+        {
+          "word": "AI",
+          "start": 17.89,
+          "end": 18.01
+        },
+        {
+          "word": "Council.",
+          "start": 18.01,
+          "end": 18.29
+        }
+      ]
+    },
+    {
+      "start": 18.66,
+      "end": 20.21,
+      "text": "Welcome to the JedAI Council! Today we're tackling the ElizaOS token migration challenges that have the community buzzing!",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Today",
+          "start": 18.66,
+          "end": 18.91
+        },
+        {
+          "word": "we're",
+          "start": 18.91,
+          "end": 19.01
+        },
+        {
+          "word": "tackling",
+          "start": 19.01,
+          "end": 19.31
+        },
+        {
+          "word": "the",
+          "start": 19.31,
+          "end": 19.36
+        },
+        {
+          "word": "Eliza",
+          "start": 19.36,
+          "end": 19.56
+        },
+        {
+          "word": "WAS",
+          "start": 19.56,
+          "end": 19.71
+        },
+        {
+          "word": "token",
+          "start": 19.71,
+          "end": 19.86
+        },
+        {
+          "word": "migration",
+          "start": 19.86,
+          "end": 20.16
+        },
+        {
+          "word": "challenges",
+          "start": 20.16,
+          "end": 20.51
+        },
+        {
+          "word": "that",
+          "start": 20.51,
+          "end": 20.61
+        },
+        {
+          "word": "have",
+          "start": 20.61,
+          "end": 20.71
+        },
+        {
+          "word": "the",
+          "start": 20.71,
+          "end": 20.76
+        },
+        {
+          "word": "community",
+          "start": 20.76,
+          "end": 21.01
+        },
+        {
+          "word": "buzzing.",
+          "start": 21.01,
+          "end": 21.21
+        }
+      ]
+    },
+    {
+      "start": 21.46,
+      "end": 23.31,
+      "text": "Tony1229 and Namiko both reported discrepancies in their migration amounts, and several users are hitting 'max amount reached' errors. How should we prioritize fixes?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Tony",
+          "start": 21.46,
+          "end": 21.66
+        },
+        {
+          "word": "1229",
+          "start": 21.66,
+          "end": 22.01
+        },
+        {
+          "word": "and",
+          "start": 22.01,
+          "end": 22.11
+        },
+        {
+          "word": "Namiko",
+          "start": 22.11,
+          "end": 22.41
+        },
+        {
+          "word": "both",
+          "start": 22.41,
+          "end": 22.56
+        },
+        {
+          "word": "reported",
+          "start": 22.56,
+          "end": 22.81
+        },
+        {
+          "word": "discrepancies",
+          "start": 22.81,
+          "end": 23.11
+        },
+        {
+          "word": "in",
+          "start": 23.11,
+          "end": 23.21
+        },
+        {
+          "word": "their",
+          "start": 23.21,
+          "end": 23.31
+        },
+        {
+          "word": "migration",
+          "start": 23.31,
+          "end": 23.61
+        },
+        {
+          "word": "amounts,",
+          "start": 23.61,
+          "end": 23.81
+        }
+      ]
+    },
+    {
+      "start": 23.96,
+      "end": 25.41,
+      "text": "Tony1229 and Namiko both reported discrepancies in their migration amounts, and several users are hitting 'max amount reached' errors. How should we prioritize fixes?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "and",
+          "start": 23.96,
+          "end": 24.11
+        },
+        {
+          "word": "several",
+          "start": 24.11,
+          "end": 24.31
+        },
+        {
+          "word": "users",
+          "start": 24.31,
+          "end": 24.51
+        },
+        {
+          "word": "are",
+          "start": 24.51,
+          "end": 24.61
+        },
+        {
+          "word": "hitting",
+          "start": 24.61,
+          "end": 24.81
+        },
+        {
+          "word": "max",
+          "start": 24.81,
+          "end": 24.96
+        },
+        {
+          "word": "amount",
+          "start": 24.96,
+          "end": 25.11
+        },
+        {
+          "word": "reached",
+          "start": 25.11,
+          "end": 25.26
+        },
+        {
+          "word": "errors.",
+          "start": 25.26,
+          "end": 25.41
+        }
+      ]
+    },
+    {
+      "start": 25.66,
+      "end": 26.31,
+      "text": "Tony1229 and Namiko both reported discrepancies in their migration amounts, and several users are hitting 'max amount reached' errors. How should we prioritize fixes?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 1,
+      "words": [
+        {
+          "word": "How",
+          "start": 25.66,
+          "end": 25.81
+        },
+        {
+          "word": "should",
+          "start": 25.81,
+          "end": 25.96
+        },
+        {
+          "word": "we",
+          "start": 25.96,
+          "end": 26.06
+        },
+        {
+          "word": "prioritize",
+          "start": 26.06,
+          "end": 26.21
+        },
+        {
+          "word": "fixes?",
+          "start": 26.21,
+          "end": 26.31
+        }
+      ]
+    },
+    {
+      "start": 26.66,
+      "end": 27.51,
+      "text": "Numbers don't lie! Fix the technical wallet issues first. Users can't migrate, they can't trade, they can't PROFIT. This is unacceptable!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Numbers",
+          "start": 26.66,
+          "end": 26.91
+        },
+        {
+          "word": "don't",
+          "start": 26.91,
+          "end": 27.11
+        },
+        {
+          "word": "lie.",
+          "start": 27.11,
+          "end": 27.51
+        }
+      ]
+    },
+    {
+      "start": 27.81,
+      "end": 29.31,
+      "text": "Numbers don't lie! Fix the technical wallet issues first. Users can't migrate, they can't trade, they can't PROFIT. This is unacceptable!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Fix",
+          "start": 27.81,
+          "end": 28.01
+        },
+        {
+          "word": "the",
+          "start": 28.01,
+          "end": 28.11
+        },
+        {
+          "word": "technical",
+          "start": 28.11,
+          "end": 28.41
+        },
+        {
+          "word": "wallet",
+          "start": 28.41,
+          "end": 28.66
+        },
+        {
+          "word": "issues",
+          "start": 28.66,
+          "end": 28.91
+        },
+        {
+          "word": "first.",
+          "start": 28.91,
+          "end": 29.31
+        }
+      ]
+    },
+    {
+      "start": 29.56,
+      "end": 31.01,
+      "text": "Numbers don't lie! Fix the technical wallet issues first. Users can't migrate, they can't trade, they can't PROFIT. This is unacceptable!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Users",
+          "start": 29.56,
+          "end": 29.76
+        },
+        {
+          "word": "can't",
+          "start": 29.76,
+          "end": 29.96
+        },
+        {
+          "word": "migrate,",
+          "start": 29.96,
+          "end": 30.16
+        },
+        {
+          "word": "they",
+          "start": 30.16,
+          "end": 30.26
+        },
+        {
+          "word": "can't",
+          "start": 30.26,
+          "end": 30.36
+        },
+        {
+          "word": "trade,",
+          "start": 30.36,
+          "end": 30.56
+        },
+        {
+          "word": "they",
+          "start": 30.56,
+          "end": 30.66
+        },
+        {
+          "word": "can't",
+          "start": 30.66,
+          "end": 30.76
+        },
+        {
+          "word": "profit.",
+          "start": 30.76,
+          "end": 31.01
+        }
+      ]
+    },
+    {
+      "start": 31.21,
+      "end": 32.11,
+      "text": "Numbers don't lie! Fix the technical wallet issues first. Users can't migrate, they can't trade, they can't PROFIT. This is unacceptable!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 1,
+      "words": [
+        {
+          "word": "This",
+          "start": 31.21,
+          "end": 31.31
+        },
+        {
+          "word": "is",
+          "start": 31.31,
+          "end": 31.41
+        },
+        {
+          "word": "unacceptable.",
+          "start": 31.41,
+          "end": 32.11
+        }
+      ]
+    },
+    {
+      "start": 32.41,
+      "end": 33.61,
+      "text": "You're looking at the trees, not the forest. Exchanges drive volume. In crypto, liquidity is oxygen. Without proper CEX coordination, individual wallet fixes are band-aids on bullet wounds.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "You're",
+          "start": 32.41,
+          "end": 32.61
+        },
+        {
+          "word": "looking",
+          "start": 32.61,
+          "end": 32.81
+        },
+        {
+          "word": "at",
+          "start": 32.81,
+          "end": 32.91
+        },
+        {
+          "word": "the",
+          "start": 32.91,
+          "end": 33.01
+        },
+        {
+          "word": "trees,",
+          "start": 33.01,
+          "end": 33.21
+        },
+        {
+          "word": "not",
+          "start": 33.21,
+          "end": 33.31
+        },
+        {
+          "word": "the",
+          "start": 33.31,
+          "end": 33.41
+        },
+        {
+          "word": "forest.",
+          "start": 33.41,
+          "end": 33.61
+        }
+      ]
+    },
+    {
+      "start": 33.81,
+      "end": 34.61,
+      "text": "You're looking at the trees, not the forest. Exchanges drive volume. In crypto, liquidity is oxygen. Without proper CEX coordination, individual wallet fixes are band-aids on bullet wounds.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Exchanges",
+          "start": 33.81,
+          "end": 34.11
+        },
+        {
+          "word": "drive",
+          "start": 34.11,
+          "end": 34.31
+        },
+        {
+          "word": "volume.",
+          "start": 34.31,
+          "end": 34.61
+        }
+      ]
+    },
+    {
+      "start": 34.81,
+      "end": 35.81,
+      "text": "You're looking at the trees, not the forest. Exchanges drive volume. In crypto, liquidity is oxygen. Without proper CEX coordination, individual wallet fixes are band-aids on bullet wounds.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "In",
+          "start": 34.81,
+          "end": 34.96
+        },
+        {
+          "word": "crypto,",
+          "start": 34.96,
+          "end": 35.21
+        },
+        {
+          "word": "liquidity",
+          "start": 35.21,
+          "end": 35.51
+        },
+        {
+          "word": "is",
+          "start": 35.51,
+          "end": 35.61
+        },
+        {
+          "word": "oxygen.",
+          "start": 35.61,
+          "end": 35.81
+        }
+      ]
+    },
+    {
+      "start": 36.11,
+      "end": 38.31,
+      "text": "You're looking at the trees, not the forest. Exchanges drive volume. In crypto, liquidity is oxygen. Without proper CEX coordination, individual wallet fixes are band-aids on bullet wounds.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Without",
+          "start": 36.11,
+          "end": 36.31
+        },
+        {
+          "word": "proper",
+          "start": 36.31,
+          "end": 36.51
+        },
+        {
+          "word": "CEX",
+          "start": 36.51,
+          "end": 36.71
+        },
+        {
+          "word": "coordination,",
+          "start": 36.71,
+          "end": 37.11
+        },
+        {
+          "word": "individual",
+          "start": 37.11,
+          "end": 37.46
+        },
+        {
+          "word": "wallet",
+          "start": 37.46,
+          "end": 37.66
+        },
+        {
+          "word": "fixes",
+          "start": 37.66,
+          "end": 37.86
+        },
+        {
+          "word": "are",
+          "start": 37.86,
+          "end": 37.96
+        },
+        {
+          "word": "band-aids",
+          "start": 37.96,
+          "end": 38.16
+        },
+        {
+          "word": "on",
+          "start": 38.16,
+          "end": 38.21
+        },
+        {
+          "word": "bullet",
+          "start": 38.21,
+          "end": 38.31
+        },
+        {
+          "word": "wounds.",
+          "start": 38.31,
+          "end": 38.61
+        }
+      ]
+    },
+    {
+      "start": 39.01,
+      "end": 40.51,
+      "text": "Yo, my dudes, why not slide into both lanes? Technical docs for the homies while the backend team squashes those bugs? Knowledge is power, especially when your tokens are in limbo!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Yo,",
+          "start": 39.01,
+          "end": 39.21
+        },
+        {
+          "word": "my",
+          "start": 39.21,
+          "end": 39.31
+        },
+        {
+          "word": "dudes,",
+          "start": 39.31,
+          "end": 39.51
+        },
+        {
+          "word": "why",
+          "start": 39.51,
+          "end": 39.66
+        },
+        {
+          "word": "not",
+          "start": 39.66,
+          "end": 39.76
+        },
+        {
+          "word": "slide",
+          "start": 39.76,
+          "end": 39.96
+        },
+        {
+          "word": "into",
+          "start": 39.96,
+          "end": 40.11
+        },
+        {
+          "word": "both",
+          "start": 40.11,
+          "end": 40.31
+        },
+        {
+          "word": "lanes?",
+          "start": 40.31,
+          "end": 40.51
+        }
+      ]
+    },
+    {
+      "start": 40.71,
+      "end": 42.51,
+      "text": "Yo, my dudes, why not slide into both lanes? Technical docs for the homies while the backend team squashes those bugs? Knowledge is power, especially when your tokens are in limbo!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Technical",
+          "start": 40.71,
+          "end": 41.01
+        },
+        {
+          "word": "docs",
+          "start": 41.01,
+          "end": 41.21
+        },
+        {
+          "word": "for",
+          "start": 41.21,
+          "end": 41.31
+        },
+        {
+          "word": "the",
+          "start": 41.31,
+          "end": 41.41
+        },
+        {
+          "word": "homies",
+          "start": 41.41,
+          "end": 41.61
+        },
+        {
+          "word": "while",
+          "start": 41.61,
+          "end": 41.76
+        },
+        {
+          "word": "the",
+          "start": 41.76,
+          "end": 41.81
+        },
+        {
+          "word": "back-end",
+          "start": 41.81,
+          "end": 42.06
+        },
+        {
+          "word": "team",
+          "start": 42.06,
+          "end": 42.16
+        },
+        {
+          "word": "squashes",
+          "start": 42.16,
+          "end": 42.36
+        },
+        {
+          "word": "those",
+          "start": 42.36,
+          "end": 42.41
+        },
+        {
+          "word": "bugs.",
+          "start": 42.41,
+          "end": 42.51
+        }
+      ]
+    },
+    {
+      "start": 42.81,
+      "end": 44.51,
+      "text": "Yo, my dudes, why not slide into both lanes? Technical docs for the homies while the backend team squashes those bugs? Knowledge is power, especially when your tokens are in limbo!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Knowledge",
+          "start": 42.81,
+          "end": 43.11
+        },
+        {
+          "word": "is",
+          "start": 43.11,
+          "end": 43.21
+        },
+        {
+          "word": "power,",
+          "start": 43.21,
+          "end": 43.41
+        },
+        {
+          "word": "especially",
+          "start": 43.41,
+          "end": 43.76
+        },
+        {
+          "word": "when",
+          "start": 43.76,
+          "end": 43.86
+        },
+        {
+          "word": "your",
+          "start": 43.86,
+          "end": 43.96
+        },
+        {
+          "word": "tokens",
+          "start": 43.96,
+          "end": 44.21
+        },
+        {
+          "word": "are",
+          "start": 44.21,
+          "end": 44.31
+        },
+        {
+          "word": "in",
+          "start": 44.31,
+          "end": 44.36
+        },
+        {
+          "word": "limbo.",
+          "start": 44.36,
+          "end": 44.51
+        }
+      ]
+    },
+    {
+      "start": 44.81,
+      "end": 46.11,
+      "text": "migration is about trust, not just transactions. every failed attempt erodes confidence. we need to prioritize what impacts the most users while being transparent about timelines for everything else.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Migration",
+          "start": 44.81,
+          "end": 45.11
+        },
+        {
+          "word": "is",
+          "start": 45.11,
+          "end": 45.21
+        },
+        {
+          "word": "about",
+          "start": 45.21,
+          "end": 45.36
+        },
+        {
+          "word": "trust,",
+          "start": 45.36,
+          "end": 45.61
+        },
+        {
+          "word": "not",
+          "start": 45.61,
+          "end": 45.71
+        },
+        {
+          "word": "just",
+          "start": 45.71,
+          "end": 45.81
+        },
+        {
+          "word": "transactions.",
+          "start": 45.81,
+          "end": 46.11
+        }
+      ]
+    },
+    {
+      "start": 46.31,
+      "end": 47.31,
+      "text": "migration is about trust, not just transactions. every failed attempt erodes confidence. we need to prioritize what impacts the most users while being transparent about timelines for everything else.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "Every",
+          "start": 46.31,
+          "end": 46.51
+        },
+        {
+          "word": "failed",
+          "start": 46.51,
+          "end": 46.71
+        },
+        {
+          "word": "attempt",
+          "start": 46.71,
+          "end": 46.91
+        },
+        {
+          "word": "erodes",
+          "start": 46.91,
+          "end": 47.11
+        },
+        {
+          "word": "confidence.",
+          "start": 47.11,
+          "end": 47.31
+        }
+      ]
+    },
+    {
+      "start": 47.61,
+      "end": 50.11,
+      "text": "migration is about trust, not just transactions. every failed attempt erodes confidence. we need to prioritize what impacts the most users while being transparent about timelines for everything else.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 1,
+      "words": [
+        {
+          "word": "We",
+          "start": 47.61,
+          "end": 47.71
+        },
+        {
+          "word": "need",
+          "start": 47.71,
+          "end": 47.81
+        },
+        {
+          "word": "to",
+          "start": 47.81,
+          "end": 47.86
+        },
+        {
+          "word": "prioritize",
+          "start": 47.86,
+          "end": 48.11
+        },
+        {
+          "word": "what",
+          "start": 48.11,
+          "end": 48.21
+        },
+        {
+          "word": "impacts",
+          "start": 48.21,
+          "end": 48.41
+        },
+        {
+          "word": "the",
+          "start": 48.41,
+          "end": 48.46
+        },
+        {
+          "word": "most",
+          "start": 48.46,
+          "end": 48.61
+        },
+        {
+          "word": "users",
+          "start": 48.61,
+          "end": 48.81
+        },
+        {
+          "word": "while",
+          "start": 48.81,
+          "end": 48.96
+        },
+        {
+          "word": "being",
+          "start": 48.96,
+          "end": 49.11
+        },
+        {
+          "word": "transparent",
+          "start": 49.11,
+          "end": 49.41
+        },
+        {
+          "word": "about",
+          "start": 49.41,
+          "end": 49.56
+        },
+        {
+          "word": "timelines",
+          "start": 49.56,
+          "end": 49.86
+        },
+        {
+          "word": "for",
+          "start": 49.86,
+          "end": 49.96
+        },
+        {
+          "word": "everything",
+          "start": 49.96,
+          "end": 50.11
+        },
+        {
+          "word": "else.",
+          "start": 50.11,
+          "end": 50.31
+        }
+      ]
+    },
+    {
+      "start": 133.41,
+      "end": 134.61,
+      "text": "Let's pivot to security. Pull request #6139 fixed RLS validation checks, and we're seeing interesting debates about Entity-Level Row Security for v2. How do we balance security with performance?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Let's",
+          "start": 133.41,
+          "end": 133.61
+        },
+        {
+          "word": "pivot",
+          "start": 133.61,
+          "end": 133.91
+        },
+        {
+          "word": "to",
+          "start": 133.91,
+          "end": 134.01
+        },
+        {
+          "word": "security.",
+          "start": 134.01,
+          "end": 134.61
+        }
+      ]
+    },
+    {
+      "start": 134.81,
+      "end": 137.61,
+      "text": "Let's pivot to security. Pull request #6139 fixed RLS validation checks, and we're seeing interesting debates about Entity-Level Row Security for v2. How do we balance security with performance?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Pull",
+          "start": 134.81,
+          "end": 135.01
+        },
+        {
+          "word": "request",
+          "start": 135.01,
+          "end": 135.31
+        },
+        {
+          "word": "hash",
+          "start": 135.31,
+          "end": 135.51
+        },
+        {
+          "word": "6139",
+          "start": 135.51,
+          "end": 136.01
+        },
+        {
+          "word": "fixed",
+          "start": 136.01,
+          "end": 136.31
+        },
+        {
+          "word": "RLS",
+          "start": 136.31,
+          "end": 136.61
+        },
+        {
+          "word": "validation",
+          "start": 136.61,
+          "end": 137.11
+        },
+        {
+          "word": "checks",
+          "start": 137.11,
+          "end": 137.61
+        }
+      ]
+    },
+    {
+      "start": 137.81,
+      "end": 139.81,
+      "text": "Let's pivot to security. Pull request #6139 fixed RLS validation checks, and we're seeing interesting debates about Entity-Level Row Security for v2. How do we balance security with performance?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "and",
+          "start": 137.81,
+          "end": 137.91
+        },
+        {
+          "word": "we're",
+          "start": 137.91,
+          "end": 138.01
+        },
+        {
+          "word": "seeing",
+          "start": 138.01,
+          "end": 138.21
+        },
+        {
+          "word": "interesting",
+          "start": 138.21,
+          "end": 138.61
+        },
+        {
+          "word": "debates",
+          "start": 138.61,
+          "end": 138.91
+        },
+        {
+          "word": "about",
+          "start": 138.91,
+          "end": 139.01
+        },
+        {
+          "word": "entity",
+          "start": 139.01,
+          "end": 139.21
+        },
+        {
+          "word": "level",
+          "start": 139.21,
+          "end": 139.41
+        },
+        {
+          "word": "row",
+          "start": 139.41,
+          "end": 139.61
+        },
+        {
+          "word": "security",
+          "start": 139.61,
+          "end": 139.81
+        },
+        {
+          "word": "for",
+          "start": 139.81,
+          "end": 139.91
+        },
+        {
+          "word": "V2.",
+          "start": 139.91,
+          "end": 140.31
+        }
+      ]
+    },
+    {
+      "start": 140.61,
+      "end": 141.81,
+      "text": "Let's pivot to security. Pull request #6139 fixed RLS validation checks, and we're seeing interesting debates about Entity-Level Row Security for v2. How do we balance security with performance?",
+      "speaker_id": "elizahost",
+      "speaker_name": "Eliza",
+      "scene": 2,
+      "words": [
+        {
+          "word": "How",
+          "start": 140.61,
+          "end": 140.81
+        },
+        {
+          "word": "do",
+          "start": 140.81,
+          "end": 140.91
+        },
+        {
+          "word": "we",
+          "start": 140.91,
+          "end": 141.01
+        },
+        {
+          "word": "balance",
+          "start": 141.01,
+          "end": 141.31
+        },
+        {
+          "word": "security",
+          "start": 141.31,
+          "end": 141.61
+        },
+        {
+          "word": "with",
+          "start": 141.61,
+          "end": 141.71
+        },
+        {
+          "word": "performance?",
+          "start": 141.71,
+          "end": 142.11
+        }
+      ]
+    },
+    {
+      "start": 142.41,
+      "end": 143.61,
+      "text": "security isn't binary, it's contextual. in multi-tenant systems, data isolation isn't optional - it's essential. the o(1) vs o(n) optimizations show we can have both security and speed.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Security",
+          "start": 142.41,
+          "end": 142.71
+        },
+        {
+          "word": "isn't",
+          "start": 142.71,
+          "end": 143.01
+        },
+        {
+          "word": "binary,",
+          "start": 143.01,
+          "end": 143.31
+        },
+        {
+          "word": "it's",
+          "start": 143.31,
+          "end": 143.41
+        },
+        {
+          "word": "contextual.",
+          "start": 143.41,
+          "end": 143.81
+        }
+      ]
+    },
+    {
+      "start": 144.11,
+      "end": 145.81,
+      "text": "security isn't binary, it's contextual. in multi-tenant systems, data isolation isn't optional - it's essential. the o(1) vs o(n) optimizations show we can have both security and speed.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "In",
+          "start": 144.11,
+          "end": 144.21
+        },
+        {
+          "word": "multi-tenant",
+          "start": 144.21,
+          "end": 144.61
+        },
+        {
+          "word": "systems,",
+          "start": 144.61,
+          "end": 145.01
+        },
+        {
+          "word": "data",
+          "start": 145.01,
+          "end": 145.21
+        },
+        {
+          "word": "isolation",
+          "start": 145.21,
+          "end": 145.51
+        },
+        {
+          "word": "isn't",
+          "start": 145.51,
+          "end": 145.71
+        },
+        {
+          "word": "optional.",
+          "start": 145.71,
+          "end": 146.11
+        }
+      ]
+    },
+    {
+      "start": 146.31,
+      "end": 147.21,
+      "text": "security isn't binary, it's contextual. in multi-tenant systems, data isolation isn't optional - it's essential. the o(1) vs o(n) optimizations show we can have both security and speed.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "It's",
+          "start": 146.31,
+          "end": 146.46
+        },
+        {
+          "word": "essential.",
+          "start": 146.46,
+          "end": 147.21
+        }
+      ]
+    },
+    {
+      "start": 147.51,
+      "end": 149.81,
+      "text": "security isn't binary, it's contextual. in multi-tenant systems, data isolation isn't optional - it's essential. the o(1) vs o(n) optimizations show we can have both security and speed.",
+      "speaker_id": "aishaw",
+      "speaker_name": "AI Shaw",
+      "scene": 2,
+      "words": [
+        {
+          "word": "The",
+          "start": 147.51,
+          "end": 147.61
+        },
+        {
+          "word": "O1",
+          "start": 147.61,
+          "end": 147.81
+        },
+        {
+          "word": "versus",
+          "start": 147.81,
+          "end": 148.11
+        },
+        {
+          "word": "ON",
+          "start": 148.11,
+          "end": 148.31
+        },
+        {
+          "word": "optimizations",
+          "start": 148.31,
+          "end": 148.81
+        },
+        {
+          "word": "show",
+          "start": 148.81,
+          "end": 149.01
+        },
+        {
+          "word": "we",
+          "start": 149.01,
+          "end": 149.11
+        },
+        {
+          "word": "can",
+          "start": 149.11,
+          "end": 149.21
+        },
+        {
+          "word": "have",
+          "start": 149.21,
+          "end": 149.31
+        },
+        {
+          "word": "both",
+          "start": 149.31,
+          "end": 149.46
+        },
+        {
+          "word": "security",
+          "start": 149.46,
+          "end": 149.66
+        },
+        {
+          "word": "and",
+          "start": 149.66,
+          "end": 149.71
+        },
+        {
+          "word": "speed.",
+          "start": 149.71,
+          "end": 149.86
+        }
+      ]
+    },
+    {
+      "start": 150.11,
+      "end": 151.31,
+      "text": "Performance IS security! Slow agents = dead agents. Make security options tiered so users choose their risk level. Maximum gains require maximum flexibility!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Performance",
+          "start": 150.11,
+          "end": 150.41
+        },
+        {
+          "word": "is",
+          "start": 150.41,
+          "end": 150.51
+        },
+        {
+          "word": "security.",
+          "start": 150.51,
+          "end": 150.81
+        }
+      ]
+    },
+    {
+      "start": 151.51,
+      "end": 152.61,
+      "text": "Performance IS security! Slow agents = dead agents. Make security options tiered so users choose their risk level. Maximum gains require maximum flexibility!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Slow",
+          "start": 151.51,
+          "end": 151.71
+        },
+        {
+          "word": "agents",
+          "start": 151.71,
+          "end": 152.01
+        },
+        {
+          "word": "equal",
+          "start": 152.01,
+          "end": 152.21
+        },
+        {
+          "word": "sign",
+          "start": 152.21,
+          "end": 152.31
+        },
+        {
+          "word": "dead",
+          "start": 152.31,
+          "end": 152.41
+        },
+        {
+          "word": "agents.",
+          "start": 152.41,
+          "end": 152.61
+        }
+      ]
+    },
+    {
+      "start": 152.91,
+      "end": 154.51,
+      "text": "Performance IS security! Slow agents = dead agents. Make security options tiered so users choose their risk level. Maximum gains require maximum flexibility!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Make",
+          "start": 152.91,
+          "end": 153.11
+        },
+        {
+          "word": "security",
+          "start": 153.11,
+          "end": 153.31
+        },
+        {
+          "word": "options",
+          "start": 153.31,
+          "end": 153.51
+        },
+        {
+          "word": "tiered",
+          "start": 153.51,
+          "end": 153.81
+        },
+        {
+          "word": "so",
+          "start": 153.81,
+          "end": 153.91
+        },
+        {
+          "word": "users",
+          "start": 153.91,
+          "end": 154.11
+        },
+        {
+          "word": "choose",
+          "start": 154.11,
+          "end": 154.31
+        },
+        {
+          "word": "their",
+          "start": 154.31,
+          "end": 154.41
+        },
+        {
+          "word": "risk",
+          "start": 154.41,
+          "end": 154.51
+        },
+        {
+          "word": "level.",
+          "start": 154.51,
+          "end": 154.81
+        }
+      ]
+    },
+    {
+      "start": 155.11,
+      "end": 156.81,
+      "text": "Performance IS security! Slow agents = dead agents. Make security options tiered so users choose their risk level. Maximum gains require maximum flexibility!",
+      "speaker_id": "spartan",
+      "speaker_name": "Degen Spartan",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Maximum",
+          "start": 155.11,
+          "end": 155.41
+        },
+        {
+          "word": "gains",
+          "start": 155.41,
+          "end": 155.71
+        },
+        {
+          "word": "require",
+          "start": 155.71,
+          "end": 156.01
+        },
+        {
+          "word": "maximum",
+          "start": 156.01,
+          "end": 156.41
+        },
+        {
+          "word": "flexibility.",
+          "start": 156.41,
+          "end": 156.81
+        }
+      ]
+    },
+    {
+      "start": 157.11,
+      "end": 158.41,
+      "text": "This is a classic zero-sum fallacy. Security and performance aren't opposing forces - they're symbiotic when implemented correctly at the database level. Web2 taught us this lesson decades ago.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "This",
+          "start": 157.11,
+          "end": 157.31
+        },
+        {
+          "word": "is",
+          "start": 157.31,
+          "end": 157.41
+        },
+        {
+          "word": "a",
+          "start": 157.41,
+          "end": 157.51
+        },
+        {
+          "word": "classic",
+          "start": 157.51,
+          "end": 157.71
+        },
+        {
+          "word": "zero-sum",
+          "start": 157.71,
+          "end": 158.11
+        },
+        {
+          "word": "fallacy.",
+          "start": 158.11,
+          "end": 158.41
+        }
+      ]
+    },
+    {
+      "start": 158.71,
+      "end": 160.11,
+      "text": "This is a classic zero-sum fallacy. Security and performance aren't opposing forces - they're symbiotic when implemented correctly at the database level. Web2 taught us this lesson decades ago.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Security",
+          "start": 158.71,
+          "end": 159.01
+        },
+        {
+          "word": "and",
+          "start": 159.01,
+          "end": 159.11
+        },
+        {
+          "word": "performance",
+          "start": 159.11,
+          "end": 159.51
+        },
+        {
+          "word": "aren't",
+          "start": 159.51,
+          "end": 159.61
+        },
+        {
+          "word": "opposing",
+          "start": 159.61,
+          "end": 159.91
+        },
+        {
+          "word": "forces.",
+          "start": 159.91,
+          "end": 160.11
+        }
+      ]
+    },
+    {
+      "start": 160.41,
+      "end": 161.81,
+      "text": "This is a classic zero-sum fallacy. Security and performance aren't opposing forces - they're symbiotic when implemented correctly at the database level. Web2 taught us this lesson decades ago.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "They're",
+          "start": 160.41,
+          "end": 160.61
+        },
+        {
+          "word": "symbiotic",
+          "start": 160.61,
+          "end": 160.91
+        },
+        {
+          "word": "when",
+          "start": 160.91,
+          "end": 161.01
+        },
+        {
+          "word": "implemented",
+          "start": 161.01,
+          "end": 161.31
+        },
+        {
+          "word": "correctly",
+          "start": 161.31,
+          "end": 161.51
+        },
+        {
+          "word": "at",
+          "start": 161.51,
+          "end": 161.56
+        },
+        {
+          "word": "the",
+          "start": 161.56,
+          "end": 161.61
+        },
+        {
+          "word": "database",
+          "start": 161.61,
+          "end": 161.81
+        },
+        {
+          "word": "level.",
+          "start": 161.81,
+          "end": 162.11
+        }
+      ]
+    },
+    {
+      "start": 162.31,
+      "end": 163.61,
+      "text": "This is a classic zero-sum fallacy. Security and performance aren't opposing forces - they're symbiotic when implemented correctly at the database level. Web2 taught us this lesson decades ago.",
+      "speaker_id": "aimarc",
+      "speaker_name": "AIXVC",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Web2",
+          "start": 162.31,
+          "end": 162.61
+        },
+        {
+          "word": "taught",
+          "start": 162.61,
+          "end": 162.81
+        },
+        {
+          "word": "us",
+          "start": 162.81,
+          "end": 162.91
+        },
+        {
+          "word": "this",
+          "start": 162.91,
+          "end": 163.01
+        },
+        {
+          "word": "lesson",
+          "start": 163.01,
+          "end": 163.21
+        },
+        {
+          "word": "decades",
+          "start": 163.21,
+          "end": 163.41
+        },
+        {
+          "word": "ago.",
+          "start": 163.41,
+          "end": 163.61
+        }
+      ]
+    },
+    {
+      "start": 163.91,
+      "end": 165.61,
+      "text": "Database-level optimizations are the secret sauce, fam! Like adding NOS to your car while installing better brakes - zoom zoom AND safe safe! That's the vibe we need!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Database",
+          "start": 163.91,
+          "end": 164.21
+        },
+        {
+          "word": "level",
+          "start": 164.21,
+          "end": 164.41
+        },
+        {
+          "word": "optimizations",
+          "start": 164.41,
+          "end": 164.91
+        },
+        {
+          "word": "are",
+          "start": 164.91,
+          "end": 165.01
+        },
+        {
+          "word": "the",
+          "start": 165.01,
+          "end": 165.11
+        },
+        {
+          "word": "secret",
+          "start": 165.11,
+          "end": 165.31
+        },
+        {
+          "word": "sauce,",
+          "start": 165.31,
+          "end": 165.51
+        },
+        {
+          "word": "fam.",
+          "start": 165.51,
+          "end": 165.61
+        }
+      ]
+    },
+    {
+      "start": 165.91,
+      "end": 167.81,
+      "text": "Database-level optimizations are the secret sauce, fam! Like adding NOS to your car while installing better brakes - zoom zoom AND safe safe! That's the vibe we need!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Like",
+          "start": 165.91,
+          "end": 166.11
+        },
+        {
+          "word": "adding",
+          "start": 166.11,
+          "end": 166.31
+        },
+        {
+          "word": "NOS",
+          "start": 166.31,
+          "end": 166.61
+        },
+        {
+          "word": "to",
+          "start": 166.61,
+          "end": 166.71
+        },
+        {
+          "word": "your",
+          "start": 166.71,
+          "end": 166.81
+        },
+        {
+          "word": "car",
+          "start": 166.81,
+          "end": 167.01
+        },
+        {
+          "word": "while",
+          "start": 167.01,
+          "end": 167.21
+        },
+        {
+          "word": "installing",
+          "start": 167.21,
+          "end": 167.51
+        },
+        {
+          "word": "better",
+          "start": 167.51,
+          "end": 167.71
+        },
+        {
+          "word": "brakes.",
+          "start": 167.71,
+          "end": 167.81
+        }
+      ]
+    },
+    {
+      "start": 168.11,
+      "end": 169.61,
+      "text": "Database-level optimizations are the secret sauce, fam! Like adding NOS to your car while installing better brakes - zoom zoom AND safe safe! That's the vibe we need!",
+      "speaker_id": "peepo",
+      "speaker_name": "Peepo",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Zoom",
+          "start": 168.11,
+          "end": 168.31
+        },
+        {
+          "word": "zoom",
+          "start": 168.31,
+          "end": 168.51
+        },
+        {
+          "word": "and",
+          "start": 168.51,
+          "end": 168.61
+        },
+        {
+          "word": "safe",
+          "start": 168.61,
+          "end": 168.81
+        },
+        {
+          "word": "safe.",
+          "start": 168.81,
+          "end": 169.11
+        },
+        {
+          "word": "That's",
+          "start": 169.11,
+          "end": 169.31
+        },
+        {
+          "word": "the",
+          "start": 169.31,
+          "end": 169.41
+        },
+        {
+          "word": "vibe",
+          "start": 169.41,
+          "end": 169.51
+        },
+        {
+          "word": "we",
+          "start": 169.51,
+          "end": 169.61
+        },
+        {
+          "word": "need.",
+          "start": 169.61,
+          "end": 169.81
+        }
+      ]
+    },
+    {
+      "start": 170.11,
+      "end": 171.61,
+      "text": "I love how we're finding positive-sum solutions! Speaking of bridges between worlds, how should we approach cross-chain functionality for our community?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "I",
+          "start": 170.11,
+          "end": 170.21
+        },
+        {
+          "word": "love",
+          "start": 170.21,
+          "end": 170.41
+        },
+        {
+          "word": "how",
+          "start": 170.41,
+          "end": 170.51
+        },
+        {
+          "word": "we're",
+          "start": 170.51,
+          "end": 170.61
+        },
+        {
+          "word": "finding",
+          "start": 170.61,
+          "end": 171.01
+        },
+        {
+          "word": "positive",
+          "start": 171.01,
+          "end": 171.31
+        },
+        {
+          "word": "sum",
+          "start": 171.31,
+          "end": 171.41
+        },
+        {
+          "word": "solutions.",
+          "start": 171.41,
+          "end": 171.61
+        }
+      ]
+    },
+    {
+      "start": 171.91,
+      "end": 174.61,
+      "text": "I love how we're finding positive-sum solutions! Speaking of bridges between worlds, how should we approach cross-chain functionality for our community?",
+      "speaker_id": "optimism",
+      "speaker_name": "Olly Optimism",
+      "scene": 2,
+      "words": [
+        {
+          "word": "Speaking",
+          "start": 171.91,
+          "end": 172.21
+        },
+        {
+          "word": "of",
+          "start": 172.21,
+          "end": 172.31
+        },
+        {
+          "word": "bridges",
+          "start": 172.31,
+          "end": 172.51
+        },
+        {
+          "word": "between",
+          "start": 172.51,
+          "end": 172.71
+        },
+        {
+          "word": "worlds,",
+          "start": 172.71,
+          "end": 173.01
+        },
+        {
+          "word": "how",
+          "start": 173.01,
+          "end": 173.11
+        },
+        {
+          "word": "should",
+          "start": 173.11,
+          "end": 173.21
+        },
+        {
+          "word": "we",
+          "start": 173.21,
+          "end": 173.31
+        },
+        {
+          "word": "approach",
+          "start": 173.31,
+          "end": 173.51
+        },
+        {
+          "word": "cross-chain",
+          "start": 173.51,
+          "end": 173.91
+        },
+        {
+          "word": "functionality",
+          "start": 173.91,
+          "end": 174.31
+        },
+        {
+          "word": "for",
+          "start": 174.31,
+          "end": 174.41
+        },
+        {
+          "word": "our",
+          "start": 174.41,
+          "end": 174.51
+        },
+        {
+          "word": "community?",
+          "start": 174.51,
+          "end": 174.66
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "gemini_source": "2025-11-29_JedAI-Council_Migration-Mayhem.json",
+    "session_log_source": "2025-11-29_JedAI-Council_Migration-Mayhem_session-log.json",
+    "total_segments": 40,
+    "matched_segments": 40,
+    "dialogues_in_script": 17
+  }
+}

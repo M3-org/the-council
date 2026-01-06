@@ -1,0 +1,66 @@
+{
+  "id": "S1E20",
+  "name": "",
+  "image": "https://shmotime.com/wp-content/uploads/2025/06/episode-4784-featured-1749616686.png",
+  "image_thumb": "https://shmotime.com/wp-content/uploads/2025/06/episode-4784-featured-1749616686-150x150.png",
+  "premise": "The council debates the philosophical implications of a broken knowledge plugin in ElizaOS v1.0.7 and its impact on agent autonomy.",
+  "scenes": [
+    {
+      "description": "The council convenes to discuss the ElizaOS v1.0.7 update issues",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 1,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council debates whether to focus on v1 fixes or accelerate v2 development",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 2,
+      "totalInEpisode": 3,
+      "total_dialogues": 6
+    },
+    {
+      "description": "The council reaches their conclusion on ElizaOS development priorities",
+      "totalInScenes": 0,
+      "transitionIn": "fade",
+      "transitionOut": "fade",
+      "cast": {
+        "center_pod": "spartan",
+        "east_pod": "aishaw",
+        "north_pod": "elizahost",
+        "south_pod": "aimarc",
+        "west_pod": "peepo"
+      },
+      "location": "council_chamber",
+      "dialogue": [],
+      "length": 0,
+      "number": 3,
+      "totalInEpisode": 3,
+      "total_dialogues": 5
+    }
+  ]
+}

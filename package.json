@@ -8,7 +8,7 @@
     "upload": "python scripts/upload_to_youtube.py"
   },
   "dependencies": {
-    "puppeteer-stream": "^3.0.22"
+    "puppeteer-stream": "^3.0.23"
   },
   "keywords": [
     "recording",
